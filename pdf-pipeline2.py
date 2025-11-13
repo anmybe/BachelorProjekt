@@ -18,9 +18,9 @@ from pathlib import Path
 from bs4 import BeautifulSoup
 
 # ==== EINSTELLUNGEN ====
-SEARCH_TERM = '(measur* OR determin* OR monitor* OR quantitativ*) AND health* AND blood AND humans[MeSH Terms] AND ("sports medicine" OR "regenerative medicine" OR "athletic performance" OR "exercise physiology" OR training OR athletics OR "sports injury" OR "sports nutrition" OR "musculoskeletal health") AND (biomarker* OR "blood analysis" OR "blood testing" OR "blood parameters")'
+SEARCH_TERM = '(measur* OR determin* OR monitor* OR quantitativ*) AND health* AND blood AND humans[MeSH Terms] AND ("sports medicine" OR "regenerative medicine" OR "athletic performance" OR "exercise physiology" OR training OR athletics OR "sports injury" OR "sports nutrition" OR "musculoskeletal health") AND (biomarker* OR "blood analysis" OR "blood testing" OR "blood parameters") AND (overtraining OR"muscle damage" OR inflamation OR regenerat* OR recovery OR "anabolic response") AND (antibod* OR "antibody-antigen binding" OR "antibody-antigen reaction")'
 MAX_RESULTS = 10000            # API-Limit ggf. erhöhen
-SAVE_DIR = Path.home() / "Programming" / "BP" / "pmc_texts"
+SAVE_DIR = Path.home() / "Programming" / "BP" / "pmc_texts_klein"
 SAVE_DIR.mkdir(parents=True, exist_ok=True)
 
 # ==== 1. PubMed Query -> PMIDs ====
