@@ -1,0 +1,83 @@
+[
+  {
+    "title": "Elevated serum interferon-\u03b12 associates with activity and flare risk in juvenile-onset systemic lupus erythematosus",
+    "document_source_id": "PMC7617100",
+    "analysis_date": "2025-11-13",
+    "extracted_data": {
+      "core_effect_and_quantification": [
+        {
+          "biomarker_name": "IFN-\u03b12",
+          "activity_context": "jSLE active/intermediate disease activity vs. Low Disease Activity State (LDAS)",
+          "direction_of_change": "Increased",
+          "magnitude_quantification": "Median 3185 fg/ml (active/intermediate) vs. 571 fg/ml (LDAS), P = 0.04"
+        },
+        {
+          "biomarker_name": "IFN-\u03b12",
+          "activity_context": "jSLE active/intermediate disease activity vs. remission sub-group",
+          "direction_of_change": "Increased",
+          "magnitude_quantification": "Median 3185 fg/ml (active/intermediate) vs. 271 fg/ml (remission), P < 0.001"
+        },
+        {
+          "biomarker_name": "IFN-\u03b12",
+          "activity_context": "All jSLE patients vs. Juvenile Idiopathic Arthritis (JIA) patients",
+          "direction_of_change": "Increased",
+          "magnitude_quantification": "Median 587 fg/ml (jSLE) vs. 7 fg/ml (JIA), P = 0.0017"
+        },
+        {
+          "biomarker_name": "IFN-\u03b12",
+          "activity_context": "All jSLE patients vs. Healthy Controls (HCs)",
+          "direction_of_change": "Increased",
+          "magnitude_quantification": "Median 587 fg/ml (jSLE) vs. 29 fg/ml (HCs), P = 0.017"
+        },
+        {
+          "biomarker_name": "IFN-\u03b12",
+          "activity_context": "jSLE patients in remission or LDAS with abnormal IFN-\u03b12 levels (predicting time to flare within 6 months)",
+          "direction_of_change": "Shorter time to flare",
+          "magnitude_quantification": "Median 91 days to flare (abnormal IFN-\u03b12) vs. 128 days (normal IFN-\u03b12), P = 0.022 (cross-sectional). Hazard Ratio 2.1 (95% CI 1.0\u20134.2, P = 0.041) (longitudinal)."
+        },
+        {
+          "biomarker_name": "IFN-\u03b12",
+          "activity_context": "Detecting an ongoing disease flare in jSLE",
+          "direction_of_change": "Increased (abnormal IFN-\u03b12)",
+          "magnitude_quantification": "Odds Ratio 3.84 (95% CI 1.15\u201312.80), P = 0.028 (multivariable longitudinal analysis)"
+        },
+        {
+          "biomarker_name": "IFN-\u03b12",
+          "activity_context": "Predicting subsequent disease flares in jSLE (univariable analysis)",
+          "direction_of_change": "Increased (abnormal IFN-\u03b12)",
+          "magnitude_quantification": "Odds Ratio 2.57 (95% CI 1.02\u20136.46), P = 0.045"
+        }
+      ],
+      "molecular_mechanism_and_relationship": {
+        "activity_type_context": "Juvenile Systemic Lupus Erythematosus (jSLE) disease activity and flare occurrence",
+        "mechanism_description": "Elevated IFN-\u03b12 levels in jSLE are linked to its established role in SLE pathogenesis. This involves a complex interplay of genetic contributors (e.g., variants affecting cytoplasmic nucleic acid clearance or enhancing cytoplasmic acid sensor activation) and immune responses to tissue damage (e.g., infections, ultraviolet radiation, mechanical stress). These stimuli lead to accumulation of cellular debris and nuclear material, activating TLR3/7 pathways, and ultimately driving IFN production. Increased genetic burden in pediatric populations may contribute to more pronounced IFN expression and a more severe clinical phenotype in jSLE.",
+        "related_biomarkers": [
+          "IFN-\u03b12",
+          "Type I IFN (Interferon) signaling",
+          "TLR3/7 pathways",
+          "Janus kinase (JAK)",
+          "Anti-dsDNA antibodies",
+          "Complement component 3 (C3)",
+          "Erythrocyte Sedimentation Rate (ESR)",
+          "IFN signatures (ISG score)",
+          "CXCL10",
+          "Galectin-9",
+          "TNF-\u03b1"
+        ]
+      },
+      "dose_intensity_and_specificity": {
+        "dose_comparison_summary": "IFN-\u03b12 levels showed a clear relationship with disease activity intensity: higher levels (median 3185 fg/ml) were observed in active/intermediate jSLE compared to LDAS (571 fg/ml, P=0.04) and remission (271 fg/ml, P<0.001), indicating a 'dose-response' effect with disease severity. No significant association was found between IFN-\u03b12 levels and prednisolone treatment dosage, suggesting limited influence of glucocorticoids on the type I IFN pathway.",
+        "specificity_finding": "IFN-\u03b12 levels were significantly higher in jSLE patients compared to JIA patients and Healthy Controls, indicating specificity to jSLE rather than general inflammation. Ethnically, patients of Black African/Caribbean descent showed higher median serum IFN-\u03b12 levels (1326 fg/ml) compared to White individuals (134 fg/ml, P=0.028), regardless of disease activity, suggesting ethnic specificity. No significant differences were found based on sex. IFN-\u03b12 was the only biomarker among those tested (including anti-dsDNA antibodies, C3, and ESR) that significantly predicted an ongoing flare in multivariable longitudinal analysis."
+      },
+      "clinical_implication_and_population": {
+        "target_population": "Juvenile Systemic Lupus Erythematosus (jSLE) patients",
+        "health_implication": "Quantification of serum IFN-\u03b12 levels is associated with disease activity and can predict ongoing and future flares in jSLE. Elevated IFN-\u03b12 levels are indicative of higher disease activity and a significantly shorter time to disease flares (within 6 months), suggesting its utility for risk stratification and disease monitoring in this patient group.",
+        "risk_classification": "Adverse risk. Higher IFN-\u03b12 levels signify increased disease activity and a heightened risk of experiencing disease flares, which represents an adverse health outcome for jSLE patients."
+      },
+      "biomarker_reliability_and_future_focus": {
+        "reliability_assessment": "The Simoa digital immunoassay for IFN-\u03b12 is characterized by high sensitivity, specificity, and cost-effectiveness for large-scale studies. However, limitations include relatively high variation in 23% of experimental duplicates, especially near the lower limit of detection. Potential interference from anti-IFN-\u03b12 auto-antibodies (present in up to a quarter of SLE patients), issues with antibody specificity, cross-reactivity, standardization, and dynamic range limitations were also noted. The authors conclude that 'additional work is required to further improve IFN-\u03b12 quantification prior to its introduction into clinical practice'.",
+        "recommended_alternatives": []
+      }
+    }
+  }
+]

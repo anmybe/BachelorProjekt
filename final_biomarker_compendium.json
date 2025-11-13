@@ -1,0 +1,50 @@
+[
+  {
+    "biomarker_name": "IFN-\\u03b12",
+    "overall_summary": "IFN-\\u03b12 is a crucial Type I interferon biomarker specifically associated with Juvenile Systemic Lupus Erythematosus (jSLE). Its elevated levels are indicative of active disease, predict ongoing and future disease flares, and help differentiate jSLE from other inflammatory conditions, making it a valuable marker for jSLE disease monitoring and risk stratification.",
+    "findings_by_activity": [
+      {
+        "source_document_id": "PMC7617100",
+        "activity_context": "jSLE active/intermediate disease activity vs. Low Disease Activity State (LDAS)",
+        "effect_and_magnitude": "Increased; Median 3185 fg/ml (active/intermediate) vs. 571 fg/ml (LDAS), P = 0.04",
+        "clinical_implication": "Associated with higher disease activity in jSLE patients, serving as a marker for disease severity."
+      },
+      {
+        "source_document_id": "PMC7617100",
+        "activity_context": "jSLE active/intermediate disease activity vs. remission sub-group",
+        "effect_and_magnitude": "Increased; Median 3185 fg/ml (active/intermediate) vs. 271 fg/ml (remission), P < 0.001",
+        "clinical_implication": "Indicative of active disease status compared to remission, highlighting its utility in monitoring disease progression."
+      },
+      {
+        "source_document_id": "PMC7617100",
+        "activity_context": "All jSLE patients vs. Juvenile Idiopathic Arthritis (JIA) patients",
+        "effect_and_magnitude": "Increased; Median 587 fg/ml (jSLE) vs. 7 fg/ml (JIA), P = 0.0017",
+        "clinical_implication": "Suggests specificity to jSLE, aiding in differentiation from other inflammatory conditions like JIA."
+      },
+      {
+        "source_document_id": "PMC7617100",
+        "activity_context": "All jSLE patients vs. Healthy Controls (HCs)",
+        "effect_and_magnitude": "Increased; Median 587 fg/ml (jSLE) vs. 29 fg/ml (HCs), P = 0.017",
+        "clinical_implication": "Elevated in jSLE patients compared to healthy individuals, indicating the presence of disease."
+      },
+      {
+        "source_document_id": "PMC7617100",
+        "activity_context": "jSLE patients in remission or LDAS with abnormal IFN-\\u03b12 levels (predicting time to flare within 6 months)",
+        "effect_and_magnitude": "Shorter time to flare; Median 91 days to flare (abnormal IFN-\\u03b12) vs. 128 days (normal IFN-\\u03b12), P = 0.022 (cross-sectional). Hazard Ratio 2.1 (95% CI 1.0\\u20134.2, P = 0.041) (longitudinal).",
+        "clinical_implication": "Predicts a significantly shorter time to disease flares, indicating a heightened risk for future adverse events and guiding patient management."
+      },
+      {
+        "source_document_id": "PMC7617100",
+        "activity_context": "Detecting an ongoing disease flare in jSLE",
+        "effect_and_magnitude": "Increased (abnormal IFN-\\u03b12); Odds Ratio 3.84 (95% CI 1.15\\u201312.80), P = 0.028 (multivariable longitudinal analysis)",
+        "clinical_implication": "Indicates the presence of an ongoing disease flare, useful for real-time assessment and intervention."
+      },
+      {
+        "source_document_id": "PMC7617100",
+        "activity_context": "Predicting subsequent disease flares in jSLE (univariable analysis)",
+        "effect_and_magnitude": "Increased (abnormal IFN-\\u03b12); Odds Ratio 2.57 (95% CI 1.02\\u20136.46), P = 0.045",
+        "clinical_implication": "Serves as a prognostic marker for future disease flares, supporting risk stratification and proactive clinical decisions for jSLE patients."
+      }
+    ]
+  }
+]

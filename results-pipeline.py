@@ -10,7 +10,8 @@ MOCK_MODE = False
 
 # Folder where your chunked text files reside
 CHUNK_FOLDER = "xml_chunks"
-API_KEY = "AIzaSyCoTjmHS7ugwRiVG4j_fvuBG8HpdS6QG8Y"
+OUTPUT_DIR_PHASE1 = "phase1_results" 
+API_KEY = "AIzaSyBJ71KAiR9A791vIIp3P7ty_9GpTL011dk"
 API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key={API_KEY}"
 
 # The structured output schema definition (required for both real API and mocking structure validation)
@@ -110,7 +111,7 @@ def build_user_query(document_id: str, chunk_content: str) -> str:
     """
     return integrated_query.format(doc_id=document_id, content=chunk_content)
 
-# --- NEW CHUNK LOADER FUNCTION ---
+# --- CHUNK LOADER FUNCTION ---
 
 def load_and_combine_chunks():
     """
@@ -129,7 +130,6 @@ def load_and_combine_chunks():
         if filename.endswith('.txt'):
             parts = filename.split('_')
             
-            # Assuming the format is DOCID_section.txt (e.g., PMC7617100_results.txt)
             if len(parts) >= 2:
                 doc_id = parts[0]
                 section = parts[-1].replace('.txt', '').lower()
@@ -141,7 +141,6 @@ def load_and_combine_chunks():
                         'methods': None, 
                         'results': None, 
                         'discussion': None, 
-                        'path_prefix': parts[0]
                     }
 
                 if 'results' in section:
@@ -166,19 +165,19 @@ def load_and_combine_chunks():
                 title_content = f"Document ID: {doc_id}"
                 if files['title']:
                      with open(os.path.join(CHUNK_FOLDER, files['title']), 'r', encoding='utf-8') as f:
-                        title_content = f.read().strip()
+                        # Liest nur die erste Zeile oder entfernt unnötigen Whitespace
+                        title_content = f.read().strip().split('\n')[0] 
                 
-                # Load content from all sections (using defaults for missing files)
+                # Load content from all sections
                 content_parts = {}
                 sections_to_load = ['abstract', 'methods', 'results', 'discussion']
                 
                 for section in sections_to_load:
                     filename = files.get(section)
+                    content = f"[No {section.upper()} content available]"
                     if filename:
                         with open(os.path.join(CHUNK_FOLDER, filename), 'r', encoding='utf-8') as f:
                             content = f.read()
-                    else:
-                        content = f"[No {section.upper()} content available]"
                     content_parts[section] = content
 
                 # Combine all sections with clear delimiters
@@ -291,6 +290,11 @@ def call_gemini_api(document_id: str, chunk_content: str):
 def main():
     """Main function to iterate over documents and process chunks."""
     
+    # NEU: Sicherstellen, dass der Ausgabeordner existiert
+    if not os.path.exists(OUTPUT_DIR_PHASE1):
+        os.makedirs(OUTPUT_DIR_PHASE1)
+        print(f"Created output directory: '{OUTPUT_DIR_PHASE1}'")
+
     # Use the new loader function to get the data structure
     simulated_chunks = load_and_combine_chunks()
     if not simulated_chunks:
@@ -300,7 +304,7 @@ def main():
     # Select the appropriate processing function
     process_func = mock_call_gemini_api if MOCK_MODE else call_gemini_api 
 
-    all_results = []
+    success_count = 0
     
     for doc_id, data in simulated_chunks.items():
         print(f"\n--- Processing Document ID: {doc_id} (Title: {data['title']}) ---")
@@ -309,22 +313,23 @@ def main():
         analysis_result = process_func(doc_id, data['content'])
         
         if "error" not in analysis_result:
-            # Fill in the dynamic fields required by the final JSON schema
-            # We overwrite the mock title/id with the loaded values for consistency
+            # Füllen der dynamischen Felder
             analysis_result['document_source_id'] = doc_id
             analysis_result['analysis_date'] = datetime.now().strftime("%Y-%m-%d")
             analysis_result['title'] = data['title']
-            all_results.append(analysis_result)
-            print(f"Successfully analyzed {doc_id}.")
+            
+            # SPEICHERN PRO DOKUMENT IN DEN NEUEN ORNDER
+            output_filename = os.path.join(OUTPUT_DIR_PHASE1, f"{doc_id}_analysis.json")
+            with open(output_filename, "w", encoding='utf-8') as f:
+                # Speichert das Ergebnis als Array, da Phase 2 ein Array erwartet
+                json.dump([analysis_result], f, indent=2) 
+            
+            print(f"Successfully analyzed and saved to '{output_filename}'.")
+            success_count += 1
         else:
             print(f"Failed analysis for {doc_id}: {analysis_result['error']}")
 
-    # Save the consolidated JSON to a file for your pipeline
-    output_filename = "consolidated_biomarker_results.json"
-    with open(output_filename, "w", encoding='utf-8') as f:
-        json.dump(all_results, f, indent=2)
-    
-    print(f"\nConsolidated JSON saved to '{output_filename}'.")
+    print(f"\nPhase 1 completed. Successfully processed {success_count} documents.")
 
 
 if __name__ == "__main__":
