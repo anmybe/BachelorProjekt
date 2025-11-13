@@ -1,0 +1,805 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="all16275" xml:lang="en" article-type="research-article"><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jats-oasis2jats3.xsl?><?ConverterInfo.Version 1?><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Allergy</journal-id><journal-id journal-id-type="iso-abbrev">Allergy</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1398-9995</journal-id><journal-id journal-id-type="publisher-id">ALL</journal-id><journal-title-group><journal-title>Allergy</journal-title></journal-title-group><issn pub-type="ppub">0105-4538</issn><issn pub-type="epub">1398-9995</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmcid">11657037</article-id><article-id pub-id-type="pmid">39157867</article-id>
+<article-id pub-id-type="doi">10.1111/all.16275</article-id><article-id pub-id-type="publisher-id">ALL16275</article-id><article-id pub-id-type="other">ALL-2024-00252.R1</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>ORIGINAL ARTICLE</subject><subj-group subj-group-type="heading"><subject>Food Allergy and Gastrointestinal Disease</subject></subj-group></subj-group></article-categories><title-group><article-title>Biomarkers for a less invasive strategy to predict children with eosinophilic esophagitis</article-title><alt-title alt-title-type="left-running-head">Thulin et&#x000a0;al.</alt-title></title-group><contrib-group><contrib id="all16275-cr-0001" contrib-type="author"><name><surname>Thulin</surname><given-names>Helena</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-6535-0736</contrib-id><xref rid="all16275-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="all16275-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="all16275-cr-0002" contrib-type="author"><name><surname>Mansouri</surname><given-names>Ladan</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-9684-3798</contrib-id><xref rid="all16275-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="all16275-cr-0003" contrib-type="author"><name><surname>Altman</surname><given-names>Maria</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-8316-0154</contrib-id><xref rid="all16275-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="all16275-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="all16275-cr-0004" contrib-type="author"><name><surname>Merid</surname><given-names>Simon Kebede</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-5974-7676</contrib-id><xref rid="all16275-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="all16275-cr-0005" contrib-type="author"><name><surname>Lundahl</surname><given-names>Joachim</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3799-4163</contrib-id><xref rid="all16275-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="all16275-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="all16275-cr-0006" contrib-type="author"><name><surname>Nilsson</surname><given-names>Caroline</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2040-8428</contrib-id><xref rid="all16275-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="all16275-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="all16275-cr-0007" contrib-type="author" corresp="yes"><name><surname>S&#x000e4;fholm</surname><given-names>Jesper</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1922-8104</contrib-id><xref rid="all16275-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref><xref rid="all16275-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref><address><email>jesper.safholm@ki.se</email></address></contrib></contrib-group><aff id="all16275-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Clinical Science and Education, South Hospital</named-content>
+<institution>Karolinska Institutet</institution>
+<city>Stockholm</city>
+<country country="SE">Sweden</country>
+</aff><aff id="all16275-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Astrid Lindgren Children's Hospital</named-content>
+<institution>Karolinska University Hospital</institution>
+<city>Stockholm</city>
+<country country="SE">Sweden</country>
+</aff><aff id="all16275-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Clinical Epidemiology Division, Department of Medicine Solna</named-content>
+<institution>Karolinska University Hospital, Karolinska Institutet</institution>
+<city>Stockholm</city>
+<country country="SE">Sweden</country>
+</aff><aff id="all16275-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Department of Medical Diagnostics</named-content>
+<institution>Karolinska University Hospital</institution>
+<city>Stockholm</city>
+<country country="SE">Sweden</country>
+</aff><aff id="all16275-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Sachs Children and Youth Hospital</named-content>
+<institution>South Hospital</institution>
+<city>Stockholm</city>
+<country country="SE">Sweden</country>
+</aff><aff id="all16275-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Unit of Integrative Metabolomics, Institute of Environmental Medicine</named-content>
+<institution>Karolinska Institutet</institution>
+<city>Stockholm</city>
+<country country="SE">Sweden</country>
+</aff><aff id="all16275-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">Department of Respiratory Medicine and Allergy</named-content>
+<institution>Karolinska University Hospital</institution>
+<city>Stockholm</city>
+<country country="SE">Sweden</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>
+Jesper S&#x000e4;fholm, Unit of Integrative Metabolomics, Institute of Environmental Medicine, Karolinska Institutet, floor 7, quarter A, Stockholm 17177, Sweden.<break/>
+Email: <email>jesper.safholm@ki.se</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>19</day><month>8</month><year>2024</year></pub-date><pub-date pub-type="ppub"><month>12</month><year>2024</year></pub-date><volume>79</volume><issue seq="200">12</issue><issue-id pub-id-type="doi">10.1111/all.v79.12</issue-id><fpage>3464</fpage><lpage>3474</lpage><history>
+<date date-type="rev-recd"><day>31</day><month>5</month><year>2024</year></date>
+<date date-type="received"><day>02</day><month>3</month><year>2024</year></date>
+<date date-type="accepted"><day>03</day><month>7</month><year>2024</year></date>
+</history><permissions><!--Copyright &#x000a9; 2024 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd--><copyright-statement content-type="article-copyright">&#x000a9; 2024 The Author(s). <italic toggle="yes">Allergy</italic> published by European Academy of Allergy and Clinical Immunology and John Wiley &#x00026; Sons Ltd.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ALL-79-3464.pdf"/><abstract><title>Abstract</title><sec id="all16275-sec-0001"><title>Background</title><p>Noninvasive biomarkers for diagnosing and monitoring eosinophilic esophagitis (EoE) are currently lacking. This study evaluates 20 biomarkers in serum and saliva, aiming to assess their diagnostic potential in pediatric EoE patients and healthy individuals.</p></sec><sec id="all16275-sec-0002"><title>Methods</title><p>Blood and saliva from children undergoing upper endoscopy were analyzed for biomarkers, including absolute eosinophil count (AEC), eosinophil&#x02010;derived neurotoxin (EDN), total and specific IgG<sub>4</sub>&#x02010;antibodies (sIgG<sub>4</sub>), specific IgE&#x02010;antibodies (sIgE) and 15&#x02010;hydroxyeicosatetraenoic acid (15(S)&#x02010;HETE). Some patients participated twice, forming a longitudinal cohort. The ability to use the biomarkers to predict the EoE diagnosis was evaluated.</p></sec><sec id="all16275-sec-0003"><title>Results</title><p>Analysis from 105 children divided into active EoE, remission, and healthy, revealed elevated levels of serum biomarkers (AEC, EDN, 15(S)&#x02010;HETE, sIgG<sub>4</sub>, and sIgE) in active EoE compared to healthy individuals. A combination of biomarkers (AEC, EDN, sIgE to egg white and wheat) and symptoms showed an AUC of 0.92 in distinguishing between the three groups. We further showed that optimal cutoff values for these biomarkers could discriminate between active EoE and healthy with a sensitivity of 88% and a specificity of 100% in distinguishing EoE (active and in remission) from healthy. Longitudinally, levels of EDN, sIgG<sub>4</sub> to Bos d 4, Bos d 5, Bos d 8, gliadin, and birch, and sIgE to milk decreased in patients progressing from active EoE to remission (<italic toggle="no">p</italic>&#x02009;&#x0003c;.05).</p></sec><sec id="all16275-sec-0004"><title>Conclusions</title><p>This study identified novel biomarkers associated with EoE and proposes a panel, together with symptoms, for effective discrimination between active EoE, EoE in remission, and healthy individuals. The findings may contribute to a less invasive diagnostic method and may be a potential surveillance tool for pediatric EoE patients.</p></sec></abstract><abstract abstract-type="graphical"><p>This study evaluates 20 biomarkers in serum and saliva, aiming to assess their diagnostic potential in pediatric EoE patients and healthy individuals. We identified serum biomarkers associated with EoE: AEC, EDN, 15(S)&#x02010;HETE, sIgG4, and sIgE. Symptoms along with elevated levels of AEC, sIgE to egg white/wheat, differentiate between EoE status and healthy.Abbreviations: AEC, absolute eosinophil count; EDN, eosinophil&#x02010;derived neurotoxin; EoE, eosinophilic esophagitis; ROC, receiver operating characteristic; sIg, specific immunoglobulin; 15(S)&#x02010;HETE, 15&#x02010;hydroxyeicosatetraenoic acid.<boxed-text position="anchor" content-type="graphic" id="all16275-blkfxd-0001"><graphic xlink:href="ALL-79-3464-g004.jpg" position="anchor" id="jats-graphic-1"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="all16275-kwd-0001">15(S)&#x02010;HETE</kwd><kwd id="all16275-kwd-0002">cutoff values</kwd><kwd id="all16275-kwd-0003">IgE</kwd><kwd id="all16275-kwd-0004">IgG<sub>4</sub>
+</kwd><kwd id="all16275-kwd-0005">panel</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>Astma&#x02010; och Allergif&#x000f6;rbundet
+</institution><institution-id institution-id-type="doi">10.13039/501100010234</institution-id></institution-wrap></funding-source></award-group><award-group id="funding-0002"><funding-source>Mj&#x000f6;lkdroppen</funding-source></award-group><award-group id="funding-0003"><funding-source><institution-wrap><institution>Stiftelsen Lars Hiertas Minne
+</institution><institution-id institution-id-type="doi">10.13039/501100004722</institution-id></institution-wrap></funding-source></award-group><award-group id="funding-0004"><funding-source><institution-wrap><institution>Cayman Biomedical Research Institute
+</institution><institution-id institution-id-type="doi">10.13039/100020651</institution-id></institution-wrap></funding-source></award-group><award-group id="funding-0005"><funding-source>&#x000c5;ke Wibergs foundation</funding-source></award-group><award-group id="funding-0006"><funding-source>Magnus Bergvalls foundation</funding-source></award-group><award-group id="funding-0007"><funding-source><institution-wrap><institution>Hj&#x000e4;rt&#x02010;Lungfonden
+</institution><institution-id institution-id-type="doi">10.13039/501100003793</institution-id></institution-wrap></funding-source></award-group></funding-group><counts><fig-count count="4"/><table-count count="2"/><page-count count="11"/><word-count count="6300"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 2024</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.1 mode:remove_FC converted:19.12.2024</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="ALL16275-cit-2001">
+<string-name>
+<surname>Thulin</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Mansouri</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Altman</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Biomarkers for a less invasive strategy to predict children with eosinophilic esophagitis</article-title>. <source>Allergy</source>. <year>2024</year>;<volume>79</volume>:<fpage>3464</fpage>&#x02010;<lpage>3474</lpage>. doi:<pub-id pub-id-type="doi">10.1111/all.16275</pub-id>
+<pub-id pub-id-type="pmid">39157867</pub-id>
+</mixed-citation>
+</p><fn-group id="all16275-ntgp-0001"><fn fn-type="equal" id="all16275-note-0001"><p>Caroline Nilsson and Jesper S&#x000e4;fholm were co&#x02010;authors with equal contributions.</p></fn></fn-group></notes></front><body id="all16275-body-0001"><def-list list-content="abbreviations" id="all16275-dl-0001"><title>Abbreviations</title><def-item><term id="all16275-li-0001">15(S)&#x02010;HETE</term><def id="all16275-li-0002"><p>15&#x02010;Hydroxyeicosatetraenoic acid</p></def></def-item><def-item><term id="all16275-li-0003">AEC</term><def id="all16275-li-0004"><p>absolute eosinophil count in peripheral blood</p></def></def-item><def-item><term id="all16275-li-0005">ALOX15</term><def id="all16275-li-0006"><p>15&#x02010;lipoxygenase</p></def></def-item><def-item><term id="all16275-li-0007">AUC</term><def id="all16275-li-0008"><p>area under the curve</p></def></def-item><def-item><term id="all16275-li-0009">EDN</term><def id="all16275-li-0010"><p>Eosinophil&#x02010;derived neurotoxin</p></def></def-item><def-item><term id="all16275-li-0011">EGD</term><def id="all16275-li-0012"><p>esophagogastroduodenoscopy</p></def></def-item><def-item><term id="all16275-li-0013">EoE</term><def id="all16275-li-0014"><p>Eosinophilic esophagitis</p></def></def-item><def-item><term id="all16275-li-0015">eos</term><def id="all16275-li-0016"><p>eosinophils</p></def></def-item><def-item><term id="all16275-li-0017">hpf</term><def id="all16275-li-0018"><p>high power field</p></def></def-item><def-item><term id="all16275-li-0019">IgE&#x02010;ab</term><def id="all16275-li-0020"><p>IgE&#x02010;antibodies</p></def></def-item><def-item><term id="all16275-li-0021">IgG4&#x02010;ab</term><def id="all16275-li-0022"><p>IgG4&#x02010;antibodies</p></def></def-item><def-item><term id="all16275-li-0023">PAD</term><def id="all16275-li-0024"><p>pathological&#x02010;anatomical diagnosis</p></def></def-item><def-item><term id="all16275-li-0025">RF</term><def id="all16275-li-0026"><p>Random Forest</p></def></def-item><def-item><term id="all16275-li-0027">ROC</term><def id="all16275-li-0028"><p>receiver operating characteristic</p></def></def-item></def-list><sec id="all16275-sec-0005"><label>1</label><title>INTRODUCTION</title><p>Eosinophilic esophagitis (EoE) is a chronic type 2 (T2)&#x02010;inflammatory condition that affects the esophagus and can manifest in early childhood.<xref rid="all16275-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> It is distinguished by an abnormal accumulation of eosinophils in the esophageal lining, presenting a spectrum of symptoms including slow eating, dysphagia, and vomiting or nausea.<xref rid="all16275-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> Early diagnosis by histological analysis and appropriate management strategies, which often involve dietary modifications and/or medications, are essential to alleviate symptoms and prevent long&#x02010;term complications.<xref rid="all16275-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>
+</p><p>Today, the diagnosis, monitoring, and evaluation of treatments require repeated tissue biopsies of the esophagus. This is particularly challenging for children because they must undergo general anesthesia for an esophagogastroduodenoscopy (EGD). Thus, there is a great need for less invasive methods to diagnose and monitor EoE in pediatric patients.</p><p>Numerous efforts have been undertaken to identify a distinctive factor for predicting EoE, primarily focusing on peripheral blood. However, as of today, no specific predictive marker has been found. Eosinophil&#x02010;derived neurotoxin (EDN) and absolute eosinophil count (AEC) in peripheral blood are described as important markers in EoE<xref rid="all16275-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="all16275-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> but they cannot alone distinguish EoE from healthy individuals.<xref rid="all16275-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> Others have suggested an association between elevated levels of specific IgG<sub>4</sub> (sIgG<sub>4</sub>) and EoE<xref rid="all16275-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="all16275-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> and a recent study depicts that the S enantiomer of 15&#x02010;hydroxyeicosatetraenoic acid (15(S)&#x02010;HETE) is elevated in EoE,<xref rid="all16275-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> adding to the complexity. In addition, several studies lack comparable reference groups with atopic and/or allergic individuals<xref rid="all16275-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="all16275-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="all16275-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> making it difficult to predict the disease, as EoE has a high comorbidity with other immune&#x02010;driven diseases (e.g., asthma, food allergy and allergic rhinitis<xref rid="all16275-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>). Also, most studies only compare healthy individuals with active EoE, and do not take into consideration patients that are currently in remission.</p><p>Given the current lack of knowledge and the need for less invasive methods to diagnose and monitor EoE, we aimed to identify biomarkers associated with EoE in a large and well&#x02010;defined cohort of children. The specific aims were (i) to explore whether a panel of biomarkers, combined with symptoms, could distinguish between active EoE, EoE in remission, and healthy individuals, and (ii) to follow changes in biomarkers longitudinally.</p></sec><sec id="all16275-sec-0006"><label>2</label><title>METHODS &#x00026; MATERIALS</title><sec id="all16275-sec-0007"><label>2.1</label><title>Study participants</title><p>This cohort study with prospective data recruited children up to the age of 18&#x02009;years undergoing EGD due to suspected EoE, follow&#x02010;up of known EoE, or other upper gastroenterological issues. Some children repeatedly performed EGD. The participants were recruited at Sachs Children and Youth Hospital, Stockholm, between February 2019 and October 2021. All EGD examinations were performed under general anesthesia. From each patient, four to six biopsies were extracted from different locations of the esophagus as recommended by international guidelines<xref rid="all16275-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> and sent for regular pathologic&#x02010;anatomic diagnosis (PAD). Saliva and blood was collected prior to anesthesia and the collection occured between 8&#x02009;am to noon. All children were fasting according to routine, with no food for 6&#x02009;h and only clear liquids (water or juice, not milk) allowed up to 2&#x02009;h before the examination and then sample collections.</p><p>All patients responded to standardized questions (Appendix) regarding allergic, asthma, eczema, or other diseases as well as current medications. In addition, participants also answered whether they excluded anything from their diet.</p></sec><sec id="all16275-sec-0008"><label>2.2</label><title>Blood analyses</title><p>Venous blood were collected in vacutainer tubes (Becton, Dickinson, UK ref nr 368,498, 369,623 and 367,862). Analysis of peripheral AEC was performed the day of sampling at the Karolinska University Laboratory (Stockholm, Sweden). For analyses of other biomarkers, the tubes were left at room temperature (RT) for 60&#x02009;min, centrifuged at 900&#x02009;rpm at RT for 10&#x02009;min, whereafter serum and plasma were collected and stored at &#x02212;80&#x000b0;C pending further analyses. Samples were batch analyzed by ELISA using commercial kits according to manufacturer's instructions for: EDN (ImmunoCAP&#x02122; EDN Assay Kit, Article # 10&#x02013;9545&#x02010;05, Thermo Fisher Scientific, Uppsala, Sweden) (measuring range; 2&#x02013;200&#x02009;&#x003bc;g/mL), 15(S)&#x02010;HETE ELISA kit (Catalog # 534721, Cayman Chem, Ann Arbor, MI, USA) (detection limit (range); 78&#x02009;pg/mL (78&#x02013;10,000&#x02009;pg/mL)). Specific IgE&#x02010;antibodies (sIgE&#x02010;ab) specific for milk, egg white, wheat, birch pollen, and timothy pollen were measured by ImmunoCap&#x000ae; (Thermo Fisher Scientific, levels &#x0003e;0.1 kU<sub>A</sub>/l were considered positive). IgG<sub>4</sub>&#x02010;antibodies (IgG<sub>4</sub>&#x02010;ab) specific for peanut (peanut&#x02010;extract and Ara h 2), milk proteins (Bos d 8, Bos d 5, Bos d 4), egg white, soy, birch pollen, and gliadin from wheat were measured by ImmunoCAP sIgG<sub>4</sub> (Thermo Fisher Scientific, levels &#x0003e;0.07&#x02009;mg/L were considered positive). Total IgG<sub>4</sub> (tIgG<sub>4</sub>) was measured using research modification of the ImmunoCap assay as for IgG<sub>4</sub>&#x02010;ab with the difference that the ImmunoCAP IgA/IgG Calibrator tests (AGcal) were able to bind all immunoglobulins were used instead of specific allergen tests.</p></sec><sec id="all16275-sec-0009"><label>2.3</label><title>Saliva analyses</title><p>The patients provided saliva samples before anesthesia by holding a synthetic swab in the mouth until it was soaked with saliva, which took approximately 1&#x02009;min and contained between 0.37&#x02013;2&#x02009;mL. The swab was then placed in a saliva tube (Salivette, Sarstedt, ref nr. 1,534,500) and centrifuged at 3000&#x02009;rpm, at RT for 5&#x02009;min, and stored at &#x02212;80&#x000b0;C pending analyses. For analysis of 15(S)&#x02010;HETE and tIgG<sub>4</sub> in saliva, the same procedure and manufacturers instructions as for serum were used.</p></sec><sec id="all16275-sec-0010"><label>2.4</label><title>Ethical approval</title><p>The study was approved by the Regional Ethical Review Board of Stockholm (D&#x02010;nr 2017/744&#x02013;31). Informed written consent was obtained from patients. For children less than 15&#x02009;years of age, both guardians gave approval before inclusion in the study.</p></sec><sec id="all16275-sec-0011"><label>2.5</label><title>Statistics</title><p>Demographic information and baseline characteristics are presented as numbers and percentages. Comparisons among the groups, active EoE, EoE in remission and healthy individuals, were conducted using ANOVA, Pearson's Chi&#x02010;squared test, and Kruskal&#x02010;Wallis rank sum test when applicable. The association between EoE groups (active vs. healthy, active vs. remission) and biomarkers was assessed through multinomial logistic regression. The selection of adjusted covariates was based on principal component regression (Figure&#x000a0;<xref rid="all16275-supitem-0001" ref-type="supplementary-material">S1</xref>).</p><p>Random Forest (RF) models were constructed to evaluate the predictive performance of all biomarkers in distinguishing between the patient groups. RF function, available in the R package randomForest, was employed with the generation of 10,000 trees. Receiver operating characteristic (ROC) analysis, allowing for the calculation of the area under the curve (AUC), was performed based on RF modeling. Cutoff value for each parameter was based on the threshold level in RF when the sum of sensitivity and specificity was the largest. For longitudinal data, the Wilcoxon matched&#x02010;pairs signed&#x02010;rank test was employed. Statistical significance was defined as a <italic toggle="yes">p</italic>&#x02010;value &#x0003c;.05. The analyses were performed using GraphPad Prism version 10.1.0 (GraphPad Software, San Diego, California, USA) and R version 4.3.1.</p></sec></sec><sec sec-type="results" id="all16275-sec-0012"><label>3</label><title>RESULTS</title><sec id="all16275-sec-0013"><label>3.1</label><title>Patient characteristics</title><p>A total of 162 children agreed to participate in the study. Of those, 26 were excluded due to celiac disease (<italic toggle="yes">n</italic>&#x02009;=&#x02009;23), helicobacter associated disease (<italic toggle="yes">n</italic>&#x02009;=&#x02009;2), and achalasia (<italic toggle="yes">n</italic>&#x02009;=&#x02009;1). A total of 31 children were diagnosed with reflux esophagitis. The median age at inclusion for the remaining 105 participants was 12.7&#x02009;years (2.4&#x02013;17.9). The patients were divided into groups according to diagnosis by pathologists.
+<list list-type="bullet" id="all16275-list-0001"><list-item id="all16275-li-0029"><p>Active EoE, <italic toggle="yes">N</italic>&#x02009;=&#x02009;34. Children diagnosed by standard criteria<xref rid="all16275-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="all16275-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> &#x02265;15 eosinophils per high power field (hpf) on at least one esophageal biopsy and accompanying esophageal symptoms.</p></list-item><list-item id="all16275-li-0030"><p>EoE in remission, <italic toggle="yes">N</italic>&#x02009;=&#x02009;18. Children with a previous EoE diagnosis whose current biopsies had less than 15 eosinophils/hpf.</p></list-item><list-item id="all16275-li-0031"><p>Healthy, <italic toggle="yes">N</italic>&#x02009;=&#x02009;53. Children with normal histopathology in esophagus, stomach, and duodenum.</p></list-item></list>
+</p><p>Age and BMI were similar between patients in all three groups. Male sex dominated both the active EoE and EoE in remission compared to the healthy group (<italic toggle="yes">p</italic>&#x02009;&#x0003c;.05). The medical history showed a higher proportion of children in the EoE remission group eliminating milk from their diet compared to EoE active and healthy children (<italic toggle="yes">p</italic>&#x02009;&#x0003c;.05). No differences were reported for asthma, eczema or allergy to furred pets between the groups, however children with EoE, both active and in remission, were more likely to have food and pollen allergies compared to healthy children (<italic toggle="yes">p</italic>&#x02009;&#x0003c;.05) (Table&#x000a0;<xref rid="all16275-tbl-0001" ref-type="table">1</xref>).</p><table-wrap position="float" id="all16275-tbl-0001" content-type="TABLE"><label>TABLE 1</label><caption><p>Characteristics of children in the groups EoE active, EoE in remission, and in healthy, at the first visit.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Characteristics at first visit</th><th align="left" valign="bottom" rowspan="1" colspan="1">EoE active, <italic toggle="yes">n</italic>&#x02009;=&#x02009;34</th><th align="left" valign="bottom" rowspan="1" colspan="1">EoE in remission, <italic toggle="yes">n</italic>&#x02009;=&#x02009;18</th><th align="left" valign="bottom" rowspan="1" colspan="1">Healthy, <italic toggle="yes">n</italic>&#x02009;=&#x02009;53</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>&#x02010;value</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Age (y), mean (SD)</td><td align="left" valign="top" rowspan="1" colspan="1">11.8 (4.2)</td><td align="left" valign="top" rowspan="1" colspan="1">12.4 (4.6)</td><td align="left" valign="top" rowspan="1" colspan="1">12.7 (4.8)</td><td align="left" valign="top" rowspan="1" colspan="1">.675</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Male sex, no. (%)</td><td align="left" valign="top" rowspan="1" colspan="1">26 (76.5)</td><td align="left" valign="top" rowspan="1" colspan="1">16 (88.9)</td><td align="left" valign="top" rowspan="1" colspan="1">24 (45.3)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;.05<xref rid="all16275-note-0004" ref-type="table-fn">
+<sup>
+b
+</sup>
+</xref>, <xref rid="all16275-note-0005" ref-type="table-fn">
+<sup>
+c
+</sup>
+</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">BMI (kg/m2), mean (SD)</td><td align="left" valign="top" rowspan="1" colspan="1">13.7 (4.1)</td><td align="left" valign="top" rowspan="1" colspan="1">13.7 (4.1)</td><td align="left" valign="top" rowspan="1" colspan="1">14.4 (4.6)</td><td align="left" valign="top" rowspan="1" colspan="1">.691</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Symptoms at EGD</td><td align="left" colspan="4" valign="top" rowspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Vomting and/or nausea, no. (%)</td><td align="left" valign="top" rowspan="1" colspan="1">7 (20)</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">26 (49)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;.05<xref rid="all16275-note-0004" ref-type="table-fn">
+<sup>
+b
+</sup>
+</xref>, <xref rid="all16275-note-0005" ref-type="table-fn">
+<sup>
+c
+</sup>
+</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Dysphagia, no. (%)</td><td align="left" valign="top" rowspan="1" colspan="1">15 (44)</td><td align="left" valign="top" rowspan="1" colspan="1">2 (11)</td><td align="left" valign="top" rowspan="1" colspan="1">13 (25)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;.05<xref rid="all16275-note-0003" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Abdominal pain, no. (%)</td><td align="left" valign="top" rowspan="1" colspan="1">4 (12)</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">27 (51)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;.05<xref rid="all16275-note-0004" ref-type="table-fn">
+<sup>
+b
+</sup>
+</xref>, <xref rid="all16275-note-0005" ref-type="table-fn">
+<sup>
+c
+</sup>
+</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Macroscopic findings</td><td align="left" colspan="4" valign="top" rowspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Normal, no. (%)</td><td align="left" valign="top" rowspan="1" colspan="1">2 (6)</td><td align="left" valign="top" rowspan="1" colspan="1">15 (83)</td><td align="left" valign="top" rowspan="1" colspan="1">53 (100)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;.05<xref rid="all16275-note-0003" ref-type="table-fn">
+<sup>
+a
+</sup>
+</xref>, <xref rid="all16275-note-0004" ref-type="table-fn">
+<sup>
+b
+</sup>
+</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Furrows, no. (%)</td><td align="left" valign="top" rowspan="1" colspan="1">22 (65)</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;.05<xref rid="all16275-note-0004" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Exudate, no. (%)</td><td align="left" valign="top" rowspan="1" colspan="1">23 (68)</td><td align="left" valign="top" rowspan="1" colspan="1">2 (11)</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;.05<xref rid="all16275-note-0004" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Edema, no. (%)</td><td align="left" valign="top" rowspan="1" colspan="1">12 (35)</td><td align="left" valign="top" rowspan="1" colspan="1">1 (6)</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;.05<xref rid="all16275-note-0004" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Stricture, no. (%)</td><td align="left" valign="top" rowspan="1" colspan="1">3 (9)</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;.05<xref rid="all16275-note-0004" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Histology, max eos/hpf, mean (range)</td><td align="left" valign="top" rowspan="1" colspan="1">48 (15&#x02013;172)</td><td align="left" valign="top" rowspan="1" colspan="1">2 (0&#x02013;10)</td><td align="left" valign="top" rowspan="1" colspan="1">0.1 (0&#x02013;4)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;.05<xref rid="all16275-note-0004" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Medical history</td><td align="left" colspan="4" valign="top" rowspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Milk elimination from diet, no. (%)</td><td align="left" valign="top" rowspan="1" colspan="1">10 (29.4)</td><td align="left" valign="top" rowspan="1" colspan="1">14 (77.8)</td><td align="left" valign="top" rowspan="1" colspan="1">1 (1.9)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;.05<xref rid="all16275-note-0003" ref-type="table-fn">
+<sup>a</sup>
+</xref>, <xref rid="all16275-note-0004" ref-type="table-fn">
+<sup>b</sup>
+</xref>, <xref rid="all16275-note-0005" ref-type="table-fn">
+<sup>c</sup>
+</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Asthma as a current disease, no. (%)</td><td align="left" valign="top" rowspan="1" colspan="1">14 (41)</td><td align="left" valign="top" rowspan="1" colspan="1">7 (40)</td><td align="left" valign="top" rowspan="1" colspan="1">12 (23)</td><td align="left" valign="top" rowspan="1" colspan="1">.145</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Eczema, no. (%)</td><td align="left" valign="top" rowspan="1" colspan="1">8 (24)</td><td align="left" valign="top" rowspan="1" colspan="1">5 (28)</td><td align="left" valign="top" rowspan="1" colspan="1">10 (19)</td><td align="left" valign="top" rowspan="1" colspan="1">.704</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Fur animal allergy, no. (%)</td><td align="left" valign="top" rowspan="1" colspan="1">11 (32)</td><td align="left" valign="top" rowspan="1" colspan="1">4 (22)</td><td align="left" valign="top" rowspan="1" colspan="1">8 (15)</td><td align="left" valign="top" rowspan="1" colspan="1">.165</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Food Allergy<xref rid="all16275-note-0002" ref-type="table-fn">*</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">20 (59)</td><td align="left" valign="top" rowspan="1" colspan="1">8 (44)</td><td align="left" valign="top" rowspan="1" colspan="1">7 (13)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;.05<xref rid="all16275-note-0004" ref-type="table-fn">
+<sup>
+b
+</sup>
+</xref>, <xref rid="all16275-note-0005" ref-type="table-fn">
+<sup>
+c
+</sup>
+</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Pollen Allergy<xref rid="all16275-note-0002" ref-type="table-fn">*</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">22 (65)</td><td align="left" valign="top" rowspan="1" colspan="1">9 (50)</td><td align="left" valign="top" rowspan="1" colspan="1">11 (21)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;.05<xref rid="all16275-note-0004" ref-type="table-fn">
+<sup>
+b
+</sup>
+</xref>, <xref rid="all16275-note-0005" ref-type="table-fn">
+<sup>
+c
+</sup>
+</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Serum analysis, mean (SD)</td><td align="left" colspan="4" valign="top" rowspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">AEC 109/L</td><td align="left" valign="top" rowspan="1" colspan="1">0.54 (0.3)</td><td align="left" valign="top" rowspan="1" colspan="1">0.37 (0.5)</td><td align="left" valign="top" rowspan="1" colspan="1">0.23 (0.3)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;.05<xref rid="all16275-note-0003" ref-type="table-fn">
+<sup>
+a
+</sup>
+</xref>, <xref rid="all16275-note-0004" ref-type="table-fn">
+<sup>
+b
+</sup>
+</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">EDN, &#x003bc;g/L</td><td align="left" valign="top" rowspan="1" colspan="1">102 (71.8)</td><td align="left" valign="top" rowspan="1" colspan="1">96.2 (78.4)</td><td align="left" valign="top" rowspan="1" colspan="1">49.2 (73.0)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;.05<xref rid="all16275-note-0004" ref-type="table-fn">
+<sup>
+b
+</sup>
+</xref>, <xref rid="all16275-note-0005" ref-type="table-fn">
+<sup>
+c
+</sup>
+</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">15 (S)&#x02010;HETE, pg/ml</td><td align="left" valign="top" rowspan="1" colspan="1">2784 (680)</td><td align="left" valign="top" rowspan="1" colspan="1">2548 (770)</td><td align="left" valign="top" rowspan="1" colspan="1">2097 (849)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;.05<xref rid="all16275-note-0004" ref-type="table-fn">
+<sup>
+b
+</sup>
+</xref>, <xref rid="all16275-note-0005" ref-type="table-fn">
+<sup>
+c
+</sup>
+</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IgG4 total, mg/L</td><td align="left" valign="top" rowspan="1" colspan="1">679 (434)</td><td align="left" valign="top" rowspan="1" colspan="1">595 (539)</td><td align="left" valign="top" rowspan="1" colspan="1">496 (468)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;.05<xref rid="all16275-note-0004" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IgG4 Bos d 4, mg/L</td><td align="left" valign="top" rowspan="1" colspan="1">34.9 (50.4)</td><td align="left" valign="top" rowspan="1" colspan="1">3.2 (4.5)</td><td align="left" valign="top" rowspan="1" colspan="1">4.2 (17)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;.05<xref rid="all16275-note-0004" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IgG4 Bos d 5, mg/L</td><td align="left" valign="top" rowspan="1" colspan="1">37.4 (56.3)</td><td align="left" valign="top" rowspan="1" colspan="1">12.2 (26.7)</td><td align="left" valign="top" rowspan="1" colspan="1">5.3 (10.5)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;.05<xref rid="all16275-note-0004" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IgG4 Bos d 8, mg/L</td><td align="left" valign="top" rowspan="1" colspan="1">26.2 (36.9)</td><td align="left" valign="top" rowspan="1" colspan="1">4.6 (6.5)</td><td align="left" valign="top" rowspan="1" colspan="1">2.3 (4.8)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;.05<xref rid="all16275-note-0004" ref-type="table-fn">
+<sup>
+b
+</sup>
+</xref>, <xref rid="all16275-note-0005" ref-type="table-fn">
+<sup>
+c
+</sup>
+</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IgG4 gliadin, mg/L</td><td align="left" valign="top" rowspan="1" colspan="1">4.9 (6.5)</td><td align="left" valign="top" rowspan="1" colspan="1">2.3 (4.7)</td><td align="left" valign="top" rowspan="1" colspan="1">0.9 (2.6)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;.05<xref rid="all16275-note-0004" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IgG4 peanut, mg/L</td><td align="left" valign="top" rowspan="1" colspan="1">2.5 (3.2)</td><td align="left" valign="top" rowspan="1" colspan="1">1.8 (2.8)</td><td align="left" valign="top" rowspan="1" colspan="1">0.2 (0.4)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;.<sup>05b,c</sup>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IgG4 Ara h 2, mg/L</td><td align="left" valign="top" rowspan="1" colspan="1">0.3 (0.5)</td><td align="left" valign="top" rowspan="1" colspan="1">0.2 (0.4)</td><td align="left" valign="top" rowspan="1" colspan="1">0.04 (0.1)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;.05<xref rid="all16275-note-0004" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IgG4 soy, mg/L</td><td align="left" valign="top" rowspan="1" colspan="1">4.7 (21.8)</td><td align="left" valign="top" rowspan="1" colspan="1">1.4 (2.7)</td><td align="left" valign="top" rowspan="1" colspan="1">0.2 (0.6)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;.05<xref rid="all16275-note-0004" ref-type="table-fn">
+<sup>
+b
+</sup>
+</xref>, <xref rid="all16275-note-0005" ref-type="table-fn">
+<sup>
+c
+</sup>
+</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IgG4 egg white, mg/L</td><td align="left" valign="top" rowspan="1" colspan="1">8.4 (9)</td><td align="left" valign="top" rowspan="1" colspan="1">5.9 (6.2)</td><td align="left" valign="top" rowspan="1" colspan="1">4.3 (7.1)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;.05<xref rid="all16275-note-0004" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IgG4 birch, mg/L</td><td align="left" valign="top" rowspan="1" colspan="1">1.8 (3.1)</td><td align="left" valign="top" rowspan="1" colspan="1">1.1 (1.3)</td><td align="left" valign="top" rowspan="1" colspan="1">0.7 (2.3)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;.05<xref rid="all16275-note-0004" ref-type="table-fn">
+<sup>
+b
+</sup>
+</xref>, <xref rid="all16275-note-0005" ref-type="table-fn">
+<sup>
+c
+</sup>
+</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IgE milk, kU/L</td><td align="left" valign="top" rowspan="1" colspan="1">1.4 (2.8)</td><td align="left" valign="top" rowspan="1" colspan="1">4.6 (16.7)</td><td align="left" valign="top" rowspan="1" colspan="1">0.1 (0.3)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;.05<xref rid="all16275-note-0004" ref-type="table-fn">
+<sup>
+b
+</sup>
+</xref>, <xref rid="all16275-note-0005" ref-type="table-fn">
+<sup>
+c
+</sup>
+</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IgE egg white, kU/L</td><td align="left" valign="top" rowspan="1" colspan="1">6.7 (23.7)</td><td align="left" valign="top" rowspan="1" colspan="1">6.3 (23.4)</td><td align="left" valign="top" rowspan="1" colspan="1">0.09 (0.2)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;.05<xref rid="all16275-note-0004" ref-type="table-fn">
+<sup>
+b
+</sup>
+</xref>, <xref rid="all16275-note-0005" ref-type="table-fn">
+<sup>
+c
+</sup>
+</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IgE wheat, kU/L</td><td align="left" valign="top" rowspan="1" colspan="1">1.2 (1.6)</td><td align="left" valign="top" rowspan="1" colspan="1">2.2 (6.6)</td><td align="left" valign="top" rowspan="1" colspan="1">0.1 (0.4)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;.05<xref rid="all16275-note-0004" ref-type="table-fn">
+<sup>
+b
+</sup>
+</xref>, <xref rid="all16275-note-0005" ref-type="table-fn">
+<sup>
+c
+</sup>
+</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IgE thimoty, kU/L</td><td align="left" valign="top" rowspan="1" colspan="1">11.2 (24.5)</td><td align="left" valign="top" rowspan="1" colspan="1">13.5 (28.5)</td><td align="left" valign="top" rowspan="1" colspan="1">1.3 (3.8)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;.05<xref rid="all16275-note-0004" ref-type="table-fn">
+<sup>
+b
+</sup>
+</xref>, <xref rid="all16275-note-0005" ref-type="table-fn">
+<sup>
+c
+</sup>
+</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IgE birch, kU/L</td><td align="left" valign="top" rowspan="1" colspan="1">27.9 (37.5)</td><td align="left" valign="top" rowspan="1" colspan="1">25.7 (38.6)</td><td align="left" valign="top" rowspan="1" colspan="1">11.3 (29.0)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;.05<xref rid="all16275-note-0004" ref-type="table-fn">
+<sup>
+b
+</sup>
+</xref>, <xref rid="all16275-note-0005" ref-type="table-fn">
+<sup>
+c
+</sup>
+</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Saliva analysis, mean (SD)</td><td align="left" colspan="4" valign="top" rowspan="1"/></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">15 (S)&#x02010;HETE, pg/ml</td><td align="left" valign="top" rowspan="1" colspan="1">2437 (883) (<italic toggle="yes">n</italic>&#x02009;=&#x02009;31)</td><td align="left" valign="top" rowspan="1" colspan="1">2483 (1042) (<italic toggle="yes">n</italic>&#x02009;=&#x02009;17)</td><td align="left" valign="top" rowspan="1" colspan="1">2122 (1159) (<italic toggle="yes">n</italic>&#x02009;=&#x02009;50)</td><td align="left" valign="top" rowspan="1" colspan="1">.064</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">IgG4 total, mg/L</td><td align="left" valign="top" rowspan="1" colspan="1">1.5 (1.4) (<italic toggle="yes">n</italic>&#x02009;=&#x02009;30)</td><td align="left" valign="top" rowspan="1" colspan="1">1.4 (1.8) (<italic toggle="yes">n</italic>&#x02009;=&#x02009;15)</td><td align="left" valign="top" rowspan="1" colspan="1">1.1 (1.7) (<italic toggle="yes">n</italic>&#x02009;=&#x02009;43)</td><td align="left" valign="top" rowspan="1" colspan="1">.095</td></tr></tbody></table><table-wrap-foot id="all16275-ntgp-0002"><fn id="all16275-note-0002"><label>*</label><p>Food and pollen allergy&#x02009;=&#x02009;reported symptoms and IgE&#x02010;sensitization (IgE&#x02009;&#x0003e;0.1 kU/L) to the same allergen.</p></fn><fn id="all16275-note-0003"><label>
+<sup>a</sup>
+</label><p>EoE Active vs. EoE in Remission.</p></fn><fn id="all16275-note-0004"><label>
+<sup>b</sup>
+</label><p>EoE Active vs. Healthy.</p></fn><fn id="all16275-note-0005"><label>
+<sup>c</sup>
+</label><p>EoE in Remission vs. Healthy.</p></fn></table-wrap-foot></table-wrap></sec><sec id="all16275-sec-0014"><label>3.2</label><title>Comparison of biomarkers in active EoE, EoE in remission, and healthy individuals</title><p>We evaluated some known biomarkers for eosinophilic inflammation, AEC and EDN and also some less known, 15(S)&#x02010;HETE, sIgG<sub>4</sub>, tIgG<sub>4</sub>, and sIgE, presented in Table&#x000a0;<xref rid="all16275-tbl-0001" ref-type="table">1</xref>. In both active EoE and in EoE in remission the levels for AEC and EDN were increased compared to healthy individuals (<italic toggle="yes">p</italic>&#x02009;&#x0003c;.05) and for AEC the active EoE group had higher levels compared to EoE in remission (<italic toggle="yes">p</italic>&#x02009;&#x0003c;.05). Also, the levels of 15(S)&#x02010;HETE were increased in both active EoE and EoE in remission compared to healthy individuals (<italic toggle="yes">p</italic>&#x02009;&#x0003c;.05). Regarding both total and sIgG<sub>4</sub>, all levels were increased in active EoE compared to healthy individuals (<italic toggle="yes">p</italic>&#x02009;&#x0003c;.05). For EoE in remission sIgG<sub>4</sub> to Bos d 8, peanut, soy, and birch were increased compared to healthy individuals (<italic toggle="yes">p</italic>&#x02009;&#x0003c;.05). Children with EoE, both active and in remission, had higher levels of sIgE to all the investigated allergens compared to healthy individuals, Table&#x000a0;<xref rid="all16275-tbl-0001" ref-type="table">1</xref>. There were no significant differences between the groups concerning the analyses in saliva for tIgG<sub>4</sub> and 15(S)&#x02010;HETE.</p></sec><sec id="all16275-sec-0015"><label>3.3</label><title>Association between biomarkers and active EoE, EoE in remission, and healthy individuals</title><p>To investigate a possible association of biomarkers between the groups, a multinomial logistic regression was performed. The model was adjusted for milk elimination, food allergy, pollen allergy, age and sex based on a principal component analysis (Figure&#x000a0;<xref rid="all16275-supitem-0001" ref-type="supplementary-material">S1</xref>) and the relationship between the EoE groups and confounders. Between active EoE and healthy individuals, significant associations were found for AEC, EDN, sIgG<sub>4</sub> to Bos d 4, Bos d 5, Bos d 8, Ara h 2, and to egg white and sIgE to milk (<italic toggle="yes">p</italic>&#x02009;&#x0003c;.05) (Figure&#x000a0;<xref rid="all16275-fig-0001" ref-type="fig">1</xref>; Table&#x000a0;<xref rid="all16275-tbl-0002" ref-type="table">2</xref>). Significant associations were also found for 15(S)&#x02010;HETE in both EoE in remission and healthy individuals compared to active EoE (<italic toggle="yes">p</italic>&#x02009;&#x0003c;.05) (Figure&#x000a0;<xref rid="all16275-fig-0001" ref-type="fig">1</xref>; Table&#x000a0;<xref rid="all16275-tbl-0002" ref-type="table">2</xref>). No associations were found in saliva analyses (Table&#x000a0;<xref rid="all16275-tbl-0002" ref-type="table">2</xref>).</p><fig position="float" fig-type="FIGURE" id="all16275-fig-0001"><label>FIGURE 1</label><caption><p>Bar graphs derived from the significant results in Table&#x000a0;<xref rid="all16275-tbl-0002" ref-type="table">2</xref> depict the differences in immunological markers among children with active EoE, EoE in remission, and healthy individuals following adjustments of confounding factors. Data represents mean&#x02009;&#x000b1;&#x02009;SD. *<italic toggle="yes">p</italic>&#x02009;&#x0003c;.05.</p></caption><graphic xlink:href="ALL-79-3464-g002" position="anchor" id="jats-graphic-3"/></fig><table-wrap position="float" id="all16275-tbl-0002" content-type="TABLE"><label>TABLE 2</label><caption><p>Association between biomarkers and active EoE, EoE in remission, and healthy individuals after adjustments.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="left" valign="bottom" rowspan="1" colspan="1">Active EoE vs Healthy, OR (CI)</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> value<xref rid="all16275-note-0006" ref-type="table-fn">*</xref>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">Active EoE vs EoE in remission, OR (CI)</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> value<xref rid="all16275-note-0006" ref-type="table-fn">*</xref>
+</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Serum analysis</td><td align="left" colspan="4" valign="top" rowspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">AEC</td><td align="left" valign="top" rowspan="1" colspan="1">0.03 (0.003&#x02013;0.3)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;.001</td><td align="left" valign="top" rowspan="1" colspan="1">0.65 (0.06&#x02013;3)</td><td align="left" valign="top" rowspan="1" colspan="1">.7</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">EDN</td><td align="left" valign="top" rowspan="1" colspan="1">0.99 (0.98&#x02013;0.9997)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;.05</td><td align="left" valign="top" rowspan="1" colspan="1">1.002 (0.99&#x02013;1.01)</td><td align="left" valign="top" rowspan="1" colspan="1">.7</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">15 (S)&#x02010;HETE</td><td align="left" valign="top" rowspan="1" colspan="1">0.999 (0.9986&#x02013;0.9993)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;.001</td><td align="left" valign="top" rowspan="1" colspan="1">0.999 (0.9987&#x02013;0.9996)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;.05</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IgG4 total</td><td align="left" valign="top" rowspan="1" colspan="1">0.9998 (0.999&#x02013;1.001)</td><td align="left" valign="top" rowspan="1" colspan="1">.7</td><td align="left" valign="top" rowspan="1" colspan="1">0.999 (0.998&#x02013;1.001)</td><td align="left" valign="top" rowspan="1" colspan="1">.3</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IgG4 Bos d 4</td><td align="left" valign="top" rowspan="1" colspan="1">0.97 (0.94&#x02013;0.99)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;.05</td><td align="left" valign="top" rowspan="1" colspan="1">0.95 (0.9&#x02013;1.02)</td><td align="left" valign="top" rowspan="1" colspan="1">.2</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IgG4 Bos d 5</td><td align="left" valign="top" rowspan="1" colspan="1">0.93 (0.899&#x02013;0.97)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;.001</td><td align="left" valign="top" rowspan="1" colspan="1">0.988 (0.97&#x02013;1.01)</td><td align="left" valign="top" rowspan="1" colspan="1">.3</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IgG4 Bos d 8</td><td align="left" valign="top" rowspan="1" colspan="1">0.85 (0.78&#x02013;0.94)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;.001</td><td align="left" valign="top" rowspan="1" colspan="1">0.93 (0.88&#x02013;1.02)</td><td align="left" valign="top" rowspan="1" colspan="1">.1</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IgG4 gliadin</td><td align="left" valign="top" rowspan="1" colspan="1">0.85 (0.7&#x02013;1.02)</td><td align="left" valign="top" rowspan="1" colspan="1">.09</td><td align="left" valign="top" rowspan="1" colspan="1">0.88 (0.77&#x02013;1.03)</td><td align="left" valign="top" rowspan="1" colspan="1">.1</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IgG4 peanut</td><td align="left" valign="top" rowspan="1" colspan="1">0.22 (0.08&#x02013;0.65)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;.05</td><td align="left" valign="top" rowspan="1" colspan="1">0.89 (0.7&#x02013;1.1)</td><td align="left" valign="top" rowspan="1" colspan="1">.4</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IgG4 Ara h 2</td><td align="left" valign="top" rowspan="1" colspan="1">0.005 (0.0002&#x02013;0.23)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;.05</td><td align="left" valign="top" rowspan="1" colspan="1">0.5 (0.90&#x02013;6.9)</td><td align="left" valign="top" rowspan="1" colspan="1">.6</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IgG4 soy</td><td align="left" valign="top" rowspan="1" colspan="1">0.6 (0.3&#x02013;1.1)</td><td align="left" valign="top" rowspan="1" colspan="1">.1</td><td align="left" valign="top" rowspan="1" colspan="1">0.98 (0.9&#x02013;1. 04)</td><td align="left" valign="top" rowspan="1" colspan="1">.5</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IgG4 egg white</td><td align="left" valign="top" rowspan="1" colspan="1">0.93 (0.87&#x02013;0.998)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;.05</td><td align="left" valign="top" rowspan="1" colspan="1">0.97 (0.90&#x02013;1.06)</td><td align="left" valign="top" rowspan="1" colspan="1">.5</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IgG4 birch</td><td align="left" valign="top" rowspan="1" colspan="1">1.1 (0.87&#x02013;1.3)</td><td align="left" valign="top" rowspan="1" colspan="1">.6</td><td align="left" valign="top" rowspan="1" colspan="1">0.84 (0.5&#x02013;1.4)</td><td align="left" valign="top" rowspan="1" colspan="1">.5</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IgE milk</td><td align="left" valign="top" rowspan="1" colspan="1">0.06 (0.007&#x02013;0.4)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;.05</td><td align="left" valign="top" rowspan="1" colspan="1">1.02 (0.9&#x02013;1.2)</td><td align="left" valign="top" rowspan="1" colspan="1">.8</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IgE egg white</td><td align="left" valign="top" rowspan="1" colspan="1">0.1 (0.01&#x02013;1.1)</td><td align="left" valign="top" rowspan="1" colspan="1">.06</td><td align="left" valign="top" rowspan="1" colspan="1">0.999 (0.97&#x02013;1.02)</td><td align="left" valign="top" rowspan="1" colspan="1">.9</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IgE wheat</td><td align="left" valign="top" rowspan="1" colspan="1">0.4 (0.14&#x02013;1.7)</td><td align="left" valign="top" rowspan="1" colspan="1">.2</td><td align="left" valign="top" rowspan="1" colspan="1">1.06 (0.89&#x02013;1.3)</td><td align="left" valign="top" rowspan="1" colspan="1">.6</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IgE thimoty</td><td align="left" valign="top" rowspan="1" colspan="1">0.95 (0.9&#x02013;1.04)</td><td align="left" valign="top" rowspan="1" colspan="1">.3</td><td align="left" valign="top" rowspan="1" colspan="1">0.999 (0.98&#x02013;1.03)</td><td align="left" valign="top" rowspan="1" colspan="1">.9</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IgE birch</td><td align="left" valign="top" rowspan="1" colspan="1">1.0 (0.990&#x02013;1.03)</td><td align="left" valign="top" rowspan="1" colspan="1">.3</td><td align="left" valign="top" rowspan="1" colspan="1">0.999 (0.98&#x02013;1.02)</td><td align="left" valign="top" rowspan="1" colspan="1">.9</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Saliva analysis</td><td align="left" colspan="4" valign="top" rowspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">15 (S)&#x02010;HETE</td><td align="left" valign="top" rowspan="1" colspan="1">0.9995 (0.999&#x02013;1.00002)</td><td align="left" valign="top" rowspan="1" colspan="1">.06</td><td align="left" valign="top" rowspan="1" colspan="1">1.000 (0.9999&#x02013;1.0007)</td><td align="left" valign="top" rowspan="1" colspan="1">.2</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IgG4 total</td><td align="left" valign="top" rowspan="1" colspan="1">0.98 (0.7&#x02013;1.4)</td><td align="left" valign="top" rowspan="1" colspan="1">.90</td><td align="left" valign="top" rowspan="1" colspan="1">0.88 (0.65&#x02013;1.7)</td><td align="left" valign="top" rowspan="1" colspan="1">.7</td></tr></tbody></table><table-wrap-foot id="all16275-ntgp-0003"><fn id="all16275-note-0006"><label>*</label><p>Mulinomial logistic regression adjusted with milk elimination, pollen allergy, food allergy, sex, and age.</p></fn></table-wrap-foot></table-wrap></sec><sec id="all16275-sec-0016"><label>3.4</label><title>The usefulness of single or combined biomarkers for the prediction of EoE</title><p>Next, we assessed the receiver operating characteristics (ROC) of biomarkers to distinguish between active EoE, EoE in remission and healthy individuals. The single biomarker with the best ability to discriminate among the three groups was sIgG<sub>4</sub> Bos d 4, and yielded an AUC of 0.82. When including all biomarkers, micro&#x02010;average AUC was over 0.88 indicating a good discrimination between the groups (Figure&#x000a0;<xref rid="all16275-fig-0002" ref-type="fig">2A</xref>). By reducing the included biomarkers from 20 to the four most significant in the RF analysis; AEC, EDN, sIgE to egg white and wheat, a similar AUC of 0.87 was obtained (Figure&#x000a0;<xref rid="all16275-fig-0002" ref-type="fig">2B</xref>). If the four biomarker&#x02010;model was additionally supplemented with three clinical symptoms (dysphagia, stomach pain and vomiting/nausea), an AUC of 0.92 was obtained indicating an excellent discrimination between the groups (Figure&#x000a0;<xref rid="all16275-fig-0002" ref-type="fig">2C</xref>). RF analysis and AUC of individual parameters is found in the Figure&#x000a0;<xref rid="all16275-supitem-0001" ref-type="supplementary-material">S2</xref> and Table&#x000a0;<xref rid="all16275-supitem-0002" ref-type="supplementary-material">S1</xref>.</p><fig position="float" fig-type="FIGURE" id="all16275-fig-0002"><label>FIGURE 2</label><caption><p>(A) Random Forest (RF) analysis for all the biomarkers, (except three values (EDN, sIgE to wheat, and sIgE to timothy) from one patient were excluded from this analysis due to missing values). AUC contains a list of AUC for each group of different classifiers v.s. the rest in the classifier. Micro&#x02010;average PR&#x02010;AUC was calculated by stacking all groups together, thus converting the multi&#x02010;class classification into binary classification. (B) RF analysis for combination of biomarkers including AEC, EDN, sIgE to egg white and sIgE to wheat. These four biomarkers are selected because they are the top four important variable selected in the Random Forest analysis when all the biomarker included in the model. (C) RF analysis for combination of the top four biomarkers AEC, EDN, sIgE to egg white and sIgE to wheat plus three symptoms (dysphagia, stomach pain and vomiting/nausea).</p></caption><graphic xlink:href="ALL-79-3464-g001" position="anchor" id="jats-graphic-5"/></fig></sec><sec id="all16275-sec-0017"><label>3.5</label><title>Distinguishing between active EoE, reflux esophagitis, and healthy individuals using cutoff values of biomarkers</title><p>ROC analysis provided cutoff values for the top biomarkers. The optimal cutoff values were for AEC, &#x0003e;0.35 10<sup>9</sup>/l (AUC of 0.95), for EDN &#x0003e;52&#x02009;&#x003bc;g/mL (AUC of 0.93), for sIgE wheat &#x0003e;0.25 kU<sub>A</sub>/l (AUC of 0.86) and finally for sIgE egg white &#x0003e;0.17 kU<sub>A</sub>/l (AUC of 0.78).</p><p>The established cutoff levels for the combination of AEC, EDN, and sIgE wheat or sIgE egg white, yielded an AUC of 0.9, demonstrating an accuracy of 0.875 (95% confidence interval: 0.68&#x02013;0.97). Combining the tresholds for three biomarkers, AEC, EDN, and sIgE wheat; or AEC, sIgE wheat, and sIgE egg white, exhibited a sensitivity of 80% and a specificity of 100%, a 100% positive predictive value (PPV) and a 75% negative predictive value (NPV) in distinguishing active EoE from healthy individuals in our cohort. Currently, EDN is not readily accessible for routine lab testing, rendering the combination excluding EDN the most practical and usable in practice.</p><p>As it can be difficult in the clinic, and important to distinguish the group with reflux esophagitis from the group with EoE, we also calculated cutoff values for the 31 children diagnosed with reflux esophagitis. This group was then merged with the healthy group and we then obtained the following cutoff values to distinguish healthy (reflux now included) from children with active EoE: AEC &#x0003e;0.23 10<sup>9</sup>/l, sIgE wheat &#x0003e;0.12 kU<sub>A</sub>/l and sIgE egg white &#x0003e;0.12 kU<sub>A</sub>/l. The combination of these tresholds yield a sensitivity of 96%, specificity 56%, PPV 86%, and NPV 83%.</p></sec><sec id="all16275-sec-0018"><label>3.6</label><title>Longitudinal analysis of treatment response</title><p>Among the patients diagnosed with EoE, 20 children were examined on multiple occasions, as the disease was monitored, using repeated EGDs. The median time between visits was 4&#x02009;months. During this time, a total of 11 patients changed from active to remission due to successful treatments. The serum levels of EDN, tIgG<sub>4</sub>, sIgG<sub>4</sub> to Bos d 4, Bos d 5, Bos d 8, gliadin, and to birch pollen, and sIgE to milk decreased significantly from active to remission (<italic toggle="yes">p</italic>&#x02009;&#x0003c;.05), Figure&#x000a0;<xref rid="all16275-fig-0003" ref-type="fig">3</xref>. No differences were found in saliva analyses. Furthermore, in the nine patients who did not enter remission at the second EGD, no significant differences were detected in any biomarker compared to the first visit.</p><fig position="float" fig-type="FIGURE" id="all16275-fig-0003"><label>FIGURE 3</label><caption><p>Logitudinal analysis of treatment response following EoE patients tramsgressing from active to remissive state. Data represent actual measurement at two separate occasions with a connective line for each different patient. *<italic toggle="yes">p</italic>&#x02009;&#x0003c;.05, **<italic toggle="yes">p</italic>&#x02009;&#x0003c;.05 and ***<italic toggle="yes">p</italic>&#x02009;&#x0003c;.001.</p></caption><graphic xlink:href="ALL-79-3464-g003" position="anchor" id="jats-graphic-7"/></fig></sec></sec><sec sec-type="discussion" id="all16275-sec-0019"><label>4</label><title>DISCUSSION</title><p>In this prospective cohort study of 105 children with active EoE, EoE in remission and healthy, we have identified biomarkers, both single and combinations, associated to EoE diagnosis. Elevated levels of single serum biomarkers (AEC, EDN, 15(S)&#x02010;HETE, both total and sIgG<sub>4</sub>, and sIgE) were seen in active EoE compared to healthy individuals. AEC, EDN, sIgE to egg white, and wheat in combination and together with typical EoE symptoms showed promising potential to differentiate between active EoE, EoE in remission and healthy subjects with an AUC of 0.92. Furthermore, we were able to propose cutoff values for biomarkers, of which the combination of three (AEC, EDN, sIgE to egg white, or wheat) could accurately distinguish active EoE from healthy individuals. Analysis of biomarkers in the subgroup that transitioned from active disease to EoE in remission showed that sIgG<sub>4</sub> and sIgE to milk and EDN appeared to be of importance as the level of these biomarkers decreased in the remission group.</p><p>Despite the increased understanding of EoE in recent years, several aspects of the condition are still incompletely understood, and reliable biomarkers are lacking. We found that levels of both AEC and EDN were highest in the EoE active individuals followed by EoE in remission and lowest levels were observed in the healthy individuals. These associations have previously been described and are known markers of eosinophilic inflammation.<xref rid="all16275-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="all16275-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="all16275-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> In accordance with our study, lower levels of AEC and EDN are also known to correlate with disease remission.<xref rid="all16275-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="all16275-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> However, these biomarkers are also observed as with elevated levels in other diseases such as asthma and other allergic conditions and are therefore not specific enough to be used as a predictive marker for EoE.<xref rid="all16275-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> Similarly, levels of sIgG<sub>4</sub> and sIgE were also increased in EoE patients compared to healthy individuals, which is in accordance with current knowledge.<xref rid="all16275-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="all16275-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="all16275-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="all16275-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="all16275-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="all16275-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> In addition, we analyzed a less explored biomarker in the context of EoE, the lipid mediator 15(S)&#x02010;HETE, which was found to be elevated in EoE patients compared to healthy individuals, both before and after adjusting for confounders. A recent study suggested the importance of 15(S)&#x02010;HETE in EoE, however, it did not observe a significant difference between active EoE and controls.<xref rid="all16275-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> This lack of distinction may be attributed to limited sample material, as suggested by the authors. The lipid mediator 15(S)&#x02010;HETE originates from arachidonic acid which, by the metabolism of the 15&#x02010;lipoxygenase (ALOX15) or cyclooxygenase enzymes, exerts a range of physiological functions in the body.<xref rid="all16275-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> Genes associated with esophageal narrowing in EoE included ALOX15,<xref rid="all16275-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> which has been found upregulated in esophageal mucosal biopsies of individuals with EoE compared to healthy controls.<xref rid="all16275-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> In addition, metabolites from 15(S)&#x02010;HETE, such as 5&#x02010;oxo&#x02010;15(S)&#x02010;HETE (lipoxin A<sub>4</sub>), are known to be inflammatory modulators in other chronic inflammatory diseases such as asthma and atopic dermatitis,<xref rid="all16275-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="all16275-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> but its role in EoE is unclear. 15(S)&#x02010;HETE can, for example in asthma, act proinflammatory by activating the leukotriene B<sub>4</sub> receptor 2 (BLT2),<xref rid="all16275-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> but also anti&#x02010;inflammatory, through activation of peroxisome proliferator&#x02010;activated receptor &#x003b3; (PPAR&#x02010; &#x003b3;).<xref rid="all16275-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref> One study has described higher levels of PPAR&#x02010;&#x003b3; in esophageal biopsies of EoE patients compared to healthy individuals.<xref rid="all16275-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> However, the existing evidence regarding the pro&#x02010; or anti&#x02010;inflammatory nature of 15(S)&#x02010;HETE in different diseases remains inconclusive.</p><p>Because EoE has high comorbidity with other immune&#x02010;driven diseases, for example, asthma and food allergy,<xref rid="all16275-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="all16275-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> and both sIgG<sub>4</sub> and sIgE levels can vary with age and food intake,<xref rid="all16275-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="all16275-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="all16275-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref> it is important to adjust for potential confounders and consider their possible influence on the investigated biomarkers. In our study, we adjusted for factors that have previously been demonstrated to be important in relation to EoE after a principal component analysis before performing the multinomial logistic regression analysis. After adjustment for milk elimination, pollen allergy, food allergy, age, and sex, the biomarkers AEC, EDN, 15(S)&#x02010;HETE, sIgG<sub>4</sub> to Bos d 4, Bos d 5, Bos d 8, peanut, Ara h2, and egg white, and sIgE to milk still had a positive correlation with active EoE and EoE in remission compared to healthy individuals.</p><p>We conducted additional investigations to assess the possibility of creating a predictive biomarker panel. Our findings showed that four biomarkers (AEC, EDN, sIgE for egg white, and wheat) were sufficient to effectively differentiate between active EoE, EoE in remission, and healthy individuals. The inclusion of three symptoms in the analysis further enhanced the predictive capability, resulting in an AUC of 0.92. A previous study has shown that a panel of six plasma biomarkers; galectin&#x02010;10 (CLC/GAL&#x02010;10), eosinophil cationic protein (ECP), EDN, Eotaxin&#x02010;3 and major basic protein&#x02010;1 (MBP&#x02010;1) and AEC can distinguish patient with EoE diagnosis from healthy controls with an AUC of 0.90.<xref rid="all16275-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> Another study, where 15(S)&#x02010;HETE as well as AEC and 12 cytokines were included in a panel, show an AUC of 0.96 to differentiate active EoE from healthy controls.<xref rid="all16275-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>
+</p><p>Given that the biomarkers investigated in our study are common standard method analyses conducted in most hospital laboratories, and that patient symptoms are routinely recorded, our panel emerges as a convenient and minimally invasive method for diagnosing the status of EoE. For potential clinical utility, we then calculated optimal cutoff levels for the biomarkers that found to be most important in the comparison between the groups of active EoE and healthy individuals, and by combining three biomarkers (AEC, sIgE wheat, and sIgE to egg white), we were able to achieve a PPV of 100% and an NPV of 75%. Previous studies have suggested cutoff values for AEC, EDN, and Eotaxin&#x02010;3, which, when combined, yielded a PPV of 88% and an NPV of 70%, but with a smaller number of patients than in our study.<xref rid="all16275-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> Furthermore, we included the children with reflux esophagitis in the healthy group and then obtained new cutoff levels but still satisfactory values of PPV, 86% and an NPV of 83%. To our knowledge, there is no other study that has achieved the high precision that we have shown in our study, nevertheless, these values have to be validated in separate clinical studies.</p><p>The longitudinal part of our study tracked 11 individuals as they transitioned from active EoE to remission, examining biomarker changes at the individual level. Notably, sIgG<sub>4</sub> levels decreased, even for specific allergens that had not been eliminated from the diet. A plausible explanation may be that when inflammation in the esophagus decreases, the damaged epithelial barrier begins to heal, resulting in a reduced ability for allergens to cross the esophageal barrier. Consequently, the sIgE and sIgG<sub>4</sub> levels may decrease in the blood. This was also in line with our findings of unchanged sIgG<sub>4</sub> levels in the patients who continued with an active EoE. The reduction of sIgG<sub>4</sub>&#x02010;levels to the milk allergens Bos d 4, Bos d 5, and Bos d 8 in patients with EoE who excluded milk from their diet and came into remission has been shown previously,<xref rid="all16275-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> but without describing how other sIgG<sub>4</sub> markers changed. In addition, levels of sIgE to milk also decreased upon remission in our study, possibly due to the combination of milk elimination and barrier restoration. The longitudinal variations of sIgE in EoE patients when they go into remission have, to our knowledge, not been previously studied.</p><p>This study's robustness is underscored by the large cohort of well&#x02010;characterized patients. The inclusion of diagnostic biopsies, confirming the esophageal status of all participants, adds further validity to our results. However, it is essential to acknowledge certain limitations. The different treatments to achieve remission introduces a heterogeneity, and the absence of information on the severity of allergic diseases and allergic rhinitis represent limitations. Moreover, despite the substantial patient population included, this study lacked sufficient power to conduct subgroup analyses on different treatments.</p><p>In conclusion, our study has shown a positive correlation between elevated levels of serum biomarkers (AEC, EDN, 15(S)&#x02010;HETE, and IgG<sub>4</sub>) and EoE. In addition, we have proposed an innovative panel of readily available plasma biomarkers (AEC, EDN, and sIgE to egg white, or wheat) with cutoff values, which together with typical EoE symptoms appear to be able to distinguish active EoE from EoE in remission and from healthy individuals.</p><p>For longitudinal monitoring of EoE, sIgG<sub>4</sub>, sIgE, and EDN would be important biomarkers to assess the regression of the esophageal inflammation.</p></sec><sec id="all16275-sec-0020"><title>AUTHOR CONTRIBUTIONS</title><p>
+<bold>Helena Thulin</bold>: Conceptualization, Methodology, Formal analysis, Investigation, Resources, Data Curation, Writing&#x02014;Original Draft, Writing&#x02014;Review &#x00026; Editing, Project administration. <bold>Ladan Mansouri</bold>: Conceptualization, Formal analysis, Writing&#x02013;Original Draft. <bold>Maria Altman</bold>: Conceptualization, Writing&#x02014;Original Draft. <bold>Simon Kebede Merid</bold>: Software, Formal analysis, Writing&#x02014;Original Draft. <bold>Joachim Lundahl</bold>: Conceptualization, Writing&#x02014;Original Draft. <bold>Caroline Nilsson</bold>: Conceptualization, Methodology, Writing&#x02014;Original Draft, Writing&#x02014;Review &#x00026; Editing, Supervision, Funding acquisition. <bold>Jesper S&#x000e4;fholm</bold>: Conceptualization, Formal analysis, Data Curation, Writing&#x02014;Original Draft, Writing&#x02014;Review &#x00026; Editing, Supervision, Funding acquisition.</p></sec><sec id="all16275-sec-0021"><title>FUNDING INFORMATION</title><p>Dr Thulin was supported by project grants from Mj&#x000f6;lkdroppen, Dr Nilsson was founded by Swedish Asthma and Allergy foundation, Jesper S&#x000e4;fholm was supported by Swedish Heart&#x02010;Lung Foundation, Magnus Bergvalls foundation, &#x000c5;ke Wibergs foundation, CABRI (Cayman Biomedical Research Institute) and Lars Hiertas minne. ThermoFisher Scientific supplied reagents for analysis of sIgE, IgG<sub>4</sub> and EDN.</p></sec><sec sec-type="COI-statement" id="all16275-sec-0022"><title>CONFLICT OF INTEREST STATEMENT</title><p>The authors report no conflicts of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="all16275-supitem-0001" position="float" content-type="local-data"><caption><p>
+Appendix S1.
+</p></caption><media xlink:href="ALL-79-3464-s001.docx"/></supplementary-material><supplementary-material id="all16275-supitem-0002" position="float" content-type="local-data"><caption><p>
+Appendix S2.
+</p></caption><media xlink:href="ALL-79-3464-s002.docx"/></supplementary-material></sec></body><back><ack id="all16275-sec-0051"><title>ACKNOWLEDGEMENTS</title><p>None.</p></ack><sec sec-type="data-availability" id="all16275-sec-0024"><title>DATA AVAILABILITY STATEMENT</title><p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p></sec><ref-list content-type="cited-references" id="all16275-bibl-0001"><title>REFERENCES</title><ref id="all16275-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="all16275-cit-0001">
+<string-name>
+<surname>Attwood</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Sabri</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Historical aspects of eosinophilic esophagitis: from case reports to clinical trials</article-title>. <source>Dig Dis</source>. <year>2014</year>;<volume>32</volume>:<fpage>34</fpage>&#x02010;<lpage>39</lpage>.<pub-id pub-id-type="pmid">24603378</pub-id>
+</mixed-citation></ref><ref id="all16275-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="all16275-cit-0002">
+<string-name>
+<surname>Liacouras</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name>
+<surname>Spergel</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Ruchelli</surname>
+<given-names>E</given-names>
+</string-name>, et&#x000a0;al. <article-title>Eosinophilic esophagitis: a 10&#x02010;year experience in 381 children</article-title>. <source>Clin Gastroenterol Hepatol</source>. <year>2005</year>;<volume>3</volume>:<fpage>1198</fpage>&#x02010;<lpage>1206</lpage>.<pub-id pub-id-type="pmid">16361045</pub-id>
+</mixed-citation></ref><ref id="all16275-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="all16275-cit-0003">
+<string-name>
+<surname>Lucendo</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Arias&#x02010;Gonzalez</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Molina&#x02010;Infante</surname>
+<given-names>J</given-names>
+</string-name>, et&#x000a0;al. <article-title>Systematic review: health&#x02010;related quality of life in children and adults with eosinophilic oesophagitis&#x02010;instruments for measurement and determinant factors</article-title>. <source>Aliment Pharmacol Ther</source>. <year>2017</year>;<volume>46</volume>:<fpage>401</fpage>&#x02010;<lpage>409</lpage>.<pub-id pub-id-type="pmid">28639700</pub-id>
+</mixed-citation></ref><ref id="all16275-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="all16275-cit-0004">
+<string-name>
+<surname>Marlais</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Francis</surname>
+<given-names>ND</given-names>
+</string-name>, <string-name>
+<surname>Fell</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Rawat</surname>
+<given-names>DJ</given-names>
+</string-name>. <article-title>Blood tests and histological correlates in children with eosinophilic oesophagitis</article-title>. <source>Acta Paediatr</source>. <year>2011</year>;<volume>100</volume>:<fpage>e75</fpage>&#x02010;<lpage>e79</lpage>.<pub-id pub-id-type="pmid">21352358</pub-id>
+</mixed-citation></ref><ref id="all16275-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="all16275-cit-0005">
+<string-name>
+<surname>Wechsler</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name>
+<surname>Ackerman</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Chehade</surname>
+<given-names>M</given-names>
+</string-name>, et&#x000a0;al. <article-title>Noninvasive biomarkers identify eosinophilic esophagitis: a prospective longitudinal study in children</article-title>. <source>Allergy</source>. <year>2021</year>;<volume>76</volume>:<fpage>3755</fpage>&#x02010;<lpage>3765</lpage>.<pub-id pub-id-type="pmid">33905577</pub-id>
+</mixed-citation></ref><ref id="all16275-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="all16275-cit-0006">
+<string-name>
+<surname>Konikoff</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name>
+<surname>Blanchard</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Kirby</surname>
+<given-names>C</given-names>
+</string-name>, et&#x000a0;al. <article-title>Potential of blood eosinophils, eosinophil&#x02010;derived neurotoxin, and eotaxin&#x02010;3 as biomarkers of eosinophilic esophagitis</article-title>. <source>Clin Gastroenterol Hepatol</source>. <year>2006</year>;<volume>4</volume>:<fpage>1328</fpage>&#x02010;<lpage>1336</lpage>.<pub-id pub-id-type="pmid">17059896</pub-id>
+</mixed-citation></ref><ref id="all16275-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="all16275-cit-0007">
+<string-name>
+<surname>Aalberse</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name>
+<surname>Platts&#x02010;Mills</surname>
+<given-names>TA</given-names>
+</string-name>, <string-name>
+<surname>Rispens</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>The developmental history of IgE and IgG4 antibodies in relation to atopy, eosinophilic esophagitis, and the modified TH2 response</article-title>. <source>Curr Allergy Asthma Rep</source>. <year>2016</year>;<volume>16</volume>:<fpage>45</fpage>.<pub-id pub-id-type="pmid">27221343</pub-id>
+</mixed-citation></ref><ref id="all16275-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="all16275-cit-0008">
+<string-name>
+<surname>Schuyler</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Wilson</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Tripathi</surname>
+<given-names>A</given-names>
+</string-name>, et&#x000a0;al. <article-title>Specific IgG4 antibodies to cow's milk proteins in pediatric patients with eosinophilic esophagitis</article-title>. <source>J Allergy Clin Immunol</source>. <year>2018</year>;<volume>142</volume>:<fpage>139</fpage>&#x02010;<lpage>148.e12</lpage>.<pub-id pub-id-type="pmid">29678750</pub-id>
+</mixed-citation></ref><ref id="all16275-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="all16275-cit-0009">
+<string-name>
+<surname>Lu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Herzlinger</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Cao</surname>
+<given-names>W</given-names>
+</string-name>, et&#x000a0;al. <article-title>Utility of 15(S)&#x02010;HETE as a serological marker for eosinophilic esophagitis</article-title>. <source>Sci Rep</source>. <year>2018</year>;<volume>8</volume>:<fpage>14498</fpage>.<pub-id pub-id-type="pmid">30266946</pub-id>
+</mixed-citation></ref><ref id="all16275-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="all16275-cit-0010">
+<string-name>
+<surname>Hines</surname>
+<given-names>BT</given-names>
+</string-name>, <string-name>
+<surname>Rank</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Wright</surname>
+<given-names>BL</given-names>
+</string-name>, et&#x000a0;al. <article-title>Minimally&#x02010;invasive biomarker studies in eosinophilic esophagitis: a systematic review</article-title>. <source>Ann Allergy Asthma Immunol</source>. <year>2018</year>;<volume>121</volume>:<fpage>218</fpage>&#x02010;<lpage>228</lpage>.<pub-id pub-id-type="pmid">29753832</pub-id>
+</mixed-citation></ref><ref id="all16275-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="all16275-cit-0011">
+<string-name>
+<surname>Min</surname>
+<given-names>SB</given-names>
+</string-name>, <string-name>
+<surname>Nylund</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Baker</surname>
+<given-names>TP</given-names>
+</string-name>, et&#x000a0;al. <article-title>Longitudinal evaluation of noninvasive biomarkers for eosinophilic esophagitis</article-title>. <source>J Clin Gastroenterol</source>. <year>2017</year>;<volume>51</volume>:<fpage>127</fpage>&#x02010;<lpage>135</lpage>.<pub-id pub-id-type="pmid">27479142</pub-id>
+</mixed-citation></ref><ref id="all16275-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="all16275-cit-0012">
+<string-name>
+<surname>Straumann</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kristl</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Conus</surname>
+<given-names>S</given-names>
+</string-name>, et&#x000a0;al. <article-title>Cytokine expression in healthy and inflamed mucosa: probing the role of eosinophils in the digestive tract</article-title>. <source>Inflamm Bowel Dis</source>. <year>2005</year>;<volume>11</volume>:<fpage>720</fpage>&#x02010;<lpage>726</lpage>.<pub-id pub-id-type="pmid">16043986</pub-id>
+</mixed-citation></ref><ref id="all16275-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="all16275-cit-0013">
+<string-name>
+<surname>Votto</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Marseglia</surname>
+<given-names>GL</given-names>
+</string-name>, <string-name>
+<surname>De Filippo</surname>
+<given-names>M</given-names>
+</string-name>, et&#x000a0;al. <article-title>Early life risk factors in pediatric EoE: could we prevent this modern disease?</article-title>
+<source>Front Pediatr</source>. <year>2020</year>;<volume>8</volume>:<fpage>263</fpage>.<pub-id pub-id-type="pmid">32548083</pub-id>
+</mixed-citation></ref><ref id="all16275-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="all16275-cit-0014">
+<string-name>
+<surname>Lucendo</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Molina&#x02010;Infante</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Arias</surname>
+<given-names>A</given-names>
+</string-name>, et&#x000a0;al. <article-title>Guidelines on eosinophilic esophagitis: evidence&#x02010;based statements and recommendations for diagnosis and management in children and adults</article-title>. <source>United European Gastroenterol J</source>. <year>2017</year>;<volume>5</volume>:<fpage>335</fpage>&#x02010;<lpage>358</lpage>.</mixed-citation></ref><ref id="all16275-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="all16275-cit-0015">
+<string-name>
+<surname>Dellon</surname>
+<given-names>ES</given-names>
+</string-name>, <string-name>
+<surname>Liacouras</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name>
+<surname>Molina&#x02010;Infante</surname>
+<given-names>J</given-names>
+</string-name>, et&#x000a0;al. <article-title>Updated international consensus diagnostic criteria for eosinophilic esophagitis: Proceedings of the AGREE Conference</article-title>. <source>Gastroenterology</source>. <year>2018</year>;<volume>155</volume>:<fpage>1022</fpage>&#x02010;<lpage>1033</lpage>.<pub-id pub-id-type="pmid">30009819</pub-id>
+</mixed-citation></ref><ref id="all16275-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="all16275-cit-0016">
+<string-name>
+<surname>Subbarao</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Rosenman</surname>
+<given-names>MB</given-names>
+</string-name>, <string-name>
+<surname>Ohnuki</surname>
+<given-names>L</given-names>
+</string-name>, et&#x000a0;al. <article-title>Exploring potential noninvasive biomarkers in eosinophilic esophagitis in children</article-title>. <source>J Pediatr Gastroenterol Nutr</source>. <year>2011</year>;<volume>53</volume>:<fpage>651</fpage>&#x02010;<lpage>658</lpage>.<pub-id pub-id-type="pmid">21694637</pub-id>
+</mixed-citation></ref><ref id="all16275-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="all16275-cit-0017">
+<string-name>
+<surname>Schlag</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Miehlke</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Heiseke</surname>
+<given-names>A</given-names>
+</string-name>, et&#x000a0;al. <article-title>Peripheral blood eosinophils and other non&#x02010;invasive biomarkers can monitor treatment response in eosinophilic oesophagitis</article-title>. <source>Aliment Pharmacol Ther</source>. <year>2015</year>;<volume>42</volume>:<fpage>1122</fpage>&#x02010;<lpage>1130</lpage>.<pub-id pub-id-type="pmid">26314389</pub-id>
+</mixed-citation></ref><ref id="all16275-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="all16275-cit-0018">
+<string-name>
+<surname>Straumann</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Conus</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Degen</surname>
+<given-names>L</given-names>
+</string-name>, et&#x000a0;al. <article-title>Budesonide is effective in adolescent and adult patients with active eosinophilic esophagitis</article-title>. <source>Gastroenterology</source>. <year>2010</year>;<volume>139</volume>(<issue>1526&#x02013;37</issue>):<fpage>1537</fpage>.</mixed-citation></ref><ref id="all16275-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="all16275-cit-0019">
+<string-name>
+<surname>Hill</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Dudley</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Spergel</surname>
+<given-names>JM</given-names>
+</string-name>. <article-title>The prevalence of eosinophilic esophagitis in pediatric patients with IgE&#x02010;mediated food allergy</article-title>. <source>J Allergy Clin Immunol Pract</source>. <year>2017</year>;<volume>5</volume>:<fpage>369</fpage>&#x02010;<lpage>375</lpage>.<pub-id pub-id-type="pmid">28042003</pub-id>
+</mixed-citation></ref><ref id="all16275-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="all16275-cit-0020">
+<string-name>
+<surname>Clayton</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Fang</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Gleich</surname>
+<given-names>GJ</given-names>
+</string-name>, et&#x000a0;al. <article-title>Eosinophilic esophagitis in adults is associated with IgG4 and not mediated by IgE</article-title>. <source>Gastroenterology</source>. <year>2014</year>;<volume>147</volume>:<fpage>602</fpage>&#x02010;<lpage>609</lpage>.<pub-id pub-id-type="pmid">24907494</pub-id>
+</mixed-citation></ref><ref id="all16275-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="all16275-cit-0021">
+<string-name>
+<surname>Wong</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Ruszkiewicz</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Nguyen</surname>
+<given-names>NQ</given-names>
+</string-name>. <article-title>Distinguishing gastroesophageal reflux disease and eosinophilic esophagitis in adults: the role of esophageal mucosal immunoglobulin G4</article-title>. <source>JGH Open</source>. <year>2020</year>;<volume>4</volume>:<fpage>851</fpage>&#x02010;<lpage>855</lpage>.<pub-id pub-id-type="pmid">33102754</pub-id>
+</mixed-citation></ref><ref id="all16275-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="all16275-cit-0022">
+<string-name>
+<surname>Wright</surname>
+<given-names>BL</given-names>
+</string-name>, <string-name>
+<surname>Kulis</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>
+<given-names>R</given-names>
+</string-name>, et&#x000a0;al. <article-title>Food&#x02010;specific IgG(4) is associated with eosinophilic esophagitis</article-title>. <source>J Allergy Clin Immunol</source>. <year>2016</year>;<volume>138</volume>:<fpage>1190</fpage>&#x02010;<lpage>1192.e3</lpage>.<pub-id pub-id-type="pmid">27130859</pub-id>
+</mixed-citation></ref><ref id="all16275-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="all16275-cit-0023">
+<string-name>
+<surname>Johnsson</surname>
+<given-names>AK</given-names>
+</string-name>, <string-name>
+<surname>R&#x000f6;nnberg</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Fuchs</surname>
+<given-names>D</given-names>
+</string-name>, et&#x000a0;al. <article-title>COX&#x02010;1 dependent biosynthesis of 15&#x02010;hydroxyeicosatetraenoic acid in human mast cells</article-title>. <source>Biochim Biophys Acta Mol Cell Biol Lipids</source>. <year>2021</year>;<volume>1866</volume>:<elocation-id>158886</elocation-id>.<pub-id pub-id-type="pmid">33450390</pub-id>
+</mixed-citation></ref><ref id="all16275-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="all16275-cit-0024">
+<string-name>
+<surname>Dellon</surname>
+<given-names>ES</given-names>
+</string-name>, <string-name>
+<surname>Selitsky</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name>
+<surname>Genta</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>Lash</surname>
+<given-names>RH</given-names>
+</string-name>, <string-name>
+<surname>Parker</surname>
+<given-names>JS</given-names>
+</string-name>. <article-title>Gene expression&#x02010;phenotype associations in adults with eosinophilic esophagitis</article-title>. <source>Dig Liver Dis</source>. <year>2018</year>;<volume>50</volume>:<fpage>804</fpage>&#x02010;<lpage>811</lpage>.<pub-id pub-id-type="pmid">29628359</pub-id>
+</mixed-citation></ref><ref id="all16275-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="all16275-cit-0025">
+<string-name>
+<surname>Matoso</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Allen</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Herzlinger</surname>
+<given-names>M</given-names>
+</string-name>, et&#x000a0;al. <article-title>Correlation of ALOX15 expression with eosinophilic or reflux esophagitis in a cohort of pediatric patients with esophageal eosinophilia</article-title>. <source>Hum Pathol</source>. <year>2014</year>;<volume>45</volume>:<fpage>1205</fpage>&#x02010;<lpage>1212</lpage>.<pub-id pub-id-type="pmid">24742828</pub-id>
+</mixed-citation></ref><ref id="all16275-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="all16275-cit-0026">
+<string-name>
+<surname>Celik</surname>
+<given-names>GE</given-names>
+</string-name>, <string-name>
+<surname>Erkekol</surname>
+<given-names>FO</given-names>
+</string-name>, <string-name>
+<surname>Misirligil</surname>
+<given-names>Z</given-names>
+</string-name>, et&#x000a0;al. <article-title>Lipoxin A4 levels in asthma: relation with disease severity and aspirin sensitivity</article-title>. <source>Clin Exp Allergy</source>. <year>2007</year>;<volume>37</volume>:<fpage>1494</fpage>&#x02010;<lpage>1501</lpage>.<pub-id pub-id-type="pmid">17883729</pub-id>
+</mixed-citation></ref><ref id="all16275-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="all16275-cit-0027">
+<string-name>
+<surname>Wu</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>XQ</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name>
+<surname>Dong</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Efficacy and safety of 15(R/S)&#x02010;methyl&#x02010;lipoxin a(4) in topical treatment of infantile eczema</article-title>. <source>Br J Dermatol</source>. <year>2013</year>;<volume>168</volume>:<fpage>172</fpage>&#x02010;<lpage>178</lpage>.<pub-id pub-id-type="pmid">22834636</pub-id>
+</mixed-citation></ref><ref id="all16275-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="all16275-cit-0028">
+<string-name>
+<surname>Yokomizo</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Kato</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Hagiya</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Izumi</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Shimizu</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Hydroxyeicosanoids bind to and activate the low affinity leukotriene B4 receptor, BLT2</article-title>. <source>J Biol Chem</source>. <year>2001</year>;<volume>276</volume>:<fpage>12454</fpage>&#x02010;<lpage>12459</lpage>.<pub-id pub-id-type="pmid">11278893</pub-id>
+</mixed-citation></ref><ref id="all16275-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="all16275-cit-0029">
+<string-name>
+<surname>Naruhn</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Meissner</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Adhikary</surname>
+<given-names>T</given-names>
+</string-name>, et&#x000a0;al. <article-title>15&#x02010;hydroxyeicosatetraenoic acid is a preferential peroxisome proliferator&#x02010;activated receptor beta/delta agonist</article-title>. <source>Mol Pharmacol</source>. <year>2010</year>;<volume>77</volume>:<fpage>171</fpage>&#x02010;<lpage>184</lpage>.<pub-id pub-id-type="pmid">19903832</pub-id>
+</mixed-citation></ref><ref id="all16275-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="all16275-cit-0030">
+<string-name>
+<surname>Nhu</surname>
+<given-names>QM</given-names>
+</string-name>, <string-name>
+<surname>Hsieh</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Dohil</surname>
+<given-names>L</given-names>
+</string-name>, et&#x000a0;al. <article-title>Antifibrotic effects of the Thiazolidinediones in eosinophilic esophagitis pathologic remodeling: a preclinical evaluation</article-title>. <source>Clin Transl Gastroenterol</source>. <year>2020</year>;<volume>11</volume>:<elocation-id>e00164</elocation-id>.<pub-id pub-id-type="pmid">32352681</pub-id>
+</mixed-citation></ref><ref id="all16275-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="all16275-cit-0031">
+<string-name>
+<surname>Durrani</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name>
+<surname>Mukkada</surname>
+<given-names>VA</given-names>
+</string-name>, <string-name>
+<surname>Guilbert</surname>
+<given-names>TW</given-names>
+</string-name>. <article-title>Eosinophilic esophagitis: an important comorbid condition of asthma?</article-title>
+<source>Clin Rev Allergy Immunol</source>. <year>2018</year>;<volume>55</volume>:<fpage>56</fpage>&#x02010;<lpage>64</lpage>.<pub-id pub-id-type="pmid">29455359</pub-id>
+</mixed-citation></ref><ref id="all16275-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="all16275-cit-0032">
+<string-name>
+<surname>Bayram</surname>
+<given-names>RO</given-names>
+</string-name>, <string-name>
+<surname>&#x000d6;zdemir</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Emsen</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>T&#x000fc;rk Da&#x0011f;&#x00131;</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Arta&#x000e7;</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Reference ranges for serum immunoglobulin (IgG, IgA, and IgM) and IgG subclass levels in healthy children</article-title>. <source>Turk J Med Sci</source>. <year>2019</year>;<volume>49</volume>:<fpage>497</fpage>&#x02010;<lpage>505</lpage>.<pub-id pub-id-type="pmid">30997788</pub-id>
+</mixed-citation></ref></ref-list></back></article>

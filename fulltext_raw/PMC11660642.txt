@@ -1,0 +1,495 @@
+pmc
+Alzheimers Res Ther
+Alzheimers Res Ther
+Alzheimer's Research & Therapy
+1758-9193
+BioMed Central
+London
+11660642
+1630
+10.1186/s13195-024-01630-5
+Research
+Analytical and clinical performance of eight Simoa
+®
+and Lumipulse
+®
+assays for automated measurement of plasma p-tau181 and p-tau217
+Wojdała
+Anna L.
+a.l.wojdala@amsterdamumc.nl
+1
+Vanbrabant
+Jeroen
+2
+Bayoumy
+Sherif
+1
+Antwi-Berko
+Daniel
+1
+Bastard
+Nathalie Le
+3
+van der Flier
+Wiesje M.
+4
+5
+Jeromin
+Andreas
+6
+Lambrechts
+Charlotte
+2
+Van Loo
+Maxime
+2
+Vandijck
+Manu
+3
+Stoops
+Erik
+2
+Verberk
+Inge M. W.
+1
+Teunissen
+Charlotte E.
+1
+1
+https://ror.org/01x2d9f70
+grid.484519.5
+Neurochemistry Laboratory, Department of Laboratory Medicine,
+Amsterdam UMC, Vrije Universiteit Amsterdam, Amsterdam Neuroscience,
+Amsterdam, The Netherlands
+2
+https://ror.org/016c76a68
+ADx NeuroSciences NV,
+Ghent, Belgium
+3
+https://ror.org/003dqcp70
+grid.420287.b
+0000 0004 0626 367X
+Fujirebio Europe NV,
+Ghent, Belgium
+4
+https://ror.org/01x2d9f70
+grid.484519.5
+Alzheimer Center, Department of Neurology,
+Amsterdam UMC, Vrije Universiteit Amsterdam, Amsterdam Neuroscience,
+Amsterdam, The Netherlands
+5
+https://ror.org/008xxew50
+grid.12380.38
+0000 0004 1754 9227
+Amsterdam Public Health, Methodology & Digital Health, Amsterdam UMC, Vrije Universiteit Amsterdam,
+Amsterdam, The Netherlands
+6
+ALZpath. Inc, Carlsbad, CA USA
+19
+12
+2024
+19
+12
+2024
+2024
+16
+266
+13
+8
+2024
+21
+11
+2024
+© The Author(s) 2024
+2024
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+Open Access
+This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+.
+Background
+Among the Alzheimer’s disease (AD) biomarkers measured in blood, phosphorylated forms of tau (p-tau) have been shown to exhibit a particularly high diagnostic potential. Here, we performed a comprehensive method comparison study, followed by evaluation of the diagnostic performance of eight recent plasma p-tau immunoassays targeting different tau phosphorylation sites, different tau fragments, and that are measured by two distinct platforms.
+Methods
+We enrolled a cohort of 40 patients with AD at the stage of dementia (AD-dem) characterized by positive CSF A + T + profile, and a control group of 40 cognitively healthy participants (Control), to conduct a comprehensive method comparison for three plasma p-tau181 and five plasma p-tau217 assays run on the Simoa
+®
+HD-X™ or Lumipulse
+®
+G600II/G1200 platforms. Design of the compared assays differed in regard to: (1) tau phosphorylation site targeted by the capture antibody (T181 or T217), and (2) epitope of the pan-tau detector antibody (N-terminal or mid-region). For each of the assays we determined precision and analytical sensitivity parameters and used Passing-Bablok regression and Bland-Altman plots for pairwise comparison of p-tau181 or p-tau217 assays. Subsequently, we evaluated the diagnostic accuracy of all the assays for discrimination between AD-dem and Control groups.
+Results
+We found a strong, positive correlation between all the measurements. Fixed and/or proportional bias was observed for each of compared p-tau181 assay pairs or p-tau217 assay pairs. While both plasma p-tau181 and p-tau217 levels were significantly increased in AD-dem vs. Control groups as measured by all assays, higher median concentration AD-dem/Control fold change and AUC values were observed for p-tau217 (assays range: fold change 3.72–6.74, AUC 0.916–0.956) compared with p-tau181 (assays range 1.81–2.94, AUC 0.829–0.909), independently of the platform used. No significant differences were observed between diagnostic performance of p-tau181 assays or p-tau217 assays targeting tau N-terminus or mid-region.
+Conclusions
+Although all plasma p-tau measurements enabled discrimination between clinical groups, p-tau217 assays showed the highest robustness, independently of the pan-tau detector antibody targeting N-terminal or mid-region, and independently of the platform used. Considering the observed method disagreement in measured absolute concentrations, we stress the need for development of certified reference material, harmonizing measurements across different platforms.
+Supplementary Information
+The online version contains supplementary material available at 10.1186/s13195-024-01630-5.
+Keywords
+Alzheimer’s disease
+Blood
+Plasma
+Biomarkers
+Immunoassay
+P-tau181
+P-tau217
+Simoa
+Lumipulse
+issue-copyright-statement
+© BioMed Central Ltd., part of Springer Nature 2024
+Background
+Last decade brought technological advancements that enabled fluid Alzheimer’s disease (AD) biomarker detection not only in cerebrospinal fluid (CSF) but also in more accessible, peripheral matrices such as blood plasma. In the light of the first disease-modifying therapies (DMT) becoming available, the ongoing CSF-to-plasma biomarker transition is expected to revolutionize the initial diagnostic process, timely intervention, as well as further monitoring of disease progression and response to treatment [
+1
+–
+8
+].
+Among the plasma markers, phosphorylated forms of tau emerged as particularly promising to identify AD pathology: similarly to what is observed in CSF, several p-tau forms measured in plasma have been shown to effectively discriminate between patients along the AD continuum and cognitively healthy controls or non-AD dementia patients [
+9
+–
+22
+]. This has been shown in cohorts with AD pathology defined by analysis of CSF biomarkers [
+7
+,
+23
+,
+24
+], amyloid positron emission tomography (PET) [
+21
+,
+25
+,
+26
+], and in autopsy-confirmed AD cases [
+15
+,
+19
+,
+27
+]. Importantly, plasma p-tau forms have been shown to differentiate between the cognitively unimpaired controls without AD pathology and the individuals at the asymptomatic, preclinical AD continuum stage [
+7
+,
+21
+,
+26
+,
+28
+]. Although p-tau181 was the first established and commercially available p-tau AD biomarker, recent studies proposed another epitope – p-tau217 – to be the top-performing p-tau marker of early AD pathology [
+12
+,
+15
+,
+16
+,
+21
+,
+28
+–
+30
+]. Moreover, the diagnostic accuracy of plasma p-tau217 for discrimination of amyloid-PET positivity has been suggested to equal the one observed for its CSF equivalent [
+31
+]. Accordingly, the clinical implementation of this marker is being discussed e.g., incorporated in risk prediction models for predicting amyloid status [
+4
+].
+Technically, plasma p-tau proteoforms can be measured by both mass spectrometry and immunoassay techniques, where both methods enable their highly sensitive and specific detection in blood-derived matrices. At the same time, immunoassays are characterized by higher throughput, with concomitant lower sample volume required [
+32
+]. Thanks to both centralized and decentralized testing abilities, immunoassays offer wider accessibility, not limited to highly specialized centers. Additionally, lower cost, shorter sample preparation time, and simple data analysis, jointly contribute to preferential implementation of the immunoassay-based platforms in standard clinical diagnostic laboratories [
+32
+]. Although the commercially available immunoassay instruments employ standard principles of sandwich immunoassays, lack of certified reference material, differences in selected antibody pairs, assay set-up, and/or instrument characteristics, might hinder harmonized interpretation of the between-laboratory results obtained by distinct methodologies [
+33
+,
+34
+].
+In order to complement previous reports evaluating performance of distinct plasma p-tau epitopes [
+29
+,
+30
+,
+35
+–
+38
+], we conducted a head-to-head comparison of eight immunoassays for detection of plasma tau phosphorylated at T181 or T217 measured on Simoa
+®
+HD-X™ and Lumipulse
+®
+G600/G1200 automated platforms.
+Methods
+Study participants
+The enrolled cohort was composed of age- and sex-matched participants (
+n
+= 80), including 40 patients diagnosed with AD-dem from the Amsterdam Dementia Cohort [
+39
+,
+40
+] and 40 subjects from the Dutch Brain Research Registry (Hersenonderzoek.nl) who self-reported to be cognitively healthy (Table
+1
+) [
+41
+]. AD diagnosis was based on the NIA-AA diagnostic criteria [
+8
+,
+39
+,
+42
+] and confirmed by the assessment of CSF Aβ
+42
+, total-tau (t-tau), and p-tau181 (Innotest or Elecsys, Cobas e 601 analyzer, Roche Diagnostics GmbH, Germany) [
+43
+–
+45
+]. All patients within AD-dem group had A+/T + CSF profile. Median score of Mini-Mental State Examination (MMSE) in AD-dem group was 18 (13–22) (Q1-Q3). For the control group (Control), no brain amyloid PET or CSF data were available. For all the control participants, plasma Aβ
+42/40
+was assessed by Lumipulse G600, Fujirebio, Japan (Table
+1
+). Plasma Aβ
+42
+and Aβ
+42/40
+were shown to differ between the groups (Control vs. AD-dem
+p
+< 0.000001) [
+24
+]. According to the previously published cut-off for prediction of CSF-determined amyloidosis by assessment of plasma Aβ
+42/40
+(plasma Aβ
+42/40
+< 0.0807), A- plasma profile was determined for 83% of the Control group [
+24
+].
+Plasma collection and storage
+For all participants, blood was collected through venipuncture in K
+2
+EDTA anticoagulant tubes (Sarstedt, Germany). Following 10 min centrifugation at 1800 × g, plasma was aliquoted in 0.5 mL portions in polypropylene storage tubes (Sarstedt, Germany), stored at − 80 °C until use. Before the measurements, plasma samples were thawed at room temperature (15 °C to 25 °C) for 30 min, vortexed for 10 s, and centrifuged for 5 min at 2000 × g (Lumipulse
+®
+assays) or for 5 min at 10 000 × g (Simoa
+®
+assays) .
+Plasma p-tau measurement
+We employed eight immunoassays for blood plasma detection of p-tau181 (3 assays: p-tau181 Lumipulse Fujirebio (previously published [
+24
+]), p-tau181v2 Simoa Quanterix (further referred as p-tau181 Simoa Quanterix) [
+23
+], p-tau181 Simoa ADx) and p-tau217 (5 assays: p-tau217 mid-region Lumipulse Fujirebio, p-tau217 N-term Lumipulse ADx, p-tau217 Simoa Alzpath [
+28
+], p-tau217 Simoa Janssen, p-tau217 Simoa ADx). Three of the assays (p-tau181 Lumipulse Fujirebio, p-tau217 mid-region Lumipulse, and p-tau217 N-term Lumipulse ADx) were run on the Lumipulse
+®
+instrument (Fujirebio, Japan) and five of the assays (p-tau181 Simoa Quanterix, p-tau181 Simoa ADx, p-tau217 Simoa Alzpath, p-tau217 Simoa Janssen, p-tau217 Simoa ADx) were run on the HD-X™ instrument (Quanterix Corp., MA, USA) [
+32
+,
+46
+–
+48
+]. Two plasma p-tau181 assays shared the same capture antibody against p-tau181 (AT270) but used distinct detector antibodies targeting tau N-terminus (Tau12; p-tau181 Simoa Quanterix) or mid-region (HT7 (aa 154–163)/BT2 (aa 193–207); p-tau181 Lumipulse Fujirebio). Two plasma p-tau217 assays employed the same anti-p-tau217 capture antibody (RD-85) but employed distinct detector antibodies for detection of protein N-terminus (RD-73, aa 6–24; p-tau217 N-term Lumipulse ADx) or mid-region (HT7 (aa 154–163)/BT2 (aa 193–207); p-tau217 mid-region Lumipulse Fujirebio). Detailed technical assay characteristics are summarized in Table
+2
+. The measurements were performed at Neurochemistry Laboratory, Amsterdam UMC, with the exception of p-tau181 Simoa ADx, p-tau217 Simoa ADx, and p-tau217 N-term Lumipulse ADx for which the measurements were performed at ADx NeuroSciences (Belgium).
+For all Simoa assays as well as for p-tau181 Lumipulse Fujirebio assay, clinical samples were run in duplicate. For p-tau217 Lumipulse N-term ADx and p-tau217 mid-region Lumipulse Fujirebio assays, clinical samples were run in single. For each of the assays, 3 quality control plasma pool samples were included together with the clinical samples.
+Analytical validation was performed according to Andreasson et al., 2015 [
+49
+]. The intra-assay precision (average intra-assay coefficient of variation % (CV%)) was assessed separately for duplicate measurements of the eighty clinical samples and for duplicate measurements of the 3 quality control (QC) plasma pool samples (high, medium, low). The inter-assay precision (average inter-assay CV%) was calculated by measuring the QC plasma pool samples > 2 times.
+Statistical analysis
+Statistical analysis was performed with use of GraphPad Prism software version 9.5.1 (San Diego, USA) and R software version 4.3.1 (Vienna, Austria). The power analysis (estimate of plasma p-tau181 and p-tau217 levels derived from [
+14
+,
+19
+,
+28
+]), showed that a minimum sample size of 4–8 participants per group is required to achieve β = 0.2 and α = 0.05 for detection of true differences between AD-dem and Control groups. Bonferroni correction was applied to adjust for multiple comparisons with eight different immunoassays: α = 0.05/k compared immunoassays, k = 8, α = 0.00625). Following assessment of data normality by d’Agostino-Pearson, non-parametric tests were used for further analyses. Spearman correlation analysis (Hmisc R package) was used for assessment of correlation between the assays (clustered heatmap with dendrogram created with pheatmap R package). Bland-Altman plots (% difference vs. average, where % difference = 100*(assay 1 - assay 2)/average of the two assays) and Passing-Bablok regression analysis (mcr R package, confidence intervals (CI) 95% confidence level, 1000 bootstrap samples, quantile method) were employed for method comparison [
+50
+,
+51
+]. Presence of fixed bias was defined as range of 95% CI of intercept not including 0 [
+52
+]. Presence of proportional bias was defined as range of 95% CI of slope not including 1 [
+52
+]. Mann-Whitney U test was applied for comparison between clinical groups. Receiver Operating Characteristic (ROC) analysis (95% CI, Wilson/Brown method) was applied to calculate the accuracy of each assay to discriminate between AD-dem and Control groups. DeLong test was employed for comparison of Area Under Curve (AUC) values between the assays (pROC R package). The assay- and lot-specific cut-off values were determined using Youden index [
+53
+].
+Results
+Method comparison
+For all the plasma p-tau assays, measurement of the plasma QC samples showed a satisfactory intra-assay precision (coefficient of variation < 20%) (Table
+2
+).
+Strong, positive correlations were observed between all plasma p-tau assays, as assessed by Spearman correlation analysis in the whole cohort (Fig.
+1
+). The strongest correlations were observed among the results obtained with the pairs of p-tau217 assays (ρ range 0.85–0.96). Slightly lower correlation coefficients were found for correlations between p-tau217 and p-tau181 assays (ρ range 0.76–0.87), and the weakest, though still strong correlation coefficients were found in-between p-tau181 assays (ρ range 0.77–0.81).
+Visual inspection of Bland-Altman plots assessing % difference vs. average for pairs of the p-tau181 or pairs of p-tau217 assays pointed to between-method discrepancies in measured values (Supplementary Fig. 1). This has been further confirmed by Passing-Bablok regression analysis (Fig.
+2
+). The equations defining regression fit parameters (slope, intercept, with related 95% CI) reflected differences in assays range/calibration (Table
+3
+) as fixed bias of varying degree was observed in majority of compared assay pairs (fixed bias defined as 95% CI of intercept not including 0) (Table
+3
+, Fig.
+2
+). Further, presence of proportional bias was assessed for all comparisons (proportional bias defined as 95% CI of slope not including 1). The number of outliers from the linear fit was observed to follow an increasing concentration (Fig.
+2
+). Among the comparisons for which significant fixed bias was not determined, the slope closest to 1 was observed for p-tau181 Simoa Quanterix and p-tau181 Lumipulse Fujirebio comparison [(p-tau181 Lumipulse Fujirebio) = −0.072 + 1.192*(p-tau181 Simoa Quanterix)]; Table
+3
+. Accordingly, Bland-Altman plots showed a relatively low bias between these assays (mean % difference: −14.87%, 95% limits of agreement − 84.94–55.20%, Supplementary Fig. 1).
+Diagnostic performance
+As measured by all the assays, plasma p-tau levels were significantly increased in AD-dem compared with Control group (
+p
+≤ 0.000001) (Fig.
+3
+). The highest median concentration fold change assessed for AD-dem/Control was found for p-tau217 mid-region Lumipulse Fujirebio (fold change = 6.74). Independently of the platform used, this was followed by the other p-tau217 assays (p-tau217 Simoa Janssen, p-tau217 Simoa Alzpath, p-tau217 Simoa ADx, p-tau217 N-term Lumipulse ADx), which showed median concentration fold change values in the range 3.72–4.32 (Fig.
+3
+). Median concentration fold change values assessed for p-tau181 assays were lower (range 1.81–2.94) (Fig.
+3
+).
+ROC analysis for both p-tau proteoforms showed good ability to discriminate between Control and AD-dem group, with the AUC values ranging from 0.956 (p-tau217 mid-region Lumipulse Fujirebio) to 0.916 (p-tau217 Simoa Alzpath) for p-tau217 assays and AUCs ranging from 0.909 (p-tau181 Lumipulse Fujirebio) to 0.829 (p-tau181 Simoa Quanterix) for p-tau181 assays (Fig.
+4
+). All assays allowed to determine Youden’s cutoff with both sensitivity and specificity ≥ 80% [
+54
+], with p-tau217 mid-region Lumipulse Fujirebio measurements providing the highest combined sensitivity (95%) and specificity (95%) (Fig.
+4
+). DeLong test showed a comparable discriminatory performance of all the assays (DeLong’s
+p
+≥ 0.00625), except p-tau181 Simoa Quanterix assay: AUC obtained for p-tau181 Simoa Quanterix was significantly lower compared with AUC of p-tau217 mid-region Lumipulse Fujirebio (
+p
+≤ 0.002), p-tau217 Simoa Janssen (
+p
+≤ 0.002), p-tau217 N-term Lumipulse ADx (
+p
+≤ 0.003), and p-tau217 Simoa Alzpath (
+p
+≤ 0.005) (Supplementary Table 1).
+In comparison of AUCs of the assays employing the same capture anti-p-tau181 antibody (AT270) but distinct detector antibodies targeting tau N-terminus (Tau12; p-tau181 Simoa Quanterix) or mid-region (HT7 (aa 154–163)/BT2 (aa 193–207); p-tau181 Lumipulse Fujirebio), higher nominal AUC was shown for mid-region assay but no significant difference was observed. Similarly, in comparison of plasma p-tau217 assays sharing the same capture anti-p-tau217 antibody (RD-85) but distinct detector antibodies targeting protein N-terminus (RD-73, aa 6–24; p-tau217 N-term Lumipulse ADx) or mid-region (HT7 (aa 154–163)/BT2 (aa 193–207); p-tau217 mid-region Lumipulse Fujirebio), higher nominal AUC was calculated for mid-region assay, but no significant difference was identified.
+Discussion
+In the present study we compared three p-tau181 and five p-tau217 plasma immunoassays measured in a cohort of 40 patients with AD-dem and 40 cognitively healthy controls. The assays were run on fully automated Lumipulse
+®
+or semi-automated HD-X™ instruments, enabling high throughput measurements, with a minimum hands-on time required. Independently of the platform used, all compared assays showed a satisfactory analytical sensitivity and precision, with average inter- and intra-assay variability of QC samples < 20%. Three of the plasma p-tau217 assays – mid-region Lumipulse Fujirebio, N-term Lumipulse ADx, and Simoa Janssen – showed inter- and intra-assay variability < 10%.
+Following the head-to-head analysis, we report a significant positive correlation between all the analyzed p-tau measurements, with the highest correlation observed for pairs of p-tau217 assays. Despite the strong correlations, method comparison analysis (Passing-Bablok regression, Bland-Altman plots) revealed presence of between-assay discrepancies, indicative of fixed and/or proportional bias and non-linear correlations for majority of comparisons. The best agreement was found in comparison of p-tau181 Simoa Quanterix and p-tau181 Lumipulse Fujirebio assays, where the relatively limited discrepancy corresponds to calibration curve ranges less distinct than those developed for other assays (Lumipulse Fujirebio 0–60 pg/mL, Simoa Quanterix 0–74.6 pg/mL). Following the observed differences, we derived Passing-Bablok regression formulas for translation of p-tau concentrations obtained by different assays. However, considering potential inaccuracy driven by batch-to-batch differences and the presence of non-linear correlations, the formulas should be externally validated and carefully interpreted, with consideration of the specific research context. Importantly, development of the certified reference material remains a key step toward standardization of the assays, including assays calibration and sensitivity, and thus reduction of the fixed and proportional bias [
+33
+].
+Regardless of the between-method discrepancies, we report good to excellent diagnostic performance of all assays. As measured by all eight assays, plasma p-tau181 and p-tau217 levels were significantly increased in AD-dem group when compared with cognitively healthy controls, with median concentration fold change values (AD-dem/Control) being higher for the p-tau217 assays than for the p-tau181 assays. This is in agreement with the previous studies where plasma p-tau217 showed the highest fold change when compared with other p-tau epitopes measured in AD continuum and control groups [
+30
+,
+38
+,
+55
+,
+56
+]. Higher fold change between the disease and control state is indicative of a wide dynamic range and/or limited within-group biological variation [
+6
+]. Among the five p-tau217 assays included in our analysis, the fold change value assessed for p-tau217 mid-region Lumipulse Fujirebio assay was visibly higher (6.74) than the fold changes determined for the remaining four p-tau217 assays (range 3.72–4.32), thus, indicating a particular robustness of this assay. In agreement, we found this assay to provide the highest nominal AUC in discrimination between Control and AD-dem groups (AUC = 0.956, 95% CI 0.902–1.000), enabling determination of a cut-off with both very high sensitivity (95%) and specificity (95%); however, this AUC value was not significantly different than AUC values calculated for other p-tau217 assays. Among the Simoa
+®
+assays, the highest fold change was shown by p-tau217 Simoa Janssen assay (4.32), which yielded nominal AUC value (0.942 95% CI 0.883–1.000), with Youden’s cut-off providing 98% sensitivity and 85% specificity. Interestingly, plasma p-tau217 Simoa Janssen is the assay commercially offered as p-tau217+, where “+” refers to the capture antibody (PT3) targeting, next to T217, also tau phosphorylation at T212 [
+57
+]. While this lack of antibody specificity for the main targeted site has been recently proposed to have a detrimental effect on diagnostic performance [
+35
+], this has not been observed in our cohort, consistent with previous reports [
+29
+,
+58
+]. In light of a recent evidence for AD biomarker potential of p-tau212, it might be that the multi-epitope antibody binding contributes to the enhanced diagnostic accuracy of the assay [
+20
+]. Overall, an excellent diagnostic accuracy was observed for all analyzed p-tau217 assays, providing AUC range of 0.916–0.956, with no statistically significant differences between AUC values. The performance of p-tau181 assays was lower though still high (AUC range 0.829–0.909, fold change range 1.81–2.94), with the significant difference observed between AUC of p-tau181 Simoa Quanterix assay (0.829, 95% CI 0.736–0.922) and AUC values obtained for each of the p-tau217 assays. These results are consistent with a number of recent studies employing large, well-characterized cohorts of patients across all the AD continuum, including preclinical AD, where excellent diagnostic performance has been reported for plasma p-tau217 assays included in the present comparison (p-tau217 mid-region Lumipulse Fujirebio, p-tau217 Simoa Janssen, p-tau217 Simoa Alzpath) [
+28
+,
+29
+,
+35
+,
+36
+,
+56
+,
+58
+,
+59
+]. Studies assessing diagnostic performance of plasma p-tau181 range from those reporting on moderate [
+60
+] to very good accuracy [
+24
+,
+61
+] of this biomarker in discrimination of AD pathology. Interestingly, plasma p-tau181 Simoa Quanterix and plasma p-tau181 Simoa ADx are the assays which performance was also assessed in our previous work, where higher diagnostic accuracy has been observed compared with a present report [
+37
+]. However, despite the similar study design applied in both studies, the cohorts were composed of different individuals, possibly driving the observed difference [
+37
+]. Nevertheless, while the satisfactory diagnostic performance of plasma p-tau181 is well established at the advanced disease stages, in recent studies assessing both plasma p-tau181 and p-tau217 levels in the same cohort and on the same instrument (Simoa
+®
+HD-X™ [
+56
+], Lumipulse
+®
+G600 [
+59
+]), p-tau217 measurements unanimously showed higher robustness and superior performance in discrimination of early disease stages [
+56
+,
+59
+].
+Interestingly, it has been recently proposed, that the length of targeted tau fragments may impact biomarker performance in body fluids, especially at the early stages of AD continuum [
+62
+,
+63
+]. This has been shown for CSF and plasma total tau [
+62
+] and CSF p-tau assays [
+62
+,
+63
+], where the assays targeting minimal N-terminal sequence provided improved diagnostic accuracy compared with the assays targeting mid-region fragments [
+62
+,
+63
+]. In the current study, for both plasma p-tau181 and p-tau217 measurements, we included the assays employing detector antibody against tau N-terminus or mid-region (Table
+2
+). Such design allowed us to evaluate whether the diagnostic performance of assays targeting the same tau phosphorylation site by the same antibody, is influenced by length of detected tau fragments. Plasma p-tau181 Simoa Quanterix and p-tau181 Lumipulse Fujirebio assays shared the same anti-p-tau181 capture antibody but employed distinct detectors: for p-tau181 Simoa Quanterix, antibody against protein N-terminus was used while for p-tau181 Lumipulse Fujirebio, the detector was anti-mid-region tau antibody (Table
+2
+). P-tau217 mid-region Lumipulse Fujirebio assay and p-tau217 N-term Lumipulse ADx assays shared the same platform (Lumipulse
+®
+) and the same capture antibody against p-tau217 but employed two different detector antibodies targeting tau N-terminus (p-tau217 N-term Lumipulse ADx) or mid-region (p-tau217 mid-region Lumipulse Fujirebio) (Table
+2
+). In our analysis, no significant difference has been observed in diagnostic accuracy provided by p-tau assays targeting tau N-terminus compared with those targeting tau mid-region. This observation held true for both p-tau181 and p-tau217 assays. Thus, we conclude that, in this studied cohort, detection of post-translational modifications had the strongest impact on the diagnostic performance, with a limited relevance of the length of detected tau fragments. At the same time, in comparison of N-terminal vs. mid-region plasma p-tau181 assays, potential influence of two different platforms used should be considered.
+Limitations
+The main limitations of our study are related to the lack of validation cohort and to characteristics of the Control group, as no amyloid PET or amyloid CSF status of these participants is known. This has been mitigated by the assessment of plasma Aβ
+42/40,
+shown to be concordant with CSF Aβ
+42/40
+status with 82% accuracy, as reported in our previous work [
+24
+]. Additionally, as all the measurements were made in the same cohort, potential inclusion of individuals with positive amyloid status in Control group is expected to not impact the comparative analyses. As the Control group participants were healthy volunteers and did not undergo a lumbar puncture, the comparison of biomarker levels in CSF and plasma is not possible. Moreover, due to the limited samples size and lack of preclinical AD or mild cognitive impairment due to AD groups, this study limits clinical interpretation of the results and does not allow to define diagnostic accuracy of the assays in early stages of AD continuum. Further, lack of neuropsychological assessment of Control group does not allow for between-group comparison of the cognitive performance.
+Conclusions
+Our results point to good analytical performance of all eight compared plasma p-tau immunoassays, independently of the detected phosphorylation site, tau fragment, and the platform used. While each of the plasma p-tau181 and p-tau217 immunoassays enabled an effective discrimination between the patients with AD-dem and cognitively unimpaired controls, we report, in agreement with literature, the highest accuracy observed for p-tau217 assays. In conclusion, we propose that the laboratories equipped with either of the two platforms can benefit from the availability of different p-tau assays, enabling highly accurate detection of AD pathology. At the same time, full standardization of the assays remains an important step on the way toward their clinical implementation.
+Supplementary Information
+Supplementary Material 1.
+Abbreviations
+AD
+Alzheimer’s disease
+AD-dem
+Alzheimer’s disease at the stage of dementia
+AUC
+Area Under the Curve
+Aβ
+Amyloid beta
+Control
+Control group composed of self-reported cognitively unimpaired participants
+CSF
+Cerebrospinal fluid
+MMSE
+Mini-Mental State Examination
+PET
+Positron emission tomography
+p-tau
+Phosphorylated tau
+p-tau181
+Tau phosphorylated at threonine 181
+p-tau217
+Tau phosphorylated at threonine 217
+ROC
+Receiver Operating Characteristic
+Simoa
+Single molecule array
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Acknowledgements
+We thank Ben den Dulk, PhD, and Elena R. Blujdea for support in establishing p-tau217 Simoa AlzPath and p-tau181 Lumipulse Fujirebio assays in Neurochemistry Laboratory, Amsterdam UMC. We thank Gallen Triana-Baltzer, PhD (Neuroscience Biomarkers, Johnson and Johnson Innovative Medicine, San Diego, CA, USA) for the scientific discussion and for the support in establishing p-tau217 Simoa Janssen assay in Neurochemistry Laboratory, Amsterdam UMC. The Dutch Brain Research Registry (Hersenonderzoek.nl) is supported by ZonMw‐Memorabel (project no. 73305095003), Alzheimer Nederland, Amsterdam Neuroscience, and the Dutch Brain Foundation (Hersenstichting). Research of Alzheimer center Amsterdam and Neurochemistry is part of the neurodegeneration research program of Amsterdam Neuroscience. Alzheimer Center Amsterdam is supported by Stichting Alzheimer Nederland and Stichting Steun Alzheimercentrum Amsterdam. The chair of Wiesje van der Flier is supported by the Pasman stichting. This project has received funding from the European Union’s Horizon 2020 research and innovation program under the Marie Skłodowska-Curie grant agreement no. 860197.
+Authors’ contributions
+ALW, CT, IV, SB, JV, ES: study design. JV, CL and MVL: development of the p-tau217 Lumipulse ADx assay. JV: development of the p-tau181 and p-tau217 Simoa ADx assay. DAB: data acquisition. AW, CT, IV, SB, JV, CL, MVL, DAB, ES, WF, MV, NB, AJ: data analysis, results interpretation, and manuscript drafting. All the authors reviewed the manuscript.
+Funding
+Research kits were provided in-kind by ADx NeuroSciences, AlzPath, and Janssen.
+Data availability
+The datasets used during the current study are available from the corresponding author on reasonable request.
+Declarations
+Ethics approval and consent to participate
+All participants gave written informed consent to use medical data and biomaterial for research purposes. Ethical approval of the Amsterdam UMC VUmc medical ethical committee was in place, and the study was performed in accordance with the Helsinki Declaration of 1975.
+Consent for publication
+Not applicable.
+Competing interests
+JV, CL, MVL, and ES are employees of ADx NeuroSciences, part of the Fujirebio group. NB and MV are employees of Fujirebio Europe. AJ is an employee of ALZpath, Inc and has stock options. CET is employed by Amsterdam UMC and she has grants or contracts for Research of the European Commission (Marie Curie International Training Network, grant agreement No. 860197 (MIRIADE), Innovative Medicines Initiatives 3TR (Horizon 2020, grant no 831434) EPND ( IMI 2 Joint Undertaking (JU), grant No. 101034344) and JPND (bPRIDE), National MS Society (Progressive MS alliance), Alzheimer Drug Discovery Foundation, Alzheimer Association, Health Holland, the Dutch Research Council (ZonMW), including TAP-dementia, a ZonMw funded project (#10510032120003) in the context of the Dutch National Dementia Strategy, Alzheimer Drug Discovery Foundation, The Selfridges Group Foundation, Alzheimer Netherlands. CET is recipient of ABOARD, which is a public-private partnership receiving funding from ZonMW (#73305095007) and Health~Holland, Topsector Life Sciences & Health (PPP-allowance; #LSHM20106). CET is also a contract researcher for ADx Neurosciences, AC-Immune, Aribio, Axon Neurosciences, Beckman-Coulter, BioConnect, Bioorchestra, Brainstorm Therapeutics, Celgene, Cognition Therapeutics, EIP Pharma, Eisai, Eli Lilly Fujirebio, Grifols, Instant Nano Biosensors, Merck, Novo Nordisk, Olink, PeopleBio, Quanterix, Roche, Siemens, Toyama, Vivoryon, and the European Commission. CET has received payment or honoraria from Roche, Novo Nordisk, and Grifols, where all payments were made to her institution. CET also serves on editorial boards of Medidact Neurologie/Springer; and in Neurology: Neuroimmunology & Neuroinflammation. She is editor of Alzheimer Research and Therapy. Research programs of Wiesje van der Flier (WF) have been funded by ZonMW, NWO, EU-JPND, EU-IHI, Alzheimer Nederland, Hersenstichting CardioVascular Onderzoek Nederland, Health~Holland, Topsector Life Sciences & Health, stichting Dioraphte, Gieskes-Strijbis fonds, stichting Equilibrio, Edwin Bouw fonds, Pasman stichting, stichting Alzheimer & Neuropsychiatrie Foundation, Philips, Biogen MA Inc, Novartis-NL, Life-MI, AVID, Roche BV, Fujifilm, Eisai, Combinostics. WF holds the Pasman chair. WF is recipient of ABOARD, which is a public-private partnership receiving funding from ZonMW (#73305095007) and Health~Holland, Topsector Life Sciences & Health (PPP-allowance; #LSHM20106). WF is recipient of TAP-dementia (www.tap-dementia.nl), receiving funding from ZonMw (#10510032120003). TAP-dementia receives co-financing from Avid Radiopharmaceuticals, Roche, and Amprion. All funding is paid to her institution.WF has been an invited speaker at Biogen MA Inc, Danone, Eisai, WebMD Neurology (Medscape), NovoNordisk, Springer Healthcare, European Brain Council. All funding is paid to her institution.WF is consultant to Oxford Health Policy Forum CIC, Roche, Biogen MA Inc, and Eisai. All funding is paid to her institution. WF participated in advisory boards of Biogen MA Inc, Roche, and Eli Lilly. WF is member of the steering committee of EVOKE/EVOKE+ (NovoNordisk). All funding is paid to her institution.WF is member of the steering committee of PAVE, and Think Brain Health. WF was associate editor of Alzheimer, Research & Therapy in 2020/2021. WF is associate editor at Brain. Inge M.W.Verberk received a speaker honorarium from Quanterix, which was paid directly to her institution. All the other authors have nothing to disclose.

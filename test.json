@@ -1,0 +1,30 @@
+[
+  {
+    "relevance": "The text is highly relevant to sports and exercise physiology as it investigates the impact of exercise and environmental conditions on immunological biomarkers in endurance athletes.",
+    "exercise_types": [
+      "P1-HIIT: 2-hour high-intensity interval running in temperate conditions (23.4\u00b0C ambient temperature).",
+      "P2-EHS: 2-hour running at 60% \u00d7O\u2082max in hot conditions (35.7\u00b0C ambient temperature).",
+      "P3-SS: 3-hour steady-state running at 60% \u00d7O\u2082max in temperate conditions (23.1\u00b0C ambient temperature)."
+    ],
+    "biomarkers": [
+      "Plasma endogenous endotoxin core antibodies (EndoCAb)",
+      "EndoCAb IgM",
+      "EndoCAb IgA",
+      "EndoCAb IgG"
+    ],
+    "observed_effects": {
+      "P1-HIIT": "Plasma IgM, IgA, and IgG concentrations did not significantly change from pre- to post-exercise.",
+      "P2-EHS": "Plasma IgA and IgG concentrations significantly increased from pre- to post-exercise. Plasma IgM did not significantly change.",
+      "P3-SS": "Plasma IgM, IgA, and IgG concentrations did not significantly change from pre- to post-exercise.",
+      "Overall": "Exertional-heat stress (P2) caused greater disturbances to plasma IgA and IgG compared to other protocols."
+    },
+    "statistical_significance": {
+      "IgA change (P2-EHS)": "p=0.017.",
+      "IgG change (P2-EHS)": "p=0.016.",
+      "IgA magnitude of change between protocols": "p=0.058 (a trend).",
+      "IgG magnitude of change between protocols": "p=0.037 (a significant difference)."
+    },
+    "sex_differences": "There was a significant difference between biological sexes in plasma IgA concentration in response to exercise (p<0.05), with a mean increase in female participants and a decrease in male participants.",
+    "evidence_strength": "The observed changes were modest and remained within the normative range for a healthy population, suggesting a low-sensitivity response of EndoCAb to the exercise stressors. Effects were not clinically relevant."
+  }
+]

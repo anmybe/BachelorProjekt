@@ -1,0 +1,1431 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="alz70535" xml:lang="en" article-type="other"><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jats-oasis2jats3.xsl?><?ConverterInfo.Version 1?><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Alzheimers Dement</journal-id><journal-id journal-id-type="iso-abbrev">Alzheimers Dement</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1552-5279</journal-id><journal-id journal-id-type="publisher-id">ALZ</journal-id><journal-title-group><journal-title>Alzheimer's &#x00026; Dementia</journal-title></journal-title-group><issn pub-type="ppub">1552-5260</issn><issn pub-type="epub">1552-5279</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmcid">12306682</article-id><article-id pub-id-type="doi">10.1002/alz.70535</article-id><article-id pub-id-type="publisher-id">ALZ70535</article-id><article-categories><subj-group subj-group-type="overline"><subject>Guidelines</subject></subj-group><subj-group subj-group-type="heading"><subject>Guidelines</subject></subj-group></article-categories><title-group><article-title>Alzheimer's Association Clinical Practice Guideline on the use of blood&#x02010;based biomarkers in the diagnostic workup of suspected Alzheimer's disease within specialized care settings</article-title><alt-title alt-title-type="left-running-head">PALMQVIST <sc>et&#x000a0;al.</sc>
+</alt-title></title-group><contrib-group><contrib id="alz70535-cr-0001" contrib-type="author"><name><surname>Palmqvist</surname><given-names>Sebastian</given-names></name><xref rid="alz70535-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="alz70535-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="alz70535-cr-0002" contrib-type="author"><name><surname>Whitson</surname><given-names>Heather E.</given-names></name><xref rid="alz70535-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="alz70535-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="alz70535-cr-0003" contrib-type="author"><name><surname>Allen</surname><given-names>Laura A.</given-names></name><xref rid="alz70535-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="alz70535-cr-0004" contrib-type="author"><name><surname>Suarez&#x02010;Calvet</surname><given-names>Marc</given-names></name><xref rid="alz70535-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref><xref rid="alz70535-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib id="alz70535-cr-0005" contrib-type="author"><name><surname>Galasko</surname><given-names>Douglas</given-names></name><xref rid="alz70535-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib id="alz70535-cr-0006" contrib-type="author"><name><surname>Karikari</surname><given-names>Thomas K.</given-names></name><xref rid="alz70535-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref><xref rid="alz70535-aff-0010" ref-type="aff">
+<sup>10</sup>
+</xref><xref rid="alz70535-aff-0011" ref-type="aff">
+<sup>11</sup>
+</xref></contrib><contrib id="alz70535-cr-0007" contrib-type="author"><name><surname>Okrahvi</surname><given-names>Hamid R.</given-names></name><xref rid="alz70535-aff-0012" ref-type="aff">
+<sup>12</sup>
+</xref></contrib><contrib id="alz70535-cr-0008" contrib-type="author"><name><surname>Paczynski</surname><given-names>Madeline</given-names></name><xref rid="alz70535-aff-0013" ref-type="aff">
+<sup>13</sup>
+</xref></contrib><contrib id="alz70535-cr-0009" contrib-type="author"><name><surname>Schindler</surname><given-names>Suzanne E.</given-names></name><xref rid="alz70535-aff-0013" ref-type="aff">
+<sup>13</sup>
+</xref></contrib><contrib id="alz70535-cr-0010" contrib-type="author"><name><surname>Teunissen</surname><given-names>Charlotte E.</given-names></name><xref rid="alz70535-aff-0014" ref-type="aff">
+<sup>14</sup>
+</xref></contrib><contrib id="alz70535-cr-0011" contrib-type="author"><name><surname>Zetterberg</surname><given-names>Henrik</given-names></name><xref rid="alz70535-aff-0015" ref-type="aff">
+<sup>15</sup>
+</xref></contrib><contrib id="alz70535-cr-0012" contrib-type="author"><name><surname>Carrillo</surname><given-names>Maria C.</given-names></name><xref rid="alz70535-aff-0016" ref-type="aff">
+<sup>16</sup>
+</xref></contrib><contrib id="alz70535-cr-0013" contrib-type="author"><name><surname>Edelmayer</surname><given-names>Rebecca M.</given-names></name><xref rid="alz70535-aff-0016" ref-type="aff">
+<sup>16</sup>
+</xref></contrib><contrib id="alz70535-cr-0014" contrib-type="author"><name><surname>Mahinrad</surname><given-names>Simin</given-names></name><xref rid="alz70535-aff-0016" ref-type="aff">
+<sup>16</sup>
+</xref></contrib><contrib id="alz70535-cr-0015" contrib-type="author"><name><surname>McAteer</surname><given-names>Mary Beth</given-names></name><xref rid="alz70535-aff-0017" ref-type="aff">
+<sup>17</sup>
+</xref></contrib><contrib id="alz70535-cr-0016" contrib-type="author"><name><surname>Kahale</surname><given-names>Lara A.</given-names></name><xref rid="alz70535-aff-0018" ref-type="aff">
+<sup>18</sup>
+</xref></contrib><contrib id="alz70535-cr-0017" contrib-type="author"><name><surname>Pahlke</surname><given-names>Sarah</given-names></name><xref rid="alz70535-aff-0016" ref-type="aff">
+<sup>16</sup>
+</xref></contrib><contrib id="alz70535-cr-0018" contrib-type="author" corresp="yes"><name><surname>Tampi</surname><given-names>Malavika P.</given-names></name><xref rid="alz70535-aff-0016" ref-type="aff">
+<sup>16</sup>
+</xref><address><email>mptampi@alz.org</email></address></contrib></contrib-group><aff id="alz70535-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Clinical Memory Research Unit</named-content>
+<named-content content-type="organisation-division">Department of Clinical Sciences Malm&#x000f6;</named-content>
+<institution>Lund University</institution>
+<city>Lund</city>
+<country country="SE">Sweden</country>
+</aff><aff id="alz70535-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Memory Clinic</named-content>
+<institution>Sk&#x000e5;ne University Hospital</institution>
+<city>Malm&#x000f6;</city>
+<country country="SE">Sweden</country>
+</aff><aff id="alz70535-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Departments of Opthalmology, Medicine, and Neurology</named-content>
+<institution>Duke School of Medicine</institution>
+<city>Durham</city>
+<named-content content-type="country-part">North Carolina</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz70535-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Geriatrics Research and Education and Clinical Center</named-content>
+<institution>Durham VA Medical Center</institution>
+<city>Durham</city>
+<named-content content-type="country-part">North Carolina</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz70535-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neurology</named-content>
+<institution>Mayo Clinic</institution>
+<city>Rochester</city>
+<named-content content-type="country-part">Minnesota</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz70535-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Barcelona&#x003b2;eta Brain Research Center (BBRC)</named-content>
+<institution>Pasqual Maragall Foundation</institution>
+<city>Barcelona</city>
+<country country="ES">Spain</country>
+</aff><aff id="alz70535-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">Servei de Neurologia</named-content>
+<institution>Hospital del Mar</institution>
+<city>Barcelona</city>
+<country country="ES">Spain</country>
+</aff><aff id="alz70535-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neurosciences</named-content>
+<institution>University of California, San Diego</institution>
+<city>La Jolla</city>
+<named-content content-type="country-part">California</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz70535-aff-0009">
+<label>
+<sup>9</sup>
+</label>
+<named-content content-type="organisation-division">Department of Psychiatry</named-content>
+<named-content content-type="organisation-division">School of Medicine</named-content>
+<institution>University of Pittsburgh</institution>
+<city>Pittsburgh</city>
+<named-content content-type="country-part">Pennsylvania</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz70535-aff-0010">
+<label>
+<sup>10</sup>
+</label>
+<named-content content-type="organisation-division">Alzheimer's Disease Research Center</named-content>
+<institution>University of Pittsburgh</institution>
+<city>Pittsburgh</city>
+<named-content content-type="country-part">Pennsylvania</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz70535-aff-0011">
+<label>
+<sup>11</sup>
+</label>
+<named-content content-type="organisation-division">Biofluid Biomarker Laboratory</named-content>
+<institution>Western Psychiatric Hospital</institution>
+<institution>University of Pittsburgh Medical Center</institution>
+<city>Pittsburgh</city>
+<named-content content-type="country-part">Pennsylvania</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz70535-aff-0012">
+<label>
+<sup>12</sup>
+</label>
+<named-content content-type="organisation-division">Department of Medicine: Glennan Center for Geriatrics and Gerontology</named-content>
+<institution>Eastern Virginia Medical School</institution>
+<city>Norfolk</city>
+<named-content content-type="country-part">Virginia</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz70535-aff-0013">
+<label>
+<sup>13</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neurology</named-content>
+<institution>Washington University School of Medicine</institution>
+<city>St. Louis</city>
+<named-content content-type="country-part">Missouri</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz70535-aff-0014">
+<label>
+<sup>14</sup>
+</label>
+<named-content content-type="organisation-division">Department of Clinical Chemistry</named-content>
+<institution>Amsterdam University Medical Centre</institution>
+<city>Amsterdam</city>
+<country country="NL">Netherlands</country>
+</aff><aff id="alz70535-aff-0015">
+<label>
+<sup>15</sup>
+</label>
+<named-content content-type="organisation-division">Department of Psychiatry and Neurochemistry, Institute of Neuroscience and Physiology, Sahlgrenska Academy</named-content>
+<institution>University of Gothenburg</institution>
+<city>M&#x000f6;lndal</city>
+<country country="SE">Sweden</country>
+</aff><aff id="alz70535-aff-0016">
+<label>
+<sup>16</sup>
+</label>
+<institution>Alzheimer's Association</institution>
+<city>Chicago</city>
+<named-content content-type="country-part">Illinois</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz70535-aff-0017">
+<label>
+<sup>17</sup>
+</label>
+<named-content content-type="organisation-division">Jones Learning Center</named-content>
+<institution>Virginia Mason Franciscan Health</institution>
+<city>Seattle</city>
+<named-content content-type="country-part">Washington</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz70535-aff-0018">
+<label>
+<sup>18</sup>
+</label>
+<named-content content-type="organisation-division">Clinical Affairs and Practice Guidelines</named-content>
+<institution>Infectious Diseases Society of America</institution>
+<city>Arlington</city>
+<named-content content-type="country-part">Virginia</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>Malavika P. Tampi, Alzheimer's Association, 225 N Michigan Avenue, Chicago, IL 60601, USA.<break/> Email: <email>mptampi@alz.org</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>29</day><month>7</month><year>2025</year></pub-date><pub-date pub-type="collection"><month>7</month><year>2025</year></pub-date><volume>21</volume><issue seq="1030">7</issue><issue-id pub-id-type="doi">10.1002/alz.v21.7</issue-id><elocation-id>e70535</elocation-id><history>
+<date date-type="rev-recd"><day>11</day><month>7</month><year>2025</year></date>
+<date date-type="received"><day>18</day><month>6</month><year>2025</year></date>
+<date date-type="accepted"><day>14</day><month>7</month><year>2025</year></date>
+</history><permissions><!--&#x000a9; 2025 the Alzheimer's Association.--><copyright-statement content-type="article-copyright">&#x000a9; 2025 The Author(s). <italic toggle="yes">Alzheimer's &#x00026; Dementia</italic> published by Wiley Periodicals LLC on behalf of Alzheimer's Association.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ALZ-21-e70535.pdf"/><abstract><title>Abstract</title><sec id="alz70535-sec-0010"><title>OBJECTIVE AND SCOPE</title><p>A panel of clinicians, subject&#x02010;matter experts, and guideline methodologists convened by the Alzheimer's Association conducted a systematic review and formulated evidence&#x02010;based recommendations for using blood&#x02010;based biomarkers (BBMs) in the diagnostic workup of suspected Alzheimer's disease (AD) within specialized care settings. The scope focuses on individuals with objective cognitive impairment, including those with mild cognitive impairment (MCI) or dementia, who are undergoing evaluation by providers trained and experienced in memory disorders, where AD is the suspected underlying etiology.</p></sec><sec id="alz70535-sec-0020"><title>METHODS</title><p>The panel conducted a systematic review to assess the diagnostic accuracy of BBMs in detecting AD pathology. The BBMs of interest included plasma phosphorylated&#x02010;tau (p&#x02010;tau) and amyloid&#x02010;beta (A&#x003b2;) tests measuring the following analytes: p&#x02010;tau217, ratio of p&#x02010;tau217 to non&#x02010;p&#x02010;tau217 &#x000d7;100 (%p&#x02010;tau17), p&#x02010;tau181, p&#x02010;tau231, and ratio of A&#x003b2;42 to A&#x003b2;40. The reference standard tests included cerebrospinal fluid (CSF) AD biomarkers, amyloid positron emission tomography (PET), or neuropathology. The panel applied the Grading of Recommendations, Assessment, Development, and Evaluation (GRADE) approach to assess the certainty of the evidence and the GRADE evidence&#x02010;to&#x02010;decision (EtD) Framework to develop its recommendations.</p></sec><sec id="alz70535-sec-0030"><title>RECOMMENDATIONS</title><p>The key recommendations in this Clinical Practice Guideline (CPG) are: (1) BBM tests with &#x02265;90% sensitivity and &#x02265;75% specificity can be used as a triaging test and (2) BBM tests with &#x02265;90% sensitivity and specificity can serve as a substitute for amyloid PET imaging or CSF AD biomarker testing in patients with cognitive impairment presenting to specialized care for memory disorders. The panel cautions users of this guideline that there is significant variability in diagnostic test accuracy and many commercially available BBM tests do not meet these thresholds, especially using a single cutoff. Additionally, these tests do not serve as a substitute for comprehensive clinical evaluation by a healthcare professional and should be used only as part of a full diagnostic workup of patients with cognitive impairment presenting to specialized care settings, and with careful consideration of pretest probability of AD pathology.</p></sec><sec id="alz70535-sec-0040"><title>CONCLUSIONS AND PRACTICAL IMPLICATIONS</title><p>This CPG provides performance&#x02010;based, brand&#x02010;agnostic recommendations for the use of BBMs in the diagnostic workup of suspected AD within specialized care settings. By linking recommendations to a systematic review and associated living updates, and using a robust and transparent methodology, the guideline ensures scientific rigor, adaptability, and sustained relevance as evidence evolves. Clinicians are encouraged to stay informed about emerging paradigms&#x02014;such as biomarker combinations or ratios and multi&#x02010;threshold testing&#x02014;that may further refine the diagnostic accuracy of BBMs as the field evolves.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="alz70535-kwd-0001">Alzheimer's disease</kwd><kwd id="alz70535-kwd-0002">blood&#x02010;based biomarkers</kwd><kwd id="alz70535-kwd-0003">clinical practice guideline</kwd><kwd id="alz70535-kwd-0004">diagnosis</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>Alzheimer's Association</institution><institution-id institution-id-type="doi">10.13039/100000957</institution-id></institution-wrap>
+</funding-source></award-group></funding-group><counts><fig-count count="0"/><table-count count="3"/><page-count count="17"/><word-count count="12408"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>July 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.9 mode:remove_FC converted:29.07.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="alz70535-cite-0001">
+<string-name>
+<surname>Palmqvist</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Whitson</surname>
+<given-names>HE</given-names>
+</string-name>, <string-name>
+<surname>Allen</surname>
+<given-names>LA</given-names>
+</string-name>, et&#x000a0;al. <article-title>Alzheimer's Association Clinical Practice Guideline on the use of blood&#x02010;based biomarkers in the diagnostic workup of suspected Alzheimer's disease within specialized care settings</article-title>. <source>Alzheimer's Dement</source>. <year>2025</year>;<volume>21</volume>:<elocation-id>e70535</elocation-id>. <pub-id pub-id-type="doi">10.1002/alz.70535</pub-id>
+</mixed-citation>
+</p><fn-group><fn id="alz70535-note-0001" fn-type="equal"><p>Sebastian Palmqvist and Heather E. Whitson co&#x02010;chaired this guideline. Lara A. Kahale and Sarah Pahlke contributed equally to this work.</p></fn></fn-group></notes></front><body><sec id="alz70535-sec-0050"><label>1</label><title>INTRODUCTION</title><p>Alzheimer's disease (AD) is the leading cause of dementia, contributing to an estimated 60% to 80% of all dementias. According to the Alzheimer's Association <italic toggle="yes">Facts &#x00026; Figures</italic> report, approximately 7.2 million Americans are living with AD dementia in 2025. This number is projected to double by 2060, highlighting a growing public health crisis as the population ages.<xref rid="alz70535-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> Pathologically, AD is defined by the accumulation of extracellular cortical plaques composed of amyloid beta (A&#x003b2;) fibrils and intracellular neurofibrillary tangles containing abnormal hyperphosphorylated tau protein.<xref rid="alz70535-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> These pathologies manifest many years or even decades before the onset of clinical symptoms, marking a prolonged preclinical phase during which progressive brain damage occurs.<xref rid="alz70535-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>
+</p><boxed-text position="float" content-type="box"><sec id="alz70535-sec-0060"><title>RESEARCH IN CONTEXT</title><p>
+<list list-type="order" id="alz70535-list-0001"><list-item><p>
+<bold>Systematic review</bold>: The Alzheimer's Association has recently launched an initiative to develop evidence&#x02010;based clinical practice guidelines using the Grading of Recommendations, Assessment, Development, and Evaluation (GRADE) approach, aiming to apply a rigorous and transparent methodology to the development of guidelines for clinicians. In the context of Diagnostic Test Accuracy, GRADE emphasizes the use of systematic reviews to inform the diagnostic accuracy of emerging tools, such as blood&#x02010;based biomarkers, and their impact on outcomes that matter most to patients. This comprehensive evidence synthesis serves as the foundation for actionable, evidence&#x02010;based recommendations for clinicians, policy&#x02010;makers, patients, and caregivers as part of a shared decision&#x02010;making model to improve dementia diagnosis, treatment, and care. These translational research efforts are designed with the understanding that routine updates will be essential to ensure the guidelines remain current and relevant.</p></list-item><list-item><p>
+<bold>Interpretation</bold>: The guidelines translate complex scientific data, including, but not limited to, findings from systematic reviews, into clear, actionable recommendations for clinicians across specialties, while also informing decision&#x02010;making at the policy level. The blood&#x02010;based biomarker guideline presented in this manuscript specifically provides guidance on whether blood tests for Alzheimer's disease should be used in specialized care settings as part of a comprehensive diagnostic process by providers with training and experience in the diagnosis of memory disorders. Designed to support real&#x02010;world clinical decision&#x02010;making, these recommendations are dynamic and evolve alongside the advancing evidence base.</p></list-item><list-item><p>
+<bold>Future directions</bold>: The Alzheimer's Association will continue to expand clinical topics for guideline development and associated methodological approaches for translating scientific evidence informing the Association's guideline recommendations. Guidelines will be updated as the peer&#x02010;reviewed evidence base evolves, with accompanying tools, training, and resources to support effective clinical adoption. Emerging research priorities also include collaborative approaches to conducting systematic reviews and keeping them up&#x02010;to&#x02010;date, and building and fostering an evidence ecosystem prioritizing data&#x02010;sharing to minimize research waste.</p></list-item></list>
+</p></sec></boxed-text><p>For decades, the options for <italic toggle="yes">ante mortem</italic> detection of AD pathology have been limited to tests that are either expensive, such as positron emission tomography (PET), or invasive but safe when properly performed, such as cerebrospinal fluid (CSF) &#x02010;based biomarker analysis.<xref rid="alz70535-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="alz70535-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> Furthermore, these tools remain out of reach to most healthcare providers, even in many specialized clinical settings. Despite these barriers, there are multiple reasons why patients and clinicians seek in vivo confirmation of AD pathology. A key driver is higher diagnostic accuracy, since AD is often misdiagnosed without biomarkers, even in specialist settings.<xref rid="alz70535-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> Furthermore, identifying the presence or absence of AD pathology can help narrow the etiology of cognitive impairment, guide appropriate care strategies, and provide valuable prognostic information for patients and their families.<xref rid="alz70535-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="alz70535-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> The recent regulatory approvals of new amyloid targeting therapies for AD, which require biomarker confirmation of amyloid pathology to determine treatment eligibility, further highlights the need.<xref rid="alz70535-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="alz70535-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="alz70535-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="alz70535-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="alz70535-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> As these therapies are receiving regulatory approval and being marketed in different parts of the world, the demand for biomarker&#x02010;based diagnostics to accurately identify eligible patients, enable early intervention, and ascertain when treatment is likely to be most effective, is expected to rise substantially.<xref rid="alz70535-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="alz70535-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>
+</p><p>In recent years, multiple blood&#x02010;based biomarkers (BBMs) have become available as promising and accessible alternatives for detecting AD pathology.<xref rid="alz70535-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> Compared to PET and CSF testing, BBMs offer several advantages: they are less costly, more accessible, and more acceptable to patients. These attributes position BBMs as promising tools to address the growing diagnostic demands.<xref rid="alz70535-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="alz70535-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> While several BBMs are now commercially available, diagnostic performance varies across available tests,<xref rid="alz70535-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="alz70535-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> and their integration into clinical practice is still inconsistent. In 2022, the Alzheimer's Association published the field's first appropriate use recommendations for BBMs in clinical practice and clinical trials.<xref rid="alz70535-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> BBMs have been incorporated into the recently revised criteria for diagnosis and staging of AD by a workgroup of the Alzheimer's Association.<xref rid="alz70535-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> Furthermore, the Global CEO Initiative (CEOi) on AD BBM Workgroup has recently published recommendations for the minimum acceptable performance of BBM tests.<xref rid="alz70535-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> Despite these advances, the absence of a formal Clinical Practice Guideline (CPG) remains a critical barrier to the consistent and evidence&#x02010;based application of BBMs in real&#x02010;world settings.</p><p>To address this gap, the Alzheimer's Association has convened a panel of clinical and subject&#x02010;matter experts, along with guideline methodologists with expertise in the Grading of Recommendations, Assessment, Development, and Evaluation (GRADE) approach. This collaborative effort has resulted in two complementary manuscripts: the present CPG, which provides formal recommendations, and a separate systematic review that presents the underlying evidence base.<xref rid="alz70535-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> Here we outline the evidence&#x02010;based CPG, which aims to provide recommendations to support clinicians, patients, and policy&#x02010;makers in integrating BBMs into the diagnostic workflows of AD in cognitively impaired individuals in the care of memory disorder specialists in specialized care settings.</p></sec><sec id="alz70535-sec-0070"><label>2</label><title>METHODS</title><p>The guideline was developed in accordance with the AGREE II Reporting Checklist<xref rid="alz70535-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> and the Guidelines International Network&#x02010;McMaster Guideline Development Checklist.<xref rid="alz70535-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> The overall guideline development process, including funding of the work, panel formation, management of conflicts of interest, internal and external review, and organizational approval, was guided by Alzheimer's Association's policies and procedures.</p><sec id="alz70535-sec-0080"><label>2.1</label><title>Guideline panel composition</title><p>The chairs of the guideline panel were selected by the leadership of the Alzheimer's Association. The panel was composed of 11 members: clinical neurologists (S.Pal., M.S.&#x02010;C., S.S., D.G.), geriatricians (H.W., H.O.), nurse practitioner (L.A.), physician assistant (M.P.), and subject&#x02010;matter experts, some with clinical expertise (C.T., H.Z., T.K.). Panelists were of diverse geographic distribution and years of clinical experience; six were based in North America, four in Europe, and two held dual affiliations in both regions. To ensure the integrity of the guideline development process, the panel elected to replace one of the co&#x02010;chairs when a change in their employment status introduced a potential conflict of interest that would have been challenging to mitigate (see the Acknowledgments section).</p><p>Three guideline methodologists (L.A.K., S.Pah., M.P.T.) oversaw all methodological aspects of the guideline development, including collaboration on the development and execution of a search strategy with a medical librarian (M.B.M.), and two (S.Pah., L.A.K.) oversaw the identification and synthesis of scientific evidence and the evidence&#x02010;to&#x02010;decision (EtD) process for the clinical question. The Alzheimer's Association's staff, who also served as subject&#x02010;matter experts (R.M.E., S.M., S.Pah., M.P.T.), oversaw all administrative and logistical aspects related to the guideline panel, including the managment of conflicts of interest.</p></sec><sec id="alz70535-sec-0090"><label>2.2</label><title>Target audience</title><p>This guideline's primary target audience includes specialists involved in the diagnostic evaluation of cognitive impairment in specialized care settings. A specialist in this context is defined as a healthcare provider, typically, but not exclusively, in neurology, psychiatry, or geriatrics, who spends at least 25% of their clinical practice time caring for adults with cognitive impairment or dementia. Not all clinicians in these fields are dementia specialists, and providers in other areas of practice may identify as a specialist based on their specific knowledge and training. Specialists are proficient in assessing, diagnosing and treating cognitive disorders, understanding and interpreting the results of brain imaging, CSF, and BBM tests, and clearly communicating the results of the aforementioned tests and their implications to patients and families.<xref rid="alz70535-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> Primary care providers, nurse practitioners, and physician assistants working in these specialized care settings are also included in the primary target audience. While non&#x02010;specialty care providers working in primary care settings and healthcare professionals in nursing homes and long&#x02010;term care facilities are not the intended target audience, this guideline may serve as a resource to enhance their understanding of BBM use in AD diagnostic workup, particularly as such tests are being increasingly marketed for use in non&#x02010;specialty care settings.</p><p>This guideline is intended to inform clinical decision&#x02010;making, support the development of standards of care, guide laboratory practices, and assist clinicians in selecting appropriate BBM tests for individual patients. In addition, it may help inform the use of BBMs and their incorporation in clinical trial outcomes or decisions in clinical trials with adaptive design.</p><p>The secondary target audience includes individuals affected by MCI or dementia, their caregivers, policy&#x02010;makers involved in dementia care and healthcare decision&#x02010;making, and laboratory medicine specialists involved in using BBMs.</p></sec><sec id="alz70535-sec-0100"><label>2.3</label><title>Guideline scope</title><p>The panel identified two key clinical questions that warrant recommendation in this first iteration of the guideline:
+<list list-type="order" id="alz70535-list-0002"><list-item><p>Should a BBM test be incorporated as a triaging test to determine the presence or absence of AD pathology in the diagnostic workup of individuals with cognitive impairment (including those with MCI or dementia) presenting for specialized care for memory disorders?</p></list-item><list-item><p>Should a BBM test serve as a substitute for CSF analysis or amyloid PET as a confirmatory test to determine the presence or absence of AD pathology in the diagnostic workup of patients with cognitive impairment (MCI or dementia) presenting for specialized care for memory disorders?</p></list-item></list>
+</p><p>A triaging test refers to a test in which a negative result rules out AD pathology with high probability, whereas a positive result should be confirmed using another method, such as CSF AD biomarkers or amyloid PET.</p><p>A confirmatory test refers to a test for which a negative result rules out AD pathology, and a positive test confirms AD pathology with a high probability.</p><p>Input on these questions was gathered during the 2024 Alzheimer's Association International Conference (AAIC), where experts in the field provided insights to inform the development of this guideline.</p><p>This guideline is not intended to serve as a comprehensive clinical pathway or appropriate use recommendations for the broader diagnostic workup or treatment decision&#x02010;making in individuals with MCI or dementia. It does not address the use of BBMs for screening purposes, use in non&#x02010;specialty settings, or use in people with no cognitive concerns or only subjective memory impairment.</p><sec id="alz70535-sec-0110"><label>2.3.1</label><title>Population and setting</title><p>The population and setting for this guideline include individuals with objective cognitive impairment (i.e., MCI or dementia) presenting to specialized care settings due to cognitive complaints. Objective cognitive impairment requires objective evidence of cognitive deficits detected by cognitive assessment tools and/or medical examination and provider assessment. It does not include subjective cognitive decline, in which the patient perceives changes in memory or other cognitive domains but performs as expected on cognitive testing, and a trained provider does not detect notable deficits (e.g., aphasia, disinhibition, executive dysfunction) in assessment.</p><p>The panel developed recommendations for BBM testing only in individuals with objective cognitive impairment who have already completed a comprehensive clinical workup. This guideline does not extend to cognitively unimpaired individuals, given the current lack of clinical relevance for BBM use in this population. The panel made the a priori decision not to use data for cognitively impaired and unimpaired populations combined to inform recommendations to minimize indirectness and because test performance could appear more favorable in populations with a bimodal distribution of brain amyloid (i.e., individuals with very low [cognitively unimpaired] or very high [AD&#x02010;like dementia] brain amyloid levels).</p><p>This work focuses on specialized care settings, which include practices where a memory disorder specialist (defined in Section&#x000a0;<xref rid="alz70535-sec-0090" ref-type="sec">2.3</xref> above) is participating in the decision of whether to order a BBM test for possible AD diagnosis. While this work prioritizes specialized care settings due to the existing evidence base, future iterations will address the use of BBMs in primary care. The panel recognizes the critical role of primary care as the first point of contact for many patients with cognitive concerns, and that access to specialized care is often limited.</p><p>The panel determined that primary care and specialized care settings merit separate CPG processes for four main reasons. First, among patients presenting with cognitive impairment, we expect a different prevalence of AD pathology in primary care versus specialized care settings. Different population prevalence means that the same test will have different negative predictive value (NPV) and positive predictive value (PPV), which could alter panel recommendations. Second, pretest probability must be considered in setting acceptable thresholds for sensitivity and specificity, and evidence suggests that pretest probability for AD pathology is more accurate when determined in specialist than in non&#x02010;specialist settings.<xref rid="alz70535-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> Third, there is limited experience among non&#x02010;specialists in interpreting and disclosing AD biomarker results and a greater prevalence of comorbid conditions may affect BBM results in these settings. Fourth, practical barriers such as time constraints and limited integration of BBMs into existing clinical workflows in non&#x02010;specialized care settings pose further challenges. Addressing these challenges will require targeted education, decision support tools, and equitable implementation strategies to ensure BBMs can be effectively and appropriately used across all care settings.</p></sec><sec id="alz70535-sec-0120"><label>2.3.2</label><title>BBM tests and reference standards</title><p>The panel was mindful that many BBM tests measuring the same analyte (e.g., p&#x02010;tau217) utilize different technology or utilize different antibodies and can achieve different performance characteristics. Therefore, for this guideline, a BBM test is defined as the combination of a BBM (analyte) and the technology used to measure it (e.g., specific immunoassay or mass spectrometry method). For this initial iteration of the guideline, the panel identified plasma assays for phosphorylated&#x02010;tau (p&#x02010;tau) and A&#x003b2;, measuring the following analytes: p&#x02010;tau217, the ratio of p&#x02010;tau217 to non&#x02010;p&#x02010;tau217 &#x000d7;100 (expressed as a percentage of p&#x02010;tau217 [%p&#x02010;tau217]), p&#x02010;tau181, p&#x02010;tau231, and A&#x003b2;42/A&#x003b2;40. To ensure the systematic review was both feasible and clinically relevant, we focused on a limited number of BBMs rather than attempting a broad meta&#x02010;analysis across all possible available BBM tests. The panel thus prioritized BBMs most commonly used as indicators of brain amyloid, excluding markers like glial fibrillary acidic protein (GFAP) and neurofilament light chain (NfL). We also chose to analyze tests that measure single analytes rather than ratios, unless the ratio included a reference value of the same protein type (i.e., A&#x003b2;42/A&#x003b2;40). Based on available evidence and head&#x02010;to&#x02010;head comparison data, including Round Robin results,<xref rid="alz70535-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> we selected the p&#x02010;tau species with the strongest evidence base and highest diagnostic accuracy. The reference standard tests considered were CSF AD biomarkers, amyloid PET, or neuropathological assessment of AD.</p><p>Despite analyzing the specific assays/analytes in the systematic review, the panel opted for a brand&#x02010;agnostic, blinded, performance&#x02010;based approach for the guideline's recommendations. This approach ensures the guideline's credibility, durability, and actionability. It protects the guideline from perceived bias, reduces misalignment with recent advances, and provides clinicians with meaningful direction. By linking the CPG to our systematic review, we will be able to ensure ongoing relevance without requiring frequent changes to the recommendations themselves.</p><p>The authors acknowledge that several BBM tests on the market have no published data meeting the eligibility criteria for inclusion in the systematic review; we encourage the manufacturers of these tests to publish evidence on the diagnostic test accuracy of their tests in peer&#x02010;reviewed journals.</p></sec></sec><sec id="alz70535-sec-0130"><label>2.4</label><title>Evidence review</title><p>This guideline has been informed by a corresponding systematic review of diagnostic test accuracy, published separately; please refer to that publication for a more detailed description of the systematic review methodology.<xref rid="alz70535-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> A summary of tests meeting the criteria for a triaging or confirmatory test is also shown at <ext-link xlink:href="https://app.magicapp.org/#/guideline/nyO1Yj" ext-link-type="uri">https://app.magicapp.org/#/guideline/nyO1Yj</ext-link>.</p><p>Briefly, the following databases were searched from 2019 through November 3, 2024: PubMed, Medline, Embase, and Cochrane Library. Methodologists conducted study selection, data extraction, risk of bias, and certainty assessments, and statisticians performed data analysis. Details regarding the literature search strategy can be found in the <xref rid="alz70535-supinfo-0001" ref-type="">Supporting Information</xref>.</p><p>Raw data were sought, including the number of true positives (TP), true negatives (TN), false positives (FP), false negatives (FN), sensitivity (Sn), and specificity (Sp), at the Youden index cutoff. Data were sourced from (1) published studies, (2) author&#x02010;provided information when missing from studies, and (3) Sn and Sp associated with the Youden index derived from receiver operating characteristic (ROC) curves using WebPlotDigitizer<xref rid="alz70535-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> when neither published nor provided by authors.</p><p>Meta&#x02010;analyses of diagnostic test accuracy were conducted for each BBM test to calculate pooled Sn and Sp. The main meta&#x02010;analysis examined single cutoffs based on Youden's index. Additional sensitivity analyses were conducted to assess the robustness of the data based on reported versus missing data: (1) reported data only using any cutoff for the index test, (2) reported data using any cutoff for the index test plus data derived from curves at Youden's index when data was missing, (3) fixing Sp cutoff at 75% for triaging, and (4) fixing Sn cutoff at 90% for confirmatory testing.</p><p>The guideline panel assessed the certainty of the supporting evidence and formulated the recommendations according to the GRADE approach.<xref rid="alz70535-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> The certainty of the evidence for each analyzed test was determined by assessing the following domains: risk of bias, indirectness, inconsistency, imprecision, and publication bias. This information is reported in the Evidence Profiles. The certainty of evidence for Sn was assessed separately from that for Sp, including considerations of inconsistency and imprecision. Sensitivity carried greater weight for certainty of evidence in triaging decisions (when an initial BBM test is performed with the plan to follow&#x02010;up confirmatory testing if positive) to ensure accurate identification of true cases, while Sp carried a greater weight for certainty of evidence in confirmatory testing (when only the BBM test is used without additional biomarker assessment) to minimize FPs.</p></sec><sec id="alz70535-sec-0140"><label>2.5</label><title>Formulating recommendations</title><sec id="alz70535-sec-0150"><label>2.5.1</label><title>Test accuracy</title><p>The panel decided not to make recommendations for or against specific tests; this decision reflects several considerations, including variability in how tests are developed, validated, and implemented across laboratories. Furthermore, manufacturers and laboratories do not typically rely on meta&#x02010;analyses to determine test cutoffs for abnormality, and some are even recommending two cutoff approaches. These inconsistencies further support the panel's position that ranking or endorsing specific tests is premature at this time. Instead, test accuracy data and accuracy judgments reported in this guideline are meant to serve as a resource for clinicians implementing the recommendations to aid them in choosing which test(s) to order.</p><p>The panel aligned clinical thresholds for acceptable accuracy of BBM tests based on what clinicians in real&#x02010;world settings would find acceptable and used recent expert opinion as a starting point for that discussion.<xref rid="alz70535-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> Therefore, a given test was judged &#x0201c;accurate&#x0201d; at the triaging level if the point estimate for Sn was at least 90% and the Sp at least 75%. For the &#x0201c;confirmatory&#x0201d; level, the point estimates had to be at least 90% for both Sn and Sp.</p><p>A given patient's pretest probability for AD pathology will vary according to clinical presentation, age, and known risk factors.<xref rid="alz70535-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> Therefore, the panel chose not to report predictive values associated with individual tests, since these metrics would be highly dependent on pretest probability. Instead, we note that a test with a Sn of 90% and Sp of 75% (our &#x0201c;triage&#x0201d; thresholds) would have a PPV of 47%, 78%, or 94%, and NPV of 97%, 88%, 65%, when applied in a population with a pretest probability of 20%, 50%, or 80%, respectively. A test with a Sn of 90% and Sp of 90% (our &#x0201c;confirmatory&#x0201d; thresholds) would have a PPV of 69%, 90%, or 97%, and NPV of 97%, 90%, 69%, when applied in a population with a pretest probability of 20%, 50%, or 80%, respectively.</p><p>Because Youden's index cutoff is not always an optimal combination of Sn and Sp, we supplemented with analyses of fixed sensitivity at 90% and fixed specificity at 75% when data were available.</p></sec><sec id="alz70535-sec-0160"><label>2.5.2</label><title>EtD framework</title><p>The EtD framework was used to translate evidence summaries into practice recommendations.<xref rid="alz70535-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> Recommendations are labeled either as &#x0201c;strong&#x0201d; or &#x0201c;conditional&#x0201d; according to an evaluation of the certainty of the evidence, the balance between benefits and harms, patients&#x02019; values and preferences, resources/cost, and other factors such as acceptability, feasibility, and equity. &#x0201c;The panel recommends&#x0201d; indicates a strong recommendation, and &#x0201c;the panel suggests&#x0201d; indicates a conditional recommendation. Table&#x000a0;<xref rid="alz70535-tbl-0001" ref-type="table">1</xref> provides the suggested interpretation of strong and conditional recommendations for patients, clinicians, and healthcare policy&#x02010;makers.<xref rid="alz70535-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="alz70535-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>, <xref rid="alz70535-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> To reduce potential bias, the panel was blinded to the names of the tests until after recommendations were drafted.</p><table-wrap position="float" id="alz70535-tbl-0001" content-type="TABLE"><label>TABLE 1</label><caption><p>Definitions for interpreting the certainty of the evidence and implementing strong versus conditional recommendations<xref rid="alz70535-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="alz70535-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>, <xref rid="alz70535-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>
+</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><thead><tr><th colspan="2" style="border-bottom:solid 1px #000000" align="left" rowspan="1">DEFINITION OF CERTAINTY OF THE EVIDENCE</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Category</th><th align="left" rowspan="1" colspan="1">Definition</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">High</td><td align="left" rowspan="1" colspan="1">Very confident that the true effect lies close to that of the estimate of the effect.</td></tr><tr><td align="left" rowspan="1" colspan="1">Moderate</td><td align="left" rowspan="1" colspan="1">Moderately confident in the effect estimate; the true effect is likely to be close to the estimate of the effect, but there is a possibility that it is substantially different.</td></tr><tr><td align="left" rowspan="1" colspan="1">Low</td><td align="left" rowspan="1" colspan="1">Confidence in the effect estimate is limited; the true effect may be substantially different from the estimate of the effect.</td></tr><tr><td align="left" rowspan="1" colspan="1">Very low</td><td align="left" rowspan="1" colspan="1">Very little confidence in the effect estimate; the true effect is likely to be substantially different from the estimate of the effect.</td></tr></tbody></table><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr><th colspan="3" style="border-bottom:solid 1px #000000" align="left" rowspan="1">DEFINITION OF STRONG VS. CONDITIONAL RECOMMENDATIONS AND IMPLICATIONS FOR COLLABORATIVE PARTIES</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Implications</th><th align="left" rowspan="1" colspan="1">Strong recommendations</th><th align="left" rowspan="1" colspan="1">Conditional recommendations</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">For patients</td><td align="left" rowspan="1" colspan="1">Most patients in this situation would want the recommended course of action, and only a small proportion would not. Formal decision aids are not likely to be needed to help individuals make decisions consistent with their values and preferences.</td><td align="left" rowspan="1" colspan="1">Most patients in this situation would want the suggested course of action, but many would not.</td></tr><tr><td align="left" rowspan="1" colspan="1">For clinicians</td><td align="left" rowspan="1" colspan="1">Most patients should receive this course of action. Adherence to this recommendation, according to the guideline, could be used as a quality criterion or performance indicator.</td><td align="left" rowspan="1" colspan="1">Recognize that different choices will be appropriate for individual patients and that you must help each patient arrive at a management decision consistent with his or her values and preferences. Decision aids may be useful in helping patients make decisions consistent with their values and preferences.</td></tr><tr><td align="left" rowspan="1" colspan="1">For policy&#x02010;makers</td><td align="left" rowspan="1" colspan="1">The recommendation can be adapted as policy in most situations.</td><td align="left" rowspan="1" colspan="1">Policy&#x02010;making will require substantial debate and the involvement of various collaborative parties.</td></tr><tr><td align="left" rowspan="1" colspan="1">Researchers</td><td align="left" rowspan="1" colspan="1">The recommendation is supported by credible research or other convincing judgments that make additional research unlikely to alter the recommendation. On occasion, a strong recommendation is based on low or very low certainty in the evidence. In such instances, further research may provide important information that alters the recommendations.</td><td align="left" rowspan="1" colspan="1">The recommendation is likely to be strengthened (for future updates or adaptation) by additional research. An evaluation of the conditions and criteria (and the related judgments, research evidence, and additional considerations) that determined the conditional (rather than strong) recommendation will help to identify possible research gaps.</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>Non&#x02010;systematic literature searches, along with panel opinion and experience, were used to inform the research evidence for EtD factors as needed.</p><p>Methodologists worked with health economists to summarize published evidence on the cost and cost&#x02010;effectiveness of implementing BBMs in specialized care settings. Publicly available sources were used to compare the prices of commercially available BBM tests. A non&#x02010;systematic literature review was conducted to identify peer&#x02010;reviewed studies assessing the cost&#x02010;effectiveness of BBM tests in the diagnostic workup of suspected AD.</p><p>Input from the Association National Early&#x02010;Stage Advisory Group (ESAG) made up of patients with early&#x02010;stage AD, internal and external collaborative parties, and feedback from a public comment period also informed the final recommendations.</p></sec></sec><sec id="alz70535-sec-0170"><label>2.6</label><title>Guideline update process and external review process</title><p>A draft version of the recommendations was made publicly available, and all feedback submitted during the public comment period (May 12 to May 23) was reviewed by the methods team and the panel. Comments that fell within the scope of the guideline questions and were supported by the available evidence were considered for incorporation into the final guidance. To promote transparency and acknowledge collaborative party contributions, all de&#x02010;identified comments, where possible, will be made publicly accessible on the Alzheimer's Association Website <ext-link xlink:href="https://www.alz.org/professionals/health-systems-medical-professionals/clinical-practice-guidelines-and-evidence" ext-link-type="uri">https://www.alz.org/professionals/health-systems-medical-professionals/clinical-practice-guidelines-and-evidence</ext-link>.</p><p>This guideline is intended to serve as a regularly updated document and the associated systematic review will be regularly updated as new evidence emerges through the MAGICapp platform <ext-link xlink:href="https://app.magicapp.org/#/guideline/nyO1Yj" ext-link-type="uri">https://app.magicapp.org/#/guideline/nyO1Yj</ext-link> to maintain relevance for clinical practice over time.</p></sec><sec id="alz70535-sec-0180"><label>2.7</label><title>How to use this guideline</title><p>These recommendations are designed to support clinicians, patients, caregivers, policy&#x02010;makers, and healthcare decision&#x02010;makers in making evidence&#x02010;informed decisions, specifically regarding which BBM test(s) to use and whether it/they should be used as a triaging or confirmatory test for AD pathology in specialized care settings. The recommendations are not meant to restrict, limit, delay, or deny clinical use, insurance coverage, or patient access to biomarker testing when deemed appropriate by a qualified healthcare provider. Furthermore, these recommendations do not substitute for clinical judgment nor encompass all possible considerations in the diagnostic and therapeutic evaluation of AD. We advise clinicians to exercise discretion and adapt their approach based on individual patient circumstances and emerging evidence.</p></sec></sec><sec id="alz70535-sec-0190"><label>3</label><title>RECOMMENDATIONS</title><sec id="alz70535-sec-0200"><label>3.1</label><title>Recommendations and remarks</title><p>The panel formulated two recommendations and one good practice statement for the use of BBM tests in the diagnostic workup of patients with objective cognitive impairment presenting for specialized care. These conditional recommendations favor the use of BBM tests and offer acceptable minimum diagnostic test accuracy for triaging and confirmatory tests (Table&#x000a0;<xref rid="alz70535-tbl-0002" ref-type="table">2</xref>).</p><table-wrap position="float" id="alz70535-tbl-0002" content-type="TABLE"><label>TABLE 2</label><caption><p>Recommendations and remarks for the use of BBM tests in patients with objective cognitive impairment presenting for specialized care</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Clinical question</th><th align="left" rowspan="1" colspan="1">Recommendation</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<p>Should a BBM test be incorporated as a <italic toggle="yes">
+<underline underline-style="single">
+<bold>triaging</bold>
+</underline>
+</italic>
+<bold>test</bold>
+<sup>a</sup> to determine the presence or absence of AD pathology in the diagnostic workup of individuals with cognitive impairment (including those with MCI or dementia) presenting for specialized care for memory disorders?</p>
+<p>
+<sup>a</sup>
+<italic toggle="yes">A triaging test refers to a test in which a negative result rules out AD pathology with high probability, whereas a positive result should be confirmed using another method, such as CSF AD biomarkers or amyloid PET</italic>.</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>In patients with objective cognitive impairment presenting for specialized memory&#x02010;care, the panel suggests <italic toggle="yes">using a <bold>high&#x02010;sensitivity BBM test</bold>
+</italic>
+<sup>b</sup> as a triaging test in the diagnostic workup of AD. (Conditional recommendation, Low certainty evidence<sup>c</sup>)</p>
+<p>
+<sup>b</sup>
+<italic toggle="yes">The panel defined acceptable diagnostic test accuracy for triaging to be at least 90% sensitivity and 75% specificity for a reference test (CSF AD biomarkers, amyloid PET, or AD neuropathology). A systematic review of relevant studies can be found here</italic>. <ext-link xlink:href="https://app.magicapp.org/#/guideline/nyO1Yj" ext-link-type="uri">https://app.magicapp.org/#/guideline/nyO1Yj</ext-link>. <italic toggle="yes">
+<underline underline-style="single">Information will be updated based on future systematic reviews.</underline>
+</italic>
+</p>
+<p>
+<sup>c</sup>
+<italic toggle="yes">Certainty of the evidence is based on tests meeting acceptable diagnostic test accuracy</italic>.</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Should a BBM test serve as a substitute for CSF analysis or amyloid PET as a <italic toggle="yes">
+<underline underline-style="single">
+<bold>confirmatory</bold>
+</underline>
+</italic>
+<bold>test</bold>
+<sup>d</sup> to determine the presence or absence of AD pathology in the diagnostic workup of patients with cognitive impairment (MCI or dementia) presenting for specialized care for memory disorders?</p>
+<p>
+<sup>d</sup>
+<italic toggle="yes">A confirmatory test refers to a test in which a negative test rules out AD pathology, and a positive test confirms AD pathology with a high probability</italic>.</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>In patients with objective cognitive impairment presenting for specialized memory&#x02010;care, the panel suggests using a <italic toggle="yes">
+<bold>high&#x02010;sensitivity and high&#x02010;specificity</bold>
+</italic>
+<sup>e</sup> BBM test as a confirmatory test in the diagnostic workup of AD (conditional recommendation, Low certainty evidence<sup>f</sup>).</p>
+<p>
+<sup>e</sup>
+<italic toggle="yes">The panel defined acceptable diagnostic test accuracy for confirmatory testing to be at least 90% sensitivity and 90% specificity for a reference test (CSF AD biomarkers, amyloid PET, or AD neuropathology). A systematic review of relevant studies can be found here</italic>. <ext-link xlink:href="https://app.magicapp.org/#/guideline/nyO1Yj" ext-link-type="uri">https://app.magicapp.org/#/guideline/nyO1Yj</ext-link>. <italic toggle="yes">
+<underline underline-style="single">Information will be updated based on future systematic reviews.</underline>
+</italic>
+</p>
+<p>
+<sup>f</sup>
+<italic toggle="yes">Certainty of the evidence is based on tests meeting acceptable diagnostic test accuracy</italic>.</p>
+</td></tr><tr><td colspan="2" align="left" rowspan="1">
+<bold>Good practice statement</bold>
+</td></tr><tr><td colspan="2" align="left" rowspan="1">A BBM test should not be obtained before a comprehensive clinical evaluation by a healthcare professional, and test results should always be interpreted within the clinical context. The panel urges clinicians to consider the pretest probability of AD pathology for each patient when deciding whether or not to use a BBM test.</td></tr><tr><td colspan="2" align="left" rowspan="1">
+<bold>Remarks</bold>
+</td></tr><tr><td colspan="2" align="left" rowspan="1">
+<p>Please see the associated systematic review<xref rid="alz70535-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> which summarizes the performance of different BBM tests in patients with cognitive impairment and will be regularly updated. Many assays are still in development, optimization and validation, and their reported performance may evolve over time. This first set of meta&#x02010;analyses excluded biomarker combinations or ratios involving different protein types (e.g., p&#x02010;tau217/A&#x003b2;42), unless the ratio included a reference measure obtained from the same protein or peptide (e.g., A&#x003b2;42/40). Additionally, most available literature that met our search criteria provided sensitivity and specificity for a single cutoff (e.g., based on Youden's index). A limited number of studies used a two&#x02010;cutoff approach, where values above the upper cutoff confirmed AD pathology with high certainty and values below the lower cutoff ruled out AD pathology with high certainty. The panel will consider this approach as more peer&#x02010;reviewed publications become available.</p>
+<p>
+<bold>In the following clinical scenarios, a BBM test may not be appropriate</bold>:
+<list list-type="order" id="alz70535-list-0003"><list-item><p>When shared decision&#x02010;making discussions with the patient finds that there would be low utility in knowing whether AD pathology is present. The utility of a test depends partly on patient preferences and can be related to diagnostic or prognostic value, or if the test result informs a treatment decision. Some patients may only wish to know whether AD pathology is present if that knowledge informs treatment, but other patients may find utility regardless of treatment options.</p></list-item></list>
+</p>
+<bold>In the following clinical scenarios, a BBM test may not be appropriate or should be interpreted with extra caution</bold>:
+<list list-type="order" id="alz70535-list-0004"><list-item><p>Patients with obvious modifiable or temporary conditions that are likely to account for the patient's cognitive impairment.</p></list-item><list-item><p>Patients with limited life expectancy, as the clinical significance and prognosis of AD pathology are not well&#x02010;defined in these populations.</p></list-item><list-item><p>Patients with a history of conditions that can affect the brain and that may impact levels of a given BBM in ways that have not been well&#x02010;studied (e.g., neurocysticercosis, HIV, history of chemotherapy or radiation, chronic traumatic encephalopathy).</p></list-item><list-item><p>Patients with medical conditions that may affect the levels of a given BBM (e.g., acute brain injury, severe chronic kidney disease, ALS).</p></list-item><list-item><p>Patients taking certain medications that may impact levels of a given BBM (e.g., neprilysin inhibitors, drugs that disrupt the blood&#x02010;brain barrier).</p></list-item></list>
+</td></tr></tbody></table><table-wrap-foot><fn id="alz70535-tbl2-note-0001"><p>Abbreviation: AD, Alzheimer's disease; ALS, amyotrophic lateral sclerosis; BBM, blood&#x02010;based biomarker; CSF, cerebrospinal fluid; HIV, human immunodeficiency virus; MCI, mild cognitive impairment; PET, positron emission tomography.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="alz70535-sec-0210"><label>3.2</label><title>Summary of identified studies</title><p>Forty&#x02010;nine<xref rid="alz70535-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="alz70535-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="alz70535-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="alz70535-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="alz70535-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>, <xref rid="alz70535-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>, <xref rid="alz70535-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>, <xref rid="alz70535-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref>, <xref rid="alz70535-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>, <xref rid="alz70535-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>, <xref rid="alz70535-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>, <xref rid="alz70535-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref>, <xref rid="alz70535-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref>, <xref rid="alz70535-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref>, <xref rid="alz70535-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref>, <xref rid="alz70535-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref>, <xref rid="alz70535-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref>, <xref rid="alz70535-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref>, <xref rid="alz70535-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref>, <xref rid="alz70535-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref>, <xref rid="alz70535-bib-0048" ref-type="bibr">
+<sup>48</sup>
+</xref>, <xref rid="alz70535-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref>, <xref rid="alz70535-bib-0050" ref-type="bibr">
+<sup>50</sup>
+</xref>, <xref rid="alz70535-bib-0051" ref-type="bibr">
+<sup>51</sup>
+</xref>, <xref rid="alz70535-bib-0052" ref-type="bibr">
+<sup>52</sup>
+</xref>, <xref rid="alz70535-bib-0053" ref-type="bibr">
+<sup>53</sup>
+</xref>, <xref rid="alz70535-bib-0054" ref-type="bibr">
+<sup>54</sup>
+</xref>, <xref rid="alz70535-bib-0055" ref-type="bibr">
+<sup>55</sup>
+</xref>, <xref rid="alz70535-bib-0056" ref-type="bibr">
+<sup>56</sup>
+</xref>, <xref rid="alz70535-bib-0057" ref-type="bibr">
+<sup>57</sup>
+</xref>, <xref rid="alz70535-bib-0058" ref-type="bibr">
+<sup>58</sup>
+</xref>, <xref rid="alz70535-bib-0059" ref-type="bibr">
+<sup>59</sup>
+</xref>, <xref rid="alz70535-bib-0060" ref-type="bibr">
+<sup>60</sup>
+</xref>, <xref rid="alz70535-bib-0061" ref-type="bibr">
+<sup>61</sup>
+</xref>, <xref rid="alz70535-bib-0062" ref-type="bibr">
+<sup>62</sup>
+</xref>, <xref rid="alz70535-bib-0063" ref-type="bibr">
+<sup>63</sup>
+</xref>, <xref rid="alz70535-bib-0064" ref-type="bibr">
+<sup>64</sup>
+</xref>, <xref rid="alz70535-bib-0065" ref-type="bibr">
+<sup>65</sup>
+</xref>, <xref rid="alz70535-bib-0066" ref-type="bibr">
+<sup>66</sup>
+</xref>, <xref rid="alz70535-bib-0067" ref-type="bibr">
+<sup>67</sup>
+</xref>, <xref rid="alz70535-bib-0068" ref-type="bibr">
+<sup>68</sup>
+</xref>, <xref rid="alz70535-bib-0069" ref-type="bibr">
+<sup>69</sup>
+</xref>, <xref rid="alz70535-bib-0070" ref-type="bibr">
+<sup>70</sup>
+</xref>, <xref rid="alz70535-bib-0071" ref-type="bibr">
+<sup>71</sup>
+</xref>, <xref rid="alz70535-bib-0072" ref-type="bibr">
+<sup>72</sup>
+</xref>, <xref rid="alz70535-bib-0073" ref-type="bibr">
+<sup>73</sup>
+</xref>, <xref rid="alz70535-bib-0074" ref-type="bibr">
+<sup>74</sup>
+</xref>, <xref rid="alz70535-bib-0075" ref-type="bibr">
+<sup>75</sup>
+</xref>, <xref rid="alz70535-bib-0076" ref-type="bibr">
+<sup>76</sup>
+</xref> observational studies assessed the diagnostic test accuracy of plasma biomarkers of interest for determining AD pathology in patients with cognitive impairment to inform recommendations. Across these studies, 31 different BBM tests were evaluated in our systematic review and are summarized in Table&#x000a0;<xref rid="alz70535-tbl-0003" ref-type="table">3</xref> below:</p><table-wrap position="float" id="alz70535-tbl-0003" content-type="TABLE"><label>TABLE 3</label><caption><p>List of assay/analyte combinations studied in the systematic review.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Analyte</th><th align="left" rowspan="1" colspan="1">Assay</th><th align="left" rowspan="1" colspan="1">Brand</th></tr></thead><tbody><tr><td rowspan="3" align="left" colspan="1">A&#x003b2;42/40</td><td align="left" rowspan="1" colspan="1">Immunoprecipitation&#x02010;mass spectrometry (IP&#x02010;MS)</td><td align="left" rowspan="1" colspan="1">
+<p>WashU</p>
+<p>Amyloid MS<sup>TM</sup>, Shimadzu</p>
+<p>Precivity<sup>TM</sup>, C2N Diagnostics</p>
+<p>University of Gothenburg (UGOT)</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">High&#x02010;performance liquid chromatography&#x02010;differential mobility spectrometry&#x02010;tandem mass spectrometry</td><td align="left" rowspan="1" colspan="1">Araclon Biotech</td></tr><tr><td align="left" rowspan="1" colspan="1">Immunoassay</td><td align="left" rowspan="1" colspan="1">
+<p>Simoa, Quanterix 4plexE</p>
+<p>Simoa, Quanterix single plexes</p>
+<p>Simoa, Quanterix Neuro 3&#x02010;plex A kit</p>
+<p>Lumipulse<sup>TM</sup>, Fujirebio</p>
+<p>Elecsys<sup>TM</sup>, Roche</p>
+<p>HISCL, Sysmex</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">p&#x02010;tau181</td><td align="left" rowspan="1" colspan="1">Immunoassay</td><td align="left" rowspan="1" colspan="1">
+<p>Lilly assay, Meso Scale Discovery (MSD)</p>
+<p>S&#x02010;PLEX, MSD</p>
+<p>Simoa, Quanterix p&#x02010;tau&#x02010;181 Advantage Kit</p>
+<p>Simoa, Quanterix 4plexE</p>
+<p>Simoa, Quanterix UGOT</p>
+<p>Lumipulse<sup>TM</sup>, Fujirebio</p>
+<p>Simoa, ADx Neurosciences</p>
+<p>Elecsys, Roche</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">p&#x02010;tau231</td><td align="left" rowspan="1" colspan="1">Immunoassay</td><td align="left" rowspan="1" colspan="1">Simoa, Quanterix UGOT</td></tr><tr><td rowspan="2" align="left" colspan="1">p&#x02010;tau217</td><td align="left" rowspan="1" colspan="1">IP&#x02010;MS</td><td align="left" rowspan="1" colspan="1">
+<p>WashU</p>
+<p>IP&#x02010;MS Precivity<sup>TM</sup>, C2N Diagnostics</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Immunoassay</td><td align="left" rowspan="1" colspan="1">
+<p>Lilly assay, MSD</p>
+<p>S&#x02010;PLEX, MSD</p>
+<p>Simoa, Quanterix Janssen</p>
+<p>Simoa, ALZpath</p>
+<p>Elecsys prototype, Roche (N&#x02010;terminal)<xref rid="alz70535-tbl3-note-0001" ref-type="table-fn">*</xref>
+</p>
+<p>Elecsys prototype, Roche (mid&#x02010;domain)<xref rid="alz70535-tbl3-note-0001" ref-type="table-fn">*</xref>
+</p>
+<p>Lumipulse<sup>TM</sup>, Fujirebio</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">%p&#x02010;tau217</td><td align="left" rowspan="1" colspan="1">IP&#x02010;MS</td><td align="left" rowspan="1" colspan="1">
+<p>WashU</p>
+<p>Precivity<sup>TM</sup>, C2N Diagnostics</p>
+</td></tr></tbody></table><table-wrap-foot><fn id="alz70535-tbl3-note-0001"><label>*</label><p>Discontinued. Not to be confused with other Roche p&#x02010;tau217 assays, which have not been included in the systematic review.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>Eighty&#x02010;four studies that would have otherwise met eligibility criteria were ultimately excluded due to cognitively impaired and unimpaired populations being analyzed together, such that we were unable to separate data on only cognitively impaired individuals.</p><p>Demographic data reported in primary studies were occasionally reflective of combined populations (i.e., instances where test accuracy data was reported according to cognitive status but demographic data was not). The mean sample size across studies was 560 participants (range: 70 to 2244). Mean age across studies ranged from 62.6 to 85.9 years, and the percentage of males ranged from 33.8% to 60%. Across the 32 studies that evaluated and reported apolipoprotein E (<italic toggle="yes">APOE)</italic> &#x003b5;4 genotyping, carriers ranged from 27.1% to 56.2% of the population.</p></sec><sec id="alz70535-sec-0220"><label>3.3</label><title>EtD framework</title><p>The panel used the GRADE EtD framework for diagnostic test accuracy studies to systematically assess and transparently document the factors influencing the recommendation, including the diagnostic test accuracy, certainty of evidence, balance of benefits and harms, values and preferences, resources required, cost&#x02010;effectiveness, equity, acceptability, and feasibility. The completed EtD form (Table <xref rid="alz70535-supinfo-0001" ref-type="">S1</xref>) summarizes the judgments, research evidence, and additional expert input for each EtD factor.</p></sec><sec id="alz70535-sec-0230"><label>3.4</label><title>Diagnostic test accuracy</title><p>The panel decided to use a brand&#x02010;agnostic approach to formulating recommendations due to the evolving nature of the field, but did synthesize evidence on the diagnostic test accuracy of the selected tests versus selected reference standards in an associated systematic review.</p><p>Diagnostic test accuracy estimates across tests showed a high degree of variability. Notably, some tests did meet or exceed the panel's established thresholds, meaning a single cut&#x02010;point achieved the thresholds of 90% Sn and 75% Sp for triaging or 90% Sn and Sp for confirmatory testing. Across all 31 tests, pooled Sn ranged from 49.31% to 91.41%, and Sp ranged from 61.54% to 96.72%.</p><p>It is important to note that the panel evaluated only single cut&#x02010;point performance. Tests offering two&#x02010;cutoff approaches were not assessed due to limited peer&#x02010;reviewed evidence available. Summary of findings for all evaluated tests are reported in Table <xref rid="alz70535-supinfo-0001" ref-type="">S2</xref>, and results of sensitivity analyses reported in Table <xref rid="alz70535-supinfo-0001" ref-type="">S3</xref>. Full methodology and results are reported in the systematic review.</p></sec><sec id="alz70535-sec-0240"><label>3.5</label><title>Certainty of the evidence of test accuracy</title><p>The certainty of the evidence for test accuracy across all tests ranged from moderate to very low, and for tests meeting the panel's predetermined thresholds for accuracy, certainty ranged from low to very low. Most tests were rated down due to serious issues of risk of bias, largely due to not using prespecified thresholds and/or not reporting whether index test results were interpreted without knowledge of reference test results and vice versa. Inconsistency and imprecision varied across tests for both Sn and Sp. Publication bias was not detected for any of the tests.</p></sec><sec id="alz70535-sec-0250"><label>3.6</label><title>Desirable effects</title><p>The panel judged the desirable effects of using a BBM test to be large. Compared to current reference standards such as PET or CSF, BBM tests are minimally invasive and can significantly reduce the physical discomfort and anxiety often associated with lumbar puncture or PET imaging procedures. Additionally, blood testing may help streamline the diagnostic process, allowing for more timely identification of underlying AD pathology. This can lead to earlier clinical diagnosis, reduce delays between symptom onset and treatment initiation, and minimize the need for repeated consultations and referrals, thereby decreasing the burden on patients, caregivers, and the healthcare system.</p></sec><sec id="alz70535-sec-0260"><label>3.7</label><title>Undesirable effects</title><p>When used appropriately, the panel judged the undesirable effects of BBM tests to be small; however, undesirable effects could be more significant if not used by trained personnel. A key concern is the potential for over testing and increased system burden. The relatively low cost and high accessibility of blood tests may encourage widespread use in settings that are not adequately prepared to implement and interpret the BBM result or provide appropriate follow&#x02010;up care and access or referral to specialty services. A poorly structured diagnostic infrastructure could lead to inappropriate testing where a person with a low pretest probability of having AD pathology receives a positive result after a blood test which could almost equally be a FP case as opposed to a true case. FP could cause significant harm if a patient is then started on therapy based on erroneous test results. Similarly, FNs could cause delays in confirmatory testing and treatment.</p><p>Variability in test performance across platforms and manufacturers is another major concern. Not all BBM tests have been validated to the same standard, yet patients and clinicians may assume these tests are interchangeable. This may be especially problematic with direct&#x02010;to&#x02010;consumer (DTC) tests, which can lead to confusion, misinterpretation, or unwarranted anxiety among patients. Moreover, there is a risk that clinicians may begin to over&#x02010;rely on BBM results, using them as a diagnostic shortcut in place of comprehensive clinical and cognitive evaluations. This may contribute to underdiagnosis of treatable, co&#x02010;occurring, or non&#x02010;AD conditions, particularly in patients with complex or atypical presentations. Inappropriate interpretation of BBM results can also lead to premature or inaccurate diagnostic labeling, potentially harming patient trust and clinical decision&#x02010;making.</p></sec><sec id="alz70535-sec-0270"><label>3.8</label><title>Balance of effects</title><p>When a BBM test with acceptable accuracy is used by a trained specialist, the panel judged the desirable effects to be large and undesirable effects to be small to moderate; hence, the balance of effects probably favors the use of BBM tests over CSF, PET scan, or no testing. Overall, BBMs represent a scalable, patient&#x02010;friendly option that can enhance diagnostic pathways and expand access to timely care when implemented thoughtfully.</p></sec><sec id="alz70535-sec-0280"><label>3.9</label><title>Patients&#x02019; values and preferences</title><p>The panel agreed that there is possibly important uncertainty or variability in how much people value BBM testing for AD diagnosis due to the highly personal and emotional nature of the decision. While many appreciate the appeal of a minimally invasive test and the opportunity for early diagnosis, others may experience psychological distress, financial burden, or ethical concerns, especially if results are inconclusive or misinterpreted. Preferences also vary based on whether individuals want to know if they have AD, highlighting the need for shared decision&#x02010;making and compassionate, transparent communication. This variability in values underscores the importance of individualized approaches to BBM testing.</p></sec><sec id="alz70535-sec-0290"><label>3.10</label><title>Resources required</title><p>The panel judged savings to be moderate for BBMs compared to PET scans or CSF analysis, primarily due to their lower direct costs and simpler administration. BBMs generally cost significantly less, often 70% to 90% lower than PET imaging, though their exact price varies by country and healthcare setting. In places like the United States, savings are offset by inconsistent reimbursement and potential out&#x02010;of&#x02010;pocket expenses. When used as a triaging tool followed by confirmatory testing, overall costs may rise, but if BBM tests are able to replace more expensive confirmatory tests, it may yield moderate savings.</p></sec><sec id="alz70535-sec-0300"><label>3.11</label><title>Cost&#x02010;effectiveness</title><p>The panel could not make a judgment about the cost&#x02010;effectiveness of BBMs due to a lack of sufficient data on this topic, significant variability by region and payer system.</p></sec><sec id="alz70535-sec-0310"><label>3.12</label><title>Equity</title><p>The panel agreed that equity is probably increased with the use of BBMs because they are more affordable, less invasive, and easier to implement than reference tests like PET scans or lumbar punctures. In low&#x02010; and middle&#x02010;income countries, where access to specialized equipment and trained personnel is limited, BBMs offer a more feasible diagnostic option, expanding access to early detection and care. Even in high&#x02010;income countries, BBMs may increase diagnostic reach among older adults and underserved populations who face barriers to traditional testing. While resource strain and pricing could pose challenges, the overall potential for broader, more equitable access supports a likely improvement in health equity.</p></sec><sec id="alz70535-sec-0320"><label>3.13</label><title>Acceptability</title><p>The panel judged BBMs to be probably acceptable to key collaborative parties because commercially available tests that meet accuracy standards are generally well&#x02010;received by patients, clinicians, and health systems. Clinicians may have lower confidence in negative BBM results in patients with a typical clinical presentation of AD syndrome and consider further assessment. However, viewing BBMs as part of a comprehensive diagnostic approach rather than a standalone test helps maintain trust and appropriate use. This balanced perspective supports broad acceptance across collaborative parties.</p></sec><sec id="alz70535-sec-0330"><label>3.14</label><title>Feasibility</title><p>The feasibility of implementing BBMs was judged to vary depending on several factors. While blood collection and storage may be more practical than other modalities, implementation still requires adherence to proper sample handling and storage protocols.<xref rid="alz70535-bib-0077" ref-type="bibr">
+<sup>77</sup>
+</xref> Furthermore, widespread implementation hinges on the commercial availability of tests and reimbursement policies by payers. Additionally, approval of multiple BBM tests could enhance feasibility by fostering competition and reducing costs, increasing accessibility. Thus, feasibility is influenced by regulatory, financial, and market conditions that differ across healthcare systems.</p></sec></sec><sec id="alz70535-sec-0340"><label>4</label><title>DISCUSSION</title><sec id="alz70535-sec-0350"><label>4.1</label><title>Clinical implications</title><p>Guidelines provide a framework for clinicians to make decisions based on evidence, which reduces variability and promotes standardization of care. Laboratory directors can take advantage of this guideline when selecting tests based on standard validation results that align with the needs of the clinicians. Additionally, guidelines can help payers with evaluation of medical necessity to establish reimbursement policies. Our recommendations do not account for proprietary business decisions, such as a company's intent to pursue regulatory approval for a research&#x02010;use&#x02010;only (RUO) assay.</p><p>The medical literature regarding BBMs is rapidly evolving, and many different biomarkers and assays are in different stages of development. Assays for the same biomarker frequently use different methods, resulting in varying performance characteristics, and therefore must be evaluated as separate tests. Even for tests that are already clinically available, only a handful of peer&#x02010;reviewed published studies met our inclusion criteria. As a result, the existing evidence base is early and somewhat fragile, with the evidence for all tests rated as either &#x0201c;low&#x0201d; or &#x0201c;very low&#x0201d; certainty. When certainty is poor, it is possible that a future study could sway the pooled point estimates to a degree that would impact whether it meets the panel's recommended thresholds for acceptable diagnostic test accuracy. The panel considered the implications of declining to issue a recommendation for any test at this time, deferring until such time that more data emerge and confidence improves. Ultimately, we decided that patients would benefit from a set of &#x0201c;conditional recommendations with low certainty&#x0201d; with an accompanying systematic review of the most accurate and promising tests in the current field. Without this resource, providers may either select BBMs that are less promising than other available BBM options or refer patients for more invasive and expensive testing, when our expert opinion, based on the evidence reviewed here, is that harm could be reduced by the thoughtful use of BBMs in many instances.</p><p>Most studies informing the associated systematic review used single&#x02010;batch plasma analyses, which do not reflect real&#x02010;world clinical settings where samples are processed on a rolling basis, for example, daily or weekly. In clinical practice, even small assay imprecision and bias can affect interpretation, particularly when applying fixed diagnostic cutoffs. Therefore, clinical laboratories need to evaluate and monitor the coefficient of variation (CV) of biomarker assays to ensure consistent performance and help minimize the risk of misclassification due to analytical variability. This is especially important for biomarkers with small fold changes between AD pathology&#x02010;positive and &#x02010;negative individuals, such as A&#x003b2;42/40, which are more susceptible to assay imprecision in routine use. Recommendations for such biomarkers should therefore be interpreted with extra caution, since the systematic review did not account for such aspects.</p><p>At the time of our analysis, the vast majority of peer&#x02010;reviewed evidence for individual BBMs presented Sn and Sp based on a single cut&#x02010;point. However, because many plasma tests fall short of the accuracy required to confidently rule in or rule out the presence of brain amyloid with a single cut&#x02010;point, the field is rapidly moving toward alternate testing paradigms. One promising paradigm is the two&#x02010;cutoff approach, where values below a certain cut&#x02010;point rule out brain amyloid and values above a certain cut&#x02010;point rule in brain amyloid, while values in the middle require further testing with PET imaging or CSF AD biomarkers. The panel will consider this approach in future guideline updates as additional evidence emerges, with careful consideration of the evidence regarding the size of the indeterminate zone. As other groups have noted, a poorly performing assay could create a very large indeterminate zone using two cutoffs that achieve prespecified Sn or Sp targets.<xref rid="alz70535-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>
+</p><p>To meet the practical needs of clinical users implementing the recommendations found in this guideline, the Alzheimer's Association is also co&#x02010;creating distilled and easy&#x02010;to&#x02010;use clinical tools. These tools will be made available on a dedicated webpage in the future, as they are currently under development.</p></sec><sec id="alz70535-sec-0360"><label>4.2</label><title>Generalizability of recommendations</title><p>It is important to note that currently, there is a lack of widespread accessibility and reimbursement for many BBM tests, underscoring the need for the development of reimbursement frameworks that enable patients to benefit from emerging diagnostic technologies. The panel urges all collaborative parties to work actively toward ensuring equitable access to BBMs globally, as without deliberate efforts, this promising advancement could paradoxically widen existing disparities among countries, socioeconomic groups, and other vulnerable populations.</p></sec><sec id="alz70535-sec-0370"><label>4.3</label><title>Research needs</title><p>Eighty&#x02010;four studies were excluded from the evidence base as they combined cognitively impaired and unimpaired individuals, limiting interpretation for the target population. Additionally, some studies did not provide sufficient diagnostic accuracy data (e.g., TP, TN, FP, and FN) to be included in quantitative analyses. These limitations highlight gaps in the current literature and underscore the need for standardized reporting and stratified analyses in future research.</p><p>In addition to providing data on populations separated by cognitive status (cognitively impaired vs. unimpaired), we encourage researchers and industry partners to publish detailed and comprehensive data from their studies, including number of TP, TN, FP, FN, cutoff values used and method for determining cutoff (e.g., Youden's index or fixed Sn or Sp), data for multiple cutoffs (if applicable), detailed ROC curves, and methodological details about the conduct of the studies that inform their quality and risk of bias (e.g., random or consecutive sampling; BBM test results interpreted without knowledge of the results of the reference standard).<xref rid="alz70535-bib-0078" ref-type="bibr">
+<sup>78</sup>
+</xref>
+</p><p>While prices for some commercially available BBM tests have been reported, further research is needed to evaluate their relative cost and cost&#x02010;effectiveness in various settings. The cost burden of BBM testing can vary by perspective, that is, healthcare systems or payers may face different relative costs than patients, depending on insurance coverage policies. Additionally, indirect costs, such as those related to diagnostic delays or additional testing triggered by BBM results, remain poorly understood. Evidence comparing the cost&#x02010;effectiveness across BBM tests is severely limited. To address these gaps and inform healthcare policy and clinical implementation decisions, formal modeling analyses are needed to project the long&#x02010;term economic and clinical consequences of BBM testing strategies, including potential downstream costs and savings.</p></sec><sec id="alz70535-sec-0380"><label>4.4</label><title>Strengths and limitations</title><p>This CPG is grounded in a systematic review of the peer&#x02010;reviewed literature and developed using the GRADE approach. The use of GRADE ensures a transparent, structured, and evidence&#x02010;based process for evaluating the certainty of evidence and formulating recommendations. This methodology strengthens the credibility and reproducibility of the guideline and allows for explicit linkage between evidence and recommendations. The panel acknowledges the inherent limitations in the published literature available to inform these recommendations and has made efforts to transparently describe where data gaps or uncertainties remain.</p><p>In contrast, regulatory submissions are typically informed by data provided by industry sponsors and submitted to regulatory agencies in the context of product approval or licensure. These data, while often robust, are generally not peer&#x02010;reviewed or publicly available at the time of regulatory decision&#x02010;making. As a result, some tests that may have received regulatory approval or clearance at the time of this publication may not have been included in the systematic review or the panel's EtD process required for this guideline if peer&#x02010;reviewed data were not available or accessible.</p><p>To enhance the clinical relevance and applicability of the guideline, the panel was intentionally multidisciplinary and diverse in composition. It included experts from a broad range of specialties (e.g., neurology, geriatrics, nursing), as well as methodologists with expertise in guideline development and evidence synthesis. Panelists represented a variety of geographic regions, countries, gender, and years of clinical experience to promote inclusive perspectives and reduce potential biases. This diversity enriched the deliberative process and ensured that the recommendations are applicable across a wide range of clinical contexts and patient populations.</p><p>The panel acknowledged that the prevalence of brain amyloid in people with cognitive impairment has varied across populations where it has been studied, and there are many other clinical populations where amyloid testing with gold standard tests (PET or lumbar puncture or <italic toggle="yes">post mortem</italic> pathology) has been quite limited. Additionally, a given patient's pretest probability for AD will vary according to clinical presentation and known risk factors.<xref rid="alz70535-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>
+</p><p>At this stage, the panel has only considered individual biomarkers (including ratios that use a reference peptide as the denominator) rather than combinations of multiple biomarkers. The panel deliberately chose to focus on individual biomarkers initially to evaluate combinations in subsequent phases. The panel is aware that combinations of biomarkers, such as the p&#x02010;tau217/A&#x003b2;42 ratio or a fixed combination of A&#x003b2;42/A&#x003b2;40 and a p&#x02010;tau217 ratio, are being commercialized and provided to clinicians.</p><p>Because new BBM tests are continually becoming available to clinicians, the panel decided not to limit eligibility criteria to tests that were commercially available at the time of this review. As a result, the evidence base includes tests that may currently be commercially and not commercially available, including those that are clinically available, or for research use only.</p><p>Lastly, several studies have been published since our latest literature search update in November 2024. These newer studies were not included in the current analysis but will be considered for inclusion in future iterations of this guideline as part of ongoing efforts to ensure recommendations reflect the most up&#x02010;to&#x02010;date evidence.</p></sec></sec><sec id="alz70535-sec-0390"><label>5</label><title>CONCLUSION</title><p>The key recommendations in this CPG are that for the detection of amyloid pathology in patients with objective cognitive impairment presenting to specialized care settings: (1) BBM tests with &#x02265;90% sensitivity and &#x02265; 75% specificity can be used as a triaging test and (2) BBM tests with &#x02265;90% sensitivity and specificity can serve as a substitute for amyloid PET imaging or CSF AD biomarker testing.</p><p>The panel cautions users of this guideline that there is significant variability in diagnostic test accuracy, and many commercially available BBM tests do not meet these thresholds, especially using a single cutoff. Additionally, these tests do not serve as a substitute for comprehensive clinical evaluation by a healthcare professional and should be used only as part of a full diagnostic workup of patients with cognitive impairment presenting to specialized care settings, and with careful consideration of pretest probability of AD pathology.</p></sec><sec sec-type="COI-statement" id="alz70535-sec-0410"><title>CONFLICT OF INTEREST STATEMENT</title><p>Dr. Palmqvist receives grant funding for research related to AD from Avid and ki elements through the Alzheimer's Drug Discovery Foundation (paid to his institution) and in the past 36 months he has received consultancy/speaker fees from BioArtic, Biogen, Eisai, Eli Lilly, Novo Nordisk, and Roche. Dr. Whitson receives grant funding in the diagnostic AD space from the National Institute of Aging (NIA) (paid to her institution) and has served in speaking/education/advisory roles from UpToDate Inc., DrivenData Inc., ClinSTAR, American Federation for Aging Research, and universities (unrelated to the topic) in the past 36 months. Dr. Suarez&#x02010;Calvet has received grant funding for research in the blood and diagnostic AD space from Ag&#x000e8;ncia de Gesti&#x000f3; d'Ajuts Universitaris i de Recerca (AGAUR), Instituto de Salud Carlos III, European Commission, Fundaci&#x000f3; &#x0201c;la Caixa,&#x0201d; European Union and Health Department, HNA Foundation, and Roche Diagnostics International Ltd. (paid to his institution) and has served in paid advisory roles for Roche Diagnostics International Ltd., Roche Diagnostics, Roche Farma, S.A., Almirall, Eli Lilly, Quanterix, Novo Nordisk, and Grifols (paid to him and his institution) in the past 36 months and has reported no other direct financial or intellectual COIs related to the guideline topic that may impact or bias recommendations for/against the use of blood&#x02010;based biomarkers. Dr. Galasko has received speaking/education/advisory fees from Fujirebio, Inc., Biogen Inc., Eisai Inc., Roche Diagnostics, and Janssen related to treatment and diagnosis of AD in the past 36 months (paid to him and his institution). Dr. Karikari has consulted for Quanterix Corporation, SpearBio Inc., Neurogen Biomarking LLC., and Alzheon, has served on advisory boards for Siemens Healthineers and Neurogen Biomarking LLC., outside the submitted work (paid to him), has received in&#x02010;kind research support from Janssen Research Laboratories, SpearBio Inc., and Alamar Biosciences, as well as meeting travel support from the Alzheimer&#x02019;s Association and Neurogen Biomarking LLC., outside the submitted work (paid to him and his institution), has has received royalties from Bioventix for the transfer of specific antibodies and assays to third party organizations (paid to him), has received honoraria for speaker/grant review engagements from the NIH, UPENN, UW&#x02010;Madison, the Cherry Blossom symposium, the HABS&#x02010;HD/ADNI4 Health Enhancement Scientific Program, Advent Health Translational Research Institute, Brain Health conference, Barcelona&#x02010;Pittsburgh conference, the International Neuropsychological Society, the Icahn School of Medicine at Mount Sinai and the Quebec Center for Drug Discovery, Canada, all outside of the submitted work (paid to him), is an inventor on several patents and provisional patents regarding biofluid biomarker methods, targets and reagents/compositions, that may generate income for the institution and/or self should they be licensed and/or transferred to another organization including WO2020193500A1: Use of a ps396 assay to diagnose tauopathies; US 63/679,361: Methods to Evaluate Early&#x02010;Stage Pre&#x02010;Tangle TAU Aggregates and Treatment of Alzheimer&#x02019;s Disease Patients; US 63/672,952: Method for the Quantification of Plasma Amyloid&#x02010;Beta Biomarkers in Alzheimer's Disease; US 63/693,956: Anti&#x02010;tau Protein Antigen Binding Reagents; and 2450702&#x02010;2: Detection of oligomeric tau and soluble tau aggregates. Dr. Okrahvi has received grant funding for AD research from the Eastern Virginia Medical School&#x02010;Sentara Affiliation Funds, Optina Diagnostics, NIH, Commonwealth Health Research Board, and Eli Lilly (paid to his institution), and has served in a consulting role with Optina Diagnostics (paid to his institution) in the past 36 months. Dr. Schindler has received grant funding for research directly related to this topic from the NIA (paid to her institution), and has served in speaking/advisory roles for blood&#x02010;based biomarker research for Eli Lilly, Novo Nordisk, Eisai, Medscape, and universities (paid directly to her), and unpaid speaking/advisory roles with Eisai, Danaher, Eli Lilly, and the World Health Organization in the past 36 months. Dr. Teunissen has received grant funding for research related to AD biomarkers from European Commission, Innovative Medicines Initiatives 3TR, European Platform for Neurodegenerative Diseases, EU Joint Programme&#x02014;Neurodegenerative Disease Research, European Partnership on Metrology/EU Horizon Europe Research and Innovation Programme, CANTATE project funded by the Alzheimer Drug Discovery Foundation, Alzheimer Association, Michael J. Fox Foundation, Health Holland, the Dutch Research Council (ZonMW), Alzheimer Drug Discovery Foundation, The Selfridges Group Foundation, Alzheimer Netherlands (paid to her institution), has research contracts with contracts with Acumen, ADx Neurosciences, AC&#x02010;Immune, Alamar, Aribio, Axon Neurosciences, Beckman&#x02010;Coulter, BioConnect, Bioorchestra, Brainstorm Therapeutics, Celgene, Cognition Therapeutics, EIP Pharma, Eisai, Eli Lilly, Fujirebio, Instant Nano Biosensors, Novo Nordisk, Olink, PeopleBio, Quanterix, Roche, Toyama, Vivoryon, and has consultancy/speaker contracts for Aribio, Biogen, Beckman&#x02010;Coulter, Cognition Therapeutics, Eisai, Eli Lilly, Merck, Novo Nordisk, Novartis, Olink, Roche, Sanofi and Veravas (paid to her institution) in the past 36 months. Dr. Zetterberg has served in speaker/advisory/consulting roles for Denali, Apellis, Siemens, Biogen, Roche, Neumora Therapeutics Inc., Novo Nordisk, Amylyx, Enigma, WebMD Health Corp, LabCorp, Oy Medics (paid to him) in the past 36 months. Ms. Allen, Dr. Kahale, Ms. McAteer, and Ms.Paczynski report no indirect or direct financial or intellectual COIs related to the guideline topic that may impact or bias recommendations for/against the use of blood&#x02010;based biomarkers. Dr. Carillo, Dr. Edelmeyer, Dr. Mahinrad, Ms. Pahlke, and Ms. Tampi are full time employees of the Alzheimer's Association. The Alzheimer's Association funds research in numerous areas. The terms and conditions of its research awards contain a standard provision that requires the awardee to share with the Alzheimer's Association revenue derived from the licensing of intellectual property resulting from the funded research. A research award made to Washington University in St. Louis led to the development of technology for the measurement of pTau&#x02010;217. This technology was subsequently licensed to C2N Diagnostics. In accordance with the terms and condition of its award, Washington University shares a portion of the licensing fees that the University receives for this technology with the Alzheimer's Association. The Alzheimer's Association is not a party to the licensing agreement between Washington University and C2N Diagnostics, and did not participate in its negotiation. ICMJE forms for all authors are published in the Supplementary Materials. Author disclosures are available in the <xref rid="alz70535-supinfo-0001" ref-type="">Supporting Information</xref>. Conflicts of interest management process: Conflicts of interest were managed using predetermined rules set by the Alzheimer's Association to minimize bias. The Alzheimer's Association Rules for the Disclosure and Management of Clinical Guidance Panel Conflicts of Interest are provided here: <ext-link xlink:href="https://www.alz.org/professionals/health-systems-medical-professionals/clinical-practice-guidelines-and-evidence" ext-link-type="uri">https://www.alz.org/professionals/health&#x02010;systems&#x02010;medical&#x02010;professionals/clinical&#x02010;practice&#x02010;guidelines&#x02010;and&#x02010;evidence</ext-link>.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="alz70535-supinfo-0001" position="float" content-type="local-data"/><supplementary-material id="alz70535-supitem-0001" position="float" content-type="local-data"><caption><p>Supporting Information</p></caption><media xlink:href="ALZ-21-e70535-s002.docx"/></supplementary-material><supplementary-material id="alz70535-supitem-0002" position="float" content-type="local-data"><caption><p>Supporting Information</p></caption><media xlink:href="ALZ-21-e70535-s001.pdf"/></supplementary-material></sec></body><back><ack id="alz70535-sec-0400"><title>ACKNOWLEDGMENTS</title><p>The authors acknowledge Oskar Hansson, MD, PhD, for his contributions as the previous panel chair, including his leadership in the initial scoping and set&#x02010;up of the project and his subject matter expertise. The authors also acknowledge Sheena Aurora, MD, for sharing her clinical perspective and expertise during the final stages of development. The authors also acknowledge the contributions of Bernardo Sousa Pinto, MD, PhD, and Rafael Jos&#x000e9; Vieira, MD, PhD, as data analysts for the associated systematic review. The authors also acknowledge Noelle Warmenhoven, MSc, PhD(c), Lindsey Kuchenbecker, PhD(c), Anna Hoffman, MD, Jose Contador, MD, PhD, Thomas Claessan, MD, Yara Yakoub, PhD(c), and Luiza S. Machado PhD(c) for their expert efforts in study selection, data extraction, and risk of bias assessments that informed panel judgments. The authors also acknowledge Farid Foroutan, PhD, for providing methodological guidance related to diagnostic test accuracy and Chelsea Perfect, MD, and Janice Jhang, PhD(c), for their contributions to the evidence&#x02010;to&#x02010;decision research collection. The authors also acknowledge the support and contributions of Alzheimer's Association staff including Srilatha Raghuram, PhD, Lycia Tramujas Vasconcellos Neumann, PhD, Ozama Ismail, PhD, Emily Meyers, PhD, Emily Larson, and Nancy Cullen. The Alzheimer's Association sent the opportunity for public comment to the following organizations and agencies and thank them for any efforts to collect and share feedback with the authors of this panel: Alzheimer's Research UK, CEOi blood biomarker workgroup, The American Society for Clinical Pathology, Alzheimer's Europe, Alzheimer's Disease International, American Academy of Neurology, American Nurses Association, American Association of Nurse Practitioners, American Geriatrics Society, Gerontological Society of America, American Academy of Family Physicians, National Association of Community Health Centers, American College of Physicians, International Federation of Clinical Chemistry and Laboratory Medicine, Food and Drug Administration, Centers for Medicare &#x00026; Medicaid Services, NIH/NIA, Japan's Pharmaceuticals &#x00026; Medical Devices Agency (PMDA), European Medicines Agency, Health Canada, World Dementia Council, National Institute of Standards and Technology. This Clinical Practice Guideline was funded by the Alzheimer's Association, but it was not involved in formulating the clinical questions or recommendations.</p></ack><ref-list id="alz70535-bibl-0001"><title>REFERENCES</title><ref id="alz70535-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="alz70535-cite-0002">
+<article-title>Alzheimer's Association 2025 Alzheimer's disease facts and figures</article-title>. <year>2025</year>;<volume>21</volume>(<issue>5</issue>):e70235.</mixed-citation></ref><ref id="alz70535-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="alz70535-cite-0003">
+<string-name>
+<surname>Hansson</surname>
+<given-names>O</given-names>
+</string-name>. <article-title>Biomarkers for neurodegenerative diseases</article-title>. <source>Nat Med</source>. <year>2021</year>;<volume>27</volume>:<fpage>954</fpage>&#x02010;<lpage>963</lpage>. doi:<pub-id pub-id-type="doi">10.1038/s41591-021-01382-x</pub-id>
+<pub-id pub-id-type="pmid">34083813</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="alz70535-cite-0004">
+<string-name>
+<surname>Jack</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name>
+<surname>Andrews</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Beach</surname>
+<given-names>TG</given-names>
+</string-name>, et&#x000a0;al. <article-title>Revised criteria for diagnosis and staging of Alzheimer's disease: Alzheimer's Association Workgroup</article-title>. <source>Alzheimers Dement</source>. <year>2024</year>;<volume>20</volume>:<fpage>5143</fpage>&#x02010;<lpage>5169</lpage>. doi:<pub-id pub-id-type="doi">10.1002/alz.13859</pub-id>
+<pub-id pub-id-type="pmid">38934362</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="alz70535-cite-0005">
+<string-name>
+<surname>Beach</surname>
+<given-names>TG</given-names>
+</string-name>, <string-name>
+<surname>Monsell</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name>
+<surname>Phillips</surname>
+<given-names>LE</given-names>
+</string-name>, <string-name>
+<surname>Kukull</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>Accuracy of the clinical diagnosis of Alzheimer disease at National Institute on Aging Alzheimer Disease Centers, 2005&#x02010;2010</article-title>. <source>J Neuropathol Exp Neurol</source>. <year>2012</year>;<volume>71</volume>:<fpage>266</fpage>&#x02010;<lpage>273</lpage>. doi:<pub-id pub-id-type="doi">10.1097/NEN.0b013e31824b211b</pub-id>
+<pub-id pub-id-type="pmid">22437338</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="alz70535-cite-0006">
+<string-name>
+<surname>Palmqvist</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Tideman</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Mattsson&#x02010;Carlgren</surname>
+<given-names>N</given-names>
+</string-name>, et&#x000a0;al. <article-title>Blood biomarkers to detect Alzheimer disease in primary care and secondary care</article-title>. <source>JAMA</source>. <year>2024</year>;<volume>332</volume>:<fpage>1245</fpage>&#x02010;<lpage>1257</lpage>. doi:<pub-id pub-id-type="doi">10.1001/jama.2024.13855</pub-id>
+<pub-id pub-id-type="pmid">39068545</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="alz70535-cite-0007">
+<string-name>
+<surname>Rabinovici</surname>
+<given-names>GD</given-names>
+</string-name>, <string-name>
+<surname>Gatsonis</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Apgar</surname>
+<given-names>C</given-names>
+</string-name>, et&#x000a0;al. <article-title>Association of amyloid positron emission tomography with subsequent change in clinical management among Medicare beneficiaries with mild cognitive impairment or dementia</article-title>. <source>JAMA</source>. <year>2019</year>;<volume>321</volume>:<fpage>1286</fpage>. doi:<pub-id pub-id-type="doi">10.1001/jama.2019.2000</pub-id>
+<pub-id pub-id-type="pmid">30938796</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="alz70535-cite-0008">
+<string-name>
+<surname>Dickerson</surname>
+<given-names>BC</given-names>
+</string-name>, <string-name>
+<surname>Atri</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Clevenger</surname>
+<given-names>C</given-names>
+</string-name>, et&#x000a0;al. <article-title>The Alzheimer's Association clinical practice guideline for the diagnostic evaluation, testing, counseling, and disclosure of suspected alzheimer's disease and related disorders (DETeCD&#x02010;ADRD): executive summary of recommendations for specialty care</article-title>. <source>Alzheimers Dement</source>. <year>2025</year>;<volume>21</volume>:<elocation-id>e14337</elocation-id>. doi:<pub-id pub-id-type="doi">10.1002/alz.14337</pub-id>
+<pub-id pub-id-type="pmid">39713957</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="alz70535-cite-0009">
+<string-name>
+<surname>VandeVrede</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Schindler</surname>
+<given-names>SE</given-names>
+</string-name>. <article-title>Clinical use of biomarkers in the era of Alzheimer's disease treatments</article-title>. <source>Alzheimers Dement</source>. <year>2025</year>;<volume>21</volume>:<elocation-id>e14201</elocation-id>. doi:<pub-id pub-id-type="doi">10.1002/alz.14201</pub-id>
+<pub-id pub-id-type="pmid">39740074</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="alz70535-cite-0010">
+<string-name>
+<surname>van Dyck</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>Swanson</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name>
+<surname>Aisen</surname>
+<given-names>P</given-names>
+</string-name>, et&#x000a0;al. <article-title>Lecanemab in early Alzheimer's disease</article-title>. <source>N Engl J Med</source>. <year>2023</year>;<volume>388</volume>:<fpage>9</fpage>&#x02010;<lpage>21</lpage>. doi:<pub-id pub-id-type="doi">10.1056/NEJMoa2212948</pub-id>
+<pub-id pub-id-type="pmid">36449413</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="alz70535-cite-0011">
+<string-name>
+<surname>Sims</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Zimmer</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Evans</surname>
+<given-names>CD</given-names>
+</string-name>, et&#x000a0;al. <article-title>Donanemab in early symptomatic Alzheimer disease: the TRAILBLAZER&#x02010;ALZ 2 randomized clinical trial</article-title>. <source>JAMA</source>. <year>2023</year>;<volume>330</volume>:<fpage>512</fpage>&#x02010;<lpage>527</lpage>. doi:<pub-id pub-id-type="doi">10.1001/jama.2023.13239</pub-id>
+<pub-id pub-id-type="pmid">37459141</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="alz70535-cite-0012">
+<string-name>
+<surname>Budd Haeberlein</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Aisen</surname>
+<given-names>PS</given-names>
+</string-name>, <string-name>
+<surname>Barkhof</surname>
+<given-names>F</given-names>
+</string-name>, et&#x000a0;al. <article-title>Two randomized phase 3 studies of aducanumab in early Alzheimer's disease</article-title>. <source>J Prev Alzheimers Dis</source>. <year>2022</year>;<volume>9</volume>:<fpage>197</fpage>&#x02010;<lpage>210</lpage>. doi:<pub-id pub-id-type="doi">10.14283/jpad.2022.30</pub-id>
+<pub-id pub-id-type="pmid">35542991</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="alz70535-cite-0013">
+<string-name>
+<surname>Cummings</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Apostolova</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Rabinovici</surname>
+<given-names>GD</given-names>
+</string-name>, et&#x000a0;al. <article-title>Lecanemab: appropriate use recommendations</article-title>. <source>J Prev Alzheimers Dis</source>. <year>2023</year>;<volume>10</volume>:<fpage>362</fpage>&#x02010;<lpage>377</lpage>. doi:<pub-id pub-id-type="doi">10.14283/jpad.2023.30</pub-id>
+<pub-id pub-id-type="pmid">37357276</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="alz70535-cite-0014">
+<string-name>
+<surname>Rabinovici</surname>
+<given-names>GD</given-names>
+</string-name>, <string-name>
+<surname>Selkoe</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Schindler</surname>
+<given-names>SE</given-names>
+</string-name>, et&#x000a0;al. <article-title>Donanemab: appropriate use recommendations</article-title>. <source>J Prev Alzheimers Dis</source>. <year>2025</year>;<volume>12</volume>:<elocation-id>100150</elocation-id>. doi:<pub-id pub-id-type="doi">10.1016/j.tjpad.2025.100150</pub-id>
+<pub-id pub-id-type="pmid">40155270</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="alz70535-cite-0015">
+<string-name>
+<surname>Hansson</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Blennow</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Zetterberg</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Dage</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Blood biomarkers for Alzheimer's disease in clinical practice and trials</article-title>. <source>Nat Aging</source>. <year>2023</year>;<volume>3</volume>:<fpage>506</fpage>&#x02010;<lpage>519</lpage>. doi:<pub-id pub-id-type="doi">10.1038/s43587-023-00403-3</pub-id>
+<pub-id pub-id-type="pmid">37202517</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="alz70535-cite-0016">
+<string-name>
+<surname>Schindler</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name>
+<surname>Galasko</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Pereira</surname>
+<given-names>AC</given-names>
+</string-name>, et&#x000a0;al. <article-title>Acceptable performance of blood biomarker tests of amyloid pathology&#x02014;recommendations from the Global CEO Initiative on Alzheimer's Disease</article-title>. <source>Nat Rev Neurol</source>. <year>2024</year>;<volume>20</volume>:<fpage>426</fpage>&#x02010;<lpage>439</lpage>. doi:<pub-id pub-id-type="doi">10.1038/s41582-024-00977-5</pub-id>
+<pub-id pub-id-type="pmid">38866966</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="alz70535-cite-0017">
+<string-name>
+<surname>Warmenhoven</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Salvad&#x000f3;</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Janelidze</surname>
+<given-names>S</given-names>
+</string-name>, et&#x000a0;al. <article-title>A comprehensive head&#x02010;to&#x02010;head comparison of key plasma phosphorylated tau 217 biomarker tests</article-title>. <source>MedRxiv Prepr Serv Health Sci</source>. <year>2024</year>. doi:<pub-id pub-id-type="doi">10.1093/brain/awae346</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="alz70535-cite-0018">
+<string-name>
+<surname>Schindler</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name>
+<surname>Petersen</surname>
+<given-names>KK</given-names>
+</string-name>, <string-name>
+<surname>Saef</surname>
+<given-names>B</given-names>
+</string-name>, et&#x000a0;al. <article-title>Head&#x02010;to&#x02010;head comparison of leading blood tests for Alzheimer's disease pathology</article-title>. <source>Alzheimers Demen</source>. <year>2024</year>;<volume>20</volume>:<fpage>8074</fpage>&#x02010;<lpage>8096</lpage>. doi:<pub-id pub-id-type="doi">10.1002/alz.14315</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="alz70535-cite-0019">
+<string-name>
+<surname>Hansson</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Edelmayer</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>Boxer</surname>
+<given-names>AL</given-names>
+</string-name>, et&#x000a0;al. <article-title>The Alzheimer's Association appropriate use recommendations for blood biomarkers in Alzheimer's disease</article-title>. <source>Alzheimers Dement</source>. <year>2022</year>;<volume>18</volume>:<fpage>2669</fpage>&#x02010;<lpage>2686</lpage>. doi:<pub-id pub-id-type="doi">10.1002/alz.12756</pub-id>
+<pub-id pub-id-type="pmid">35908251</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="alz70535-cite-0020">
+<string-name>
+<surname>Pahlke</surname>
+<given-names>SC</given-names>
+</string-name>, et&#x000a0;al. <article-title>Blood&#x02010;based biomarkers for detecting Alzheimer's disease pathology in cognitively impaired individuals within specialty care settings: a systematic review and meta&#x02010;Analysis</article-title>. <source>Alzheimers Dement</source>. Submitted.</mixed-citation></ref><ref id="alz70535-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="alz70535-cite-0078">
+<string-name>
+<surname>Brouwers</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name>
+<surname>Kerkvliet</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Spithoff</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>The AGREE Reporting Checklist: a tool to improve reporting of clinical practice guidelines</article-title>. <source>BMJ</source>. <year>2016</year>;<volume>352</volume>:<fpage>i1152</fpage>.<pub-id pub-id-type="pmid">26957104</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="alz70535-cite-0079">
+<string-name>
+<surname>Schunemann</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name>
+<surname>Wiercioch</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Etxeandia</surname>
+<given-names>I</given-names>
+</string-name>, et al. <article-title>Guidelines 2.0: systematic development of a comprehensive checklist for a successful guideline enterprise</article-title>. <source>CMAJ</source>. <year>2014</year>;<volume>186</volume>(<issue>3</issue>):<fpage>E123</fpage>&#x02010;<lpage>E142</lpage>.<pub-id pub-id-type="pmid">24344144</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="alz70535-cite-0021">
+<string-name>
+<surname>Rabinovici</surname>
+<given-names>GD</given-names>
+</string-name>, <string-name>
+<surname>Knopman</surname>
+<given-names>DS</given-names>
+</string-name>, <string-name>
+<surname>Arbizu</surname>
+<given-names>J</given-names>
+</string-name>, et&#x000a0;al. <article-title>Updated appropriate use criteria for amyloid and tau PET: a report from the Alzheimer's Association and Society for Nuclear Medicine and Molecular Imaging Workgroup</article-title>. <source>Alzheimers Dement</source>. <year>2025</year>;<volume>21</volume>:<elocation-id>e14338</elocation-id>. doi:<pub-id pub-id-type="doi">10.1002/alz.14338</pub-id>
+<pub-id pub-id-type="pmid">39776249</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="alz70535-cite-0022">
+<string-name>
+<surname>Ashton</surname>
+<given-names>NJ</given-names>
+</string-name>, <string-name>
+<surname>Keshavan</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Brum</surname>
+<given-names>WS</given-names>
+</string-name>, et&#x000a0;al. <article-title>The Alzheimer's Association Global Biomarker Standardization Consortium (GBSC) plasma phospho&#x02010;tau Round Robin study</article-title>. <source>Alzheimers Dement</source>. <year>2025</year>;<volume>21</volume>:<elocation-id>e14508</elocation-id>. doi:<pub-id pub-id-type="doi">10.1002/alz.14508</pub-id>
+<pub-id pub-id-type="pmid">39907496</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0024"><label>24</label><mixed-citation publication-type="book" id="alz70535-cite-0023">
+<article-title>WebPlotDigitizer</article-title>. Version 4.6. <publisher-name>Ankit Rohatgi</publisher-name>; <year>2021</year>. Accessed May 6, 2025. <ext-link xlink:href="https://automeris.io/" ext-link-type="uri">https://automeris.io/</ext-link>
+</mixed-citation></ref><ref id="alz70535-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="alz70535-cite-0024">
+<string-name>
+<surname>Guyatt</surname>
+<given-names>GH</given-names>
+</string-name>, <string-name>
+<surname>Oxman</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name>
+<surname>Kunz</surname>
+<given-names>R</given-names>
+</string-name>, et&#x000a0;al. <article-title>What is &#x0201c;quality of evidence&#x0201d; and why is it important to clinicians?</article-title>. <source>BMJ</source>. <year>2008</year>;<volume>336</volume>:<fpage>995</fpage>&#x02010;<lpage>998</lpage>. doi:<pub-id pub-id-type="doi">10.1136/bmj.39490.551019.BE</pub-id>
+<pub-id pub-id-type="pmid">18456631</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="alz70535-cite-0025">
+<string-name>
+<surname>Jansen</surname>
+<given-names>WJ</given-names>
+</string-name>, <string-name>
+<surname>Janssen</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Tijms</surname>
+<given-names>BM</given-names>
+</string-name>, et&#x000a0;al. <article-title>Prevalence estimates of amyloid abnormality across the Alzheimer disease clinical spectrum</article-title>. <source>JAMA Neurol</source>. <year>2022</year>;<volume>79</volume>:<fpage>228</fpage>. doi:<pub-id pub-id-type="doi">10.1001/jamaneurol.2021.5216</pub-id>
+<pub-id pub-id-type="pmid">35099509</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="alz70535-cite-0026">
+<string-name>
+<surname>Alonso&#x02010;Coello</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Oxman</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name>
+<surname>Moberg</surname>
+<given-names>J</given-names>
+</string-name>, et&#x000a0;al. <article-title>GRADE Evidence to Decision (EtD) frameworks: a systematic and transparent approach to making well informed healthcare choices. 2: clinical practice guidelines</article-title>. <source>BMJ</source>. <year>2016</year>;<volume>353</volume>:<elocation-id>i2089</elocation-id>. doi:<pub-id pub-id-type="doi">10.1136/bmj.i2089</pub-id>
+<pub-id pub-id-type="pmid">27365494</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="alz70535-cite-0027">
+<string-name>
+<surname>Balshem</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Helfand</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Sch&#x000fc;nemann</surname>
+<given-names>HJ</given-names>
+</string-name>, et&#x000a0;al. <article-title>GRADE guidelines: 3. Rating the quality of evidence</article-title>. <source>J Clin Epidemiol</source>. <year>2011</year>;<volume>64</volume>:<fpage>401</fpage>&#x02010;<lpage>406</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.jclinepi.2010.07.015</pub-id>
+<pub-id pub-id-type="pmid">21208779</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="alz70535-cite-0028">
+<string-name>
+<surname>Andrews</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Guyatt</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Oxman</surname>
+<given-names>AD</given-names>
+</string-name>, et&#x000a0;al. <article-title>GRADE guidelines: 14. Going from evidence to recommendations: the significance and presentation of recommendations</article-title>. <source>J Clin Epidemiol</source>. <year>2013</year>;<volume>66</volume>:<fpage>719</fpage>&#x02010;<lpage>725</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.jclinepi.2012.03.013</pub-id>
+<pub-id pub-id-type="pmid">23312392</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="alz70535-cite-0029">
+<string-name>
+<surname>Andrews</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Sch&#x000fc;nemann</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name>
+<surname>Oxman</surname>
+<given-names>AD</given-names>
+</string-name>, et&#x000a0;al. <article-title>GRADE guidelines: 15. Going from evidence to recommendation&#x02014;determinants of a recommendation's direction and strength</article-title>. <source>J Clin Epidemiol</source>. <year>2013</year>;<volume>66</volume>:<fpage>726</fpage>&#x02010;<lpage>735</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.jclinepi.2013.02.003</pub-id>
+<pub-id pub-id-type="pmid">23570745</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="alz70535-cite-0030">
+<string-name>
+<surname>Ashton</surname>
+<given-names>NJ</given-names>
+</string-name>, <string-name>
+<surname>Janelidze</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Mattsson&#x02010;Carlgren</surname>
+<given-names>N</given-names>
+</string-name>, et&#x000a0;al. <article-title>Differential roles of A&#x003b2;42/40, p&#x02010;tau231 and p&#x02010;tau217 for Alzheimer's trial selection and disease monitoring</article-title>. <source>Nat Med</source>. <year>2022</year>;<volume>28</volume>:<fpage>2555</fpage>&#x02010;<lpage>2562</lpage>. doi:<pub-id pub-id-type="doi">10.1038/s41591-022-02074-w</pub-id>
+<pub-id pub-id-type="pmid">36456833</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="alz70535-cite-0031">
+<string-name>
+<surname>Barth&#x000e9;lemy</surname>
+<given-names>NR</given-names>
+</string-name>, <string-name>
+<surname>Salvad&#x000f3;</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Schindler</surname>
+<given-names>SE</given-names>
+</string-name>, et&#x000a0;al. <article-title>Highly accurate blood test for Alzheimer's disease is similar or superior to clinical cerebrospinal fluid tests</article-title>. <source>Nat Med</source>. <year>2024</year>;<volume>30</volume>:<fpage>1085</fpage>&#x02010;<lpage>1095</lpage>. doi:<pub-id pub-id-type="doi">10.1038/s41591-024-02869-z</pub-id>
+<pub-id pub-id-type="pmid">38382645</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="alz70535-cite-0032">
+<string-name>
+<surname>Benedet</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Brum</surname>
+<given-names>WS</given-names>
+</string-name>, <string-name>
+<surname>Hansson</surname>
+<given-names>O</given-names>
+</string-name>, et&#x000a0;al. <article-title>The accuracy and robustness of plasma biomarker models for amyloid PET positivity</article-title>. <source>Alzheimers Res Ther</source>. <year>2022</year>;<volume>14</volume>:<fpage>26</fpage>. doi:<pub-id pub-id-type="doi">10.1186/s13195-021-00942-0</pub-id>
+<pub-id pub-id-type="pmid">35130933</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="alz70535-cite-0033">
+<string-name>
+<surname>Bermudez</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Graff&#x02010;Radford</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Syrjanen</surname>
+<given-names>JA</given-names>
+</string-name>, et&#x000a0;al. <article-title>Plasma biomarkers for prediction of Alzheimer's disease neuropathologic change</article-title>. <source>Acta Neuropathol</source>. <year>2023</year>;<volume>146</volume>:<fpage>13</fpage>&#x02010;<lpage>29</lpage>. doi:<pub-id pub-id-type="doi">10.1007/s00401-023-02594-w</pub-id>
+<pub-id pub-id-type="pmid">37269398</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="alz70535-cite-0034">
+<string-name>
+<surname>Brum</surname>
+<given-names>WS</given-names>
+</string-name>, <string-name>
+<surname>Cullen</surname>
+<given-names>NC</given-names>
+</string-name>, <string-name>
+<surname>Janelidze</surname>
+<given-names>S</given-names>
+</string-name>, et&#x000a0;al. <article-title>A two&#x02010;step workflow based on plasma p&#x02010;tau217 to screen for amyloid &#x003b2; positivity with further confirmatory testing only in uncertain cases</article-title>. <source>Nat Aging</source>. <year>2023</year>;<volume>3</volume>:<fpage>1079</fpage>&#x02010;<lpage>1090</lpage>. doi:<pub-id pub-id-type="doi">10.1038/s43587-023-00471-5</pub-id>
+<pub-id pub-id-type="pmid">37653254</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="alz70535-cite-0035">
+<string-name>
+<surname>Bucci</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bluma</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Savitcheva</surname>
+<given-names>I</given-names>
+</string-name>, et&#x000a0;al. <article-title>Profiling of plasma biomarkers in the context of memory assessment in a tertiary memory clinic</article-title>. <source>Transl Psychiatry</source>. <year>2023</year>;<volume>13</volume>:<fpage>268</fpage>. doi:<pub-id pub-id-type="doi">10.1038/s41398-023-02558-4</pub-id>
+<pub-id pub-id-type="pmid">37491358</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="alz70535-cite-0036">
+<string-name>
+<surname>Chatterjee</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Pedrini</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Doecke</surname>
+<given-names>JD</given-names>
+</string-name>, et&#x000a0;al. <article-title>Plasma A&#x003b2;42/40 ratio, p&#x02010;tau181, GFAP, and NfL across the Alzheimer's disease continuum: a cross&#x02010;sectional and longitudinal study in the AIBL cohort</article-title>. <source>Alzheimers Dement</source>. <year>2023</year>;<volume>19</volume>:<fpage>1117</fpage>&#x02010;<lpage>1134</lpage>. doi:<pub-id pub-id-type="doi">10.1002/alz.12724</pub-id>
+<pub-id pub-id-type="pmid">36574591</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="alz70535-cite-0037">
+<string-name>
+<surname>Fowler</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name>
+<surname>Stoops</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Rainey&#x02010;Smith</surname>
+<given-names>SR</given-names>
+</string-name>, et&#x000a0;al. <article-title>Plasma p&#x02010;tau181/A&#x003b2;<sub>1&#x02010;42</sub> ratio predicts A&#x003b2;&#x02010;PET status and correlates with CSF&#x02010;p&#x02010;tau181/A&#x003b2;<sub>1&#x02010;42</sub> and future cognitive decline</article-title>. <source>Alzheimers Dement</source>. <year>2022</year>;<volume>14</volume>:<elocation-id>e12375</elocation-id>. doi:<pub-id pub-id-type="doi">10.1002/dad2.12375</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="alz70535-cite-0038">
+<string-name>
+<surname>Giuffr&#x000e8;</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name>
+<surname>Quaranta</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Vita</surname>
+<given-names>MG</given-names>
+</string-name>, et&#x000a0;al. <article-title>Performance of fully&#x02010;automated high&#x02010;throughput plasma biomarker assays for Alzheimer's disease in amnestic mild cognitive impairment subjects</article-title>. <source>J Prev Alzheimers Dis</source>. <year>2024</year>;<volume>11</volume>:<fpage>1073</fpage>&#x02010;<lpage>1078</lpage>. doi:<pub-id pub-id-type="doi">10.14283/jpad.2024.58</pub-id>
+<pub-id pub-id-type="pmid">39044519</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="alz70535-cite-0039">
+<string-name>
+<surname>Groot</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Cicognola</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Bali</surname>
+<given-names>D</given-names>
+</string-name>, et&#x000a0;al. <article-title>Diagnostic and prognostic performance to detect Alzheimer's disease and clinical progression of a novel assay for plasma p&#x02010;tau217</article-title>. <source>Alzheimers Res Ther</source>. <year>2022</year>;<volume>14</volume>:<fpage>67</fpage>. doi:<pub-id pub-id-type="doi">10.1186/s13195-022-01005-8</pub-id>
+<pub-id pub-id-type="pmid">35568889</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="alz70535-cite-0040">
+<string-name>
+<surname>Hu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Kirmess</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Meyer</surname>
+<given-names>MR</given-names>
+</string-name>, et&#x000a0;al. <article-title>Assessment of a plasma amyloid probability score to estimate amyloid positron emission tomography findings among adults with cognitive impairment</article-title>. <source>JAMA Netw Open</source>. <year>2022</year>;<volume>5</volume>:<elocation-id>e228392</elocation-id>. doi:<pub-id pub-id-type="doi">10.1001/jamanetworkopen.2022.8392</pub-id>
+<pub-id pub-id-type="pmid">35446396</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="alz70535-cite-0041">
+<string-name>
+<surname>Janelidze</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Bali</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Ashton</surname>
+<given-names>NJ</given-names>
+</string-name>, et&#x000a0;al. <article-title>Head&#x02010;to&#x02010;head comparison of 10 plasma phospho&#x02010;tau assays in prodromal Alzheimer's disease</article-title>. <source>Brain J Neurol</source>. <year>2023</year>;<volume>146</volume>:<fpage>1592</fpage>&#x02010;<lpage>1601</lpage>. doi:<pub-id pub-id-type="doi">10.1093/brain/awac333</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="alz70535-cite-0042">
+<string-name>
+<surname>Janelidze</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Palmqvist</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Leuzy</surname>
+<given-names>A</given-names>
+</string-name>, et&#x000a0;al. <article-title>Detecting amyloid positivity in early Alzheimer's disease using combinations of plasma A&#x003b2;42/A&#x003b2;40 and p&#x02010;tau</article-title>. <source>Alzheimers Dement</source>. <year>2022</year>;<volume>18</volume>:<fpage>283</fpage>&#x02010;<lpage>293</lpage>. doi:<pub-id pub-id-type="doi">10.1002/alz.12395</pub-id>
+<pub-id pub-id-type="pmid">34151519</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="alz70535-cite-0043">
+<string-name>
+<surname>Jang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>HJ</given-names>
+</string-name>, et&#x000a0;al. <article-title>Performance of the plasma A&#x003b2;42/A&#x003b2;40 ratio, measured with a novel HPLC&#x02010;MS/MS method, as a biomarker of amyloid PET status in a DPUK&#x02010;KOREAN cohort</article-title>. <source>Alzheimers Res Ther</source>. <year>2021</year>;<volume>13</volume>:<fpage>179</fpage>. doi:<pub-id pub-id-type="doi">10.1186/s13195-021-00911-7</pub-id>
+<pub-id pub-id-type="pmid">34686209</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="alz70535-cite-0044">
+<string-name>
+<surname>Karikari</surname>
+<given-names>TK</given-names>
+</string-name>, <string-name>
+<surname>Benedet</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Ashton</surname>
+<given-names>NJ</given-names>
+</string-name>, et&#x000a0;al. <article-title>Diagnostic performance and prediction of clinical progression of plasma phospho&#x02010;tau181 in the Alzheimer's Disease Neuroimaging Initiative</article-title>. <source>Mol Psychiatry</source>. <year>2021</year>;<volume>26</volume>:<fpage>429</fpage>&#x02010;<lpage>442</lpage>. doi:<pub-id pub-id-type="doi">10.1038/s41380-020-00923-z</pub-id>
+<pub-id pub-id-type="pmid">33106600</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="alz70535-cite-0045">
+<string-name>
+<surname>Karikari</surname>
+<given-names>TK</given-names>
+</string-name>, <string-name>
+<surname>Pascoal</surname>
+<given-names>TA</given-names>
+</string-name>, <string-name>
+<surname>Ashton</surname>
+<given-names>NJ</given-names>
+</string-name>, et&#x000a0;al. <article-title>Blood phosphorylated tau 181 as a biomarker for Alzheimer's disease: a diagnostic performance and prediction modelling study using data from four prospective cohorts</article-title>. <source>Lancet Neurol</source>. <year>2020</year>;<volume>19</volume>:<fpage>422</fpage>&#x02010;<lpage>433</lpage>. doi:<pub-id pub-id-type="doi">10.1016/S1474-4422(20)30071-5</pub-id>
+<pub-id pub-id-type="pmid">32333900</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="alz70535-cite-0046">
+<string-name>
+<surname>Kwon</surname>
+<given-names>HS</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>H</given-names>
+</string-name>, et&#x000a0;al. <article-title>Predicting amyloid PET positivity using plasma p&#x02010;tau181 and other blood&#x02010;based biomarkers</article-title>. <source>Alzheimers Dement</source>. <year>2023</year>;<volume>15</volume>:<elocation-id>e12502</elocation-id>. doi:<pub-id pub-id-type="doi">10.1002/dad2.12502</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="alz70535-cite-0047">
+<string-name>
+<surname>Lehmann</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Schraen&#x02010;Maschke</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Vidal</surname>
+<given-names>J&#x02010;S</given-names>
+</string-name>, et&#x000a0;al. <article-title>Plasma phosphorylated tau 181 predicts amyloid status and conversion to dementia stage dependent on renal function</article-title>. <source>J Neurol Neurosurg Psychiatry</source>. <year>2023</year>;<volume>94</volume>:<fpage>411</fpage>&#x02010;<lpage>419</lpage>. doi:<pub-id pub-id-type="doi">10.1136/jnnp-2022-330540</pub-id>
+<pub-id pub-id-type="pmid">37012068</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="alz70535-cite-0048">
+<string-name>
+<surname>Mattsson&#x02010;Carlgren</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Collij</surname>
+<given-names>LE</given-names>
+</string-name>, <string-name>
+<surname>Stomrud</surname>
+<given-names>E</given-names>
+</string-name>, et&#x000a0;al. <article-title>Plasma biomarker strategy for selecting patients with Alzheimer disease for antiamyloid immunotherapies</article-title>. <source>JAMA Neurol</source>. <year>2024</year>;<volume>81</volume>:<fpage>69</fpage>. doi:<pub-id pub-id-type="doi">10.1001/jamaneurol.2023.4596</pub-id>
+<pub-id pub-id-type="pmid">38048096</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="alz70535-cite-0049">
+<string-name>
+<surname>Meyer</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name>
+<surname>Kirmess</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Eastwood</surname>
+<given-names>S</given-names>
+</string-name>, et&#x000a0;al. <article-title>Clinical validation of the PrecivityAD2 blood test: a mass spectrometry&#x02010;based test with algorithm combining %p&#x02010;tau217 and A&#x003b2;42/40 ratio to identify presence of brain amyloid</article-title>. <source>Alzheimers Dement</source>. <year>2024</year>;<volume>20</volume>:<fpage>3179</fpage>&#x02010;<lpage>3192</lpage>. doi:<pub-id pub-id-type="doi">10.1002/alz.13764</pub-id>
+<pub-id pub-id-type="pmid">38491912</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="alz70535-cite-0050">
+<string-name>
+<surname>Mielke</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Frank</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name>
+<surname>Dage</surname>
+<given-names>JL</given-names>
+</string-name>, et&#x000a0;al. <article-title>Comparison of plasma phosphorylated tau species with amyloid and tau positron emission tomography, neurodegeneration, vascular pathology, and cognitive outcomes</article-title>. <source>JAMA Neurol</source>. <year>2021</year>;<volume>78</volume>:<fpage>1108</fpage>. doi:<pub-id pub-id-type="doi">10.1001/jamaneurol.2021.2293</pub-id>
+<pub-id pub-id-type="pmid">34309632</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="alz70535-cite-0051">
+<string-name>
+<surname>Moscoso</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Karikari</surname>
+<given-names>TK</given-names>
+</string-name>, <string-name>
+<surname>Grothe</surname>
+<given-names>MJ</given-names>
+</string-name>, et&#x000a0;al. <article-title>CSF biomarkers and plasma p&#x02010;tau181 as predictors of longitudinal tau accumulation: implications for clinical trial design</article-title>. <source>Alzheimers Dement</source>. <year>2022</year>;<volume>18</volume>:<fpage>2614</fpage>&#x02010;<lpage>2626</lpage>. doi:<pub-id pub-id-type="doi">10.1002/alz.12570</pub-id>
+<pub-id pub-id-type="pmid">35226405</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="alz70535-cite-0052">
+<string-name>
+<surname>Ni</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>
+<given-names>Z&#x02010;H</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>
+<given-names>F</given-names>
+</string-name>, et&#x000a0;al. <article-title>Plasma core alzheimer's disease biomarkers predict amyloid deposition burden by positron emission tomography in Chinese individuals with cognitive decline</article-title>. <source>ACS Chem Neurosci</source>. <year>2023</year>;<volume>14</volume>:<fpage>170</fpage>&#x02010;<lpage>179</lpage>. doi:<pub-id pub-id-type="doi">10.1021/acschemneuro.2c00636</pub-id>
+<pub-id pub-id-type="pmid">36547971</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="alz70535-cite-0053">
+<string-name>
+<surname>Palmqvist</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Janelidze</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Quiroz</surname>
+<given-names>YT</given-names>
+</string-name>, et&#x000a0;al. <article-title>Discriminative accuracy of plasma phospho&#x02010;tau217 for Alzheimer disease vs other neurodegenerative disorders</article-title>. <source>JAMA</source>. <year>2020</year>;<volume>324</volume>:<fpage>772</fpage>. doi:<pub-id pub-id-type="doi">10.1001/jama.2020.12134</pub-id>
+<pub-id pub-id-type="pmid">32722745</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="alz70535-cite-0054">
+<string-name>
+<surname>Palmqvist</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Janelidze</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Stomrud</surname>
+<given-names>E</given-names>
+</string-name>, et&#x000a0;al. <article-title>Performance of fully automated plasma assays as screening tests for Alzheimer disease&#x02013;related &#x003b2;&#x02010;amyloid status</article-title>. <source>JAMA Neurol</source>. <year>2019</year>;<volume>76</volume>:<fpage>1060</fpage>. doi:<pub-id pub-id-type="doi">10.1001/jamaneurol.2019.1632</pub-id>
+<pub-id pub-id-type="pmid">31233127</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="alz70535-cite-0055">
+<string-name>
+<surname>Palmqvist</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Stomrud</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Cullen</surname>
+<given-names>N</given-names>
+</string-name>, et&#x000a0;al. <article-title>An accurate fully automated panel of plasma biomarkers for Alzheimer's disease</article-title>. <source>Alzheimers Dement</source>. <year>2023</year>;<volume>19</volume>:<fpage>1204</fpage>&#x02010;<lpage>1215</lpage>. doi:<pub-id pub-id-type="doi">10.1002/alz.12751</pub-id>
+<pub-id pub-id-type="pmid">35950735</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="alz70535-cite-0056">
+<string-name>
+<surname>Thijssen</surname>
+<given-names>EH</given-names>
+</string-name>, <string-name>
+<surname>La Joie</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Strom</surname>
+<given-names>A</given-names>
+</string-name>, et&#x000a0;al. <article-title>Plasma phosphorylated tau 217 and phosphorylated tau 181 as biomarkers in Alzheimer's disease and frontotemporal lobar degeneration: a retrospective diagnostic performance study</article-title>. <source>Lancet Neurol</source>. <year>2021</year>;<volume>20</volume>:<fpage>739</fpage>&#x02010;<lpage>752</lpage>. doi:<pub-id pub-id-type="doi">10.1016/S1474-4422(21)00214-3</pub-id>
+<pub-id pub-id-type="pmid">34418401</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="alz70535-cite-0057">
+<string-name>
+<surname>Thijssen</surname>
+<given-names>EH</given-names>
+</string-name>, <string-name>
+<surname>La Joie</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Wolf</surname>
+<given-names>A</given-names>
+</string-name>, et&#x000a0;al. <article-title>Diagnostic value of plasma phosphorylated tau181 in Alzheimer's disease and frontotemporal lobar degeneration</article-title>. <source>Nat Med</source>. <year>2020</year>;<volume>26</volume>:<fpage>387</fpage>&#x02010;<lpage>397</lpage>. doi:<pub-id pub-id-type="doi">10.1038/s41591-020-0762-2</pub-id>
+<pub-id pub-id-type="pmid">32123386</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="alz70535-cite-0058">
+<string-name>
+<surname>Tosun</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Veitch</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Aisen</surname>
+<given-names>P</given-names>
+</string-name>, et&#x000a0;al. <article-title>Detection of &#x003b2;&#x02010;amyloid positivity in Alzheimer's Disease Neuroimaging Initiative participants with demographics, cognition, MRI and plasma biomarkers</article-title>. <source>Brain Commun</source>. <year>2021</year>;<volume>3</volume>:<elocation-id>fcab008</elocation-id>. doi:<pub-id pub-id-type="doi">10.1093/braincomms/fcab008</pub-id>
+<pub-id pub-id-type="pmid">33842885</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="alz70535-cite-0059">
+<string-name>
+<surname>Yamashita</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Miura</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Watanabe</surname>
+<given-names>S</given-names>
+</string-name>, et&#x000a0;al. <article-title>Fully automated and highly specific plasma &#x003b2;&#x02010;amyloid immunoassays predict &#x003b2;&#x02010;amyloid status defined by amyloid positron emission tomography with high accuracy</article-title>. <source>Alzheimers Res Ther</source>. <year>2022</year>;<volume>14</volume>:<fpage>86</fpage>. doi:<pub-id pub-id-type="doi">10.1186/s13195-022-01029-0</pub-id>
+<pub-id pub-id-type="pmid">35739591</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="alz70535-cite-0060">
+<string-name>
+<surname>Yang</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Sreenivasan</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Toledano Strom</surname>
+<given-names>EN</given-names>
+</string-name>, et&#x000a0;al. <article-title>Clinical and biological relevance of glial fibrillary acidic protein in Alzheimer's disease</article-title>. <source>Alzheimers Res Ther</source>. <year>2023</year>;<volume>15</volume>:<fpage>190</fpage>. doi:<pub-id pub-id-type="doi">10.1186/s13195-023-01340-4</pub-id>
+<pub-id pub-id-type="pmid">37924152</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="alz70535-cite-0061">
+<string-name>
+<surname>Feizpour</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Doecke</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>Dor&#x000e9;</surname>
+<given-names>V</given-names>
+</string-name>, et&#x000a0;al. <article-title>Detection and staging of Alzheimer's disease by plasma pTau217 on a high throughput immunoassay platform</article-title>. <source>EBioMedicine</source>. <year>2024</year>;<volume>109</volume>:<elocation-id>105405</elocation-id>. doi:<pub-id pub-id-type="doi">10.1016/j.ebiom.2024.105405</pub-id>
+<pub-id pub-id-type="pmid">39437657</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="alz70535-cite-0062">
+<string-name>
+<surname>Cecchetti</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Agosta</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Rugarli</surname>
+<given-names>G</given-names>
+</string-name>, et&#x000a0;al. <article-title>Diagnostic accuracy of automated Lumipulse plasma pTau&#x02010;217 in Alzheimer's disease: a real&#x02010;world study</article-title>. <source>J Neurol</source>. <year>2024</year>;<volume>271</volume>:<fpage>6739</fpage>&#x02010;<lpage>6749</lpage>. doi:<pub-id pub-id-type="doi">10.1007/s00415-024-12631-7</pub-id>
+<pub-id pub-id-type="pmid">39174818</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0064"><label>64</label><mixed-citation publication-type="journal" id="alz70535-cite-0063">
+<string-name>
+<surname>Figdore</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Griswold</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bornhorst</surname>
+<given-names>JA</given-names>
+</string-name>, et&#x000a0;al. <article-title>Optimizing cutpoints for clinical interpretation of brain amyloid status using plasma p&#x02010;tau217 immunoassays</article-title>. <source>Alzheimers Dement</source>. <year>2024</year>;<volume>20</volume>:<fpage>6506</fpage>&#x02010;<lpage>6516</lpage>. doi:<pub-id pub-id-type="doi">10.1002/alz.14140</pub-id>
+<pub-id pub-id-type="pmid">39030981</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0065"><label>65</label><mixed-citation publication-type="journal" id="alz70535-cite-0064">
+<string-name>
+<surname>Dyer</surname>
+<given-names>AH</given-names>
+</string-name>, <string-name>
+<surname>Dolphin</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>O'Connor</surname>
+<given-names>A</given-names>
+</string-name>, et&#x000a0;al. <article-title>Performance of plasma p&#x02010;tau217 for the detection of amyloid&#x02010;&#x003b2; positivity in a memory clinic cohort using an electrochemiluminescence immunoassay</article-title>. <source>Alzheimers Res Ther</source>. <year>2024</year>;<volume>16</volume>:<fpage>186</fpage>. doi:<pub-id pub-id-type="doi">10.1186/s13195-024-01555-z</pub-id>
+<pub-id pub-id-type="pmid">39160628</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0066"><label>66</label><mixed-citation publication-type="journal" id="alz70535-cite-0065">
+<string-name>
+<surname>Parvizi</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Wurm</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>K&#x000f6;nig</surname>
+<given-names>T</given-names>
+</string-name>, et&#x000a0;al. <article-title>Real&#x02010;world performance of plasma p&#x02010;tau181 in a heterogeneous memory clinic cohort</article-title>. <source>Ann Clin Transl Neurol</source>. <year>2024</year>;<volume>11</volume>:<fpage>1988</fpage>&#x02010;<lpage>1998</lpage>. doi:<pub-id pub-id-type="doi">10.1002/acn3.52116</pub-id>
+<pub-id pub-id-type="pmid">38965832</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0067"><label>67</label><mixed-citation publication-type="journal" id="alz70535-cite-0066">
+<string-name>
+<surname>Devanarayan</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Doherty</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Charil</surname>
+<given-names>A</given-names>
+</string-name>, et&#x000a0;al. <article-title>Plasma pTau217 predicts continuous brain amyloid levels in preclinical and early Alzheimer's disease</article-title>. <source>Alzheimers Dement</source>. <year>2024</year>;<volume>20</volume>:<fpage>5617</fpage>&#x02010;<lpage>5628</lpage>. doi:<pub-id pub-id-type="doi">10.1002/alz.14073</pub-id>
+<pub-id pub-id-type="pmid">38940656</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0068"><label>68</label><mixed-citation publication-type="journal" id="alz70535-cite-0067">
+<string-name>
+<surname>Arranz</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Rubio&#x02010;Guerra</surname>
+<given-names>S</given-names>
+</string-name>, et&#x000a0;al. <article-title>Diagnostic performance of plasma pTau217, pTau181, A&#x003b2;1&#x02010;42 and A&#x003b2;1&#x02010;40 in the LUMIPULSE automated platform for the detection of Alzheimer disease</article-title>. <source>Alzheimers Res Ther</source>. <year>2024</year>;<volume>16</volume>:<fpage>139</fpage>. doi:<pub-id pub-id-type="doi">10.1186/s13195-024-01513-9</pub-id>
+<pub-id pub-id-type="pmid">38926773</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0069"><label>69</label><mixed-citation publication-type="journal" id="alz70535-cite-0068">
+<string-name>
+<surname>Cousins</surname>
+<given-names>KAQ</given-names>
+</string-name>, <string-name>
+<surname>Phillips</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Das</surname>
+<given-names>SR</given-names>
+</string-name>, et&#x000a0;al. <article-title>Pathologic and cognitive correlates of plasma biomarkers in neurodegenerative disease</article-title>. <source>Alzheimers Dement</source>. <year>2024</year>;<volume>20</volume>:<fpage>3889</fpage>&#x02010;<lpage>3905</lpage>. doi:<pub-id pub-id-type="doi">10.1002/alz.13777</pub-id>
+<pub-id pub-id-type="pmid">38644682</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0070"><label>70</label><mixed-citation publication-type="journal" id="alz70535-cite-0069">
+<string-name>
+<surname>Giacomucci</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Mazzeo</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ingannato</surname>
+<given-names>A</given-names>
+</string-name>, et&#x000a0;al. <article-title>Future perspective and clinical applicability of the combined use of plasma phosphorylated tau 181 and neurofilament light chain in subjective cognitive decline and mild cognitive impairment</article-title>. <source>Sci Rep</source>. <year>2024</year>;<volume>14</volume>:<elocation-id>11307</elocation-id>. doi:<pub-id pub-id-type="doi">10.1038/s41598-024-61655-6</pub-id>
+<pub-id pub-id-type="pmid">38760423</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0071"><label>71</label><mixed-citation publication-type="journal" id="alz70535-cite-0070">
+<string-name>
+<surname>Dakterzada</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Cipriani</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>L&#x000f3;pez&#x02010;Ortega</surname>
+<given-names>R</given-names>
+</string-name>, et&#x000a0;al. <article-title>Assessment of the correlation and diagnostic accuracy between cerebrospinal fluid and plasma Alzheimer's disease biomarkers: a comparison of the Lumipulse and Simoa platforms</article-title>. <source>Int J Mol Sci</source>. <year>2024</year>;<volume>25</volume>:<fpage>4594</fpage>. doi:<pub-id pub-id-type="doi">10.3390/ijms25094594</pub-id>
+<pub-id pub-id-type="pmid">38731812</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0072"><label>72</label><mixed-citation publication-type="journal" id="alz70535-cite-0071">
+<string-name>
+<surname>Quispialaya</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Therriault</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Aliaga</surname>
+<given-names>A</given-names>
+</string-name>, et&#x000a0;al. <article-title>Plasma phosphorylated tau181 outperforms [ <sup>18</sup>
+<sc>f</sc>] fluorodeoxyglucose positron emission tomography in the identification of early Alzheimer disease</article-title>. <source>Eur J Neurol</source>. <year>2024</year>;<volume>31</volume>:<elocation-id>e16255</elocation-id>. doi:<pub-id pub-id-type="doi">10.1111/ene.16255</pub-id>
+<pub-id pub-id-type="pmid">39447157</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0073"><label>73</label><mixed-citation publication-type="journal" id="alz70535-cite-0072">
+<string-name>
+<surname>Gildengers</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Weinstein</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Gujral</surname>
+<given-names>S</given-names>
+</string-name>, et&#x000a0;al. <article-title>Where do plasma biomarkers fit in with current Alzheimer's disease detection?</article-title>
+<source>Am J Geriatr Psychiatry</source>. <year>2025</year>;<volume>33</volume>:<fpage>428</fpage>&#x02010;<lpage>437</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.jagp.2024.09.015</pub-id>
+<pub-id pub-id-type="pmid">39448295</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0074"><label>74</label><mixed-citation publication-type="journal" id="alz70535-cite-0073">
+<string-name>
+<surname>Quaresima</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Pilotto</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Trasciatti</surname>
+<given-names>C</given-names>
+</string-name>, et&#x000a0;al. <article-title>Plasma p&#x02010;tau181 and amyloid markers in Alzheimer's disease: a comparison between Lumipulse and SIMOA</article-title>. <source>Neurobiol Aging</source>. <year>2024</year>;<volume>143</volume>:<fpage>30</fpage>&#x02010;<lpage>40</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.neurobiolaging.2024.08.007</pub-id>
+<pub-id pub-id-type="pmid">39208716</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0075"><label>75</label><mixed-citation publication-type="journal" id="alz70535-cite-0074">
+<string-name>
+<surname>Niimi</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Janelidze</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Sato</surname>
+<given-names>K</given-names>
+</string-name>, et&#x000a0;al. <article-title>Combining plasma A&#x003b2; and p&#x02010;tau217 improves detection of brain amyloid in non&#x02010;demented elderly</article-title>. <source>Alzheimers Res Ther</source>. <year>2024</year>;<volume>16</volume>:<fpage>115</fpage>. doi:<pub-id pub-id-type="doi">10.1186/s13195-024-01469-w</pub-id>
+<pub-id pub-id-type="pmid">38778353</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0076"><label>76</label><mixed-citation publication-type="journal" id="alz70535-cite-0075">
+<string-name>
+<surname>Howe</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Britton</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name>
+<surname>Joyce</surname>
+<given-names>HE</given-names>
+</string-name>, et&#x000a0;al. <article-title>Clinical application of plasma P&#x02010;tau217 to assess eligibility for amyloid&#x02010;lowering immunotherapy in memory clinic patients with early Alzheimer's disease</article-title>. <source>Alzheimers Res Ther</source>. <year>2024</year>;<volume>16</volume>:<fpage>154</fpage>. doi:<pub-id pub-id-type="doi">10.1186/s13195-024-01521-9</pub-id>
+<pub-id pub-id-type="pmid">38971815</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0077"><label>77</label><mixed-citation publication-type="journal" id="alz70535-cite-0076">
+<string-name>
+<surname>Verberk</surname>
+<given-names>IMW</given-names>
+</string-name>, <string-name>
+<surname>Misdorp</surname>
+<given-names>EO</given-names>
+</string-name>, <string-name>
+<surname>Koelewijn</surname>
+<given-names>J</given-names>
+</string-name>, et&#x000a0;al. <article-title>Characterization of pre&#x02010;analytical sample handling effects on a panel of Alzheimer's disease&#x02010;related blood&#x02010;based biomarkers: results from the Standardization of Alzheimer's Blood Biomarkers (SABB) working group</article-title>. <source>Alzheimers Dement J Alzheimers Assoc</source>. <year>2022</year>;<volume>18</volume>:<fpage>1484</fpage>&#x02010;<lpage>1497</lpage>. doi:<pub-id pub-id-type="doi">10.1002/alz.12510</pub-id>
+</mixed-citation></ref><ref id="alz70535-bib-0078"><label>78</label><mixed-citation publication-type="journal" id="alz70535-cite-0077">
+<string-name>
+<surname>Whiting</surname>
+<given-names>PF</given-names>
+</string-name>, <string-name>
+<surname>Rutjes</surname>
+<given-names>AWS</given-names>
+</string-name>, <string-name>
+<surname>Westwood</surname>
+<given-names>ME</given-names>
+</string-name>, et&#x000a0;al. <article-title>QUADAS&#x02010;2: a revised tool for the quality assessment of diagnostic accuracy studies</article-title>. <source>Ann Intern Med</source>. <year>2011</year>;<volume>155</volume>:<fpage>529</fpage>&#x02010;<lpage>536</lpage>. doi:<pub-id pub-id-type="doi">10.7326/0003-4819-155-8-201110180-00009</pub-id>
+<pub-id pub-id-type="pmid">22007046</pub-id>
+</mixed-citation></ref></ref-list></back></article>

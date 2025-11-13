@@ -1,0 +1,808 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="brb370636" xml:lang="en" article-type="methods-article"><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jats-oasis2jats3.xsl?><?ConverterInfo.Version 1?><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Brain Behav</journal-id><journal-id journal-id-type="iso-abbrev">Brain Behav</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2157-9032</journal-id><journal-id journal-id-type="publisher-id">BRB3</journal-id><journal-title-group><journal-title>Brain and Behavior</journal-title></journal-title-group><issn pub-type="epub">2162-3279</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmcid">12577972</article-id><article-id pub-id-type="doi">10.1002/brb3.70636</article-id><article-id pub-id-type="publisher-id">BRB370636</article-id><article-categories><subj-group subj-group-type="overline"><subject>Method</subject></subj-group><subj-group subj-group-type="heading"><subject>Method</subject></subj-group></article-categories><title-group><article-title>Understanding Cerebral Blood Flow Dynamics for Alzheimer's Disease Prevention Through Acute Exercise (flADex): Protocol for a Randomized Crossover Trial</article-title></title-group><contrib-group><contrib id="brb370636-cr-0001" contrib-type="author" corresp="yes"><name><surname>Mart&#x000ed;n&#x02010;Fuentes</surname><given-names>Isabel</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4268-1935</contrib-id><xref rid="brb370636-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>isamartinf@ugr.es</email></address></contrib><contrib id="brb370636-cr-0002" contrib-type="author"><name><surname>Fernandez&#x02010;Gamez</surname><given-names>Beatriz</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8987-9925</contrib-id><xref rid="brb370636-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="brb370636-cr-0003" contrib-type="author"><name><surname>Vidal&#x02010;Almela</surname><given-names>Sol</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4491-0826</contrib-id><xref rid="brb370636-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="brb370636-cr-0004" contrib-type="author"><name><surname>Caro&#x02010;Rus</surname><given-names>Alfredo</given-names></name><xref rid="brb370636-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="brb370636-cr-0005" contrib-type="author"><name><surname>Solis&#x02010;Urra</surname><given-names>Patricio</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-2493-9528</contrib-id><xref rid="brb370636-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="brb370636-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="brb370636-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="brb370636-cr-0006" contrib-type="author"><name><surname>S&#x000e1;nchez&#x02010;Aranda</surname><given-names>Luc&#x000ed;a</given-names></name><xref rid="brb370636-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="brb370636-cr-0007" contrib-type="author"><name><surname>Fern&#x000e1;ndez&#x02010;Ortega</surname><given-names>Javier</given-names></name><xref rid="brb370636-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="brb370636-cr-0008" contrib-type="author"><name><surname>Sanchez&#x02010;Martinez</surname><given-names>Javier</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-9451-8454</contrib-id><xref rid="brb370636-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="brb370636-cr-0009" contrib-type="author"><name><surname>Coca&#x02010;Pulido</surname><given-names>Andrea</given-names></name><xref rid="brb370636-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="brb370636-cr-0010" contrib-type="author"><name><surname>Olvera&#x02010;Rojas</surname><given-names>Marcos</given-names></name><xref rid="brb370636-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="brb370636-cr-0011" contrib-type="author"><name><surname>Barranco&#x02010;Moreno</surname><given-names>Emilio J.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0006-1168-1931</contrib-id><xref rid="brb370636-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="brb370636-cr-0012" contrib-type="author"><name><surname>Marin&#x02010;Alvarez</surname><given-names>Jose D.</given-names></name><xref rid="brb370636-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="brb370636-cr-0013" contrib-type="author"><name><surname>Bakker</surname><given-names>Esm&#x000e9;e A.</given-names></name><xref rid="brb370636-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="brb370636-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="brb370636-cr-0014" contrib-type="author"><name><surname>Toval</surname><given-names>Angel</given-names></name><xref rid="brb370636-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="brb370636-cr-0015" contrib-type="author"><name><surname>Bell&#x000f3;n</surname><given-names>Dar&#x000ed;o</given-names></name><xref rid="brb370636-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="brb370636-cr-0016" contrib-type="author"><name><surname>Sclafani</surname><given-names>Alessandro</given-names></name><xref rid="brb370636-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="brb370636-cr-0017" contrib-type="author"><name><surname>Karikari</surname><given-names>Thomas K.</given-names></name><xref rid="brb370636-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="brb370636-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="brb370636-cr-0018" contrib-type="author"><name><surname>Erickson</surname><given-names>Kirk I.</given-names></name><xref rid="brb370636-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="brb370636-cr-0019" contrib-type="author"><name><surname>G&#x000f3;mez&#x02010;R&#x000ed;o</surname><given-names>Manuel</given-names></name><xref rid="brb370636-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref><xref rid="brb370636-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib id="brb370636-cr-0020" contrib-type="author"><name><surname>Ortega</surname><given-names>Francisco B.</given-names></name><xref rid="brb370636-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="brb370636-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref><xref rid="brb370636-aff-0010" ref-type="aff">
+<sup>10</sup>
+</xref></contrib><contrib id="brb370636-cr-0021" contrib-type="author" corresp="yes"><name><surname>Esteban&#x02010;Cornejo</surname><given-names>Irene</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-0027-1770</contrib-id><xref rid="brb370636-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="brb370636-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref><xref rid="brb370636-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref><address><email>ireneesteban@ugr.es</email></address></contrib></contrib-group><aff id="brb370636-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Physical and Sports Education, Sport and Health University Research Institute (iMUDS), Faculty of Sport Sciences</named-content>
+<institution>University of Granada</institution>
+<city>Granada, Andaluc&#x000ed;a</city>
+<country country="ES">Spain</country>
+</aff><aff id="brb370636-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Faculty of Education and Social Sciences</named-content>
+<institution>University Andres Bello</institution>
+<city>Vi&#x000f1;a del Mar</city>
+<country country="CL">Chile</country>
+</aff><aff id="brb370636-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">AdventHealth Research Institute</named-content>
+<institution>Neuroscience</institution>
+<city>Orlando</city>
+<named-content content-type="country-part">Florida</named-content>
+<country country="US">USA</country>
+</aff><aff id="brb370636-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Department of Primary and Community Care</named-content>
+<institution>Radboud University Medical Center</institution>
+<city>Nijmegen</city>
+<country country="NL">Netherlands</country>
+</aff><aff id="brb370636-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Department of Psychiatry and Neurochemistry, Institute of Neuroscience and Physiology, The Sahlgrenska Academy</named-content>
+<institution>University of Gothenburg</institution>
+<city>Gothenburg</city>
+<country country="SE">Sweden</country>
+</aff><aff id="brb370636-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Department of Psychiatry</named-content>
+<institution>University of Pittsburgh</institution>
+<city>Pittsburgh</city>
+<named-content content-type="country-part">Pennsylvania</named-content>
+<country country="US">USA</country>
+</aff><aff id="brb370636-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">Servicio de Medicina Nuclear</named-content>
+<institution>Hospital Universitario Virgen de las Nieves</institution>
+<city>Granada, Andaluc&#x000ed;a</city>
+<country country="ES">Spain</country>
+</aff><aff id="brb370636-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<institution>ibs.GRANADA Instituto de Investigaci&#x000f3;n Biosanitaria</institution>
+<city>Granada, Andaluc&#x000ed;a</city>
+<country country="ES">Spain</country>
+</aff><aff id="brb370636-aff-0009">
+<label>
+<sup>9</sup>
+</label>
+<named-content content-type="organisation-division">CIBER de Fisiopatolog&#x000ed;a de la Obesidad y Nutrici&#x000f3;n (CIBEROBN)</named-content>
+<institution>Instituto de Salud Carlos III</institution>
+<city>Madrid</city>
+<country country="ES">Spain</country>
+</aff><aff id="brb370636-aff-0010">
+<label>
+<sup>10</sup>
+</label>
+<named-content content-type="organisation-division">Faculty of Sport and Health Sciences</named-content>
+<institution>University of Jyv&#x000e4;skyl&#x000e4;</institution>
+<city>Jyv&#x000e4;skyl&#x000e4;</city>
+<country country="FI">Finland</country>
+</aff><pub-date pub-type="epub"><day>31</day><month>10</month><year>2025</year></pub-date><pub-date pub-type="collection"><month>11</month><year>2025</year></pub-date><volume>15</volume><issue seq="180">11</issue><issue-id pub-id-type="doi">10.1002/brb3.v15.11</issue-id><elocation-id>e70636</elocation-id><history>
+<date date-type="rev-recd"><day>07</day><month>5</month><year>2025</year></date>
+<date date-type="received"><day>06</day><month>2</month><year>2025</year></date>
+<date date-type="accepted"><day>27</day><month>5</month><year>2025</year></date>
+</history><permissions><!--&#x000a9; 2025 Published by Wiley Periodicals LLC.--><copyright-statement content-type="article-copyright">&#x000a9; 2025 The Author(s). <italic toggle="yes">Brain and Behavior</italic> published by Wiley Periodicals LLC.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:BRB3-15-e70636.pdf"/><abstract><title>ABSTRACT</title><sec id="brb370636-sec-0010"><title>Introduction</title><p>Alzheimer's disease (AD) is a leading cause of disability worldwide. Alterations in cerebral blood flow (CBF) and AD blood biomarkers are fundamental at early stages of AD. Exercise shows promise in delaying physiological changes, but its mechanisms for enhancing brain health remain unclear. flADex aims to examine the acute effects of different exercise types on CBF and blood biomarkers in older adults. This protocol describes the methodology and rationale of flADex.</p></sec><sec id="brb370636-sec-0020"><title>Methods</title><p>flADex is a counterbalanced crossover trial in 20 older adults, aged 68&#x02013;83&#x000a0;years old, with negative brain amyloid status (&#x0003c;&#x000a0;12 centiloid) who are APOE&#x003b5;4 noncarriers. Participants will complete a 30&#x02010;min session of each condition in a randomized order: (i) moderate&#x02010;intensity aerobic exercise (60%&#x02013;70% age&#x02010;predicted maximal heart rate), (ii) moderate&#x02010;intensity resistance exercise (rating of perceived exertion: 4&#x02013;6 points out of 10), and (iii) resting condition. Changes in CBF are the primary outcome and will be assessed by magnetic resonance imaging using pseudo&#x02010;continuous arterial spin labeling at pre&#x02010; and at 3 timepoints post&#x02010;condition (starting at 20, 27, 34&#x000a0;min). Secondary outcomes are biomarkers of AD pathology and neurodegeneration (A&#x003b2;42, A&#x003b2;40, p&#x02010;tau217, p&#x02010;tau181, BD&#x02010;tau, GFAP, NfL) and growth factors (BDNF, IGF&#x02010;1), measured through blood samples collected at pre&#x02010; and post&#x02010;condition (at 3, 50, 70&#x000a0;min). Moreover, cognitive outcomes and mood status will be measured pre&#x02010; and post&#x02010;condition.</p></sec><sec id="brb370636-sec-0030"><title>Conclusion</title><p>flADex will highlight the acute effects of different&#x000a0;exercise types on CBF and biomarkers before beta&#x02010;amyloid accumulation. Acute effects on CBF dynamics and blood biomarkers are expected to be greater with aerobic than resistance exercise when compared to resting. CBF is expected to vary by brain region, and biomarkers to fluctuate dynamically postexercise. This will provide critical insights into exercise's impact on vascular and molecular pathways associated with AD pathology and potential recommendations for standardized blood sampling to enhance diagnostic accuracy.</p></sec></abstract><abstract id="brb370636-abs-0001" abstract-type="graphical"><p>This randomized crossover trial investigates how acute aerobic and resistance exercise influence cerebral blood flow, Alzheimer's&#x02010;related blood biomarkers, cognition, and mood in older adults. Using multimodal assessments, the flADex study aims to uncover neurovascular mechanisms for Alzheimer's prevention. 
+<boxed-text position="anchor" content-type="graphic"><graphic xlink:href="BRB3-15-e70636-g009.jpg" position="anchor" id="jats-graphic-1"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="brb370636-kwd-0001">aging</kwd><kwd id="brb370636-kwd-0002">blood biomarkers</kwd><kwd id="brb370636-kwd-0003">cerebral blood flow</kwd><kwd id="brb370636-kwd-0004">cerebral blood flow exercis</kwd><kwd id="brb370636-kwd-0005">cognition</kwd><kwd id="brb370636-kwd-0006">exercise</kwd><kwd id="brb370636-kwd-0007">magnetic resonance imaging</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>MCIN/AEI/10.13039/501100011033/ PID2022&#x02010;137399OB&#x02010;I00, CNS2024&#x02010;154835, RTI2018&#x02010;095284&#x02010;J&#x02010;I00</institution></institution-wrap>
+</funding-source></award-group><award-group id="funding-0002"><funding-source>
+<institution-wrap><institution>MCIN/AEI/10.13039/501100011033/ RYC2019&#x02010;027287&#x02010;I</institution></institution-wrap>
+</funding-source></award-group></funding-group><counts><fig-count count="4"/><table-count count="3"/><page-count count="12"/><word-count count="8022"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>November 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.6.4 mode:remove_FC converted:31.10.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="brb370636-cit-0001">
+<string-name>
+<surname>Mart&#x000ed;n&#x02010;Fuentes</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Fernandez&#x02010;Gamez</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Vidal&#x02010;Almela</surname>
+</string-name>, et al. <year>2025</year>. &#x0201c;<article-title>Understanding Cerebral Blood Flow Dynamics for Alzheimer's Disease Prevention Through Acute Exercise (flADex): Protocol for a Randomized Crossover Trial</article-title>.&#x0201d; <source>Brain and Behavior</source>
+<volume>15</volume>, no. <issue>11</issue>: <elocation-id>e70636</elocation-id>. <pub-id pub-id-type="doi">10.1002/brb3.70636</pub-id>
+</mixed-citation>
+</p><fn-group><fn id="brb370636-note-0001"><p>
+<bold>Funding</bold>: This work was supported by Grants PID2022&#x02010;137399OB&#x02010;I00, CNS2024&#x02010;154835 and RTI2018&#x02010;095284&#x02010;J&#x02010;I00 funded by MCIN/AEI/10.13039/501100011033/ and &#x0201c;ERDF A way of making Europe&#x0201d;, and Grant RYC2019&#x02010;027287&#x02010;I funded by MCIN/AEI/10.13039/501100011033/ and &#x0201c;ESF Investing in your future.&#x0201d;&#x000a0;I.M.&#x02010;F. is supported by the Spanish Ministry of Science, Innovation, and Universities (JDC2022&#x02010;049642&#x02010;I). B.F.&#x02010;G. is supported by Grant PID2022&#x02010;137399OB&#x02010;I00, funded by MCIN/AEI/10.13039/501100011033 and FSE+. S.V.&#x02010;A is supported by MCIN/AEI/PID2023&#x02010;148404OB&#x02010;I00. J.S.&#x02010;M. is supported by the National Agency for Research and Development (ANID)/Scholarship Program/DOCTORADO BECAS CHILE/2022&#x02013;(Grant No. 72220164). A.C.&#x02010;P., J.F.&#x02010;O., M.O.&#x02010;R., and L.S.&#x02010;A. are supported by the Spanish Ministry of Education, Culture, and Sport (FPU21/02594, FPU22/03052, FPU22/02476, and FPU21/06192, respectively). E.A.B. has received funding from the European Union's Horizon 2020 research and innovation programme under the Marie Sk&#x00142;odowska&#x02010;Curie Grant Agreement No. [101064851].</p></fn></fn-group></notes></front><body><sec id="brb370636-sec-0040"><label>1</label><title>Background</title><p>Alzheimer's disease (AD) is a leading cause of disability and dependency worldwide (Prince et&#x000a0;al. <xref rid="brb370636-bib-0031" ref-type="bibr">2016</xref>), characterized by a gradual deterioration in cognitive and functional abilities. Pathophysiological signs of AD begin approximately 10&#x02013;20&#x000a0;years before the onset of symptoms of cognitive decline (Zlokovic <xref rid="brb370636-bib-0043" ref-type="bibr">2011</xref>; Long and Holtzman <xref rid="brb370636-bib-0016" ref-type="bibr">2019</xref>). The accumulation of amyloid&#x02010;beta (A&#x003b2;) plaques and neurofibrillary tangles composed of hyperphosphorylated tau protein (p&#x02010;tau) are well&#x02010;established pathological hallmarks of AD. Additionally, cerebral blood flow (CBF) has gained increasing attention as a key vascular pathway in AD research. Indeed, CBF dysregulation can be observed in older adults at risk for AD, even before the appearance of A&#x003b2; accumulation or brain atrophy (Zlokovic <xref rid="brb370636-bib-0043" ref-type="bibr">2011</xref>; Iadecola <xref rid="brb370636-bib-0011" ref-type="bibr">2013</xref>). Disrupted CBF exacerbates neurodegeneration by upregulating the BACE1 enzyme&#x02014;which produces A&#x003b2;&#x02014;and by promoting the accumulation of p&#x02010;tau (Zlokovic <xref rid="brb370636-bib-0043" ref-type="bibr">2011</xref>; Korte et&#x000a0;al. <xref rid="brb370636-bib-0015" ref-type="bibr">2020</xref>). This reduction in CBF may significantly contribute to cognitive decline by either triggering the amyloid cascade or amplifying A&#x003b2; production through a feedback loop (Korte et&#x000a0;al. <xref rid="brb370636-bib-0015" ref-type="bibr">2020</xref>).</p><p>The chronic neuroprotective benefits of exercise likely result from the repeated acute effects that occur during or following each exercise bout, as bodily systems respond to meet the increased metabolic demands (Swain et&#x000a0;al. <xref rid="brb370636-bib-0037" ref-type="bibr">2003</xref>; Maass et&#x000a0;al. <xref rid="brb370636-bib-0017" ref-type="bibr">2015</xref>). Observational and animal studies suggest that chronic exercise is associated with increased CBF and angiogenesis in the brain (Swain et&#x000a0;al. <xref rid="brb370636-bib-0037" ref-type="bibr">2003</xref>; Rogers et&#x000a0;al. <xref rid="brb370636-bib-0033" ref-type="bibr">1990</xref>). During aerobic exercise, CBF often follows an inverted U response, increasing at the start of exercise, plateauing, and then declining towards the end of exercise (Mulser and Moreau <xref rid="brb370636-bib-0023" ref-type="bibr">2023</xref>; Mast et&#x000a0;al. <xref rid="brb370636-bib-0019" ref-type="bibr">2022</xref>). However, after exercise, the cerebrovascular effects vary across brain regions and over time, depending on the type of exercise (e.g., aerobic vs. resistance) (Mast et&#x000a0;al. <xref rid="brb370636-bib-0019" ref-type="bibr">2022</xref>; Macintosh et&#x000a0;al. <xref rid="brb370636-bib-0018" ref-type="bibr">2014</xref>; Steventon et&#x000a0;al. <xref rid="brb370636-bib-0036" ref-type="bibr">2020</xref>). Further, emerging evidence suggests that exercise may acutely alter the concentrations of neurodegenerative biomarkers (e.g., A&#x003b2;, neurofilament&#x02010;light chain [NfL]) and growth factors (e.g., brain&#x02010;derived neurotrophic factor [BDNF], insulin&#x02010;like growth factor 1 [IGF&#x02010;1]) in the bloodstream (Rodriguez&#x02010;Ayllon et&#x000a0;al. <xref rid="brb370636-bib-0032" ref-type="bibr">2024</xref>; Joisten et&#x000a0;al. <xref rid="brb370636-bib-0012" ref-type="bibr">2021</xref>). These changes are hypothesized to influence cognitive function, potentially mediating the brain health benefits of exercise (Maass et&#x000a0;al. <xref rid="brb370636-bib-0017" ref-type="bibr">2015</xref>; Rogers et&#x000a0;al. <xref rid="brb370636-bib-0033" ref-type="bibr">1990</xref>). However, the acute implications of exercise&#x02010;induced CBF changes on blood biomarkers and cognitive function following different types of exercise remain underexplored. Investigating this is also crucial for establishing recommendations on whether blood samples for biomarkers of AD pathology and neurodegeneration should be collected under standardized rest conditions prior to measurements.</p><p>Research on acute responses to exercise, using neuroimaging combined with measures of CBF, blood biomarkers, and cognitive function, is essential to reveal how exercise enhances brain health and aids in preventing or managing AD (Rodriguez&#x02010;Ayllon et&#x000a0;al. <xref rid="brb370636-bib-0032" ref-type="bibr">2024</xref>). Therefore, flADex will examine the acute effects of aerobic and resistance exercise compared to a resting condition on CBF, blood biomarkers, and their cognitive implications in older adults. This protocol describes the rationale and methodology of the flADex trial.</p><sec id="brb370636-sec-0050"><label>1.1</label><title>Trial Objectives</title><p>The <italic toggle="yes">primary objective</italic> is to examine the acute effects of a bout of aerobic exercise, resistance exercise, and a resting condition on global and regional CBF using cutting&#x02010;edge magnetic resonance imaging (MRI) in older adults.</p><p>The <italic toggle="yes">secondary objectives</italic> are to examine: (i) the acute effects of a bout of aerobic exercise, resistance exercise, and a resting condition on blood biomarkers of AD pathology and neurodegeneration (A&#x003b2;42, A&#x003b2;40, p&#x02010;tau217, p&#x02010;tau181, brain&#x02010;derived tau [BD&#x02010;tau], glial fibrillary acidic protein [GFAP], and NfL) and growth factors (BDNF and IGF&#x02010;1); (ii) the acute effects of a bout of aerobic exercise, resistance exercise, and a resting condition on cognitive and mood outcomes; (iii) whether exercise&#x02010;induced changes in CBF mediate changes in blood biomarkers (or vice versa); and (iv) whether exercise&#x02010;induced changes in CBF or blood biomarkers mediate changes in cognitive and mood outcomes.</p><p>Our <italic toggle="yes">overall hypothesis</italic> is that aerobic exercise will lead to a greater increase in regional CBF compared to resistance exercise (Maass et&#x000a0;al. <xref rid="brb370636-bib-0017" ref-type="bibr">2015</xref>; Pereira et&#x000a0;al. <xref rid="brb370636-bib-0030" ref-type="bibr">2007</xref>), particularly when contrasted with resting, and may also differentially impact blood biomarkers (Vints et&#x000a0;al. <xref rid="brb370636-bib-0039" ref-type="bibr">2024</xref>; Arazi et&#x000a0;al. <xref rid="brb370636-bib-0002" ref-type="bibr">2021</xref>; Alfini et&#x000a0;al. <xref rid="brb370636-bib-0001" ref-type="bibr">2019</xref>).</p></sec></sec><sec id="brb370636-sec-0060"><label>2</label><title>Methods</title><sec id="brb370636-sec-0070"><label>2.1</label><title>Trial Design and Ethics</title><p>The flADex trial will follow a within&#x02010;subject crossover design with pretest and posttest assessments in 20 individuals (balanced sex distribution) aged 68&#x02013;83&#x000a0;years old. Each participant will be included in three experimental conditions (i.e., aerobic exercise, resistance exercise, and resting) in a randomized order (<italic toggle="yes">n</italic>&#x000a0;=&#x000a0;3&#x000a0;&#x000d7;&#x000a0;20 observations) (see Figure&#x000a0;<xref rid="brb370636-fig-0001" ref-type="fig">1</xref>). The trial will be performed in two research institutes at the University of Granada (Spain): (i) the Sports and Health University Research Institute (iMUDS) for the familiarization visit and (ii) the Mind, Brain, and Behaviour Research Centre (CIMCYC) for the experimental condition visits.</p><fig position="float" fig-type="FIGURE" id="brb370636-fig-0001"><label>FIGURE 1</label><caption><p>Trial design and key measurement timepoints of the flADex trial. MRI:<inline-graphic xlink:href="BRB3-15-e70636-g005.jpg" xlink:title="image"/>; episodic memory and inhibition/attention:<inline-graphic xlink:href="BRB3-15-e70636-g007.jpg" xlink:title="image"/>; AD and neurodegenerative blood biomarkers and growth factors:<inline-graphic xlink:href="BRB3-15-e70636-g002.jpg" xlink:title="image"/>; mood (POMS):<inline-graphic xlink:href="BRB3-15-e70636-g001.jpg" xlink:title="image"/>; enjoyment (PACES) and feelings of (dis)pleasure (Feeling Scale): <inline-graphic xlink:href="BRB3-15-e70636-g006.jpg" xlink:title="image"/> pCASL: Pseudo Continuous Arterial Spin Labeling; T1: T1&#x02010;weighted MPRAGE structural; TOF: Time of flight angiography.</p></caption><graphic xlink:href="BRB3-15-e70636-g008" position="anchor" id="jats-graphic-3"/></fig><p>The trial, following the principles of the Declaration of Helsinki, has been approved by the Research Ethics Board of the Andalusian Health Service (CEIM/CEI Provincial de Granada; #SICEIA&#x02010;2024&#x02010;000602; approval: 30/04/2024) and has been registered in ClinicalTrials.gov (NCT06584656; approval: 04/09/2024). All participants will provide written informed consent. Procedure manuals of the flADex trial will be made available to allow other researchers to replicate the results (<ext-link xlink:href="https://github.com/fladexprojectugr" ext-link-type="uri">https://github.com/fladexprojectugr</ext-link>). flADex has been designed following the Standard Protocol Items for Randomized Interventional Trials (SPIRIT) (Chan et&#x000a0;al. <xref rid="brb370636-bib-0006" ref-type="bibr">2013</xref>), and the SPIRIT&#x02010;Outcomes 2022 Extension (Butcher et&#x000a0;al. <xref rid="brb370636-bib-0005" ref-type="bibr">2022</xref>) (Table <xref rid="brb370636-supinfo-0001" ref-type="">SA1</xref>) and is reported in line with the Consolidated Standards of Reporting Trials (CONSORT) 2020 statement for extension to randomized crossover trials (Dwan et al. <xref rid="brb370636-bib-0007" ref-type="bibr">2013</xref>). Any substantial modifications to the protocol will be communicated to the trial registry, detailed in the main results paper, and submitted for review to the Research Ethics Board.</p></sec><sec id="brb370636-sec-0080"><label>2.2</label><title>Eligibility Criteria, Screening of Participants, and Recruitment</title><p>The flADex trial will recruit individuals from the previous AGUEDA (active gains in brain using exercise during aging) trial (Fernandez&#x02010;Gamez et&#x000a0;al. <xref rid="brb370636-bib-0008" ref-type="bibr">2023</xref>; Solis&#x02010;Urra et&#x000a0;al. <xref rid="brb370636-bib-0035" ref-type="bibr">2023</xref>). The baseline assessment for the AGUEDA study was conducted between March 2021 and May 2022. The post&#x02010;intervention assessment and the final positron emission tomography/computed tomography (PET&#x02010;CT) scan were carried out between October 2021 and December 2022. PET&#x02010;CT images were acquired using a Biograph Vision 600 Edge digital PET&#x02010;CT scanner (Siemens, Erlangen, Germany). The tracer used was [18F]Florbetaben (Neuraceq; Piramal Pharma). Recruitment and screening are illustrated in Figure&#x000a0;<xref rid="brb370636-fig-0002" ref-type="fig">2</xref>. Eligibility criteria assessed through prescreening and phone screening are detailed in Table&#x000a0;<xref rid="brb370636-tbl-0001" ref-type="table">1</xref>. Of the 53 eligible individuals from AGUEDA, 20 will be eventually included and randomized for the crossover trial (balanced sex distribution).</p><fig position="float" fig-type="FIGURE" id="brb370636-fig-0002"><label>FIGURE 2</label><caption><p>Recruitment and screening of participants for the flADex trial. APOE&#x003b5;4: Apolipoprotein E 4 allele; CL, centiloid; PET&#x02010;CT, positron emission tomography&#x02014;computed tomography.</p></caption><graphic xlink:href="BRB3-15-e70636-g004" position="anchor" id="jats-graphic-5"/></fig><table-wrap position="float" id="brb370636-tbl-0001" content-type="TABLE"><label>TABLE 1</label><caption><p>Eligibility criteria of the flADex trial.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Inclusion criteria<xref rid="brb370636-tbl1-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</th><th align="center" rowspan="1" colspan="1">Exclusion criteria<xref rid="brb370636-tbl1-note-0002" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Adults aged between 68 and 83&#x000a0;years old who participated in the AGUEDA trial.<xref rid="brb370636-tbl1-note-0003" ref-type="table-fn">
+<sup>c</sup>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">Ambulatory with pain or regular use of an assisted walking device.</td></tr><tr><td align="left" rowspan="1" colspan="1">Non&#x02010;pathological cerebral beta&#x02010;amyloid status (based on a Centiloid cut&#x02010;point &#x0003c;&#x000a0;12, measured by PET&#x02010;CT).</td><td align="center" rowspan="1" colspan="1">Not living in community settings during the trial.</td></tr><tr><td rowspan="2" align="left" colspan="1">APOE&#x003b5;4 negative status.</td><td align="center" rowspan="1" colspan="1">Pathological diagnosis related to any physical or mental condition that would preclude the participant from exercising or performing the tests.</td></tr><tr><td align="center" rowspan="1" colspan="1">MRI incompatibility.</td></tr></tbody></table><table-wrap-foot><fn id="brb370636-tbl1-note-0001"><label>
+<sup>a</sup>
+</label><p>Prescreening criteria.</p></fn><fn id="brb370636-tbl1-note-0002"><label>
+<sup>b</sup>
+</label><p>Phone&#x02010;screening criteria.</p></fn><fn id="brb370636-tbl1-note-0003"><label>
+<sup>c</sup>
+</label><p>Participants from the AGUEDA trial were 65 to 80&#x000a0;years old at enrollment and are now 3&#x000a0;years older, making their age range 68&#x02013;83&#x000a0;years for flADex.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>During the prescreening phase, inclusion criteria will be checked using the AGUEDA database. Eligible participants will undergo a phone screening. If no exclusion criteria are identified, they will be scheduled for a familiarization visit (Day 1). This visit will include signing the informed consent form; administering the Montreal Cognitive Assessment (MoCA) for descriptive purposes (Nasreddine et&#x000a0;al. <xref rid="brb370636-bib-0024" ref-type="bibr">2005</xref>); and completing questionnaires related to MRI compatibility, medical history, baseline blood conditions (including fasting state and previous dinner standardization), and physical activity. Weight and height (to calculate body mass index), as well as resting heart rate (HR), will also be measured. Additionally, the exercise protocols will be explained and practiced, and the resistance level of the bands to be used will be recorded. Participants who successfully complete the familiarization visit will be enrolled and randomized (Days 2, 3, and 4), with recruitment set to begin in September 2024.</p></sec><sec id="brb370636-sec-0090"><label>2.3</label><title>Randomization</title><p>Each participant will be randomized after familiarization with the three trial conditions to achieve a counterbalanced crossover design. A 3&#x000a0;&#x000d7;&#x000a0;3 Latin square design has been implemented for randomization (Keedwell and D&#x000e9;nes <xref rid="brb370636-bib-0013" ref-type="bibr">2015</xref>), utilizing the &#x0201c;rlatin&#x0201d; function from the &#x0201c;magic&#x0201d; package in R Studio. A randomization dashboard has been created (<ext-link xlink:href="https://javiersanchez3.shinyapps.io/latin_square_design/" ext-link-type="uri">https://javiersanchez3.shinyapps.io/latin_square_design/</ext-link>) and will be executed for each wave of participants by a blinded researcher external to the trial (Dr. Cabanas&#x02010;Sanchez, Autonomous University of Madrid, Spain). To prevent selection bias, allocation concealment will keep the assignment sequence hidden from those enrolling participants, ensuring random and unbiased order assignments.</p></sec><sec id="brb370636-sec-0100"><label>2.4</label><title>Blinding</title><p>Participants will inherently become aware of their assigned condition at the start of each visit. However, the principal investigator, MRI technician, and research staff responsible for processing MRI data and conducting statistical analyses will remain blinded to minimize researcher bias or expectations.</p></sec><sec id="brb370636-sec-0110"><label>2.5</label><title>Overview of Experimental Conditions</title><p>Each participant's trial will last 3&#x000a0;weeks, preceded by the familiarization visit. Participants will complete three 30&#x02010;min experimental conditions, each separated by a 1&#x02010;week washout period, with a ratio of one trainer per participant. The aerobic and resistance exercise bouts will include a 4&#x02010;min warm&#x02010;up and a 26&#x02010;min exercise session (see Figure&#x000a0;<xref rid="brb370636-fig-0003" ref-type="fig">3</xref>). Participants will be instructed to refrain from engaging in any vigorous physical activity within the 48&#x000a0;h preceding the assessments. During the 24&#x000a0;h prior to each assessment, they must also avoid moderate&#x02010;to&#x02010;vigorous physical activity, the consumption of stimulants such as caffeine, and alcohol intake. All conditions will be performed following a 12&#x02010;h overnight fast after the consumption of a standardized dinner the previous evening.</p><fig position="float" fig-type="FIGURE" id="brb370636-fig-0003"><label>FIGURE 3</label><caption><p>Experimental conditions of the flADex trial. HRMax: Age&#x02010;predicted maximum heart rate; RPE: Rating of perceived exertion; W/U: warm&#x02010;up.</p></caption><graphic xlink:href="BRB3-15-e70636-g003" position="anchor" id="jats-graphic-7"/></fig><sec id="brb370636-sec-0120"><label>2.5.1</label><title>Moderate Aerobic Exercise Condition</title><p>Participants will perform continuous moderate&#x02010;intensity aerobic exercise on a cycle ergometer (Keyser M3) at 60%&#x02013;70% of their age&#x02010;predicted maximal HR (HRmax; calculated as 220 &#x02010; age) (Zelazo et&#x000a0;al. <xref rid="brb370636-bib-0041" ref-type="bibr">2013</xref>). To achieve the target HR, the intensity will be adjusted according to the participant's response, with a primary focus on increasing the ergometer's resistance rather than the cadence. Beta&#x02010;blocker use will be documented through the administration of two questionnaires: a medical information questionnaire administered during the familiarization session and a condition&#x02010;day checklist used to record any medications taken on the day before each assessment. Sensitivity analyses will be conducted, if necessary, to account for the potential impact of beta blockers on HR&#x02010;based exercise prescription. For further details, refer to <xref rid="brb370636-supinfo-0001" ref-type="">Supporting Information A.2.1</xref>.</p></sec><sec id="brb370636-sec-0130"><label>2.5.2</label><title>Resistance Exercise Condition</title><p>Participants will perform a combination of upper&#x02010; and lower&#x02010;body exercises using elastic bands with different resistance levels and their body weight as primary resistance. The target intensity will be based on 4&#x02013;6 points of the Rate of Perceived Exertion (RPE, 0&#x02010;10) using the OMNI&#x02010;Resistance Exercise Scale (Morishita et&#x000a0;al. <xref rid="brb370636-bib-0021" ref-type="bibr">2019</xref>), although HR will also be recorded. Participants will perform three sets of eight different exercises, with each exercise lasting 40&#x000a0;s, followed by 20&#x000a0;s of rest and a 1&#x02010;min rest period between sets. Exercises can be adapted according to each participant's ability or situation (e.g., bloodline placement). The exercises will include glute bridge, front plank, standing face pull, incline push&#x02010;up, squat, press pallof, walking lunge, and seated shoulder press. See <xref rid="brb370636-supinfo-0001" ref-type="">Supporting Information A.2.2</xref> for extended information.</p></sec><sec id="brb370636-sec-0140"><label>2.5.3</label><title>Resting Condition</title><p>Participants will remain seated and isolated in a room, watching a standardized neutral documentary on a tablet for 30&#x000a0;min without any cognitive engagement (<ext-link xlink:href="https://youtu.be/WLeTofB2wbo?feature=shared" ext-link-type="uri">https://youtu.be/WLeTofB2wbo?feature=shared</ext-link>).</p></sec></sec><sec id="brb370636-sec-0150"><label>2.6</label><title>Outcomes</title><p>Table&#x000a0;<xref rid="brb370636-tbl-0002" ref-type="table">2</xref> summarizes the primary and secondary outcomes and exercise&#x02010;related variables, along with the assessment instruments and data collection time points.</p><table-wrap position="float" id="brb370636-tbl-0002" content-type="TABLE"><label>TABLE 2</label><caption><p>Outcomes, instruments, and time points of data collection of the flADex trial.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>Cerebral blood flow</bold>
+</td><td align="center" rowspan="1" colspan="1">&#x02212;30&#x002b9;</td><td align="center" rowspan="1" colspan="1">&#x02014;</td><td align="center" rowspan="1" colspan="1">20&#x002b9;, 27&#x002b9;, and 34&#x002b9;</td><td align="center" rowspan="1" colspan="1">
+<p>MRI: turbo gradient spin echo&#x02010;pseudo continuous arterial spin labeling (pCASL)</p>
+<p>mL/100&#x000a0;g/min</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Mood status</bold>
+</td><td align="center" rowspan="1" colspan="1">&#x02212;60&#x002b9;</td><td align="center" rowspan="1" colspan="1">&#x02014;</td><td align="center" rowspan="1" colspan="1">70&#x002b9;</td><td align="center" rowspan="1" colspan="1">
+<p>Scale Profile of Mood States (POMS)</p>
+<p>15&#x02010;item scale</p>
+<p>Total mood disturbance: 90&#x02013;144 total score</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Episodic memory</bold>
+</td><td align="center" rowspan="1" colspan="1">&#x02212;15&#x002b9;</td><td align="center" rowspan="1" colspan="1">&#x02014;</td><td align="center" rowspan="1" colspan="1">60&#x002b9;</td><td align="center" rowspan="1" colspan="1">
+<p>NIH Toolbox:</p>
+<p>Picture Sequence Memory Test</p>
+<p>Raw score n total correct items</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Inhibition/attention</bold>
+</td><td align="center" rowspan="1" colspan="1">&#x02212;15&#x002b9;</td><td align="center" rowspan="1" colspan="1">&#x02014;</td><td align="center" rowspan="1" colspan="1">60&#x002b9;</td><td align="center" rowspan="1" colspan="1">
+<p>NIH Toolbox:</p>
+<p>Flanker test</p>
+<p>Incongruent trials inverse efficiency score</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Blood biomarkers of AD pathology and neurodegeneration</bold>
+</td><td align="center" rowspan="1" colspan="1">&#x02212;5&#x002b9;</td><td align="center" rowspan="1" colspan="1">&#x02014;</td><td align="center" rowspan="1" colspan="1">3&#x002b9;, 50&#x002b9;, and 70&#x002b9;</td><td align="center" rowspan="1" colspan="1">
+<p>Plasma samples</p>
+<p>A&#x003b2;42/40 ratio, p&#x02010;tau217, p&#x02010;tau181, BD&#x02010;tau, GFAP, and NfL</p>
+<p>pg/mL</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Growth factors</bold>
+</td><td align="center" rowspan="1" colspan="1">&#x02212;5&#x002b9;</td><td align="center" rowspan="1" colspan="1">&#x02014;</td><td align="center" rowspan="1" colspan="1">3&#x002b9;, 50&#x002b9;, and 70&#x002b9;</td><td align="center" rowspan="1" colspan="1">
+<p>Serum samples</p>
+<p>BDNF, IGF&#x02010;1</p>
+<p>pg/mL (BDNF), ng/mL (IGF&#x02010;1)</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Emotional response</bold>
+</td><td align="center" rowspan="1" colspan="1">&#x02212;1&#x002b9;</td><td align="center" rowspan="1" colspan="1">&#x02014;</td><td align="center" rowspan="1" colspan="1">1&#x002b9;</td><td align="center" rowspan="1" colspan="1">
+<p>Feeling scale</p>
+<p>11&#x02010;points scale</p>
+<p>&#x02212;5 to 5 total score</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Rate of perceived exertion (only aerobic and resistance condition)</bold>
+</td><td align="center" rowspan="1" colspan="1">&#x02014;</td><td align="center" rowspan="1" colspan="1">12&#x002b9;, 20&#x002b9;, and 30&#x002b9;</td><td align="center" rowspan="1" colspan="1">&#x02014;</td><td align="center" rowspan="1" colspan="1">
+<p>OMNI&#x02010;Resistance Exercise Scale (OMNI&#x02010;RES)</p>
+<p>10&#x02010;point scale</p>
+<p>1&#x02013;10 total score</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Cognitive engagement</bold>
+</td><td align="center" rowspan="1" colspan="1">&#x02014;</td><td align="center" rowspan="1" colspan="1">12&#x002b9;, 20&#x002b9;, and 30&#x002b9;</td><td align="center" rowspan="1" colspan="1">&#x02014;</td><td align="center" rowspan="1" colspan="1">
+<p>Cognitive Load Measurement Scale</p>
+<p>9&#x02010;point scale</p>
+<p>1&#x02013;9 total score</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Heart rate</bold>
+</td><td align="center" rowspan="1" colspan="1">&#x02014;</td><td align="center" rowspan="1" colspan="1">During 30&#x002b9;</td><td align="center" rowspan="1" colspan="1">&#x02014;</td><td align="center" rowspan="1" colspan="1">
+<p>Polar H10</p>
+<p>Heart rate per minute</p>
+<p>beats/min</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Repetitions in reserve (only resistance condition)</bold>
+</td><td align="center" rowspan="1" colspan="1">&#x02014;</td><td align="center" rowspan="1" colspan="1">After each exercise</td><td align="center" rowspan="1" colspan="1">&#x02014;</td><td align="center" rowspan="1" colspan="1">
+<p>The Repetitions in Reserve (RIR)</p>
+<p>Number of repetitions</p>
+<p>n</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Enjoyment</bold>
+</td><td align="center" rowspan="1" colspan="1">&#x02014;</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">5&#x002b9;</td><td align="center" rowspan="1" colspan="1">
+<p>Physical Activity Enjoyment Scale (PACES)</p>
+<p>8&#x02010;items scale</p>
+<p>7&#x02013;56 total score</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Blood pressure</bold>
+</td><td align="center" rowspan="1" colspan="1">&#x02212;60&#x002b9;</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">1&#x002b9;</td><td align="center" rowspan="1" colspan="1">
+<p>Omron M3</p>
+<p>Systolic and diastolic blood pressure</p>
+<p>millimeters of mercury (mmHg)</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Temperature</bold>
+</td><td align="center" rowspan="1" colspan="1">&#x02212;50&#x002b9;</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">20&#x002b9;</td><td align="center" rowspan="1" colspan="1">
+<p>Digital Infrared Forehead Thermometer (iPiccoli)</p>
+<p>Temperature</p>
+<p>degrees Celsius (&#x000b0;C)</p>
+</td></tr></tbody></table><table-wrap-foot><fn id="brb370636-tbl2-note-0001"><p>Abbreviations: A&#x003b2;42/40, ratio Amyloid&#x02010;beta 42/Amyloid&#x02010;beta 40; BDNF, Brain&#x02010;Derived Neurotrophic Factor; BD&#x02010;tau, Brain&#x02010;Derived tau; GFAP, Glial Fibrillary Acidic Protein; IGF&#x02010;1, Insulin&#x02010;Like Growth Factor 1; MRI, Magnetic Resonance Imaging; NfL, Neurofilament Light Chain; p&#x02010;tau217, p&#x02010;tau181, phosphorylated tau protein at positions 217 and 181.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd.</copyright-holder></permissions></table-wrap><sec id="brb370636-sec-0160"><label>2.6.1</label><title>Primary Outcomes</title><p>
+<italic toggle="yes">Change in CBF</italic>: CBF will be assessed by MRI using a Siemens Magnetom PRISMA Fit 3T scanner with a 64&#x02010;channel head coil located at CIMCYC. Specific acquisition parameters for MRI are detailed in Table&#x000a0;<xref rid="brb370636-tbl-0003" ref-type="table">3</xref>. Body temperature and any incidental bodily conditions will be registered before MRI acquisitions to ensure physiological stability, as factors such as fever may affect CBF measurements. Pseudo&#x02010;continuous Arterial Spin Labeling (pCASL) sequences are used to determine global and regional CBF in resting supine position conditions. A structural T1 sequence (only pre&#x02010;condition) will be used to co&#x02010;register the pCASL and delineate regions of interest for CBF. Time&#x02010;of&#x02010;flight angiography (TOF) (before pCASL pre&#x02010;condition and before first pCASL post&#x02010;condition) sequence will be used to identify the carotid arteries. pCASL measurements will be taken 30 min prior to the start of the condition and at 20, 27, and 34&#x000a0;min following the completion of the condition. These time points represent the start of each pCASL sequence, each lasting approximately 7&#x000a0;min. The timing of the postexercise CBF assessments was selected to capture the temporal dynamics of CBF following the experimental condition. Our aim is to obtain a detailed picture of CBF variation during the immediate recovery period. The selected time points were determined by considering the necessary transition and preparation intervals between the end of the condition and the start of each CBF measurement. Importantly, we prioritized initiating the first post&#x02010;condition measurement as early as possible while allowing sufficient time to ensure participant safety, repositioning, and imaging setup (Palmer et&#x000a0;al. <xref rid="brb370636-bib-0027" ref-type="bibr">2023</xref>). The preprocessing analysis of pCASL will be carried out using the most up&#x02010;to&#x02010;date pipelines (ASLprep).</p><table-wrap position="float" id="brb370636-tbl-0003" content-type="TABLE"><label>TABLE 3</label><caption><p>MRI parameters for the flADex trial.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Sequence</th><th align="center" rowspan="1" colspan="1">Parameters</th><th align="center" rowspan="1" colspan="1">Measure</th><th align="center" rowspan="1" colspan="1">Acquisition time (min)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">TGSE pCASL</td><td align="center" rowspan="1" colspan="1">Transversal resolution&#x000a0;=&#x000a0;2.5&#x000a0;mm&#x000a0;&#x000d7;&#x000a0;2.5&#x000a0;mm&#x000a0;&#x000d7;&#x000a0;3.0&#x000a0;mm, TR&#x000a0;=&#x000a0;4100&#x000a0;ms, TE&#x000a0;=&#x000a0;36.8&#x000a0;ms, Background suppression, M0 and 12 label&#x02010;control pairs, Postlabeling delays = [500, 500, 1000, 1000, 1500, 2000, 2000, 2000, 2500, 2500, 2500&#x000a0;ms], labeling duration&#x000a0;=&#x000a0;1500 ms, 4 segment readout</td><td align="center" rowspan="1" colspan="1">Cerebral blood flow</td><td align="center" rowspan="1" colspan="1">7</td></tr><tr><td align="left" rowspan="1" colspan="1">T1&#x02010;weighted MPRAGE structural</td><td align="center" rowspan="1" colspan="1">Sagittal, 0.8&#x000a0;mm isotropic resolution, TR&#x000a0;=&#x000a0;2400&#x000a0;ms, TE&#x000a0;=&#x000a0;2.31&#x000a0;ms, TI&#x000a0;=&#x000a0;1060&#x000a0;ms, FOV&#x000a0;=&#x000a0;256&#x000a0;mm, slices&#x000a0;=&#x000a0;224</td><td align="center" rowspan="1" colspan="1">Brain structure</td><td align="center" rowspan="1" colspan="1">6</td></tr><tr><td align="left" rowspan="1" colspan="1">TOF (Time of flight angiography)</td><td align="center" rowspan="1" colspan="1">Resolution&#x000a0;=&#x000a0;0.8&#x000a0;&#x000d7;&#x000a0;0.8&#x000a0;&#x000d7;&#x000a0;1.2&#x000a0;mm<sup>3</sup>, TR&#x000a0;=&#x000a0;19&#x000a0;ms, TE&#x000a0;=&#x000a0;2.82 ms, flip angle&#x000a0;=&#x000a0;18&#x000a0;grad, FOV&#x000a0;=&#x000a0;200&#x000a0;mm, acquisition bandwidth&#x000a0;=&#x000a0;219&#x000a0;Hz/Px, slices&#x000a0;=&#x000a0;32 (oversampling 25%)</td><td align="center" rowspan="1" colspan="1">Angiography (cerebral vascularization)</td><td align="center" rowspan="1" colspan="1">1</td></tr></tbody></table><table-wrap-foot><fn id="brb370636-tbl3-note-0001"><p>Abbreviations: FOV, field of view; MPRAGE, Magnetization prepared rapid gradient echo; TE, echo time; TGSE pCASL, turbo gradient spin echo pseudo&#x02010;continuous arterial spin labeling; TI, inversion time; TR, repetition time.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="brb370636-sec-0170"><label>2.6.2</label><title>Secondary Outcomes</title><p>
+<italic toggle="yes">Changes in blood biomarkers of AD pathology and neurodegeneration and growth factors</italic>: A&#x003b2;42, A&#x003b2;40, p&#x02010;tau217, p&#x02010;tau181, BD&#x02010;tau, GFAP, NfL, BDNF, and IGF&#x02010;1 will be assayed. Blood samples will be collected at the CIMCYC facilities by a qualified nurse. Each day will involve four draws with one puncture; one draw 5&#x000a0;min pre&#x02010;condition (using a bloodline), followed by one draw 3&#x000a0;min after the condition, and draws at 50 and 70&#x000a0;min after the condition (Huber et&#x000a0;al. <xref rid="brb370636-bib-0010" ref-type="bibr">2023</xref>). The timing of the postexercise blood draws was designed to capture the acute temporal profile of blood biomarkers related to AD pathology, neurodegeneration, and neurotrophic growth factors. Our rationale was to obtain an immediate postexercise sample to reflect the initial physiological response, followed by additional samples during the recovery period to monitor changes over time. The selected time points were informed by prior literature indicating different release kinetics for these biomarkers (Huber et&#x000a0;al. <xref rid="brb370636-bib-0010" ref-type="bibr">2023</xref>), as well as by practical considerations related to the time required for participants to complete the condition and be properly prepared for blood collection. Additionally, the timing of the second and third postexercise blood draws (i.e., T2 and T3) was constrained by the MRI schedule, as these blood samples were collected immediately following the corresponding post&#x02010;condition CBF assessments. Based on previous acute studies, we expect the peak change from pre&#x02010; to post&#x02010;condition of some neurotrophic and growth factors to happen immediately after exercise (within 5&#x000a0;min of exercise) (Huber et&#x000a0;al. <xref rid="brb370636-bib-0010" ref-type="bibr">2023</xref>); thus, a 3&#x02010;min time point was chosen. Since there is some variability in previous literature, and the precise kinetics may vary depending on exercise intensity, we also included 50&#x02010; and 70&#x02010;min time points.</p><p>During each session, a total of 48&#x000a0;mL of blood will be collected (4&#x000a0;mL per tube&#x000a0;&#x000d7;&#x000a0;3 tubes per draw&#x000a0;&#x000d7;&#x000a0;4 draws). Each draw will include two ethylenediaminetetraacetic acid (EDTA) tubes for plasma and one serum separator tube (SST) with clot activator and gel. Samples will be processed according to regulations (Zeng et&#x000a0;al. <xref rid="brb370636-bib-0042" ref-type="bibr">2024</xref>). Following collection, blood samples will be centrifuged at 3000&#x000a0;rpm at room temperature for 10&#x000a0;min (serum tubes need 40&#x000a0;min before centrifugation). The resulting plasma and serum will be aliquoted into 0.65&#x000a0;mL Eppendorf tubes, pseudo&#x02010;anonymized, and stored at &#x02212;80&#x000b0;C at iMUDS for analysis upon trial completion. All blood collection and processing will be conducted at the same location. Blood biomarkers of AD pathology and neurodegeneration will be measured using single molecular array (Simoa) following the manufacturer's instructions at the University of Pittsburgh (Ashton et&#x000a0;al. <xref rid="brb370636-bib-0003" ref-type="bibr">2022</xref>).</p><p>
+<italic toggle="yes">Change in episodic memory</italic>: The Picture Sequence Memory Test from the Cognitive NIH Toolbox (a computer&#x02010;based battery that has been validated in Spanish) measures episodic memory. The raw score from the cumulative number of adjacent pairs of pictures remembered correctly over two learning trials will be used as the outcome (Zelazo et&#x000a0;al. <xref rid="brb370636-bib-0041" ref-type="bibr">2013</xref>).</p><p>
+<italic toggle="yes">Change in inhibition/attention</italic>: The Flanker test from the Cognitive NIH Toolbox measures inhibitory control and attention. The outcome will be the inverse efficiency score of incongruent trials calculated as reaction time/accuracy (RT/ACC) (Zelazo et&#x000a0;al. <xref rid="brb370636-bib-0041" ref-type="bibr">2013</xref>).</p><p>
+<italic toggle="yes">Mood status</italic>: A shortened version of the Profile of Mood States (POMS) scale will be used to assess mood status (Fuentes et&#x000a0;al. <xref rid="brb370636-bib-0009" ref-type="bibr">1994</xref>). It consists of adjectives or mood descriptors, where individuals rate how they have been feeling on a scale typically ranging from <italic toggle="yes">Not at all</italic> (0) to <italic toggle="yes">Extremely</italic> (4). The shortened version includes 15 items divided into five dimensions: depression, vigor, anger, tension, and fatigue. The final score, calculated as [depression]&#x000a0;+&#x000a0;[anger]&#x000a0;+&#x000a0;[tension]&#x000a0;+&#x000a0;[fatigue]&#x000a0;&#x02212;&#x000a0;[vigor], reflects total mood disturbance, with higher scores indicating more negative emotions and less positive energy.</p><p>
+<italic toggle="yes">Emotional response</italic>: The feeling scale (V&#x000e1;zquez&#x02010;Morej&#x000f3;n Jim&#x000e9;nez et&#x000a0;al. <xref rid="brb370636-bib-0038" ref-type="bibr">2004</xref>) will be used to assess emotional response. It is an 11&#x02010;point scale ranging from &#x02212;5 (<italic toggle="yes">very bad</italic>) to +5 (<italic toggle="yes">very good</italic>) used to measure an individual's feelings in terms of pleasure or displeasure.</p></sec><sec id="brb370636-sec-0180"><label>2.6.3</label><title>Exercise&#x02010;Related Variables</title><p>
+<italic toggle="yes">Rate of Perceived Exertion</italic>: Rate of Perceived Exertion (RPE) will be assessed using the OMNI&#x02010;Resistance Exercise Scale (OMNI&#x02010;RES) of perceived exertion from 0 to 10 points (Morishita et&#x000a0;al. <xref rid="brb370636-bib-0021" ref-type="bibr">2019</xref>).</p><p>
+<italic toggle="yes">Cognitive Engagement</italic>: The cognitive load scale is a 9&#x02010;item scale used to assess the mental effort or cognitive load experienced by individuals when engaging in a task, particularly in educational or learning contexts. It involves a self&#x02010;reported measure where participants rate their perceived mental effort on a scale ranging from 1&#x02014;<italic toggle="yes">very low mental effort</italic> to 9&#x02014;<italic toggle="yes">very high mental effort</italic> (Ouwehand et&#x000a0;al. <xref rid="brb370636-bib-0025" ref-type="bibr">2021</xref>; Paas et&#x000a0;al. <xref rid="brb370636-bib-0026" ref-type="bibr">2003</xref>).</p><p>
+<italic toggle="yes">Heart Rate</italic>: HR will be continuously monitored second&#x02010;by&#x02010;second during all three conditions using a Polar H10 monitor, which includes a chest strap and wristwatch.</p><p>
+<italic toggle="yes">Repetitions in Reserve (RIR)</italic>: RIR is a self&#x02010;regulation technique used in resistance training to gauge exercise intensity. It involves estimating the number of additional repetitions a participant could perform before reaching muscle failure after completing a set (Bastos et&#x000a0;al. <xref rid="brb370636-bib-0004" ref-type="bibr">2024</xref>).</p><p>
+<italic toggle="yes">Enjoyment</italic>: Enjoyment of physical activity will be assessed using the reduced and validated version of the physical activity enjoyment scale (PACES) (Mullen et&#x000a0;al. <xref rid="brb370636-bib-0022" ref-type="bibr">2011</xref>), an 8&#x02010;item scale assessing in a range of 1&#x02013;7 a series of sensations or moods with respect to their opposites.</p><p>
+<italic toggle="yes">Blood Pressure (BP)</italic>: BP will be measured using a validated automated monitor (Omron M3, Intellisense, OMRON Healthcare Europe, Spain) with participants seated and their left arm at heart level. After 5&#x000a0;min of rest, two readings will be taken at 1&#x02010;min intervals, and the average of the readings will be used for analysis.</p><p>
+<italic toggle="yes">Temperature</italic>: Body temperature will be measured using a digital infrared forehead thermometer (iPiccoli, AET&#x02010;R1B1), with participants standing, ensuring their forehead is clean and free from sweat.</p></sec></sec><sec id="brb370636-sec-0190"><label>2.7</label><title>Safety and Adverse Events</title><p>The expected risks and side effects from participating in the flADex trial are low (Alfini et&#x000a0;al. <xref rid="brb370636-bib-0001" ref-type="bibr">2019</xref>; Kleinloog et&#x000a0;al. <xref rid="brb370636-bib-0014" ref-type="bibr">2019</xref>; Vints et&#x000a0;al. <xref rid="brb370636-bib-0039" ref-type="bibr">2024</xref>). Any unusual symptoms (e.g., dizziness, chest pain) or adverse events during the trial will be noted by the research staff. Participants may withdraw from the trial at any time, and the research staff may terminate a participant's involvement if any minimal risk to their safety is identified. Extended information can be found in <xref rid="brb370636-supinfo-0001" ref-type="">Supporting Information A3</xref>.</p></sec><sec id="brb370636-sec-0200"><label>2.8</label><title>Sample Size</title><p>Previous studies on acute exercise have shown that a single bout of aerobic exercise changed CBF by 15% (Mast et&#x000a0;al. <xref rid="brb370636-bib-0019" ref-type="bibr">2022</xref>) and 9% (Macintosh et&#x000a0;al. <xref rid="brb370636-bib-0018" ref-type="bibr">2014</xref>). Specifically, the sample size is based on the mean changes (M) in CBF of 6&#x000a0;mL/100&#x000a0;g/min (<italic toggle="yes">M</italic>1&#x000a0;=&#x000a0;40.5 and <italic toggle="yes">M</italic>2&#x000a0;=&#x000a0;34.2) with a standard deviation (SD) of 6.46&#x000a0;mL/100&#x000a0;g/min (Long and Holtzman <xref rid="brb370636-bib-0016" ref-type="bibr">2019</xref>). Considering the calculation of Cohen's <italic toggle="yes">d</italic> based on previous studies (<italic toggle="yes">d</italic>&#x000a0;=&#x000a0;<italic toggle="yes">M</italic>1&#x02212;<italic toggle="yes">M</italic>2/combined SD), a large effect size (Cohen's <italic toggle="yes">d</italic>&#x000a0;=&#x000a0;0.9) is expected (Long and Holtzman <xref rid="brb370636-bib-0016" ref-type="bibr">2019</xref>). Therefore, using an alpha of 0.05 and a standard power of 80%, a sample size of 20 is needed. Participants who withdraw from the trial will be replaced to ensure sufficient power to assess our primary outcome. Thus, the experiment will be completed when 20 participants have completed all three experimental conditions. If a participant misses one visit, it will be rescheduled within 2&#x000a0;weeks of the last completed visit. This sample size is feasible based on our previous experiences involving MRI and exercise interventions.</p></sec><sec id="brb370636-sec-0210"><label>2.9</label><title>Data Analysis Plan</title><sec id="brb370636-sec-0220"><label>2.9.1</label><title>Brief Description of the Primary and Secondary Analyses</title><p>
+<italic toggle="yes">Effects on Primary and Secondary Outcomes</italic>: The primary and secondary outcomes will be analyzed following a per&#x02010;protocol approach using a linear mixed model. The model will include fixed effects for time (four or two levels depending on the outcome), condition (three levels), and time*condition interaction, and the unique participant identifier as a random effect. The number and patterns of missing data will be explored and reported. Missing data will be assumed to be missing at random and handled within the linear mixed model analyses. Model assumptions will be assessed. If violations are detected, appropriate corrective measures will be implemented, including data transformations. Condition effects will be evaluated using a time&#x02010;by&#x02010;treatment interaction term and described with estimated marginal means and 95% confidence intervals. All statistical tests will be two&#x02010;tailed. <italic toggle="yes">p</italic> for significance will be set at 0.05.</p><p>
+<italic toggle="yes">Mediation and correlation analysis</italic>: Mediation analysis will be performed following AGReMA (A Guideline for Reporting Mediation Analyses) recommendations (Mil&#x000e0;&#x02010;Alom&#x000e0; et&#x000a0;al. <xref rid="brb370636-bib-0020" ref-type="bibr">2022</xref>), using CBF and blood biomarkers as mediators depending on the outcome. When blood biomarkers are the outcomes, CBF will act as the mediator, and vice versa. When cognitive and mood indicators are the outcomes, both CBF and blood biomarkers will act as mediators. In addition, bivariate correlations will be performed between changes in CBF, changes in blood biomarkers, and changes in cognitive and mood outcomes.</p><p>
+<italic toggle="yes">Exercise intervention parameters</italic>: Parameters related to the exercise conditions (i.e., RPE, cognitive engagement, HR, RIR, and enjoyment) will be presented in a descriptive manner. These variables will not be used as covariates in the main models but will help interpret differences across types of exercise.</p><p>While the study compares the effects of different conditions (aerobic vs. resistance vs. resting) on CBF, blood biomarkers, and cognitive and mood outcomes, we acknowledge the intrinsic differences between exercise types, such as intensity, energy expenditure, and cognitive engagement. Exercise&#x02010;related variables will be descriptively compared across conditions. When relevant, they may be included as covariates in secondary or exploratory models to explore whether they account for variability in outcome measures. However, our primary intention is not to control for or eliminate these natural differences but rather to characterize how these distinct types of exercise affect the outcomes, with all their inherent features. This approach supports the validity of the intervention and aligns with the aim of exploring the real effects of different exercise strategies.</p></sec><sec id="brb370636-sec-0230"><label>2.9.2</label><title>Exploratory Analyses</title><p>An exploratory moderation analysis will assess whether sex moderates the acute effects of different exercise types (aerobic vs. resistance vs. resting) on CBF. These results will be interpreted with caution due to sample size limitations but are expected to offer insights into individual variability in physiological responses to exercise.</p></sec></sec><sec id="brb370636-sec-0240"><label>2.10</label><title>Data Management and Sharing</title><p>A comprehensive data management plan has been developed, ensuring proper handling, storage, and sharing of data in accordance with ethical and legal guidelines. Extended information can be found in <xref rid="brb370636-supinfo-0001" ref-type="">Supplementary material A4</xref>.</p></sec></sec><sec id="brb370636-sec-0250"><label>3</label><title>Discussion</title><p>The flADex trial seeks to advance the understanding of the acute effects of different exercise types on CBF, blood biomarkers, and cognitive function in older adults. The findings may reveal mechanisms through which exercise delays or slows cognitive decline, particularly vascular and molecular pathways associated with AD pathology in aging populations at risk for the disease.</p><p>flADex is expected to reveal distinct CBF response patterns between aerobic and resistance exercise. A systematic review (<italic toggle="yes">n</italic>&#x000a0;=&#x000a0;52 studies) showed that during a bout of aerobic exercise, CBF generally follows an inverted U&#x02010;shaped response (Mulser and Moreau <xref rid="brb370636-bib-0023" ref-type="bibr">2023</xref>). This autoregulatory mechanism ensures the increased oxygen and nutrient demands during exercise are met while preventing vascular overloading, which is particularly relevant in aging populations prone to cerebrovascular dysregulation (Palmer et&#x000a0;al. <xref rid="brb370636-bib-0027" ref-type="bibr">2023</xref>; Perdomo et&#x000a0;al. <xref rid="brb370636-bib-0029" ref-type="bibr">2019</xref>). Additionally, acute increases in CBF, particularly in the hippocampus&#x02014;a critical region for memory&#x02014;have been observed following aerobic exercise (Palmer et&#x000a0;al. <xref rid="brb370636-bib-0027" ref-type="bibr">2023</xref>) and 15, 40, and 60&#x000a0;min after exercise cessation (Steventon et&#x000a0;al. <xref rid="brb370636-bib-0036" ref-type="bibr">2020</xref>), suggesting enhanced vascular plasticity and a potential protective effect against cognitive decline. However, evidence on acute CBF changes following other types of exercise (e.g., resistance training) remains limited&#x02014;particularly across different brain regions, where fluctuations are expected to vary regionally (Palmer et&#x000a0;al. <xref rid="brb370636-bib-0027" ref-type="bibr">2023</xref>), highlighting the need for further investigation.</p><p>Chronic aerobic and resistance exercise have complementary effects on brain health. Aerobic exercise supports gray matter preservation, reduces systemic inflammation, and improves lipid profiles (Pascual&#x02010;Lucas et&#x000a0;al. <xref rid="brb370636-bib-0028" ref-type="bibr">2023</xref>; Mil&#x000e0;&#x02010;Alom&#x000e0; et&#x000a0;al. <xref rid="brb370636-bib-0020" ref-type="bibr">2022</xref>), while resistance training benefits white matter integrity and influences muscle&#x02010;related biomarkers like creatine kinase and anabolic hormones (e.g., testosterone and IGF&#x02010;1) (Kleinloog et&#x000a0;al. <xref rid="brb370636-bib-0014" ref-type="bibr">2019</xref>; Voss et&#x000a0;al. <xref rid="brb370636-bib-0040" ref-type="bibr">2016</xref>). Acutely, both exercise types trigger a transient increase in pro&#x02010;inflammatory cytokines and oxidative stress markers. However, this response is part of a hormetic process that, in turn, stimulates the production of anti&#x02010;inflammatory cytokines and endogenous antioxidants. Aerobic exercise has been shown to more effectively enhance insulin sensitivity and lipid metabolism, while resistance training induces a more pronounced inflammatory response due to muscle tissue remodeling (Maass et&#x000a0;al. <xref rid="brb370636-bib-0017" ref-type="bibr">2015</xref>; Fernandez&#x02010;Gamez et&#x000a0;al. <xref rid="brb370636-bib-0008" ref-type="bibr">2023</xref>; Perdomo et&#x000a0;al. <xref rid="brb370636-bib-0029" ref-type="bibr">2019</xref>). flADex will provide novel insights into the distinct and overlapping mechanisms through which exercise acutely impacts CBF and its cognitive implications in older adults. Understanding these acute effects could help optimize chronic exercise interventions tailored to individual cerebrovascular and metabolic needs.</p><p>Beyond CBF, flADex will measure changes in blood biomarkers of AD pathology and neurodegeneration and growth factors, which are critical to understanding AD and brain health. For instance, emerging evidence suggests that aerobic exercise may acutely reduce the levels of NfL, a marker of axonal damage and neuronal injury (Joisten et&#x000a0;al. <xref rid="brb370636-bib-0012" ref-type="bibr">2021</xref>), and modulate the kynurenine pathway, enhancing the production of neuroprotective metabolites (Schultz et&#x000a0;al. <xref rid="brb370636-bib-0034" ref-type="bibr">2020</xref>). Similarly, resistance exercise, despite inducing greater oxidative stress and inflammation due to muscle repair processes, might also promote adaptive mechanisms that contribute to neuroprotection (Joisten et&#x000a0;al. <xref rid="brb370636-bib-0012" ref-type="bibr">2021</xref>). BDNF and IGF&#x02010;1 are also vital for brain health, as they support neuronal survival and synaptic growth and aid in brain repair and cognitive function, respectively. Acute aerobic and resistance exercise significantly increase serum BDNF and IGF&#x02010;1 concentrations postexercise in older men (60 mean age) compared to controls (Arazi et&#x000a0;al. <xref rid="brb370636-bib-0002" ref-type="bibr">2021</xref>). Measuring these biomarkers will help elucidate how acute exercise&#x02010;induced changes impact neuronal integrity, inflammation, and cognition, thereby advancing our understanding of the molecular pathways through which exercise may support AD prevention and management during aging. Additionally, examining the acute effects of exercise on biomarkers of AD and neurodegeneration will help determine whether blood biomarker sampling should be performed under standardized resting conditions prior to measurements to improve diagnostic accuracy.</p><p>Participants with positive brain amyloid status were excluded from the flADex trial to minimize the influence of underlying AD pathology on cerebrovascular and biomarker responses (Rodriguez&#x02010;Ayllon et&#x000a0;al. <xref rid="brb370636-bib-0032" ref-type="bibr">2024</xref>; Ashton et&#x000a0;al. <xref rid="brb370636-bib-0003" ref-type="bibr">2022</xref>; Mil&#x000e0;&#x02010;Alom&#x000e0; et&#x000a0;al. <xref rid="brb370636-bib-0020" ref-type="bibr">2022</xref>). In addition, individuals carrying the APOE4 allele were excluded due to their known genotype&#x02010;specific alterations in CBF regulation (Zlokovic <xref rid="brb370636-bib-0043" ref-type="bibr">2011</xref>; Korte et&#x000a0;al. <xref rid="brb370636-bib-0015" ref-type="bibr">2020</xref>) and inflammatory and neurotrophic responses (Long and Holtzman <xref rid="brb370636-bib-0016" ref-type="bibr">2019</xref>; Ashton et&#x000a0;al. <xref rid="brb370636-bib-0003" ref-type="bibr">2022</xref>). Including these participants could have introduced significant heterogeneity, as both amyloid positivity and APOE4 status are associated with early neurodegenerative changes and may modify the acute response to exercise. Their presence could mask the specific effects of different exercise types in a sample of older adults (Alfini et&#x000a0;al. <xref rid="brb370636-bib-0001" ref-type="bibr">2019</xref>; Pascual&#x02010;Lucas et&#x000a0;al. <xref rid="brb370636-bib-0028" ref-type="bibr">2023</xref>). By excluding these two high&#x02010;risk profiles, the study aimed to reduce biological variability and increase the specificity of the findings (Rodriguez&#x02010;Ayllon et&#x000a0;al. <xref rid="brb370636-bib-0032" ref-type="bibr">2024</xref>; Mil&#x000e0;&#x02010;Alom&#x000e0; et&#x000a0;al. <xref rid="brb370636-bib-0020" ref-type="bibr">2022</xref>). Future trials should explore whether APOE4 carriers, compared to noncarriers, respond differently to specific exercise interventions (Zlokovic <xref rid="brb370636-bib-0043" ref-type="bibr">2011</xref>; Long and Holtzman <xref rid="brb370636-bib-0016" ref-type="bibr">2019</xref>).</p><p>It is also important to note that the flADex trial will include a balanced sex distribution, which allows us to explore potential sex&#x02010;related differences in the acute responses to exercise. Prior research has shown that females generally exhibit higher resting CBF than males (Zlokovic <xref rid="brb370636-bib-0043" ref-type="bibr">2011</xref>). Including both sexes equally ensures that findings are more generalizable and may help identify whether certain exercise types have sex&#x02010;specific effects on CBF and related outcomes (Maass et&#x000a0;al. <xref rid="brb370636-bib-0017" ref-type="bibr">2015</xref>; Palmer et&#x000a0;al. <xref rid="brb370636-bib-0027" ref-type="bibr">2023</xref>). Future studies with larger sample sizes should consider whether sex moderates acute physiological responses to different exercise types.</p><p>The flADex trial has limitations, including limited sample size and potential confounding factors such as diet. The exercise types were not matched for caloric expenditure or intensity, which may affect acute systemic responses&#x02014;for instance, neurotrophic factors may be influenced by energy demand and glycogen depletion (Arazi et&#x000a0;al. <xref rid="brb370636-bib-0002" ref-type="bibr">2021</xref>). Lastly, although we attempted to minimize practice effects by using different versions of the Picture Sequence Memory Test across sessions, the short interval between assessments may still have introduced learning effects that could influence cognitive outcomes. The flADex trial also has several strengths. Its crossover design enhances efficiency and reduces variability by using participants as their own controls. Advanced imaging and biomarker analyses provide detailed insights into exercise effects on CBF and neurovascular responses. Comparing aerobic and resistance exercises may also highlight distinct acute responses. Lastly, this study is crucial for recommending standardized rest conditions prior to blood sample collection when using biomarkers for diagnosing, monitoring disease progression, and evaluating drug responses (Huber et&#x000a0;al. <xref rid="brb370636-bib-0010" ref-type="bibr">2023</xref>).</p><p>In conclusion, the flADex trial will address critical research gaps by investigating the acute effects of resistance exercise on CBF, blood biomarkers, and cognitive function, areas where evidence remains limited compared to aerobic exercise. This study will provide novel insights into how different exercise types acutely influence brain health and neuroprotection during aging.</p></sec><sec id="brb370636-sec-0260"><title>Author Contributions</title><p>
+<bold>Isabel Mart&#x000ed;n&#x02010;Fuentes</bold>: conceptualization, investigation, writing&#x000a0;&#x02013;&#x000a0;original draft, methodology, visualization, writing&#x000a0;&#x02013;&#x000a0;review and editing, project administration. <bold>Beatriz Fernandez&#x02010;Gamez</bold>: investigation, writing&#x000a0;&#x02013;&#x000a0;review and editing, methodology. <bold>Sol Vidal&#x02010;Almela</bold>: writing&#x000a0;&#x02013;&#x000a0;review and editing, methodology. <bold>Alfredo Caro&#x02010;Rus</bold>: investigation, writing&#x000a0;&#x02013;&#x000a0;review and editing. <bold>Patricio Solis&#x02010;Urra</bold>: writing&#x000a0;&#x02013;&#x000a0;review and editing, methodology, conceptualization. <bold>Luc&#x000ed;a S&#x000e1;nchez&#x02010;Aranda</bold>: writing&#x000a0;&#x02013;&#x000a0;review and editing, methodology, investigation. <bold>Javier Fern&#x000e1;ndez&#x02010;Ortega</bold>: writing&#x000a0;&#x02013;&#x000a0;review and editing, methodology, investigation. <bold>Javier Sanchez&#x02010;Martinez</bold>: methodology, writing&#x000a0;&#x02013;&#x000a0;review and editing, investigation. <bold>Andrea Coca&#x02010;Pulido</bold>: writing&#x000a0;&#x02013;&#x000a0;review and editing, methodology, investigation. <bold>Marcos Olvera&#x02010;Rojas</bold>: writing&#x000a0;&#x02013;&#x000a0;review and editing, methodology, investigation. <bold>Emilio J. Barranco&#x02010;Moreno</bold>: writing&#x000a0;&#x02013;&#x000a0;review and editing, investigation. <bold>Jose D. Marin&#x02010;Alvarez</bold>: writing&#x000a0;&#x02013;&#x000a0;review and editing, investigation. <bold>Esm&#x000e9;e A. Bakker</bold>: writing&#x000a0;&#x02013;&#x000a0;review and editing, conceptualization, methodology. <bold>Angel Toval</bold>: writing&#x000a0;&#x02013;&#x000a0;review and editing, conceptualization. <bold>Dar&#x000ed;o Bell&#x000f3;n</bold>: writing&#x000a0;&#x02013;&#x000a0;review and editing. <bold>Alessandro Sclafani</bold>: writing&#x000a0;&#x02013;&#x000a0;review and editing. <bold>Thomas K. Karikari</bold>: conceptualization, methodology, writing&#x000a0;&#x02013;&#x000a0;review and editing. <bold>Kirk I. Erickson</bold>: conceptualization, writing&#x000a0;&#x02013;&#x000a0;review and editing, methodology. <bold>Manuel G&#x000f3;mez&#x02010;R&#x000ed;o</bold>: writing&#x000a0;&#x02013;&#x000a0;review and editing, methodology, conceptualization. <bold>Francisco B. Ortega</bold>: methodology, writing&#x000a0;&#x02013;&#x000a0;review and editing, conceptualization. <bold>Irene Esteban&#x02010;Cornejo</bold>: conceptualization, investigation, funding acquisition, writing&#x000a0;&#x02013;&#x000a0;review and editing, visualization, methodology, project administration, resources, supervision.</p></sec><sec id="brb370636-sec-0280"><title>Ethics Statement</title><p>The trial, which has been registered in ClinicalTrials.gov (NCT06584656; approval: 04/09/2024), will follow the principles of the Declaration of Helsinki and has been approved by the Research Ethics Board of the Andalusian Health Service (CEIM/CEI Provincial de Granada; #SICEIA&#x02010;2024&#x02010;000602; approval: 30/04/2024).</p></sec><sec id="brb370636-sec-0290"><title>Consent</title><p>All participants will provide written informed consent approved by the Research Ethics Board of the Andalusian Health Service.</p></sec><sec sec-type="COI-statement" id="brb370636-sec-0300"><title>Conflicts of Interest</title><p>TKK has consulted for Quanterix Corporation, SpearBio Inc., Neurogen Biomarking LLC., and Alzheon, has served on advisory boards for Siemens Healthineers, Neurogen Biomarking LLC. and Alzheon (which may come with minority stock equity interest/stock options), outside the submitted work. He has received in&#x02010;kind research support from Janssen Research Laboratories, SpearBio Inc., and Alamar Biosciences, as well as meeting travel support from the Alzheimer's Association and Neurogen Biomarking LLC., outside the submitted work. TKK has received royalties from Bioventix for the transfer of specific tau antibodies and assays to third party organizations. He has received honoraria for speaker/grant review engagements from the NIH, UPENN, UW&#x02010;Madison, the Cherry Blossom symposium, the HABS&#x02010;HD/ADNI4 Health Enhancement Scientific Program, Advent Health Translational Research Institute, Brain Health conference, Barcelona&#x02010;Pittsburgh conference, the International Neuropsychological Society, the Icahn School of Medicine at Mount Sinai and the Quebec Center for Drug Discovery, Canada, all outside of the submitted work. TKK serves/has served as a guest editor for npj Dementia, as an invited member of the World Health Organization committee to develop preferred product characteristics for blood&#x02010;based biomarker diagnostics for Alzheimer's disease, as an executive committee member for the Human Amyloid Imaging (HAI) conference, as an elected member of the NACC ADRCs Steering Committee, as co&#x02010;director of the NACC ADRCs Biofluid Biomarker Working Group, and as a member of the Alzheimer's Association committees to develop Appropriate Use Criteria for clinical use of blood&#x02010;based biomarkers, and treatment related amyloid clearance. TKK is an inventor on several patents and provisional patents regarding biofluid biomarker methods, targets and reagents/compositions, that may generate income for the institution and/or self should they be licensed and/or transferred to another organization. These include WO2020193500A1: Use of a ps396 assay to diagnose tauopathies; 63/679,361: Methods to Evaluate Early&#x02010;Stage Pre&#x02010;Tangle TAU Aggregates and Treatment of Alzheimer's Disease Patients; 63/672,952: Method for the Quantification of Plasma Amyloid&#x02010;Beta Biomarkers in Alzheimer's Disease; 63/693,956: Anti&#x02010;tau Protein Antigen Binding Reagents; and 2450702&#x02010;2: Detection of oligomeric tau and soluble tau aggregates.</p></sec><sec sec-type="peer-review" id="brb370636-sec-0330"><title>Peer Review</title><p>The peer review history for this article is available at <ext-link xlink:href="https://publons.com/publon/10.1002/brb3.70636" ext-link-type="uri">https://publons.com/publon/10.1002/brb3.70636</ext-link>
+</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="brb370636-supinfo-0001" position="float" content-type="local-data"/><supplementary-material id="brb370636-supitem-0001" position="float" content-type="local-data"><caption><p>
+<bold>Supplementary Material</bold>: brb370636&#x02010;sup&#x02010;0001&#x02010;SuppMat.docx</p></caption><media xlink:href="BRB3-15-e70636-s001.docx"/></supplementary-material></sec></body><back><ack id="brb370636-sec-0270"><title>Acknowledgments</title><p>We thank Dr. Veronica Cabanas&#x02010;Sanchez for performing the randomization of the trial.</p></ack><sec sec-type="data-availability" id="brb370636-sec-0320"><title>Data Availability Statement</title><p>Extended information about the protocols is available in the GitHub repository <ext-link xlink:href="https://github.com/fladexprojectugr" ext-link-type="uri" specific-use="software is-supplemented-by">https://github.com/fladexprojectugr</ext-link>.</p></sec><ref-list id="brb370636-bibl-0001"><title>References</title><ref id="brb370636-bib-0001"><mixed-citation publication-type="journal" id="brb370636-cite-0001">
+<string-name>
+<surname>Alfini</surname>, <given-names>A. J.</given-names>
+</string-name>, <string-name>
+<given-names>L. R.</given-names>
+<surname>Weiss</surname>
+</string-name>, <string-name>
+<given-names>K. A.</given-names>
+<surname>Nielson</surname>
+</string-name>, <string-name>
+<given-names>M. D.</given-names>
+<surname>Verber</surname>
+</string-name>, and <string-name>
+<given-names>J. C.</given-names>
+<surname>Smith</surname>
+</string-name>. <year>2019</year>. &#x0201c;<article-title>Resting Cerebral Blood Flow After Exercise Training in Mild Cognitive Impairment</article-title>.&#x0201d; <source>Journal of Alzheimer's Disease</source>
+<volume>67</volume>: <fpage>671</fpage>. <pub-id pub-id-type="doi">10.3233/JAD-180728</pub-id>.</mixed-citation></ref><ref id="brb370636-bib-0002"><mixed-citation publication-type="journal" id="brb370636-cite-0002">
+<string-name>
+<surname>Arazi</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Babaei</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Moghimi</surname>
+</string-name>, and <string-name>
+<given-names>A.</given-names>
+<surname>Asadi</surname>
+</string-name>. <year>2021</year>. &#x0201c;<article-title>Acute Effects of Strength and Endurance Exercise on Serum BDNF and IGF&#x02010;1 Levels in Older Men</article-title>.&#x0201d; <source>BMC Geriatrics</source>
+<volume>21</volume>: <fpage>50</fpage>. <pub-id pub-id-type="doi">10.1186/s12877-020-01937-6</pub-id>.<pub-id pub-id-type="pmid">33441099</pub-id>
+</mixed-citation></ref><ref id="brb370636-bib-0003"><mixed-citation publication-type="journal" id="brb370636-cite-0003">
+<string-name>
+<surname>Ashton</surname>, <given-names>N. J.</given-names>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Janelidze</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Mattsson&#x02010;Carlgren</surname>
+</string-name>, et&#x000a0;al. <year>2022</year>. &#x0201c;<article-title>Differential Roles of A&#x003b2;42/40, p&#x02010;tau231 and p&#x02010;tau217 for Alzheimer's Trial Selection and Disease Monitoring</article-title>.&#x0201d; <source>Nature Medicine</source>
+<volume>28</volume>: <fpage>2555</fpage>&#x02013;<lpage>2562</lpage>. <pub-id pub-id-type="doi">10.1038/s41591-022-02074-w</pub-id>.</mixed-citation></ref><ref id="brb370636-bib-0004"><mixed-citation publication-type="journal" id="brb370636-cite-0004">
+<string-name>
+<surname>Bastos</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Machado</surname>
+</string-name>, and <string-name>
+<given-names>D. S</given-names>
+<surname>Teixeira</surname>
+</string-name>. <year>2024</year>. &#x0201c;<article-title>Feasibility and Usefulness of Repetitions&#x02010;In&#x02010;Reserve Scales for Selecting Exercise Intensity: A Scoping Review</article-title>.&#x0201d; <source>Perceptual and Motor Skills</source>
+<volume>131</volume>: <fpage>940</fpage>&#x02013;<lpage>970</lpage>. <pub-id pub-id-type="doi">10.1177/00315125241241785</pub-id>.<pub-id pub-id-type="pmid">38563729</pub-id>
+</mixed-citation></ref><ref id="brb370636-bib-0005"><mixed-citation publication-type="journal" id="brb370636-cite-0005">
+<string-name>
+<surname>Butcher</surname>, <given-names>N. J.</given-names>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Monsour</surname>
+</string-name>, <string-name>
+<given-names>E. J.</given-names>
+<surname>Mew</surname>
+</string-name>, et&#x000a0;al. <year>2022</year>. &#x0201c;<article-title>Guidelines for Reporting Outcomes in Trial Protocols</article-title>.&#x0201d; <source>JAMA</source>
+<volume>328</volume>: <fpage>2345</fpage>. <pub-id pub-id-type="doi">10.1001/jama.2022.21243</pub-id>.<pub-id pub-id-type="pmid">36512367</pub-id>
+</mixed-citation></ref><ref id="brb370636-bib-0006"><mixed-citation publication-type="journal" id="brb370636-cite-0006">
+<string-name>
+<surname>Chan</surname>, <given-names>A. W.</given-names>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Tetzlaff</surname>
+</string-name>, <string-name>
+<given-names>D. G.</given-names>
+<surname>Altman</surname>
+</string-name>, et&#x000a0;al. <year>2013</year>. &#x0201c;<article-title>SPIRIT 2013 Statement: Defining Standard Protocol Items for Clinical Trials</article-title>.&#x0201d; <source>Annals of Internal Medicine</source>
+<volume>158</volume>: <fpage>200</fpage>&#x02013;<lpage>207</lpage>. <pub-id pub-id-type="doi">10.7326/0003-4819-158-3-201302050-00583/ASSET/IMAGES/10TT2.JPG</pub-id>.<pub-id pub-id-type="pmid">23295957</pub-id>
+</mixed-citation></ref><ref id="brb370636-bib-0007"><mixed-citation publication-type="journal" id="brb370636-cite-0007">
+<string-name>
+<surname>Dwan</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>D. G.</given-names>
+<surname>Altman</surname>
+</string-name>, and <string-name>
+<given-names>D.</given-names>
+<surname>Elbourne</surname>
+</string-name>. <year>2019</year>. &#x0201c;<article-title>CONSORT 2010 Statement: Extension to Randomised Crossover Trials</article-title>.&#x0201d; <source>BMJ</source>
+<volume>366</volume>: <elocation-id>14378</elocation-id>. <pub-id pub-id-type="doi">10.1136/bmj.l4378</pub-id>.</mixed-citation></ref><ref id="brb370636-bib-0008"><mixed-citation publication-type="journal" id="brb370636-cite-0008">
+<string-name>
+<surname>Fernandez&#x02010;Gamez</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Solis&#x02010;Urra</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Olvera&#x02010;Rojas</surname>
+</string-name>, et&#x000a0;al. <year>2023</year>. &#x0201c;<article-title>Resistance Exercise Program in Cognitively Normal Older Adults: CERT&#x02010;Based Exercise Protocol of the AGUEDA Randomized Controlled Trial</article-title>.&#x0201d; <source>Journal of Nutrition, Health and Aging</source>
+<volume>27</volume>: <fpage>885</fpage>&#x02013;<lpage>893</lpage>. <pub-id pub-id-type="doi">10.1007/s12603-023-1982-1</pub-id>.</mixed-citation></ref><ref id="brb370636-bib-0009"><mixed-citation publication-type="book" id="brb370636-cite-0009">
+<string-name>
+<surname>Fuentes</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<given-names>M. L.</given-names>
+<surname>Garc&#x000ed;a&#x02010;Merita</surname>
+</string-name>, <string-name>
+<given-names>J. L.</given-names>
+<surname>Meli&#x000e1;</surname>
+</string-name>, and <string-name>
+<given-names>I.</given-names>
+<surname>Balaguer</surname>
+</string-name>. <year>1994</year>. &#x0201c;<article-title>Formas paralelas de la adaptaci&#x000f3;n valenciana del perfil de los estados de &#x000e1;nimo</article-title>.&#x0201d; <article-title>
+Trabajo presentado al IV Congreso de Evaluaci&#x000f3;n Psicol&#x000f3;gica
+</article-title>. <publisher-name>Santiago de Compostela</publisher-name>.</mixed-citation></ref><ref id="brb370636-bib-0010"><mixed-citation publication-type="journal" id="brb370636-cite-0010">
+<string-name>
+<surname>Huber</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<given-names>N. J.</given-names>
+<surname>Ashton</surname>
+</string-name>, and <string-name>
+<given-names>A.</given-names>
+<surname>Schieren</surname>
+</string-name>, et&#x000a0;al. <year>2023</year>. &#x0201c;<article-title>Levels of Alzheimer's Disease Blood Biomarkers Are Altered After Food Intake&#x02014;A Pilot Intervention Study in Healthy Adults</article-title>.&#x0201d; <source>Alzheimer's &#x00026; Dementia</source>
+<volume>19</volume>: <fpage>5531</fpage>&#x02013;<lpage>5540</lpage>. <pub-id pub-id-type="doi">10.1002/alz.13163</pub-id>.</mixed-citation></ref><ref id="brb370636-bib-0011"><mixed-citation publication-type="journal" id="brb370636-cite-0011">
+<string-name>
+<surname>Iadecola</surname>, <given-names>C.</given-names>
+</string-name>
+<year>2013</year>. &#x0201c;<article-title>The Pathobiology of Vascular Dementia</article-title>.&#x0201d; <source>Neuron</source>
+<fpage>844</fpage>&#x02013;<lpage>866</lpage>. <pub-id pub-id-type="doi">10.1016/j.neuron.2013.10.008</pub-id>.<pub-id pub-id-type="pmid">24267647</pub-id>
+</mixed-citation></ref><ref id="brb370636-bib-0012"><mixed-citation publication-type="journal" id="brb370636-cite-0012">
+<string-name>
+<surname>Joisten</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Rademacher</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Warnke</surname>
+</string-name>, et&#x000a0;al. <year>2021</year>. &#x0201c;<article-title>Exercise Diminishes Plasma Neurofilament Light Chain and Reroutes the Kynurenine Pathway in Multiple Sclerosis</article-title>.&#x0201d; <source>Neurology Neuroimmunology &#x00026; Neuroinflammation</source>
+<volume>8</volume>: <elocation-id>e982</elocation-id>. <pub-id pub-id-type="doi">10.1212/NXI.0000000000000982</pub-id>.<pub-id pub-id-type="pmid">33782190</pub-id>
+</mixed-citation></ref><ref id="brb370636-bib-0013"><mixed-citation publication-type="book" id="brb370636-cite-0013">
+<string-name>
+<surname>Keedwell</surname>, <given-names>A. D.</given-names>
+</string-name>, and <string-name>
+<given-names>J.</given-names>
+<surname>D&#x000e9;nes</surname>
+</string-name>. <year>2015</year>. <source>Latin Squares and Their Applications</source>. <publisher-name>Elsevier</publisher-name>.</mixed-citation></ref><ref id="brb370636-bib-0014"><mixed-citation publication-type="journal" id="brb370636-cite-0014">
+<string-name>
+<surname>Kleinloog</surname>, <given-names>J. P. D.</given-names>
+</string-name>, <string-name>
+<given-names>R. P.</given-names>
+<surname>Mensink</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Ivanov</surname>
+</string-name>, <string-name>
+<given-names>J. J.</given-names>
+<surname>Adam</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Uluda&#x0011f;</surname>
+</string-name>, and <string-name>
+<given-names>P. J.</given-names>
+<surname>Joris</surname>
+</string-name>. <year>2019</year>. &#x0201c;<article-title>Aerobic Exercise Training Improves Cerebral Blood Flow and Executive Function: a Randomized, Controlled Cross&#x02010;Over Trial in Sedentary Older Men</article-title>.&#x0201d; <source>Frontiers in Aging Neuroscience</source>
+<volume>11</volume>: <fpage>333</fpage>. <pub-id pub-id-type="doi">10.3389/fnagi.2019.00333</pub-id>.<pub-id pub-id-type="pmid">31866855</pub-id>
+</mixed-citation></ref><ref id="brb370636-bib-0015"><mixed-citation publication-type="journal" id="brb370636-cite-0015">
+<string-name>
+<surname>Korte</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Nortley</surname>
+</string-name>, and <string-name>
+<given-names>D.</given-names>
+<surname>Attwell</surname>
+</string-name>. <year>2020</year>. &#x0201c;<article-title>Cerebral Blood Flow Decrease as an Early Pathological Mechanism in Alzheimer's Disease</article-title>.&#x0201d; <source>Acta Neuropathologica</source>
+<volume>140</volume>: <fpage>793</fpage>&#x02013;<lpage>810</lpage>. <pub-id pub-id-type="doi">10.1007/s00401-020-02215-w</pub-id>.<pub-id pub-id-type="pmid">32865691</pub-id>
+</mixed-citation></ref><ref id="brb370636-bib-0016"><mixed-citation publication-type="journal" id="brb370636-cite-0016">
+<string-name>
+<surname>Long</surname>, <given-names>J. M.</given-names>
+</string-name>, and <string-name>
+<given-names>D. M.</given-names>
+<surname>Holtzman</surname>
+</string-name>. <year>2019</year>. &#x0201c;<article-title>Alzheimer Disease: An Update on Pathobiology and Treatment Strategies</article-title>.&#x0201d; <source>Cell</source>
+<volume>179</volume>: <fpage>312</fpage>&#x02013;<lpage>339</lpage>. <pub-id pub-id-type="doi">10.1016/J.CELL.2019.09.001</pub-id>.<pub-id pub-id-type="pmid">31564456</pub-id>
+</mixed-citation></ref><ref id="brb370636-bib-0017"><mixed-citation publication-type="journal" id="brb370636-cite-0017">
+<string-name>
+<surname>Maass</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>D&#x000fc;zel</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Goerke</surname>
+</string-name>, et&#x000a0;al. <year>2015</year>. &#x0201c;<article-title>Vascular Hippocampal Plasticity After Aerobic Exercise in Older Adults</article-title>.&#x0201d; <source>Molecular Psychiatry</source>
+<volume>20</volume>: <fpage>585</fpage>&#x02013;<lpage>593</lpage>. <pub-id pub-id-type="doi">10.1038/mp.2014.114</pub-id>.<pub-id pub-id-type="pmid">25311366</pub-id>
+</mixed-citation></ref><ref id="brb370636-bib-0018"><mixed-citation publication-type="journal" id="brb370636-cite-0018">
+<string-name>
+<surname>Macintosh</surname>, <given-names>B. J.</given-names>
+</string-name>, <string-name>
+<given-names>D. E.</given-names>
+<surname>Crane</surname>
+</string-name>, <string-name>
+<given-names>M. D.</given-names>
+<surname>Sage</surname>
+</string-name>, <string-name>
+<given-names>A. S.</given-names>
+<surname>Rajab</surname>
+</string-name>, and <string-name>
+<given-names>M. J.</given-names>
+<surname>Donahue</surname>
+</string-name>. <year>2014</year>. &#x0201c;<article-title>Impact of a Single Bout of Aerobic Exercise on Regional Brain Perfusion and Activation Responses in Healthy Young Adults</article-title>.&#x0201d; <source>PLoS One</source>
+<volume>9</volume>: <elocation-id>85163</elocation-id>. <pub-id pub-id-type="doi">10.1371/journal.pone.0085163</pub-id>.</mixed-citation></ref><ref id="brb370636-bib-0019"><mixed-citation publication-type="journal" id="brb370636-cite-0019">
+<string-name>
+<surname>Mast</surname>, <given-names>I. H.</given-names>
+</string-name>, <string-name>
+<given-names>K. P. A.</given-names>
+<surname>Baas</surname>
+</string-name>, <string-name>
+<given-names>H. T.</given-names>
+<surname>J&#x000f8;rstad</surname>
+</string-name>, <string-name>
+<given-names>J. C.</given-names>
+<surname>Wood</surname>
+</string-name>, <string-name>
+<given-names>A. J.</given-names>
+<surname>Nederveen</surname>
+</string-name>, and <string-name>
+<given-names>A. J.</given-names>
+<surname>Bakermans</surname>
+</string-name>. <year>2022</year>. &#x0201c;<article-title>Dynamic MR Imaging of Cerebral Perfusion During Bicycling Exercise</article-title>.&#x0201d; <source>NeuroImage</source>
+<volume>250</volume>: <elocation-id>118961</elocation-id>. <pub-id pub-id-type="doi">10.1016/J.NEUROIMAGE.2022.118961</pub-id>.<pub-id pub-id-type="pmid">35121183</pub-id>
+</mixed-citation></ref><ref id="brb370636-bib-0020"><mixed-citation publication-type="journal" id="brb370636-cite-0020">
+<string-name>
+<surname>Mil&#x000e0;&#x02010;Alom&#x000e0;</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<given-names>N. J.</given-names>
+<surname>Ashton</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Shekari</surname>
+</string-name>, et&#x000a0;al. <year>2022</year>. &#x0201c;<article-title>Plasma p&#x02010;tau231 and p&#x02010;tau217 as State Markers of Amyloid&#x02010;&#x003b2; Pathology in Preclinical Alzheimer's Disease</article-title>.&#x0201d; <source>Nature Medicine</source>
+<volume>28</volume>: <fpage>1797</fpage>&#x02013;<lpage>1801</lpage>. <pub-id pub-id-type="doi">10.1038/s41591-022-01925-w</pub-id>.</mixed-citation></ref><ref id="brb370636-bib-0021"><mixed-citation publication-type="journal" id="brb370636-cite-0021">
+<string-name>
+<surname>Morishita</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Tsubaki</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Nakamura</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Nashimoto</surname>
+</string-name>, <string-name>
+<given-names>J. B.</given-names>
+<surname>Fu</surname>
+</string-name>, and <string-name>
+<given-names>H.</given-names>
+<surname>Onishi</surname>
+</string-name>. <year>2019</year>. &#x0201c;<article-title>Rating of Perceived Exertion on Resistance Training in Elderly Subjects</article-title>.&#x0201d; <source>Expert Review of Cardiovascular Therapy</source>
+<volume>17</volume>: <fpage>135</fpage>&#x02013;<lpage>142</lpage>. <pub-id pub-id-type="doi">10.1080/14779072.2019.1561278</pub-id>.<pub-id pub-id-type="pmid">30569775</pub-id>
+</mixed-citation></ref><ref id="brb370636-bib-0022"><mixed-citation publication-type="journal" id="brb370636-cite-0022">
+<string-name>
+<surname>Mullen</surname>, <given-names>S. P.</given-names>
+</string-name>, <string-name>
+<given-names>E. A.</given-names>
+<surname>Olson</surname>
+</string-name>, <string-name>
+<given-names>S. M.</given-names>
+<surname>Phillips</surname>
+</string-name>, et&#x000a0;al. <year>2011</year>. &#x0201c;<article-title>Measuring Enjoyment of Physical Activity in Older Adults: Invariance of the Physical Activity Enjoyment Scale (PACES) Across Groups and Time</article-title>.&#x0201d; <source>International Journal of Behavioral Nutrition and Physical Activity</source>
+<volume>8</volume>: <fpage>103</fpage>. <pub-id pub-id-type="doi">10.1186/1479-5868-8-103</pub-id>.<pub-id pub-id-type="pmid">21951520</pub-id>
+</mixed-citation></ref><ref id="brb370636-bib-0023"><mixed-citation publication-type="journal" id="brb370636-cite-0023">
+<string-name>
+<surname>Mulser</surname>, <given-names>L.</given-names>
+</string-name>, and <string-name>
+<given-names>D.</given-names>
+<surname>Moreau</surname>
+</string-name>. <year>2023</year>. &#x0201c;<article-title>Effect of Acute Cardiovascular Exercise on Cerebral Blood Flow: A Systematic Review</article-title>.&#x0201d; <source>Brain Research</source>
+<volume>1809</volume>: <elocation-id>148355</elocation-id>. <pub-id pub-id-type="doi">10.1016/J.BRAINRES.2023.148355</pub-id>.<pub-id pub-id-type="pmid">37003561</pub-id>
+</mixed-citation></ref><ref id="brb370636-bib-0024"><mixed-citation publication-type="journal" id="brb370636-cite-0024">
+<string-name>
+<surname>Nasreddine</surname>, <given-names>Z. S.</given-names>
+</string-name>, <string-name>
+<given-names>N. A.</given-names>
+<surname>Phillips</surname>
+</string-name>, and <string-name>
+<given-names>V.</given-names>
+<surname>B&#x000e9;dirian</surname>
+</string-name>, et&#x000a0;al. <year>2005</year>. &#x0201c;<article-title>The Montreal Cognitive Assessment, MoCA: A Brief Screening Tool for Mild Cognitive Impairment</article-title>.&#x0201d; <source>Journal of the American Geriatrics Society</source>
+<volume>53</volume>: <fpage>695</fpage>&#x02013;<lpage>699</lpage>. <pub-id pub-id-type="doi">10.1111/J.1532-5415.2005.53221.X</pub-id>.<pub-id pub-id-type="pmid">15817019</pub-id>
+</mixed-citation></ref><ref id="brb370636-bib-0025"><mixed-citation publication-type="journal" id="brb370636-cite-0025">
+<string-name>
+<surname>Ouwehand</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Kroef A van der Wong</surname>
+</string-name>, and <string-name>
+<given-names>F.</given-names>
+<surname>Paas</surname>
+</string-name>. <year>2021</year>. &#x0201c;<article-title>Measuring Cognitive Load: Are There More Valid Alternatives to Likert Rating Scales?</article-title>&#x0201d; <source>Frontiers in Education</source>
+<volume>6</volume>: <elocation-id>702616</elocation-id>. <pub-id pub-id-type="doi">10.3389/feduc.2021.702616</pub-id>.</mixed-citation></ref><ref id="brb370636-bib-0026"><mixed-citation publication-type="journal" id="brb370636-cite-0026">
+<string-name>
+<surname>Paas</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<given-names>J. E.</given-names>
+<surname>Tuovinen</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Tabbers</surname>
+</string-name>, and <string-name>
+<given-names>P. W. M.</given-names>
+<surname>van Gerven</surname>
+</string-name>. <year>2003</year>. &#x0201c;<article-title>Cognitive Load Measurement as a Means to Advance Cognitive Load Theory</article-title>.&#x0201d; <source>Educational Psychology</source>
+<volume>38</volume>: <fpage>63</fpage>&#x02013;<lpage>71</lpage>. <pub-id pub-id-type="doi">10.1207/S15326985EP3801_8</pub-id>.</mixed-citation></ref><ref id="brb370636-bib-0027"><mixed-citation publication-type="journal" id="brb370636-cite-0027">
+<string-name>
+<surname>Palmer</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name>
+<given-names>J. K.</given-names>
+<surname>Morris</surname>
+</string-name>, <string-name>
+<given-names>S. A.</given-names>
+<surname>Billinger</surname>
+</string-name>, et&#x000a0;al. <year>2023</year>. &#x0201c;<article-title>Hippocampal Blood Flow Rapidly and Preferentially Increases After a Bout of Moderate&#x02010;Intensity Exercise in Older Adults With Poor Cerebrovascular Health</article-title>.&#x0201d; <source>Cerebral Cortex</source>
+<volume>33</volume>: <fpage>5297</fpage>&#x02013;<lpage>5306</lpage>. <pub-id pub-id-type="doi">10.1093/CERCOR/BHAC418</pub-id>.<pub-id pub-id-type="pmid">36255379</pub-id>
+</mixed-citation></ref><ref id="brb370636-bib-0028"><mixed-citation publication-type="journal" id="brb370636-cite-0028">
+<string-name>
+<surname>Pascual&#x02010;Lucas</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<given-names>J. A.</given-names>
+<surname>Allu&#x000e9;</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Sarasa</surname>
+</string-name>, et&#x000a0;al. <year>2023</year>. &#x0201c;<article-title>Clinical Performance of an Antibody&#x02010;Free Assay for Plasma A&#x003b2;42/A&#x003b2;40 to Detect Early Alterations of Alzheimer's Disease in Individuals With Subjective Cognitive Decline</article-title>.&#x0201d; <source>Alzheimer Medical Education</source>
+<volume>15</volume>, no. <issue>1</issue>: <fpage>2</fpage>. <pub-id pub-id-type="doi">10.1186/s13195-022-01143-z</pub-id>.</mixed-citation></ref><ref id="brb370636-bib-0029"><mixed-citation publication-type="journal" id="brb370636-cite-0029">
+<string-name>
+<surname>Perdomo</surname>, <given-names>S. J.</given-names>
+</string-name>, <string-name>
+<given-names>J. R.</given-names>
+<surname>Balzer</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Jakicic</surname>
+</string-name>, <string-name>
+<given-names>C. E.</given-names>
+<surname>Kline</surname>
+</string-name>, and <string-name>
+<given-names>B. B</given-names>
+<surname>Gibbs</surname>
+</string-name>. <year>2019</year>. &#x0201c;<article-title>Acute Effects of Aerobic Exercise Duration on Blood Pressure, Pulse Wave Velocity and Cerebral Blood Flow Velocity in Middle&#x02010;Aged Adults</article-title>.&#x0201d; <source>Sport Science Health</source>
+<volume>15</volume>: <fpage>647</fpage>&#x02013;<lpage>658</lpage>. <pub-id pub-id-type="doi">10.1007/s11332-019-00566-w</pub-id>.</mixed-citation></ref><ref id="brb370636-bib-0030"><mixed-citation publication-type="journal" id="brb370636-cite-0030">
+<string-name>
+<surname>Pereira</surname>, <given-names>A. C.</given-names>
+</string-name>, <string-name>
+<given-names>D. E.</given-names>
+<surname>Huddleston</surname>
+</string-name>, <string-name>
+<given-names>A. M.</given-names>
+<surname>Brickman</surname>
+</string-name>, et&#x000a0;al. <year>2007</year>. &#x0201c;<article-title>An In Vivo Correlate of Exercise&#x02010;Induced Neurogenesis in the Adult Dentate Gyrus</article-title>.&#x0201d; <source>Proceedings of the National Academy of Sciences of the United States of America</source>
+<volume>104</volume>: <fpage>5638</fpage>&#x02013;<lpage>5643</lpage>. <pub-id pub-id-type="doi">10.1073/PNAS.0611721104/SUPPL_FILE/11721FIG5.PDF</pub-id>.<pub-id pub-id-type="pmid">17374720</pub-id>
+</mixed-citation></ref><ref id="brb370636-bib-0031"><mixed-citation publication-type="journal" id="brb370636-cite-0031">
+<string-name>
+<surname>Prince</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<given-names>G.&#x02010;C.</given-names>
+<surname>Ali</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Guerchet</surname>
+</string-name>, <string-name>
+<given-names>A. M.</given-names>
+<surname>Prina</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Albanese</surname>
+</string-name>, and <string-name>
+<given-names>Y.&#x02010;T.</given-names>
+<surname>Wu</surname>
+</string-name>. <year>2016</year>. &#x0201c;<article-title>Recent Global Trends in the Prevalence and Incidence of Dementia, and Survival With Dementia</article-title>.&#x0201d; <source>Alzheimer's Research &#x00026; Therapy</source>
+<volume>8</volume>: <fpage>23</fpage>. <pub-id pub-id-type="doi">10.1186/s13195-016-0188-8</pub-id>.</mixed-citation></ref><ref id="brb370636-bib-0032"><mixed-citation publication-type="journal" id="brb370636-cite-0032">
+<string-name>
+<surname>Rodriguez&#x02010;Ayllon</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Solis&#x02010;Urra</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Arroyo&#x02010;&#x000c1;vila</surname>
+</string-name>, et&#x000a0;al. <year>2024</year>. &#x0201c;<article-title>Physical Activity and Amyloid Beta in Middle&#x02010;Aged and Older Adults: A Systematic Review and Meta&#x02010;Analysis</article-title>.&#x0201d; <source>Journal of Sport and Health Science</source>
+<volume>13</volume>: <fpage>133</fpage>&#x02013;<lpage>144</lpage>. <pub-id pub-id-type="doi">10.1016/j.jshs.2023.08.001</pub-id>.<pub-id pub-id-type="pmid">37558161</pub-id>
+</mixed-citation></ref><ref id="brb370636-bib-0033"><mixed-citation publication-type="journal" id="brb370636-cite-0033">
+<string-name>
+<surname>Rogers</surname>, <given-names>R. L.</given-names>
+</string-name>, <string-name>
+<given-names>J. S.</given-names>
+<surname>Meyer</surname>
+</string-name>, and <string-name>
+<given-names>K. F</given-names>
+<surname>Mortel</surname>
+</string-name>. <year>1990</year>. &#x0201c;<article-title>After Reaching Retirement Age Physical Activity Sustains Cerebral Perfusion and Cognition</article-title>.&#x0201d; <source>Journal of the American Geriatrics Society</source>
+<volume>38</volume>: <fpage>123</fpage>&#x02013;<lpage>128</lpage>. <pub-id pub-id-type="doi">10.1111/j.1532-5415.1990.tb03472.x</pub-id>.<pub-id pub-id-type="pmid">2299115</pub-id>
+</mixed-citation></ref><ref id="brb370636-bib-0034"><mixed-citation publication-type="journal" id="brb370636-cite-0034">
+<string-name>
+<surname>Schultz</surname>, <given-names>S. A.</given-names>
+</string-name>, <string-name>
+<given-names>J. F.</given-names>
+<surname>Strain</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Adedokun</surname>
+</string-name>, et&#x000a0;al. <year>2020</year>. &#x0201c;<article-title>Serum Neurofilament Light Chain Levels Are Associated With White Matter Integrity in Autosomal Dominant Alzheimer's disease</article-title>.&#x0201d; <source>Neurobiology of Disease</source>
+<volume>142</volume>: <elocation-id>104960</elocation-id>. <pub-id pub-id-type="doi">10.1016/J.NBD.2020.104960</pub-id>.<pub-id pub-id-type="pmid">32522711</pub-id>
+</mixed-citation></ref><ref id="brb370636-bib-0035"><mixed-citation publication-type="journal" id="brb370636-cite-0035">
+<string-name>
+<surname>Solis&#x02010;Urra</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Molina&#x02010;Hidalgo</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Garc&#x000ed;a&#x02010;Rivero</surname>
+</string-name>, et&#x000a0;al. <year>2023</year>. &#x0201c;<article-title>Active Gains in Brain Using Exercise During Aging (AGUEDA): Protocol for a Randomized Controlled Trial</article-title>.&#x0201d; <source>Frontiers in Human Neuroscience</source>
+<volume>17</volume>: <elocation-id>1168549</elocation-id>. <pub-id pub-id-type="doi">10.3389/FNHUM.2023.1168549/FULL</pub-id>.<pub-id pub-id-type="pmid">37284481</pub-id>
+</mixed-citation></ref><ref id="brb370636-bib-0036"><mixed-citation publication-type="journal" id="brb370636-cite-0036">
+<string-name>
+<surname>Steventon</surname>, <given-names>J. J.</given-names>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Foster</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Furby</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Helme</surname>
+</string-name>, <string-name>
+<given-names>R. G.</given-names>
+<surname>Wise</surname>
+</string-name>, and <string-name>
+<given-names>K.</given-names>
+<surname>Murphy</surname>
+</string-name>. <year>2020</year>. &#x0201c;<article-title>Hippocampal Blood Flow Is Increased After 20 Min of Moderate&#x02010;Intensity Exercise</article-title>.&#x0201d; <source>Cerebral Cortex</source>
+<volume>30</volume>: <fpage>525</fpage>&#x02013;<lpage>533</lpage>. <pub-id pub-id-type="doi">10.1093/cercor/bhz104</pub-id>.<pub-id pub-id-type="pmid">31216005</pub-id>
+</mixed-citation></ref><ref id="brb370636-bib-0037"><mixed-citation publication-type="journal" id="brb370636-cite-0037">
+<string-name>
+<surname>Swain</surname>, <given-names>R. A.</given-names>
+</string-name>, <string-name>
+<given-names>A. B.</given-names>
+<surname>Harris</surname>
+</string-name>, <string-name>
+<given-names>E. C.</given-names>
+<surname>Wiener</surname>
+</string-name>, et&#x000a0;al. <year>2003</year>. &#x0201c;<article-title>Prolonged Exercise Induces Angiogenesis and Increases Cerebral Blood Volume in Primary Motor Cortex of the Rat</article-title>.&#x0201d; <source>Neuroscience</source>
+<volume>117</volume>: <fpage>1037</fpage>&#x02013;<lpage>1046</lpage>. <pub-id pub-id-type="doi">10.1016/S0306-4522(02)00664-4</pub-id>.<pub-id pub-id-type="pmid">12654355</pub-id>
+</mixed-citation></ref><ref id="brb370636-bib-0038"><mixed-citation publication-type="journal" id="brb370636-cite-0038">
+<string-name>
+<surname>V&#x000e1;zquez&#x02010;Morej&#x000f3;n Jim&#x000e9;nez</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Jim&#x000e9;nez Garc&#x000ed;a&#x02010;B&#x000f3;veda</surname>
+</string-name>, and <string-name>
+<given-names>A. J.</given-names>
+<surname>V&#x000e1;zquez Morej&#x000f3;n</surname>
+</string-name>. <year>2004</year>. &#x0201c;<article-title>Escala de Autoestima de Rosenberg: Fiabilidad y Validez en poblaci&#x000f3;n cl&#x000ed;nica espa&#x000f1;ola</article-title>.&#x0201d; <source>Apuntes De Psicolog&#x000ed;a</source>
+<volume>22</volume>: <fpage>247</fpage>&#x02013;<lpage>255</lpage>.</mixed-citation></ref><ref id="brb370636-bib-0039"><mixed-citation publication-type="journal" id="brb370636-cite-0039">
+<string-name>
+<surname>Vints</surname>, <given-names>W. A. J.</given-names>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>G&#x000f6;k&#x000e7;e</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>&#x00160;eikinait&#x00117;</surname>
+</string-name>, et&#x000a0;al. <year>2024</year>. &#x0201c;<article-title>Resistance Training's Impact on Blood Biomarkers and Cognitive Function in Older Adults With Low and High Risk of Mild Cognitive Impairment: A Randomized Controlled Trial</article-title>.&#x0201d; <source>European Review of Aging and Physical Activity</source>
+<volume>21</volume>: <fpage>9</fpage>. <pub-id pub-id-type="doi">10.1186/s11556-024-00344-9</pub-id>.<pub-id pub-id-type="pmid">38600451</pub-id>
+</mixed-citation></ref><ref id="brb370636-bib-0040"><mixed-citation publication-type="journal" id="brb370636-cite-0040">
+<string-name>
+<surname>Voss</surname>, <given-names>M. W.</given-names>
+</string-name>, <string-name>
+<given-names>T. B.</given-names>
+<surname>Weng</surname>
+</string-name>, <string-name>
+<given-names>A. Z.</given-names>
+<surname>Burzynska</surname>
+</string-name>, et&#x000a0;al. <year>2016</year>. &#x0201c;<article-title>Fitness, but Not Physical Activity, Is Related to Functional Integrity of Brain Networks Associated With Aging</article-title>.&#x0201d; <source>NeuroImage</source>
+<volume>131</volume>: <fpage>113</fpage>. <pub-id pub-id-type="doi">10.1016/J.NEUROIMAGE.2015.10.044</pub-id>.<pub-id pub-id-type="pmid">26493108</pub-id>
+</mixed-citation></ref><ref id="brb370636-bib-0041"><mixed-citation publication-type="journal" id="brb370636-cite-0041">
+<string-name>
+<surname>Zelazo</surname>, <given-names>P. D.</given-names>
+</string-name>, <string-name>
+<given-names>J. E.</given-names>
+<surname>Anderson</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Richler</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Wallner&#x02010;Allen</surname>
+</string-name>, <string-name>
+<given-names>J. L.</given-names>
+<surname>Beaumont</surname>
+</string-name>, and <string-name>
+<given-names>S.</given-names>
+<surname>Weintraub</surname>
+</string-name>. <year>2013</year>. &#x0201c;<article-title>NIH Toolbox Cognition Battery (CB): Measuring Executive Function and Attention</article-title>.&#x0201d; <source>Monographs of the Society for Research in Child Development</source>
+<volume>78</volume>: <fpage>16</fpage>&#x02013;<lpage>33</lpage>. <pub-id pub-id-type="doi">10.1111/mono.12032</pub-id>.<pub-id pub-id-type="pmid">23952200</pub-id>
+</mixed-citation></ref><ref id="brb370636-bib-0042"><mixed-citation publication-type="journal" id="brb370636-cite-0042">
+<string-name>
+<surname>Zeng</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Sehrawat</surname>
+</string-name>, et&#x000a0;al. <year>2024</year>. &#x0201c;<article-title>Alzheimer Blood Biomarkers: Practical Guidelines for Study Design, Sample Collection, Processing, Biobanking, Measurement and Result Reporting</article-title>.&#x0201d; <source>Molecular Neurodegeneration</source>
+<volume>19</volume>: <fpage>40</fpage>. <pub-id pub-id-type="doi">10.1186/s13024-024-00711-1</pub-id>.<pub-id pub-id-type="pmid">38750570</pub-id>
+</mixed-citation></ref><ref id="brb370636-bib-0043"><mixed-citation publication-type="journal" id="brb370636-cite-0043">
+<string-name>
+<surname>Zlokovic</surname>, <given-names>B. V.</given-names>
+</string-name>
+<year>2011</year>. &#x0201c;<article-title>Neurovascular Pathways to Neurodegeneration in Alzheimer's Disease and Other Disorders</article-title>.&#x0201d; <source>Nature Reviews Neuroscience</source>
+<volume>12</volume>: <fpage>723</fpage>&#x02013;<lpage>738</lpage>. <pub-id pub-id-type="doi">10.1038/nrn3114</pub-id>.<pub-id pub-id-type="pmid">22048062</pub-id>
+</mixed-citation></ref></ref-list></back></article>

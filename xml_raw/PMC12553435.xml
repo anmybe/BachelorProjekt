@@ -1,0 +1,1166 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="jah311179" xml:lang="en" article-type="research-article"><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jats-oasis2jats3.xsl?><?ConverterInfo.Version 1?><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Am Heart Assoc</journal-id><journal-id journal-id-type="iso-abbrev">J Am Heart Assoc</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2047-9980</journal-id><journal-id journal-id-type="publisher-id">JAH3</journal-id><journal-id journal-id-type="hwp">ahaoa</journal-id><journal-title-group><journal-title>Journal of the American Heart Association: Cardiovascular and Cerebrovascular Disease</journal-title></journal-title-group><issn pub-type="epub">2047-9980</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmcid">12553435</article-id><article-id pub-id-type="pmid">40847481</article-id>
+<article-id pub-id-type="doi">10.1161/JAHA.124.041190</article-id><article-id pub-id-type="publisher-id">JAH311179</article-id><article-id pub-id-type="other">JAHA/2025/041190-T</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject><subj-group subj-group-type="heading"><subject>Preventive Cardiology</subject></subj-group></subj-group></article-categories><title-group><article-title>Effect of <styled-content style="fixed-case" toggle="no">PCSK9</styled-content> Inhibition With Alirocumab in Patients With Probable Familial Hypercholesterolemia or Type <styled-content style="fixed-case" toggle="no">III</styled-content> Hyperlipoproteinemia: Results From the <styled-content style="fixed-case" toggle="no">ODYSSEY OUTCOMES</styled-content> Trial</article-title><alt-title alt-title-type="right-running-head">Alirocumab in Likely Genetic Forms of Dyslipidemia</alt-title><alt-title alt-title-type="left-running-head">Geba et&#x000a0;al</alt-title></title-group><contrib-group><contrib id="jah311179-cr-0001" contrib-type="author"><name><surname>Geba</surname><given-names>Gregory P.</given-names></name><degrees>MD, DrPH</degrees><xref rid="jah311179-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jah311179-cr-0002" contrib-type="author"><name><surname>Mohammadi</surname><given-names>Kusha A.</given-names></name><degrees>PhD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-7844-7537</contrib-id><xref rid="jah311179-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jah311179-cr-0003" contrib-type="author"><name><surname>Damask</surname><given-names>Amy</given-names></name><degrees>PhD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4995-908X</contrib-id><xref rid="jah311179-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jah311179-cr-0004" contrib-type="author"><name><surname>Paulding</surname><given-names>Charles</given-names></name><degrees>PhD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-7918-3561</contrib-id><xref rid="jah311179-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jah311179-cr-0005" contrib-type="author"><name><surname>Lotta</surname><given-names>Luca A.</given-names></name><degrees>MD, PhD</degrees><xref rid="jah311179-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jah311179-cr-0006" contrib-type="author"><name><surname>Hindy</surname><given-names>George</given-names></name><degrees>MD, PhD</degrees><xref rid="jah311179-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jah311179-cr-0007" contrib-type="author"><name><surname>Pordy</surname><given-names>Robert</given-names></name><degrees>MD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8001-6795</contrib-id><xref rid="jah311179-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jah311179-cr-0008" contrib-type="author"><name><surname>Manvelian</surname><given-names>Garen</given-names></name><degrees>MD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5491-1032</contrib-id><xref rid="jah311179-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jah311179-cr-0009" contrib-type="author"><name><surname>Shapiro</surname><given-names>Michael D.</given-names></name><degrees>DO, MCR</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-9071-3287</contrib-id><xref rid="jah311179-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="jah311179-cr-0010" contrib-type="author"><name><surname>Bittner</surname><given-names>Vera A.</given-names></name><degrees>MD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-9456-850X</contrib-id><xref rid="jah311179-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="jah311179-cr-0011" contrib-type="author"><name><surname>Bhatt</surname><given-names>Deepak L.</given-names></name><degrees>MD, MPH, MBA</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1278-6245</contrib-id><xref rid="jah311179-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="jah311179-cr-0012" contrib-type="author"><name><surname>Szarek</surname><given-names>Michael</given-names></name><degrees>PhD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-0046-0264</contrib-id><xref rid="jah311179-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="jah311179-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref><xref rid="jah311179-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib id="jah311179-cr-0013" contrib-type="author"><name><surname>Schwartz</surname><given-names>Gregory G.</given-names></name><degrees>MD, PhD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2954-0695</contrib-id><xref rid="jah311179-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib id="jah311179-cr-0014" contrib-type="author"><name><surname>Steg</surname><given-names>Ph. Gabriel</given-names></name><degrees>MD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6896-2941</contrib-id><xref rid="jah311179-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib id="jah311179-cr-0015" contrib-type="author" corresp="yes"><name><surname>Fazio</surname><given-names>Sergio</given-names></name><degrees>MD, PhD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8145-8034</contrib-id><xref rid="jah311179-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>sergio.fazio@regeneron.com</email></address></contrib></contrib-group><aff id="jah311179-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<institution>Regeneron Pharmaceuticals, Inc.</institution>
+<city>Tarrytown</city>
+<named-content content-type="country-part">NY</named-content>
+<country country="US">USA</country>
+</aff><aff id="jah311179-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Section of Cardiovascular Medicine, Department of Internal Medicine</named-content>
+<institution>Wake Forest School of Medicine</institution>
+<city>Winston&#x02010;Salem</city>
+<named-content content-type="country-part">NC</named-content>
+<country country="US">USA</country>
+</aff><aff id="jah311179-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Division of Cardiovascular Disease</named-content>
+<institution>University of Alabama at Birmingham</institution>
+<city>Birmingham</city>
+<named-content content-type="country-part">AL</named-content>
+<country country="US">USA</country>
+</aff><aff id="jah311179-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Mount Sinai Fuster Heart Hospital</named-content>
+<institution>Icahn School of Medicine at Mount Sinai</institution>
+<city>New York</city>
+<named-content content-type="country-part">NY</named-content>
+<country country="US">USA</country>
+</aff><aff id="jah311179-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">CPC Clinical Research and Division of Cardiology</named-content>
+<institution>University of Colorado School of Medicine</institution>
+<city>Aurora</city>
+<named-content content-type="country-part">CO</named-content>
+<country country="US">USA</country>
+</aff><aff id="jah311179-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">State University of New York</named-content>
+<institution>Downstate Health Sciences University</institution>
+<city>Brooklyn</city>
+<named-content content-type="country-part">NY</named-content>
+<country country="US">USA</country>
+</aff><aff id="jah311179-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">Division of Cardiology</named-content>
+<institution>University of Colorado School of Medicine</institution>
+<city>Aurora</city>
+<named-content content-type="country-part">CO</named-content>
+<country country="US">USA</country>
+</aff><aff id="jah311179-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<named-content content-type="organisation-division">Department of Cardiology</named-content>
+<institution>Universit&#x000e9; Paris&#x02010;Cit&#x000e9;, Institut Universitaire de France, Assistance Publique&#x02010;H&#x000f4;pitaux de Paris, H&#x000f4;pital Bichat, FACT (French Alliance for Cardiovascular Trials), and INSERM U1148</institution>
+<city>Paris</city>
+<country country="FR">France</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+Correspondence to: Sergio Fazio, MD, PhD, Regeneron Pharmaceuticals, Inc., 777 Old Saw Mill River Road, Tarrytown, NY, 10591. Email: <email>sergio.fazio@regeneron.com</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>22</day><month>8</month><year>2025</year></pub-date><pub-date pub-type="collection"><day>02</day><month>9</month><year>2025</year></pub-date><volume>14</volume><issue seq="300">17</issue><issue-id pub-id-type="doi">10.1002/jah3.v14.17</issue-id><elocation-id>e041190</elocation-id><history>
+<date date-type="received"><day>14</day><month>3</month><year>2025</year></date>
+<date date-type="accepted"><day>11</day><month>6</month><year>2025</year></date>
+</history><permissions><!--Copyright &#x000a9; 2025 The Authors. Published on behalf of the American Heart Association, Inc., by Wiley Blackwell--><copyright-statement content-type="article-copyright">&#x000a9; 2025 The Authors and Regeneron Pharmaceuticals, Inc. Published on behalf of the American Heart Association, Inc., by Wiley.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:JAH3-14-e041190.pdf"/><abstract><sec id="jah311179-sec-0001"><title>Background</title><p>In this post hoc analysis of the ODYSSEY OUTCOMES (Evaluation of Cardiovascular Outcomes After an Acute Coronary Syndrome During Treatment With Alirocumab) trial, we evaluated the efficacy of alirocumab in patients with probable heterozygous familial hypercholesterolemia (HeFH) or type III hyperlipoproteinemia (T3HLP).</p></sec><sec id="jah311179-sec-0002"><title>Methods</title><p>Patients had clinical HeFH if baseline low&#x02010;density lipoprotein cholesterol was &#x02265;250 mg/dL and the qualifying acute coronary syndrome event occurred before age 55 (men) or 60&#x02009;years (women), or if baseline low&#x02010;density lipoprotein cholesterol was &#x02265;330 mg/dL. Patients had T3HLP if the ratio, validated using the UK Biobank database, of non&#x02013;high&#x02010;density lipoprotein cholesterol/apolipoprotein B was &#x0003e;2.6. Genetic variation affecting low&#x02010;density lipoprotein cholesterol levels (HeFH) and <italic toggle="no">APOE</italic> genotypes (T3HLP) was assessed in a pharmacogenomics subgroup.</p></sec><sec id="jah311179-sec-0003"><title>Results</title><p>In total, 5.8% of patients from ODYSSEY OUTCOMES and 5.9% from the pharmacogenomics subgroup qualified as having clinical HeFH. In the pharmacogenomics subgroup, 295 patients (2.5%) had genetically confirmed HeFH; 45.8% also qualified as having clinical HeFH. Lipid responses and clinical benefits of alirocumab were similar in all patients with or without HeFH. In the ODYSSEY OUTCOMES cohort, 30 of 18&#x02009;924 patients (0.16%) were identified as having T3HLP. The pharmacogenomics subgroup included 13 of these 30 patients, of whom 7 (53.8%) were <italic toggle="no">APOE2/2</italic> homozygotes. Lipid responses to alirocumab in patients with T3HLP were comparable with those in the general population. In those with genetic dyslipidemia, adverse event incidence was similar to the overall group.</p></sec><sec id="jah311179-sec-0004"><title>Conclusions</title><p>In ODYSSEY OUTCOMES, individuals with HeFH were common while those with T3HLP were rare. In their lipid responses, carriers of both conditions benefited from alirocumab.</p></sec><sec id="jah311179-sec-0050"><title>Registration</title><p>URL: <ext-link xlink:href="https://clinicaltrials.gov/" ext-link-type="uri">https://clinicaltrials.gov</ext-link>; Unique identifier: NCT01663402.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jah311179-kwd-0001">alirocumab</kwd><kwd id="jah311179-kwd-0002">heterozygous familial hypercholesterolemia</kwd><kwd id="jah311179-kwd-0003">LDL&#x02010;C</kwd><kwd id="jah311179-kwd-0004">type III hyperlipoproteinemia</kwd></kwd-group><kwd-group kwd-group-type="subject-categories"><title>Subject Categories</title><kwd>Genetics</kwd></kwd-group><counts><fig-count count="2"/><table-count count="6"/><page-count count="12"/><word-count count="8500"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>02 September 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.6.4 mode:remove_FC converted:29.09.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group id="jah311179-ntgp-0001"><fn id="jah311179-note-0001"><p>This manuscript was sent to Samuel S. Gidding, MD, Guest Editor, for review by expert referees, editorial decision, and final disposition.</p></fn><fn id="jah311179-note-0002"><p>Supplemental Material is available at <ext-link xlink:href="https://www.ahajournals.org/doi/suppl/10.1161/JAHA.124.041190" ext-link-type="uri">https://www.ahajournals.org/doi/suppl/10.1161/JAHA.124.041190</ext-link>
+</p></fn><fn id="jah311179-note-0003"><p>For Sources of Funding and Disclosures, see page 11.</p></fn></fn-group></notes></front><body id="jah311179-body-0001"><def-list list-content="abbreviations" id="jah311179-dl-0001"><title>Nonstandard Abbreviations and Acronyms</title><def-item><term id="jah311179-li-0001">DLCN</term><def id="jah311179-li-0002"><p>Dutch Lipid Clinic Network</p></def></def-item><def-item><term id="jah311179-li-0003">FH</term><def id="jah311179-li-0004"><p>familial hypercholesterolemia</p></def></def-item><def-item><term id="jah311179-li-0005">HeFH</term><def id="jah311179-li-0006"><p>heterozygous familial hypercholesterolemia</p></def></def-item><def-item><term id="jah311179-li-0007">LDLR</term><def id="jah311179-li-0008"><p>low&#x02010;density lipoprotein receptor</p></def></def-item><def-item><term id="jah311179-li-0009">LLT</term><def id="jah311179-li-0010"><p>lipid&#x02010;lowering therapy</p></def></def-item><def-item><term id="jah311179-li-0011">MACE</term><def id="jah311179-li-0012"><p>major adverse cardiovascular event</p></def></def-item><def-item><term id="jah311179-li-0013">ODYSSEY OUTCOMES</term><def id="jah311179-li-0014"><p>Evaluation of Cardiovascular Outcomes After an Acute Coronary Syndrome During Treatment With Alirocumab</p></def></def-item><def-item><term id="jah311179-li-0015">PCSK9</term><def id="jah311179-li-0016"><p>proprotein convertase subtilisin/kexin type 9</p></def></def-item><def-item><term id="jah311179-li-0017">pLoF</term><def id="jah311179-li-0018"><p>predicted loss&#x02010;of&#x02010;function</p></def></def-item><def-item><term id="jah311179-li-0019">PRS</term><def id="jah311179-li-0020"><p>polygenic risk score</p></def></def-item><def-item><term id="jah311179-li-0021">SPIRE</term><def id="jah311179-li-0022"><p>Studies of PCSK9 Inhibition and the Reduction of Vascular Events</p></def></def-item><def-item><term id="jah311179-li-0023">T3HLP</term><def id="jah311179-li-0024"><p>type III hyperlipoproteinemia</p></def></def-item></def-list><p>
+<boxed-text position="anchor" content-type="box" id="jah311179-blkfxd-0001"><caption><title>Clinical Perspective</title></caption><sec id="jah311179-sec-0007"><title>What Is New?</title><p>
+<list list-type="bullet" id="jah311179-list-0001"><list-item id="jah311179-li-0025"><p>Our results demonstrate that alirocumab, a proprotein convertase subtilisin/kexin type 9 monoclonal antibody, markedly reduces atherogenic lipid levels; our results also suggest reducing cardiovascular risk in patients with probable heterozygous familial hypercholesterolemia or type III hyperlipoproteinemia.</p></list-item></list>
+</p></sec><sec id="jah311179-sec-0008"><title>What Are the Clinical Implications?</title><p>
+<list list-type="bullet" id="jah311179-list-0002"><list-item id="jah311179-li-0026"><p>Marked reductions in atherogenic lipids were also seen in patients with type III hyperlipoproteinemia treated with alirocumab versus placebo.</p></list-item><list-item id="jah311179-li-0027"><p>Proprotein convertase subtilisin/kexin type 9 monoclonal antibodies are already indicated for use in patients with heterozygous familial hypercholesterolemia, but their use and utility in patients with type III hyperlipoproteinemia should also be recognized.</p></list-item></list>
+</p></sec></boxed-text>
+</p><p>PCSK9 (Proprotein convertase subtilisin/kexin type 9) inhibiting monoclonal antibodies, which increase expression of the low&#x02010;density lipoprotein receptor (LDLR), effectively reduce low&#x02010;density lipoprotein cholesterol (LDL&#x02010;C) levels even in patients with heterozygous familial hypercholesterolemia (HeFH), whose LDLR function is diminished.<xref rid="jah311179-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="jah311179-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> However, while outcome trials that confirmed the clinical benefits of the 2 available antibodies did not specifically target patients with HeFH, it is likely that many participants had this condition given the study entry requirement (LDL&#x02010;C &#x0003e;70 mg/dL on maximally tolerated, high&#x02010;potency lipid&#x02010;lowering therapy [LLT] and preexisting coronary artery disease).<xref rid="jah311179-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="jah311179-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> Several useful diagnostic criteria have been developed for the clinical diagnosis of familial hypercholesterolemia (FH).<xref rid="jah311179-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="jah311179-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="jah311179-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> One of the main tools was developed by the Dutch Lipid Clinic Network (DLCN), which uses a scoring system (3&#x02013;5, possible FH; 6&#x02013;8, probable FH; and &#x0003e;8, definite FH) to predict the likelihood of FH in the absence of genetic information.<xref rid="jah311179-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> Because large trials do not usually collect much of the information needed for the DLCN score (ie, xanthomas, arcus, detailed family history, or genetic data), retrospective attribution of FH status must rely on the presence of LDL&#x02010;C levels (&#x02265;250&#x02013;330 mg/dL [adds 5 points]; &#x02265;330 mg/dL [adds 8 points]),<xref rid="jah311179-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> and the presence of premature coronary artery disease (adds 2 points). While it is difficult to extract off&#x02010;treatment data in those who have been receiving long&#x02010;term statin therapy, methods to back&#x02010;calculate off&#x02010;treatment LDL&#x02010;C levels based on type and dose of statin have been used and validated.<xref rid="jah311179-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>
+</p><p>Type III hyperlipoproteinemia (T3HLP) is another genetic dyslipidemia often misdiagnosed as common hypercholesterolemia or combined hyperlipidemia. T3HLP develops due to a variant in the gene for apolipoprotein E (Apo E) (<italic toggle="yes">APOE</italic>), resulting in impaired processing and clearance of lipoprotein remnants, thus causing their accumulation in plasma.<xref rid="jah311179-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> The most common genetic basis is homozygosity for the variant of <italic toggle="yes">APOE</italic> called <italic toggle="yes">APOE2</italic>,<xref rid="jah311179-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> although many sporadic cases have been reported as secondary to rare <italic toggle="yes">APOE</italic> variants in the heterozygous state.<xref rid="jah311179-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="jah311179-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="jah311179-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>
+</p><p>Although several statins are approved by the US Food and Drug Administration for the treatment of T3HLP,<xref rid="jah311179-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="jah311179-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="jah311179-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="jah311179-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="jah311179-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> PCSK9 inhibitors have not yet produced evidence of benefits for this condition. Just like HeFH, T3HLP is more rigorously and accurately diagnosed with a genetic test but, unlike HeFH, its genotype only rarely produces dyslipidemia (because of low penetrance), and its phenotype is not easily identified solely on the basis of the standard lipid panel (often diagnosed as common combined dyslipidemia). Several biomarker levels and ratios have been adopted for the identification of T3HLP without the need for genetic testing,<xref rid="jah311179-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="jah311179-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="jah311179-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="jah311179-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> although most are neither specific nor sensitive enough for a diagnosis without knowledge of the <italic toggle="yes">APOE</italic> genotype status.</p><p>The ODYSSEY OUTCOMES trial was a phase 3, randomized, placebo&#x02010;controlled, multicenter study designed to compare the efficacy of alirocumab versus placebo on cardiovascular outcomes among patients with recent acute coronary syndrome (ACS) on intensive or maximally tolerated statin therapy.<xref rid="jah311179-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> A total of 18&#x02009;924 patients were randomized, and the study met the primary end point of a 15% reduction in major adverse cardiovascular events (MACEs) in the treatment group versus placebo (hazard ratio [HR], 0.85 [95% CI, 0.73&#x02013;0.98]).</p><p>In this post hoc analysis, we used established and novel biomarkers to identify patients from the ODYSSEY OUTCOMES trial who may have been affected by HeFH or T3HLP, and to determine the efficacy of alirocumab on their lipid parameters and, for HeFH, cardiovascular outcomes.</p><sec sec-type="methods" id="jah311179-sec-0009"><title>Methods</title><sec sec-type="data-availability" id="jah311179-sec-0010"><title>Data Availability Statement</title><p>Qualified researchers may request access to study documents (including the clinical study report, study protocol with any amendments, blank case report form, and statistical analysis plan) that support the methods and findings reported in this article. Individual anonymized participant data will be considered for sharing (1) once the product and indication has been approved by major health authorities (eg, Food and Drug Administration, European Medicines Agency, Pharmaceutical and Medical Devices Agency) or development of the product has been discontinued globally for all indications on or after April 2020 and there are no plans for future development, (2) if there is legal authority to share the data, and (3) if there is not a reasonable likelihood of participant reidentification. Submit requests to <ext-link xlink:href="https://vivli.org/" ext-link-type="uri">https://vivli.org/</ext-link>.</p></sec><sec id="jah311179-sec-1010"><title>Study Design and Participants</title><p>The primary efficacy and safety results for the ODYSSEY OUTCOMES trial have been published.<xref rid="jah311179-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> In brief, the trial consisted of patients aged &#x02265;40&#x02009;years who had been hospitalized with ACS 1 to 12 months before randomization and had LDL&#x02010;C levels &#x02265;70 mg/dL (1.81&#x02009;mmol/L), non&#x02013;high&#x02010;density lipoprotein cholesterol (HDL&#x02010;C) levels &#x02265;100 mg/dL (2.59&#x02009;mmol/L), or apolipoprotein B (Apo B) levels &#x02265;80 mg/dL after at least 2&#x02009;weeks of stable LLTs. Patients were randomly assigned (1:1) to blinded treatment with subcutaneous alirocumab 75 mg or matching placebo every 2&#x02009;weeks. The dose of alirocumab was adjusted under blinded conditions to target an LDL&#x02010;C level of 25&#x02013;50 mg/dL (0.6&#x02013;1.3&#x02009;mmol/L).</p></sec><sec id="jah311179-sec-0011"><title>
+<styled-content style="fixed-case" toggle="no">HeFH</styled-content> Study Population</title><p>To identify patients with HeFH in the ODYSSEY OUTCOMES trial, the DLCN criteria were used.<xref rid="jah311179-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> As most patients were already on statins, the untreated LDL&#x02010;C concentration was calculated using the adjustment factor provided in the supporting documentation for the DLCN tool.<xref rid="jah311179-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="jah311179-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> Untreated LDL&#x02010;C was calculated using LLT&#x02010;specific adjustment factors with a formula that was previously validated.<xref rid="jah311179-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="jah311179-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> Back&#x02010;calculated, untreated LDL&#x02010;C and the presence of early&#x02010;onset coronary artery disease (age &#x0003c;55&#x02009;years in men and &#x0003c;60&#x02009;years in women) were the 2 criteria used to assess the DLCN score for each participant. We defined an individual as having HeFH if the DLCN score categorized them as having at least probable HeFH (DLCN score &#x02265;6).</p></sec><sec id="jah311179-sec-0012"><title>Ethics Statement</title><p>This study was approved by the institutional review board/independent ethics committee, and was conducted in accordance with the principles of the Declaration of Helsinki, the Council for International Organizations of Medical Sciences International Ethical Guidelines, and the International Conference on Harmonization Good Clinical Practice guidelines. All patients provided written informed consent before participation.</p></sec><sec id="jah311179-sec-0013"><title>Pharmacogenetic Analysis and Development of <styled-content style="fixed-case" toggle="no">LDL</styled-content>&#x02010;C Polygenic Risk Score</title><p>A pharmacogenetic analysis was conducted in a subset of the patients from the ODYSSEY OUTCOMES study. A total of 11&#x02009;880 patients provided consent to participate in this post hoc analysis and had a DNA sample that passed quality&#x02010;control measures. Patient samples were genotyped with the Illumina Global Screening Array, version 1.0 (Illumina, Inc., San Diego, CA) and underwent whole exome sequencing on the NovaSeq 6000 platform (Illumina, Inc.) with the xGen version 3.0 capture kit (IDT, Coralville, IA). Population structure was assessed using principal component analysis with plink version 1.9 (<ext-link xlink:href="http://cog.genomics.org" ext-link-type="uri">Cog.genomics.org</ext-link>).<xref rid="jah311179-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="jah311179-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> Eigenvalues (axes of variation) from the top 10 principal components from this analysis were used as covariates in any subsequent genetic analyses. Genotype imputation was conducted with Minimac4<xref rid="jah311179-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="jah311179-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> with the TOPMed imputation panel.<xref rid="jah311179-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>
+</p><p>Source data for the polygenic risk score (PRS) was a meta&#x02010;analysis of genome&#x02010;wide association studies of lipid levels, comprising 188&#x02009;577 individuals.<xref rid="jah311179-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref> The effect size estimates from this analysis were trained in an independent population (UK Biobank, 439&#x02009;997 individuals with LDL&#x02010;C measures) to identify the optimal algorithm (maximum <italic toggle="yes">r</italic>
+<xref rid="jah311179-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> between the LDL&#x02010;C PRS and measured LDL&#x02010;C levels). The LDPred algorithm<xref rid="jah311179-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> with a &#x003c1; value of 0.01 was selected. The weights derived from the LDPred algorithm, comprising up to 2&#x02009;019&#x02009;264 variants, were used to calculate the LDL&#x02010;C PRS in the ODYSSEY OUTCOMES population.</p><p>Genetic variants from the whole exome sequencing platform were evaluated to identify variants linked with HeFH.<xref rid="jah311179-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> Identified variants met 1 of the following criteria: (1) ClinVar<xref rid="jah311179-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref> (July 2023 download) variant with an associated disease/condition of hypercholesterolemia and a review status of &#x02265;1 star (variants with a 1&#x02010;star rating due to conflicting reports of pathogenicity were removed if &#x02265;50% of the submissions did not report the variant as pathogenic or likely pathogenic); (2) predicted loss of function in <italic toggle="yes">LDLR</italic> (ie, a nonsense or splicing variant in <italic toggle="yes">LDLR</italic>); and (3) a copy number variant (ie, deletion) in <italic toggle="yes">LDLR</italic>. All variants had a minor allele frequency of &#x0003c;0.01. Predicted loss&#x02010;of&#x02010;function variants are expected to alter protein function (eg, frameshift, splice acceptor, splice donor, start lost, stop gained).</p></sec><sec id="jah311179-sec-0014"><title>
+<styled-content style="fixed-case" toggle="no">T3HLP</styled-content> Study Population</title><p>Patients with T3HLP were identified through a screening tool metric proposed by Murase et&#x000a0;al.<xref rid="jah311179-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> Using the baseline measurements of non&#x02013;HDL&#x02010;C and Apo B levels, T3HLP was defined as a non&#x02013;HDL&#x02010;C/Apo B ratio of &#x02265;2.6. The initial validation was done using the large cohort of the UK Biobank (n=487&#x02009;553), which has both phenotypic and genetic data (<italic toggle="yes">APOE</italic> genotypes). The UK Biobank is a population&#x02010;based prospective study that recruited individuals aged 40 to 69&#x02009;years between 2006 and 2010.<xref rid="jah311179-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> The generation of the UK Biobank genotyping array and quality control was previously described.<xref rid="jah311179-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref> The TOPMed reference panel was used for genome&#x02010;wide imputation.<xref rid="jah311179-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="jah311179-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>
+</p></sec><sec id="jah311179-sec-0015"><title>Assessments</title><p>Baseline characteristics for patients with HeFH and T3HLP were assessed. Changes in LDL&#x02010;C, HDL&#x02010;C, triglycerides, total cholesterol, and Apo B after treatment with alirocumab were evaluated from baseline to month 48. Changes in lipoprotein (a) after treatment with alirocumab were evaluated from baseline to month 12. MACEs (defined as the composite of death from coronary heart disease, nonfatal myocardial infarction, fatal or nonfatal ischemic stroke, and unstable angina requiring hospitalization) after treatment with alirocumab were assessed in patients with HeFH and T3HLP.</p></sec><sec id="jah311179-sec-0016"><title>Statistical Analysis</title><p>Continuous variables were summarized using mean&#x000b1;SD or median (interquartile range). For categorical or ordinal variables, frequencies and percentages were provided. Baseline characteristics were summarized by HeFH and T3HLP status. Additionally, changes in LDL&#x02010;C, HDL&#x02010;C, triglycerides, total cholesterol, Apo B, and lipoprotein (a) were summarized using descriptive statistics. Efficacy data were summarized by treatment arms for MACE outcomes in subgroups of HeFH and T3HLP. The proportion difference and 95% CIs were reported for descriptive purposes to make within&#x02010;group comparisons in patients with and without HeFH. Treatment HRs and 95% CIs were estimated using a Cox proportional hazard model, stratified by geographic region. A <italic toggle="yes">P</italic> value for interaction was calculated to assess the heterogeneity of treatment differences in subgroups by HeFH status. The proportional hazard assumptions were checked via the Schoenfeld test, and the influential observations were examined through the &#x0201c;difference in the estimates of &#x003b2;&#x0201d; values. The cumulative incidence of MACEs over time was estimated using Kaplan&#x02013;Meier methods by treatment group. Due to the low sample size of patients with T3HLP, we provided only the incidence for descriptive comparisons by treatment arm and T3HLP status. In the genetic analyses, a linear regression model adjusting for age, sex, and 10 principal components were used to evaluate the relationship between the LDL&#x02010;C PRS and LLT&#x02010;adjusted (using the DLCN documentation noted above) baseline LDL&#x02010;C measures. All analyses were done in SAS 9.4 (SAS Institute, Cary, NC), plink 1.9/2.0, and R 4.1.2 (R Foundation for Statistical Computing, Vienna, Austria).</p></sec></sec><sec sec-type="results" id="jah311179-sec-0017"><title>Results</title><sec id="jah311179-sec-0018"><title>
+<styled-content style="fixed-case" toggle="no">HeFH</styled-content> Patient Population and Genetic Confirmation</title><p>Table&#x000a0;<xref rid="jah311179-tbl-0001" ref-type="table">1</xref> describes the demographics and baseline characteristics of all patients in the ODYSSEY OUTCOMES trial. Overall, the mean&#x000b1;SD age of all patients was 58.6&#x000b1;9.3&#x02009;years, and the majority were men (75%) and White individuals (79%). The mean age of patients with HeFH was significantly lower than that of patients without HeFH (53.3&#x000b1;8.2 and 58.9&#x000b1;9.3&#x02009;years, respectively; <italic toggle="yes">P</italic>&#x0003c;0.0001). Of the 18&#x02009;924 patients in the ODYSSEY OUTCOMES study, 4.5% had probable HeFH and 1.3% had definite HeFH at baseline (Table&#x000a0;<xref rid="jah311179-tbl-0001" ref-type="table">1</xref>). Within the pharmacogenomics subgroup, 63% of the original trial cohort (11&#x02009;880/18924) had genetic data available for analysis; of these, 4.4% had probable HeFH and 1.5% had definite HeFH at baseline (Figure&#x000a0;<xref rid="jah311179-supitem-0001" ref-type="supplementary-material">S1</xref>).</p><table-wrap position="float" id="jah311179-tbl-0001" content-type="Table"><label>Table 1</label><caption><p>Demographics and Baseline Characteristics by FH Status</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Characteristic</th><th align="left" rowspan="1" colspan="1">Patients without HeFH (n=17&#x02009;826)</th><th align="left" rowspan="1" colspan="1">Patients with HeFH (n=1098)</th><th align="left" rowspan="1" colspan="1">Overall (N=18&#x02009;924)</th></tr></thead><tbody><tr><td align="left" colspan="4" rowspan="1">Treatment assignment, n (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Alirocumab</td><td align="left" rowspan="1" colspan="1">8911 (50)</td><td align="left" rowspan="1" colspan="1">551 (50)</td><td align="left" rowspan="1" colspan="1">9462 (50)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Placebo</td><td align="left" rowspan="1" colspan="1">8915 (50)</td><td align="left" rowspan="1" colspan="1">547 (50)</td><td align="left" rowspan="1" colspan="1">9462 (50)</td></tr><tr><td align="left" rowspan="1" colspan="1">Age, y, mean&#x000b1;SD</td><td align="left" rowspan="1" colspan="1">58.9&#x000b1;9.3</td><td align="left" rowspan="1" colspan="1">53.3&#x000b1;8.2</td><td align="left" rowspan="1" colspan="1">58.6&#x000b1;9.3</td></tr><tr><td align="left" colspan="4" rowspan="1">Sex, n (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Male</td><td align="left" rowspan="1" colspan="1">13&#x02009;451 (75)</td><td align="left" rowspan="1" colspan="1">711 (65)</td><td align="left" rowspan="1" colspan="1">14&#x02009;162 (75)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Female</td><td align="left" rowspan="1" colspan="1">4375 (25)</td><td align="left" rowspan="1" colspan="1">387 (35)</td><td align="left" rowspan="1" colspan="1">4762 (25)</td></tr><tr><td align="left" colspan="4" rowspan="1">Race, n (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">White</td><td align="left" rowspan="1" colspan="1">14&#x02009;145 (79)</td><td align="left" rowspan="1" colspan="1">879 (80)</td><td align="left" rowspan="1" colspan="1">15&#x02009;024 (79)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Black</td><td align="left" rowspan="1" colspan="1">425 (2.4)</td><td align="left" rowspan="1" colspan="1">48 (4.4)</td><td align="left" rowspan="1" colspan="1">473 (2.5)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Asian</td><td align="left" rowspan="1" colspan="1">2376 (13)</td><td align="left" rowspan="1" colspan="1">122 (11)</td><td align="left" rowspan="1" colspan="1">2498 (13)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Other</td><td align="left" rowspan="1" colspan="1">880 (4.9)</td><td align="left" rowspan="1" colspan="1">49 (4.5)</td><td align="left" rowspan="1" colspan="1">929 (4.9)</td></tr><tr><td align="left" rowspan="1" colspan="1">Weight, kg, mean&#x000b1;SD</td><td align="left" rowspan="1" colspan="1">82.5&#x000b1;17.0</td><td align="left" rowspan="1" colspan="1">83.0&#x000b1;17.4</td><td align="left" rowspan="1" colspan="1">82.5&#x000b1;17.0</td></tr><tr><td align="left" rowspan="1" colspan="1">Body mass index, mean&#x000b1;SD</td><td align="left" rowspan="1" colspan="1">28.5&#x000b1;4.9</td><td align="left" rowspan="1" colspan="1">28.9&#x000b1;5.0</td><td align="left" rowspan="1" colspan="1">28.5&#x000b1;4.9</td></tr><tr><td align="left" colspan="4" rowspan="1">Smoking status, n (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Current</td><td align="left" rowspan="1" colspan="1">4236 (24)</td><td align="left" rowspan="1" colspan="1">324 (30)</td><td align="left" rowspan="1" colspan="1">4560 (24)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Former/never</td><td align="left" rowspan="1" colspan="1">13&#x02009;589 (76)</td><td align="left" rowspan="1" colspan="1">774 (70)</td><td align="left" rowspan="1" colspan="1">14&#x02009;363 (76)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Missing</td><td align="left" rowspan="1" colspan="1">1 (&#x0003c;0.1)</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1">1 (&#x0003c;0.1)</td></tr><tr><td align="left" colspan="4" rowspan="1">Drinking status, n (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">3607 (20)</td><td align="left" rowspan="1" colspan="1">182 (17)</td><td align="left" rowspan="1" colspan="1">3789 (20)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">No</td><td align="left" rowspan="1" colspan="1">14&#x02009;214 (80)</td><td align="left" rowspan="1" colspan="1">916 (83)</td><td align="left" rowspan="1" colspan="1">15&#x02009;130 (80)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Missing</td><td align="left" rowspan="1" colspan="1">5 (&#x0003c;0.1)</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1">5 (&#x0003c;0.1)</td></tr><tr><td align="left" colspan="4" rowspan="1">Hypertension status, n (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">11&#x02009;526 (65)</td><td align="left" rowspan="1" colspan="1">723 (66)</td><td align="left" rowspan="1" colspan="1">12&#x02009;249 (65)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">No</td><td align="left" rowspan="1" colspan="1">6299 (35)</td><td align="left" rowspan="1" colspan="1">375 (34)</td><td align="left" rowspan="1" colspan="1">6674 (35)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Missing</td><td align="left" rowspan="1" colspan="1">1 (&#x0003c;0.1)</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1">1 (&#x0003c;0.1)</td></tr><tr><td align="left" rowspan="1" colspan="1">Diabetes at baseline, n (%)</td><td align="left" rowspan="1" colspan="1">5125 (29)</td><td align="left" rowspan="1" colspan="1">319 (29)</td><td align="left" rowspan="1" colspan="1">5444 (29)</td></tr><tr><td align="left" colspan="4" rowspan="1">Region of enrollment, n (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Asia</td><td align="left" rowspan="1" colspan="1">2179 (12)</td><td align="left" rowspan="1" colspan="1">114 (10)</td><td align="left" rowspan="1" colspan="1">2293 (12)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Eastern Europe</td><td align="left" rowspan="1" colspan="1">4994 (28)</td><td align="left" rowspan="1" colspan="1">443 (40)</td><td align="left" rowspan="1" colspan="1">5437 (29)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">North America</td><td align="left" rowspan="1" colspan="1">2695 (15)</td><td align="left" rowspan="1" colspan="1">176 (16)</td><td align="left" rowspan="1" colspan="1">2871 (15)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Rest of world</td><td align="left" rowspan="1" colspan="1">1484 (8.3)</td><td align="left" rowspan="1" colspan="1">76 (6.9)</td><td align="left" rowspan="1" colspan="1">1560 (8.2)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">South America</td><td align="left" rowspan="1" colspan="1">2475 (14)</td><td align="left" rowspan="1" colspan="1">113 (10)</td><td align="left" rowspan="1" colspan="1">2588 (14)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Western Europe</td><td align="left" rowspan="1" colspan="1">3999 (22)</td><td align="left" rowspan="1" colspan="1">176 (16)</td><td align="left" rowspan="1" colspan="1">4175 (22)</td></tr><tr><td align="left" rowspan="1" colspan="1">Apolipoprotein A1, mg/dL, median (IQR)</td><td align="left" rowspan="1" colspan="1">131.0 (117.0&#x02013;147.0)</td><td align="left" rowspan="1" colspan="1">136.0 (120.0&#x02013;153.0)</td><td align="left" rowspan="1" colspan="1">131.0 (118.0&#x02013;147.0)</td></tr><tr><td align="left" rowspan="1" colspan="1">Lipoprotein (a), mg/dL, median (IQR)</td><td align="left" rowspan="1" colspan="1">20.7 (6.6&#x02013;59.3)</td><td align="left" rowspan="1" colspan="1">27.0 (7.3&#x02013;68.4)</td><td align="left" rowspan="1" colspan="1">21.1 (6.7&#x02013;59.8)</td></tr><tr><td align="left" rowspan="1" colspan="1">Total cholesterol, mg/dL, median (IQR)</td><td align="left" rowspan="1" colspan="1">157.5 (141.0&#x02013;178.0)</td><td align="left" rowspan="1" colspan="1">234.2 (211.0&#x02013;263.7)</td><td align="left" rowspan="1" colspan="1">159.8 (142.0&#x02013;182.6)</td></tr><tr><td align="left" rowspan="1" colspan="1">LDL&#x02010;C, mg/dL, median (IQR)</td><td align="left" rowspan="1" colspan="1">84.9 (72.2&#x02013;100.0)</td><td align="left" rowspan="1" colspan="1">154.8 (134.4&#x02013;179.0)</td><td align="left" rowspan="1" colspan="1">86.5 (73.0&#x02013;104.0)</td></tr><tr><td align="left" rowspan="1" colspan="1">HDL&#x02010;C, mg/dL, median (IQR)</td><td align="left" rowspan="1" colspan="1">42.5 (36.3&#x02013;50.0)</td><td align="left" rowspan="1" colspan="1">44.4 (37.5&#x02013;52.5)</td><td align="left" rowspan="1" colspan="1">42.5 (36.3&#x02013;50.2)</td></tr><tr><td align="left" rowspan="1" colspan="1">Triglycerides, mg/dL, median (IQR)</td><td align="left" rowspan="1" colspan="1">127.4 (93.0&#x02013;180.0)</td><td align="left" rowspan="1" colspan="1">156.8 (114.2&#x02013;209.7)</td><td align="left" rowspan="1" colspan="1">129.2 (94.0&#x02013;182.0)</td></tr><tr><td align="left" rowspan="1" colspan="1">Hemoglobin A<sub>1c</sub>, %, median (IQR)</td><td align="left" rowspan="1" colspan="1">5.8 (5.5&#x02013;6.3)</td><td align="left" rowspan="1" colspan="1">5.8 (5.5&#x02013;6.3)</td><td align="left" rowspan="1" colspan="1">5.8 (5.5&#x02013;6.3)</td></tr><tr><td align="left" colspan="4" rowspan="1">FH diagnosis, n (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Unlikely (DLCN score &#x0003c;3)</td><td align="left" rowspan="1" colspan="1">12&#x02009;619 (71)</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1">12&#x02009;616 (67)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Possible (DLCN score 3&#x02013;5)</td><td align="left" rowspan="1" colspan="1">5207 (29)</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1">5207 (28)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Probable (DLCN score 6&#x02013;8)</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1">854 (78)</td><td align="left" rowspan="1" colspan="1">854 (4.5)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Definite (DLCN score &#x0003e;8)</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1">244 (22)</td><td align="left" rowspan="1" colspan="1">244 (1.3)</td></tr><tr><td align="left" rowspan="1" colspan="1">DLCN score, mean&#x000b1;SD</td><td align="left" rowspan="1" colspan="1">1.7&#x000b1;1.5</td><td align="left" rowspan="1" colspan="1">7.1&#x000b1;1.3</td><td align="left" rowspan="1" colspan="1">2.0&#x000b1;1.9</td></tr></tbody></table><table-wrap-foot id="jah311179-ntgp-0002"><fn id="jah311179-note-0004"><p>DLCN indicates Dutch Lipid Clinic Network; FH, familial hypercholesterolemia; HDL&#x02010;C, high&#x02010;density lipoprotein cholesterol; HeFH, heterozygous familial hypercholesterolemia; IQR, interquartile range; and LDL&#x02010;C, low&#x02010;density lipoprotein cholesterol.</p></fn><fn id="jah311179-note-1004"><p>"Other" includes: Hawaiian/Pacific Islander, Alaska Native/American Indian, mixed race, unknown, prefer not to answer.</p></fn></table-wrap-foot></table-wrap><p>Genetic studies in the pharmacogenomics subgroup of patients revealed overall low genotype&#x02013;phenotype concordance, as previously reported.<xref rid="jah311179-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>, <xref rid="jah311179-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>, <xref rid="jah311179-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref> A total of 295 patients were identified as having a hypercholesterolemia&#x02010;associated variant, and 45.8% of these patients met the criteria for probable (26.8%) or definite (19.0%) HeFH by clinical assessment alone (ie, LLT&#x02010;adjusted baseline LDL&#x02010;C or age at qualifying ACS event). The majority (n=281) of the identified genetic variants was annotated in ClinVar, including 46 of the 51 predicted loss&#x02010;of&#x02010;function (pLoF) variants in <italic toggle="yes">LDLR</italic>. Five patients had an LDLR pLoF not previously submitted to ClinVar (all 5 pLoFs were frameshift variants meeting FH variant curation expert panel consensus guidelines, ie, ClinGen of &#x0201c;very strong pathogenic&#x0201d; criteria),<xref rid="jah311179-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> and <italic toggle="yes">LDLR</italic> copy number deletions were identified in 10 patients, summing to a total of 296 variants among the 295 carriers. Patients with loss&#x02010;of&#x02010;function variants (ie, pLoFs and copy number deletions) tended to have higher baseline LDL&#x02010;C levels (Table&#x000a0;<xref rid="jah311179-supitem-0001" ref-type="supplementary-material">S1</xref>). Overall, variants in <italic toggle="yes">LDLR</italic> comprised the majority of FH&#x02010;associated variants; however, 25% of individuals with genetic FH carried variants in <italic toggle="yes">APOB</italic>. Among patients allocated to the alirocumab treatment arm, individuals with FH&#x02010;associated pLoF mutations (eg, nonsense, frameshift, splicing variants, or copy number deletions) showed a mean percentage decrease from baseline to month 4 in LDL&#x02010;C of 58.9%, comparable with the decreases in carriers of FH&#x02010;associated missense mutations (54.4%) and noncarriers (59.4%).</p><p>There was an enrichment in genetic HeFH carriers among patients with clinically defined probable (n=528) and definite (n=173) HeFH; the percentage of patients with genetic HeFH increased to 15.0% (n=79/528) and 32.4% (n=56/173), respectively. We applied a PRS for LDL&#x02010;C to explore genotype&#x02013;phenotype concordance. Individuals in the top 10% of LDL&#x02010;C PRS were &#x02248;28% more likely to meet the clinical criteria for probable or definite HeFH (7.6% of individuals in the top 10% by PRS qualified as having probable HeFH versus 5.9% in the overall pharmacogenomics cohort). Conversely, carriers of genetic HeFH were 7.8 times more likely to meet clinical HeFH criteria (probable/definite HeFH was observed in 45.8% of genetic HeFH carriers versus 5.9% overall). While individuals with higher PRS scores have greater risk of recurrent cardiovascular events, the risk is of far lesser magnitude in comparison with carriers of FH variants.</p></sec><sec id="jah311179-sec-0019"><title>Effect of Alirocumab on Lipid Levels in the <styled-content style="fixed-case" toggle="no">HeFH</styled-content> Population</title><p>Patients with HeFH treated with alirocumab experienced marked reductions in LDL&#x02010;C, non&#x02013;HDL&#x02010;C, and Apo B levels from baseline to month 48 (Figure&#x000a0;<xref rid="jah311179-fig-0001" ref-type="fig">1</xref>). Although substantial reductions in lipid levels were observed for patients with both HeFH and non&#x02010;FH, lipid levels for patients with HeFH remained consistently higher for the study duration (Figure&#x000a0;<xref rid="jah311179-fig-0001" ref-type="fig">1</xref>). A reduction in lipoprotein (a) levels also was observed for patients with both HeFH and non&#x02010;FH treated with alirocumab (Figure&#x000a0;<xref rid="jah311179-supitem-0001" ref-type="supplementary-material">S2</xref>).</p><fig position="float" fig-type="Figure" id="jah311179-fig-0001"><label>Figure 1</label><caption><title>Changes in (A) LDL&#x02010;C, (B) non&#x02013;HDL&#x02010;C, and (C)&#x000a0;Apo B over time in patients with versus those without HeFH.</title><p>Apo B indicates apolipoprotein B; HDL&#x02010;C, high&#x02010;density lipoprotein cholesterol; HeFH, heterozygous familial hypercholesterolemia; and LDL&#x02010;C, low&#x02010;density lipoprotein cholesterolApo B indicates apolipoprotein B; HDL&#x02010;C, high&#x02010;density lipoprotein cholesterol; HeFH, heterozygous familial hypercholesterolemia; and LDL&#x02010;C, low&#x02010;density lipoprotein cholesterol</p></caption><graphic xlink:href="JAH3-14-e041190-g002" position="anchor" id="jats-graphic-1"/></fig></sec><sec id="jah311179-sec-0020"><title>Effect of Alirocumab on <styled-content style="fixed-case" toggle="no">MACEs</styled-content> in the <styled-content style="fixed-case" toggle="no">HeFH</styled-content> Population</title><p>During a median 2.8&#x02009;years of follow&#x02010;up, the incidence of MACEs was higher in placebo&#x02010;treated patients with HeFH than in those without HeFH. The MACE relative risk reduction with alirocumab was consistent among those with (HR, 0.85 [95% CI, 0.61&#x02013;1.19]) and without HeFH (HR, 0.85 [95% CI, 0.77&#x02013;0.93]; <italic toggle="yes">P</italic> for interaction=0.8328; Table&#x000a0;<xref rid="jah311179-tbl-0002" ref-type="table">2</xref>; model assumptions were verified, see Figure&#x000a0;<xref rid="jah311179-supitem-0001" ref-type="supplementary-material">S3</xref>). Of note, the absolute risk reduction was numerically larger in patients with HeFH compared with those without. The cumulative incidence of MACEs in patients with HeFH is shown in Figure&#x000a0;<xref rid="jah311179-supitem-0001" ref-type="supplementary-material">S4</xref>. The incidence of other key secondary end points according to treatment group and HeFH status is summarized in Table&#x000a0;<xref rid="jah311179-supitem-0001" ref-type="supplementary-material">S2</xref> and indicates that the relative benefit of alirocumab did not depend on HeFH status.</p><table-wrap position="float" id="jah311179-tbl-0002" content-type="Table"><label>Table 2</label><caption><p>Summary of MACEs in Subgroups of Patients With and Without HeFH</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">End point</th><th align="left" rowspan="1" colspan="1">Subgroup</th><th align="left" rowspan="1" colspan="1">Placebo, n/N (%)</th><th align="left" rowspan="1" colspan="1">Alirocumab, n/N (%)</th><th align="left" rowspan="1" colspan="1">RD, % (95% CI)</th><th align="left" rowspan="1" colspan="1">HR (95% CI)</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">P</italic> for interaction</th></tr></thead><tbody><tr><td align="left" rowspan="4" colspan="1">MACE<xref rid="jah311179-note-0007" ref-type="table-fn">*</xref>
+</td><td align="left" rowspan="1" colspan="1">All patients</td><td align="left" rowspan="1" colspan="1">1052/9462 (11.1)</td><td align="left" rowspan="1" colspan="1">903/9462 (9.5)</td><td align="left" rowspan="1" colspan="1">1.57 (0.7&#x02013;2.45)</td><td align="left" rowspan="1" colspan="1">0.85 (0.78&#x02013;0.93)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">HeFH status</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">0.8328</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">HeFH</td><td align="left" rowspan="1" colspan="1">78/547 (14.3)</td><td align="left" rowspan="1" colspan="1">67/551 (12.2)</td><td align="left" rowspan="1" colspan="1">2.1 (&#x02212;2.09&#x02013;6.29)</td><td align="left" rowspan="1" colspan="1">0.85 (0.61&#x02013;1.19)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Without HeFH</td><td align="left" rowspan="1" colspan="1">974/8915 (10.9)</td><td align="left" rowspan="1" colspan="1">836/8911 (9.4)</td><td align="left" rowspan="1" colspan="1">1.54 (0.65&#x02013;2.44)</td><td align="left" rowspan="1" colspan="1">0.85 (0.77&#x02013;0.93)</td><td align="left" rowspan="1" colspan="1"/></tr></tbody></table><table-wrap-foot id="jah311179-ntgp-0003"><fn id="jah311179-note-0005"><p>The <italic toggle="yes">P</italic> values for interaction given are the <italic toggle="yes">P</italic> values for the interaction term in the Cox proportional hazard model. The proportional hazard model assumptions were shown to hold, and no influential observations were identified for any of the analyses (Figure&#x000a0;<xref rid="jah311179-supitem-0001" ref-type="supplementary-material">S3</xref>).</p></fn><fn id="jah311179-note-0006"><p>HeFH indicates heterozygous familial hypercholesterolemia; HR, hazard ratio; MACE, major adverse cardiovascular event; and RD, risk difference.</p></fn><fn id="jah311179-note-0007"><label>*</label><p>MACE is defined as composite of death from coronary heart disease, nonfatal myocardial infarction, fatal or nonfatal ischemic stroke, or unstable angina requiring hospitalization.</p></fn></table-wrap-foot></table-wrap><p>A similar proportion of placebo&#x02010; and alirocumab&#x02010;treated patients with HeFH reported serious treatment&#x02010;emergent adverse events (26.4% and 24.1%, respectively), and the incidence of adverse events among patients with HeFH was similar to that of the overall ODYSSEY OUTCOMES cohort.</p></sec><sec id="jah311179-sec-0021"><title>
+<styled-content style="fixed-case" toggle="no">T3HLP</styled-content> Patient Population and Genetic Confirmation</title><p>Patients with T3HLP were identified using a previously published but not yet validated T3HLP biomarker (ratio of non&#x02013;HDL&#x02010;C/Apo B &#x0003e;2.6). Applying the T3HLP biomarker to the UK Biobank database validated its specificity (99%) and sensitivity (89%) to diagnose T3HLP among carriers of the diagnostic <italic toggle="yes">APOE2/2</italic> genotype. A summary of lipid parameters according to <italic toggle="yes">APOE</italic> haplotype from the UK Biobank database is provided in Table&#x000a0;<xref rid="jah311179-tbl-0003" ref-type="table">3</xref>.</p><table-wrap position="float" id="jah311179-tbl-0003" content-type="Table"><label>Table 3</label><caption><p>Summary of Lipid Parameters by <italic toggle="no">APOE</italic> Haplotype From the UK Biobank Database</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Haplotype</th><th align="left" rowspan="1" colspan="1">No.</th><th align="left" rowspan="1" colspan="1">VLDL&#x02010;C/triglycerides &#x0003e;0.3, n (%)</th><th align="left" rowspan="1" colspan="1">Triglycerides &#x0003e;150 mg/dL + TC &#x0003e;240 mg/dL + VLDL&#x02010;C/triglycerides &#x0003e;0.3, n (%)</th><th align="left" rowspan="1" colspan="1">Non&#x02013;HDL&#x02010;C/apolipoprotein B &#x0003e;2.6, n (%)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">e2e2</td><td align="left" rowspan="1" colspan="1">3117</td><td align="left" rowspan="1" colspan="1">12 (0.4)</td><td align="left" rowspan="1" colspan="1">3 (0.1)</td><td align="left" rowspan="1" colspan="1">328 (12.27)</td></tr><tr><td align="left" rowspan="1" colspan="1">e2e3</td><td align="left" rowspan="1" colspan="1">59&#x02009;261</td><td align="left" rowspan="1" colspan="1">1460 (2.8)</td><td align="left" rowspan="1" colspan="1">13 (0.02)</td><td align="left" rowspan="1" colspan="1">12 (0.023)</td></tr><tr><td align="left" rowspan="1" colspan="1">e2e4</td><td align="left" rowspan="1" colspan="1">12&#x02009;107</td><td align="left" rowspan="1" colspan="1">420 (4)</td><td align="left" rowspan="1" colspan="1">1 (0.01)</td><td align="left" rowspan="1" colspan="1">5 (0.048)</td></tr><tr><td align="left" rowspan="1" colspan="1">e3e3</td><td align="left" rowspan="1" colspan="1">286&#x02009;905</td><td align="left" rowspan="1" colspan="1">18&#x02009;768 (7.5)</td><td align="left" rowspan="1" colspan="1">203 (0.08)</td><td align="left" rowspan="1" colspan="1">18 (0.007)</td></tr><tr><td align="left" rowspan="1" colspan="1">e3e4</td><td align="left" rowspan="1" colspan="1">114&#x02009;588</td><td align="left" rowspan="1" colspan="1">9110 (9.1)</td><td align="left" rowspan="1" colspan="1">123 (0.11)</td><td align="left" rowspan="1" colspan="1">7 (0.007)</td></tr><tr><td align="left" rowspan="1" colspan="1">e4e4</td><td align="left" rowspan="1" colspan="1">11&#x02009;575</td><td align="left" rowspan="1" colspan="1">1036 (10.3)</td><td align="left" rowspan="1" colspan="1">19 (0.18)</td><td align="left" rowspan="1" colspan="1">0 (0)</td></tr><tr><td align="left" rowspan="1" colspan="1">Total</td><td align="left" rowspan="1" colspan="1">487&#x02009;553</td><td align="left" rowspan="1" colspan="1">30&#x02009;806 (7.3)</td><td align="left" rowspan="1" colspan="1">362 (0.08)</td><td align="left" rowspan="1" colspan="1">374 (0.088)</td></tr></tbody></table><table-wrap-foot id="jah311179-ntgp-0004"><fn id="jah311179-note-0008"><p>HDL&#x02010;C, high&#x02010;density lipoprotein cholesterol; LDL&#x02010;C, low&#x02010;density lipoprotein cholesterol; TC, total cholesterol, and VLDL&#x02010;C, very&#x02010;low&#x02010;density lipoprotein cholesterol.</p></fn></table-wrap-foot></table-wrap><p>When the validated biomarker was applied to the ODYSSEY OUTCOMES cohort, only 30 patients qualified for the diagnosis of T3HLP, of whom 22 had been assigned to receive alirocumab. Baseline characteristics according to T3HLP status are summarized in Table&#x000a0;<xref rid="jah311179-tbl-0004" ref-type="table">4</xref>.</p><table-wrap position="float" id="jah311179-tbl-0004" content-type="Table"><label>Table 4</label><caption><p>Demographics and Baseline Characteristics by T3HLP Status</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Characteristic</th><th align="left" rowspan="1" colspan="1">Patients without T3HLP (n=18&#x02009;894)</th><th align="left" rowspan="1" colspan="1">Patients with T3HLP (n=30)</th><th align="left" rowspan="1" colspan="1">Overall (N=18&#x02009;924)</th></tr></thead><tbody><tr><td align="left" colspan="4" rowspan="1">Treatment assignment, n (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Alirocumab</td><td align="left" rowspan="1" colspan="1">9440 (50)</td><td align="left" rowspan="1" colspan="1">22 (73)</td><td align="left" rowspan="1" colspan="1">9462 (50)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Placebo</td><td align="left" rowspan="1" colspan="1">9454 (50)</td><td align="left" rowspan="1" colspan="1">8 (27)</td><td align="left" rowspan="1" colspan="1">9462 (50)</td></tr><tr><td align="left" rowspan="1" colspan="1">Age, y, mean&#x000b1;SD</td><td align="left" rowspan="1" colspan="1">58.6&#x000b1;9.3</td><td align="left" rowspan="1" colspan="1">60.3&#x000b1;9.8</td><td align="left" rowspan="1" colspan="1">58.6&#x000b1;9.3</td></tr><tr><td align="left" colspan="4" rowspan="1">Sex, n (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Male</td><td align="left" rowspan="1" colspan="1">14&#x02009;141 (75)</td><td align="left" rowspan="1" colspan="1">21 (70)</td><td align="left" rowspan="1" colspan="1">14&#x02009;162 (75)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Female</td><td align="left" rowspan="1" colspan="1">4753 (25)</td><td align="left" rowspan="1" colspan="1">9 (30)</td><td align="left" rowspan="1" colspan="1">4762 (25)</td></tr><tr><td align="left" colspan="4" rowspan="1">Race, n (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">White</td><td align="left" rowspan="1" colspan="1">14&#x02009;999 (79)</td><td align="left" rowspan="1" colspan="1">25 (83)</td><td align="left" rowspan="1" colspan="1">15&#x02009;024 (79)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Black</td><td align="left" rowspan="1" colspan="1">472 (2.5)</td><td align="left" rowspan="1" colspan="1">1 (3.3)</td><td align="left" rowspan="1" colspan="1">473 (2.5)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Asian</td><td align="left" rowspan="1" colspan="1">2495 (13)</td><td align="left" rowspan="1" colspan="1">3 (10)</td><td align="left" rowspan="1" colspan="1">2498 (13)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Other</td><td align="left" rowspan="1" colspan="1">928 (4.9)</td><td align="left" rowspan="1" colspan="1">1 (3.3)</td><td align="left" rowspan="1" colspan="1">929 (4.9)</td></tr><tr><td align="left" rowspan="1" colspan="1">Weight, kg, mean&#x000b1;SD</td><td align="left" rowspan="1" colspan="1">82.5&#x000b1;17.0</td><td align="left" rowspan="1" colspan="1">81.3&#x000b1;12.4</td><td align="left" rowspan="1" colspan="1">82.5&#x000b1;17.0</td></tr><tr><td align="left" rowspan="1" colspan="1">Body mass index, mean&#x000b1;SD</td><td align="left" rowspan="1" colspan="1">28.5&#x000b1;4.9</td><td align="left" rowspan="1" colspan="1">27.8&#x000b1;3.8</td><td align="left" rowspan="1" colspan="1">28.5&#x000b1;4.9</td></tr><tr><td align="left" colspan="4" rowspan="1">Smoking status, n (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Current</td><td align="left" rowspan="1" colspan="1">4553 (24)</td><td align="left" rowspan="1" colspan="1">7 (23)</td><td align="left" rowspan="1" colspan="1">4560 (24)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Former/never</td><td align="left" rowspan="1" colspan="1">14&#x02009;340 (76)</td><td align="left" rowspan="1" colspan="1">23 (77)</td><td align="left" rowspan="1" colspan="1">14&#x02009;363 (76)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Missing</td><td align="left" rowspan="1" colspan="1">1 (&#x0003c;0.1)</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1">1 (&#x0003c;0.1)</td></tr><tr><td align="left" colspan="4" rowspan="1">Drinking status, n (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">3782 (20)</td><td align="left" rowspan="1" colspan="1">7 (23)</td><td align="left" rowspan="1" colspan="1">3789 (20)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">No</td><td align="left" rowspan="1" colspan="1">15&#x02009;107 (80)</td><td align="left" rowspan="1" colspan="1">23 (77)</td><td align="left" rowspan="1" colspan="1">15&#x02009;130 (80)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Missing</td><td align="left" rowspan="1" colspan="1">5 (&#x0003c;0.1)</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1">5 (&#x0003c;0.1)</td></tr><tr><td align="left" colspan="4" rowspan="1">Hypertension status, n (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">12&#x02009;225 (65)</td><td align="left" rowspan="1" colspan="1">24 (80)</td><td align="left" rowspan="1" colspan="1">12&#x02009;249 (65)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">No</td><td align="left" rowspan="1" colspan="1">6668 (35)</td><td align="left" rowspan="1" colspan="1">6 (20)</td><td align="left" rowspan="1" colspan="1">6674 (35)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Missing</td><td align="left" rowspan="1" colspan="1">1 (&#x0003c;0.1)</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1">1 (&#x0003c;0.1)</td></tr><tr><td align="left" rowspan="1" colspan="1">Diabetes at baseline, n (%)</td><td align="left" rowspan="1" colspan="1">5441 (29)</td><td align="left" rowspan="1" colspan="1">3 (10)</td><td align="left" rowspan="1" colspan="1">5444 (29)</td></tr><tr><td align="left" colspan="4" rowspan="1">Region of enrollment, n (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Asia</td><td align="left" rowspan="1" colspan="1">2290 (12)</td><td align="left" rowspan="1" colspan="1">3 (10)</td><td align="left" rowspan="1" colspan="1">2293 (12)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Eastern Europe</td><td align="left" rowspan="1" colspan="1">5421 (29)</td><td align="left" rowspan="1" colspan="1">16 (53)</td><td align="left" rowspan="1" colspan="1">5437 (29)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">North America</td><td align="left" rowspan="1" colspan="1">2869 (15)</td><td align="left" rowspan="1" colspan="1">2 (6.7)</td><td align="left" rowspan="1" colspan="1">2871 (15)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Rest of world</td><td align="left" rowspan="1" colspan="1">1558 (8.2)</td><td align="left" rowspan="1" colspan="1">2 (6.7)</td><td align="left" rowspan="1" colspan="1">1560 (8.2)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">South America</td><td align="left" rowspan="1" colspan="1">2588 (14)</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1">2588 (14)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Western Europe</td><td align="left" rowspan="1" colspan="1">4168 (22)</td><td align="left" rowspan="1" colspan="1">7 (23)</td><td align="left" rowspan="1" colspan="1">4175 (22)</td></tr><tr><td align="left" rowspan="1" colspan="1">Apolipoprotein A1, mg/dL, median (IQR)</td><td align="left" rowspan="1" colspan="1">131.0 (118.0&#x02013;147.0)</td><td align="left" rowspan="1" colspan="1">131.5 (113.3&#x02013;147.3)</td><td align="left" rowspan="1" colspan="1">131.0 (118.0&#x02013;147.0)</td></tr><tr><td align="left" rowspan="1" colspan="1">Lipoprotein (a), mg/dL, median (IQR)</td><td align="left" rowspan="1" colspan="1">21.1 (6.7&#x02013;59.8)</td><td align="left" rowspan="1" colspan="1">6.7 (2.0&#x02013;15.8)</td><td align="left" rowspan="1" colspan="1">21.1 (6.7&#x02013;59.8)</td></tr><tr><td align="left" rowspan="1" colspan="1">Total cholesterol, mg/dL, median (IQR)</td><td align="left" rowspan="1" colspan="1">159.5 (142.0&#x02013;182.6)</td><td align="left" rowspan="1" colspan="1">220.7 (169.5&#x02013;246.5)</td><td align="left" rowspan="1" colspan="1">159.8 (142.0&#x02013;182.6)</td></tr><tr><td align="left" rowspan="1" colspan="1">LDL&#x02010;C, mg/dL, median (IQR)</td><td align="left" rowspan="1" colspan="1">86.5 (73.0&#x02013;104.0)</td><td align="left" rowspan="1" colspan="1">138.6 (88.5&#x02013;178.3)</td><td align="left" rowspan="1" colspan="1">86.5 (73.0&#x02013;104.0)</td></tr><tr><td align="left" rowspan="1" colspan="1">HDL&#x02010;C, mg/dL, median (IQR)</td><td align="left" rowspan="1" colspan="1">42.5 (36.3&#x02013;50.2)</td><td align="left" rowspan="1" colspan="1">43.6 (38.2&#x02013;57.6)</td><td align="left" rowspan="1" colspan="1">42.5 (36.3&#x02013;50.2)</td></tr><tr><td align="left" rowspan="1" colspan="1">Triglycerides, mg/dL, median (IQR)</td><td align="left" rowspan="1" colspan="1">129.2 (94.0&#x02013;182.0)</td><td align="left" rowspan="1" colspan="1">182.7 (116.8&#x02013;234.5)</td><td align="left" rowspan="1" colspan="1">129.2 (94.0&#x02013;182.0)</td></tr><tr><td align="left" rowspan="1" colspan="1">Hemoglobin A<sub>1c</sub>, %, median (IQR)</td><td align="left" rowspan="1" colspan="1">5.8 (5.5&#x02013;6.3)</td><td align="left" rowspan="1" colspan="1">5.7 (5.4&#x02013;6.0)</td><td align="left" rowspan="1" colspan="1">5.8 (5.5&#x02013;6.3)</td></tr></tbody></table><table-wrap-foot id="jah311179-ntgp-0005"><fn id="jah311179-note-0009"><p>HDL&#x02010;C indicates high&#x02010;density lipoprotein cholesterol; IQR, interquartile range; LDL&#x02010;C, low&#x02010;density lipoprotein cholesterol;; and T3HLP, type III hyperlipoproteinemia.</p></fn></table-wrap-foot></table-wrap><p>In the pharmacogenomics subgroup, 13 patients had the clinical T3HLP phenotype identified with the biomarker, and 7 of these (53.8%) patients had the <italic toggle="yes">APOE2/2</italic> genotype (Table&#x000a0;<xref rid="jah311179-tbl-0005" ref-type="table">5</xref>). Conversely, 23.3% (n=7) of all patients identified with the <italic toggle="yes">APOE2/2</italic> genotype (n=30) presented with the T3HLP biomarker, whereas only 0.05% (n=6) of <italic toggle="yes">APOE2/2</italic> noncarriers (n=11&#x02009;850) were positive for the T3HLP biomarker (Table&#x000a0;<xref rid="jah311179-tbl-0005" ref-type="table">5</xref>; formal statistical analyses not possible due to low numbers). None of the patients with T3HLP without the <italic toggle="yes">APOE2/2</italic> genotype were carriers of genetic variants causing FH (<italic toggle="yes">LDLR</italic>, <italic toggle="yes">PCSK9</italic>, <italic toggle="yes">APOB</italic>) or associated with dyslipidemia (<italic toggle="yes">LCAT</italic>, <italic toggle="yes">CETP</italic>, <italic toggle="yes">ANGPTL3</italic>, <italic toggle="yes">LPL</italic>, <italic toggle="yes">APOC2</italic>, <italic toggle="yes">APOC3</italic>, <italic toggle="yes">APOA5</italic>, <italic toggle="yes">NPC1L1</italic>, or <italic toggle="yes">LRP1</italic>).</p><table-wrap position="float" id="jah311179-tbl-0005" content-type="Table"><label>Table 5</label><caption><p>
+<italic toggle="no">APOE</italic> Haplotypes by T3HLP Criteria Among Patients With T3HLP</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" colspan="1">Haplotype</th><th align="left" colspan="2" rowspan="1">Meets T3HLP criteria</th><th align="left" rowspan="2" colspan="1">Allele carriers with T3HLP, %</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">No</th><th align="left" rowspan="1" colspan="1">Yes</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">e2e2</td><td align="left" rowspan="1" colspan="1">23</td><td align="left" rowspan="1" colspan="1">7</td><td align="left" rowspan="1" colspan="1">23.3</td></tr><tr><td align="left" rowspan="1" colspan="1">e2e3</td><td align="left" rowspan="1" colspan="1">701</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">0.14</td></tr><tr><td align="left" rowspan="1" colspan="1">e2e4</td><td align="left" rowspan="1" colspan="1">160</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">e3e3</td><td align="left" rowspan="1" colspan="1">7560</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">0.03</td></tr><tr><td align="left" rowspan="1" colspan="1">e3e4</td><td align="left" rowspan="1" colspan="1">3124</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">0.06</td></tr><tr><td align="left" rowspan="1" colspan="1">e4e4</td><td align="left" rowspan="1" colspan="1">299</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">0.33</td></tr><tr><td align="left" rowspan="1" colspan="1">Total</td><td align="left" rowspan="1" colspan="1">11&#x02009;867</td><td align="left" rowspan="1" colspan="1">13</td><td align="left" rowspan="1" colspan="1">&#x02013;</td></tr></tbody></table><table-wrap-foot id="jah311179-ntgp-0006"><fn id="jah311179-note-0010"><p>T3HLP indicates type III hyperlipoproteinemia.</p></fn></table-wrap-foot></table-wrap></sec><sec id="jah311179-sec-0022"><title>Effect of Alirocumab on Lipids in the <styled-content style="fixed-case" toggle="no">T3HLP</styled-content> Population</title><p>Treatment with alirocumab markedly lowered mean LDL&#x02010;C, non&#x02013;HDL&#x02010;C, and Apo B levels from baseline to month 48 in patients with T3HLP. The lipid&#x02010;lowering effect was similar to that observed in those without T3HLP (Figure&#x000a0;<xref rid="jah311179-fig-0002" ref-type="fig">2</xref>). Lipoprotein (a) levels for patients with and without T3HLP over time are shown in Figure&#x000a0;<xref rid="jah311179-supitem-0001" ref-type="supplementary-material">S5</xref>.</p><fig position="float" fig-type="Figure" id="jah311179-fig-0002"><label>Figure 2</label><caption><title>Changes in (A) LDL&#x02010;C, (B) non&#x02013;HDL&#x02010;C, and (C) Apo B over time in patients with versus those without T3HLP.</title><p>Apo B indicates apolipoprotein B; HDL&#x02010;C, high&#x02010;density lipoprotein cholesterol; LDL&#x02010;C, low&#x02010;density lipoprotein cholesterol; and T3HLP, type III hyperlipoproteinemia. Apo B indicates apolipoprotein B; HDL&#x02010;C, high&#x02010;density lipoprotein cholesterol; LDL&#x02010;C, low&#x02010;density lipoprotein cholesterol; and T3HLP, type III hyperlipoproteinemia.</p></caption><graphic xlink:href="JAH3-14-e041190-g001" position="anchor" id="jats-graphic-3"/></fig></sec><sec id="jah311179-sec-0023"><title>Effect of Alirocumab on Lipids by <styled-content style="fixed-case" toggle="no">LDL</styled-content>&#x02010;C <styled-content style="fixed-case" toggle="no">PRS</styled-content>
+</title><p>At baseline, the LDL&#x02010;C PRS predicted LLT&#x02010;adjusted mean LDL&#x02010;C levels (Figure&#x000a0;<xref rid="jah311179-supitem-0001" ref-type="supplementary-material">S6</xref>). Figure&#x000a0;<xref rid="jah311179-supitem-0001" ref-type="supplementary-material">S6A</xref> displays a genome&#x02010;wide LDL&#x02010;C PRS including candidate genes (<italic toggle="yes">LDLR</italic>, <italic toggle="yes">PCSK9</italic>, <italic toggle="yes">LPA</italic>, <italic toggle="yes">APOB</italic>, <italic toggle="yes">APOE</italic>, and <italic toggle="yes">HMGCR</italic>). Mean LDL&#x02010;C in the top decile was 195.6 mg/dL versus 169.9 mg/dL in the bottom decile (&#x003b2; per SD 7.1; <italic toggle="yes">P</italic>=2.3&#x000d7;10<sup>&#x02212;40</sup>). The PRS gradient was slightly weakened after removing the candidate gene regions, with mean LDL&#x02010;C levels in the top and bottom deciles of 193.2 mg/dL and 172.0 mg/dL (Figure&#x000a0;<xref rid="jah311179-supitem-0001" ref-type="supplementary-material">S6B</xref>) and with a &#x003b2; per SD of 5.9 (<italic toggle="yes">P</italic>=5.7&#x000d7;10<sup>&#x02212;28</sup>).</p><p>Alirocumab treatment lowered mean LDL&#x02010;C levels irrespective of PRS status; the lipid&#x02010;lowering effect was similar across the top, middle, and bottom deciles (Figure&#x000a0;<xref rid="jah311179-supitem-0001" ref-type="supplementary-material">S7</xref>).</p></sec><sec id="jah311179-sec-0024"><title>Effect of Alirocumab on <styled-content style="fixed-case" toggle="no">MACEs</styled-content> in the <styled-content style="fixed-case" toggle="no">T3HLP</styled-content> Population</title><p>The incidence of MACEs was numerically lower in patients with T3HLP treated with alirocumab versus those treated with placebo (9% versus 25%; Table&#x000a0;<xref rid="jah311179-tbl-0006" ref-type="table">6</xref>). The incidence of other key secondary end points according to treatment group and T3HLP status is summarized in Table&#x000a0;<xref rid="jah311179-supitem-0001" ref-type="supplementary-material">S3</xref>.</p><table-wrap position="float" id="jah311179-tbl-0006" content-type="Table"><label>Table 6</label><caption><p>Summary of MACEs in Subgroups of Patients With and Without T3HLP</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">End point</th><th align="left" rowspan="1" colspan="1">Subgroup</th><th align="left" rowspan="1" colspan="1">Placebo, n/N (%)</th><th align="left" rowspan="1" colspan="1">Alirocumab, n/N (%)</th></tr></thead><tbody><tr><td align="left" rowspan="3" colspan="1">MACEs<xref rid="jah311179-note-0012" ref-type="table-fn">*</xref>
+</td><td align="left" rowspan="1" colspan="1">Overall</td><td align="left" rowspan="1" colspan="1">1052/9462 (11.1)</td><td align="left" rowspan="1" colspan="1">903/9462 (9.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">T3HLP</td><td align="left" rowspan="1" colspan="1">2/8 (25.0)</td><td align="left" rowspan="1" colspan="1">2/22 (9.1)</td></tr><tr><td align="left" rowspan="1" colspan="1">Not T3HLP</td><td align="left" rowspan="1" colspan="1">1050/9454 (11.1)</td><td align="left" rowspan="1" colspan="1">901/9440 (9.5)</td></tr></tbody></table><table-wrap-foot id="jah311179-ntgp-0007"><fn id="jah311179-note-0011"><p>MACE indicates major adverse cardiovascular event; and T3HLP, type III hyperlipoproteinemia.</p></fn><fn id="jah311179-note-0012"><label>*</label><p>MACE is defined as composite of death from coronary heart disease, nonfatal myocardial infarction, fatal or nonfatal ischemic stroke, or unstable angina requiring hospitalization.</p></fn></table-wrap-foot></table-wrap><p>The incidence of treatment&#x02010;emergent adverse events among those with T3HLP was higher with placebo (75.0%) than with alirocumab (50.0%). Serious treatment&#x02010;emergent adverse events were experienced by 1 placebo&#x02010;treated patient (12.5%) and 3 alirocumab&#x02010;treated patients (13.6%), and the incidence of adverse events was not different from that in the overall ODYSSEY OUTCOMES cohort.</p></sec></sec><sec sec-type="discussion" id="jah311179-sec-0025"><title>Discussion</title><p>We investigated the ODYSSEY OUTCOMES database to determine the lipid and clinical responses to alirocumab treatment in 2 groups of patients likely to carry genetic dyslipidemias (HeFH or T3HLP) and increased risk of cardiovascular disease (CVD) events due to lifelong exposure to dyslipidemia. The importance of lifetime exposure to high levels of LDL&#x02010;C is corroborated by our results, which show similar LDL&#x02010;C levels but higher CVD rates among patients with HeFH treated with alirocumab compared with patients without HeFH receiving placebo. Using clinical biomarkers, we determined that &#x02248;6% of the total trial population could be classified as having probable HeFH. This is consistent with the entry criteria for this trial (elevated LDL&#x02010;C on maximally tolerated oral therapy and history of coronary artery disease). In contrast, only 30 patients with T3HLP were identified. This is also consistent with expectations because this condition is rare, recessive, and with low penetrance. Treatment with alirocumab decreased LDL&#x02010;C, non&#x02013;HDL&#x02010;C, and Apo B levels in patients with HeFH or T3HLP to a similar extent compared with the overall study population. This is the first time that effective lipid lowering in patients with T3HLP has been shown with alirocumab or any PCSK9 inhibitor. In addition, patients with HeFH showed similar treatment HR for MACEs compared with the overall study population, although the absolute reduction in risk of MACE was numerically greater in the former group.</p><p>Our results provide additional support for the concept that individuals with ACS and hyperlipidemia may have unrecognized genetic dyslipidemias, conferring a higher risk of CVD events, and that these individuals are responsive to effective LLTs. The younger age of individuals with versus without HeFH in this study, together with the increased rate of MACEs in those with HeFH, highlights the need for early diagnosis of this condition. Our data show an overall modest concordance between genetic and clinical diagnosis of HeFH, with a number needed to test to find a genetically confirmed patient with HeFH of &#x02248;40. These results suggest that genetic testing in patients with post&#x02010;ACS with elevated LDL&#x02010;C may be cost effective. Furthermore, given the relatively low cost of genetic testing in the United States, the benefit of cascade screening in HeFH is potentially very large. Patients with HeFH have been extensively investigated and shown to respond to PCSK9 inhibitor monoclonal antibodies,<xref rid="jah311179-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="jah311179-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref> but the clinical outcome studies have been designed without the intent to enrich for, or even clearly identify, individuals with HeFH. A similar effect on LDL&#x02010;C and CVD rates for patients with or without FH was also suggested in an analysis of the SPIRE (Studies of PCSK9 Inhibition and the Reduction of Vascular Events) program of clinical trials of bococizumab, a PCSK9 inhibitor monoclonal antibody whose development was halted.<xref rid="jah311179-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref> However, real&#x02010;world evidence suggests that these medications provide clinical benefits to patients with HeFH, and the indications for use already mention this condition.<xref rid="jah311179-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref>, <xref rid="jah311179-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref>
+</p><p>The pharmacogenomics analysis highlights a previously well&#x02010;documented genotype&#x02013;phenotype discordance.<xref rid="jah311179-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref> When evaluating variants in <italic toggle="yes">LDLR</italic> and other genes associated with HeFH, 2.5% of patients in the overall pharmacogenomics subgroup were carriers. Although rare, genetically confirmed HeFH status is a much stronger predictor of elevated LDL&#x02010;C and earlier age of CVD onset than LDL&#x02010;C PRS. Nevertheless, within the ODYSSEY OUTCOMES cohort, additional genetic drivers beyond the 4 known genes affecting <italic toggle="yes">LDLR</italic> function<xref rid="jah311179-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref> played a role in the development of the clinical HeFH phenotype.</p><p>T3HLP has been known for many decades to be caused by variants in <italic toggle="yes">APOE</italic>, most commonly homozygosity for the common <italic toggle="yes">APOE2</italic> variant and less commonly from rare heterozygous variants in <italic toggle="yes">APOE</italic>. Our results confirmed the very low frequency of the T3HLP lipid abnormality, with only 30 individuals identified using the validated biomarker. Seventeen of these 30 individuals were also in the genetic subgroup, with the <italic toggle="yes">APOE2/2</italic> genotype strongly represented among carriers (23% <italic toggle="yes">APOE2/2</italic> carriers versus only 0.05% <italic toggle="yes">APOE2/2</italic> noncarriers were T3HLP positive), supporting the notion that T3HLP was the correct diagnosis for most of these patients. Genetic testing is seldom used to diagnose T3HLP, due to insurance coverage issues and the <italic toggle="yes">APOE</italic>&#x02013;Alzheimer connection that makes physicians wary of the consequences of knowing the <italic toggle="yes">APOE</italic> genotype.</p><p>This study includes limitations inherent to post hoc analyses. Other limitations include back&#x02010;calculated LDL&#x02010;C levels to derive HeFH diagnosis and a smaller pharmacogenomics subgroup, making it difficult to draw inferences about possible CVD risk reduction in patients with T3HLP. In addition, the phenotypic definition of T3HLP did not account for statin use. Moreover, the DLCN scoring process did not include family history data, as these did not include information on age at the time of event. Additionally, at entry into the trial, case report forms did not collect information regarding a prior clinical or genetic diagnosis of HeFH. Therefore, we do not know the proportion of patients with genetically proven or clinically presumed HeFH. The lack of interaction with/inability to inform participants and their relatives during this post hoc analysis was a missed opportunity and a lesson for future trials. Finally, it was assumed the T3HLP biomarker ratio is constant when untreated patients are taking high&#x02010;intensity statins.</p><p>In conclusion, our study shows that patients with HeFH, identified using established criteria, appear to benefit from PCSK9 inhibition similarly to patients with common hypercholesterolemia in terms of lipid responses and clinical outcomes. In addition, patients with T3HLP, identified using a biomarker ratio validated using the UK Biobank database, also benefit from PCSK9 inhibition similarly to patients with common dyslipidemia in terms of lipid responses.</p></sec><sec id="jah311179-sec-0027"><title>Sources of Funding</title><p>This analysis was funded by Regeneron Pharmaceuticals, Inc. The sponsor was involved in the study design and collection, analysis, and interpretation of data, as well as data checking of information provided in the article.</p></sec><sec sec-type="COI-statement" id="jah311179-sec-0028"><title>Disclosures</title><p>G.P.G., K.A.M., A.D., C.P., L.A.L., G.H., R.P., G.M., and S.M. are all employees of and shareholders in Regeneron Pharmaceuticals, Inc. M.D.S. reports participation grant support from DCRI, Esperion, Ionis, Merck, NHLBI, New Amsterdam, Novartis, and Amgen, all paid direct to his institution; scientific advisory boards with Amgen, Agepha, Novartis, and Ionis; and consultancy for Regeneron Pharmaceuticals, Inc., Ionis, Novartis, Aidoc, Shanghai Pharma Biotherapeutics, and Novo Nordisk. V.A.B. reports grant support from Sanofi, AstraZeneca, DalCor, Esperion, Bayer, Novartis, and Amgen, all paid directly to her institution; and personal fees from Sanofi, Pfizer, and Verve Therapeutics. D.L.B. reports the following relationships: Advisory Board: Angiowave, Bayer, Boehringer Ingelheim, CellProthera, Cereno Scientific, Elsevier Practice Update Cardiology, High Enroll, Janssen, Level Ex, McKinsey, Medscape Cardiology, Merck, MyoKardia, NirvaMed, Novo Nordisk, PhaseBio, PLx Pharma, Stasys; Board of Directors: American Heart Association New York City, Angiowave (stock options), Bristol Myers Squibb (stock), DRS.LINQ (stock options), High Enroll (stock); Consultant: Broadview Ventures, GlaxoSmithKline, Hims, SFJ, Youngene; Data Monitoring Committees: Acesion Pharma, Assistance Publique&#x02010;H&#x000f4;pitaux de Paris, Baim Institute for Clinical Research (formerly Harvard Clinical Research Institute, for the PORTICO [Portopulmonary Hypertension Treatment wIth Macitentan &#x02010; a Randomized Clinical Trial], funded by St. Jude Medical, now Abbott), Boston Scientific (Chair, PEITHO [Pulmonary Embolism Thrombolysis Study] trial), Cleveland Clinic, Contego Medical (Chair, PERFORMANCE 2 [Protection Against Emboli During Carotid Artery Stenting Using the Neuroguard IEP System]), Duke Clinical Research Institute, Mayo Clinic, Mount Sinai School of Medicine (for the ENVISAGE&#x02010;TAVI AF [Edoxaban Compared to Standard Care After Heart Valve Replacement Using a Catheter in Patients With Atrial Fibrillation] trial, funded by Daiichi Sankyo; for the ABILITY&#x02010;DM [Randomized Comparison of Abluminus DES+ Sirolimus&#x02010;Eluting Stents Versus Everolimus&#x02010;Eluting Stents in Coronary Artery Disease Patients With Diabetes Mellitus Global] trial, funded by Concept Medical; for Alleviant ALLAY&#x02010;HF, funded by Alleviant Medical), Novartis, Population Health Research Institute; Rutgers University (for the National Institutes of Health&#x02013;funded MINT [Myocardial Ischemia and Transfusion] trial); Honoraria: American College of Cardiology (Senior Associate Editor, Clinical Trials and News, <ext-link xlink:href="http://acc.org" ext-link-type="uri">ACC.org</ext-link>; Chair, ACC Accreditation Oversight Committee), Arnold and Porter law firm (work related to Sanofi/Bristol&#x02010;Myers Squibb clopidogrel litigation), Baim Institute for Clinical Research (formerly Harvard Clinical Research Institute; RE&#x02010;DUAL PCI [Evaluation of Dual Therapy With Dabigatran vs. Triple Therapy With Warfarin in Patients With AF That Undergo a PCI With Stenting] clinical trial steering committee funded by Boehringer Ingelheim; AEGIS&#x02010;II [Study to Investigate CSL112 in Subjects With Acute Coronary Syndrome] executive committee funded by CSL Behring), Belvoir Publications (Editor&#x02010;in&#x02010;Chief, <italic toggle="yes">Harvard Heart Letter</italic>), Canadian Medical and Surgical Knowledge Translation Research Group (clinical trial steering committees), CSL Behring (American Heart Association lecture), Cowen and Company, Duke Clinical Research Institute (clinical trial steering committees, including for the PRONOUNCE [A Trial Comparing Cardiovascular Safety of Degarelix Versus Leuprolide in Patients With Advanced Prostate Cancer and Cardiovascular Disease] trial, funded by Ferring Pharmaceuticals), HMP Global (Editor&#x02010;in&#x02010;Chief, <italic toggle="yes">Journal of Invasive Cardiology</italic>), <italic toggle="yes">Journal of the American College of Cardiology</italic> (Guest Editor; Associate Editor), K2P (Co&#x02010;Chair, interdisciplinary curriculum), Level Ex, Medtelligence/ReachMD (CME steering committees), MJH Life Sciences, Oakstone CME (Course Director, Comprehensive Review of Interventional Cardiology), Piper Sandler, Population Health Research Institute (for the COMPASS operations committee, publications committee, steering committee, and US national co&#x02010;leader, funded by Bayer), WebMD (continuing medical education steering committees), Wiley (steering committee); Other: <italic toggle="yes">Clinical Cardiology</italic> (Deputy Editor); Patent: sotagliflozin (named on a patent for sotagliflozin assigned to Brigham and Women's Hospital who assigned to Lexicon; neither he nor Brigham and Women's Hospital receive any income from this patent); Research Funding: Abbott, Acesion Pharma, Afimmune, Aker Biomarine, Alnylam, Amarin, Amgen, AstraZeneca, Bayer, Beren, Boehringer Ingelheim, Boston Scientific, Bristol&#x02010;Myers Squibb, Cardax, CellProthera, Cereno Scientific, Chiesi, CinCor, Cleerly, CSL Behring, Eisai, Ethicon, Faraday Pharmaceuticals, Ferring Pharmaceuticals, Forest Laboratories, Fractyl, Garmin, HLS Therapeutics, Idorsia, Ironwood, Ischemix, Janssen, Javelin, Lexicon, Lilly, Medtronic, Merck, Moderna, MyoKardia, NirvaMed, Novartis, Novo Nordisk, Otsuka, Owkin, Pfizer, PhaseBio, PLx Pharma, Recardio, Regeneron Pharmaceuticals, Inc., Reid Hoffman Foundation, Roche, Sanofi, Stasys, Synaptic, The Medicines Company, Youngene, 89Bio; Royalties: Elsevier (Editor, <italic toggle="yes">Braunwald's Heart Disease</italic>); Site Co&#x02010;Investigator: Abbott, Biotronik, Boston Scientific, CSI, Endotronix, St. Jude Medical (now Abbott), Philips, SpectraWAVE, Svelte, Vascular Solutions; Trustee: American College of Cardiology; and unfunded research: FlowCo. M.S. reports grants from Sanofi, Regeneron Pharmaceuticals, Inc., Lexicon, Resverlogix, Baxter, and Janssen; and personal fees from CiVi, Esperion, Silence, and NewAmsterdam. G.G.S. reports research support to the University of Colorado from AstraZeneca, Sanofi, Silence Therapeutics, and The Medicines Company; and is coinventor of pending US patent 62/806313 (&#x0201c;Methods for Reducing Cardiovascular Risk&#x0201d;) assigned in full to the University of Colorado. P.G.S. reports grants and nonfinancial support (co&#x02010;chair of the ODYSSEY OUTCOMES [Evaluation of Cardiovascular Outcomes After an Acute Coronary Syndrome During Treatment With Alirocumab] trial; as such, he received no personal fees, but his institution has received funding for the time he has devoted to trial coordination, and he has received support for travel related to trial meetings) from Sanofi; research grants and personal fees from Bayer (Steering Committee MARINER, grant for epidemiological study), Merck (speaker fees, grant for epidemiological studies), Sanofi (Co&#x02010;Chair of the ODYSSEY OUTCOMES trial; Co&#x02010;Chair of the SCORED [Effect of Sotagliflozin on Cardiovascular and Renal Events in Participants With Type 2 Diabetes and Moderate Renal Impairment Who Are at Cardiovascular Risk] trial; consulting, speaking), Servier (Chair of the CLARIFY registry; grant for epidemiological research), and Amarin (executive steering committee for the REDUCE&#x02010;IT [A Study of AMR101 to Evaluate Its Ability to Reduce Cardiovascular Events in High&#x02010;Risk Patients With Hypertriglyceridemia and on Statin] trial [Disease Reduction of Cardiovascular Events With Icosapent Ethyl&#x02013;Intervention Trial]; consulting); personal fees from Amgen, Bristol&#x02010;Myers Squibb, Boehringer Ingelheim, Pfizer, Idorsia, Myokardia, Novo Nordisk, Novartis, Regeneron Pharmaceuticals, Inc., and AstraZeneca; and having a European application number/patent number issued on October 26, 2016 (No. 15712241.7) for a method for reducing cardiovascular risk, all royalties assigned to Sanofi.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="jah311179-supitem-0001" position="float" content-type="local-data"><caption><p>Tables S1&#x02013;S3</p><p>Figures&#x000a0;S1&#x02013;S7</p></caption><media xlink:href="JAH3-14-e041190-s001.pdf"/></supplementary-material></sec></body><back><ack id="jah311179-sec-0026"><title>Acknowledgments</title><p>The authors thank the study participants and all investigators involved in this study, as well as Richa Attre, Regeneron Pharmaceuticals, Inc., for editorial assistance. The authors were involved in the study design as well as in the analysis and interpretation of data. All authors had full access to all the data in this study and take complete responsibility for the integrity of the data and accuracy of the data analysis.</p></ack><ref-list content-type="cited-references" id="jah311179-bibl-0001"><title>References</title><ref id="jah311179-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jah311179-cit-0001">
+<string-name>
+<surname>Kastelein</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Ginsberg</surname>
+<given-names>HN</given-names>
+</string-name>, <string-name>
+<surname>Langslet</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Hovingh</surname>
+<given-names>GK</given-names>
+</string-name>, <string-name>
+<surname>Ceska</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Dufour</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Blom</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Civeira</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Krempf</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Lorenzato</surname>
+<given-names>C</given-names>
+</string-name>, et&#x000a0;al. <article-title>ODYSSEY FH I and FH II: 78 week results with alirocumab treatment in 735 patients with heterozygous familial hypercholesterolaemia</article-title>. <source>Eur Heart J</source>. <year>2015</year>;<volume>36</volume>:<fpage>2996</fpage>&#x02013;<lpage>3003</lpage>. doi: <pub-id pub-id-type="doi">10.1093/eurheartj/ehv370</pub-id>
+<pub-id pub-id-type="pmid">26330422</pub-id>
+</mixed-citation></ref><ref id="jah311179-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jah311179-cit-0002">
+<string-name>
+<surname>Santos</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name>
+<surname>Stein</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name>
+<surname>Hovingh</surname>
+<given-names>GK</given-names>
+</string-name>, <string-name>
+<surname>Blom</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Soran</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Watts</surname>
+<given-names>GF</given-names>
+</string-name>, <string-name>
+<surname>Lopez</surname>
+<given-names>JAG</given-names>
+</string-name>, <string-name>
+<surname>Bray</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kurtz</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name>
+<surname>Hamer</surname>
+<given-names>AW</given-names>
+</string-name>, et&#x000a0;al. <article-title>Long&#x02010;term evolocumab in patients with familial hypercholesterolemia</article-title>. <source>J Am Coll Cardiol</source>. <year>2020</year>;<volume>75</volume>:<fpage>565</fpage>&#x02013;<lpage>574</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.jacc.2019.12.020</pub-id>
+<pub-id pub-id-type="pmid">32057369</pub-id>
+</mixed-citation></ref><ref id="jah311179-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jah311179-cit-0003">
+<string-name>
+<surname>Sabatine</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Giugliano</surname>
+<given-names>RP</given-names>
+</string-name>, <string-name>
+<surname>Keech</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name>
+<surname>Honarpour</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Wiviott</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name>
+<surname>Murphy</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Kuder</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Wasserman</surname>
+<given-names>SM</given-names>
+</string-name>, et&#x000a0;al. <article-title>Evolocumab and clinical outcomes in patients with cardiovascular disease</article-title>. <source>N Engl J Med</source>. <year>2017</year>;<volume>376</volume>:<fpage>1713</fpage>&#x02013;<lpage>1722</lpage>. doi: <pub-id pub-id-type="doi">10.1056/NEJMoa1615664</pub-id>
+<pub-id pub-id-type="pmid">28304224</pub-id>
+</mixed-citation></ref><ref id="jah311179-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jah311179-cit-0004">
+<string-name>
+<surname>Schwartz</surname>
+<given-names>GG</given-names>
+</string-name>, <string-name>
+<surname>Steg</surname>
+<given-names>PG</given-names>
+</string-name>, <string-name>
+<surname>Szarek</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bhatt</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name>
+<surname>Bittner</surname>
+<given-names>VA</given-names>
+</string-name>, <string-name>
+<surname>Diaz</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Edelberg</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Goodman</surname>
+<given-names>SG</given-names>
+</string-name>, <string-name>
+<surname>Hanotin</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Harrington</surname>
+<given-names>RA</given-names>
+</string-name>, et&#x000a0;al. <article-title>Alirocumab and cardiovascular outcomes after acute coronary syndrome</article-title>. <source>N Engl J Med</source>. <year>2018</year>;<volume>379</volume>:<fpage>2097</fpage>&#x02013;<lpage>2107</lpage>. doi: <pub-id pub-id-type="doi">10.1056/NEJMoa1801174</pub-id>
+<pub-id pub-id-type="pmid">30403574</pub-id>
+</mixed-citation></ref><ref id="jah311179-bib-0005"><label>5</label><mixed-citation publication-type="miscellaneous" id="jah311179-cit-0005">
+<collab collab-type="authors">World Health Organization</collab>
+. <article-title>Familial Hypercholesterolaemia (FH): Report of a second WHO consultation</article-title>. <year>1998</year> Accessed June 27, 2025. <ext-link xlink:href="https://iris.who.int/bitstream/handle/10665/66346/WHO_HGN_FH_CONS_99.2.pdf" ext-link-type="uri">https://iris.who.int/bitstream/handle/10665/66346/WHO_HGN_FH_CONS_99.2.pdf</ext-link>.</mixed-citation></ref><ref id="jah311179-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jah311179-cit-0006">
+<string-name>
+<surname>Boccatonda</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Rossi</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>D'Ardes</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Cocomello</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Perla</surname>
+<given-names>FM</given-names>
+</string-name>, <string-name>
+<surname>Bucciarelli</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Di Rocco</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Del Ben</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Angelico</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Guagnano</surname>
+<given-names>MT</given-names>
+</string-name>, et&#x000a0;al. <article-title>Comparison between different diagnostic scores for the diagnosis of familial hypercholesterolemia: assessment of their diagnostic accuracy in comparison with genetic testing</article-title>. <source>Eur Heart J</source>. <year>2020</year>;<volume>41</volume>:<elocation-id>ehaa946.3206</elocation-id>. doi: <pub-id pub-id-type="doi">10.1093/ehjci/ehaa946.3206</pub-id>
+</mixed-citation></ref><ref id="jah311179-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jah311179-cit-0007">
+<string-name>
+<surname>McGowan</surname>
+<given-names>MP</given-names>
+</string-name>, <string-name>
+<surname>Hosseini Dehkordi</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name>
+<surname>Moriarty</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name>
+<surname>Duell</surname>
+<given-names>PB</given-names>
+</string-name>. <article-title>Diagnosis and treatment of heterozygous familial hypercholesterolemia</article-title>. <source>J Am Heart Assoc</source>. <year>2019</year>;<volume>8</volume>:<elocation-id>e013225</elocation-id>. doi: <pub-id pub-id-type="doi">10.1161/JAHA.119.013225</pub-id>
+<pub-id pub-id-type="pmid">31838973</pub-id>
+</mixed-citation></ref><ref id="jah311179-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jah311179-cit-0008">
+<string-name>
+<surname>Cannon</surname>
+<given-names>CP</given-names>
+</string-name>, <string-name>
+<surname>Khan</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Klimchak</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name>
+<surname>Reynolds</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name>
+<surname>Sanchez</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Sasiela</surname>
+<given-names>WJ</given-names>
+</string-name>. <article-title>Simulation of lipid&#x02010;lowering therapy intensification in a population with atherosclerotic cardiovascular disease</article-title>. <source>JAMA Cardiol</source>. <year>2017</year>;<volume>2</volume>:<fpage>959</fpage>&#x02013;<lpage>966</lpage>. doi: <pub-id pub-id-type="doi">10.1001/jamacardio.2017.2289</pub-id>
+<pub-id pub-id-type="pmid">28768335</pub-id>
+</mixed-citation></ref><ref id="jah311179-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jah311179-cit-0009">
+<string-name>
+<surname>Mahley</surname>
+<given-names>RW</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Rall</surname>
+<given-names>SC</given-names>
+<suffix>Jr</suffix>
+</string-name>. <article-title>Pathogenesis of type III hyperlipoproteinemia (dysbetalipoproteinemia). Questions, quandaries, and paradoxes</article-title>. <source>J Lipid Res</source>. <year>1999</year>;<volume>40</volume>:<fpage>1933</fpage>&#x02013;<lpage>1949</lpage>. doi: <pub-id pub-id-type="doi">10.1016/S0022-2275(20)32417-2</pub-id>
+<pub-id pub-id-type="pmid">10552997</pub-id>
+</mixed-citation></ref><ref id="jah311179-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jah311179-cit-0010">
+<string-name>
+<surname>Koopal</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Marais</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name>
+<surname>Visseren</surname>
+<given-names>FL</given-names>
+</string-name>. <article-title>Familial dysbetalipoproteinemia: an underdiagnosed lipid disorder</article-title>. <source>Curr Opin Endocrinol Diabetes Obes</source>. <year>2017</year>;<volume>24</volume>:<fpage>133</fpage>&#x02013;<lpage>139</lpage>. doi: <pub-id pub-id-type="doi">10.1097/MED.0000000000000316</pub-id>
+<pub-id pub-id-type="pmid">28098593</pub-id>
+</mixed-citation></ref><ref id="jah311179-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jah311179-cit-0011">
+<string-name>
+<surname>Koopal</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Marais</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name>
+<surname>Westerink</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Visseren</surname>
+<given-names>FL</given-names>
+</string-name>. <article-title>Autosomal dominant familial dysbetalipoproteinemia: a pathophysiological framework and practical approach to diagnosis and therapy</article-title>. <source>J Clin Lipidol</source>. <year>2017</year>;<volume>11</volume>:<fpage>12</fpage>&#x02013;<lpage>23.e11</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.jacl.2016.10.001</pub-id>
+<pub-id pub-id-type="pmid">28391878</pub-id>
+</mixed-citation></ref><ref id="jah311179-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jah311179-cit-0012">
+<string-name>
+<surname>Blum</surname>
+<given-names>CB</given-names>
+</string-name>. <article-title>Type III hyperlipoproteinemia: still worth considering?</article-title>
+<source>Prog Cardiovasc Dis</source>. <year>2016</year>;<volume>59</volume>:<fpage>119</fpage>&#x02013;<lpage>124</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.pcad.2016.07.007</pub-id>
+<pub-id pub-id-type="pmid">27481046</pub-id>
+</mixed-citation></ref><ref id="jah311179-bib-0013"><label>13</label><mixed-citation publication-type="miscellaneous" id="jah311179-cit-0013">
+<collab collab-type="authors">Bristol&#x02010;Myers Squibb</collab>
+. <article-title>PRAVACHOL (pravastatin sodium) tablets prescribing information</article-title>. <year>2020</year>. Accessed June 27, 2025. <ext-link xlink:href="https://packageinserts.bms.com/pi/pi_pravachol.pdf" ext-link-type="uri">https://packageinserts.bms.com/pi/pi_pravachol.pdf</ext-link>.</mixed-citation></ref><ref id="jah311179-bib-0014"><label>14</label><mixed-citation publication-type="miscellaneous" id="jah311179-cit-0014">
+<collab collab-type="authors">Pfizer Inc</collab>
+. <article-title>LIPITOR&#x000ae; (atorvastatin calcium) tablets prescribing information</article-title>. <year>2009</year>. Accessed June 27, 2025. <ext-link xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/label/2009/020702s056lbl.pdf" ext-link-type="uri">https://www.accessdata.fda.gov/drugsatfda_docs/label/2009/020702s056lbl.pdf</ext-link>.</mixed-citation></ref><ref id="jah311179-bib-0015"><label>15</label><mixed-citation publication-type="miscellaneous" id="jah311179-cit-0015">
+<collab collab-type="authors">AstraZeneca</collab>
+. <article-title>CRESTOR (rosuvastatin calcium) tablets prescribing information</article-title>. <year>2016</year>. Accessed June 27, 2025. <ext-link xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/label/2016/021366s033lbl.pdf" ext-link-type="uri">https://www.accessdata.fda.gov/drugsatfda_docs/label/2016/021366s033lbl.pdf</ext-link>.</mixed-citation></ref><ref id="jah311179-bib-0016"><label>16</label><mixed-citation publication-type="miscellaneous" id="jah311179-cit-0016">
+<collab collab-type="authors">Quallent Pharmaceuticals Health LLC</collab>
+. <article-title>Simvastatin pack insert</article-title>. <year>2022</year>. Accessed June 27, 2025. <ext-link xlink:href="https://www.quallentpharmaceuticals.com/pdf/Simvastatin%20PI.pdf" ext-link-type="uri">https://www.quallentpharmaceuticals.com/pdf/Simvastatin%20PI.pdf</ext-link>.</mixed-citation></ref><ref id="jah311179-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jah311179-cit-0017">
+<string-name>
+<surname>Ishigami</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Yamashita</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Sakai</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Hirano</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Hiraoka</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Nakamura</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Matsuzawa</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Atorvastatin markedly improves type III hyperlipoproteinemia in association with reduction of both exogenous and endogenous apolipoprotein B&#x02010;containing lipoproteins</article-title>. <source>Atherosclerosis</source>. <year>2003</year>;<volume>168</volume>:<fpage>359</fpage>&#x02013;<lpage>366</lpage>. doi: <pub-id pub-id-type="doi">10.1016/s0021-9150(03)00136-9</pub-id>
+<pub-id pub-id-type="pmid">12801620</pub-id>
+</mixed-citation></ref><ref id="jah311179-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jah311179-cit-0018">
+<string-name>
+<surname>Fredrickson</surname>
+<given-names>DS</given-names>
+</string-name>, <string-name>
+<surname>Levy</surname>
+<given-names>RI</given-names>
+</string-name>, <string-name>
+<surname>Lees</surname>
+<given-names>RS</given-names>
+</string-name>. <article-title>Fat transport in lipoproteins&#x02010;&#x02010;an integrated approach to mechanisms and disorders</article-title>. <source>N Engl J Med</source>. <year>1967</year>;<volume>276</volume>:<fpage>34</fpage>&#x02013;<lpage>42</lpage>. doi: <pub-id pub-id-type="doi">10.1056/NEJM196701052760107</pub-id>
+<pub-id pub-id-type="pmid">5333081</pub-id>
+</mixed-citation></ref><ref id="jah311179-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jah311179-cit-0019">
+<string-name>
+<surname>Morganroth</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Levy</surname>
+<given-names>RI</given-names>
+</string-name>, <string-name>
+<surname>Fredrickson</surname>
+<given-names>DS</given-names>
+</string-name>. <article-title>The biochemical, clinical, and genetic features of type III hyperlipoproteinemia</article-title>. <source>Ann Intern Med</source>. <year>1975</year>;<volume>82</volume>:<fpage>158</fpage>&#x02013;<lpage>174</lpage>. doi: <pub-id pub-id-type="doi">10.7326/0003-4819-82-2-158</pub-id>
+<pub-id pub-id-type="pmid">163608</pub-id>
+</mixed-citation></ref><ref id="jah311179-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jah311179-cit-0020">
+<string-name>
+<surname>Sniderman</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Tremblay</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Bergeron</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Gagne</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Couture</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Diagnosis of type III hyperlipoproteinemia from plasma total cholesterol, triglyceride, and apolipoprotein B</article-title>. <source>J Clin Lipidol</source>. <year>2007</year>;<volume>1</volume>:<fpage>256</fpage>&#x02013;<lpage>263</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.jacl.2007.07.006</pub-id>
+<pub-id pub-id-type="pmid">21291689</pub-id>
+</mixed-citation></ref><ref id="jah311179-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jah311179-cit-0021">
+<string-name>
+<surname>Sniderman</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name>
+<surname>de Graaf</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Thanassoulis</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Tremblay</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Martin</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name>
+<surname>Couture</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>The spectrum of type III hyperlipoproteinemia</article-title>. <source>J Clin Lipidol</source>. <year>2018</year>;<volume>12</volume>:<fpage>1383</fpage>&#x02013;<lpage>1389</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.jacl.2018.09.006</pub-id>
+<pub-id pub-id-type="pmid">30318453</pub-id>
+</mixed-citation></ref><ref id="jah311179-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jah311179-cit-0022">
+<string-name>
+<surname>Ruel</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Aljenedil</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Sadri</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>de Varennes</surname>
+<given-names>&#x000c9;</given-names>
+</string-name>, <string-name>
+<surname>Hegele</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Couture</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Bergeron</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Wanneh</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Baass</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Dufour</surname>
+<given-names>R</given-names>
+</string-name>, et&#x000a0;al. <article-title>Imputation of baseline LDL cholesterol concentration in patients with familial hypercholesterolemia on statins or ezetimibe</article-title>. <source>Clin Chem</source>. <year>2018</year>;<volume>64</volume>:<fpage>355</fpage>&#x02013;<lpage>362</lpage>. doi: <pub-id pub-id-type="doi">10.1373/clinchem.2017.279422</pub-id>
+<pub-id pub-id-type="pmid">29038147</pub-id>
+</mixed-citation></ref><ref id="jah311179-bib-0023"><label>23</label><mixed-citation publication-type="miscellaneous" id="jah311179-cit-0023">
+<collab collab-type="authors">Athero.org.au</collab>
+. <article-title>Supporting documentation for the manual calculation of the Dutch Lipid Clinic Network Score (DLCNS)</article-title>. <year>1999</year>. Accessed June 27, 2025. <ext-link xlink:href="https://www.athero.org.au/fh/wp-content/uploads/Supporting-Documentation-for-the-manual-calculation-of-DLCNS.pdf" ext-link-type="uri">https://www.athero.org.au/fh/wp&#x02010;content/uploads/Supporting&#x02010;Documentation&#x02010;for&#x02010;the&#x02010;manual&#x02010;calculation&#x02010;of&#x02010;DLCNS.pdf</ext-link>.</mixed-citation></ref><ref id="jah311179-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jah311179-cit-0024">
+<string-name>
+<surname>Chang</surname>
+<given-names>CC</given-names>
+</string-name>, <string-name>
+<surname>Chow</surname>
+<given-names>CC</given-names>
+</string-name>, <string-name>
+<surname>Tellier</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name>
+<surname>Vattikuti</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Purcell</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>JJ</given-names>
+</string-name>. <article-title>Second&#x02010;generation PLINK: rising to the challenge of larger and richer datasets</article-title>. <source>Gigascience</source>. <year>2015</year>;<volume>4</volume>:<elocation-id>7</elocation-id>. doi: <pub-id pub-id-type="doi">10.1186/s13742-015-0047-8</pub-id>
+<pub-id pub-id-type="pmid">25722852</pub-id>
+</mixed-citation></ref><ref id="jah311179-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jah311179-cit-0025">
+<string-name>
+<surname>Purcell</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Neale</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Todd&#x02010;Brown</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Thomas</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Ferreira</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Bender</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Maller</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Sklar</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>de Bakker</surname>
+<given-names>PI</given-names>
+</string-name>, <string-name>
+<surname>Daly</surname>
+<given-names>MJ</given-names>
+</string-name>, et&#x000a0;al. <article-title>PLINK: a tool set for whole&#x02010;genome association and population&#x02010;based linkage analyses</article-title>. <source>Am J Hum Genet</source>. <year>2007</year>;<volume>81</volume>:<fpage>559</fpage>&#x02013;<lpage>575</lpage>. doi: <pub-id pub-id-type="doi">10.1086/519795</pub-id>
+<pub-id pub-id-type="pmid">17701901</pub-id>
+</mixed-citation></ref><ref id="jah311179-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jah311179-cit-0026">
+<string-name>
+<surname>Das</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Forer</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Sch&#x000f6;nherr</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Sidore</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Locke</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name>
+<surname>Kwong</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Vrieze</surname>
+<given-names>SI</given-names>
+</string-name>, <string-name>
+<surname>Chew</surname>
+<given-names>EY</given-names>
+</string-name>, <string-name>
+<surname>Levy</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>McGue</surname>
+<given-names>M</given-names>
+</string-name>, et&#x000a0;al. <article-title>Next&#x02010;generation genotype imputation service and methods</article-title>. <source>Nat Genet</source>. <year>2016</year>;<volume>48</volume>:<fpage>1284</fpage>&#x02013;<lpage>1287</lpage>. doi: <pub-id pub-id-type="doi">10.1038/ng.3656</pub-id>
+<pub-id pub-id-type="pmid">27571263</pub-id>
+</mixed-citation></ref><ref id="jah311179-bib-0027"><label>27</label><mixed-citation publication-type="miscellaneous" id="jah311179-cit-0027">
+<collab collab-type="authors">Statgen</collab>
+. <article-title>Minimac4</article-title>. <year>2022</year>. Accessed June 27, 2025. <ext-link xlink:href="https://github.com/statgen/Minimac4" ext-link-type="uri">https://github.com/statgen/Minimac4</ext-link>.</mixed-citation></ref><ref id="jah311179-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="jah311179-cit-0028">
+<string-name>
+<surname>Taliun</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Harris</surname>
+<given-names>DN</given-names>
+</string-name>, <string-name>
+<surname>Kessler</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Carlson</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Szpiech</surname>
+<given-names>ZA</given-names>
+</string-name>, <string-name>
+<surname>Torres</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Taliun</surname>
+<given-names>SAG</given-names>
+</string-name>, <string-name>
+<surname>Corvelo</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Gogarten</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Kang</surname>
+<given-names>HM</given-names>
+</string-name>, et&#x000a0;al. <article-title>Sequencing of 53,831 diverse genomes from the NHLBI TOPMed program</article-title>. <source>Nature</source>. <year>2021</year>;<volume>590</volume>:<fpage>290</fpage>&#x02013;<lpage>299</lpage>. doi: <pub-id pub-id-type="doi">10.1038/s41586-021-03205-y</pub-id>
+<pub-id pub-id-type="pmid">33568819</pub-id>
+</mixed-citation></ref><ref id="jah311179-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="jah311179-cit-0029">
+<string-name>
+<surname>Willer</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name>
+<surname>Schmidt</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Sengupta</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Peloso</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name>
+<surname>Gustafsson</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kanoni</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ganna</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Buchkovich</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Mora</surname>
+<given-names>S</given-names>
+</string-name>, et&#x000a0;al. <article-title>Discovery and refinement of loci associated with lipid levels</article-title>. <source>Nat Genet</source>. <year>2013</year>;<volume>45</volume>:<fpage>1274</fpage>&#x02013;<lpage>1283</lpage>. doi: <pub-id pub-id-type="doi">10.1038/ng.2797</pub-id>
+<pub-id pub-id-type="pmid">24097068</pub-id>
+</mixed-citation></ref><ref id="jah311179-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="jah311179-cit-0030">
+<string-name>
+<surname>Vilhjalmsson</surname>
+<given-names>BJ</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Finucane</surname>
+<given-names>HK</given-names>
+</string-name>, <string-name>
+<surname>Gusev</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Lindstrom</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ripke</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Genovese</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Loh</surname>
+<given-names>PR</given-names>
+</string-name>, <string-name>
+<surname>Bhatia</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Do</surname>
+<given-names>R</given-names>
+</string-name>, et&#x000a0;al. <article-title>Modeling linkage disequilibrium increases accuracy of polygenic risk scores</article-title>. <source>Am J Hum Genet</source>. <year>2015</year>;<volume>97</volume>:<fpage>576</fpage>&#x02013;<lpage>592</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.ajhg.2015.09.001</pub-id>
+<pub-id pub-id-type="pmid">26430803</pub-id>
+</mixed-citation></ref><ref id="jah311179-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="jah311179-cit-0031">
+<string-name>
+<surname>Chora</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Iacocca</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Tich&#x000fd;</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Wand</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Kurtz</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name>
+<surname>Zimmermann</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Leon</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Humphries</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name>
+<surname>Hooper</surname>
+<given-names>AJ</given-names>
+</string-name>, et&#x000a0;al. <article-title>The clinical genome resource (ClinGen) familial hypercholesterolemia variant curation expert panel consensus guidelines for LDLR variant classification</article-title>. <source>Genet Med</source>. <year>2022</year>;<volume>24</volume>:<fpage>293</fpage>&#x02013;<lpage>306</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.gim.2021.09.012</pub-id>
+<pub-id pub-id-type="pmid">34906454</pub-id>
+</mixed-citation></ref><ref id="jah311179-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="jah311179-cit-0032">
+<string-name>
+<surname>Landrum</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Benson</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Chao</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Chitipiralla</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Gu</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Hart</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Hoffman</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Hoover</surname>
+<given-names>J</given-names>
+</string-name>, et&#x000a0;al. <article-title>ClinVar: public archive of interpretations of clinically relevant variants</article-title>. <source>Nucleic Acids Res</source>. <year>2016</year>;<volume>44</volume>:<fpage>D862</fpage>&#x02013;<lpage>D868</lpage>. doi: <pub-id pub-id-type="doi">10.1093/nar/gkv1222</pub-id>
+<pub-id pub-id-type="pmid">26582918</pub-id>
+</mixed-citation></ref><ref id="jah311179-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="jah311179-cit-0033">
+<string-name>
+<surname>Murase</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Okubo</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Takeuchi</surname>
+<given-names>I</given-names>
+</string-name>. <article-title>Non&#x02010;HDL&#x02010;cholesterol/apolipoprotein B ratio: a useful distinguishing feature in the screening for type III hyperlipoproteinemia</article-title>. <source>J Clin Lipidol</source>. <year>2010</year>;<volume>4</volume>:<fpage>99</fpage>&#x02013;<lpage>104</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.jacl.2010.01.004</pub-id>
+<pub-id pub-id-type="pmid">21122636</pub-id>
+</mixed-citation></ref><ref id="jah311179-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="jah311179-cit-0034">
+<string-name>
+<surname>Sudlow</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Gallacher</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Allen</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Beral</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Burton</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Danesh</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Downey</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Elliott</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Green</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Landray</surname>
+<given-names>M</given-names>
+</string-name>, et&#x000a0;al. <article-title>UK biobank: an open access resource for identifying the causes of a wide range of complex diseases of middle and old age</article-title>. <source>PLoS Med</source>. <year>2015</year>;<volume>12</volume>:<elocation-id>e1001779</elocation-id>. doi: <pub-id pub-id-type="doi">10.1371/journal.pmed.1001779</pub-id>
+<pub-id pub-id-type="pmid">25826379</pub-id>
+</mixed-citation></ref><ref id="jah311179-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="jah311179-cit-0035">
+<string-name>
+<surname>Bycroft</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Freeman</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Petkova</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Band</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Elliott</surname>
+<given-names>LT</given-names>
+</string-name>, <string-name>
+<surname>Sharp</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Motyer</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Vukcevic</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Delaneau</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>O'Connell</surname>
+<given-names>J</given-names>
+</string-name>, et&#x000a0;al. <article-title>The UK biobank resource with deep phenotyping and genomic data</article-title>. <source>Nature</source>. <year>2018</year>;<volume>562</volume>:<fpage>203</fpage>&#x02013;<lpage>209</lpage>. doi: <pub-id pub-id-type="doi">10.1038/s41586-018-0579-z</pub-id>
+<pub-id pub-id-type="pmid">30305743</pub-id>
+</mixed-citation></ref><ref id="jah311179-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="jah311179-cit-0036">
+<string-name>
+<surname>Sniderman</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name>
+<surname>Tsimikas</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Fazio</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>The severe hypercholesterolemia phenotype: clinical diagnosis, management, and emerging therapies</article-title>. <source>J Am Coll Cardiol</source>. <year>2014</year>;<volume>63</volume>:<fpage>1935</fpage>&#x02013;<lpage>1947</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.jacc.2014.01.060</pub-id>
+<pub-id pub-id-type="pmid">24632267</pub-id>
+</mixed-citation></ref><ref id="jah311179-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="jah311179-cit-0037">
+<string-name>
+<surname>Kataoka</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Funabashi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Doi</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Harada&#x02010;Shiba</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>How can we identify very high&#x02010;risk heterozygous familial hypercholesterolemia?</article-title>
+<source>J Atheroscler Thromb</source>. <year>2022</year>;<volume>29</volume>:<fpage>795</fpage>&#x02013;<lpage>807</lpage>. doi: <pub-id pub-id-type="doi">10.5551/jat.RV17063</pub-id>
+<pub-id pub-id-type="pmid">35022364</pub-id>
+</mixed-citation></ref><ref id="jah311179-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="jah311179-cit-0038">
+<string-name>
+<surname>Neefjes</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name>
+<surname>Ten Kate</surname>
+<given-names>GJ</given-names>
+</string-name>, <string-name>
+<surname>Alexia</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Nieman</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Galema&#x02010;Boers</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Langendonk</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name>
+<surname>Weustink</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name>
+<surname>Mollet</surname>
+<given-names>NR</given-names>
+</string-name>, <string-name>
+<surname>Sijbrands</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name>
+<surname>Krestin</surname>
+<given-names>GP</given-names>
+</string-name>, et&#x000a0;al. <article-title>Accelerated subclinical coronary atherosclerosis in patients with familial hypercholesterolemia</article-title>. <source>Atherosclerosis</source>. <year>2011</year>;<volume>219</volume>:<fpage>721</fpage>&#x02013;<lpage>727</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.atherosclerosis.2011.09.052</pub-id>
+<pub-id pub-id-type="pmid">22018443</pub-id>
+</mixed-citation></ref><ref id="jah311179-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="jah311179-cit-0039">
+<string-name>
+<surname>Ginsberg</surname>
+<given-names>HN</given-names>
+</string-name>, <string-name>
+<surname>Rader</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Raal</surname>
+<given-names>FJ</given-names>
+</string-name>, <string-name>
+<surname>Guyton</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Baccara&#x02010;Dinet</surname>
+<given-names>MT</given-names>
+</string-name>, <string-name>
+<surname>Lorenzato</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Pordy</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Stroes</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Efficacy and safety of alirocumab in patients with heterozygous familial hypercholesterolemia and LDL&#x02010;C of 160 mg/dl or higher</article-title>. <source>Cardiovasc Drugs Ther</source>. <year>2016</year>;<volume>30</volume>:<fpage>473</fpage>&#x02013;<lpage>483</lpage>. doi: <pub-id pub-id-type="doi">10.1007/s10557-016-6685-y</pub-id>
+<pub-id pub-id-type="pmid">27618825</pub-id>
+</mixed-citation></ref><ref id="jah311179-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="jah311179-cit-0040">
+<string-name>
+<surname>Ridker</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name>
+<surname>Rose</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name>
+<surname>Kastelein</surname>
+<given-names>JJP</given-names>
+</string-name>, <string-name>
+<surname>Santos</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name>
+<surname>Wei</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Revkin</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Yunis</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Tardif</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Shear</surname>
+<given-names>CL</given-names>
+</string-name>; <collab collab-type="authors">Studies of PI</collab>
+, et&#x000a0;al. <article-title>Cardiovascular event reduction with PCSK9 inhibition among 1578 patients with familial hypercholesterolemia: results from the SPIRE randomized trials of bococizumab</article-title>. <source>J Clin Lipidol</source>. <year>2018</year>;<volume>12</volume>:<fpage>958</fpage>&#x02013;<lpage>965</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.jacl.2018.03.088</pub-id>
+<pub-id pub-id-type="pmid">29685591</pub-id>
+</mixed-citation></ref><ref id="jah311179-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="jah311179-cit-0041">
+<string-name>
+<surname>Reynolds</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Carey</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>George</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Konidaris</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Narayanan</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Ramachandran</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Saunders</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Viljoen</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Ferns</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>A retrospective observational study to determine baseline characteristics and early prescribing patterns for patients receiving alirocumab in UK clinical practice</article-title>. <source>Drugs Real World Outcomes</source>. <year>2019</year>;<volume>6</volume>:<fpage>205</fpage>&#x02013;<lpage>213</lpage>. doi: <pub-id pub-id-type="doi">10.1007/s40801-019-00166-7</pub-id>
+<pub-id pub-id-type="pmid">31741198</pub-id>
+</mixed-citation></ref><ref id="jah311179-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="jah311179-cit-0042">
+<string-name>
+<surname>Gupta</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Mancini</surname>
+<given-names>GBJ</given-names>
+</string-name>, <string-name>
+<surname>Wani</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Ahooja</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Bergeron</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Manjoo</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Pandey</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name>
+<surname>Reiner</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Beltran</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Oliveira</surname>
+<given-names>T</given-names>
+</string-name>, et&#x000a0;al. <article-title>Real&#x02010;world insights into evolocumab use in patients with hyperlipidemia: Canadian analysis from the ZERBINI study</article-title>. <source>CJC Open</source>. <year>2022</year>;<volume>4</volume>:<fpage>558</fpage>&#x02013;<lpage>567</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.cjco.2022.03.003</pub-id>
+<pub-id pub-id-type="pmid">35734519</pub-id>
+</mixed-citation></ref><ref id="jah311179-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="jah311179-cit-0043">
+<string-name>
+<surname>Maggo</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name>
+<surname>Savage</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name>
+<surname>Kennedy</surname>
+<given-names>MA</given-names>
+</string-name>. <article-title>Impact of new genomic technologies on understanding adverse drug reactions</article-title>. <source>Clin Pharmacokinet</source>. <year>2016</year>;<volume>55</volume>:<fpage>419</fpage>&#x02013;<lpage>436</lpage>. doi: <pub-id pub-id-type="doi">10.1007/s40262-015-0324-9</pub-id>
+<pub-id pub-id-type="pmid">26369774</pub-id>
+</mixed-citation></ref><ref id="jah311179-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="jah311179-cit-0044">
+<string-name>
+<surname>Jacob</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Hegele</surname>
+<given-names>RA</given-names>
+</string-name>. <article-title>Monogenic versus polygenic forms of hypercholesterolemia and cardiovascular risk: are there any differences?</article-title>
+<source>Curr Atheroscler Rep</source>. <year>2022</year>;<volume>24</volume>:<fpage>419</fpage>&#x02013;<lpage>426</lpage>. doi: <pub-id pub-id-type="doi">10.1007/s11883-022-01018-6</pub-id>
+<pub-id pub-id-type="pmid">35386091</pub-id>
+</mixed-citation></ref></ref-list></back></article>
