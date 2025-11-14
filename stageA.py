@@ -11,10 +11,10 @@ from pathlib import Path
 
 # ==== EINSTELLUNGEN ====
 SEARCH_TERM = '(measur* OR determin* OR monitor* OR quantitativ*) AND health* AND blood AND humans[MeSH Terms] AND ("sports medicine" OR "regenerative medicine" OR "athletic performance" OR "exercise physiology" OR training OR athletics OR "sports injury" OR "sports nutrition" OR "musculoskeletal health") AND (biomarker* OR "blood analysis" OR "blood testing" OR "blood parameters") AND (antibod* OR "antibody-antigen binding" OR "antibody-antigen reaction")'
-MAX_RESULTS = 100
+MAX_RESULTS = 1000
 SAVE_DIR = Path.home() / "BachelorProjekt"
 SAVE_DIR.mkdir(parents=True, exist_ok=True)
-OUT_PATH = SAVE_DIR / "stageA_metadata.json"
+OUT_PATH = SAVE_DIR / "stageA_metadata2.json"
 
 # ==== 1️⃣ PubMed Query → PMIDs ====
 def get_pubmed_ids(query, retmax=100):
