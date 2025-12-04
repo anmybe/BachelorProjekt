@@ -1,20 +1,75 @@
 import json
 import requests
 import os
+import anthropic
 from time import sleep
 from datetime import datetime
+from typing import Dict, Any, List
 
-# --- CONFIGURATION ---
-# IMPORTANT: Set MOCK_MODE = True for local testing (no API key needed).
+from dotenv import load_dotenv
+load_dotenv()
+
+# --- LLM API IMPORTS ---
+# requests is used for the raw Gemini API endpoint
+import requests 
+
+# Anthropic and OpenAI SDKs are used for those providers
+try:
+    import anthropic
+    from anthropic import APIError, APIStatusError # Import specific Anthropic errors
+except ImportError:
+    anthropic = None
+    APIError = type('APIError', (Exception,), {})
+    APIStatusError = type('APIStatusError', (Exception,), {})
+
+try:
+    from openai import OpenAI
+    openai = True  # Flag to indicate successful import
+except ImportError:
+    openai = None
+    OpenAI = None
+
+try:
+    import google.generativeai as genai
+except ImportError:
+    genai = None 
+# --- END IMPORTS ---
+
+# --- CONFIGURATION (The Switch) ---
+
+# Choose your provider here: "GEMINI", "CLAUDE", or "OPENAI"
+API_PROVIDER = "GEMINI" 
+
 MOCK_MODE = False
+CHUNK_FOLDER = "chunks_gemini_semantic_serial3"
+OUTPUT_DIR_PHASE1 = "semantic_serial_results4"
 
-# Folder where your chunked text files reside
-CHUNK_FOLDER = "xml_chunks"
-OUTPUT_DIR_PHASE1 = "phase1_results" 
-API_KEY = "AIzaSyBJ71KAiR9A791vIIp3P7ty_9GpTL011dk"
-API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key={API_KEY}"
+# --- API KEYS AND MODEL MAPPING ---
+API_KEYS = {
+    "GEMINI": os.environ.get("GEMINI_API_KEY"),
+    "CLAUDE": os.environ.get("CLAUDE_API_KEY"),
+    "OPENAI": os.environ.get("OPENAI_API_KEY"),
+}
 
-# The structured output schema definition (required for both real API and mocking structure validation)
+# Provider-specific model selections
+MODELS = {
+    "GEMINI": "gemini-2.5-flash", # Using the specific preview name for the raw API
+    "CLAUDE": "claude-opus-4-5",                 # Best structured output
+    "OPENAI": "gpt-4.1"                   # Best structured output
+}
+
+# --- GLOBAL CLIENT INITIALIZATION ---
+# Initialize SDK clients only if the provider is selected and the library is imported
+
+ANTHROPIC_CLIENT = anthropic.Anthropic(api_key=API_KEYS["CLAUDE"]) if anthropic else None
+OPENAI_CLIENT = OpenAI(api_key=API_KEYS["OPENAI"]) if OpenAI else None
+
+# The base URL structure for the raw Gemini API call
+GEMINI_API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{MODELS['GEMINI']}:generateContent?key={API_KEYS['GEMINI']}"
+
+
+# --- SCHEMA DEFINITIONS (Unchanged) ---
+
 RESPONSE_SCHEMA = {
     "type": "OBJECT",
     "properties": {
@@ -78,198 +133,233 @@ RESPONSE_SCHEMA = {
     "required": ["title", "document_source_id", "analysis_date", "extracted_data"]
 }
 
+CHUNK_RESPONSE_SCHEMA = RESPONSE_SCHEMA["properties"]["extracted_data"]
 
-# The actual prompt based on your final combined query
-SYSTEM_INSTRUCTION = (
-    "You are a Scientific Review Assistant. Your task is to analyze the provided article chunks "
-    "(Abstract, Methods, Results, and Discussion sections) related to sports medicine and biomarker relationships. "
-    "You MUST respond ONLY with a single JSON object that strictly conforms to the provided JSON Schema. "
-    "Extract and synthesize the requested information, focusing on specific biomarker names and the physical activity context."
+
+# --- SYSTEM INSTRUCTIONS AND PROMPTS ---
+
+# 1. System Instruction for CHUNK ANALYSIS (Phase 1a) - NOW USED AS PROMPT PREFIX
+CHUNK_INSTRUCTION_PREFIX = (
+    "INSTRUCTIONS: You are a highly specialized Scientific Data Extractor. Your task is to analyze the provided article chunk "
+    "and extract ALL relevant data points for the five required categories. Your response MUST ONLY be a single JSON object "
+    "that strictly conforms to the provided JSON Schema (the 'extracted_data' block). DO NOT attempt to summarize the whole document; "
+    "focus only on the specific facts present in the text provided.\n\n"
 )
 
-def build_user_query(document_id: str, chunk_content: str) -> str:
-    """Builds the comprehensive user prompt based on the five integrated queries."""
+# 2. The original full SYSTEM INSTRUCTION (Used for the final SYNTHESIS step) - NOW USED AS PROMPT PREFIX
+SYSTEM_INSTRUCTION_PREFIX = (
+    "INSTRUCTIONS: You are a Scientific Review Assistant. Your task is to review the structured data provided below. "
+    "You MUST respond ONLY with a single JSON object that strictly conforms to the provided full document JSON Schema. "
+    "Extract and synthesize the requested information, focusing on specific biomarker names and the physical activity context.\n\n"
+)
+
+# 3. Query Builder for CHUNK ANALYSIS (FIXED to include instructions)
+def build_chunk_analysis_query(document_id: str, chunk_content: str) -> str:
+    """Builds the user prompt for analyzing a single chunk, including the system instructions."""
     
     integrated_query = """
-    Analyze the provided content related to the article: {doc_id}. 
+    Analyze the provided content related to the article: **{doc_id}**. 
     Focus on extracting precise data points and relationships to fulfill the following requirements.
 
-    1. Core Effect & Quantification (Biomarker Identity): Identify all primary **biomarkers** that showed a statistically **significant change** (up or down) in response to the study's **physical intervention**. List the **biomarker name**, the **physical activity context** (e.g., HIPE, P2, Heavy Labor), and quantify the **magnitude of this change** (e.g., logFC=1.27, ~51% reduction, p=0.017, >250 MMU/ml).
+    1. Core Effect & Quantification (Biomarker Identity): Identify all primary **biomarkers** that showed a statistically **significant change** (up or down) in response to the study's **physical intervention/condition**. List the **biomarker name**, the **activity/disease context** (e.g., HIPE, P2, Primary Biliary Cirrhosis, Heavy Labor), and quantify the **magnitude of this change** (e.g., logFC=1.27, ~51% reduction, p=0.017, AUC=0.905).
 
-    2. Molecular Mechanism & Activity Type (Relationship): Describe the authors' proposed **molecular mechanism** or **causal relationship** that links the **activity type** (e.g., endurance, heavy labor) to the resulting change in the **biomarker** (e.g., Leptin level influencing T-cell proliferation, or TOC correlating with hsCRP).
+    2. Molecular Mechanism & Activity Type (Relationship): Describe the authors' proposed **molecular mechanism** or **causal relationship** that links the **activity/disease type** (e.g., endurance, autoimmune destruction) to the resulting change in the **biomarker** (e.g., Leptin level influencing T-cell proliferation, or TOC correlating with hsCRP).
 
-    3. Dose/Intensity and Sport/Workload Specificity (Comparison): Analyze whether the study identified a **dose-response** effect or **specificity** related to the type of **sport/workload**. Specifically, compare the difference in effect (or lack thereof) between **high** vs. **low** intensity, the inclusion of **heat stress**, or the **physique athlete diet** vs. **control** groups on the **biomarkers**.
+    3. Dose/Intensity and Sport/Workload Specificity (Comparison): Analyze whether the study identified a **dose-response** effect or **specificity** related to the type of **sport/workload/disease stage**. Specifically, compare the difference in effect (or lack thereof) between **high** vs. **low** intensity, the inclusion of **heat stress**, or the **physique athlete diet** vs. **control** groups, or **disease phases** on the **biomarkers**.
 
-    4. Clinical Implication & Relevant Population (Health Context): What **clinical or health risk implications** did the authors associate with the observed **biomarker pattern** for the **study population**? Classify the finding as either a **protective anti-inflammatory benefit** or an **adverse risk** (e.g., autoimmunity, infection).
+    4. Clinical Implication & Relevant Population (Health Context): What **clinical or health risk implications** did the authors associate with the observed **biomarker pattern** for the **study population** (e.g., patients with PBC, manual laborers)? Classify the finding as either a **protective anti-inflammatory benefit** or an **adverse risk/diagnostic utility** (e.g., autoimmunity, infection, superior diagnostic marker).
 
     5. Biomarker Reliability & Future Focus (Assay Utility): Evaluate the authors' assessment of the **sensitivity or reliability** of the key **biomarkers** (e.g., EndoCAb utility in EIGS). Which **alternative biomarkers** (e.g., Ig free light chains) or **functional assays** did the authors recommend for future research?
 
-    Provided Article Chunks (Abstract, Methods, Results, and Discussion):
+    Provided Article Content CHUNK:
     ---
     {content}
     ---
     """
-    return integrated_query.format(doc_id=document_id, content=chunk_content)
+    return CHUNK_INSTRUCTION_PREFIX + integrated_query.format(doc_id=document_id, content=chunk_content)
 
-# --- CHUNK LOADER FUNCTION ---
-
-def load_and_combine_chunks():
+# 4. Query Builder for SYNTHESIS (FIXED to include instructions)
+def build_synthesis_query(document_id: str, title: str, chunk_results: list) -> str:
+    """Builds the user prompt for the final synthesis API call, including the system instructions."""
+    
+    formatted_results = "\n\n---\n\n".join([json.dumps(res, indent=2) for res in chunk_results])
+    
+    synthesis_query = f"""
+    You are performing the final synthesis for the document: **{title}** (ID: {document_id}).
+    
+    Below is a collection of structured JSON objects, each extracted from a single chunk of the source paper. 
+    Your task is to review all the individual JSON extractions and synthesize them into a single, cohesive, 
+    and non-redundant final JSON object that strictly adheres to the requested full document schema.
+    
+    Rules for Synthesis:
+    1. **Merge Arrays:** For 'core_effect_and_quantification' and 'recommended_alternatives', combine all unique findings from all chunks into a single array. Remove exact duplicates.
+    2. **Synthesize Objects:** For the other three categories (Mechanism, Dose/Specificity, Clinical Implication, Reliability), read across all chunks and write a single, comprehensive, and non-redundant summary text for each field.
+    3. **Ensure Completeness:** The final JSON object MUST adhere to the original document schema.
+    
+    Structured Data from Chunks:
+    ---
+    {formatted_results}
+    ---
     """
-    Loads and combines 'results' and 'discussion' chunks from the specified folder.
-    Groups files by their Document ID (e.g., 'PMC7617100').
+    return SYSTEM_INSTRUCTION_PREFIX + synthesis_query
+
+# --- CHUNK LOADER FUNCTION (Unchanged) ---
+
+""" def load_document_chunks() -> Dict[str, Dict[str, Any]]:
+    ""
+    Loads a single JSON file per document ID, extracts metadata and returns the list of chunks.
+    ""
+    if not os.path.isdir(CHUNK_FOLDER):
+        print(f"Error: Directory '{CHUNK_FOLDER}' not found. Please create it and place your files inside.")
+        return {}
+
+    all_files = os.listdir(CHUNK_FOLDER)
+    documents_to_process = {}
+
+    for filename in all_files:
+        if filename.endswith('.json'):
+            file_path = os.path.join(CHUNK_FOLDER, filename)
+            
+            try:
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    doc_data = json.load(f)
+
+                # Extract key metadata
+                doc_id = doc_data.get('pmid') or doc_data.get('pmcid') or doc_data.get('doi') or filename.split('_')[0]
+                
+                chunks_list = doc_data.get('chunks', [])
+                
+                # Get the title (or default)
+                first_chunk_text = chunks_list[0].get('text', '') if chunks_list else ''
+                title = first_chunk_text.split('\n')[0].strip() or f"Document {doc_id} (Title not extracted)"
+
+                if not chunks_list:
+                    print(f"Warning: Skipping {filename}. Contains no 'chunks'.")
+                    continue
+
+                documents_to_process[doc_id] = {
+                    'title': title,
+                    'all_chunks': chunks_list # Store the list of chunk objects
+                }
+                
+            except json.JSONDecodeError:
+                print(f"Warning: Skipping {filename}. Not a valid JSON file.")
+            except Exception as e:
+                print(f"Warning: Could not read or process {filename}. Error: {e}")
+
+    return documents_to_process """
+
+def load_document_chunks() -> Dict[str, Dict[str, Any]]:
+    """
+    Loads a single JSON file per document ID, extracts metadata and returns the list of chunks.
     """
     if not os.path.isdir(CHUNK_FOLDER):
         print(f"Error: Directory '{CHUNK_FOLDER}' not found. Please create it and place your files inside.")
         return {}
 
     all_files = os.listdir(CHUNK_FOLDER)
-    doc_chunks = {}
+    documents_to_process = {}
 
-    # 1. Group files by Document ID
     for filename in all_files:
-        if filename.endswith('.txt'):
-            parts = filename.split('_')
+        if filename.endswith('.json'):
+            file_path = os.path.join(CHUNK_FOLDER, filename)
             
-            if len(parts) >= 2:
-                doc_id = parts[0]
-                section = parts[-1].replace('.txt', '').lower()
-                
-                if doc_id not in doc_chunks:
-                    doc_chunks[doc_id] = {
-                        'title': None, 
-                        'abstract': None, 
-                        'methods': None, 
-                        'results': None, 
-                        'discussion': None, 
-                    }
-
-                if 'results' in section:
-                    doc_chunks[doc_id]['results'] = filename
-                elif 'discussion' in section:
-                    doc_chunks[doc_id]['discussion'] = filename
-                elif 'title' in section:
-                    doc_chunks[doc_id]['title'] = filename
-                elif 'abstract' in section:
-                    doc_chunks[doc_id]['abstract'] = filename
-                elif 'methods' in section:
-                    doc_chunks[doc_id]['methods'] = filename
-
-
-    final_chunks = {}
-    
-    # 2. Combine all available sections for each document
-    for doc_id, files in doc_chunks.items():
-        if files['results'] and files['discussion']:
             try:
-                # Load Title
-                title_content = f"Document ID: {doc_id}"
-                if files['title']:
-                     with open(os.path.join(CHUNK_FOLDER, files['title']), 'r', encoding='utf-8') as f:
-                        # Liest nur die erste Zeile oder entfernt unnötigen Whitespace
-                        title_content = f.read().strip().split('\n')[0] 
-                
-                # Load content from all sections
-                content_parts = {}
-                sections_to_load = ['abstract', 'methods', 'results', 'discussion']
-                
-                for section in sections_to_load:
-                    filename = files.get(section)
-                    content = f"[No {section.upper()} content available]"
-                    if filename:
-                        with open(os.path.join(CHUNK_FOLDER, filename), 'r', encoding='utf-8') as f:
-                            content = f.read()
-                    content_parts[section] = content
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    doc_data = json.load(f)
 
-                # Combine all sections with clear delimiters
-                combined_content = (
-                    f"--- ABSTRACT SECTION ---\n{content_parts['abstract']}\n\n"
-                    f"--- METHODS SECTION ---\n{content_parts['methods']}\n\n"
-                    f"--- RESULTS SECTION ---\n{content_parts['results']}\n\n"
-                    f"--- DISCUSSION SECTION ---\n{content_parts['discussion']}"
-                )
+                # Extract key metadata
+                doc_id = doc_data.get('pmid') or doc_data.get('pmcid') or doc_data.get('doi') or filename.split('_')[0]
                 
-                final_chunks[doc_id] = {
-                    'title': title_content,
-                    'content': combined_content
+                chunks_list = doc_data.get('chunks', [])
+                
+                # Get the title (or default)
+                first_chunk_text = chunks_list[0].get('text', '') if chunks_list else ''
+                title = first_chunk_text.split('\n')[0].strip() or f"Document {doc_id} (Title not extracted)"
+
+                if not chunks_list:
+                    print(f"Warning: Skipping {filename}. Contains no 'chunks'.")
+                    continue
+
+                documents_to_process[doc_id] = {
+                    'title': title,
+                    'all_chunks': chunks_list # Store the list of chunk objects
                 }
                 
+            except json.JSONDecodeError:
+                print(f"Warning: Skipping {filename}. Not a valid JSON file.")
             except Exception as e:
-                print(f"Warning: Could not read or combine files for {doc_id}. Error: {e}")
-        else:
-             print(f"Skipping {doc_id}: Missing core 'results' or 'discussion' file.")
+                print(f"Warning: Could not read or process {filename}. Error: {e}")
 
-    return final_chunks
+    return documents_to_process
 
-# --- MOCK & REAL API CALL FUNCTIONS ---
 
-def mock_call_gemini_api(document_id: str, chunk_content: str):
+# --- API CALL IMPLEMENTATIONS ---
+
+def mock_call_gemini_api(document_id: str, chunk_content: str = None) -> Dict[str, Any]:
     """
     Simulates the LLM's structured JSON response for local testing.
-    This uses a fixed mock structure for immediate pipeline testing.
+    This function is designed to return the CHUNK-level schema (extracted_data).
     """
     print(f"--- MOCKING API RESPONSE for {document_id} ---")
     
-    mock_data = {
-        "title": f"MOCK ANALYSIS: {document_id}",
-        "document_source_id": document_id,
-        "analysis_date": datetime.now().strftime("%Y-%m-%d"),
-        "extracted_data": {
-            "core_effect_and_quantification": [
-                {
-                    "biomarker_name": "Mock_Neutrophils",
-                    "activity_context": "Mock_Intense Training",
-                    "direction_of_change": "Increase",
-                    "magnitude_quantification": "30% increase (p<0.01)"
-                }
-            ],
-            "molecular_mechanism_and_relationship": {
-                "activity_type_context": "Mock_Physique Sports",
-                "mechanism_description": "Mock_Suppression mediated by low leptin levels causing T-cell inhibition.",
-                "related_biomarkers": ["Mock_Leptin", "Mock_T-cells"]
-            },
-            "dose_intensity_and_specificity": {
-                "dose_comparison_summary": "Mock_Effect more pronounced in 12hr vs 8hr shifts.",
-                "specificity_finding": "Mock_Specific to myeloid lineage."
-            },
-            "clinical_implication_and_population": {
-                "target_population": "Mock_Manual Laborers",
-                "health_implication": "Mock_Early development of oxidative stress imbalance.",
-                "risk_classification": "Adverse"
-            },
-            "biomarker_reliability_and_future_focus": {
-                "reliability_assessment": "Mock_Low sensitivity in controlled lab settings.",
-                "recommended_alternatives": ["Mock_Ig free light chains", "Mock_Functional assays"]
+    # MOCK data must match the CHUNK_RESPONSE_SCHEMA (the 'extracted_data' block)
+    mock_extracted_data = {
+        "core_effect_and_quantification": [
+            {
+                "biomarker_name": "Mock_Neutrophils",
+                "activity_context": "Mock_Intense Training",
+                "direction_of_change": "Increase",
+                "magnitude_quantification": "30% increase (p<0.01)"
             }
+        ],
+        "molecular_mechanism_and_relationship": {
+            "activity_type_context": "Mock_Physique Sports",
+            "mechanism_description": "Mock_Suppression mediated by low leptin levels causing T-cell inhibition.",
+            "related_biomarkers": ["Mock_Leptin", "Mock_T-cells"]
+        },
+        "dose_intensity_and_specificity": {
+            "dose_comparison_summary": "Mock_Effect more pronounced in 12hr vs 8hr shifts.",
+            "specificity_finding": "Mock_Specific to myeloid lineage."
+        },
+        "clinical_implication_and_population": {
+            "target_population": "Mock_Manual Laborers",
+            "health_implication": "Mock_Early development of oxidative stress imbalance.",
+            "risk_classification": "Adverse"
+        },
+        "biomarker_reliability_and_future_focus": {
+            "reliability_assessment": "Mock_Low sensitivity in controlled lab settings.",
+            "recommended_alternatives": ["Mock_Ig free light chains", "Mock_Functional assays"]
         }
     }
-    return mock_data
+    return mock_extracted_data
 
-def call_gemini_api(document_id: str, chunk_content: str):
-    """Calls the Gemini API to analyze the chunk content and return structured JSON (Real API Call)."""
+def call_gemini_api_internal(document_id: str, user_query: str, system_instruction: str, response_schema: Dict[str, Any]) -> Dict[str, Any]:
+    """Internal function to handle the actual API call logic with retries."""
     
-    user_query = build_user_query(document_id, chunk_content)
-    
+    # Constructing the payload 
     payload = {
         "contents": [{"parts": [{"text": user_query}]}],
-        "systemInstruction": {"parts": [{"text": SYSTEM_INSTRUCTION}]},
-        "generationConfig": {
+        # 🚨 FIX: Using the correct field name 'generationConfig' (reverted from previous error)
+        "generationConfig": { 
             "responseMimeType": "application/json",
-            "responseSchema": RESPONSE_SCHEMA
+            "responseSchema": response_schema
         }
+        # NOTE: systemInstruction is omitted here because the instructions are now in user_query
     }
     
-    # Implement exponential backoff for robustness
     max_retries = 5
     retry_delay = 1
     
-    for attempt in range(max_retries):
+    """ for attempt in range(max_retries):
         try:
             response = requests.post(API_URL, 
                                      headers={'Content-Type': 'application/json'},
                                      data=json.dumps(payload))
-            response.raise_for_status()
+            response.raise_for_status() # Raises HTTPError for 4XX/5XX errors
             
             result = response.json()
+            # Extract text from the nested response structure
             json_text = result.get('candidates', [{}])[0].get('content', {}).get('parts', [{}])[0].get('text')
             
             if json_text:
@@ -278,58 +368,190 @@ def call_gemini_api(document_id: str, chunk_content: str):
                 print(f"Warning: Model returned empty content for {document_id}. Attempt {attempt + 1}")
         
         except (requests.exceptions.RequestException, json.JSONDecodeError) as e:
+            # Capture the full response text if available for better debugging
+            if hasattr(response, 'text'):
+                 print(f"Detailed 400 Error: {response.text}")
+
             print(f"Error for {document_id} on attempt {attempt + 1}: {e}")
 
         if attempt < max_retries - 1:
             sleep(retry_delay)
             retry_delay *= 2
         
-    return {"error": f"Failed to process {document_id} after {max_retries} attempts."}
+    return {"error": f"Failed to process {document_id} after {max_retries} attempts."} """
 
+    for attempt in range(max_retries):
+        try:
+            # 1. API Call with the Anthropic SDK
+            response = ANTHROPIC_CLIENT.messages.create(
+                model=MODELS["CLAUDE"],
+                max_tokens=4096, # Generous token limit for complex extraction/synthesis
+                messages=[
+                    # The instructions and schema are already built into the user_query (system instruction prefix)
+                    {"role": "user", "content": user_query} 
+                ]
+            )
+            
+            # 2. Extract and Parse the JSON from the response text
+            # The model is instructed to wrap the JSON in <json>...</json> tags.
+            json_text = response.content[0].text
+            
+            # Find the JSON content wrapped in <json> tags
+            start_tag = "<json>"
+            end_tag = "</json>"
+            
+            if start_tag in json_text and end_tag in json_text:
+                json_start = json_text.find(start_tag) + len(start_tag)
+                json_end = json_text.find(end_tag)
+                
+                # Sanitize and extract the JSON content
+                extracted_json_str = json_text[json_start:json_end].strip()
+                
+                # Load and return the JSON object
+                return json.loads(extracted_json_str)
+            else:
+                # Fallback: Try to parse the entire response if the tags are missing
+                try:
+                    return json.loads(json_text)
+                except json.JSONDecodeError:
+                    print(f"Warning: Claude response for {document_id} on attempt {attempt + 1} did not contain valid JSON in <json> tags or as a direct response. Received text:\n{json_text[:200]}...")
+            
+        except APIError as e:
+            # Handle specific Anthropic API errors (rate limits, invalid key, etc.)
+            print(f"Claude API Error for {document_id} on attempt {attempt + 1}: {e}")
+            if e.status_code == 429: # Too Many Requests (Rate Limit)
+                print(f"Rate limit hit. Waiting for {retry_delay} seconds...")
+            elif e.status_code == 400: # Bad Request (e.g., input too long)
+                 # We don't retry 400 errors as they are likely permanent with the current input
+                 return {"error": f"Bad Request (400) from Claude API: {e}"}
+            else:
+                 pass # Retry other transient errors
+
+        except Exception as e:
+            print(f"General Error for {document_id} on attempt {attempt + 1}: {e}")
+
+        if attempt < max_retries - 1:
+            sleep(retry_delay)
+            retry_delay *= 1.5 # Exponential backoff
+            
+    return {"error": f"Failed to process {document_id} after {max_retries} attempts with Claude API."}
+
+
+def analyze_chunk(document_id: str, chunk_content: str) -> Dict[str, Any]:
+    """
+    Phase 1a: Calls the API to analyze a single chunk.
+    """
+    if MOCK_MODE:
+        return mock_call_gemini_api(document_id, chunk_content)
+
+    # Sanitize the chunk content to remove invalid characters
+    sanitized_content = chunk_content.encode('utf-8', 'ignore').decode('utf-8', 'ignore')
+        
+    # The prompt now includes the system instructions
+    user_query = build_chunk_analysis_query(document_id, sanitized_content)
+    
+    return call_gemini_api_internal(
+        document_id=document_id,
+        user_query=user_query,
+        system_instruction=None, # System instruction is now included in user_query
+        response_schema=CHUNK_RESPONSE_SCHEMA 
+    )
+
+def synthesize_results(doc_id: str, title: str, chunk_results: List[Dict[str, Any]]) -> Dict[str, Any]:
+    """Phase 1b: Calls the API to synthesize all chunk results into the final document schema."""
+    
+    if MOCK_MODE:
+        print("--- MOCKING SYNTHESIS RESPONSE ---")
+        return {
+            "title": title,
+            "document_source_id": doc_id,
+            "analysis_date": datetime.now().strftime("%Y-%m-%d"),
+            "extracted_data": mock_call_gemini_api(doc_id)
+        }
+
+    # The prompt now includes the system instructions
+    user_query = build_synthesis_query(doc_id, title, chunk_results)
+    
+    return call_gemini_api_internal(
+        document_id=doc_id,
+        user_query=user_query,
+        system_instruction=None, # System instruction is now included in user_query
+        response_schema=RESPONSE_SCHEMA 
+    )
+
+
+# --- ORCHESTRATION ---
+
+def process_document(doc_id: str, doc_data: Dict[str, Any]) -> Dict[str, Any]:
+    """Orchestrates the chunk analysis (1a) and final synthesis (1b) for one document."""
+    
+    all_chunk_results = []
+    
+    # PHASE 1a: ITERATIVE CHUNK ANALYSIS
+    print(f"    -> Starting Chunk Analysis ({len(doc_data['all_chunks'])} chunks)...")
+    for i, chunk in enumerate(doc_data['all_chunks']):
+        chunk_content = chunk.get('text', '')
+        
+        if not chunk_content.strip():
+             print(f"    -> Warning: Chunk {i+1} is empty, skipping.")
+             continue
+
+        chunk_result = analyze_chunk(doc_id, chunk_content)
+        
+        if "error" in chunk_result:
+            print(f"    -> FAILED on Chunk {i+1}. Stopping for this document.")
+            return {"error": f"Failed analysis on chunk {i+1}: {chunk_result['error']}"}
+            
+        all_chunk_results.append(chunk_result)
+        sleep(0.5) # Small delay between chunks
+    
+    if not all_chunk_results:
+        return {"error": "No non-empty chunks were successfully processed."}
+        
+    # PHASE 1b: FINAL SYNTHESIS
+    print("    -> Synthesizing final document result...")
+    final_analysis = synthesize_results(doc_id, doc_data['title'], all_chunk_results) 
+    
+    if "error" in final_analysis:
+        print(f"    -> FAILED Synthesis: {final_analysis['error']}")
+    
+    return final_analysis
 
 def main():
     """Main function to iterate over documents and process chunks."""
     
-    # NEU: Sicherstellen, dass der Ausgabeordner existiert
     if not os.path.exists(OUTPUT_DIR_PHASE1):
         os.makedirs(OUTPUT_DIR_PHASE1)
         print(f"Created output directory: '{OUTPUT_DIR_PHASE1}'")
 
-    # Use the new loader function to get the data structure
-    simulated_chunks = load_and_combine_chunks()
-    if not simulated_chunks:
+    documents_to_process = load_document_chunks()
+    if not documents_to_process:
         print("No documents were loaded or found. Exiting.")
         return
 
-    # Select the appropriate processing function
-    process_func = mock_call_gemini_api if MOCK_MODE else call_gemini_api 
-
     success_count = 0
     
-    for doc_id, data in simulated_chunks.items():
-        print(f"\n--- Processing Document ID: {doc_id} (Title: {data['title']}) ---")
+    for doc_id, data in documents_to_process.items():
+        print(f"\n--- Processing Document ID: {doc_id} (Title: {data['title'][:50]}...) ---")
         
-        # NOTE: Pass the combined content to the API or mock function
-        analysis_result = process_func(doc_id, data['content'])
+        analysis_result = process_document(doc_id, data)
         
-        if "error" not in analysis_result:
-            # Füllen der dynamischen Felder
+        if "error" not in analysis_result and analysis_result.get('extracted_data'):
+            
             analysis_result['document_source_id'] = doc_id
             analysis_result['analysis_date'] = datetime.now().strftime("%Y-%m-%d")
             analysis_result['title'] = data['title']
             
-            # SPEICHERN PRO DOKUMENT IN DEN NEUEN ORNDER
             output_filename = os.path.join(OUTPUT_DIR_PHASE1, f"{doc_id}_analysis.json")
             with open(output_filename, "w", encoding='utf-8') as f:
-                # Speichert das Ergebnis als Array, da Phase 2 ein Array erwartet
                 json.dump([analysis_result], f, indent=2) 
             
             print(f"Successfully analyzed and saved to '{output_filename}'.")
             success_count += 1
         else:
-            print(f"Failed analysis for {doc_id}: {analysis_result['error']}")
+            print(f"Failed analysis for {doc_id}: {analysis_result.get('error', 'Unknown Error during processing.')}")
 
-    print(f"\nPhase 1 completed. Successfully processed {success_count} documents.")
+    print(f"\nPipeline Phase 1 completed. Successfully processed {success_count} documents.")
 
 
 if __name__ == "__main__":

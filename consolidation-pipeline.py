@@ -4,7 +4,7 @@ import os
 from time import sleep
 
 # --- CONFIGURATION ---
-INPUT_FOLDER = "phase1_results"
+INPUT_FOLDER = "semantic_serial_results"
 OUTPUT_FILE = "final_biomarker_compendium.json"
 API_KEY = "AIzaSyBJ71KAiR9A791vIIp3P7ty_9GpTL011dk"
 API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key={API_KEY}"

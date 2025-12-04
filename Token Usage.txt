@@ -1,0 +1,36 @@
+Token Usage
+
+
+multi-api-consolidation-pipeline.py
+
+aus 6 Files:
+
+--- TOKEN USAGE SUMMARY ---
+Provider: GEMINI (gemini-2.5-flash)
+Input Tokens (Prompt/Data): 34349
+Output Tokens (Response): 11989
+Total Tokens Used: 50377
+---------------------------
+
+
+
+
+multi-api-pipeline.py
+
+Pro Chunk File:
+
+--- TOKEN USAGE SUMMARY FOR DOCUMENT ---
+Provider: GEMINI (gemini-2.5-flash)
+Total API Calls: 4
+Input Tokens (Prompt/Data): 15653
+Output Tokens (Response): 5187
+Total Tokens Used: 34237
+----------------------------------------
+
+--- TOKEN USAGE SUMMARY FOR DOCUMENT ---
+Provider: GEMINI (gemini-2.5-flash)
+Total API Calls: 5
+Input Tokens (Prompt/Data): 16243
+Output Tokens (Response): 8849
+Total Tokens Used: 41194
+----------------------------------------
