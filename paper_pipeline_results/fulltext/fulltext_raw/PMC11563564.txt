@@ -1,0 +1,441 @@
+pmc
+Neurol Neuroimmunol Neuroinflamm
+Neurol Neuroimmunol Neuroinflamm
+nnn
+NEURIMMINFL
+Neurology® Neuroimmunology & Neuroinflammation
+2332-7812
+Lippincott Williams & Wilkins
+Hagerstown, MD
+11563564
+39536291
+NXI-2024-100279
+10.1212/NXI.0000000000200322
+3
+132
+41
+Research Article
+Proteomics Reveals Age as Major Modifier of Inflammatory CSF Signatures in Multiple Sclerosis
+https://orcid.org/0009-0008-1190-9435
+Held
+Friederike
+https://orcid.org/0009-0001-1711-187X
+Makarov
+Christine
+https://orcid.org/0000-0002-0524-6005
+Gasperi
+Christiane
+MD
+Flaskamp
+Martina
+Grummel
+Verena
+https://orcid.org/0000-0001-9650-6222
+Berthele
+Achim
+MD
+https://orcid.org/0000-0001-5985-6784
+Hemmer
+Bernhard
+MD
+From the Department of Neurology (F.H., C.M., C.G., M.F., V.G., A.B., B.H.), University Hospital rechts der Isar, School of Medicine and Health, Technical University Munich, and Munich Cluster for Systems Neurology (SyNergy) (B.H.), Munich, Germany.
+Correspondence
+Dr. Hemmer
+hemmer@tum.de
+Go to
+Neurology.org/NN
+for full disclosures. Funding information is provided at the end of the article.
+The Article Processing Charge was funded by Technical University of Munich.
+Submitted and externally peer reviewed. The handling editor was Deputy Editor Scott S. Zamvil, MD, PhD, FAAN.
+1
+2025
+13
+11
+2024
+13
+11
+2024
+12
+1
+e200322
+06
+5
+2024
+12
+8
+2024
+Copyright © 2024 The Author(s). Published by Wolters Kluwer Health, Inc. on behalf of the American Academy of Neurology.
+2024
+American Academy of Neurology
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+This is an open access article distributed under the terms of the
+Creative Commons Attribution-Non Commercial-No Derivatives License 4.0 (CCBY-NC-ND)
+, where it is permissible to download and share the work provided it is properly cited. The work cannot be changed in any way or used commercially without permission from the journal.
+Background and Objectives
+Multiple sclerosis (MS) can start as relapsing or progressive. While their clinical features and treatment responses are distinct, it has remained uncertain whether their pathomechanisms differ. A notable age-related effect on MS phenotype and response to immunotherapies is well acknowledged, but the underlying pathophysiologic reasons are yet to be fully elucidated. We aimed to identify disease-specific and age-related proteomic signatures using a comprehensive targeted proteomic analysis.
+Methods
+In our retrospective cohort study, we analyzed the CSF and serum proteome of age-matched individuals with treatment-naïve relapsing-remitting and primary progressive MS, neurologic controls (NC), and individuals with neuroborreliosis using targeted proteomics and validated findings in an independent cohort. Proteomic results were integrated with clinical and laboratory covariates.
+Results
+Among 2,500 proteins, 47 CSF proteins were distinct between individuals with MS (n = 60) and NC (n = 20), with a subset also differing from those with neuroborreliosis (n = 8). We identified MS-associated proteins, including novel candidate biomarkers such as LY9 and JCHAIN, and putative treatment targets, such as SLAMF7, BCMA, and IL5RA, for which drugs are already licensed in other indications. The CSF proteome differences between relapsing and progressive MS were minimal, but major changes were noted in individuals older than 50 years, indicating a shift from MS-associated inflammatory to age-related protein signature. NEFL was the only serum protein that differed between individuals with MS and controls.
+Discussion
+This study unveils a unique CSF proteomic signature in MS, providing new pathophysiologic insights and identifying novel biomarker candidates and potential therapeutic targets. Our findings highlight similar immunologic mechanisms in relapsing and progressive MS and underscore aging's profound effect on the intrathecal immune response. This aligns with the observed lower efficacy of immunotherapies in the elderly, thus emphasizing the necessity for alternative therapeutic approaches in treating individuals with MS beyond the age of 50.
+OPEN-ACCESS
+TRUE
+Introduction
+Multiple sclerosis (MS) is the leading cause of chronic neurologic disability in young adults.
+1
+Over the past decade, there has been a substantial rise in MS prevalence globally, culminating in a total of 2.8 million individuals affected by MS worldwide.
+2
+In 90% of individuals with MS, MS sets on with a relapsing-remitting course (RRMS), and in 10% with a primary progressive course (PPMS).
+3
+The prevalence of PPMS among newly diagnosed individuals increases with age.
+4
+Aging and disease duration are also major determinants for secondary progression in RRMS. Depending on age, up to 50%–60% of individuals with RRMS transition into a phase of clinically apparent secondary disease progression in the fifth decade.
+5
+,
+6
+The distinction between a relapsing course and a progressive course is decisive for implementing disease-modifying therapies.
+Regarding pathophysiology, the early phase of RRMS is characterized by a dominant autoreactive adaptive immune response originating from the peripheral immune system.
+7
+In line with this, young individuals with MS respond favorably to available immunomodulatory drugs that target peripheral T and B lymphocytes or prevent their CNS infiltration.
+8
+The pathophysiology underlying PPMS remains elusive. Compartmentalized neuroinflammation or primary neurodegeneration is being discussed as a driver of gradual worsening.
+9
+,
+10
+Both pathophysiologic models align with low efficacy of immunotherapies in progressive MS targeting adaptive immune responses in the periphery.
+8
+Comprehensive biological phenotyping is essential to better understand the pathophysiologic processes underlying MS and for delineating age-associated and disease course–specific mechanisms. Owing to the proximity of CSF to the CNS compartment, CSF is more likely to reflect pathologic processes in MS and more suitable for such analyses compared with serum or plasma. The influence of aging on the MS CSF proteome has not yet been comprehensively investigated, and most studies that have attempted to identify disease-specific marker proteins have not used proper age-matched cohorts.
+In this study, we used a large-scale targeted proteomic approach to analyze age-related and disease course–specific CSF protein signatures in MS. In our discovery cohort, we compared the CSF profiles of individuals with MS with those of age-matched neurologic controls (NC) and individuals with Lyme neuroborreliosis (LNB), aiming to identify MS-specific protein signatures. To discern unique protein signatures associated with different MS disease courses, we compared the protein profiles of individuals with RRMS and age-matched PPMS. This was followed by subsequent analyses of protein abundance across various age groups to uncover age-dependent protein signatures. MS-associated proteins were then validated in an independent cohort and further compared with paired serum proteomic profiles. Proteomic results were moreover integrated with phenotyping of CSF cells by flow cytometry.
+Methods
+Study Design and Cohort
+We analyzed CSF samples from a discovery cohort of 88 individuals with RRMS (n = 30), PPMS (n = 30), and LNB (n = 8) and NC (n = 20). We replicated the findings in a validation cohort of 28 individuals with MS (n = 20) and NC (n = 8) in paired CSF and serum samples (
+Figure 1
+).
+We selected individuals with acute or subacute LNB as inflammatory controls because they share several CSF findings with those with MS, including the presence of oligoclonal bands (OCB), intrathecal immunoglobulin synthesis, and the presence of B cells (BC) and plasma cells (PC)/plasmablasts (PB). The NC cohort contained individuals with primary headache, in whom a structural disease of the CNS was excluded. Individuals with MS were all newly diagnosed and treatment naïve. Groups were matched for age and sex. The clinical and laboratory characteristics of the cohorts are summarized in
+Table 1
+. All CSF samples were obtained by lumbar puncture in our department and processed within 1 hour after lumbar puncture, according to standardized guidelines.
+11
+CSF was centrifuged at 2,000
+g
+for 10 minutes at 4°C to remove cells. Serum samples were centrifuged at 2,000g for 10 minutes at room temperature. CSF and serum samples were subsequently stored in polypropylene tubes at −80°C until analysis and used without undergoing any previous freeze-thaw cycles.
+Standard Protocol Approvals, Registrations, and Patient Consents
+CSF and serum samples were obtained for diagnostic purposes and preserved in the biobank of the Department of Neurology, which is part of the Joint Biobank Munich in the framework of the German Biobank Node. This study received approval from the ethics commission of the Technical University of Munich (466/15) and followed the principles outlined in the Declaration of Helsinki. All patients provided written informed consent. The research was conducted and reported in accordance with the Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) guidelines for observational studies.
+CSF and Serum Laboratory Analyses
+Diagnostic analysis of immunoglobulins and albumin was conducted by immunonephelometry on the Siemens BN Prospec nephelometer, following the manufacturer's protocol. The albumin quotient was calculated by dividing the albumin level in CSF by the albumin level in serum (Qalb = Albumin
+CSF
+[mg/L]/Albumin
+Serum
+[g/L]), indicating the integrity of the blood-brain barrier. Quantitative assessment of the intrathecal humoral immune response was performed by calculating the immunoglobulin G (IgG) index using the formula IgG index = QIgG/Qalb with QIgG as the CSF-to-serum IgG quotient. An IgG index of greater than 0.70 was considered elevated. Detection of OCB was performed through isoelectric focusing and silver staining. CSF pleocytosis was defined as CSF white cell counts ≥5/µL. Flow cytometry was conducted on fresh CSF cells, as described previously.
+12
+Flow cytometric analyses were performed using either a CytoFLEX flow cytometer (Beckman Coulter Cyan, Brea, CA) or Cytek Northern Lights (Cytek Bioscience, Fremont, CA). We defined the following cutoffs for elevated B-lymphocyte subtypes in relation to the total CD45
++
+lymphocyte CSF cell count: ≥1.5% for elevated CD19
++
+B lymphocytes; ≥0.5% for elevated CD19+/CD138+ PB/PC.
+Proteomic Analyses
+We performed multiplexed proteomic assays using the Olink platform, which uses dual binding of barcoded antibodies to a specific protein and delivered semiquantitative readouts for more than 2,500 proteins. Olink data are reported in normalized protein expression (NPX) values on a log2 scale. All samples were randomized within each run and measured on one plate to avoid batch effects. The relative abundance of >2,500 protein biomarkers in CSF was determined using the Olink Explore library in the discovery cohort. We excluded proteins detected in less than 25% of samples, resulting in a total of 1,998 proteins included in the statistical analysis from the discovery cohort. We replicated identified CSF proteins in an independent validation cohort in CSF and serum using Olink proximity extension assay technology, followed by the same preprocessing of the data set as described for the discovery data set. A total of 1,625 CSF proteins and 1,937 serum proteins overlapping with the protein set of the discovery cohort passed quality control and were included in the study.
+Statistical Analyses
+Statistical analyses were conducted using R version 4.2.1 and R studio version 2022.07.2. NPX values were normalized using the “RNOmni” R package for analysis. The “Olink Analyze Vignette” package facilitated NPX data import, visualizing data distribution, and outlier detection. We excluded one sample based on deviations from the mean interquartile range and mean sample median assessed by the principal component analysis (eFigure 1).
+Regression Analyses
+We used linear regression (“limma” package) to explore the effect of CSF diagnostic parameters, demographics, and clinical variables on protein abundance, adjusting for sex, age (except for the analyses on specific age groups), and Qalb (except for the analyses on Qalb), with disease duration considered for age-specific analyses. MS-associated proteins identified in the discovery cohort were subsequently compared with those in LNB in a secondary analysis. Serum protein abundance effects were adjusted for age and sex. Significance was determined by a false discovery rate (FDR) of
+p
+< 0.05, adjusted for the number of proteins included in each statistical model, visualized through various plots and heatmaps using R packages “EnhancedVolcano,” “pheatmap,” “ggplot,” and “ggplot2.”
+Validation and Combined Analysis
+Identified MS-associated proteins were validated in an independent cohort. Linear regression analysis was performed as mentioned above. To increase the statistical power and assess the reliability of our results in the discovery cohort, we combined the discovery and validation CSF data sets and added a covariate for batch effect control. The combined data set comprised 1,625 overlapping CSF proteins of individuals with RRMS (n = 39), PPMS (n = 40), and LNB (n = 8) and NC (n = 28). Linear regression was then used to evaluate the effect of MS diagnosis on the 1,625 overlapping CSF proteins in the combined data set, and in secondary analysis, we assess the association of selected CSF parameters, MS disease course, and older age, specifically on the 33 validated MS-associated proteins (eFigure 2). Post hoc power calculations were performed for all targeted secondary analyses by calculating the empirical Bayes version of Cohen d (
+d
+) and using the harmonic mean for effective sample size (“pwr” R package). The following diagnostic CSF parameters were assessed: pleocytosis, elevated proportion of CD19
++
+B lymphocytes of total CD45
++
+lymphocyte count, elevated proportion of CD19+/CD138+ PB/PC of total CD45
++
+lymphocyte count, and IgG index. The level of significance was set to
+p
+< 0.05 (FDR).
+Gene Set Enrichment Analysis
+To identify molecular pathways altered in MS, we performed gene set enrichment analysis using the fast gene set enrichment analysis package (“fgsea”). We focused on gene/protein sets with at least 15 overlapping proteins between our test set and the given gene/protein set. To ensure statistical robustness, we performed 10,000 permutations and limited the gene/protein set size to a maximum of 500 genes/proteins. Genes were ranked according to their log fold change. We referenced pathways listed in the Reactome pathway library for the human species. Gene sets were retrieved using the “minder” package, and results were visualized using the “ggplot2” package. Results were statistically significant according to a
+p
+< 0.05 (FDR).
+Data Availability
+The Olink proteomics data for the discovery and validation cohorts have been deposited on the OSF platform:
+osf.io/n6hx5/?view_only=05edc0dc8bec405686cca8d1d7669811
+.
+Results
+Influence of Demographics and Laboratory Parameters on the MS CSF Proteome
+We evaluated the effect of age, sex, and diagnostic CSF parameters on the overall abundance of selected CSF proteins by calculating the explained variability across all CSF samples from the discovery cohort. The use of a targeted proteomic approach inherently limits the influence of confounding variables, as demonstrated by the minimal extent that these factors explain (
+Figure 2A
+). Sex showed a minor effect (
+Figure 2A, B
+) with specific proteins such as kallikrein 3 (KLK3), also called prostate-specific antigen (PSA), along with serin peptidase inhibitor, Kunitz type 3 (SPINT3), CD99, and cysteine-rich secretory protein 2 (CRISP2), known to be predominantly expressed in men and pregnancy zone protein (PZP) in women, serving as robust sex-related controls (
+Figure 2B
+).
+13
+,
+14
+Age influenced changes in protein abundance in general (
+Figure 2, A and C
+). Specifically, growth/differentiation factor 15 (GDF15) exhibited high age-dependent levels, aligning with its known role in biological aging.
+15
+Blood-CSF barrier disturbance, as indicated by albumin leakage and consecutive increase in Qalb, had the strongest effect on protein abundance, especially on blood plasma proteins (F2, F10, A1BG) and components of the complement cascade such as C1RL (
+Figure 2, A and D
+), known to be downregulated in MS CSF.
+16
+,
+17
+To mitigate potential biases (sex) and account for pronounced effects on protein abundance (Qalb and age), we corrected for these confounding variables in subsequent analyses.
+Proteomic Analyses Disclose MS-Specific CSF Protein Signatures
+In comparing the CSF proteome of individuals with MS (n = 59) with that of NC (n = 20), 42 proteins were significantly more abundant and 5 less abundant in those with MS. Proteins linked to lymphocyte activation and humoral immune response, in general, distinguished the CSF proteome in those with MS from that of NC. Key proteins included those involved in BC-mediated inflammation and immune response modulation, such as
+tumor necrosis factor receptor superfamily (TNFRSF)
+13B and 17 and related proteins (CD27), chemokines like C-X-C motif chemokine 13 (CXCL13) and C-C motif chemokine 3 (CCL3), and cytokines and cytokine receptors such as interleukin (IL) 12A and 12B and IL-receptor 5A (IL5RA).
+Other highly abundant proteins included those associated with BC regulation and antibody synthesis, such as CD79B; marginal zone B-cell and B1-cell–specific protein (MZB1); Fc receptor-like proteins (FCRL) FCRL1, FCRL2, and FCRL5; CD80; and lymphocyte antigen 9 (Ly9 (CD229)), along with J chain (JCHAIN) and immunoglobulin lambda constant 2 (IGLC2) and those involved in T-cell activation and regulation such as CD5, CD6, CD48, and intercellular adhesion molecule 3 (ICAM3) (
+Figure 3, A and C
+).
+Beyond proteins associated with inflammation, individuals with MS also showed higher levels of tissue remodeling and neuronal injury markers, including matrix metalloproteinase-9 (MMP9), chitinase-3-like protein 1 (CHI3L1), and neurofilament light polypeptide (NEFL), compared with NC (
+Figure 3, A and C
+).
+Conversely, 5 proteins were less abundant in CSF of individuals with MS, with
+TNF ligand superfamily member 13B
+(TNFSF13B) showing the most pronounced difference. TNFSF13B is a ligand of the proteins TNFRSF13B and TNFRSF17, which were more abundant in those with MS compared with NC. Lower levels were also found for tissue inhibitor of metalloproteinases 4 (TIMP4), tubulin folding factor B (TBCB), glutaredoxin (GLRX), and Ras-related protein Rab-6 (RAB6A). TIMP4 inhibits the activity of matrix metalloproteinases whereas TBCB, GLRX, and RAB6A contribute to overall cell integrity and intracellular trafficking.
+Validation in an independent cohort of individuals with MS (n = 20) and NC (n = 8) confirmed the trends for 43 of 47 MS-associated proteins while the remaining 4 proteins did not pass quality control (eTable 1). Of the confirmed proteins, 33 demonstrated statistical significance even after adjustment for multiple testing (
+d
+= 1.40,
+power
+= 0.89) (
+Figure 3, A and C
+). An analysis of the combined CSF data set (individuals with RRMS/PPMS n = 79, NC n = 28) underscored the consistency of our original results. All identified MS-regulated proteins in the discovery cohort remained statistically significant (
+Figure 3, A and C
+).
+Gene set enrichment analysis reaffirmed the MS-associated increase in proteins associated with inflammatory pathways, in particular lymphocyte signaling, cytokine signaling, and chemokine signaling, as well as cell interaction by TNF (
+Figure 3D
+).
+To discern MS-specific effects from general CSF inflammation, we performed a secondary analysis and compared the proteomic changes in individuals with MS with those in a cohort of individuals with LNB (n = 8), known for its robust humoral immune response. When we examined the identified MS-associated proteins (total n = 47), we found that differences between individuals with MS and controls were less marked when compared with individuals with LNB (
+d
+= 0.53,
+power
+= 0.28) (
+Figure 3C
+, eTable 2). However, some of the inflammatory markers related to BC immunity were still higher in MS compared with LNB (TNFRSF13B, MZB1, TNFRSF17, CD27, FCRL5,
+SLAM family member 7
+(SLAMF7), and CD79B) while others such as CXCL13, MMP9, and
+indoleamine 2,3-dioxygenase 1
+(IDO1) were less abundant in MS.
+Among the 33 validated MS-associated proteins, 4 showed distinct levels in the MS group vs both control groups. TNFSF13B uniquely had lower levels in MS, highlighting substantial differences in the nature of the BC response between MS and LNB. Supporting this, IL5RA levels were higher in MS than in both NC and LNB. In addition, markers of neuroaxonal damage (NEFL) and glial activation (CHI3L1) were more abundant in MS, underlining the significance of axonal and glial involvement in MS pathology.
+MS-Specific Inflammatory Changes in CSF Are Not Reflected in Serum
+To determine whether MS-specific proteomic changes also appear in serum, we analyzed paired serum samples from the validation cohort using linear regression. No differences were noted between the MS group and NC across all serum proteins (n = 1937). However, among the 47 MS-associated CSF proteins, NEFL was more abundant in MS serum (
+d
+= 0.59,
+power
+= 0.27) (
+Figure 3B
+, eTable 3).
+Most Proteomic Changes in CSF Are Related to Intrathecal Immunoglobulin Synthesis and B-Cell Immunity
+In exploring the link between diagnostic CSF parameters and MS proteomic signatures, we performed secondary analyses in the combined data set (individuals with RRMS/PPMS n = 79) focusing only on the 33 validated MS-associated proteins. We assessed their association with CSF pleocytosis, intrathecal IgG synthesis, and increases in CD19
++
+B lymphocytes and CD19+/CD138+ PB/PC. Findings showed that 27 proteins were associated with pleocytosis (
+d
+= 0.96,
+power
+= 0.99) (
+Figure 4A
+, eTable 4), 28 with IgG synthesis (
+d
+= 1.20,
+power
+= 0.99) (
+Figure 4B
+, eTable 5), 23 with elevated CD19
++
+B lymphocytes (
+d
+= 0.67,
+power
+= 0.68) (
+Figure 4C
+, eTable 6), and 26 with increased CD19+/CD138+ PB/PC (
+d
+= 0.71,
+power
+= 0.85) (
+Figure 4D
+, eTable 7). Most validated proteins correlated with inflammatory CSF markers. Three proteins, including CHI3L1 related to axonal degeneration, had no statistically significant link to these CSF parameters. NEFL was uniquely associated with increased CSF CD19
++
+B lymphocytes. TNFSF13B, less abundant in MS CSF vs LNB and NC, was negatively associated with intrathecal IgG synthesis and PB/PC levels.
+Primary Progressive and Relapsing MS Exhibit Highly Overlapping CSF Proteomic Traits
+To determine differences in the CSF proteome between progressive and relapsing MS, we compared age-matched individuals with RRMS and PPMS using linear regression. In the discovery (RRMS group n = 29, PPMS group n = 30) and combined (RRMS group n = 39, PPMS group n = 40) CSF data sets, no proteins showed differential abundance in the age-matched comparison (
+Figure 5, A and B
+). However, in a secondary analysis focusing on the 33 validated MS-associated proteins in the combined data set, 10 proteins (IL12B, IL12A, CXCL13, MMP9, CD6, CD5, FCRL1, NEFL, ADAM8, and CRTAM) were slightly more abundant and only CCL3 was less abundant in RRMS compared with PPMS (
+d
+= 0.37,
+power
+= 0.37) (
+Figure 5C
+, eTable 8). Group differences arising from the targeted secondary analysis are likely explained by a specific focus on relevant proteins, enhancing specificity and signal-to-noise ratio while lowering the multiple testing burden caused by numerous irrelevant proteins. Protein differences suggest a higher level of B-cell–related and T-cell–related inflammation, tissue remodeling, and neuronal damage in active RRMS.
+MS-Associated Inflammatory Marker Proteins Decrease Beyond Age 50
+We examined the effect of aging on the MS CSF proteome across age groups in the discovery cohort (RRMS/PPMS cohort age ≤40 years: n = 19, 41–50 years: n = 20, >50 years: n = 20) and combined CSF data set (RRMS/PPMS cohort age ≤40 years: n = 19, 41–50 years: n = 24, >50 years: n = 36), using linear regression and adjusting for disease duration to offset the influence of prolonged disease in older individuals with MS. No statistically significant differences were observed using an age cutoff of ≤/> 40 years, but a distinct difference in CSF proteins appeared with an age cutoff of ≤/> 50 years (
+Figure 6A
+).
+Targeted analysis of the 33 validated MS-associated proteins in the combined dataset (RRMS/PPMS n = 79), of which 32 were more abundant in MS than NC, 28 were less abundant in individuals with MS over 50 compared to younger ones (
+d
+= 0.46,
+power
+= 0.52). Inflammation-related markers generally tended to be less abundant in older individuals with MS (
+Figure 6A
+, eFigure 3 and eTable 9). Specifically, proteins indicative of B-lymphocyte activation (CD79B, TNFRSF13B, CD27, MZB1, Ly9, FCRL5), T-cell activation (ICAM3), and proinflammatory processes (IL12, MMP9) were notably less abundant in those older than 50 years. Conversely, TNFSF13B, the only validated protein less abundant in MS, increased with age (
+Figure 6, A and B
+).
+Analyzing the discovery and combined CSF data sets by age ≤/> 50 years revealed additional proteins more abundant in older individuals with MS, notably involved in aging (e.g., GDF15), tissue repair (e.g.,
+milk fat globule-epidermal growth factor 8
+[MFGE8]), and neurodegeneration (e.g.,
+Sortilin 1
+[SORT1]), reflecting diverse roles from neural support to immune regulation (
+Figure 6, A and C
+). MS-associated protein levels in those older than 50 years tended to align with those in age-matched controls, indicating an age-related proteomic shift, as exemplified in
+Figure 6B
+.
+Discussion
+We examined 2,500 CSF proteins of individuals with MS and 2 control cohorts and discovered 47 differentially abundant proteins in the CSF of individuals with MS compared with NC. Of these, 33 proteins were validated in an independent cohort.
+We selected the Olink platform because of its high sensitivity for low-abundance proteins, minimal impact from confounding variables such as high immunoglobulin levels in inflammatory CSF, and its high throughput. However, Olink has limitations, including higher cost, limited protein spectrum, and inability to distinguish between proteoforms, a strength of untargeted proteomics like mass spectrometry. While Olink outperforms aptamer-based assays regarding assay performance because of its protein detection by coupled barcoded antibodies with next-generation sequencing readout, multiplex bead-based assays perform exceptionally well in sensitivity and precision at low levels, which was not the priority in our study.
+Identified MS-associated CSF proteins fall into 3 categories related to inflammation, extracellular matrix regulation, and neuronal injury. NEFL and CHI3L1, markers of neuronal injury, are specifically regulated in MS CSF. NEFL is an established marker of inflammation-triggered neuroaxonal destruction and associated with clinical disease activity.
+18
+,
+19
+We found CHI3L1, linked to neuroinflammation and gliosis, more abundant in MS CSF than in controls, supporting it as an MS-specific marker despite mixed results in other studies.
+20
+,
+21
+Matrix metalloproteinases (MMPs) are crucial for extracellular matrix remodeling and display unique patterns in MS CSF. MMP7, MMP9, and the MMP inhibitor TIMP4 differ in abundance in MS vs NC. We validated MMP9 as higher in active MS compared with NC but lower compared with LNB, highlighting the nuanced role of MMPs in MS pathology and their contribution to blood-brain barrier disruption and immune cell migration.
+22
+The MS CSF proteome reflects a proinflammatory milieu, indicated by high levels of cytokines such as CCL3 and IL12 in our data set and in line with previous studies.
+19
+,
+23
+We corroborate a prominent CSF protein signature in MS marked by BC-mediated immune response indicators such as CD79B, TNFRSF13B, CD27, MZB1, SDC1 (CD138), TNFRSF17, and SLAMF7, further supported by the identification of JCHAIN and IGLC2 as markers of active immunoglobulin synthesis.
+19
+,
+24
+,
+25
+Elevated MMP9 and CXCL13 underscores increased immune cell CNS infiltration in MS.
+19
+,
+26
+The high abundance of FCRL proteins (FCRL1, FCRL5, and FCRL2) suggests intrathecal BC activation, complemented by T-cell activation markers (CD5, CD6, ICAM3, CCL3, CD48), consistent with earlier studies.
+19
+,
+24
+,
+27
+ICAM3 and Ly9 are recognized as potential predictive markers of disability worsening in MS.
+19
+,
+23
+Of interest, the genes for FCRL1, SLAMF7, CD6, and IL12A/IL12B harbor genetic MS risk variants.
+28
+,
+29
+The convergence of proteomic and genomic data highlights the significance of these proteins in the pathophysiology of MS.
+Most identified MS-associated proteins are surface receptors, which may hint at specific BC subpopulations and their derivatives. Notably, the FCRL5/SLAMF7/CD80 markers characterize activated naive and double-negative CD27-/IgD- BC, precursors of antibody-secreting cells.
+30
+The prevalence of PC markers (SDC1, SLAMF7, and TNFRSF17) in MS CSF suggests active BC differentiation and PC expansion.
+29
+,
+31
+In addition, the co-occurrence of IGLC2 along with JCHAIN, crucial for IgA and IgM polymerization and regulated by MZB1, a protein specific for marginal zone (MZ) B and B1 cells, points to immunoglobulin secretion driving humoral immunity's effector phase in CSF.
+32
+High abundance of Ly9, expressed by MZ, B1, and germinal center BC, further emphasizes their prevalence in MS CSF and suggests that Ly9 is a promising treatment target.
+33
+Protein expression differences involving TNFSF13B (BAFF) and its receptors, TNFRSF13B (TACI) and TNFRSF17 (BCMA), are noteworthy when comparing the MS cohort with controls. TACI and BCMA, essential for BC activation and linked to compartment-specific BC expansion, differ in expression with high levels of TACI in memory BC and of BCMA in PC.
+24
+,
+34
+Both receptors engage with BAFF, found less abundant in MS CSF in our study. Elevated TACI levels underscore its role in regulation of BAFF-mediated activation and BC homeostasis.
+19
+,
+24
+Reduced BAFF levels suggest unique BC modulation in MS, possibly through a negative feedback mechanism through soluble TACI and BCMA.
+24
+,
+34
+In line with this, TACI and BCMA were positively associated, whereas BAFF was inversely related to CSF IgG synthesis and elevated PB/PC levels in our data set.
+IL5RA, part of the IL-5 receptor, emerged as a biomarker of MS, showing higher CSF levels compared with both control groups. It pairs with the common beta subunit to form the IL-5 receptor, crucial for IL-5's role in antigen-triggered T-cell activation and Th2-cell differentiation, important in parasitic infections and allergic asthma.
+35
+,
+36
+IL5RA's presence on BC supports their survival and antibody production.
+37
+Indeed, IL5RA is expressed on tissue-infiltrating and disease-associated BC and PC in respiratory tract infection, and it is tempting to speculate that IL5RA is associated with a similar population in the CNS in MS.
+38
+Our findings underscore the pivotal role of BC in MS, showing active proliferation, differentiation, and intrathecal antibody secretion, aligning with findings of expanded memory BC and PC in MS CSF.
+39
+Of interest, several BC markers identified are either targets of existing therapies (SLAMF7, BCMA) or under clinical trial investigation for multiple myeloma (LY 9 (CD229), SDC1 (CD138), FCRL5).
+40
+In addition, monoclonal antibodies against IL5RA or IL-5 reduce inflammation in airway diseases, suggesting therapeutic potential across conditions.
+35
+,
+41
+While many of these proteins did not differ when compared with those in neuroborreliosis, we found 4 proteins (IL5RA, CHI3L1, NEFL, and TNFSF13B) that consistently differed in abundance in MS vs LNB, indicating that these proteins may reflect MS-specific disease processes.
+Furthermore, our comparative analysis of age-matched relapsing and progressive MS cases revealed only minor differences in the CSF proteome. No markers indicative of a distinct inflammatory MS pathophysiology emerged. Markers of immune cell influx (CXCL13, MMP9), activation (e.g., IL12, CD5, and CD6), and inflammatory-triggered neurodegeneration (NEFL) indicate more active inflammation during RRMS relapses. CCL3's higher abundance in PPMS highlights its potential as a marker of disease progression, supported by previous findings.
+42
+While NEFL's significance as a biomarker of disease progression is debated, our data show higher levels in age-matched individuals with active RRMS than in those with PPMS, consistent with previous research.
+43
+Many previous studies on MS biomarkers lacked proper age matching in their cohorts. Exemplary BAFF levels, reported to differ between RRMS and PPMS, actually reflect age differences rather than the MS subtype, with our age-matched data showing higher BAFF levels in individuals older than 50 years.
+26
+While we did not find a substantial difference in the proteomic profile between PPMS and RRMS, we observed a strong effect of aging (but not disease duration) on the MS CSF proteome. Identified MS-associated inflammatory CSF signatures shifted with age, with a decrease in inflammatory marker proteins and an increase in age-related proteins in individuals with MS older than 50 years.
+An age-dependent decline was evident for most identified inflammatory MS CSF markers, except for one that increased with age. In contrast to younger individuals, we noted lower TACI and higher BAFF levels in individuals with MS older than 50 years. The interaction of TACI and BAFF levels, particularly in those older than 50 years, mirrors changes seen with B-cell depleting therapy, suggesting that older age and therapy act similarly. Elevated CSF BAFF levels in older individuals with MS may indicate altered local production or reduced receptor binding due to fewer CSF BC.
+44
+,
+45
+The latter is supported by lower levels in markers of disturbed blood-brain barrier integrity and immune cell influx in older individuals with MS, suggesting reduced efficacy of the adaptive immune response with biological aging compared with younger individuals with active MS.
+46
+,
+47
+In addition, NEFL levels differed from those in controls primarily in younger individuals and tended to converge with age, indicating less pronounced age-dependent neuroaxonal degeneration compared with the dominant inflammation-driven neuroaxonal degeneration observed in the young.
+We identified higher MFGE8, SORT1, and GDF15 levels in individuals with MS older than 50 years, linked to vascular aging and dementia risk but with unclear ties to MS-related neuroinflammation.
+48
+,
+49
+GDF15 is recognized as a biomarker of “inflammaging,” defined as chronic, low-grade inflammation typically associated with aging and considered central to biological aging.
+50
+Consequently, elevated GDF15 levels, associated with age-related diseases, highlight aging's substantial impact on MS pathophysiology in our study.
+Real-world data indicate that the therapeutic effects of immune therapies in MS wane with age, with little to no discernible therapeutic benefits beyond the age of 50 in individuals with RRMS and PPMS.
+8
+Our findings illustrate that by age 50, the MS CSF proteome shifts away from the identified MS-associated inflammatory profile that responds to anti-inflammatory treatments in younger years. Therefore, the molecular prerequisite for the effective implementation of currently available immunomodulatory therapies declines in this age group, suggesting a need for age-specific therapeutic strategies.
+Unlike CSF, the MS serum proteome seems less suitable for endophenotyping individuals with MS or distinguishing MS from other diseases. NEFL emerged as the only serum marker protein distinguishing between MS and NC cohorts in our data set, aligning with previous data from larger MS cohorts.
+Our study has certain limitations. First, the relatively small and unbalanced sizes of our cohorts, compared with the vast number of proteins analyzed, limit the statistical power of our findings, as outlined by our post hoc analysis, with variability in power across different comparisons. This may result in some differences between individuals with MS and controls being missed, which would be more apparent in larger cohorts. The absence of a neurodegenerative control cohort limits our ability to fully discern whether age-associated protein changes in MS are due to aging in general or linked to a neurodegenerative disease. Future studies should include large neuroinflammatory and neurodegenerative control cohorts to understand the general age-dependent effects on CSF protein abundance across different cohorts. In addition, our assay encompasses only a portion of the human proteome, leaving numerous proteins outside the scope. Our study's cross-sectional nature also restricts our ability to capture the temporal dynamics of protein expression changes, thus affecting the generalizability and applicability of our findings to broader MS populations.
+In summary, we conducted an extensive investigation of the CSF proteome in active MS using a targeted proteomic approach. We validated NEFL as an established MS CSF biomarker, corroborated the diagnostic significance of CHI3L1 in MS CSF, and identified new promising MS CSF biomarkers and targets for therapeutic intervention. Proteins associated with adaptive immunity dominate in younger individuals with MS, whereas markers associated with biological aging and “inflammaging” dominate beyond age 50. Individuals with PPMS and RRMS share phenotypical CSF traits in age-matched cohorts with an age-dependent shift, suggesting an MS spectrum that reflects age-related changes in MS pathophysiology.
+Editorial, page
+e200341
+Study Funding
+This work was supported by funding from the European Union's Horizon 2020 Research and Innovation Funding Programme (EU RIA 733161) to MultipleMS, the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany's Excellence Strategy within the framework of the Munich Cluster for Systems Neurology (EXC 2145 SyNergy—ID 390857198), and the Clinspect-M consortium funded by the BMBF.
+Disclosure
+F. Held and C. Makarov report no disclosures relevant to the manuscript; C. Gasperi received research support from the German Federal Ministry of Education and Research (BMBF), the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation), the Hertie Foundation, and the Hans and Klementia Langmatz Stiftung; M. Flaskamp and V. Grummel report no disclosures relevant to the manuscript; A. Berthele received research support from the German Federal Ministry of Education and Research (BMBF; grant 01ZZ2102B), consulting and/or speaker fees from Alexion, Argenx, Biogen, Horizon, Novartis, Roche and Sandoz/Hexal and his institution has received compensation for clinical trials from Alexion, Biogen, Merck, Novartis, Roche, and Sanofi Genzyme, all outside the present work; B. Hemmer has served on scientific advisory boards for Novartis and Hoffmann LaRoche and has served as DMSC member for AllergyCare, Sandoz, Polpharma, Biocon, and TG therapeutics. B. Hemmer and his institution received research grants from Roche for multiple sclerosis research. B. Hemmer received honoraria for counseling (Gerson Lehrmann Group), holds part of 2 patents: one for the detection of antibodies against KIR4.1 in a subpopulation of patients with multiple sclerosis and one for genetic determinants of neutralizing antibodies to interferon. B. Hemmer is associated with DIFUTURE (Data Integration for Future Medicine) [BMBF 01ZZ1804[A-I]] and received research support from the European Union's Horizon 2020 Research and Innovation Program [grant MultipleMS, EU RIA 733161] and the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany's Excellence Strategy within the framework of the Munich Cluster for Systems Neurology [EXC 2145 SyNergy - ID 390857198]. All conflicts are not relevant to the topic of the study. Go to
+Neurology.org/NN
+for full disclosures.
+Appendix
+Authors
+Glossary
+BC
+B cell
+FDR
+false discovery rate
+IgG
+immunoglobulin G
+LNB
+Lyme neuroborreliosis
+MS
+multiple sclerosis
+NC
+neurologic controls
+OCB
+oligoclonal bands
+PB
+plasmablasts
+PC
+plasma cells
+PPMS
+primary progressive MS
+Qalb
+albumin quotient
+RRMS
+relapsing-remitting MS

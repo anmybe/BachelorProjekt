@@ -1,0 +1,635 @@
+pmc
+ESMO Open
+ESMO Open
+ESMO Open
+2059-7029
+Elsevier
+10685024
+S2059-7029(23)01291-7
+10.1016/j.esmoop.2023.102050
+102050
+Review
+Avelumab first-line maintenance treatment for advanced urothelial carcinoma: review of evidence to guide clinical practice
+Grivas
+P.
+pgrivas@uw.edu
+1
+2
+∗
+Grande
+E.
+3
+Davis
+I.D.
+4
+Moon
+H.H.
+5
+Grimm
+M.-O.
+6
+Gupta
+S.
+7
+Barthélémy
+P.
+8
+Thibault
+C.
+9
+Guenther
+S.
+10
+Hanson
+S.
+11
+Sternberg
+C.N.
+12
+1
+Department of Medicine, Division of Hematology/Oncology, University of Washington School of Medicine, Seattle, USA
+2
+Clinical Research Division, Fred Hutchinson Cancer Center, Seattle, USA
+3
+Department of Medical Oncology, MD Anderson Cancer Center Madrid, Madrid, Spain
+4
+Monash University Eastern Health Clinical School, Box Hill, Victoria, Australia
+5
+Department of Hematology/Oncology, Kaiser Permanente Southern California, Riverside Medical Center, Riverside, USA
+6
+Department of Urology, Jena University Hospital, Jena, Germany
+7
+Department of Hematology and Medical Oncology, Taussig Cancer Institute, Cleveland Clinic Foundation, Cleveland, USA
+8
+Medical Oncology Unit, Institut de Cancérologie Strasbourg Europe, Strasbourg
+9
+Department of Medical Oncology, Hôpital Européen Georges Pompidou, Institut du Cancer Paris CARPEM, AP-HP Centre, Paris, France
+10
+Merck Healthcare KGaA, Darmstadt, Germany
+11
+Pfizer, New York, USA
+12
+Englander Institute for Precision Medicine, Weill Cornell Medicine, Hematology/Oncology, Meyer Cancer Center, New York, USA
+∗
+Correspondence to:
+Prof. Petros Grivas, Department of Medicine, Division of Hematology/Oncology, University of Washington School of Medicine, Fred Hutchinson Cancer Center, 1144 Eastlake Ave E, LG-465, Seattle, WA 98109, USA. Tel: +1-206-606-1943
+pgrivas@uw.edu
+12
+10
+2023
+12
+2023
+12
+10
+2023
+8
+6
+102050
+© 2023 The Author(s)
+2023
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+The JAVELIN Bladder 100 phase III trial led to the incorporation of avelumab first-line (1L) maintenance treatment into international guidelines as a standard of care for patients with advanced urothelial carcinoma (UC) without progression after 1L platinum-based chemotherapy. JAVELIN Bladder 100 showed that avelumab 1L maintenance significantly prolonged overall survival (OS) and progression-free survival in this population compared with a ‘watch-and-wait’ approach. The aim of this manuscript is to review clinical studies of avelumab 1L maintenance in patients with advanced UC, including long-term efficacy and safety data from JAVELIN Bladder 100, subgroup analyses in clinically relevant subpopulations, and ‘real-world’ data obtained outside of clinical trials, providing a comprehensive resource to support patient management. Extended follow-up from JAVELIN Bladder 100 has shown that avelumab provides a long-term efficacy benefit, with a median OS of 23.8 months measured from start of maintenance treatment, and 29.7 months measured from start of 1L chemotherapy. Longer OS was observed across subgroups, including patients who received 1L cisplatin + gemcitabine, patients who received four or six cycles of 1L chemotherapy, and patients with complete response, partial response, or stable disease as best response to 1L induction chemotherapy. No new safety signals were seen in patients who received ≥1 year of avelumab treatment, and toxicity was similar in those who had received cisplatin or carboplatin with gemcitabine. Other clinical datasets, including noninterventional studies conducted in Europe, USA, and Asia, have confirmed the efficacy of avelumab 1L maintenance. Potential subsequent treatment options after avelumab maintenance include antibody–drug conjugates (enfortumab vedotin or sacituzumab govitecan), erdafitinib in biomarker-selected patients, platinum rechallenge in suitable patients, nonplatinum chemotherapy, and clinical trial participation; however, evidence to determine optimal treatment sequences is needed. Ongoing trials of avelumab-based combination regimens as maintenance treatment have the potential to evolve the treatment landscape for patients with advanced UC.
+Highlights
+•
+Avelumab 1L maintenance is recommended for advanced UC not progressed with platinum-based chemotherapy.
+•
+Extended follow-up from JAVELIN Bladder 100 has shown a significant survival benefit with avelumab and long-term safety.
+•
+Several subgroup analyses have shown that avelumab 1L maintenance is suitable for patients with a range of characteristics.
+•
+Clinical trial findings have been corroborated in several noninterventional ‘real-world’ studies in Europe, USA, and Asia.
+•
+Ongoing clinical trials in patients with advanced UC aim to improve avelumab-based maintenance treatment.
+Key words
+avelumab
+first line
+maintenance treatment
+urothelial carcinoma
+bladder cancer
+Introduction
+Urothelial carcinoma (UC) causes substantial morbidity and mortality and is one of the most expensive cancers to treat from diagnosis to death on a per-patient basis.
+1
+,
+2
+,
+3
+,
+4
+,
+5
+UC develops in the cells lining the urothelial tract, most commonly in the urinary bladder (>90% of cases).
+6
+Globally in 2020, bladder cancer was the 10th most common cancer and resulted in >570 000 new cases and >210 000 deaths, including >200 000 new cases and >67 000 deaths in Europe.
+1
+,
+7
+In the USA in 2023, >82 000 new cases of bladder cancer and >4400 new cancers of the ureter or other urinary organs have been projected, resulting in >16 500 and >950 deaths, respectively.
+2
+Key risk factors for UC include older age, male sex, tobacco smoking, occupational exposure to chemical carcinogens, prior cyclophosphamide treatment, ionizing radiation, history of chronic bladder infection/injury, family history of cancer, and genetic factors.
+8
+,
+9
+Patients who develop unresectable locally advanced or metastatic UC (stage IV; often referred to as advanced UC) generally have an incurable condition, compromised quality of life, and a poor prognosis.
+6
+,
+10
+,
+11
+,
+12
+For example, in patients with metastatic bladder cancer in the USA between 2000 and 2019, overall survival (OS) rates at 1, 2, and 5 years were 28.9%, 14.1%, and 7.0%, respectively.
+12
+Advanced UC is usually sensitive to chemotherapy. The global standard of care is to administer first-line platinum-based combination chemotherapy in eligible patients, followed by avelumab as ‘switch-maintenance’ treatment in patients without progression.
+6
+,
+10
+,
+13
+Cisplatin-based chemotherapy [including cisplatin + gemcitabine or dose-dense MVAC (methotrexate, vinblastine, doxorubicin, and cisplatin)] is recommended for cisplatin-eligible patients based on OS and progression-free survival (PFS) benefits and objective response rates (ORRs) seen in randomized trials.
+6
+,
+10
+,
+13
+,
+14
+,
+15
+However, ∼50% of patients with advanced UC are not eligible to receive cisplatin
+13
+,
+16
+,
+17
+,
+18
+,
+19
+; in these patients, carboplatin + gemcitabine is recommended where possible.
+6
+,
+10
+,
+13
+Although carboplatin + gemcitabine has historically been perceived as having lower efficacy than cisplatin-based regimens,
+13
+contemporary studies have concluded that differences may be less than has been perceived, particularly when analyses are properly adjusted for the worse prognostic characteristics of cisplatin-ineligible patients.
+20
+,
+21
+,
+22
+However, cisplatin-based chemotherapy remains the preferred treatment in eligible patients. For both cisplatin- and carboplatin-based regimens, up to six cycles are recommended, although because of the potential for cumulative toxicity, fewer cycles may be acceptable on a case-by-case basis based on benefit-risk considerations.
+6
+,
+10
+,
+13
+Many patients presenting with advanced UC do not receive any first-line therapy, with proportions of 28%-73% without treatment reported in different countries.
+19
+,
+23
+,
+24
+,
+25
+,
+26
+,
+27
+,
+28
+Potential reasons why patients may not receive first-line therapy include poor performance status and comorbidities or organ dysfunction,
+26
+in addition to the perceived toxicity and overall treatment burden of platinum-based chemotherapy, patient preferences, financial toxicity, and lack of access/barriers to health care, which highlights the important issue of health care disparities.
+Cisplatin ineligibility is often determined using consensus criteria defined by Galsky et al., specifically: impaired renal function [creatinine clearance (CrCl) <60 ml/min], poor performance status [Eastern Cooperative Oncology Group performance status (ECOG PS) ≥2], hearing loss (grade ≥2), peripheral neuropathy (grade ≥2), or heart failure [New York Heart Association (NYHA) class 3-4].
+13
+,
+16
+Criteria to define ineligibility for any platinum agent (i.e. neither carboplatin nor cisplatin) are less well established. In a survey of 60 genitourinary medical oncologists reported by Gupta et al., the most common criteria for platinum ineligibility provided by respondents were: ECOG PS ≥3; CrCl <30 ml/min; peripheral neuropathy grade ≥2; heart failure NYHA class ≥3; and ECOG PS 2 with CrCl <30 ml/min.
+29
+Similarly, in the European Association of Urology guidelines, platinum ineligibility is defined as: glomerular filtration rate <30 ml/min, ECOG PS >2, ECOG PS 2 with glomerular filtration rate <60 ml/min, or medical comorbidities grade >2.
+13
+A European study found that 87% of patients with metastatic UC who received first-line treatment were considered eligible for platinum-based chemotherapy (55% were eligible for cisplatin and carboplatin; 31% were eligible for carboplatin but not cisplatin).
+30
+In trials evaluating first-line platinum-based chemotherapy for advanced UC, ∼40%-50% of patients had an objective response and 65%-80% of patients had disease control [i.e. objective response or stable disease (SD)].
+14
+,
+31
+,
+32
+,
+33
+,
+34
+Before the availability of avelumab as maintenance treatment, patients generally did not receive any further treatment after platinum-based chemotherapy until progression occurred (i.e. watch-and-wait approach), when second-line immune checkpoint inhibitor (ICI) treatment was used (after initial regulatory approvals in 2016-2017).
+35
+,
+36
+,
+37
+,
+38
+However, in studies from that period, only 30%-40% of patients who received first-line chemotherapy subsequently received second-line treatment.
+18
+,
+19
+,
+28
+,
+39
+,
+40
+,
+41
+,
+42
+,
+43
+This highlights the fact that patients with advanced UC who have disease progression following platinum-based chemotherapy may deteriorate rapidly and be unable to receive subsequent lines of treatment,
+44
+emphasizing the importance of optimal first-line treatment.
+First-line ICI monotherapy with atezolizumab [anti–programmed death-ligand 1 (PD-L1)] or pembrolizumab [anti–programmed cell death protein 1 (PD-1)] are approved options in Europe and several countries outside Europe for cisplatin-ineligible patients with PD-L1+ tumors, based on data obtained in single-arm phase II trials and initial phase III data.
+31
+,
+32
+,
+45
+,
+46
+,
+47
+,
+48
+However, final data from phase III trials of atezolizumab and pembrolizumab (IMvigor130 and KEYNOTE-361), which enrolled patients irrespective of PD-L1 status, did not show superior OS for ICI monotherapy versus platinum-based chemotherapy, and noninferiority could not be formally tested.
+31
+,
+32
+,
+49
+Consequently, US Food and Drug Administration (FDA) approvals for atezolizumab and pembrolizumab in cisplatin-ineligible patients with PD-L1+ tumors were withdrawn in 2022, with the US approval for pembrolizumab in the first-line setting restricted to platinum-ineligible patients only.
+50
+,
+51
+These phase III trials also showed that combination treatment with atezolizumab or pembrolizumab added to platinum-based chemotherapy did not improve OS versus chemotherapy alone.
+31
+,
+32
+,
+52
+However, it has been reported that a substudy of the phase III CheckMate-901 trial in cisplatin-eligible patients met its primary endpoints of longer OS and PFS with nivolumab + cisplatin-based chemotherapy followed by nivolumab monotherapy versus cisplatin-based chemotherapy alone.
+53
+First-line ICI–ICI combinations [anti–PD-(L)1 and cytotoxic T-lymphocyte-associated protein 4] with durvalumab + tremelimumab (DANUBE), or nivolumab + ipilimumab (CheckMate-901; patients with PD-L1+ tumors), did not significantly prolong OS compared with chemotherapy alone in phase III trials.
+54
+,
+55
+Furthermore, the addition of lenvatinib (multitargeted tyrosine kinase inhibitor) to first-line pembrolizumab in cisplatin-ineligible patients with PD-L1+ tumors or platinum-ineligible patients (LEAP-011) did not improve OS or PFS versus placebo + pembrolizumab.
+56
+The combination of first-line enfortumab vedotin + pembrolizumab received accelerated approval in the USA in April 2023 for the treatment of cisplatin-ineligible patients based on results reported in phase Ib/II EV-103 trial cohorts A and K, including ORRs of 64.5%-73.3% and median OS of 22.3-26.1 months.
+57
+,
+58
+,
+59
+Positive findings from a phase III trial comparing first-line enfortumab vedotin + pembrolizumab versus platinum-based chemotherapy (EV-302) have been reported recently.
+60
+The JAVELIN Bladder 100 trial, which demonstrated the efficacy and safety of avelumab first-line maintenance treatment in patients with UC that had not progressed with first-line platinum-based chemotherapy (i.e. cisplatin- or carboplatin-based ‘induction’ chemotherapy),
+61
+was the first phase III trial to report significantly prolonged OS with an ICI in patients with advanced UC in the first-line setting. Switch-maintenance is an established treatment strategy in other tumor types, including non-small-cell lung cancer and ovarian cancer.
+62
+,
+63
+,
+64
+,
+65
+The biological rationale for switch-maintenance treatment with an ICI is based on the known immunogenic effects of chemotherapy, including increased presentation of tumor antigens, depletion of immunosuppressive cell types in the tumor microenvironment, increased T-cell infiltration into tumors, and induction of immunogenic cell death, alongside the observation that chemotherapy may increase PD-L1 expression on tumor cells.
+66
+In addition, ICIs may be more effective in patients whose tumor burden has been reduced by the cytotoxic effects of chemotherapy.
+67
+Results from JAVELIN Bladder 100 led to avelumab first-line maintenance treatment becoming a standard of care in advanced UC, supported by level 1 evidence and a score of 4 (indicating substantial benefit) on the European Society for Medical Oncology Magnitude of Clinical Benefit scale.
+6
+,
+10
+,
+13
+Key results from JAVELIN Bladder 100 have also been published as a plain-language summary in several languages.
+68
+The aim of this narrative, nonsystematic review manuscript is to collate clinical data for avelumab first-line maintenance treatment in patients with advanced UC reported from clinical trials and other clinical studies, creating a comprehensive and up-to-date resource to support patient management. To identify relevant publications, we carried out a series of searches using PubMed and abstract databases for international congresses from January through June 2023. Search terms included keywords related to avelumab, ICIs, and UC. References cited within identified publications or other relevant publications known to the authors were also considered. Using the publications identified, we discuss updated data from JAVELIN Bladder 100, including long-term efficacy and safety data, summarize data for avelumab obtained outside of clinical trials (‘real-world’ data), and highlight ongoing clinical trials of maintenance treatment that have the potential to further evolve the treatment landscape for patients with advanced UC.
+Avelumab first-line maintenance treatment in advanced UC: the JAVELIN bladder 100 trial
+JAVELIN Bladder 100 (NCT02603432) was an international, randomized, open-label, phase III trial that enrolled 700 patients with advanced UC who had received four to six cycles of first-line platinum-based chemotherapy (cisplatin + gemcitabine or carboplatin + gemcitabine) without disease progression [i.e. complete response (CR), partial response (PR), or SD]. Following an interval of 4-10 weeks after the last dose of chemotherapy, patients were randomly assigned to receive either avelumab first-line maintenance + best supportive care (BSC;
+n
+= 350) or BSC alone (control arm;
+n
+= 350). Randomization was stratified by site of metastasis (visceral versus nonvisceral) when initiating first-line chemotherapy and best response to chemotherapy (CR or PR versus SD).
+61
+The trial met its primary endpoint by prolonging OS in both of its primary populations: all randomized patients (overall population) and the subset of patients with PD-L1+ tumors (based on the SP263 assay). In the initial analysis of the overall population (median follow-up, >19 months in both arms), median OS (measured from end of chemotherapy) was 21.4 months in the avelumab arm versus 14.3 months in the control arm [hazard ratio (HR) 0.69; 95% confidence interval (CI) 0.56-0.86;
+P
+= 0.001].
+61
+With long-term follow-up (median follow-up, ≥38 months in both arms), median OS was 23.8 versus 15.0 months, respectively (HR 0.76; 95% CI 0.63-0.91;
+P
+= 0.0036;
+Figure 1
+A).
+69
+OS rates in the avelumab + BSC and BSC-alone arms were 71.3% versus 58.4% at 1 year, and 49.8% versus 38.4% at 2 years, respectively.
+61
+,
+69
+In a
+post hoc
+exploratory analysis, median OS measured from start of first-line chemotherapy was 29.7 months in the avelumab arm versus 20.5 months in the control arm (HR 0.77; 95% CI 0.64-0.92;
+Figure 1
+B).
+70
+Importantly, an OS benefit was observed across multiple patient subgroups (
+Figure 1
+C).
+61
+,
+69
+PFS was also prolonged for avelumab versus control; in the long-term follow-up analysis, median PFS in the overall population was 5.5 months (95% CI 4.2-7.2 months) versus 2.1 months (95% CI 1.9-3.0 months), respectively (HR 0.54; 95% CI 0.46-0.64;
+P
+< 0.0001).
+69
+Most patients in the control arm received subsequent treatment (72.0% of the control arm versus 52.9% of the avelumab arm), which was most often an ICI treatment [53.1% of all patients in the control arm received a PD-(L)1 inhibitor versus 11.4% in the avelumab arm].
+69
+Thus, the significantly prolonged OS in the avelumab arm occurred despite frequent use of second-line ICI treatment in the control arm. Notably, use of second-line ICI treatment was higher than expected based on historical data, and similar to rates in a contemporary switch-maintenance trial with a cross-over design.
+71
+In safety analyses (assessed during maintenance treatment or BSC), as expected, the incidence of adverse events (AEs) was higher with avelumab (active treatment) than in the control arm (no active treatment). Treatment-emergent AEs of any cause occurred in 98.0% versus 77.7% of patients, including grade ≥3 AEs in 47.4% versus 25.2%, respectively.
+61
+In the long-term follow-up analysis of patients in the avelumab arm, treatment-related AEs (TRAEs) of any grade occurred in 78.2%, including grade ≥3 TRAEs in 19.5%, and immune-related AEs (irAEs) of any grade occurred in 32.3%, including grade ≥3 irAEs in 7.6% (
+Table 1
+). The rate of discontinuation due to TRAEs was 11.6% and that due to irAEs was 6.1%.
+69
+,
+72
+A
+post hoc
+analysis assessed quality-adjusted time without cancer symptoms or toxicity (Q-TWiST) in JAVELIN Bladder 100. Q-TWiST is an integrated measure of clinical benefit that assesses time spent in different health states [time experiencing toxicity (grade 3/4 AEs) before progression, time without toxicity or symptoms of progression, and time after progression]. Overall, patients treated with avelumab + BSC had a consistently longer Q-TWiST than those who received BSC alone, indicating a net benefit of efficacy versus potential toxicity of active treatment.
+73
+Subgroup analyses from JAVELIN Bladder 100 informative for clinical practice
+Subgroup data from JAVELIN Bladder 100 demonstrated that avelumab first-line maintenance is suitable for patients with a broad range of characteristics.
+61
+,
+69
+,
+74
+,
+75
+,
+76
+,
+77
+As discussed earlier, cisplatin- and carboplatin-based combinations are a standard-of-care first-line treatment for cisplatin-eligible and cisplatin-ineligible patients with advanced UC, respectively. In a prespecified subgroup analysis from JAVELIN Bladder 100, an OS benefit was observed in patients who had received first-line cisplatin + gemcitabine (HR 0.79; 95% CI 0.611-1.020) or carboplatin + gemcitabine (HR 0.69; 95% CI 0.516-0.925) (
+Figure 2
+A and B). In patients who received avelumab + BSC or BSC alone, median OS measured from the start of first-line cisplatin + gemcitabine treatment was 31.0 versus 23.0 months, and from the start of first-line carboplatin + gemcitabine treatment was 25.8 versus 17.6 months, respectively.
+70
+In an earlier
+post hoc
+analysis of the subgroup of patients with PD-L1+ tumors who had received first-line carboplatin + gemcitabine, an OS benefit was also observed (HR 0.67; 95% CI 0.393-1.137).
+74
+Long-term safety of avelumab first-line maintenance treatment was similar in subgroups that had received first-line cisplatin + gemcitabine or carboplatin + gemcitabine (
+Supplementary Table S1
+, available at
+https://doi.org/10.1016/j.esmoop.2023.102050
+).
+70
+Various
+post hoc
+analyses from JAVELIN Bladder 100 have examined subgroups of patients defined by other ‘premaintenance’ characteristics. In the trial, all patients had received four to six cycles of platinum-based chemotherapy. OS and PFS benefits with avelumab + BSC versus BSC alone were consistent in subgroups with different durations of first-line chemotherapy within this range and in patients who received four or six cycles.
+75
+Patients who had CR, PR, or SD after first-line chemotherapy were eligible for the trial. An OS benefit with avelumab + BSC versus BSC alone was observed in subgroups of patients whose response to first-line chemotherapy was as follows: CR (HR 0.72; 95% CI 0.48-1.08), PR (HR 0.70; 95% CI 0.54-0.91), or SD (HR 0.84; 95% CI 0.60-1.19) (
+Figure 2
+C-E).
+69
+,
+78
+Patients received study treatment after an interval of 4-10 weeks from the last dose of chemotherapy. OS was found to be similarly prolonged with avelumab + BSC versus BSC alone irrespective of the interval within this range, suggesting that the timing for starting avelumab first-line maintenance can be tailored within this 4- to 10-week range based on individual patient considerations (e.g. resolution of chemotherapy-related toxicity, patient and provider preference, or scheduling logistics).
+76
+However, intervals longer or shorter than 4-10 weeks were not assessed, and longer intervals without maintenance are likely to result in an increased risk of progression, considering the short median PFS in patients who did not receive avelumab first-line maintenance.
+Various biomarker analyses have been carried out using samples obtained from the JAVELIN Bladder 100 population. In subgroups defined by PD-L1 status, OS analyses favored avelumab + BSC versus BSC alone in patients with PD-L1+ tumors (HR 0.69; 95% CI 0.52-0.90) or PD-L1− tumors (HR 0.82; 95% CI 0.62-1.09).
+69
+In addition, in analyses of exploratory biomarkers, although several associations of potential interest were identified, no single molecular biomarker was found that could specifically identify the subgroup of patients who obtained OS benefit.
+74
+,
+79
+,
+80
+Thus, biomarker assessment, including PD-L1 status and tumor mutational burden, is not clinically relevant when considering avelumab first-line maintenance treatment.
+Patient-reported outcome (PRO) data from JAVELIN Bladder 100
+JAVELIN Bladder 100 is the first phase III trial to report PROs with first-line ICI switch-maintenance treatment. Analyses from the trial included descriptive analyses and mixed-effect models of validated PRO instruments [National Comprehensive Cancer Network/Functional Assessment of Cancer Therapy Bladder Symptom Index-18 (FBlSI-18) and EuroQol five-level EQ-5D (EQ-5D-5L)]. Results for these instruments were similar between arms, with no notable differences in disease-related symptoms, including physical, emotional, or overall well-being measures. Results were also similar for prespecified and
+post hoc
+analyses of time to deterioration from baseline in the FBlSI-18 disease-related symptoms–physical subscale. Thus, PRO data showed that administering avelumab as maintenance treatment had no detrimental impact on patients’ quality of life.
+81
+Data for avelumab first-line maintenance obtained outside of clinical trials
+Several noninterventional studies have confirmed the efficacy and safety of avelumab first-line maintenance in patients with advanced UC (
+Table 2
+). The ambispective AVENANCE study, carried out in France, was the first noninterventional study to be reported. The study population included 593 patients whose disease stage was metastatic in 91.2% (visceral metastases in 82.4%) and locally advanced in 8.6%. The primary tumor site was bladder in 74.9%, upper urinary tract in 19.3%, and urethra in 5.8%. Tumor histology was pure UC in 91.9%. First-line chemotherapy regimens included carboplatin + gemcitabine in 60.9% and cisplatin + gemcitabine in 29.3%. After a median follow-up of 15.2 months, median OS from the start of avelumab was 20.7 months (95% CI 17.1 months-not estimable) and the 1-year OS rate was 65.4%; median PFS was 5.7 months (95% CI 5.3-7.0 months) and the 1-year PFS rate was 35.2%. TRAEs of any grade were reported in 42.8% of patients, which were serious in 5.2%, led to interruption or discontinuation in 13.2%, and resulted in death in 0.8%.
+82
+Thus, efficacy and safety findings in AVENANCE were similar to those reported in the JAVELIN Bladder 100 trial, despite the higher proportion of patients who received first-line carboplatin + gemcitabine and heterogeneous population of AVENANCE, and potential differences in patient populations between studies.
+61
+,
+69
+,
+82
+Outcomes have also been assessed in expanded access or compassionate use programs, which provide access to treatment before approval or reimbursement. In a program conducted in Italy, 464 patients received avelumab first-line maintenance. Among patients with available data, the primary tumor site was lower or upper urinary tract in 67.6% and 32.4%, respectively, and tumor histology was pure UC in 87.9%. First-line chemotherapy was carboplatin + gemcitabine in 51.9% and cisplatin + gemcitabine in 46.1%. Median time from the end of first-line chemotherapy to start of avelumab was 8 weeks. In initial efficacy assessments, median OS from start of avelumab treatment was not reached and the 1-year OS rate was 69.2%. Median PFS was 8.1 months (95% CI 6.1-10.4 months) and the 1-year PFS rate was 44.3%.
+83
+In a Korean expanded access program, 30 patients received avelumab first-line maintenance, and safety findings were consistent with data from JAVELIN Bladder 100 and other avelumab monotherapy studies.
+85
+Ongoing observational studies of avelumab first-line maintenance in different countries and regions include PATRIOT-II (US),
+86
+AVENUE (Europe),
+87
+and SPADE (Asia-Pacific region).
+88
+Data have also been reported from retrospective studies. In an analysis of 108 patients who received avelumab first-line maintenance in the US and Europe, the primary tumor site was lower or upper urinary tract in 85.2% and 14.8%, respectively; tumor histology was pure UC in 78.7%, and 12.0% had liver metastases. Chemotherapy was cisplatin-based in 65.7% and carboplatin-based in 34.3%, and median interval between end of chemotherapy and start of avelumab was 6 weeks (range 1-30 weeks). Median OS was not reached and the 1-year OS rate was 72.5%. Median PFS was 9.6 months.
+84
+Data have also been reported from a small group of patients with advanced UC who received avelumab first-line maintenance in Japanese centers (
+N
+= 27). The authors reported that the rate of disease control with avelumab first-line maintenance was higher in patients who had an interval between end of chemotherapy and start of avelumab of ≤6 weeks versus >6 weeks (77% versus 40%, respectively). No difference in disease control rate was reported between patients who had received ≤3 versus 4 versus ≥5 cycles of first-line chemotherapy before starting avelumab. In safety analyses, 44% of patients had an avelumab-related AE (irAE in 19%), which was grade ≥3 in 4%. However, interpretation of this retrospective study is limited by the small number of patients, possible selection bias, and other potential confounding factors (e.g. variations in clinical practice between institutions and variations in treatment history between patients).
+89
+Avelumab first-line maintenance: treatment duration and sequencing
+Prescribing information for avelumab states that treatment should be continued until progressive disease or unacceptable toxicity,
+90
+,
+91
+which is consistent with the JAVELIN Bladder 100 trial design.
+61
+Among patients treated with avelumab in the JAVELIN Bladder 100 trial (
+n
+= 344), 34.3% received ≥12 months of treatment, and 19.5% of patients received ≥2 years of treatment. In a
+post hoc
+analysis of the subpopulation of patients who received ≥12 months of treatment (
+n
+= 118), median OS was not reached (95% CI 50.9 months-not estimable), and median PFS was 26.7 months (95% CI 19.4-32.2 months).
+92
+Within this subgroup, TRAEs of any grade with onset after ≥12 months occurred in 50.0%, including grade ≥3 TRAEs in 11.9%, and no new safety signals were identified with a longer treatment duration.
+69
+,
+92
+It is generally unknown whether ICIs can be administered with fixed duration or reduced dose intensity (longer interval between doses) without impacting efficacy. A phase III trial in patients with advanced UC in the US receiving ICI treatment (IMAGINE), which aimed to compare OS in patients whose treatment was continued or discontinued,
+93
+was closed because of insufficient enrollment. Based on the design of the JAVELIN Bladder 100 trial, and in the absence of data on fixed treatment durations, continued avelumab treatment until progressive disease or unacceptable toxicity is the recommended approach.
+Potential second-line (salvage therapy) options discussed in treatment guidelines for patients who have received chemotherapy and avelumab maintenance as first-line treatment include antibody–drug conjugates (enfortumab vedotin or sacituzumab govitecan), erdafitinib (for patients with a susceptible
+FGFR3-
+or
+FGFR2
+-activating mutation or fusion), and cytotoxic chemotherapy, which might include rechallenge with the platinum-based regimen that was administered as induction treatment, depending on PFS/platinum-free interval, organ function, medical comorbidities, ECOG PS, and prior toxicity.
+6
+,
+10
+,
+13
+Clinical trial participation is also encouraged.
+6
+An overall summary of treatment sequencing based on international treatment guidelines is provided in
+Figure 3
+; available treatment options in different countries depend on local approvals.
+6
+,
+10
+,
+13
+,
+47
+,
+48
+,
+50
+,
+51
+,
+59
+,
+94
+,
+95
+,
+96
+,
+97
+In the JAVELIN Bladder 100 trial, 52.9% of all patients in the avelumab arm (185/350) received second-line treatment, representing ∼60% of those who had discontinued avelumab (
+n
+= 307).
+69
+,
+98
+In a
+post hoc
+exploratory analysis of patients who discontinued avelumab and received second-line treatment, median OS was 22.5 months in patients who received rechallenge with platinum-based chemotherapy versus 19.1 months in patients who received other second-line treatments; however, antibody–drug conjugates and erdafitinib were only used in a very small number of patients. In an exploratory comparison of patients who discontinued avelumab with or without receiving second-line treatment, median OS was 19.9 versus 18.2 months, respectively; however, patients who discontinued avelumab without receiving any second-line treatment were a heterogeneous group, and potentially included patients who discontinued avelumab following early progression or toxicity and others who discontinued after experiencing long-term disease control.
+98
+A separate exploratory analysis found that time to end of next-line treatment was prolonged in the avelumab + BSC arm versus the BSC-alone arm (median 14.8 versus 9.2 months; HR 0.67; 95% CI 0.545-0.815).
+99
+Data from noninterventional and retrospective studies/registries for subsequent treatment options after avelumab first-line maintenance are needed.
+Ongoing clinical trials of maintenance treatment in patients with advanced UC
+Several trials are aiming to optimize or improve the JAVELIN Bladder regimen in patients with advanced UC. DISCUS (EudraCT Number 2021-001975-17), a randomized phase II trial, is comparing patients who receive avelumab first-line maintenance after three versus six cycles of platinum-based chemotherapy (cisplatin or carboplatin + gemcitabine). The primary endpoint is quality of life, measured by change in the European Organisation for Research and Treatment of Cancer QLQ-C30 questionnaire general health status/quality-of-life scale scores from baseline to completion of six cycles of avelumab treatment. Patients will also undergo various clinical and tumor assessments as part of standard treatment.
+100
+In addition, a single-arm study (AVE-SHORT) is investigating a fixed duration of 6 months of avelumab maintenance treatment in patients who have received four to six cycles of first-line platinum-based chemotherapy. The primary endpoint is OS at 18 months.
+101
+MAIN-CAV, a randomized phase III trial, is comparing avelumab + cabozantinib (multitargeted tyrosine kinase inhibitor) versus avelumab alone as first-line switch-maintenance treatment in 654 patients with advanced UC whose cancer has not progressed after four to six cycles of platinum-based chemotherapy (NCT05092958); the primary endpoint is OS.
+102
+JAVELIN Bladder Medley, a randomized phase II trial, is investigating several avelumab-based combinations as first-line switch-maintenance in patients with advanced UC that has not progressed with platinum-based chemotherapy (NCT05327530). In different treatment arms, avelumab is being combined with sacituzumab govitecan [anti-TROP2 (tumor-associated calcium signal transducer 2)/topoisomerase inhibitor conjugate], M6223 [anti-TIGIT (T-cell immunoreceptor with Ig and ITIM domains)], or NKTR-255 (interleukin-15 agonist), and a control group is receiving avelumab alone. The primary endpoints are PFS and safety.
+103
+Other ongoing studies of avelumab-based combinations in the first-line maintenance setting include: TALASUR (NCT04678362), a single-arm phase II study assessing avelumab + talazoparib (poly-ADP ribose polymerase inhibitor); and PRESERVE3 (NCT04887831), a randomized phase II study of first-line platinum-based chemotherapy + trilaciclib (cyclin-dependent kinase 4/6 inhibitor) followed by first-line maintenance treatment with avelumab + trilaciclib versus standard first-line platinum-based chemotherapy followed by avelumab maintenance. Lastly, in the phase II TROPHY-U-01 study (NCT03547973), cohort 4 will receive first-line cisplatin + sacituzumab govitecan followed by first-line maintenance with sacituzumab govitecan and either avelumab or zimberelimab (anti–PD-1), cohort 5 will compare experimental maintenance regimens (zimberelimab with or without sacituzumab govitecan) versus avelumab maintenance,
+104
+and cohort 6 will compare experimental first-line regimens [sacituzumab govitecan with or without zimberelimab and domvanalimab (anti-TIGIT)] versus carboplatin + gemcitabine followed by avelumab maintenance.
+105
+Ongoing phase III trials assessing other treatment regimens in patients with advanced UC
+Several other ongoing phase III trials are assessing alternative first-line treatment regimens for patients with advanced UC. NILE (NCT03682068) is a three-arm trial comparing durvalumab with or without tremelimumab in combination with first-line platinum-based chemotherapy versus chemotherapy alone. In addition, the CheckMate-901 trial (NCT03036098) is assessing nivolumab + ipilimumab versus carboplatin-based chemotherapy in cisplatin-ineligible patients.
+55
+Per trial designs, these regimens are not being formally compared with the current first-line standard of care in advanced UC, i.e. platinum-based chemotherapy followed by avelumab first-line maintenance in patients without progression; however, the actual numbers of patients who receive avelumab maintenance in those trials will be of interest.
+Discussion
+The JAVELIN Bladder regimen of first-line platinum-based chemotherapy followed by avelumab first-line maintenance in patients without progression is approved in >50 countries worldwide and is recommended as a preferred standard of care in international treatment guidelines for patients with advanced UC, based on level 1 evidence.
+6
+,
+10
+,
+13
+,
+90
+,
+91
+First-line platinum-based chemotherapy provides high rates of response and disease control, selecting a patient population that has significantly extended OS with avelumab first-line maintenance, as shown by long-term follow-up data from the JAVELIN Bladder 100 trial.
+61
+,
+69
+This switch-maintenance approach has significantly improved outcomes compared with the watch-and-wait approach that was the previous standard of care.
+61
+In contrast, ICIs given as monotherapy or in combination with platinum-based chemotherapy for first-line treatment of advanced UC have not shown significantly prolonged OS in three randomized phase III trials.
+31
+,
+32
+,
+49
+,
+52
+However, positive findings have been reported from a substudy of the phase III CheckMate-901 trial of nivolumab + cisplatin-based chemotherapy followed by nivolumab monotherapy.
+53
+First-line ICI monotherapy is a recommended option for patients ineligible for platinum- (cisplatin- or carboplatin-) based chemotherapy in the USA, although approvals in this indication have not occurred in most countries. The combination of first-line enfortumab vedotin + pembrolizumab is emerging as another preferred option for cisplatin-ineligible patients, which has received accelerated approval in the USA based on phase Ib/II data but has not been approved in other countries at the time of publication.
+6
+,
+13
+Avelumab provides an OS benefit following standard first-line chemotherapy for platinum-eligible patients irrespective of platinum-containing regimen received previously or tumor PD-L1 status.
+61
+,
+69
+Thus, the OS improvement with avelumab in carboplatin-treated patients has strengthened the rationale for administering first-line carboplatin + gemcitabine in cisplatin-ineligible patients. In the JAVELIN Bladder 100 trial, efficacy improvements were similar irrespective of the duration of first-line chemotherapy, achievement of response or SD with chemotherapy, or the interval between end of chemotherapy and start of maintenance (within the 4- to 10-week interval permitted in the trial).
+69
+,
+70
+,
+75
+,
+76
+,
+77
+,
+78
+This suggests that initiation of avelumab maintenance in the first-line setting can be tailored according to individual patient and provider considerations, within the parameters of the trial design and its eligibility criteria, and also considering the short median PFS without avelumab maintenance. Long-term follow-up from the trial showed no new safety considerations and no detrimental impact on quality of life, as indicated by patient-reported outcomes.
+69
+,
+81
+Efficacy and safety results from the JAVELIN Bladder 100 trial are also supported by noninterventional and retrospective studies.
+82
+,
+83
+,
+84
+Several ongoing clinical trials are evaluating novel avelumab-based combinations for first-line maintenance treatment in patients with advanced UC. Phase III trials are assessing other regimens as first-line treatment, although the absence of avelumab first-line maintenance as a specified treatment in the control arms will be an important consideration when interpreting trial results. Future trial designs should ideally include platinum-based induction chemotherapy followed by avelumab maintenance in patients without progression as a more appropriate first-line control treatment.
+Overall, level 1 evidence from the JAVELIN Bladder 100 trial, long-term follow-up data, and emerging ‘real-word’ data, support the use of avelumab first-line maintenance as the standard of care in patients with advanced UC that has not progressed with first-line platinum-based chemotherapy.
+Supplementary data
+Supplementary Table S1
+Acknowledgements
+Medical writing support was provided by Jeremy Gardner of Clinical Thinking.
+Funding
+Medical writing support was funded by
+Merck
+(CrossRef Funder ID: 10.13039/100009945) and
+Pfizer
+.
+Disclosure
+PG
+has served in consulting or advisory roles for 4D Pharma, Aadi Bioscience, Asieris Pharmaceuticals, Astellas, AstraZeneca, BostonGene, Bristol Myers Squibb, CG Oncology, Dyania Health, Exelixis, Fresenius Kabi, G1 Therapeutics, Genentech, Gilead Sciences, Guardant Health, ImmunityBio, Infinity Pharmaceuticals, Janssen, Lucence, Merck, Mirati Therapeutics, MSD, Pfizer, PureTech, QED Therapeutics, Regeneron, Roche, Seagen, Silverback Therapeutics, Strata Oncology, and UroGen Pharma; and has received institutional research funding from ALX Oncology, Acrivon, Bavarian Nordic, Bristol Myers Squibb, Clovis Oncology, Debiopharm Group, G1 Therapeutics, Gilead Sciences, GSK, Merck, Mirati Therapeutics, MSD, Pfizer, and QED Therapeutics.
+EG
+has served in consulting or advisory roles, received honoraria for speaker engagements, and received funding for continuous medical education from Adacap, Amgen, Angelini, Astellas, AstraZeneca, Bayer, Blueprint, Bristol Myers Squibb, Caris Life Sciences, Celgene, Clovis Oncology, Eisai, EUSA Pharma, Genetracer, Guardant Health, HRA-Pharma, Ipsen, ITM Radiopharma, Janssen, Lexicon, Lilly, Merck, MSD, NanoString Technologies, Natera, Novartis, Biosequence-OncoDNA, Palex, PharmaMar, Pierre Fabre, Pfizer, Roche, Sanofi Genzyme, Servier, Taiho, and Thermo Fisher Scientific; and has received research grants from Astellas, AstraZeneca, Lexicon Pharmaceuticals, and Pfizer.
+IDD
+is director and chair of the Australian and New Zealand Urogenital and Prostate Cancer Trials Group (ANZUP) and receives no remuneration; is supported in part by an Australian National Health and Medical Research Council Investigator Grant (2016274); and has served as a member or chair of advisory boards for the following companies within the past 5 years: Astellas, AstraZeneca, Bayer, Bristol Myers Squibb, Eisai, Ipsen, Janssen, Merck, MSD, Pfizer, Pio Therapeutics, Roche, and Xennials Therapeutics; all honoraria are paid directly to ANZUP.
+HHM
+has received honoraria from Merck and Pfizer; and has received research funding from Amgen, Apollomics, Arcus Biosciences, AVEO, Bristol Myers Squibb, Genentech, HUYA Bioscience International, Nektar, Prometheus, RevImmune, and Seagen.
+M-OG
+has received honoraria from Astellas Pharma, AstraZeneca, Bristol Myers Squibb, EUSA Pharma, Ipsen, Merck, MSD, and Pfizer; has served in a consulting or advisory role for Astellas Pharma, AstraZeneca, Bristol Myers Squibb, Eisai, EUSA Pharma, Merck, MSD, Pfizer, Roche Pharma AG, and Takeda; has received research funding from Bristol Myers Squibb and Intuitive; and has received travel, accommodations, and expenses from Bristol Myers Squibb and Merck.
+SG
+has served in consulting or advisory roles for AVEO, Gilead Sciences, Guardant Health, Loxo/Lilly, Merck, MSD, and Pfizer; has reported speakers services for Bristol Myers Squibb, Gilead Sciences, Janssen Oncology, and Seagen; has stock and other ownership interests in BioNTech, Moderna Therapeutics, and Nektar; and has received research funding from Bristol Myers Squibb, Gilead Sciences, Merck, MSD, Moderna, Pfizer, QED Therapeutics, Roche, and Seagen.
+PB
+has served in consulting or advisory roles for Amgen, Bristol Myers Squibb, Ipsen, Janssen-Cilag, Merck, MSD, and Pfizer; has received travel and accommodation expenses from Astellas Pharma, Bristol Myers Squibb, Ipsen, Janssen-Cilag, MSD, and Pfizer; and has received honoraria from Astellas Pharma, Bristol Myers Squibb, Ipsen, Janssen-Cilag, Merck, MSD, Novartis, Pfizer, and Seagen.
+CT
+has received honoraria from AAA, Astellas, AstraZeneca, Bristol Myers Squibb, Janssen, Ipsen, Merck, MSD, Pfizer, and Sanofi; has provided speaker services for Astellas, AstraZeneca, Bristol Myers Squibb, Ipsen, Janssen, MSD, and Sanofi; and has received institutional research funding from AstraZeneca and Sanofi.
+SG
+is an employee of Merck Healthcare KGaA, Darmstadt, Germany.
+SH
+is an employee of Pfizer.
+CNS
+has served in consulting or advisory roles for Astellas, AstraZeneca, Bayer, Bristol Myers Squibb/Medarex, Foundation Medicine, Gilead, IMPAC Medical Systems, Incyte, Janssen, Medscape, Merck, MSD, Pfizer, Roche, Sanofi Genzyme, and UroToday.

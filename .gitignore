@@ -1,0 +1,13 @@
+# Python Environment
+.env
+venv/
+venv_bachelor/
+__pycache__/
+*.pyc
+
+# Pipeline Results
+*.jsonl
+*.log
+
+# Temp files
+*.bak

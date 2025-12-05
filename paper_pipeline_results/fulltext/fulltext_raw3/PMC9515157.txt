@@ -1,0 +1,462 @@
+pmc
+Sci Rep
+Sci Rep
+Scientific Reports
+2045-2322
+Nature Publishing Group UK
+London
+9515157
+20085
+10.1038/s41598-022-20085-y
+Article
+Plasma protein biomarkers for primary graft dysfunction after lung transplantation: a single-center cohort analysis
+Chacon-Alberty
+Lourdes
+1
+Kanchi
+Rupa S.
+2
+Ye
+Shengbin
+3
+Hochman-Mendez
+Camila
+1
+Daoud
+Daoud
+4
+Coarfa
+Cristian
+2
+5
+6
+Li
+Meng
+3
+Grimm
+Sandra L.
+5
+6
+Baz
+Maher
+7
+Rosas
+Ivan
+7
+Loor
+Gabriel
+Gabriel.Loor@bcm.edu
+4
+8
+9
+1
+grid.416986.4
+0000 0001 2296 6154
+Department of Regenerative Medicine Research,
+Texas Heart Institute,
+Houston, TX USA
+2
+grid.39382.33
+0000 0001 2160 926X
+Dan L Duncan Comprehensive Cancer Center,
+Baylor College of Medicine,
+Houston, TX USA
+3
+grid.21940.3e
+0000 0004 1936 8278
+Department of Statistics,
+Rice University,
+Houston, TX USA
+4
+grid.39382.33
+0000 0001 2160 926X
+Division of Cardiopulmonary Transplantation and Mechanical Circulatory Support, Michael E DeBakey Department of Surgery,
+Baylor College of Medicine,
+Houston, TX USA
+5
+grid.39382.33
+0000 0001 2160 926X
+Molecular and Cellular Biology Department,
+Baylor College of Medicine,
+Houston, TX USA
+6
+grid.39382.33
+0000 0001 2160 926X
+Center for Precision Environment Health,
+Baylor College of Medicine,
+Houston, TX USA
+7
+grid.39382.33
+0000 0001 2160 926X
+Department of Medicine,
+Baylor College of Medicine,
+Houston, TX USA
+8
+grid.416986.4
+0000 0001 2296 6154
+Cardiothoracic Surgery,
+Texas Heart Institute,
+Houston, TX USA
+9
+grid.416470.0
+0000 0004 4656 4290
+Division of Cardiopulmonary Transplantation,
+CHI St. Luke’s Health—Baylor St. Luke’s Medical Center,
+6770 Bertner Avenue, Suite C355, Houston, TX 77030 USA
+27
+9
+2022
+27
+9
+2022
+2022
+12
+16137
+15
+4
+2022
+8
+9
+2022
+© The Author(s) 2022
+https://creativecommons.org/licenses/by/4.0/
+Open Access
+This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit
+http://creativecommons.org/licenses/by/4.0/
+.
+The clinical use of circulating biomarkers for primary graft dysfunction (PGD) after lung transplantation has been limited. In a prospective single-center cohort, we examined the use of plasma protein biomarkers as indicators of PGD severity and duration after lung transplantation. The study comprised 40 consecutive lung transplant patients who consented to blood sample collection immediately pretransplant and at 6, 24, 48, and 72 h after lung transplant. An expert grader determined the severity and duration of PGD and scored PGD at T0 (6 h after reperfusion), T24, T48, and T72 h post-reperfusion using the 2016 ISHLT consensus guidelines. A bead-based multiplex assay was used to measure 27 plasma proteins including cytokines, growth factors, and chemokines. Enzyme-linked immunoassay was used to measure cell injury markers including M30, M65, soluble receptor of advanced glycation end-products (sRAGE), and plasminogen activator inhibitor-1 (PAI-1). A pairwise comparisons analysis was used to assess differences in protein levels between PGD severity scores (1, 2, and 3) at T0, T24, T48, and T72 h. Sensitivity and temporal analyses were used to explore the association of protein expression patterns and PGD3 at T48–72 h (the most severe, persistent form of PGD). We used the Benjamini–Hochberg method to adjust for multiple testing. Of the 40 patients, 22 (55%) had PGD3 at some point post-transplant from T0 to T72 h; 12 (30%) had PGD3 at T48–72 h. In the pairwise comparison, we identified a robust plasma protein expression signature for PGD severity. In the sensitivity analysis, using a linear model for microarray data, we found that differential perioperative expression of IP-10, MIP1B, RANTES, IL-8, IL-1Ra, G-CSF, and PDGF-BB correlated with PGD3 development at T48–72 h (FDR < 0.1 and
+p
+< 0.05). In the temporal analysis, using linear mixed modeling with overlap weighting, we identified unique protein patterns in patients who did or did not develop PGD3 at T48–72 h. Our findings suggest that unique inflammatory protein expression patterns may be informative of PGD severity and duration. PGD biomarker panels may improve early detection of PGD, predict its clinical course, and help monitor treatment efficacy in the current era of lung transplantation.
+Subject terms
+Cell death and immune response
+Chemokines
+Innate immunity
+Biomarkers
+Medical research
+NCI
+P30CA125123
+CPRIT
+RP200504
+NIH/NIEHS
+P42 ES027725
+NIMHD
+P50MD015496
+National Institutes of Health
+T32CA96520
+Ye
+Shengbin
+MacDonald Research Fund
+20RDM004
+Loor
+Gabriel
+JLH Foundation Award
+55354
+Loor
+Gabriel
+issue-copyright-statement
+© The Author(s) 2022
+Introduction
+Primary graft dysfunction (PGD) is the main cause of early morbidity and mortality after lung transplantation. Although patients can be successfully treated with supportive care, there is no cure for PGD
+1
+,
+2
+. Furthermore, supportive care alone cannot prevent the potential for irreversible harm to the donor allograft or other end organs. Short of identifying a cure, the ability to accurately map a molecular signature for detecting PGD could enhance the overall treatment of patients. The clinical implementation of biomarkers specific to the pathogenesis of PGD would improve early detection, predict the clinical course of PGD, and, importantly, provide an objective metric to gauge the efficacy of interventions
+3
+–
+5
+.
+The pathogenesis of PGD involves ischemia–reperfusion injury leading to inflammation, cell death, and endothelial dysfunction
+6
+–
+13
+. Accordingly, several studies have identified byproducts and mediators of these events as potential biomarkers associated with PGD. In a single-center study using enzyme linked immunoassays (ELISA) to detect inflammatory mediators in the plasma, Mathur et al. showed that interleukins 6, 8, and 10 (IL-6, IL-8, IL-10) and tumor necrosis factor (TNF)-α were elevated in patients with severe PGD compared with those without severe PGD
+14
+. In a multicenter study using a multiplex bead based assay to detect inflammatory protein mediators in the plasma, Hoffman and colleagues showed that interferon gamma-induced protein 10 (IP-10) and monocyte chemoattractant protein-1 (MCP-1) levels were higher in patients with severe PGD than in those without PGD
+15
+. Studies using the Lung Transplant Outcomes Group (LTOG) biorepository have validated several protein biomarkers for PGD including soluble receptor for advanced glycation end products (sRAGE), plasminogen activator inhibitor-1 (PAI-1), and MCP-1
+8
+,
+16
+,
+17
+.
+Despite the well-founded enthusiasm in the transplant community for discovering biomarkers, they have not been adopted in clinical practice for several reasons. First, there is a lack of consensus regarding the best method for detecting biomarkers in an efficient, reliable, and cost-effective manner. Second, making consequential clinical decisions based on biomarker results is concerning because of the possibility of a false positive or negative. Finally, there is a paucity of recent studies that validate the results previously reported from observational registries, which is not surprising given the expense of collecting and analyzing these rare samples.
+Thus, the current study was conducted to validate the utility of protein biomarkers for detecting the severity and duration of PGD. We used the most updated PGD grading guidelines, a contemporary cohort of lung transplant recipients, and novel statistical methods to aid in detecting a wide breadth of biomarkers.
+Methods
+Study population and design
+We included all consecutive lung transplants performed at Baylor St. Luke’s Medical Center from February 25, 2018–May 30, 2019. Patients provided informed consent for data and sample collection and specimen storage. We followed our standard immunosuppression regimen in all cases including induction with basiliximab (20 mg IV), solumedrol (1000 mg IV), and mycophenolate (1000 mg IV). We gradually tapered steroids over 30 days. We used daily tacrolimus and mycophenolate mofetil for maintenance immunosuppression. Virtual cross matches were performed before transplant to confirm immune compatibility between recipient and donor.
+Clinical outcomes data were entered into the Baylor-St. Luke’s Medical Center lung transplant database. All perioperative chest radiographs and blood gas results were reviewed by an expert PGD grader, and PGD scores were assigned based on strict adherence to the 2016 International Society for Heart and Lung Transplantation (ISHLT) consensus guidelines and caveats, including use of a saturation scale for patients who were extubated without arterial blood gasses
+4
+,
+5
+. PGD scores were determined at T0, T24, T48, and T72 h timepoints, which correspond to 6, 24, 48, and 72 h after lung reperfusion with a range of ± 6 h, except for T0 (with a range of ± 2 h). All measurements were blinded to the maximum extent possible.
+Sample collection
+To ensure maximal consistency, we followed a standardized protocol for peripheral blood collection, processing, and storage. We collected peripheral blood (10 mL) in EDTA tubes at baseline (pretransplant) and 6-, 24-, 48-, and 72-h post-reperfusion and immediately transferred the samples to the Texas Heart Institute Biorepository for sample processing, storage, and biomarker analysis.
+Immunologic analyses
+For biomarker analysis, blood was centrifuged; the plasma was isolated, immediately flash frozen, and stored at − 80 °C. Plasma samples were slowly thawed on ice and processed according to the manufacturer’s recommendations for multiplex bead array (Bio-Plex, Bio-Rad Laboratories, Hercules, CA, USA) (Supplementary Table
+1
+). The plates were read with the Luminex MAGPIX with a lower limit of 100 beads per sample per analyte, and protein concentrations were analyzed using the Bio-plex Results Generator. A coefficient of variation < 20% was used as acceptance criteria. The multiplex assay was used to detect the expression levels of 27 cytokines, chemokines, and growth factors. Enzyme-linked immunoassay (ELISA) was used to detect expression levels of proteins that were not available in the multiplex assay including PAI-1, cell death markers (M30, M65), and sRAGE. All our methods were carried out in accordance with relevant guidelines and regulations.
+Statistical analysis
+Summary descriptive statistics were computed using proportions for categorical variables and mean ± standard deviation for continuous variables. The Pearson chi-square test or the Fisher exact test was used for categorical values as appropriate. Normality was assessed using the Shapiro–Wilk test. Either the Student
+t
+test or the Mann–Whitney
+U
+test was used for continuous variables, as appropriate.
+We performed a pairwise comparison analysis to determine the association between perioperative protein expression patterns and the severity of PGD. PGD severity scores (1 to 3) determined at T0, T24, T48, and T72 h were used to define three comparisons: 2 versus 1, 3 versus 1, and 3 versus 2 for each timepoint. This resulted in a total of 12 possible comparisons. Within each comparison, differential expression of plasma proteins expressed in log2 (data + 1) scale was determined using Bayesian adjusted t-statistics as implemented in the linear models for microarray data (LIMMA) R package
+18
+. A multiple hypothesis testing correction was performed for each comparison using the Benjamini–Hochberg method
+19
+. Proteins were differentially expressed between PGD severity score levels if the false detection rate (FDR)-adjusted p-value was less than 0.25. Log2 fold changes for significant proteins were plotted using GraphPad Prism version 9.2.
+We performed a sensitivity analysis to determine the association between biomarker expression patterns and development of PGD3 at T48–72 h, the most severe and persistent form of PGD. For this, we selected proteins whose levels correlated with severity of PGD in at least 3 of the 12 pairwise comparisons in the prior analysis. We compared their expression levels in patients who did or did not develop PGD3 at T48–72 h using LIMMA with significance achieved at an FDR-adjusted p-value < 0.10. We applied multiple hypothesis testing correction using the Benjamini–Hochberg method.
+We performed a temporal analysis to explore the association between protein evolution patterns in patients who did or did not develop PGD3 at T48–72 h. For this analysis, we fit a linear mixed effect model (LMM) for each biomarker level. Because time and biomarker level are not linearly associated, B-spline basis on time,
+\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{mathrsfs}
+\usepackage{upgreek}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}$${f}_{B}\left(time\right)$$\end{document}
+f
+B
+t
+i
+m
+e
+, was used to induce nonlinear structure. Moreover,
+\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{mathrsfs}
+\usepackage{upgreek}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}$${f}_{B}\left(time\right)$$\end{document}
+f
+B
+t
+i
+m
+e
+, PGD3, and
+\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{mathrsfs}
+\usepackage{upgreek}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}$${f}_{B}\left(time\right)\times$$\end{document}
+f
+B
+t
+i
+m
+e
+×
+PGD3 were used as fixed effects, and random effects were allowed across subjects.
+\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{mathrsfs}
+\usepackage{upgreek}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}$${f}_{B}\left(time\right)\times$$\end{document}
+f
+B
+t
+i
+m
+e
+×
+PGD3 captures whether biomarkers are differentially expressed due to time and PGD status. The LMMs were fitted on a log scale when there were no missing data to reduce residual errors.
+Overlap weighting
+20
+–
+22
+was used to adjust for the following patient characteristics and three operative factors: BMI, hypertension, type of transplant (single versus bilateral), ex vivo lung perfusion (EVLP), and type of intraoperative extracorporeal life support (ECLS). We used overlap weighting here to achieve exact balance in case of any confounders between PGD and non-PGD groups. Analysis of variance p-values for testing whether the LMM coefficient of
+\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{mathrsfs}
+\usepackage{upgreek}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}$${f}_{B}\left(time\right)\times$$\end{document}
+f
+B
+t
+i
+m
+e
+×
+PGD3 is zero were adjusted using the Benjamini–Hochberg procedure for the full and overlap weighted cohorts, respectively. LMM coefficient of
+\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{mathrsfs}
+\usepackage{upgreek}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}$${f}_{B}\left(time\right)\times$$\end{document}
+f
+B
+t
+i
+m
+e
+×
+PGD3 close to 0 suggests that cytokine evolutions are significantly different between patients who did or did not develop PGD3 at T48–72 h. Statistical analyses were conducted using R. GraphPad and R were used to create figures. A two-sided p-value < 0.05 was considered significant.
+Ethics approval and consent to participate
+This study was approved by the Institutional Review Board (IRB) for Human Subject Research for Baylor College of Medicine (IRB number: H-42256).
+Results
+Study population
+Demographics and clinical characteristics of recipients and donors (n = 40) are summarized in Table
+1
+. Of the 40 patients included in the study, 22 (55%) had PGD3 at some point after transplant from T0 to T72 h; 12 (30%) patients were diagnosed with PGD3 at T48–72 h. Characteristics associated with a higher risk of PGD3 at T48–72 h included a larger body mass index, a greater prevalence of systemic hypertension, and the intraoperative use of ECLS. As expected, these patients had worse clinical outcomes, although statistical significance was not reached for several variables likely due to sample size. No patient developed hyperacute graft rejection within 72 h.
+Pairwise comparison analysis of protein expression patterns and severity of PGD
+We used the annotated PGD severity scores, 1 to 3, to set up pairwise comparisons between patients with different levels of PGD severity at each post-transplant time point (T0–T72 h). Using a threshold FDR-adjusted p-value < 0.25, we identified multiple diverse differences in protein expression profiles associated with severity of PGD across multiple comparisons (Fig.
+1
+). A robust signature for PGD3 versus PGD1 was observed at T0 and T48 h. Notably, IP10 and interleukin-1 receptor antagonist (IL-1Ra) were upregulated at 6 h post-lung transplant reperfusion in 5 of the 12 comparisons.
+Sensitivity analysis of protein expression patterns associated with PGD3 at T48–72 h
+We selected 16 protein expression patterns associated with the severity of PGD in at least 3 of the 12 comparisons from the previous analysis (Fig.
+2
+A). Using a p-value < 0.05, 8 of these 16 protein expression patterns were associated with patients who developed PGD3 at T48–72 h, including the following patterns (Fig.
+2
+B,C): (1) downregulation of IL-1Ra, macrophage inflammatory protein (MIP)-1beta, platelet derived growth factor (PDGF)-BB, RANTES, and IL-8 before transplant; (2) upregulation of IL-1Ra and IP-10 at 6 h post-transplant; and (3) upregulation of granulocyte colony-stimulating factor (G-CSF) at 72 h post-transplant. Using a threshold FDR adjusted p-value < 0.1, we detected an additional 3 biomarker expression patterns associated with patients who developed PGD3 at T48–72 h, including the following: (1) downregulation of IL-4 and MIP-1A before transplant and (2) downregulation of IL-17 at 72 h post-transplant (Fig.
+2
+B).
+Temporal analysis of protein evolution patterns associated with PGD3 at T48–72 h
+We examined the differences in the temporal expression of circulating plasma proteins over 72 h post-reperfusion between patients who did or did not develop PGD3 at T48–72 h. For this analysis, we used LMM and overlap weighting adjusted for BMI, hypertension, use of ECLS, type of transplant (single versus bilateral), and use of EVLP. Statistical differences were noted for MIP-1B, IL-1Ra, IL-9, IP-10, and M30 before adjusting for multiple testing in both the non-overlap weighting and overlap weighting cohorts (Table
+2
+, Figs.
+3
+,
+4
+). After adjusting for multiple testing, changes over time in IP-10 and M30 remained significant in the non-overlap weighted cohort, but not in the overlap weighted cohort (Table
+2
+, Fig.
+4
+). This suggests that the differences in IP-10 and M30 changes over time seen in patients who did or did not develop PGD3 at T48–72 h may have been affected by BMI, hypertension, and operative factors such as use of ECLS, type of transplant, and EVLP.
+Discussion
+Biomarkers for PGD are mediators and byproducts of the molecular events that characterize the pathogenesis of the disease. Here, we have identified clusters of cytokines, chemokines, growth factors, and apoptotic proteins strongly associated with the clinical grade and duration of PGD.
+Deciding which of these biomarkers to use in clinical practice is challenging. Ideally, the biomarker would correlate strongly with PGD across all analyses. In this regard, IP-10 would be a good candidate. IP-10 levels at 6 h post-lung transplant reperfusion correlated with the severity of PGD in 5 of the 12 pairwise comparisons. Moreover, IP-10 levels at 6 h correlated with the development of PGD3 at T48–72 h in the sensitivity analysis and the temporal analysis, except when adjusted for multiple testing in the overlap-weighted cohort. Thus, IP-10 appears to be a strong candidate for use as a biomarker for PGD severity and duration, although its temporal trends could be affected by operative factors.
+Given the complexity of the molecular events underlying PGD, it is unlikely that a single biomarker would be sufficient to detect its severity and duration. Thus, considering other important, although perhaps less robust, correlations observed in our analysis is worthwhile. MIP-1B and RANTES are two additional chemokines that correlated with PGD. MIP1-B expression profiles were significantly associated with PGD in the paired comparisons analysis and the sensitivity analysis. The temporal evolution of MIP1-B was associated with PGD3 at T48–72 h, except when adjusted for multiple testing. RANTES levels correlated with the severity of PGD in the paired analysis and the duration of PGD in the sensitivity analysis. Our findings and those of others suggest that chemokines could be important in the pathogenesis of PGD and may be reasonable candidates to use in a panel of biomarkers for PGD severity and duration
+15
+,
+17
+,
+23
+.
+Furthermore, our results were consistent with those of Hashimoto and colleagues who showed elevated levels of M30 and M65 at T24–48 h post-lung transplant in patients with PGD3
+11
+. We observed a gradual and late rise in M30 levels associated with PGD3 at T48–72 h, suggesting a phased onset of apoptosis. M65, which is an indicator of both apoptosis and necrosis, did not correlate with PGD in our temporal analysis. However, the paired comparison analysis suggested that M65 levels had a delayed association with PGD severity.
+In the current study, we found a consistent association between increased levels of IL-1Ra and the severity and duration of PGD. It is difficult to explain this association. IL-1Ra is an immune modulator that counteracts the effects of IL-1 alpha and beta. Whether the elevated levels result in exacerbation of PGD or are a byproduct of a reparative response is unclear. It is conceivable that increased IL-1Ra levels correspond to a depletion of IL-1. Although we did not detect differences in IL-1 levels in the temporal analysis, we did identify reduced levels of IL-1B at T24–48 h in the paired analysis in at least one comparison (T0 PGD3 versus 1). This supports the findings of Hoffman and colleagues who showed a precipitous reduction in IL-1B levels after reperfusion along with elevated levels of IL-1Ra in patients with severe PGD compared with those without PGD
+15
+. Thus, our findings and those of others support the use of IL-1Ra as a biomarker for PGD.
+Several protein expression patterns in our study were notable for the lack of association with PGD, findings that contradict those of previous studies
+14
+. For example, Mathur and colleagues found increased levels of cytokines including IL-6, IL-8, IL-10, and TNF-α in patients who developed PGD. We did not find these same correlations, but we did note an increase in IL-10 at 6 h that was associated with PGD grade 3 rather than 1. We also found a decrease in IL-6, TNF-α, and IL-8 associated with the severity of PGD. Lower baseline levels of IL-8 were associated with PGD3 at T48–72 h (Fig.
+2
+A,B). Although the association of IL-9 with severity of PGD was relatively weak, we found an indirect correlation between IL-9 levels and PGD severity (Fig.
+1
+).
+We also explored the role of markers of lung epithelial damage or endothelial dysfunction as biomarkers for PGD. Christie et al.
+8
+showed that levels of sRAGE, a marker of lung epithelial cell injury, were elevated in patients with PGD. We found a correlation between sRAGE levels and the severity of PGD in one of 12 pairwise comparisons. Pretransplant samples showed lower levels of sRAGE in patients with greater PGD severity, which is consistent with findings reported by Daoud et al.
+5
+. sRAGE levels were increased in postoperative samples at T24–72 h in our study. Although these results support those of Christie et al.
+8
+, our findings were seen in a single column of the pairwise analysis and not in the sensitivity or temporal analyses. In a separate study, Christie et al.
+16
+showed that PAI-1, a marker of endothelial dysfunction, was elevated in patients with PGD. In our study, PAI-1 levels were different in the pairwise comparison in a single column, only at the 6-h time point. Our PAI-1 finding is difficult to interpret; PAI-1 expression was downregulated when comparing PGD2 versus 1 at T0 and upregulated when comparing PGD3 versus 2 at T0. We found no significant differences in PAI-1 expression patterns in the sensitivity or the temporal analyses. This could be due to differences in collection protocols or the lack of power to detect differences in the expression of these biomarkers.
+This study had several limitations that should be considered when interpreting and generalizing the data. Our sample size was limited, which could have affected our ability to detect differences in biomarker expression (type II error). Additionally, because of the small sample size and the variability of biomarker expression at each time point, we were able to estimate only to pointwise confidence intervals. However, we controlled for type I error by using appropriate statistical models, thus strengthening our identification of significant biomarkers. We believe that the in-depth data analysis in our small study provides important insight for future work on a larger scale.
+The population in our study was not homogeneous, and operative factors such as use of ECLS, type of lung transplant (single versus double), and the use of EVLP could confound the interpretation of results. In fact, these weaknesses are among the reasons why biomarkers are not used heavily in clinical practice. It is generally cost prohibitive to obtain large samples sizes in homogeneous populations for studies designed to draw definitive conclusions. Moreover, the rates of PGD in this series were higher than those reported in large multicenter studies
+24
+, but the risk factors and outcomes associated with PGD were similar. The higher rates in our study may be due to the use of the updated 2016 ISHLT scoring guidelines, which increase detection of PGD, particularly in extubated patients
+5
+. However, our PGD rates were not entirely different from those in a recent international multicenter cohort
+25
+. Finally, caution should be taken when analyzing baseline biomarkers and their effects on PGD as we have previously reported; although potentially informative, these relationships can be heavily influenced by confounding variables
+5
+. The associations between downregulation of preoperative biomarkers and development of PGD more likely reflected the delta increase in biomarkers as evidenced by the temporal evolution analysis.
+Nevertheless, our study has several strengths. This study of serial samples from 40 consecutive consented patients is one of the largest recent single-center experiences for PGD biomarker analysis in lung transplantation. Since the early biomarker studies from the LTOG consortium, the PGD scoring system has been revised to improve consistency and sensitivity
+4
+,
+5
+. Additionally, perioperative practices in lung transplantation have evolved, including greater use of ECLS and EVLP
+25
+–
+27
+. Although these perioperative practices could confound our results, it is almost impossible to study biomarkers associated with PGD in the current era without including them. Similarly, the use of postoperative extracorporeal membrane oxygenation could confound the interpretation of postoperative biomarkers; however, this is a common treatment for severe PGD and would also be difficult to exclude. Table
+1
+shows that only the mode of intraoperative support was statistically different between groups. In our experience, intraoperative extracorporeal life support is primarily used prophylactically at the start of the case, depending on the surgeon’s opinion as to whether it will facilitate the operation. It may also be used depending on the results of a short test clamp of the pulmonary artery or single-lung ventilation. Within the study period, only 1.77% of cases required conversion for urgent indications such as profound hypoxia, air, bleeding, or hemodynamic instability. It remains unresolved whether use of intraoperative ECMO alters the reperfusion inflammatory milieu in the lung allograft; this topic warrants additional investigation. Postoperative ECMO was not used for prophylactic indications in this series; therefore, all postoperative ECMO was graded as PGD3.
+In addition, we used several innovative statistical methods to validate our findings. We utilized a novel pairwise comparison analysis with LIMMA to identify a range of possible molecular signatures for PGD
+18
+. Our sensitivity analysis helped reinforce the association between biomarkers and the duration of severe PGD. In a temporal analysis, we used overlap weighting to adjust for possible confounding factors
+20
+–
+22
+.
+Detecting cytokines consistently can be challenging and often depends on factors such as freeze–thaw cycles, storage duration, and specimen processing
+28
+. We used a single freeze–thaw cycle and limited the storage duration. All samples were processed similarly in the Department of Regenerative Medicine at the Texas Heart Institute, which has individuals with significant expertise and experience in sample processing for cytokine and cell population analysis, including storing and processing samples for several national clinical trials
+29
+.
+The discovery and application of biomarkers has revolutionized the treatment of patients with lung cancer, heart failure, and myocardial ischemia, but it has not yet been applied to the care of patients in whom complications develop after lung transplantation
+30
+–
+32
+. We propose that it is time to incorporate biomarker analysis into clinical practice in lung transplantation. Based on our analysis, IP-10, IL-1Ra, MIP-1B, PDGF-BB, RANTES, IL-8, G-CSF, and M30 are particularly strong candidates for biomarkers of PGD severity and duration. We recommend the clinical use and continued examination of a panel of biomarkers that could allow us to detect PGD early, predict its clinical course, monitor its progression, provide mechanistic insight for drug development, and establish benchmarks for therapeutic efficacy.
+Supplementary Information
+Supplementary Table 1.
+Abbreviations
+ECLS
+Extracorporeal life support
+ELISA
+Enzyme-linked immunoassay
+EVLP
+Ex vivo lung perfusion
+FDR
+False detection rate
+IR
+Ischemia–reperfusion
+IRB
+Institutional Review Board
+ISHLT
+International Society for Heart and Lung Transplantation
+LIMMA
+Linear model for microarray data
+LMM
+Linear mixed effect model
+LTOG
+Lung Transplant Outcomes Group
+PGD
+Primary graft dysfunction
+Publisher's note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary Information
+The online version contains supplementary material available at 10.1038/s41598-022-20085-y.
+Acknowledgements
+The authors thank Rebecca Bartow, PhD, of the Department of Scientific Publications at the Texas Heart Institute, for editorial support.
+Author contributions
+All authors approved the final version for submission. L.C.A.: Substantial contributions to the conception or design of the work; or the acquisition, analysis, or interpretation of data for the work; and drafting or revising the manuscript critically for important intellectual content. C.H.M.: Substantial contribution to the interpretation of the work and revising it critically for important intellectual content. D.D.: Substantial contributions to acquisition of the data for the work and revising it critically for important intellectual content. S.Y.: Substantial contribution to the analysis of the work and revising it critically for important intellectual content. M.L.: Substantial contribution to the analysis of the work and revising it critically for important intellectual content. G.L.: Substantial contributions to the conception or design of the work and the acquisition, analysis, or interpretation of data for the work and drafting or revising it critically for important intellectual content. R.K.: Substantial contribution to bioinformatics analysis and data visualization revising the manuscript critically for important intellectual content. S.L.G.: Substantial contribution to bioinformatics analysis and data visualization and revising the manuscript critically for important intellectual content. C.C.: Substantial contribution to data analysis plan and revising the manuscript critically for important intellectual content. M.B.: Substantial contribution to the interpretation of the work and revising it critically for important intellectual content. All authors gave final approval of the version to be published and agree to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved.
+Funding
+MacDonald Research Fund Award 20RDM004 (MacDonald Grant Foundation). JLH Foundation Award #55354. RK, SLG, and CC were partially supported by NCI P30CA125123, CPRIT RP200504, NIH/NIEHS P42 ES027725, NIH/NIEHS P30 ES030285, and NIMHD P50MD015496. SY was supported by NIH T32CA096520.
+Data availability
+The data that support the findings of this study are available on request from the corresponding author. The data are not publicly available due to privacy or ethical restrictions.
+Competing interests
+GL receives institutional Grant support from Transmedics, Abbot, Medtronic, Getinge, St. Jude, and is a consultant for Abiomed. No other authors have any competing interests to report.
