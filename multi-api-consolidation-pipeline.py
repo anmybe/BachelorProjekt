@@ -43,7 +43,7 @@ TOKEN_USAGE = {
 API_PROVIDER = "GEMINI" 
 
 INPUT_FOLDER = "semantic_serial_results3" # Ordner, der die Ergebnisse aus Phase 1 enthält
-OUTPUT_FILE = "final_biomarker_compendium5.json"
+OUTPUT_FILE = "final_biomarker_compendium6.json"
 
 # --- API KEYS AND MODEL MAPPING ---
 API_KEYS = {

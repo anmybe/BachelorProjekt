@@ -2,51 +2,35 @@ import json
 import os
 from time import sleep
 from datetime import datetime
-from typing import Dict, Any, List
+from typing import Dict, Any, List, Tuple
+# NEUER Import fuer Parallelisierung
+import concurrent.futures 
 
+# --- Python-DotEnv Import ---
 from dotenv import load_dotenv
 load_dotenv()
+# --- END Python-DotEnv Import ---
 
 # --- LLM API IMPORTS ---
-# requests is used for the raw Gemini API endpoint
 import requests 
 
-# Anthropic and OpenAI SDKs are used for those providers
 try:
     import anthropic
-    from anthropic import APIError, APIStatusError # Import specific Anthropic errors
+    from anthropic import APIError, APIStatusError
 except ImportError:
     anthropic = None
     APIError = type('APIError', (Exception,), {})
     APIStatusError = type('APIStatusError', (Exception,), {})
 
 try:
-    from openai import OpenAI, APIError as OpenAI_APIError
-    openai = True  # Flag to indicate successful import
+    import openai
+    from openai import OpenAI
+    from openai import APIError as OpenAI_APIError
 except ImportError:
     openai = None
-    OpenAI = None
     OpenAI_APIError = type('OpenAI_APIError', (Exception,), {})
-
-try:
-    import google.generativeai as genai
-except ImportError:
-    genai = None 
 # --- END IMPORTS ---
 
-# --- GLOBAL METRICS TRACKING ---
-def initialize_token_usage():
-    global TOKEN_USAGE
-    TOKEN_USAGE = {
-        "provider": "",
-        "model": "",
-        "input_tokens": 0,
-        "output_tokens": 0,
-        "total_tokens": 0,
-        "total_calls": 0,
-    }
-
-initialize_token_usage()
 
 # --- CONFIGURATION (The Switch) ---
 
@@ -55,9 +39,11 @@ API_PROVIDER = "GEMINI"
 
 MOCK_MODE = False
 CHUNK_FOLDER = "chunks_gemini_semantic_serial3"
-OUTPUT_DIR_PHASE1 = "semantic_serial_results4"
+OUTPUT_DIR_PHASE1 = "semantic_serial_results_threads"
 
-# --- API KEYS AND MODEL MAPPING ---
+
+# --- API KEYS AND MODEL MAPPING (Laden aus Umgebungsvariablen) ---
+
 API_KEYS = {
     "GEMINI": os.environ.get("GEMINI_API_KEY"),
     "CLAUDE": os.environ.get("CLAUDE_API_KEY"),
@@ -81,10 +67,29 @@ OPENAI_CLIENT = OpenAI(api_key=API_KEYS["OPENAI"]) if OpenAI else None
 GEMINI_API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{MODELS['GEMINI']}:generateContent?key={API_KEYS['GEMINI']}"
 
 
-# --- SCHEMA DEFINITIONS (Unchanged) ---
-# ... (RESPONSE_SCHEMA and CHUNK_RESPONSE_SCHEMA remain the same) ...
+# --- SCHEMA DEFINITION & SANITIZATION (Unveraendert) ---
 
-RESPONSE_SCHEMA = {
+def _sanitize_schema_types(schema: Dict | List | str) -> Dict | List | str:
+    """Recursively converts all JSON Schema type definitions to lowercase strings."""
+    if isinstance(schema, dict):
+        new_schema = {}
+        for k, v in schema.items():
+            if k == 'type' and isinstance(v, str):
+                new_schema[k] = v.lower()
+            elif k in ('properties', 'items') and isinstance(v, dict):
+                new_schema[k] = _sanitize_schema_types(v)
+            elif isinstance(v, dict) or isinstance(v, list):
+                 new_schema[k] = _sanitize_schema_types(v)
+            else:
+                new_schema[k] = v
+        return new_schema
+    elif isinstance(schema, list):
+        return [_sanitize_schema_types(item) for item in schema]
+    return schema
+
+
+# 1. Base Schema (using original definition format)
+DRAFT_RESPONSE_SCHEMA = {
     "type": "OBJECT",
     "properties": {
         "title": {"type": "STRING"},
@@ -147,10 +152,12 @@ RESPONSE_SCHEMA = {
     "required": ["title", "document_source_id", "analysis_date", "extracted_data"]
 }
 
+# 2. Final Sanitized Schema Definitions (Used throughout the pipeline)
+RESPONSE_SCHEMA = _sanitize_schema_types(DRAFT_RESPONSE_SCHEMA)
 CHUNK_RESPONSE_SCHEMA = RESPONSE_SCHEMA["properties"]["extracted_data"]
 
 
-# --- PROMPT INSTRUCTIONS (Unchanged) ---
+# --- CORE QUERY BUILDERS (Unveraendert) ---
 
 CHUNK_INSTRUCTION_PREFIX = (
     "INSTRUCTIONS: You are a highly specialized Scientific Data Extractor. Analyze the provided article chunk "
@@ -164,9 +171,6 @@ SYSTEM_INSTRUCTION_PREFIX = (
     "Synthesize them into a single, cohesive, and non-redundant final JSON object using the provided tool/schema. "
     "Merge array fields and write comprehensive summaries for object fields.\n\n"
 )
-
-
-# --- CORE QUERY BUILDERS (Unchanged) ---
 
 def build_chunk_analysis_query(document_id: str, chunk_content: str) -> str:
     """Builds the user prompt for analyzing a single chunk, including instructions."""
@@ -205,11 +209,11 @@ def build_synthesis_query(document_id: str, title: str, chunk_results: list) -> 
     return SYSTEM_INSTRUCTION_PREFIX + synthesis_query
 
 
-# --- PROVIDER-SPECIFIC API CALLERS ---
+# --- PROVIDER-SPECIFIC API CALLERS (Hinzufuegen der usage-Uebergabe) ---
 
-def call_gemini_api(document_id: str, user_query: str, response_schema: Dict[str, Any]) -> Dict[str, Any]:
+def call_gemini_api(document_id: str, user_query: str, response_schema: Dict[str, Any]) -> Tuple[Dict[str, Any], Dict[str, Any]]:
     """Handles API call using raw requests for the Gemini API endpoint."""
-    global TOKEN_USAGE
+    usage_metadata = {}
 
     payload = {
         "contents": [{"parts": [{"text": user_query}]}],
@@ -230,46 +234,31 @@ def call_gemini_api(document_id: str, user_query: str, response_schema: Dict[str
         
         # --- TOKEN TRACKING (Gemini) ---
         usage_metadata = result.get('usageMetadata', {})
-        TOKEN_USAGE['provider'] = "GEMINI"
-        TOKEN_USAGE['model'] = MODELS["GEMINI"]
-        TOKEN_USAGE['input_tokens'] += usage_metadata.get('promptTokenCount', 0)
-        TOKEN_USAGE['output_tokens'] += usage_metadata.get('candidatesTokenCount', 0)
-        TOKEN_USAGE['total_tokens'] += usage_metadata.get('totalTokenCount', 0)
-        TOKEN_USAGE['total_calls'] += 1
-        # -------------------------------
-
+        
         if json_text:
-            return json.loads(json_text)
+            return json.loads(json_text), usage_metadata
         else:
-            return {"error": "Gemini API returned empty content."}
+            return {"error": "Gemini API returned empty content."}, usage_metadata
     
     except requests.exceptions.RequestException as e:
         error_msg = f"HTTP Error: {e}"
         if hasattr(response, 'text'):
             error_msg += f" | Response: {response.text}"
-        return {"error": error_msg}
+        return {"error": error_msg}, usage_metadata
     except json.JSONDecodeError:
-        return {"error": "Gemini API returned unparseable JSON."}
+        return {"error": "Gemini API returned unparseable JSON."}, usage_metadata
 
-def call_claude_api(document_id: str, user_query: str, response_schema: Dict[str, Any]) -> Dict[str, Any]:
-    """
-    Handles API call using the Anthropic SDK with tool use.
-    
-    Note: Schema handling is simplified as global schema is already lowercased.
-    """
-    global TOKEN_USAGE
-    
+def call_claude_api(document_id: str, user_query: str, response_schema: Dict[str, Any]) -> Tuple[Dict[str, Any], Dict[str, Any]]:
+    """Handles API call using the Anthropic SDK with tool use."""
+    usage_metadata = {}
+
     if not ANTHROPIC_CLIENT:
-        return {"error": "Anthropic client not initialized. Library missing or key invalid."}
+        return {"error": "Anthropic client not initialized. Library missing or key invalid."}, usage_metadata
         
-    # --- FIX FOR CLAUDE OBJECT/ARRAY ROOT SCHEMA ---
-    # The SDK expects the tool's input_schema to be an OBJECT.
     if response_schema.get("type", "").lower() == "object":
-        # Objects are passed directly
         claude_input_schema = response_schema
         tool_name = "extract_scientific_data"
     elif response_schema.get("type", "").lower() == "array":
-        # Arrays must be wrapped in a pseudo-OBJECT for the tool parameter.
         claude_input_schema = {
             "type": "object",
             "properties": {
@@ -277,11 +266,10 @@ def call_claude_api(document_id: str, user_query: str, response_schema: Dict[str
             },
             "required": ["data_array"]
         }
-        tool_name = "consolidate_data" # Name change for synthesis tool
+        tool_name = "consolidate_data"
     else:
         claude_input_schema = response_schema
         tool_name = "generic_tool"
-    # ------------------------------------------
 
     tool_schema = {
         "name": tool_name,
@@ -300,49 +288,43 @@ def call_claude_api(document_id: str, user_query: str, response_schema: Dict[str
         
         # --- TOKEN TRACKING (Claude) ---
         usage = response.usage
-        TOKEN_USAGE['provider'] = "CLAUDE"
-        TOKEN_USAGE['model'] = MODELS["CLAUDE"]
-        TOKEN_USAGE['input_tokens'] += usage.input_tokens
-        TOKEN_USAGE['output_tokens'] += usage.output_tokens
-        TOKEN_USAGE['total_tokens'] += usage.input_tokens + usage.output_tokens
-        TOKEN_USAGE['total_calls'] += 1
+        usage_metadata = {
+            'input_tokens': usage.input_tokens, 
+            'output_tokens': usage.output_tokens,
+            'total_tokens': usage.input_tokens + usage.output_tokens
+        }
         # -------------------------------
 
         if response.stop_reason == "tool_use":
             tool_calls = [c for c in response.content if c.type == "tool_use"]
             if tool_calls and tool_calls[0].name == tool_schema["name"]:
-                
                 raw_input = tool_calls[0].input
                 
-                # Unwrap the result if we used the array wrapper (for ARRAY schemas)
                 if response_schema.get("type", "").lower() == "array":
-                    # The result is { "data_array": [...] } -> extract the array
-                    return raw_input.get("data_array", {"error": "Failed to unwrap Claude ARRAY response."})
+                    return raw_input.get("data_array", {"error": "Failed to unwrap Claude ARRAY response."}), usage_metadata
                 else:
-                    return raw_input
+                    return raw_input, usage_metadata
 
             else:
-                return {"error": "Claude API failed to return expected tool use call."}
+                return {"error": "Claude API failed to return expected tool use call."}, usage_metadata
         else:
-            return {"error": f"Claude API did not return structured tool output. Stop reason: {response.stop_reason}"}
+            return {"error": f"Claude API did not return structured tool output. Stop reason: {response.stop_reason}"}, usage_metadata
 
     except (APIError, APIStatusError) as e:
         error_msg = f"Claude API Error ({e.status_code}): {e.response.json().get('error', {}).get('message', 'Unknown API Error')}"
-        return {"error": error_msg}
+        return {"error": error_msg}, usage_metadata
     except Exception as e:
-        return {"error": f"General Claude SDK Error: {e}"}
+        return {"error": f"General Claude SDK Error: {e}"}, usage_metadata
 
-def call_openai_api(document_id: str, user_query: str, response_schema: Dict[str, Any]) -> Dict[str, Any]:
+def call_openai_api(document_id: str, user_query: str, response_schema: Dict[str, Any]) -> Tuple[Dict[str, Any], Dict[str, Any]]:
     """Handles API call using the OpenAI SDK with function calling (tools)."""
-    global TOKEN_USAGE
+    usage_metadata = {}
 
     if not OPENAI_CLIENT:
-        return {"error": "OpenAI client not initialized. Library missing or key invalid."}
+        return {"error": "OpenAI client not initialized. Library missing or key invalid."}, usage_metadata
         
-    # Schema types are already lowercase thanks to global sanitization
     sanitized_schema = response_schema
     
-    # Check if this is the consolidation step (ARRAY) or the chunk analysis (OBJECT)
     if response_schema.get("type", "").lower() == "array":
         tool_name = "consolidate_data"
     else:
@@ -367,33 +349,33 @@ def call_openai_api(document_id: str, user_query: str, response_schema: Dict[str
         
         # --- TOKEN TRACKING (OpenAI) ---
         usage = response.usage
-        TOKEN_USAGE['provider'] = "OPENAI"
-        TOKEN_USAGE['model'] = MODELS["OPENAI"]
-        TOKEN_USAGE['input_tokens'] += usage.prompt_tokens
-        TOKEN_USAGE['output_tokens'] += usage.completion_tokens
-        TOKEN_USAGE['total_tokens'] += usage.total_tokens
-        TOKEN_USAGE['total_calls'] += 1
+        usage_metadata = {
+            'input_tokens': usage.prompt_tokens, 
+            'output_tokens': usage.completion_tokens,
+            'total_tokens': usage.total_tokens
+        }
         # -------------------------------
         
         # Parse the structured tool call
         if response.choices[0].message.tool_calls:
             tool_call = response.choices[0].message.tool_calls[0]
             if tool_call.function.name == tool_name:
-                return json.loads(tool_call.function.arguments)
+                return json.loads(tool_call.function.arguments), usage_metadata
         
-        return {"error": "OpenAI API failed to return structured function call."}
+        return {"error": "OpenAI API failed to return structured function call."}, usage_metadata
     
     except OpenAI_APIError as e:
         error_msg = f"OpenAI API Error ({e.status_code}): {e.message}"
-        return {"error": error_msg}
+        return {"error": error_msg}, usage_metadata
     except Exception as e:
-        return {"error": f"General OpenAI SDK Error: {e}"}
+        return {"error": f"General OpenAI SDK Error: {e}"}, usage_metadata
 
-# --- UNIFIED API CALL HANDLER (Unchanged) ---
+# --- UNIFIED API CALL HANDLER ---
 
-def call_llm_api_internal(document_id: str, user_query: str, response_schema: Dict[str, Any]) -> Dict[str, Any]:
+def call_llm_api_internal(document_id: str, user_query: str, response_schema: Dict[str, Any], usage_tracker: Dict[str, Any]) -> Tuple[Dict[str, Any], Dict[str, Any]]:
     """
-    Routes the API call to the selected provider with exponential backoff.
+    Routes the API call to the selected provider with exponential backoff and tracks usage.
+    Gibt Ergebnis und Usage-Metriken (fuer diesen EINEN Call) zurueck.
     """
     provider_map = {
         "GEMINI": call_gemini_api,
@@ -402,7 +384,7 @@ def call_llm_api_internal(document_id: str, user_query: str, response_schema: Di
     }
     
     if API_PROVIDER not in provider_map:
-        return {"error": f"Invalid API_PROVIDER selected: {API_PROVIDER}"}
+        return {"error": f"Invalid API_PROVIDER selected: {API_PROVIDER}"}, {}
         
     api_caller = provider_map[API_PROVIDER]
     
@@ -410,27 +392,32 @@ def call_llm_api_internal(document_id: str, user_query: str, response_schema: Di
     retry_delay = 1
     
     for attempt in range(max_retries):
-        try:
-            result = api_caller(document_id, user_query, response_schema)
-            
-            if "error" not in result:
-                return result
-            
-            # Log specific errors from the provider's wrapper function
-            print(f"Error from {API_PROVIDER} on attempt {attempt + 1}: {result['error']}")
-            
-        except Exception as e:
-            # Catch unexpected errors outside the provider wrapper
-            print(f"Unhandled pipeline error on attempt {attempt + 1}: {e}")
-            
+        
+        # API-Caller gibt Result und usage_metadata zurueck
+        result, usage_metadata = api_caller(document_id, user_query, response_schema)
+        
+        if "error" not in result:
+            # Token zur Gesamt-Document-Nutzung addieren
+            usage_tracker['input_tokens'] += usage_metadata.get('input_tokens', 0)
+            usage_tracker['output_tokens'] += usage_metadata.get('output_tokens', 0)
+            usage_tracker['total_tokens'] += usage_metadata.get('total_tokens', 0)
+            usage_tracker['total_calls'] += 1
+            usage_tracker['provider'] = API_PROVIDER
+            usage_tracker['model'] = MODELS[API_PROVIDER]
+
+            return result, usage_tracker
+        
+        # Log specific errors from the provider's wrapper function
+        print(f"Error from {API_PROVIDER} on attempt {attempt + 1}: {result['error']}")
+
         if attempt < max_retries - 1:
             sleep(retry_delay)
             retry_delay *= 2
         
-    return {"error": f"Failed to process {document_id} after {max_retries} attempts with {API_PROVIDER}."}
+    return {"error": f"Failed to process {document_id} after {max_retries} attempts with {API_PROVIDER}."}, usage_tracker
 
 
-# --- GENERALIZED PIPELINE FUNCTIONS (Unchanged) ---
+# --- GENERALIZED PIPELINE FUNCTIONS ---
 
 def load_document_chunks() -> Dict[str, Dict[str, Any]]:
     """Loads a single JSON file per document ID, extracts metadata and returns the list of chunks."""
@@ -474,80 +461,97 @@ def load_document_chunks() -> Dict[str, Dict[str, Any]]:
 
     return documents_to_process
 
-def analyze_chunk(document_id: str, chunk_content: str) -> Dict[str, Any]:
+def analyze_chunk(document_id: str, chunk_content: str, usage_tracker: Dict[str, Any]) -> Tuple[Dict[str, Any], Dict[str, Any]]:
     """Phase 1a: Calls the unified API to analyze a single chunk."""
     if MOCK_MODE:
-        # Use a generalized mock call
-        return {"error": "Mocking is not fully implemented for cross-API chunk analysis yet."}
+        return {"error": "Mocking not fully implemented."}, usage_tracker
 
     # Sanitize the chunk content
     sanitized_content = chunk_content.encode('utf-8', 'ignore').decode('utf-8', 'ignore')
         
     user_query = build_chunk_analysis_query(document_id, sanitized_content)
     
+    # Der innere Aufruf gibt das Resultat und die akkumulierten Usage-Metriken zurueck
     return call_llm_api_internal(
         document_id=document_id,
         user_query=user_query,
-        response_schema=CHUNK_RESPONSE_SCHEMA 
+        response_schema=CHUNK_RESPONSE_SCHEMA,
+        usage_tracker=usage_tracker
     )
 
-def synthesize_results(doc_id: str, title: str, chunk_results: List[Dict[str, Any]]) -> Dict[str, Any]:
+def synthesize_results(doc_id: str, title: str, chunk_results: List[Dict[str, Any]], usage_tracker: Dict[str, Any]) -> Tuple[Dict[str, Any], Dict[str, Any]]:
     """Phase 1b: Calls the unified API to synthesize all chunk results into the final document schema."""
     
     if MOCK_MODE:
-        return {"error": "Mocking is not fully implemented for cross-API synthesis yet."}
+        return {"error": "Mocking not fully implemented."}, usage_tracker
 
     user_query = build_synthesis_query(doc_id, title, chunk_results)
     
+    # Der innere Aufruf gibt das Resultat und die akkumulierten Usage-Metriken zurueck
     return call_llm_api_internal(
         document_id=doc_id,
         user_query=user_query,
-        response_schema=RESPONSE_SCHEMA 
+        response_schema=RESPONSE_SCHEMA,
+        usage_tracker=usage_tracker
     )
 
 
-# --- ORCHESTRATION & MAIN (Token Reporting Fix) ---
+# --- ORCHESTRATION & MAIN (Parallelisiert) ---
 
-def process_document(doc_id: str, doc_data: Dict[str, Any]) -> Dict[str, Any]:
-    """Orchestrates the chunk analysis (1a) and final synthesis (1b) for one document."""
+def process_document(doc_id: str, doc_data: Dict[str, Any]) -> Tuple[str, Dict[str, Any], Dict[str, Any]]:
+    """
+    Hauptverarbeitungsfunktion fuer ein Dokument, die parallelisiert wird.
+    Gibt die Dokumenten-ID, das Analyse-Resultat und die Token-Metriken zurueck.
+    """
+    
+    # Lokaler Tracker, der die Usage fuer dieses EINE Dokument akkumuliert
+    local_usage_tracker = {
+        "provider": "", "model": "", "input_tokens": 0, "output_tokens": 0,
+        "total_tokens": 0, "total_calls": 0
+    }
     
     all_chunk_results = []
     
     # PHASE 1a: ITERATIVE CHUNK ANALYSIS
-    print(f"    -> Starting Chunk Analysis ({len(doc_data['all_chunks'])} chunks) using {API_PROVIDER}...")
+    print(f"    -> Starting Chunk Analysis for {doc_id} ({len(doc_data['all_chunks'])} chunks) using {API_PROVIDER}...")
     for i, chunk in enumerate(doc_data['all_chunks']):
         chunk_content = chunk.get('text', '')
         
         if not chunk_content.strip():
-             print(f"    -> Warning: Chunk {i+1} is empty, skipping.")
+             # print(f"    -> Warning: Chunk {i+1} is empty, skipping.")
              continue
 
-        chunk_result = analyze_chunk(doc_id, chunk_content)
+        # WICHTIG: analyze_chunk aktualisiert local_usage_tracker durch Referenz
+        chunk_result, local_usage_tracker = analyze_chunk(doc_id, chunk_content, local_usage_tracker)
         
         if "error" in chunk_result:
-            print(f"    -> FAILED on Chunk {i+1}. Stopping for this document.")
-            return {"error": f"Failed analysis on chunk {i+1}: {chunk_result['error']}"}
+            print(f"    -> FAILED on Chunk {i+1} for {doc_id}. Stopping analysis.")
+            return doc_id, chunk_result, local_usage_tracker
             
         all_chunk_results.append(chunk_result)
-        sleep(0.5) # Small delay between chunks
-    
+        sleep(0.1) # Reduzierte Pause, da threadsicher
+
     if not all_chunk_results:
-        return {"error": "No non-empty chunks were successfully processed."}
+        return doc_id, {"error": "No non-empty chunks were successfully processed."}, local_usage_tracker
         
     # PHASE 1b: FINAL SYNTHESIS
-    print("    -> Synthesizing final document result...")
-    final_analysis = synthesize_results(doc_id, doc_data['title'], all_chunk_results) 
+    print(f"    -> Synthesizing final document result for {doc_id}...")
+    final_analysis, local_usage_tracker = synthesize_results(doc_id, doc_data['title'], all_chunk_results, local_usage_tracker) 
     
     if "error" in final_analysis:
-        print(f"    -> FAILED Synthesis: {final_analysis['error']}")
+        print(f"    -> FAILED Synthesis for {doc_id}: {final_analysis['error']}")
     
-    return final_analysis
+    return doc_id, final_analysis, local_usage_tracker
 
 def main():
-    """Main function to iterate over documents and process chunks."""
+    """Main function to iterate over documents and process chunks in parallel."""
     
-    global TOKEN_USAGE
-
+    # Globaler Tracker zur Akkumulation aller Tokens
+    TOTAL_TOKEN_USAGE = {
+        "input_tokens": 0, "output_tokens": 0,
+        "total_tokens": 0, "total_calls": 0
+    }
+    
     if API_PROVIDER not in MODELS:
         print(f"Configuration Error: Invalid API_PROVIDER '{API_PROVIDER}' selected.")
         return
@@ -563,40 +567,73 @@ def main():
 
     success_count = 0
     
-    for doc_id, data in documents_to_process.items():
-        # Setzt den Zähler für jedes Dokument zurück
-        initialize_token_usage() 
+    # --- PARALLELE VERARBEITUNG START ---
+    MAX_WORKERS = 8
+    
+    print(f"\nStarting parallel analysis of {len(documents_to_process)} documents using {API_PROVIDER} (Max Workers: {MAX_WORKERS}).")
 
-        print(f"\n--- Processing Document ID: {doc_id} (Title: {data['title'][:50]}...) ---")
-        
-        analysis_result = process_document(doc_id, data)
-        
-        if "error" not in analysis_result and analysis_result.get('extracted_data'):
-            
-            analysis_result['document_source_id'] = doc_id
-            analysis_result['analysis_date'] = datetime.now().strftime("%Y-%m-%d")
-            analysis_result['title'] = data['title']
-            
-            output_filename = os.path.join(OUTPUT_DIR_PHASE1, f"{doc_id}_analysis.json")
-            with open(output_filename, "w", encoding='utf-8') as f:
-                json.dump([analysis_result], f, indent=2) 
-            
-            print(f"Successfully analyzed and saved to '{output_filename}'.")
-            success_count += 1
-            
-            # 🚨 FIX: Token-Nutzung nach erfolgreicher Analyse des Dokuments ausgeben
-            print("--- TOKEN USAGE SUMMARY FOR DOCUMENT ---")
-            print(f"Provider: {TOKEN_USAGE['provider']} ({TOKEN_USAGE['model']})")
-            print(f"Total API Calls: {TOKEN_USAGE['total_calls']}")
-            print(f"Input Tokens (Prompt/Data): {TOKEN_USAGE['input_tokens']}")
-            print(f"Output Tokens (Response): {TOKEN_USAGE['output_tokens']}")
-            print(f"Total Tokens Used: {TOKEN_USAGE['total_tokens']}")
-            print("----------------------------------------")
-            
-        else:
-            print(f"Failed analysis for {doc_id}: {analysis_result.get('error', 'Unknown Error during processing.')}")
+    with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+        # Erstelle Future-Objekte
+        futures = {
+            executor.submit(process_document, doc_id, data): doc_id 
+            for doc_id, data in documents_to_process.items()
+        }
 
+        # Verarbeite die Ergebnisse, sobald sie fertig sind (as_completed)
+        for future in concurrent.futures.as_completed(futures):
+            doc_id = futures[future]
+            
+            try:
+                # Hole die Ergebnisse und die lokale Usage
+                doc_id, analysis_result, doc_usage = future.result()
+            except Exception as e:
+                print(f"\nCRITICAL ERROR PROCESSING {doc_id}: {e}")
+                continue
+            
+            # Token-Nutzung zur Gesamt-Statistik addieren
+            TOTAL_TOKEN_USAGE['input_tokens'] += doc_usage['input_tokens']
+            TOTAL_TOKEN_USAGE['output_tokens'] += doc_usage['output_tokens']
+            TOTAL_TOKEN_USAGE['total_tokens'] += doc_usage['total_tokens']
+            TOTAL_TOKEN_USAGE['total_calls'] += doc_usage['total_calls']
+
+            if "error" not in analysis_result and analysis_result.get('extracted_data'):
+                
+                analysis_result['document_source_id'] = doc_id
+                analysis_result['analysis_date'] = datetime.now().strftime("%Y-%m-%d")
+                analysis_result['title'] = documents_to_process[doc_id]['title']
+                
+                output_filename = os.path.join(OUTPUT_DIR_PHASE1, f"{doc_id}_analysis.json")
+                with open(output_filename, "w", encoding='utf-8') as f:
+                    json.dump([analysis_result], f, indent=2) 
+                
+                print(f"\n✅ Successfully analyzed and saved {doc_id} to '{output_filename}'.")
+                success_count += 1
+                
+                # Token-Nutzung für dieses Dokument ausgeben
+                print("--- TOKEN USAGE SUMMARY FOR DOCUMENT ---")
+                print(f"Provider: {doc_usage['provider']} ({doc_usage['model']})")
+                print(f"Total API Calls: {doc_usage['total_calls']}")
+                print(f"Input Tokens (Prompt/Data): {doc_usage['input_tokens']}")
+                print(f"Output Tokens (Response): {doc_usage['output_tokens']}")
+                print(f"Total Tokens Used: {doc_usage['total_tokens']}")
+                print("----------------------------------------")
+                
+            else:
+                print(f"\n❌ Failed analysis for {doc_id}: {analysis_result.get('error', 'Unknown Error during processing.')}")
+
+    # --- ENDE DER PARALLELEN VERARBEITUNG ---
+    
     print(f"\nPipeline Phase 1 completed. Successfully processed {success_count} documents.")
+
+    # Gesamte Token-Nutzung ausgeben
+    print("\n\n=============== OVERALL COST SUMMARY ===============")
+    print(f"Total Documents Processed Successfully: {success_count}")
+    print(f"Provider: {API_PROVIDER} ({MODELS[API_PROVIDER]})")
+    print(f"TOTAL API Calls: {TOTAL_TOKEN_USAGE['total_calls']}")
+    print(f"TOTAL Input Tokens: {TOTAL_TOKEN_USAGE['input_tokens']}")
+    print(f"TOTAL Output Tokens: {TOTAL_TOKEN_USAGE['output_tokens']}")
+    print(f"GRAND TOTAL Tokens Used: {TOTAL_TOKEN_USAGE['total_tokens']}")
+    print("====================================================\n")
 
 
 if __name__ == "__main__":

@@ -12,7 +12,17 @@ Output Tokens (Response): 11989
 Total Tokens Used: 50377
 ---------------------------
 
+nochmal das gleiche gerunnt:
 
+--- TOKEN USAGE SUMMARY ---
+Provider: GEMINI (gemini-2.5-flash)
+Input Tokens (Prompt/Data): 68698
+Output Tokens (Response): 54100
+Total Tokens Used: 164762
+---------------------------
+
+
+##########################################################
 
 
 multi-api-pipeline.py
