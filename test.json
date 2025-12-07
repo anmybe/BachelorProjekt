@@ -1,0 +1,118 @@
+{
+  "type": "OBJECT",
+  "properties": {
+    "title": {
+      "type": "STRING",
+      "description": "The complete title of the scientific document."
+    },
+    "document_source_id": {
+      "type": "STRING",
+      "description": "The unique ID of the source document (e.g., PMID, DOI)."
+    },
+    "analysis_date": {
+      "type": "STRING",
+      "description": "The date when the data analysis was performed."
+    },
+    "extracted_data": {
+      "type": "OBJECT",
+      "properties": {
+        "document_summary": {
+          "type": "STRING",
+          "description": "A concise summary of the study's aim and main findings (e.g., 'Investigation of molecular changes following CITT ablation of 4T1 breast carcinoma in mouse models.')."
+        },
+        "treatment_details": {
+          "type": "OBJECT",
+          "properties": {
+            "therapy_type": {
+              "type": "STRING",
+              "description": "The specific therapeutic method investigated in the document (e.g., CITT, Radiotherapy, Exercise)."
+            },
+            "dose_specificity": {
+              "type": "STRING",
+              "description": "Details regarding the intensity, duration, or specifics of the dose, including any lack of dose comparisons (e.g., 'Partial ablation at 80-90°C; no dose-response comparisons reported.')."
+            }
+          },
+          "required": [
+            "therapy_type",
+            "dose_specificity"
+          ]
+        },
+        "analyzed_biomarkers": {
+          "type": "ARRAY",
+          "description": "A list of detailed objects, where each object fully describes an individual biomarker, its effect, and context.",
+          "items": {
+            "type": "OBJECT",
+            "properties": {
+              "biomarker_name": {
+                "type": "STRING",
+                "description": "The molecular marker's name (e.g., Cxcl12, CK, Cortisol)."
+              },
+              "measured_tissue_or_fluid": {
+                "type": "STRING",
+                "description": "The tissue or body fluid where the marker was quantified (e.g., Blood Serum, Muscle Biopsy, Saliva)."
+              },
+              "activity_type": {
+                "type": "STRING",
+                "description": "The type of measurement (e.g., Gene Transcript, Protein Level, Hormone Concentration)."
+              },
+              "measured_effect": {
+                "type": "OBJECT",
+                "properties": {
+                  "direction_of_change": {
+                    "type": "STRING",
+                    "description": "The direction of the change after treatment or activity (e.g., higher, lower, unchanged)."
+                  },
+                  "magnitude_quantification": {
+                    "type": "STRING",
+                    "description": "Precise measurement data or relative change, ideally including significance (e.g., 'Increased by 15%', '2 to 2.5-fold higher (P<0.05)')."
+                  }
+                },
+                "required": [
+                  "direction_of_change",
+                  "magnitude_quantification"
+                ]
+              },
+              "core_biological_function": {
+                "type": "STRING",
+                "description": "The fundamental biological role of the biomarker (e.g., mediates inflammation, tissue repair, energy metabolism regulation). This explains WHAT the biomarker does."
+              },
+              "relevant_activity_context": {
+                "type": "STRING",
+                "description": "The specific type of activity or condition linked to the change (e.g., Endurance running, High-intensity Interval Training (HIIT), Post-surgical recovery, 4T1 Carcinoma Ablation). This explains the specific WHEN/WHERE."
+              },
+              "performance_or_health_indicator": {
+                "type": "STRING",
+                "description": "The derived significance for performance, regeneration, or health status (e.g., 'Indicates muscle damage level', 'Predicts overtraining risk', 'Associated with heightened bone metastasis risk')."
+              },
+              "research_outlook": {
+                "type": "STRING",
+                "description": "Recommendations for future studies or therapeutic interventions specifically related to this marker."
+              }
+            },
+            "required": [
+              "biomarker_name",
+              "measured_tissue_or_fluid",
+              "activity_type",
+              "measured_effect",
+              "core_biological_function",
+              "relevant_activity_context",
+              "performance_or_health_indicator",
+              "research_outlook"
+            ]
+          }
+        }
+      },
+      "required": [
+        "document_summary",
+        "treatment_details",
+        "analyzed_biomarkers"
+      ]
+    }
+  },
+  "required": [
+    "title",
+    "document_source_id",
+    "analysis_date",
+    "extracted_data"
+  ]
+}

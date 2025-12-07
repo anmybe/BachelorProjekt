@@ -1,5 +1,5 @@
 # ============================================
-# Stage C – Overlap-Split + Semantic Chunking (Claude, seriell, JSON pro Paper)
+# Stage C – Overlap-Split + Semantic Chunking (Gemini, seriell, JSON pro Paper)
 # ============================================
 
 import json
@@ -8,39 +8,43 @@ import time
 import datetime
 from pathlib import Path
 from tqdm import tqdm
-from anthropic import Anthropic
+from google import genai
+from google.genai.errors import APIError
 from dotenv import load_dotenv
 import os
-# APIStatusError wurde auf Wunsch entfernt, aber die allgemeine Exception-Behandlung
-# wurde optimiert, um Rate Limits/Timeouts abzufangen.
+
+# --- .env laden, um API-Schlüssel zu erhalten ---
+load_dotenv()
+
 
 # === EINSTELLUNGEN ===
-BASE_DIR = Path.home() / "BachelorProjekt"
+BASE_DIR = Path.home() / "BachelorProjekt" / "paper_pipeline" / "intermediary_results"
 INPUT_FILE = BASE_DIR / "stageB_metadata3.json"
-TEXT_DIR = BASE_DIR / "fulltext_raw3"
-CHUNK_DIR = BASE_DIR / "chunks_claude_semantic_serial3"
+TEXT_DIR = BASE_DIR / "fulltext" / "fulltext_raw3"
+CHUNK_DIR = BASE_DIR / "chunks_gemini_semantic_serial3"
 CHUNK_DIR.mkdir(parents=True, exist_ok=True)
-OUT_PATH = BASE_DIR / "stageC_metadata_claude_semantic_serial3.json"
-LOG_PATH = BASE_DIR / "claude_request_log3.txt"
+OUT_PATH = BASE_DIR / "stageC_metadata_gemini_semantic_serial3.json"
+LOG_PATH = BASE_DIR / "gemini_request_log3.txt"
 
-# --- ANTHROPIC KONFIGURATION ---
+# --- GEMINI KONFIGURATION ---
 
-CLAUDE_API_KEY = os.getenv("CLAUDE_API_KEY")
-MODEL = "claude-opus-4-5"
-FALLBACK_MODEL = "claude-3-sonnet"
-client = Anthropic(api_key=CLAUDE_API_KEY)
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+# WICHTIG: Flash 2.5 für Geschwindigkeit, Pro 2.5 als Fallback für bessere Performance bei komplexen Aufgaben
+MODEL = "gemini-2.5-flash"
+FALLBACK_MODEL = "gemini-2.5-flash"
+client = genai.Client(api_key=GEMINI_API_KEY)
 
 # Kosten (Geschätzt pro 1k Tokens, Stand Q4 2025)
-# Claude Opus 4.5 (Input/Output)
-COST_PER_1K_IN_OPUS = 0.0150 
-COST_PER_1K_OUT_OPUS = 0.0750
-# Claude 3 Sonnet (Input/Output)
-COST_PER_1K_IN_SONNET = 0.0030
-COST_PER_1K_OUT_SONNET = 0.0150
+# Gemini 2.5 Flash (Input/Output)
+COST_PER_1K_IN_FLASH = 0.00035 
+COST_PER_1K_OUT_FLASH = 0.0007
+# Gemini 2.5 Pro (Input/Output)
+COST_PER_1K_IN_PRO = 0.0035
+COST_PER_1K_OUT_PRO = 0.007
 # -------------------------------
 
-MAX_CHARS = 7000 # Reduziert für Claude (war 20000 bei Gemini)
-OVERLAP = 600
+MAX_CHARS = 15000 # Erhöht für Gemini Flash 2.5
+OVERLAP = 1000
 REQUEST_COUNT = 0
 
 
@@ -89,20 +93,20 @@ def safe_parse_json(text: str):
 def get_cost(model_name: str, in_toks: int, out_toks: int) -> float:
     """Berechnet die Kosten basierend auf dem Modell und Token-Verbrauch."""
     model_name = model_name.lower()
-    if "opus" in model_name:
-        cost = (in_toks / 1000 * COST_PER_1K_IN_OPUS) + (out_toks / 1000 * COST_PER_1K_OUT_OPUS)
-    elif "sonnet" in model_name:
-        cost = (in_toks / 1000 * COST_PER_1K_IN_SONNET) + (out_toks / 1000 * COST_PER_1K_OUT_SONNET)
+    if "flash" in model_name:
+        cost = (in_toks / 1000 * COST_PER_1K_IN_FLASH) + (out_toks / 1000 * COST_PER_1K_OUT_FLASH)
+    elif "pro" in model_name:
+        cost = (in_toks / 1000 * COST_PER_1K_IN_PRO) + (out_toks / 1000 * COST_PER_1K_OUT_PRO)
     else:
         # Fallback für unbekannte Modelle
         cost = (in_toks + out_toks) / 1000 * 0.005
     return cost
 
 
-def claude_chunk(segment: str, paper_id: str, segment_id: int, current_model: str = MODEL):
-    """Ruft Claude auf, um Text in sinnvolle Abschnitte zu teilen."""
+def gemini_chunk(segment: str, paper_id: str, segment_id: int, current_model: str = MODEL):
+    """Ruft Gemini auf, um Text in sinnvolle Abschnitte zu teilen."""
     
-    # Prompt mit SEMANTISCHER ANFORDERUNG (aus dem Einzeltest übernommen)
+    # Prompt mit SEMANTISCHER ANFORDERUNG
     prompt_template = """
 You are an expert biomedical text segmenter. You MUST follow every rule EXACTLY as written.
 No creativity, no improvements, no optimization. ZERO EXCEPTIONS.
@@ -148,24 +152,26 @@ Input text:
             print(f"\n🟢 [{paper_id}–Seg {segment_id}] Modell: {model_name}, Zeichen: {len(segment)}")
             start = time.time()
             
-            response = client.messages.create(
+            # Gemini API Aufruf
+            response = client.models.generate_content(
                 model=model_name,
-                max_tokens=4000,
-                messages=[{"role": "user", "content": prompt}],
-                timeout=60.0  # Erhöhtes Timeout
+                contents=[prompt],
+                config={"response_mime_type": "application/json"},
+                # Setze das Timeout
+                request_options={"timeout": 60.0} 
             )
             
             duration = time.time() - start
             log_request(model_name)
             print(f"⏱️ Antwortdauer: {duration:.1f}s")
             
-            # Tokenverbrauch
-            usage = response.usage
-            in_toks = usage.input_tokens
-            out_toks = usage.output_tokens
+            # Tokenverbrauch und Kosten
+            usage = response.usage_metadata
+            in_toks = usage.prompt_token_count
+            out_toks = usage.candidates_token_count
             cost = get_cost(model_name, in_toks, out_toks)
 
-            output_text = response.content[0].text
+            output_text = response.text
             parsed = safe_parse_json(output_text)
             
             if not parsed:
@@ -174,28 +180,28 @@ Input text:
 
             chunks = parsed.get("chunks", parsed)
             print(f"✅ {len(chunks)} Chunks erkannt.")
-            time.sleep(5)  # Kurze Pause zwischen API-Aufrufen
+            time.sleep(1) # Kurze Pause zwischen API-Aufrufen
             return chunks, in_toks, out_toks, cost
 
-        except Exception as e:
+        except APIError as e:
             msg = str(e).lower()
-            print(f"⚠️ Versuch {attempt+1} fehlgeschlagen: {e}")
+            print(f"⚠️ Versuch {attempt+1} fehlgeschlagen (APIError): {e}")
 
-            # Behandlung von Rate Limit / Timeout / 504
-            if "rate limit" in msg or "429" in msg:
-                print(f"🚧 Rate Limit erreicht – Wechsel zu {FALLBACK_MODEL}")
-                # Setze Modell für nächsten Versuch und die nächste Segmente in dieser Pipeline
+            # Behandlung von Rate Limit / Timeout
+            if "rate limit" in msg or "429" in msg or "quota" in msg:
+                print(f"🚧 Rate Limit/Quota erreicht – Wechsel zu {FALLBACK_MODEL}")
+                # Setze Modell für nächsten Versuch
                 current_model = FALLBACK_MODEL
                 model_name = FALLBACK_MODEL
-                wait_time = 60 * (2 ** attempt)
+                wait_time = 30 * (2 ** attempt)
                 print(f"⏳ Warte {wait_time}s...")
                 time.sleep(wait_time)
                 continue
 
-            if "timeout" in msg or "504" in msg:
-                print("⏳ Timeout – Segmentgröße halbiert und neuer Versuch ...")
+            if "timeout" in msg or "504" in msg or "500" in msg:
+                print("⏳ Timeout/Serverfehler – Segmentgröße halbiert und neuer Versuch ...")
                 # Reduziere die Segmentgröße, falls das Modell damit Probleme hat
-                segment = segment[:int(len(segment) * 0.5)]
+                segment = segment[:int(len(segment) * 0.75)] # Reduzierung auf 75%
                 wait_time = 10 * (2 ** attempt)
                 print(f"⏳ Warte {wait_time}s...")
                 time.sleep(wait_time)
@@ -203,6 +209,11 @@ Input text:
 
             # Standard-Backoff für andere Fehler
             time.sleep(5 * (2 ** attempt))
+
+        except Exception as e:
+            print(f"⚠️ Versuch {attempt+1} fehlgeschlagen (Unbekannter Fehler): {e}")
+            time.sleep(5 * (2 ** attempt))
+
 
     print("💤 Alle Versuche fehlgeschlagen – Rohchunk zurückgegeben.")
     return [{"id": 1, "text": segment.strip()}], 0, 0, 0
@@ -241,17 +252,14 @@ for p in papers:
     current_model_for_chunking = MODEL 
 
     for i, seg in enumerate(tqdm(segments, desc=f"{paper_id} Segmente"), start=1):
-        chunks, in_toks, out_toks, cost = claude_chunk(seg, paper_id, i, current_model_for_chunking)
+        chunks, in_toks, out_toks, cost = gemini_chunk(seg, paper_id, i, current_model_for_chunking)
         total_in += in_toks
         total_out += out_toks
         total_cost += cost
         all_chunks.extend(chunks)
 
-        # Überprüfen, ob das Modell auf den Fallback gewechselt wurde (z.B. wegen 429)
-        if "sonnet" in claude_chunk.__defaults__[0].lower():
-            current_model_for_chunking = FALLBACK_MODEL
-        else:
-            current_model_for_chunking = MODEL
+        # Logik, um das Hauptmodell beizubehalten, es sei denn, der Fallback wurde verwendet
+        # (Dies ist hier weniger kritisch, da Gemini eine robustere Quota-Behandlung hat)
 
     # KORREKTUR DER CHUNK-ID-NUMMERIERUNG FÜR DAS GESAMTE PAPER
     if all_chunks:
