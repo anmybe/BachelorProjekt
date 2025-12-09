@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Int J Mol Sci Int J Mol Sci ijms International Journal of Molecular Sciences 1422-0067 MDPI 6275061 10.3390/ijms19113485 ijms-19-03485 Article A Novel High Sensitivity Type II Collagen Blood-Based Biomarker, PRO-C2, for Assessment of Cartilage Formation https://orcid.org/0000-0002-4515-5888 Luo Yunyun 1 2 * He Yi 1 Reker Ditte 1 Gudmann Natasja St\u00e6hr 1 Henriksen Kim 1 Simonsen Ole 3 Ladel Christoph 4 Michaelis Martin 4 https://orcid.org/0000-0001-6261-1286 Mobasheri Ali 5 6 7 Karsdal Morten 1 Bay-Jensen Anne-Christine 1 1 Department of Rheumatology, Nordic Bioscience, Biomarkers and Research, 2730 Herlev, Denmark; yhe@nordicbio.com (Y.H.); dre@nordicbio.com (D.R.); nsg@nordicbio.com (N.S.G.); kh@nordicbio.com (K.H.); mk@nordicbio.com (M.K.); acbj@nordicbio.com (A.-C.B.-J.) 2 Faculty of Health and Medical Sciences, University of Copenhagen, 2200 K\u00f8benhavn, Denmark 3 Department Orthopedic Surgery, Aalborg University Hospital, 9000 Aalborg, Denmark; ohs@rn.dk 4 Merck KGaA, 64293 Darmstadt, Germany; christoph.ladel@merckgroup.com (C.L.); martin.michaelis@merckgroup.com (M.M.) 5 D-BOARD EU Consortium for Biomarker Discovery, Faculty of Health and Medical Sciences, University of Surrey, Guildford GU2 7AL, Surrey, UK; a.mobasheri@surrey.ac.uk 6 Arthritis Research UK Centre for Sport, Exercise and Osteoarthritis, Queen\u2019s Medical Centre, Nottingham NG7 2UH, Nottinghamshire, UK 7 Department of Regenerative Medicine, State Research Institute Centre for Innovative Medicine, LT-01102 Vilnius, Lithuania * Correspondence: yyl@nordicbio.com ; Tel.: +45-445-252-52 06 11 2018 11 2018 19 11 3485 07 10 2018 03 11 2018 \u00a9 2018 by the authors. 2018 Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license ( http://creativecommons.org/licenses/by/4.0/ ). N-terminal propeptide of type II collagen (PIINP) is a biomarker reflecting cartilage formation. PIINP exists in two main splice variants termed as type IIA and type IIB collagen NH 2 -propeptide (PIIANP, PIIBNP). PIIANP has been widely recognized as a cartilage formation biomarker. However, the utility of PIIBNP as a marker in preclinical and clinical settings has not been fully investigated yet. In this study, we aimed to characterize an antibody targeting human PIIBNP and to develop an immunoassay assessing type II collagen synthesis in human blood samples. A high sensitivity electrochemiluminescence immunoassay, hsPRO-C2, was developed using a well-characterized antibody against human PIIBNP. Human cartilage explants from replaced osteoarthritis knees were cultured for ten weeks in the presence of growth factors, insulin-like growth factor 1 (IGF-1) or recombinant human fibroblast growth factor 18 (rhFGF-18). The culture medium was changed every seven days, and levels of PIIBNP, PIIANP, and matrix metalloproteinase 9-mediated degradation of type II collagen (C2M) were analyzed herein. Serum samples from a cross-sectional knee osteoarthritis cohort, as well as pediatric and rheumatoid arthritis samples, were assayed for PIIBNP and PIIANP. Western blot showed that the antibody recognized PIIBNP either as a free fragment or attached to the main molecule. Immunohistochemistry demonstrated that PIIBNP was predominately located in the extracellular matrix of the superficial and deep zones and chondrocytes in both normal and osteoarthritic articular cartilage. In addition, the hsPRO-C2 immunoassay exhibits acceptable technical performances. In the human cartilage explants model, levels of PIIBNP, but not PIIANP and C2M, were increased (2 to 7-fold) time-dependently in response to IGF-1. Moreover, there was no significant correlation between PIIBNP and PIIANP levels when measured in knee osteoarthritis, rheumatoid arthritis, and pediatric serum samples. Serum PIIBNP was significantly higher in controls (KL0/1) compared to OA groups (KL2/3/4, p = 0.012). The hsPRO-C2 assay shows completely different biological and clinical patterns than PIIANP ELISA, suggesting that it may be a promising biomarker of cartilage formation. osteoarthritis cartilage formation PIIANP type II collagen PIIBNP 1. Introduction Osteoarthritis (OA) is generally characterized by a slowly progressive degeneration of articular cartilage [ 1 , 2 ]. The extracellular matrix (ECM) in articular cartilage consists primarily of proteoglycans and type II collagen [ 3 , 4 ]. In healthy cartilage, the ECM is characterized by a low turnover of collagens, whereas in OA, the homeostasis is disrupted, leading to an imbalance between cartilage formation and degradation [ 5 ]. In other words, a net loss of cartilage results in diseased cartilage [ 6 , 7 ]. Currently, there are no disease-modifying OA drugs (DMOADs) available. Those in development are either preventing cartilage breakdown (anti-catabolic pathways) or targeting cartilage formation (anabolic pathways). According to the list of DMOADs in past and present clinical development registered in clinicaltrials.gov , the majority of these trials are based on anti-catabolic or anti-inflammatory approaches [ 8 ]. Anabolic compounds under evaluation for cartilage regeneration or repair include but are not limited to insulin growth factor 1 (IGF-1) and recombinant human fibroblast growth factor 18 (rhFGF-18 or sprifermin). The ability of IGF-1 to influence chondrocyte proliferation and ECM turnover is well established [ 9 , 10 , 11 ]. Sprifermin has been shown to enhance cartilage synthesis in the settings of in vitro [ 12 ], ex vivo [ 13 ], and clinical trials [ 14 , 15 , 16 ]. The reason that there are few anabolic trials may in part be due to the lack of valid tools measuring the anabolic processes. Presently, the measurement of cartilage formation relies on magnetic resonance imaging (MRI) and radiographic techniques, which is a sensitive means but only observes the outcome after following up on the patient for a long time. Therefore, there is an unmet need in DMOAD development, where non-invasive biomarkers of cartilage formation can provide an early indication of drug efficacy. As the major matrix protein in articular cartilage, type II collagen is synthesized as a procollagen consisting of propeptides at both the C and N-terminus (PIICP and PIINP). PIINP exists in two splice variants termed type IIA collagen NH 2 -propeptide (PIIANP) and type IIB collagen NH 2 -propeptide (PIIBNP) in consequence of alternative RNA splicing [ 17 , 18 ]. PIIBNP differs from PIIANP with the absence of exon 2 encoding a cysteine-rich globular domain [ 19 ]. PIIANP is synthesized by chondroprogenitor cells and is usually restricted to embryogenesis and fracture healing, and it may also be re-expressed in osteoarthritic cartilage and osteophytes [ 5 , 20 , 21 , 22 ]; it is also thought to represent a dedifferentiated version of type II collagen [ 23 ]. On the other hand, PIIBNP is considered to be the only procollagen splice variant that is mainly expressed during type II collagen formation in healthy adult cartilage [ 21 ]. These propeptides are cleaved from the collagen triple helix during secretion by specific proteinases (e.g., matrix metalloproteinases, N-proteinase, and C-proteinase) before being released into the circulation [ 21 , 24 , 25 , 26 ]. Therefore, the amount of free propeptide directly correlates with type II collagen synthesis, a relationship analogous to that of the carboxy-terminal proinsulin peptide and endogenously produced insulin [ 5 , 23 , 27 ]. Quantitative detection of type II collagen synthesis was previously reported by Rousseau et al., who described a competitive immunoassay for PIIANP using polyclonal antibodies [ 27 ]. We have previously reported on the development of a PIIBNP enzyme-linked immunosorbent assay (ELISA) reflecting cartilage formation [ 28 ]. However, the lack of sensitivity for measuring the fragment in clinical samples hampered its application [ 28 ]. Thus, the aim of the present study was to characterize a monoclonal antibody against human PIIBNP as well as to enable an assessment of type IIB collagen synthesis in human serum by switching the assay onto a more sensitive platform. Additionally, we made a comparison of PIIANP and the new PIIBNP (hereafter called hsPRO-C2) assay.",
+    "document_source_id": "30404167",
+    "analysis_date": "2025-12-04",
+    "extracted_data": {
+      "core_effect_and_quantification": [
+        {
+          "biomarker_name": "PIIBNP",
+          "activity_context": "Human cartilage explants model in response to IGF-1",
+          "direction_of_change": "Increased",
+          "magnitude_quantification": "2 to 7-fold time-dependently, significantly increased during early and mid-phase"
+        },
+        {
+          "biomarker_name": "PIIANP",
+          "activity_context": "Human cartilage explants model in response to IGF-1",
+          "direction_of_change": "Limited/No significant change",
+          "magnitude_quantification": "Not increased significantly, elevated at day 28"
+        },
+        {
+          "biomarker_name": "C2M",
+          "activity_context": "Human cartilage explants model in response to IGF-1",
+          "direction_of_change": "No significant change",
+          "magnitude_quantification": "Not increased"
+        },
+        {
+          "biomarker_name": "PIIBNP (hsPRO-C2)",
+          "activity_context": "Serum samples from knee osteoarthritis cohort",
+          "direction_of_change": "Higher in controls (KL0/1) / Lower in OA groups (KL2/3/4)",
+          "magnitude_quantification": "Significantly different (p = 0.012), able to distinguish OA from healthy controls"
+        },
+        {
+          "biomarker_name": "PIIBNP",
+          "activity_context": "Human OA cartilage explants treated with Sprifermin",
+          "direction_of_change": "Increased",
+          "magnitude_quantification": "Significantly increased at day 70"
+        },
+        {
+          "biomarker_name": "PIIANP",
+          "activity_context": "Serum samples from knee osteoarthritis cohort",
+          "direction_of_change": "Lower in OA groups",
+          "magnitude_quantification": "Less significant difference (p = 0.049)"
+        },
+        {
+          "biomarker_name": "PIIBNP",
+          "activity_context": "Bovine articular explants stimulated with TGF-\u03b21",
+          "direction_of_change": "Increased",
+          "magnitude_quantification": "Increased"
+        },
+        {
+          "biomarker_name": "PIIBNP",
+          "activity_context": "Bovine articular explants treated with Oncostatin M and TNF-\u03b1",
+          "direction_of_change": "Decreased",
+          "magnitude_quantification": "Significantly decreased"
+        },
+        {
+          "biomarker_name": "PIICP",
+          "activity_context": "OA patients vs. healthy individuals (synovial fluid)",
+          "direction_of_change": "Increased",
+          "magnitude_quantification": "Increased"
+        },
+        {
+          "biomarker_name": "PIIBNP and PIIANP",
+          "activity_context": "Pediatric, healthy adult, OA, and RA serum samples",
+          "direction_of_change": "No association",
+          "magnitude_quantification": "No association between levels"
+        },
+        {
+          "biomarker_name": "serum PIICP",
+          "activity_context": "Hypertrophic hip OA vs atrophic hip OA",
+          "direction_of_change": "Higher",
+          "magnitude_quantification": "Higher levels"
+        }
+      ],
+      "molecular_mechanism_and_relationship": {
+        "activity_type_context": "Cartilage formation, Type II collagen synthesis, Type IIB collagen formation in human cartilage explants, chondro-anabolic treatment, pathologies involving type II collagen formation, and Type II collagen metabolism (formation and degradation)",
+        "mechanism_description": "PIIBNP, an N-terminal propeptide of type II collagen (PIINP), reflects cartilage formation and synthesis of new type II collagen, the major component of articular cartilage. It is a splice variant cleaved from the collagen triple helix during secretion and released into circulation, with its amount directly correlating to type II collagen synthesis. PIIBNP is mainly expressed during type II collagen formation in healthy adult cartilage. Chondro-anabolic molecules like IGF-1 and sprifermin stimulate type IIB collagen formation, leading to an increased net type IIB collagen content, as type II collagen degradation (C2M, an MMP-9 derived fragment) remains unaffected. PIIBNP can thus indicate cartilage formation as a response to therapy and may be related to various pathologies involving type II collagen formation. PIIANP is also a marker for type II collagen formation, with its assay specific for exon 2.",
+        "related_biomarkers": [
+          "PIIANP",
+          "PIINP",
+          "PIICP",
+          "C2M",
+          "hsPRO-C2"
+        ]
+      },
+      "dose_intensity_and_specificity": {
+        "dose_comparison_summary": "PIIBNP levels increased 2 to 7-fold time-dependently in human cartilage explants in response to IGF-1 (100 ng/mL), and also in response to sprifermin (900 ng/mL), indicating an intensity/duration effect. Serum PIIBNP was significantly higher in controls (KL0/1) compared to OA groups (KL2/3/4, p = 0.012), showing differential levels across disease stages. Patients with hypertrophic hip OA exhibited higher serum PIICP levels than those with atrophic hip OA. In competitive assays, increasing concentrations of immunogenic peptide and recombinant PIIBNP displaced the NB443-3-2-1 antibody signal.",
+        "specificity_finding": "The hsPRO-C2 immunoassay, which uses monoclonal antibody NB443-3-2-1 specific to the exon 1/3 junction encoded sequence (QDVRQPGPKG) of PIIBNP, shows completely different biological and clinical patterns from PIIANP ELISA, which detects exon 2. This distinct recognition leads to no significant correlation between PIIBNP and PIIANP levels across various serum samples (knee OA, RA, pediatric). PIIBNP is primarily associated with type II collagen formation in healthy adult cartilage, whereas PIIANP is more related to embryogenesis, fracture healing, and re-expression in osteoarthritic cartilage. However, PIIBNP may not be entirely specific to knee joints, as type II collagen is also found in other cartilaginous tissues like growth plates and intervertebral discs."
+      },
+      "clinical_implication_and_population": {
+        "target_population": "Human adults and children, healthy subjects, patients with Osteoarthritis (OA) across Kellgren-Lawrence grades 0-4 (including knee and hip OA, hypertrophic/atrophic hip OA), and patients with Rheumatoid Arthritis (RA), involving serum, synovial fluid, and cartilage samples.",
+        "health_implication": "hsPRO-C2 (PIIBNP) is a promising non-invasive biomarker for assessing cartilage formation and type II collagen synthesis. It offers diagnostic utility by distinguishing OA patients from healthy controls, with lower PIIBNP and PIIANP levels associated with knee OA and disease severity. It can provide an early indication and monitoring of drug efficacy for disease-modifying OA drugs (DMOADs) targeting anabolic pathways, addressing an unmet need in current biomarker tools. Higher baseline PIIANP concentrations are linked to a greater risk for OA progression. Serum PIICP indicates type II collagen formation, and synovial PIICP levels are increased in OA, correlating with BMI and joint space narrowing. PIIBNP may also provide insight into overall type II collagen metabolism and be related to various pathologies involving type II collagen formation, including Osteoarthritis (OA), Rheumatoid Arthritis (RA), and knee joint degeneration.",
+        "risk_classification": "Diagnostic utility (for OA and disease severity), Prognostic marker (for OA progression risk), Therapeutic efficacy monitoring (for DMOADs)."
+      },
+      "biomarker_reliability_and_future_focus": {
+        "reliability_assessment": "The hsPRO-C2 immunoassay (ECLIA) is a novel, high-sensitivity electrochemiluminescence immunoassay with acceptable technical performance. It utilizes a well-characterized antibody against human PIIBNP, offering seven-fold increased sensitivity (LLOD: 0.13 ng/mL) compared to previous ELISA methods (LLOD: 30.0 ng/mL for PIIANP ELISA) and overcomes sensitivity limitations. The system demonstrates high sensitivity, low background, minimal matrix effect, and a broad dynamic range (1.0\u201338.5 ng/mL). Reliability metrics include intra-assay CV of 5.4% and inter-assay CV of 5.5% for hsPRO-C2 (compared to 4.5% and 6.7% for PIIANP ELISA). Strong correlations (r = 0.90-0.92) were observed between serum and plasma values for hsPRO-C2, with good spiking/dilution recovery (100 \u00b1 20%) and analyte stability. However, the study acknowledges limitations: it was cross-sectional and retrospective, synovial fluid PIIBNP levels were not investigated, and PIIBNP may lack specificity to knee joints due to type II collagen expression elsewhere. The PIIANP assay is not compatible with plasma. Overall, while no single biomarker is sufficient for comprehensive OA management, hsPRO-C2 is considered a promising complementary biomarker.",
+        "recommended_alternatives": [
+          "PIIANP",
+          "PIIBNP ELISA (previous version)",
+          "PIINP",
+          "PIICP (chondrocalcin)",
+          "Magnetic Resonance Imaging (MRI)",
+          "Radiographic techniques",
+          "different types of biochemical markers for different usages in OA",
+          "existing formation marker portfolios"
+        ]
+      }
+    }
+  }
+]

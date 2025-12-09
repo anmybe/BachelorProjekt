@@ -1,0 +1,166 @@
+[
+  {
+    "title": "pmc Microbiol Spectr Microbiol Spectr spectrum Microbiology Spectrum 2165-0497 American Society for Microbiology 1752 N St., N.W., Washington, DC 10433813 37432106 01808-23 10.1128/spectrum.01808-23 spectrum.01808-23 Research Article open-peer-review Open Peer Review clinical-microbiology Clinical Microbiology Unveiling a New Perspective on Distinguishing Omicron Breakthrough Cases and Postimmune COVID-19-Naive Individuals: Insights from Antibody Profiles Zhang Shihan a b Dong Chen c Zhen Qian d Shi Chao e Tian Hua c https://orcid.org/0009-0001-8401-2396 Li Chuchu c Kong Xiaoxiao c Dai Qigang c Huang Haodi c Simayi Aidibai a b Zhu Fengcai c f g Xu Yawen h Hu Jianli c Xu Ke c Chen Liling i Bao Changjun c j https://orcid.org/0000-0003-0071-9755 Jin Hui a b jinhui_hld@163.com Zhu Liguo c f g k zhulg@jscdc.cn a Department of Epidemiology and Health Statistics, School of Public Health, Southeast University, Nanjing, China b Key Laboratory of Environmental Medicine Engineering, Ministry of Education, School of Public Health, Southeast University, Nanjing, China c Department of Acute Infectious Disease Control and Prevention, Jiangsu Provincial Center for Disease Control and Prevention, Nanjing, China d Department of Acute Infectious Disease Control and Prevention, Changzhou Center for Disease Control and Prevention, Changzhou, China e Department of Acute Infectious Disease Control and Prevention, Wuxi Center for Disease Control and Prevention, Wuxi, China f National Health Commission (NHC) Key Laboratory of Enteric Pathogenic Microbiology, Jiangsu Provincial Center for Disease Control and Prevention, Nanjing, China g Key Laboratory of Infectious Diseases, School of Public Health, Nanjing Medical University, Nanjing, China h Yangzhou Center for Disease Control and Prevention, Yangzhou, China i Suzhou Center for Disease Control and Prevention, Suzhou, China j Jiangsu Province Engineering Research Center of Health Emergency, Nanjing, China k Jiangsu Key Lab of Cancer Biomarkers, Prevention and Treatment, Jiangsu Collaborative Innovation Center for Cancer Medicine, Nanjing Medical University, Nanjing, China Editor Huang Rui Affiliated Hospital of Nanjing University Medical School Mao Naiying ad hoc peer reviewer National health commission (NHC) Key Laboratory of Medical Virology and Viral Diseases, National Institute for Viral Disease Control and Prevention, Chinese Center for Disease Control and Prevention Shihan Zhang, Chen Dong, Qian Zhen, and Chao Shi share first authorship. Author order was determined by communication. The authors declare no conflict of interest. 11 7 2023 Jul-Aug 2023 11 7 2023 11 4 e01808-23 3 5 2023 24 6 2023 Copyright \u00a9 2023 Zhang et al. 2023 Zhang et al. https://creativecommons.org/licenses/by/4.0/ This is an open-access article distributed under the terms of the Creative Commons Attribution 4.0 International license . ABSTRACT In the situation of mass vaccination against COVID-19, few studies have reported on the early kinetics of specific antibodies (IgG/IgM/IgA) of vaccine breakthrough cases. There is still a lack of epidemiological evidence about the value of serological indicators in the auxiliary diagnosis of COVID-19 infection, especially when the nucleic acid results were undetectable. Omicron breakthrough cases post-inactivated vaccination ( n = 456) and COVID-19-naive individuals with two doses of inactivated vaccination ( n = 693) were enrolled. Blood samples were collected and tested for SARS-CoV-2 antibody levels based on the magnetic chemiluminescence enzyme immunoassay. Among Omicron breakthrough cases, the serum IgG antibody level was 36.34 Sample/CutOff (S/CO) (95% confidence interval [CI], 31.89 to 40.79) in the acute phase and 88.45 S/CO (95% CI, 82.79 to 94.12) in the recovery phase. Serum IgA can be detected in the first week post-symptom onset (PSO) and showed an almost linear increase within 5 weeks PSO. Compared with those of breakthrough cases, IgG and IgA titers of the postimmune group were much lower (4.70 S/CO and 0.46 S/CO, respectively). Multivariate regression showed that serum IgG and IgA levels in Omicron breakthrough cases were mainly affected by the weeks PSO ( P < 0.001). Receiver operating characteristic ROC0 curve analysis showed that the area under the curve (AUC) was 0.744 and 0.806 when the cutoff values of IgA and IgG were 1 S/CO and 15 S/CO, respectively. Omicron breakthrough infection can lead to a further increase in IgG and IgA levels relative to those of the immunized population. When nucleic acid real-time PCR was negative, we would use the kinetics of IgG and IgA levels to distinguish the breakthrough cases from the immunized population. IMPORTANCE This study fills a gap in the epidemiological evidence by investigating the value of serological indicators, particularly IgG and IgA levels, in the auxiliary diagnosis of COVID-19 infections when nucleic acid results are undetectable. The findings reveal that among Omicron breakthrough cases, both IgG and IgA antibody levels exhibit significant changes. Serum IgG levels increase during the acute phase and rise further in the recovery phase. Serum IgA can be detected as early as the first week post-symptom onset (PSO), showing a consistent linear increase within 5 weeks PSO. Furthermore, receiver operating characteristic (ROC) curve analysis demonstrates the potential of IgG and IgA cutoff values as diagnostic markers. The study\u2019s conclusion underscores the importance of monitoring IgG and IgA kinetics in distinguishing Omicron breakthrough cases from vaccinated individuals. These findings contribute to the development of more accurate diagnostic approaches and help inform public health strategies during the ongoing COVID-19 pandemic. KEYWORDS SARS-CoV-2 specific antibodies Omicron breakthrough infection vaccinated early kinetics Social development foundation of Jiangsu Province BE2021739 Zhu Liguo Postgraduate research and practice innovation program of Jiangsu Province KYCX20_0153 Zhu Liguo Nanjing Important Science & Technology Specific Projects 2021-11005 Zhu Liguo Top Talent Support Program for young and middle-aged people of Wuxi Health Committee no.BJ2020100 Shi Chao MOST | National Natural Science Foundation of China (NSFC) https://doi.org/10.13039/501100001809 82041026 Zhu Liguo Wuxi Science and Technology Association (\u65e0\u9521\u5e02\u79d1\u5b66\u6280\u672f\u534f\u4f1a) https://doi.org/10.13039/100017837 no.Y20212042 Shi Chao cover-date July/August 2023 INTRODUCTION As of February 2023, SARS-CoV-2 had caused more than 700 million confirmed COVID-19 cases and over 6 million deaths globally, and more than 13.2 billion vaccine doses had been administered ( 1 ). The Omicron variant has been detected in several countries and regions around the world ( 2 ). SARS-CoV-2 vaccines are effective in reducing the risk of symptomatic SARS-CoV-2 infection and progression to severe COVID-19 ( 3 ). However, as antibody titers wane over time, the vaccine effectiveness decreases ( 4 , 5 ). This provides suboptimal protection against emerging variants with immune escape potential, such as Omicron, leading to breakthrough infections and reinfections ( 6 \u2013 10 ). As vaccination for SARS-CoV-2 becomes increasingly available and the number of breakthrough cases continues to increase, it will be useful to understand the kinetics of antibodies in postvaccination and breakthrough infection populations. It is also worth exploring whether there are differences between the characteristics of humoral immunity in these two representative populations and in those of previously studied naturally infected individuals. For example, Cheng et al. monitored BBIBP vaccine-induced virus-specific antibody levels (SARS-CoV-2-IgA/IgM/IgG) over multiple time points and showed that serum antibody levels decreased over time ( 11 ). Further, Ma et al. reached a similar conclusion that the levels of receptor-binding domain (RBD) antibodies and IgG peaked 1 month after the second injection, while IgM and IgA levels remained consistently low throughout the course of vaccination ( 12 ). For naturally infected individuals (those without prevaccination), previous studies have shown that antibodies caused by SARS-CoV-2 appear 3 days after the onset of symptoms or 1 week after infection ( 13 , 14 ). Our team also suggested in a previous study that, at a median follow-up of up to 15.6 months in a naturally infected population, 80.19% of patients were IgG positive and 20.44% were IgM positive ( 15 ). Through an extensive literature search, Koutsakos et al. indicated that immune recall following breakthrough infection varies in timing and magnitude. In addition, Omicron breakthrough infection elicits less extensive immune recall than Delta ( 16 ). Yadav et al. assessed the sera of naive, recovered, and breakthrough patients vaccinated with Covaxin for their neutralizing ability against the Omicron variant ( 17 ). Important aspects of humoral immunity, such as the kinetics of IgG, IgM, and IgA over time after vaccination or post-symptom onset/infection (PSO), were neglected. There is still a lack of epidemiological evidence regarding the value of serological indicators in the auxiliary diagnosis of COVID-19, especially when nucleic acid results are undetectable. Therefore, a case-control study was conducted using Omicron breakthrough cases with inactivated vaccine and COVID-19-naive individuals with two doses of inactivated vaccine as the control group in Jiangsu Province, China. Our aim was first to capture the precise kinetics of specific antibodies in Omicron breakthrough cases in the acute and recovery phases and to compare them with those of the postimmune population. Second, we explored whether the quantitative levels of IgG/IgM/IgA played a role in distinguishing between these antibodies induced by vaccine-only or vaccine-infection dual function. Third, we attempted to determine the exposure time of infected individuals during a large epidemic of the Omicron variant.",
+    "document_source_id": "37432106",
+    "analysis_date": "2025-12-04",
+    "extracted_data": {
+      "core_effect_and_quantification": [
+        {
+          "biomarker_name": "IgG antibody levels and positivity rates",
+          "activity_context": "Omicron breakthrough cases (acute phase)",
+          "direction_of_change": "Increased significantly",
+          "magnitude_quantification": "Level: 36.34 S/CO (95% CI, 31.89-40.79, P<0.001 vs other groups); Positivity rate: 83.77% (P<0.001 vs other groups). Detection observed from day 13 post-symptom onset."
+        },
+        {
+          "biomarker_name": "IgG antibody levels and positivity rates",
+          "activity_context": "Omicron breakthrough cases (recovery phase)",
+          "direction_of_change": "Further increased significantly",
+          "magnitude_quantification": "Level: 88.45 S/CO (95% CI, 82.79-94.12, P<0.001 vs other groups); Positivity rate: 97.97% (P<0.001 vs other groups)."
+        },
+        {
+          "biomarker_name": "IgG antibody kinetics",
+          "activity_context": "Omicron breakthrough cases (up to 4 weeks Post Symptom Onset, PSO)",
+          "direction_of_change": "Sharply rose and peaked",
+          "magnitude_quantification": "Rose to 80.45 S/CO by 2nd week PSO, peaked at 103.84 S/CO by 4th week PSO; positivity rate >95% from 2nd week."
+        },
+        {
+          "biomarker_name": "IgG antibody levels and positivity rates",
+          "activity_context": "Postimmune group (2 doses inactivated vaccine)",
+          "direction_of_change": "Significantly lower",
+          "magnitude_quantification": "Level: 4.70 S/CO (95% CI, 4.18-5.21, P<0.001 vs other groups); Positivity rate: 76.19% (P<0.001 vs other groups)."
+        },
+        {
+          "biomarker_name": "IgG antibody kinetics",
+          "activity_context": "Postimmune population (after last vaccine dose)",
+          "direction_of_change": "Overall decreasing trend",
+          "magnitude_quantification": "Sharp drop from 13.81 to 3.63 S/CO (first 2 months), reaching 1.07 S/CO (8th month); positivity rate from ~80% to 45.45% (8 months)."
+        },
+        {
+          "biomarker_name": "IgG antibody half-life",
+          "activity_context": "General persistence",
+          "direction_of_change": "Decay",
+          "magnitude_quantification": "Estimated half-life of 100 to 230 days."
+        },
+        {
+          "biomarker_name": "IgA antibody levels and positivity rates",
+          "activity_context": "Omicron breakthrough cases (acute phase)",
+          "direction_of_change": "Increased significantly",
+          "magnitude_quantification": "Level: 3.13 S/CO (95% CI, 2.08-4.17, P<0.001 vs other groups); Positivity rate: 39.61% (P<0.001 vs other groups), with 34.10% in the first week PSO."
+        },
+        {
+          "biomarker_name": "IgA antibody levels and positivity rates",
+          "activity_context": "Omicron breakthrough cases (recovery phase)",
+          "direction_of_change": "Further increased significantly",
+          "magnitude_quantification": "Level: 10.11 S/CO (95% CI, 7.71-12.50, P<0.001 vs other groups); Positivity rate: 88.51% (P<0.001 vs other groups)."
+        },
+        {
+          "biomarker_name": "IgA antibody kinetics",
+          "activity_context": "Omicron breakthrough cases (up to 5 weeks PSO)",
+          "direction_of_change": "Linear increase",
+          "magnitude_quantification": "Detected from 1st week PSO, showed an almost linear increase within 5 weeks PSO (P<0.001 as weeks increased)."
+        },
+        {
+          "biomarker_name": "IgA antibody levels and positivity rates",
+          "activity_context": "Postimmune group (2 doses inactivated vaccine)",
+          "direction_of_change": "Significantly lower",
+          "magnitude_quantification": "Level: 0.46 S/CO (95% CI, 0.29-0.64, P<0.001 vs other groups); Positivity rate: 6.64% (P<0.001 vs other groups)."
+        },
+        {
+          "biomarker_name": "IgA antibody kinetics",
+          "activity_context": "Postimmune population",
+          "direction_of_change": "Fluctuated at low levels",
+          "magnitude_quantification": "Fluctuated at low levels (<1 S/CO); positivity rates fluctuated by 20%."
+        },
+        {
+          "biomarker_name": "IgA antibody half-life",
+          "activity_context": "General persistence",
+          "direction_of_change": "Decay",
+          "magnitude_quantification": "Estimated half-life of 42 days (IgA1) or 210 days (average IgA over 8 months)."
+        },
+        {
+          "biomarker_name": "IgM antibody levels and positivity rates",
+          "activity_context": "Omicron breakthrough cases (acute phase)",
+          "direction_of_change": "No significant difference in level vs postimmune; increased positivity rate",
+          "magnitude_quantification": "Level: 0.61 S/CO (95% CI, 0.44-0.78, P>0.05 vs postimmune); Positivity rate: 13.31% (P<0.001 vs other groups)."
+        },
+        {
+          "biomarker_name": "IgM antibody levels and positivity rates",
+          "activity_context": "Omicron breakthrough cases (recovery phase)",
+          "direction_of_change": "Increased",
+          "magnitude_quantification": "Level: 1.27 S/CO (95% CI, 0.97-1.57); Positivity rate: 33.78% (P<0.001 vs other groups)."
+        },
+        {
+          "biomarker_name": "IgM antibody kinetics",
+          "activity_context": "Omicron breakthrough cases",
+          "direction_of_change": "Low and undetectable early, then rises",
+          "magnitude_quantification": "Generally low and undetectable; rises to near peak state in the second week after onset."
+        },
+        {
+          "biomarker_name": "IgM antibody levels and positivity rates",
+          "activity_context": "Postimmune group (2 doses inactivated vaccine)",
+          "direction_of_change": "No significant difference in level vs acute breakthrough; decreased positivity rate",
+          "magnitude_quantification": "Level: 0.50 S/CO (95% CI, 0.29-0.71, P>0.05 vs acute breakthrough); Positivity rate: 8.23% (P<0.001 vs other groups)."
+        },
+        {
+          "biomarker_name": "IgM antibody kinetics",
+          "activity_context": "Postimmune population",
+          "direction_of_change": "Fluctuated at low levels",
+          "magnitude_quantification": "Fluctuated at low levels (<1 S/CO); positivity rates fluctuated by 20%."
+        },
+        {
+          "biomarker_name": "IgM antibody half-life",
+          "activity_context": "General persistence",
+          "direction_of_change": "Rises (half-life)",
+          "magnitude_quantification": "Estimated half-life of 55 days."
+        },
+        {
+          "biomarker_name": "IgG recovery/IgG acute ratio",
+          "activity_context": "Omicron breakthrough cases (comparison between acute and recovery phases)",
+          "direction_of_change": "Increased (for some patients), decreased (overall correlation)",
+          "magnitude_quantification": "50% of patients met criteria for >4-fold increase (P < 0.05); ratio decreased as acute phase IgG increased (Spearman\u2019s r = \u22120.8917, P < 0.0001)."
+        },
+        {
+          "biomarker_name": "IgG antibody levels",
+          "activity_context": "Whole population (effect of booster dose)",
+          "direction_of_change": "Increased",
+          "magnitude_quantification": "Increased by 'booster dose' group (P < 0.05)."
+        },
+        {
+          "biomarker_name": "IgA and IgG antibody levels",
+          "activity_context": "Diagnostic markers for distinguishing breakthrough cases from immunized population",
+          "direction_of_change": "Diagnostic utility",
+          "magnitude_quantification": "IgA AUC 0.744 (cutoff 1 S/CO); IgG AUC 0.806 (cutoff 15 S/CO)."
+        }
+      ],
+      "molecular_mechanism_and_relationship": {
+        "activity_type_context": "Humoral immune response to SARS-CoV-2 infection, Omicron breakthrough infection post-inactivated vaccination, and general immune control mechanisms.",
+        "mechanism_description": "The body produces specific antibodies (IgG, IgM, IgA) in response to SARS-CoV-2 infection or vaccination. These antibodies bind to viral proteins (like spike protein or nucleoprotein), contributing to immune control through increased clearance of free viruses or by targeting infected cells for immune clearance. Omicron breakthrough infections act as secondary immunizations, activating an immune recall response from previous vaccinations, which leads to a rapid and further increase in IgG and IgA levels relative to the immunized population. This response is primarily temporal, with serum IgG and IgA kinetics in breakthrough cases largely affected by weeks post-symptom onset, showing an upward trend and peaking around 4 weeks. In contrast, vaccine-induced IgG levels in the postimmune population generally decline over time, while IgM levels often remain low and show less significant change.",
+        "related_biomarkers": [
+          "IgG",
+          "IgA",
+          "IgM",
+          "SARS-CoV-2 antibody levels",
+          "SARS-CoV-2 viral proteins",
+          "spike protein",
+          "nucleoprotein"
+        ]
+      },
+      "dose_intensity_and_specificity": {
+        "dose_comparison_summary": "Antibody levels (IgG, IgM, IgA) and positivity rates showed distinct differences across immune statuses. IgG and IgA levels were significantly higher in the recovery phase of Omicron breakthrough cases (e.g., IgG: 36.34 S/CO acute to 88.45 S/CO recovery) compared to the acute phase, and markedly higher than in the postimmune population (e.g., IgG: 4.70 S/CO). Breakthrough infection consistently led to a higher immune response than vaccination alone. Notably, the IgG positivity rate in breakthrough cases exceeded 95% from the second week, while IgA positivity was lower (34.10%) in the first week compared to general infected groups. A booster dose was also noted to effectively increase IgG levels in the population. The proportion of patients exhibiting a four-fold or higher increase in the IgG recovery/acute ratio decreased as initial acute phase IgG levels increased.",
+        "specificity_finding": "IgG and IgA antibody levels exhibited statistically significant differences between Omicron breakthrough cases (acute and recovery phases) and COVID-19-naive individuals with two doses of inactivated vaccination, allowing for reliable distinction between these groups, especially when nucleic acid PCR results are negative. IgG (cutoff 15 S/CO, AUC 0.806, specificity 93.22%) and IgA (cutoff 1 S/CO, AUC 0.744, specificity 93.36%) demonstrated high specificity in diagnostic utility. However, IgM antibody levels did not show significant differences between the acute phase of breakthrough cases and the postimmune population (P > 0.05), limiting its diagnostic specificity for early infection. Antibody levels were specifically measured against the ancestral Hu-1 SARS-CoV-2 S protein."
+      },
+      "clinical_implication_and_population": {
+        "target_population": "The study primarily targeted adults (18-65 years, average age around 45) with Omicron BA.2 breakthrough infections (in both acute and recovery phases, post-inactivated vaccination) and COVID-19-naive individuals who had received two doses of inactivated vaccination. Findings are applicable to vaccinated populations during ongoing COVID-19 epidemics.",
+        "health_implication": "The research provides crucial epidemiological evidence and insights into the kinetics of humoral immunity following Omicron breakthrough infection and inactivated vaccination. This understanding is central to the long-term control of COVID-19. It validates the diagnostic utility of serological indicators, particularly IgG and IgA levels, for auxiliary diagnosis of COVID-19 infection and for distinguishing breakthrough cases from vaccinated, postimmune populations, especially when nucleic acid PCR results are undetectable. A 4-fold or higher increase in IgG antibody titers in vaccinated individuals can serve as an indicator of SARS-CoV-2 exposure or infection. Furthermore, residual SARS-CoV-2-specific non-neutralizing antibodies are suggested to confer protective benefits during reinfection, supporting the development of more accurate diagnostic approaches and informing public health strategies.",
+        "risk_classification": "Diagnostic utility (for identifying infection status and distinguishing breakthrough cases from immunized populations using IgG/IgA levels) and protective benefit (vaccination and breakthrough infection lead to higher immune responses, with non-neutralizing antibodies potentially conferring protective benefits during reinfection)."
+      },
+      "biomarker_reliability_and_future_focus": {
+        "reliability_assessment": "ROC curve analysis demonstrated moderate to good diagnostic reliability for IgA (AUC 0.744, 55.48% sensitivity, 93.36% specificity at 1 S/CO cutoff) and IgG (AUC 0.806, 67.98% sensitivity, 93.22% specificity at 15 S/CO cutoff) in distinguishing Omicron breakthrough cases from immunized individuals. The high specificities indicate accuracy in excluding uninfected individuals when antibody levels are below thresholds, although sensitivities for confirming infection when levels are above thresholds were relatively lower. This study robustly fills a gap in epidemiological evidence for the diagnostic value of these serological indicators. The kinetic reliability is supported by observed patterns: spike-specific IgG antibodies have an estimated half-life of 100-230 days, and antibody levels show rapid increases in breakthrough cases within the first 2 weeks, stabilizing thereafter, whereas in the postimmune population, they rapidly decrease in the first 2 months before plateauing, enabling extrapolation of infection history.",
+        "recommended_alternatives": [
+          "Developing a more accurate fold measure as a criterion for IgG increase in the inactivated vaccine population, requiring more samples and in-depth research.",
+          "Long-term follow-up of Omicron breakthrough cases to understand the long-term kinetics of specific antibodies."
+        ]
+      }
+    }
+  }
+]

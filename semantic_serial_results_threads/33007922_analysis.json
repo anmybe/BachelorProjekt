@@ -1,0 +1,154 @@
+[
+  {
+    "title": "Biomolecules Biomolecules biomolecules Biomolecules 2218-273X MDPI 7600119 33007922 10.3390/biom10101393 biomolecules-10-01393 Article Identification of Plasma Glycosphingolipids as Potential Biomarkers for Prostate Cancer (PCa) Status https://orcid.org/0000-0002-1515-4171 Snider Ashley J. 1 2 \u2020 Seeds Michael C. 3 4 \u2020 Johnstone Laurel 1 Snider Justin M. 1 2 Hallmark Brian 1 Dutta Rahul 5 Moraga Franco Cristina 1 Parks John S. 4 Bensen Jeannette T. 6 Broeckling Corey D. 7 https://orcid.org/0000-0002-7726-3795 Mohler James L. 8 Smith Gary J. 8 Fontham Elizabeth T.H. 9 Lin Hui-Kuan 10 https://orcid.org/0000-0003-3360-0355 Bresette William 1 Sergeant Susan 11 Chilton Floyd H. 1 12 * 1 Department of Nutritional Sciences, College of Agriculture and Life Sciences, University of Arizona, Tucson, AZ 85721, USA; ashleysnider@arizona.edu (A.J.S.); laureljo@arizona.edu (L.J.); justinsnider@arizona.edu (J.M.S.); bhallmark@statlab.bio5.org (B.H.); cristinam@email.arizona.edu (C.M.F.); bresette@email.arizona.edu (W.B.) 2 Stony Brook Cancer Center, Stony Brook University, Stony Brook, NY 11794, USA 3 Wake Forest Institute of Regenerative Medicine, Wake Forest School of Medicine, Winston-Salem, NC 27101, USA; mseeds@wakehealth.edu 4 Department of Internal Medicine-Molecular Medicine, Wake Forest School of Medicine, Winston-Salem, NC 27157, USA; jparks@wakehealth.edu 5 Department of Urology, Wake Forest Baptist Health, Winston-Salem, NC 27103, USA; rdutta@wakehealth.edu 6 North Carolina and Louisiana Prostate Cancer Program, Lineberger Comprehensive Cancer Center, University of North Carolina, Chapel Hill, NC 27599, USA; jeannette_bensen@med.unc.edu 7 Proteomics and Metabolomics Facility, Colorado State University, Fort Collins, CO 80523, USA; Corey.Broeckling@ColoState.EDU 8 Department of Urology, Roswell Park Comprehensive Cancer Center, Buffalo, NY 14263, USA; James.Mohler@roswellpark.org (J.L.M.); Gary.Smith@roswellpark.org (G.J.S.) 9 School of Public Health, Louisiana State University Health Sciences Center, New Orleans, LA 70112, USA; EFonth@lsuhsc.edu 10 Cancer Biology Comprehensive Cancer Center, Wake Forest Baptist Medical Center, Winston-Salem, NC 27101, USA; hulin@wakehealth.edu 11 Department of Biochemistry, Wake Forest School of Medicine, Winston-Salem, NC 27157, USA; ssergean@wakehealth.edu 12 Department of Cancer Biology, Wake Forest School of Medicine, Winston-Salem, NC 27101, USA * Correspondence: fchilton@arizona.edu ; Tel.: +1-520-621-5327 \u2020 These co-first authors contributed equally to this publication. 30 9 2020 10 2020 10 10 1393 10 9 2020 27 9 2020 \u00a9 2020 by the authors. 2020 Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license ( http://creativecommons.org/licenses/by/4.0/ ). Prostate cancer (PCa) is the most common male cancer and the second leading cause of cancer death in United States men. Controversy continues over the effectiveness of prostate-specific antigen (PSA) for distinguishing aggressive from indolent PCa. There is a critical need for more specific and sensitive biomarkers to detect and distinguish low- versus high-risk PCa cases. Discovery metabolomics were performed utilizing ultra-performance liquid chromatography-tandem mass spectrometry (UPLC-MS) on plasma samples from 159 men with treatment na\u00efve prostate cancer participating in the North Carolina-Louisiana PCa Project to determine if there were metabolites associated with aggressive PCa. Thirty-five identifiable plasma small molecules were associated with PCa aggressiveness, 15 of which were sphingolipids; nine common molecules were present in both African-American and European-American men. The molecules most associated with PCa aggressiveness were glycosphingolipids; levels of trihexosylceramide and tetrahexosylceramide were most closely associated with high-aggressive PCa. The Cancer Genome Atlas was queried to determine gene alterations within glycosphingolipid metabolism that are associated with PCa and other cancers. Genes that encode enzymes associated with the metabolism of glycosphingolipids were altered in 12% of PCa and >30% of lung, uterine, and ovarian cancers. These data suggest that the identified plasma (glyco)sphingolipids should be further validated for their association with aggressive PCa, suggesting that specific sphingolipids may be included in a diagnostic signature for PCa. sphingolipid ceramide biomarker lipidomic metabolomic 1. Introduction Prostate cancer (PCa) is the most diagnosed cancer in men, accounting for over 350,000 deaths worldwide in 2018 [ 1 , 2 , 3 ]. Prostate cancer is still subject to substantial overdiagnosis and therefore screening tests are needed that more accurately identify men with aggressive cancer [ 4 ]. Prostate-specific antigen (PSA) became the standard test for PCa early detection in the 1990s. However, recent studies comparing PSA screened men to those without screening revealed relatively small differences in PCa mortality [ 5 , 6 , 7 ]. The Gleason grading system is a tool for determining PCa aggressiveness [ 8 ], and is composed of a primary grade (histological features of the largest tumor area) and a secondary grade (the next largest area) and has a five-tiered Grade Group system that includes 1: Gleason \u2264 6; 2: Gleason 7 (3 + 4); 3: Gleason 7 (4 + 3); 4: Gleason 8; 5: Gleason 9 or 10. PCa that is Grade Group 1 are considered low-risk, indolent tumors while Grade Groups 4 and 5 predict poor prognosis and overall survival. Gleason Score 7 tumors have highly variable clinical outcomes, with Grade Group 3 associated with a three-fold increase in mortality compared to Grade Group 2 [ 8 , 9 , 10 ]. An estimated 80\u201385% of men between 70 and 80 years of age with PCa have Gleason Scores 7\u201310 [ 11 ]. The uncertainty of PSA as an early detection tool and the wide variability in outcomes for certain Grade Groups warrants the search for better biomarkers to determine PCa aggressiveness. Discovery metabolomics and other unbiased approaches to molecular analysis are beginning to fill critical roles in defining precipitating events in cancer development, identifying molecular indicators of the cancer trajectory, and predicting targeted treatment strategies that prolong lifespan and improve overall quality of life. Two recent reviews examined the potential role of metabolites and molecular signatures in blood, urine, (tumor) tissues, or extracellular vesicles in PCa [ 12 , 13 ]. Studies of circulating plasma lipids in PCa have focused on unsaturated fatty acids, cholesterol, phospholipids, and lyso-phospholipids [ 12 , 14 , 15 , 16 ]. However, discovery metabolomics is a young field with significant technical, methodological, and analytical hurdles [ 13 ]. There is a clear need for more definitive studies that focus on metabolic networks (pathways) underpinning PCa occurrence and aggressiveness. Recent studies have suggested altered sphingolipid levels, specifically glycosphingolipids and their metabolic enzymes, may play critical roles in initiation and malignant transformation of numerous cancers [ 17 ]. Sphingolipids were understood to have a primarily structural role in cellular membranes, with critical roles in cancer signaling and biology now being recognized for individual sphingolipids, including glycosphingolipids [ 18 , 19 ] ( Figure 1 ). Herein our data identify specific glycosphingolipid species to be highly associated with aggressive PCa, suggesting that further analysis of sphingolipids may help identify a novel diagnostic for PCa and play a role in determining PCa aggressiveness in African- and European-American men.",
+    "document_source_id": "33007922",
+    "analysis_date": "2025-12-04",
+    "extracted_data": {
+      "core_effect_and_quantification": [
+        {
+          "biomarker_name": "Trihexosylceramide (including d18:1/16:0)",
+          "activity_context": "Prostate Cancer (PCa) aggressiveness (high-aggressive, low vs. intermediate/high, Grade Group 1 vs. Grade Groups 2\u20135)",
+          "direction_of_change": "Increased / Different relative abundance",
+          "magnitude_quantification": "Most closely associated with high-aggressive PCa. Relative abundance differs significantly. AUC 0.808 (0.718\u20130.901, 95% CI) for low vs. intermediate-high classifier. Part of top three, four, and five sphingolipid signatures."
+        },
+        {
+          "biomarker_name": "Tetrahexosylceramide (including d18:1/16:0)",
+          "activity_context": "Prostate Cancer (PCa) aggressiveness (high-aggressive, low vs. intermediate/high, Grade Group 1 vs. Grade Groups 2\u20135)",
+          "direction_of_change": "Increased / Different relative abundance",
+          "magnitude_quantification": "Most closely associated with high-aggressive PCa. Relative abundance differs significantly. AUC 0.815 (0.716\u20130.896, 95% CI) for low vs. intermediate-high classifier. Part of top three, four, and five sphingolipid signatures."
+        },
+        {
+          "biomarker_name": "Sphingolipids (general and specific species)",
+          "activity_context": "PCa aggressiveness (general, low vs. intermediate/high classifier), including racial/ethnic specific patterns",
+          "direction_of_change": "Associated / Most associated / Elevated / Different relative abundance",
+          "magnitude_quantification": "35 plasma small molecules were significantly associated with PCa aggressiveness, with 15 sphingolipids being most associated (top five by significance). Sphingolipids showed different relative abundance for PCa aggressiveness (low vs. intermediate/high), yielding an AUC of 0.842 (0.728\u20130.937, 95% CI) for low vs. intermediate-high classifier. A five-sphingolipid signature achieved an AUC of 0.88 (0.803\u20130.954, 95% CI)."
+        },
+        {
+          "biomarker_name": "Glucosylceramide",
+          "activity_context": "PCa aggressiveness (low vs. intermediate/high)",
+          "direction_of_change": "Different relative abundance",
+          "magnitude_quantification": "Relative abundance different."
+        },
+        {
+          "biomarker_name": "Lactosylceramide",
+          "activity_context": "PCa aggressiveness (low vs. intermediate/high)",
+          "direction_of_change": "Different relative abundance",
+          "magnitude_quantification": "Relative abundance different."
+        },
+        {
+          "biomarker_name": "Ceramides (general and specific d18:1/24:1, d18:1/22:0, d18:1/16:0, d18:1/20:0)",
+          "activity_context": "Intermediate/high aggressive PCa; intermediate vs. high aggressive PCa; urine extracellular vesicles from stage 3 PCa vs. stage 2 PCa",
+          "direction_of_change": "Elevated / Significant difference / Decreased",
+          "magnitude_quantification": "Elevated in intermediate/high aggressive PCa. Ceramide (d18:1/24:1) shows significant difference between intermediate and high aggressive PCa. Ceramide (d18:1/22:0) has AUC 0.801 (0.722\u20130.859, 95% CI) for low vs. intermediate-high classifier. Decreased levels of d18:1/16:0, d18:1/20:0, and d18:1/22:0 in urine EVs from stage 3 PCa vs stage 2 PCa."
+        },
+        {
+          "biomarker_name": "Sphingomyelins (general and specific d18:0/24:1, stearoyl, euricoyl, myristoyl)",
+          "activity_context": "Intermediate/high aggressive PCa; PCa aggressiveness (low vs. intermediate-high classifier); T3 PCa patients",
+          "direction_of_change": "Elevated / Increased",
+          "magnitude_quantification": "Elevated in intermediate/high aggressive PCa. Sphingomyelin (d18:0/24:1) has AUC 0.785 (0.694\u20130.867, 95% CI) for low vs. intermediate-high classifier. Increases in stearoyl-, euricoyl-, and myristoyl-sphingomyelin observed in T3 PCa patients."
+        },
+        {
+          "biomarker_name": "TAGs",
+          "activity_context": "Intermediate/high aggressive PCa",
+          "direction_of_change": "Elevated",
+          "magnitude_quantification": "Elevated."
+        },
+        {
+          "biomarker_name": "PSA",
+          "activity_context": "Aggressive PCa cancer; distinguishing low vs. intermediate/high aggressiveness PCa",
+          "direction_of_change": "Predictive",
+          "magnitude_quantification": "AUC 0.742 (0.649\u20130.823, 95% CI) for distinguishing low vs. intermediate/high aggressiveness PCa."
+        },
+        {
+          "biomarker_name": "B3GALNT1 (gene)",
+          "activity_context": "PCa tissue / glycosphingolipid biosynthesis",
+          "direction_of_change": "Increase",
+          "magnitude_quantification": "Striking increase in amplification frequency."
+        },
+        {
+          "biomarker_name": "HEXB (gene)",
+          "activity_context": "PCa tissue / glycosphingolipid metabolism",
+          "direction_of_change": "Decrease",
+          "magnitude_quantification": "Deep deletion profile."
+        },
+        {
+          "biomarker_name": "B4GALT5 (gene)",
+          "activity_context": "Castration-resistant PCa metastatic biopsies",
+          "direction_of_change": "Increase",
+          "magnitude_quantification": "Increased in \u224830% of biopsies."
+        },
+        {
+          "biomarker_name": "Sphingosine",
+          "activity_context": "Urine from PCa patients vs. healthy volunteers; tissues from PCa patients vs. benign prostatic hyperplasia",
+          "direction_of_change": "Increased / Elevated",
+          "magnitude_quantification": "Increased levels in urine and elevated levels in tissues."
+        },
+        {
+          "biomarker_name": "Metabolites (general, common in AfAm and EuAm)",
+          "activity_context": "AfAm and EuAm men with PCa (Grade Group 1 vs. Grade Groups 2\u20135)",
+          "direction_of_change": "Significantly increased",
+          "magnitude_quantification": "Nine common metabolites, including glycosphingolipid synthesis metabolites, commonly significantly increased in both groups."
+        },
+        {
+          "biomarker_name": "Metabolites (AfAm-specific)",
+          "activity_context": "AfAm men with PCa severity",
+          "direction_of_change": "Associated",
+          "magnitude_quantification": "Twenty-four additional metabolites, including sphingolipid, phospholipid, and cholesterol metabolism species, associated only in AfAm men."
+        },
+        {
+          "biomarker_name": "Metabolites (EuAm-specific)",
+          "activity_context": "EuAm men with PCa (Grade Group 1 vs. Grade Groups 2\u20135)",
+          "direction_of_change": "Significantly increased",
+          "magnitude_quantification": "Eleven metabolites significantly increased, including one phospholipid (saturated fatty acids at sn-1 and sn-2) and Mulberrofuran E."
+        }
+      ],
+      "molecular_mechanism_and_relationship": {
+        "activity_type_context": "Prostate Cancer (PCa) aggressiveness, initiation, malignant transformation, and progression to castration-resistance, involving altered glycosphingolipid metabolism.",
+        "mechanism_description": "Altered levels of sphingolipids, specifically glycosphingolipids and their metabolic enzymes, play critical roles in the initiation and malignant transformation of cancers. Genes encoding enzymes associated with glycosphingolipid metabolism are altered in PCa (~12% of cases) and in over 30% of lung, uterine, and ovarian cancers. Specific alterations include a striking increase in B3GALNT1 amplification (biosynthesis of tetrahexosylceramides) and a deep deletion profile for HEXB (enzyme removing sugar moieties from tetrahexosylceramides). Amplifications in B4GALT5 (catalyzes lactosylceramide synthesis) are also observed in castration-resistant PCa. Glycosphingolipid biosynthesis contributes to multidrug resistance via upregulation of MDR proteins involving glucosylceramide synthase (GCS), cSrc, and beta-catenin. Sphingolipids are crucial for cancer signaling and biology, and their increased levels are observed in exosomes from androgen-resistant prostate cancer cell lines and plasma from castration-resistant PCa patients. Genetic and epigenetic alterations in lipid metabolizing genes have been documented in PCa.",
+        "related_biomarkers": [
+          "sphingolipids",
+          "small molecules",
+          "ceramides",
+          "phospholipids",
+          "triglycerides",
+          "unesterified fatty acids",
+          "cholesterol/lathosterol",
+          "sphingomyelins",
+          "glycosphingolipids",
+          "tetrahexosylceramide (d18:1/16:0)",
+          "trihexosylceramide (d18:1/16:0)",
+          "glucosylceramide",
+          "lactosylceramide",
+          "TAGs",
+          "B3GALNT1",
+          "HEXB",
+          "B4GALT5",
+          "globosides",
+          "sphingosine",
+          "stearoyl-sphingomyelin",
+          "euricoyl-sphingomyelin",
+          "myristoyl-sphingomyelin",
+          "glycosphingolipid metabolizing genes"
+        ]
+      },
+      "dose_intensity_and_specificity": {
+        "dose_comparison_summary": "Levels of trihexosylceramide and tetrahexosylceramide are most closely associated with high-aggressive PCa, aiding in distinguishing low- from high-risk PCa cases. Gleason Grade Group 3 shows a three-fold increase in mortality compared to Grade Group 2. Analysis compared circulating small molecules and metabolites with tumor aggressiveness, specifically between Grade Group 1 (low aggressiveness) versus Grade Groups 2\u20135 (moderate to high aggressiveness). Glycosphingolipids exhibit different relative abundance in low versus intermediate or high aggressive PCa. Ceramides, sphingomyelins, and TAGs were elevated in intermediate/high aggressive PCa patients. Only ceramide (d18:1/24:1) showed a significant difference between intermediate and high aggressive PCa. Ceramides (d18:1/16:0, d18:1/20:0, d18:1/22:0) show decreased levels in urine extracellular vesicles from stage 3 PCa patients versus stage 2 disease. Sphingosine levels are increased in PCa patients' urine compared to healthy volunteers and elevated in PCa tissue versus benign prostatic hyperplasia. Increases in stearoyl-, euricoyl-, and myristoyl-sphingomyelin are observed in T3 PCa patients. Biomarker comparisons were evaluated against PCa aggressiveness defined by Grade Group, clinical stage, and PSA at diagnosis.",
+        "specificity_finding": "The identified plasma glycosphingolipids (trihexosylceramide and tetrahexosylceramide) are specifically associated with PCa aggressiveness, suggesting their potential to distinguish aggressive from indolent PCa. Racial/ethnic-specific metabolites associated with PCa status were found, with 33 significant metabolites in AfAm-men versus 11 in EuAm-men, including 9 common metabolites (glycosphingolipid synthesis species) in both groups. Twenty-four additional metabolites, encompassing sphingolipid, phospholipid, and cholesterol metabolism species, were uniquely associated with PCa severity in AfAm men. One phospholipid and Mulberrofuran E were exclusive to EuAm-men. Sphingolipids are proposed as a potential marker for PCa aggressiveness across racial/ethnic populations."
+      },
+      "clinical_implication_and_population": {
+        "target_population": "Men with treatment na\u00efve clinically localized prostate cancer (PCa), including African-American and European-American men, and men with metastatic castration-resistant PCa. Also, comparisons against men with benign prostatic hyperplasia and healthy volunteers. The study focuses on men with varying degrees of PCa aggressiveness (low vs. intermediate-high), with specific patterns observed in AfAm-men.",
+        "health_implication": "The identified glycosphingolipids, especially specific molecular species and combinations, may serve as novel diagnostic and prognostic biomarkers for PCa aggressiveness. They have the potential to improve PCa detection, discriminate aggressiveness, and help in the clinical management of PCa across its spectrum, from early detection to advanced castration-resistant forms. This could reduce overdiagnosis and overtreatment of indolent PCa and enhance the capacity to predict overall survival times.",
+        "risk_classification": "Diagnostic utility for risk stratification of PCa, specifically distinguishing low-risk from high-risk/aggressive PCa (Grade Group 1 vs. Grade Groups 2\u20135 and low vs. intermediate/high aggressiveness). Prognostic utility for PCa status, predicting overall survival, identifying aggressive PCa, delineating more severe forms of PCa, and correlating with castration-resistant PCa. Glycosphingolipids correlate with adverse risks such as castration-resistant and aggressive PCa, with ceramide levels decreasing in stage 3 PCa versus stage 2."
+      },
+      "biomarker_reliability_and_future_focus": {
+        "reliability_assessment": "The identified plasma (glyco)sphingolipids require further validation for their association with aggressive PCa. The prostate-specific antigen (PSA) test, while a standard, is controversial in effectiveness, uncertain as an early detection tool, and shows wide variability in outcomes for certain Grade Groups. In contrast, sphingolipids generally scored higher AUCs than PSA for distinguishing PCa aggressiveness, with the top five most significant sphingolipids yielding an AUC of 0.882 compared to PSA's 0.742 for the same sample set, suggesting improved accuracy. Initial untargeted metabolomics, while providing 'compositional data', was partially compensated by using internal standards (e.g., 18:1(d9) sphingomyelin) for semiquantitative measurements. Limitations include a paucity of men in aggressive categories (only 37 of 159 in the high aggressive group), potentially reducing the capacity to differentiate between intermediate and aggressive PCa phenotypes. The data were not corrected for comorbidities, dietary patterns, medications, or overall survival.",
+        "recommended_alternatives": [
+          "trihexosylceramide",
+          "tetrahexosylceramide",
+          "Combinations of sphingolipids (e.g., top three, top four, or top five sphingolipids)",
+          "Semiquantitative measurements using deuterated lipid internal standards (e.g., deuterated sphingomyelin)"
+        ]
+      }
+    }
+  }
+]

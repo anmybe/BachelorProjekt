@@ -1,0 +1,215 @@
+[
+  {
+    "title": "pmc Nutrients Nutrients nutrients Nutrients 2072-6643 MDPI 12114129 10.3390/nu17101694 nutrients-17-01694 Article Impact of Combined Macronutrient Diet on Amino Acids and Amines Plasma Levels https://orcid.org/0009-0001-8662-1435 Chicharro Celia Methodology Formal analysis 1 2 * Romero-Marco Patricia 3 4 5 6 Gonz\u00e1lez Luz M. Formal analysis 7 Gonz\u00e1lez-Rodr\u00edguez Laura 7 8 https://orcid.org/0000-0001-8373-2044 Mateo-Vivaracho Laura 1 5 6 Guillam\u00f3n Eva Supervision 6 9 Miguel-Tobal Francisco 10 Bandr\u00e9s Fernando Supervision 2 5 11 https://orcid.org/0000-0002-0524-9767 Gervasini Guillermo Formal analysis Supervision 5 8 12 https://orcid.org/0000-0002-5324-1014 Fern\u00e1ndez-Araque Ana 3 4 5 6 https://orcid.org/0000-0002-9260-7672 Verde Zoraida Investigation Visualization Supervision 1 2 4 5 6 Lemon Peter WR Academic Editor 1 Department of Biochemistry and Molecular Biology, Faculty of Health Sciences, University of Valladolid, Campus of Soria, 42004 Soria, Spain; lauramaria.mateo@uva.es (L.M.-V.); zoraida.verde@uva.es (Z.V.) 2 Members of the Research Group of the Centro de Estudios Gregorio Mara\u00f1\u00f3n, Fundaci\u00f3n Ortega-Mara\u00f1\u00f3n, 28010 Madrid, Spain; bandres@ucm.es 3 Department of Nursing, Faculty of Health Sciences, University of Valladolid, Campus of Soria, 42004 Soria, Spain; patricia.romero@uva.es (P.R.-M.); anamaria.fernandez@uva.es (A.F.-A.) 4 GIR Pharmacogenetics, Cancer Genetics, Genetic Polymorphisms and Pharmacoepidemiology, University of Valladolid, Campus of Soria, 42004 Soria, Spain 5 Consolidated Research Unit of Castilla y Le\u00f3n, 387, University of Valladolid, 42004 Soria, Spain; ggervasi@unex.es 6 Agrolab for Healthy Food, UVa, Unit Associated to CSIC Through INIA, C/Universidad s/n, 42004 Soria, Spain 7 Department of Medical and Surgical Therapeutics, Medical School, University of Extremadura, 06006 Badajoz, Spain; luzmariagg@unex.es (L.M.G.); lgonzrodrig@gmail.com (L.G.-R.) 8 RICORS2040 Renal Research Network, 28029 Madrid, Spain 9 Centre for the Food Quality, INIA-CSIC, C/Universidad s/n, 42004 Soria, Spain 10 Department of Radiology, Rehabilitation and Physiotherapy, School of Medicine of Physical Education and Sport, Faculty of Medicine, University Complutense of Madrid, 28040 Madrid, Spain; miguelto@ucm.es 11 Biopathology-Toxicology Laboratory, Department of Legal Medicine, Psychiatry and Pathology, Faculty of Medicine, University Complutense of Madrid, 28040 Madrid, Spain 12 Institute of Molecular Pathology Biomarkers, University of Extremadura, 06006 Badajoz, Spain * Correspondence: celia.chicharro@uva.es 16 5 2025 5 2025 17 10 1694 25 4 2025 09 5 2025 13 5 2025 \u00a9 2025 by the authors. 2025 https://creativecommons.org/licenses/by/4.0/ Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license ( https://creativecommons.org/licenses/by/4.0/ ). Background: Nutritional biomarkers are essential for assessing the impact of dietary interventions on health. Amino Acids (AA) serve as potential biomarkers due to their role in metabolic pathways, although the influence of combining macronutrients on AA metabolism remains unclear. Objective: This study aims to evaluate the effects of combining macronutrients (fat, protein, and fiber) on AA metabolism. Methods: A dietary intervention was conducted with 41 participants who were assigned to two groups: the Protein Fat (PF) group and the Protein Fat and Fiber (PFF) group. AA concentration was measured using LC-MS/MS. Results: Our findings indicated that combining macronutrients reduced plasma levels of AA with statistically significant differences between the two diets ( p < 0.05 for EAA and BCAA; p < 0,01 for NEAA and AAA). Metabolic profile analysis showed differences between the groups, especially at 55 days (55 D) (R2X: 0.749; R2Y: 0.589; Q2: 0.582, p < 0.001) and 98 days (98 D) (R2X: 0.886; R2Y: 0.7; Q2: 0.605, p < 0.001). Five metabolites (leucine, asparagine, alanine, cysteine, and creatine) were the most influential factors in group differentiation (VIP score), with values ranging between 1.04 and 1.75. Conclusions: The combination of macronutrients led to a significant reduction in plasma amino acids and amines in the PFF group, with recovery post-intervention. These findings highlight the possibility that these metabolites are related to different health statuses. amino acids diet mass spectrometry plasma Scientific Foundation of Caja Rural de Soria CASVE-NM-21-525 This work was supported by the Scientific Foundation of Caja Rural de Soria grant number CASVE-NM-21-525.",
+    "document_source_id": "40431435",
+    "analysis_date": "2025-12-04",
+    "extracted_data": {
+      "core_effect_and_quantification": [
+        {
+          "biomarker_name": "Plasma Amino Acids and Amines",
+          "activity_context": "Combined macronutrient diet (PFF group)",
+          "direction_of_change": "reduction",
+          "magnitude_quantification": "significant reduction throughout the intervention; decreased only until day 55 in the PF group; recovery post-intervention"
+        },
+        {
+          "biomarker_name": "EAA (Essential Amino Acids)",
+          "activity_context": "Combined macronutrient diet (PF vs PFF groups); from baseline to day 55 and day 98; during the study period",
+          "direction_of_change": "reduced",
+          "magnitude_quantification": "p < 0.05 (for PF vs PFF); p < 0.01 (baseline to 55 days); p < 0.05 (baseline to 98 days); statistically significant differences (during study period)"
+        },
+        {
+          "biomarker_name": "BCAA (Branched-Chain Amino Acids)",
+          "activity_context": "Combined macronutrient diet (PF vs PFF groups); from baseline to day 55 and day 98",
+          "direction_of_change": "reduced",
+          "magnitude_quantification": "p < 0.05 (for PF vs PFF); p < 0.05 (baseline to 55 days); p < 0.05 (baseline to 98 days)"
+        },
+        {
+          "biomarker_name": "NEAA (Non-Essential Amino Acids)",
+          "activity_context": "Combined macronutrient diet (PF vs PFF groups); from baseline to day 55 and day 98; during the study period",
+          "direction_of_change": "reduced",
+          "magnitude_quantification": "p < 0.01 (for PF vs PFF); p < 0.01 (baseline to 55 days); p < 0.01 (baseline to 98 days); statistically significant differences (during study period)"
+        },
+        {
+          "biomarker_name": "AAA (Aromatic Amino Acids)",
+          "activity_context": "Combined macronutrient diet (PF vs PFF groups); from baseline to day 55 and day 98",
+          "direction_of_change": "reduced",
+          "magnitude_quantification": "p < 0.01 (for PF vs PFF); p < 0.001 (baseline to 55 days); p < 0.01 (baseline to 98 days)"
+        },
+        {
+          "biomarker_name": "Leucine",
+          "activity_context": "Combined macronutrient diet (PF vs PFF groups) differentiation; improved prediction of outcome for PF group and FFI when included in classic model; assessing impact of dietary interventions from baseline to day 98",
+          "direction_of_change": "change (influential factor); increased predictive power; significant increase in AUC",
+          "magnitude_quantification": "VIP score between 1.04 and 1.75; AUC increased from 78% to 100% (PF group); AUC increased from 76.7% to 100% (FFI)"
+        },
+        {
+          "biomarker_name": "Asparagine",
+          "activity_context": "Combined macronutrient diet (PF vs PFF groups) differentiation; improved prediction of outcome for PF group and FFI when included in classic model; assessing impact of dietary interventions from baseline to day 98; 98 days into dietary intervention",
+          "direction_of_change": "change (influential factor); increased predictive power; significant increase in AUC; notable difference",
+          "magnitude_quantification": "VIP score between 1.04 and 1.75; AUC increased from 78% to 100% (PF group); AUC increased from 76.7% to 100% (FFI); p < 0.002"
+        },
+        {
+          "biomarker_name": "Alanine",
+          "activity_context": "Combined macronutrient diet (PF vs PFF groups) differentiation; improved prediction of outcome for PF group and FFI when included in classic model; assessing impact of dietary interventions from baseline to day 98; 98 days into dietary intervention",
+          "direction_of_change": "change (influential factor); increased predictive power; significant increase in AUC; notable difference",
+          "magnitude_quantification": "VIP score between 1.04 and 1.75; AUC increased from 78% to 100% (PF group); AUC increased from 76.7% to 100% (FFI); p < 0.002"
+        },
+        {
+          "biomarker_name": "Cysteine",
+          "activity_context": "Combined macronutrient diet (PF vs PFF groups) differentiation; baseline, 98 days into dietary intervention; improved prediction of outcome for PF group and FFI when included in classic model; assessing impact of dietary interventions from baseline to day 98",
+          "direction_of_change": "change (influential factor); statistically significant difference; notable difference; increased predictive power; significant increase in AUC",
+          "magnitude_quantification": "VIP score between 1.04 and 1.75; p < 0.002 (baseline); p < 0.002 (98 days); AUC increased from 78% to 100% (PF group); AUC increased from 76.7% to 100% (FFI)"
+        },
+        {
+          "biomarker_name": "Creatine",
+          "activity_context": "Combined macronutrient diet (PF vs PFF groups) differentiation; improved prediction of outcome for PF group and FFI when included in classic model; assessing impact of dietary interventions from baseline to day 98",
+          "direction_of_change": "change (influential factor); increased predictive power; significant increase in AUC",
+          "magnitude_quantification": "VIP score between 1.04 and 1.75; AUC increased from 78% to 100% (PF group); AUC increased from 76.7% to 100% (FFI)"
+        },
+        {
+          "biomarker_name": "amines (including creatine choline, acetylcholine, ADMA, kynurenine)",
+          "activity_context": "55 days after starting dietary intervention",
+          "direction_of_change": "statistically significant difference",
+          "magnitude_quantification": "p < 0.002"
+        },
+        {
+          "biomarker_name": "histidine",
+          "activity_context": "98 days into dietary intervention",
+          "direction_of_change": "notable difference",
+          "magnitude_quantification": "p < 0.002"
+        },
+        {
+          "biomarker_name": "lysine",
+          "activity_context": "98 days into dietary intervention",
+          "direction_of_change": "notable difference",
+          "magnitude_quantification": "p < 0.002"
+        },
+        {
+          "biomarker_name": "valine",
+          "activity_context": "98 days into dietary intervention",
+          "direction_of_change": "notable difference",
+          "magnitude_quantification": "p < 0.002"
+        },
+        {
+          "biomarker_name": "tryptophan",
+          "activity_context": "98 days into dietary intervention; upon completion of dietary intervention (132 days)",
+          "direction_of_change": "notable difference; significantly different values",
+          "magnitude_quantification": "p < 0.002 (98 days); p < 0.002 (132 days)"
+        },
+        {
+          "biomarker_name": "glutamate",
+          "activity_context": "98 days into dietary intervention",
+          "direction_of_change": "notable difference",
+          "magnitude_quantification": "p < 0.002"
+        },
+        {
+          "biomarker_name": "glutamine",
+          "activity_context": "98 days into dietary intervention",
+          "direction_of_change": "notable difference",
+          "magnitude_quantification": "p < 0.002"
+        },
+        {
+          "biomarker_name": "citrulline",
+          "activity_context": "98 days into dietary intervention",
+          "direction_of_change": "notable difference",
+          "magnitude_quantification": "p < 0.002"
+        },
+        {
+          "biomarker_name": "proline",
+          "activity_context": "98 days into dietary intervention",
+          "direction_of_change": "notable difference",
+          "magnitude_quantification": "p < 0.002"
+        },
+        {
+          "biomarker_name": "isoleucine",
+          "activity_context": "98 days into dietary intervention",
+          "direction_of_change": "notable difference",
+          "magnitude_quantification": "p < 0.001"
+        },
+        {
+          "biomarker_name": "serine",
+          "activity_context": "upon completion of dietary intervention (132 days)",
+          "direction_of_change": "significantly different values",
+          "magnitude_quantification": "p < 0.002"
+        },
+        {
+          "biomarker_name": "plasma AA ratios (general)",
+          "activity_context": "across all time points during dietary intervention",
+          "direction_of_change": "statistically significant differences",
+          "magnitude_quantification": "p < 0.001"
+        },
+        {
+          "biomarker_name": "EAA/NEAA ratio",
+          "activity_context": "intervention diet with pork belly and vegetables (PFF group)",
+          "direction_of_change": "significant difference observed",
+          "magnitude_quantification": "not explicitly quantified"
+        },
+        {
+          "biomarker_name": "Kyn/Trp ratio",
+          "activity_context": "intervention diet with pork belly and vegetables (PFF group)",
+          "direction_of_change": "significant difference observed",
+          "magnitude_quantification": "not explicitly quantified"
+        }
+      ],
+      "molecular_mechanism_and_relationship": {
+        "activity_type_context": "Dietary interventions involving combined macronutrients (protein, fat, and fiber vs. protein and fat only, or pork belly with/without vegetables) and their impact on amino acid and amine metabolism, including their role as potential biomarkers in various physiological conditions and in predictive models.",
+        "mechanism_description": "Amino acids (AA) are important metabolic biomarkers. Dietary interventions, particularly those combining macronutrients like fat, protein, and fiber, significantly alter plasma AA and amine levels and overall metabolic profiles, which can be detected at various time points. High-fat diets may increase intestinal permeability, reducing AA absorption, and, when combined with fiber, reduce plasma AA levels. Such diets can also modulate the kynurenine-tryptophan pathway, affecting tryptophan and kynurenine levels. Key metabolites like leucine, asparagine, alanine, cysteine, and creatine enhance the predictive power of models for dietary outcomes. These metabolome changes serve as indicators of diet-induced variations and nutritional differentiation, with ratios like EAA/NEAA and Kyn/Trp used for assessing nutritional status and pathway importance.",
+        "related_biomarkers": [
+          "Amino Acids (AA)",
+          "Amines",
+          "EAA (Essential Amino Acids)",
+          "BCAA (Branched-Chain Amino Acids)",
+          "NEAA (Non-Essential Amino Acids)",
+          "AAA (Aromatic Amino Acids)",
+          "Leucine",
+          "Asparagine",
+          "Alanine",
+          "Cysteine",
+          "Creatine",
+          "Histidine",
+          "Isoleucine",
+          "Lysine",
+          "Methionine",
+          "Phenylalanine",
+          "Threonine",
+          "Tryptophan",
+          "Valine",
+          "Aspartate",
+          "Glutamine",
+          "Glutamate",
+          "Serine",
+          "Citrulline",
+          "Arginine",
+          "Glycine",
+          "Proline",
+          "Tyrosine",
+          "Acetylcholine",
+          "Choline",
+          "Asymmetric Dimethylarginine (ADMA)",
+          "Gamma-aminobutyric acid (GABA)",
+          "Kynurenic Acid (KYNA)",
+          "Kynurenine (Kyn)",
+          "Serotonin",
+          "Creatine choline",
+          "Kyn/Trp ratio",
+          "EAA/NEAA ratio",
+          "AA metabolome"
+        ]
+      },
+      "dose_intensity_and_specificity": {
+        "dose_comparison_summary": "The study compared two dietary groups: a Protein Fat (PF) group (150g pork belly) and a Protein Fat and Fiber (PFF) group (150g pork belly plus 200g vegetables). The PFF group consistently showed a significant reduction in plasma amino acids and amines throughout the intervention, whereas the PF group exhibited this decrease only for the first 55 days, followed by a tendency towards recovery post-intervention. Significant variations in amino acid levels were observed between groups at 55, 98, and 132 days. From baseline to 55 days, reductions in EAA, NEAA, BCAA, and AAA were consistent across both diets.",
+        "specificity_finding": "The effects were specific to plasma amino acids and amines, particularly a panel of five metabolites (leucine, asparagine, alanine, cysteine, and creatine) that were most influential in differentiating the dietary groups. The addition of dietary fiber from vegetables to fats and proteins specifically reduced plasma AA levels, and the PFF group consistently showed significant differences in EAA/NEAA and Kyn/Trp ratios. Metabolic profiling further highlighted specific differences in group distribution and the impact of the dietary intervention at various time points, indicating the specificity of these biomarkers to the combined macronutrient dietary changes."
+      },
+      "clinical_implication_and_population": {
+        "target_population": "The study involved 41 female participants (cloistered nuns) aged 18 to 90 years, forming a Mediterranean cohort, with exclusion criteria for dementia, cardiovascular disease, and swallowing difficulties. Broadly, these nutritional biomarkers are relevant for patients with inherited metabolic diseases, diabetes, chronic kidney disease, cancer, Alzheimer\u2019s disease, cardiovascular disease, protein malnutrition, or sepsis.",
+        "health_implication": "Amino acids serve as essential nutritional biomarkers for assessing the impact of dietary interventions on health and are related to various health statuses. Changes in specific amino acid and amine profiles, particularly a panel including leucine, asparagine, alanine, cysteine, and creatine, are useful for evaluating dietary intervention effectiveness and significantly improve the diagnostic and prognostic utility of clinical parameters. These biomarkers also hold potential for diagnosing inherited metabolic diseases, diabetes, chronic kidney disease, cancer, Alzheimer's disease, cardiovascular disease, protein malnutrition, and sepsis. They can guide precise nutritional strategies, improve clinical patient management, and indicate potential negative health impacts from imbalances in EAA/NEAA ratios, suggesting nutritional deficiencies.",
+        "risk_classification": "Diagnostic/Monitoring Utility for assessing dietary intervention impact, health status, and various metabolic diseases. Also indicates potential adverse risk related to nutritional deficiencies stemming from amino acid imbalances."
+      },
+      "biomarker_reliability_and_future_focus": {
+        "reliability_assessment": "Amino acids (AA) are considered potential and promising biomarkers for assessing dietary intervention impact. Plasma AA concentration was measured using LC-MS/MS, a robust analytical technique offering optimal performance and generating complex metabolic profiles. Post-hoc statistical power was high for serine (95.5%), histidine (96.4%), and tryptophan (99.8%). PLS-DA analysis showed robust metabolic patterns at 55 and 98 days (e.g., Q2 > 0.58, p < 0.001). The inclusion of a panel of five key metabolites (leucine, asparagine, alanine, cysteine, and creatine) significantly enhanced the AUC for assessing dietary intervention impact (from 78% to 100%), though statistical significance was borderline for some models. However, reliability of plasma AA concentration measurements is challenged by a lack of consensus on physiological analytical ranges due to various factors including analytical techniques, study populations, and dietary habits. Limitations of the current study include long intervals between measurements, failure to assess dietary intake via FFQ, and age disparity between groups. Further research is required to fully understand the utility of these biomarkers.",
+        "recommended_alternatives": [
+          "Panel of leucine, asparagine, alanine, cysteine, and creatine (to complement classic clinical parameters for improved assessment of dietary intervention impact)"
+        ]
+      }
+    }
+  }
+]

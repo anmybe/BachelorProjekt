@@ -3,7 +3,6 @@ import os
 from time import sleep
 from datetime import datetime
 from typing import Dict, Any, List, Tuple
-# NEUER Import fuer Parallelisierung
 import concurrent.futures 
 
 # --- Python-DotEnv Import ---
@@ -39,7 +38,7 @@ API_PROVIDER = "GEMINI"
 
 MOCK_MODE = False
 CHUNK_FOLDER = "chunks_gemini_semantic_serial3"
-OUTPUT_DIR_PHASE1 = "semantic_serial_results_threads"
+OUTPUT_DIR_PHASE1 = "semantic_serial_results_threads_final"
 
 
 # --- API KEYS AND MODEL MAPPING (Laden aus Umgebungsvariablen) ---
@@ -90,66 +89,117 @@ def _sanitize_schema_types(schema: Dict | List | str) -> Dict | List | str:
 
 # 1. Base Schema (using original definition format)
 DRAFT_RESPONSE_SCHEMA = {
-    "type": "OBJECT",
-    "properties": {
-        "title": {"type": "STRING"},
-        "document_source_id": {"type": "STRING"},
-        "analysis_date": {"type": "STRING"},
-        "extracted_data": {
+  "type": "OBJECT",
+  "properties": {
+    "title": {
+      "type": "STRING",
+      "description": "The concise, one-sentence title of the scientific document. If the source title is very long, summarize its essence into one sentence (e.g., 'Predicting anaemia from standard blood testing in developing countries.')."
+    },
+    "document_source_id": {
+      "type": "STRING",
+      "description": "The unique ID of the source document (e.g., PMID, DOI)."
+    },
+    "analysis_date": {
+      "type": "STRING",
+      "description": "The date when the data analysis was performed."
+    },
+    "extracted_data": {
+      "type": "OBJECT",
+      "properties": {
+        "document_summary": {
+          "type": "STRING",
+          "description": "A concise summary of the study's aim and main findings (e.g., 'Investigation of molecular changes following CITT ablation of 4T1 breast carcinoma in mouse models.')."
+        },
+        "treatment_details": {
+          "type": "OBJECT",
+          "properties": {
+            "therapy_type": {
+              "type": "STRING",
+              "description": "The specific therapeutic method investigated in the document (e.g., CITT, Radiotherapy, Exercise)."
+            },
+            "dose_specificity": {
+              "type": "STRING",
+              "description": "Details regarding the intensity, duration, or specifics of the dose, including any lack of dose comparisons (e.g., 'Partial ablation at 80-90°C; no dose-response comparisons reported.')."
+            }
+          },
+          "required": [
+            "therapy_type",
+            "dose_specificity"
+          ]
+        },
+        "analyzed_biomarkers": {
+          "type": "ARRAY",
+          "description": "A list of detailed objects, where each object fully describes an individual biomarker, its effect, and context.",
+          "items": {
             "type": "OBJECT",
             "properties": {
-                "core_effect_and_quantification": {
-                    "type": "ARRAY",
-                    "items": {
-                        "type": "OBJECT",
-                        "properties": {
-                            "biomarker_name": {"type": "STRING"},
-                            "activity_context": {"type": "STRING"},
-                            "direction_of_change": {"type": "STRING"},
-                            "magnitude_quantification": {"type": "STRING"}
-                        },
-                        "required": ["biomarker_name", "activity_context", "direction_of_change", "magnitude_quantification"]
-                    }
+              "biomarker_name": {
+                    "type": "STRING",
+                    "description": "The molecular marker's name (e.g., Cxcl12, CK, Cortisol)."
                 },
-                "molecular_mechanism_and_relationship": {
-                    "type": "OBJECT",
-                    "properties": {
-                        "activity_type_context": {"type": "STRING"},
-                        "mechanism_description": {"type": "STRING"},
-                        "related_biomarkers": {"type": "ARRAY", "items": {"type": "STRING"}}
-                    },
-                    "required": ["activity_type_context", "mechanism_description", "related_biomarkers"]
+              "measured_tissue_or_fluid": {
+                "type": "STRING",
+                "description": "The tissue or body fluid where the marker was quantified (e.g., Blood Serum, Muscle Biopsy, Saliva)."
+              },
+              "activity_type": {
+                "type": "STRING",
+                "description": "The type of measurement (e.g., Gene Transcript, Protein Level, Hormone Concentration)."
+              },
+              "measured_effect": {
+                "type": "OBJECT",
+                "properties": {
+                  "direction_of_change": {
+                    "type": "STRING",
+                    "description": "The direction of the change after treatment or activity (e.g., higher, lower, unchanged)."
+                  },
+                  "magnitude_quantification": {
+                    "type": "STRING",
+                    "description": "The precise quantitative/statistical data, including reference range/normal limits if cited (e.g., 'Normal range 90±10; decreased to 60±7', '2 to 2.5-fold higher (P<0.05)')."
+                  }
                 },
-                "dose_intensity_and_specificity": {
-                    "type": "OBJECT",
-                    "properties": {
-                        "dose_comparison_summary": {"type": "STRING"},
-                        "specificity_finding": {"type": "STRING"}
-                    },
-                    "required": ["dose_comparison_summary", "specificity_finding"]
-                },
-                "clinical_implication_and_population": {
-                    "type": "OBJECT",
-                    "properties": {
-                        "target_population": {"type": "STRING"},
-                        "health_implication": {"type": "STRING"},
-                        "risk_classification": {"type": "STRING"}
-                    },
-                    "required": ["target_population", "health_implication", "risk_classification"]
-                },
-                "biomarker_reliability_and_future_focus": {
-                    "type": "OBJECT",
-                    "properties": {
-                        "reliability_assessment": {"type": "STRING"},
-                        "recommended_alternatives": {"type": "ARRAY", "items": {"type": "STRING"}}
-                    },
-                    "required": ["reliability_assessment", "recommended_alternatives"]
-                }
+                "required": [
+                  "direction_of_change",
+                  "magnitude_quantification"
+                ]
+              },
+              "core_biological_function": {
+                "type": "STRING",
+                "description": "The fundamental biological role of the biomarker (e.g., mediates inflammation, tissue repair, energy metabolism regulation). This explains WHAT the biomarker does."
+              },
+              "relevant_activity_context": {
+                "type": "STRING",
+                "description": "The specific type of activity or condition linked to the change (e.g., Endurance running, High-intensity Interval Training (HIIT), Post-surgical recovery, 4T1 Carcinoma Ablation). This explains the specific WHEN/WHERE."
+              },
+              "performance_or_health_indicator": {
+                "type": "STRING",
+                "description": "The derived significance for performance, regeneration, or health status (e.g., 'Indicates muscle damage level', 'Predicts overtraining risk', 'Associated with heightened bone metastasis risk')."
+              },
             },
-            "required": ["core_effect_and_quantification", "molecular_mechanism_and_relationship", "dose_intensity_and_specificity", "clinical_implication_and_population", "biomarker_reliability_and_future_focus"]
+            "required": [
+              "biomarker_name",
+              "measured_tissue_or_fluid",
+              "activity_type",
+              "measured_effect",
+              "core_biological_function",
+              "relevant_activity_context",
+              "performance_or_health_indicator",
+            ]
+          }
         }
-    },
-    "required": ["title", "document_source_id", "analysis_date", "extracted_data"]
+      },
+      "required": [
+        "document_summary",
+        "treatment_details",
+        "analyzed_biomarkers"
+      ]
+    }
+  },
+  "required": [
+    "title",
+    "document_source_id",
+    "analysis_date",
+    "extracted_data"
+  ]
 }
 
 # 2. Final Sanitized Schema Definitions (Used throughout the pipeline)
@@ -157,11 +207,11 @@ RESPONSE_SCHEMA = _sanitize_schema_types(DRAFT_RESPONSE_SCHEMA)
 CHUNK_RESPONSE_SCHEMA = RESPONSE_SCHEMA["properties"]["extracted_data"]
 
 
-# --- CORE QUERY BUILDERS (Unveraendert) ---
+# --- CORE QUERY BUILDERS (AKTUALISIERT) ---
 
 CHUNK_INSTRUCTION_PREFIX = (
     "INSTRUCTIONS: You are a highly specialized Scientific Data Extractor. Analyze the provided article chunk "
-    "and extract ALL relevant data points for the five required categories using the provided JSON tool/schema. "
+    "and extract ALL relevant data points for the new, detailed structure using the provided JSON tool/schema. "
     "Your output MUST strictly conform to the schema defined in the tool call. DO NOT summarize the whole document; "
     "focus only on the specific facts present in the text provided.\n\n"
 )
@@ -169,20 +219,34 @@ CHUNK_INSTRUCTION_PREFIX = (
 SYSTEM_INSTRUCTION_PREFIX = (
     "INSTRUCTIONS: You are a Scientific Review Assistant. Review the collection of structured JSON results from the chunks below. "
     "Synthesize them into a single, cohesive, and non-redundant final JSON object using the provided tool/schema. "
-    "Merge array fields and write comprehensive summaries for object fields.\n\n"
+    "Merge the 'analyzed_biomarkers' arrays and write comprehensive summaries for the 'document_summary' and 'treatment_details' objects.\n\n"
 )
 
 def build_chunk_analysis_query(document_id: str, chunk_content: str) -> str:
-    """Builds the user prompt for analyzing a single chunk, including instructions."""
+    """
+    Builds the user prompt for analyzing a single chunk, explicitly detailing 
+    all new required fields in the schema.
+    """
+        
     integrated_query = f"""
     Document ID: **{document_id}**. 
     
     Extraction Requirements:
-    1. Core Effect & Quantification: Identify all primary **biomarkers** that showed a **significant change**. List the **biomarker name**, the **activity/disease context**, the **direction of change**, and the **magnitude/quantification** (e.g., logFC, p-value, AUC, percentage).
-    2. Molecular Mechanism & Relationship: Describe the authors' proposed **molecular mechanism** linking the **activity/disease type** to the **biomarker** change. List **related biomarkers**.
-    3. Dose/Intensity and Specificity: Analyze any **dose-response** effect, comparison between **high vs. low intensity/stage**, or **specificity** finding.
-    4. Clinical Implication & Population: Note the **target population**, the **health implication**, and classify the finding (e.g., **protective benefit, adverse risk, diagnostic utility**).
-    5. Biomarker Reliability & Future Focus: Evaluate the **sensitivity/reliability** and list any **recommended alternative biomarkers/assays**.
+    
+    A. DOCUMENT OVERVIEW:
+    1. Document Summary: Concisely summarize the study's primary aim and the main conclusion.
+    2. Treatment Details: Identify the therapeutic/activity method (e.g., CITT, HIIT, Radiotherapy) and provide specifics on the dose, intensity, and duration. Report any dose-response observations.
+
+    B. BIOMARKER DETAILS (For EVERY significant marker found):
+    For each biomarker, you MUST find and report the following contextual information exactly matching the detailed schema fields:
+    1. Biomarker Name
+    2. Measured Tissue/Fluid 
+    3. Activity Type (Measurement type)
+    4. Measured Effect - Direction 
+    5. Measured Effect - Quantification (Precise data/stats, including cited normal limits).
+    6. Core Biological Function 
+    7. Relevant Activity Context 
+    8. Performance/Health Indicator 
 
     Provided Article Content CHUNK:
     ---
@@ -192,12 +256,21 @@ def build_chunk_analysis_query(document_id: str, chunk_content: str) -> str:
     return CHUNK_INSTRUCTION_PREFIX + integrated_query
 
 def build_synthesis_query(document_id: str, title: str, chunk_results: list) -> str:
-    """Builds the user prompt for the final synthesis API call, including instructions."""
+    """
+    Builds the user prompt for the final synthesis API call, including instructions,
+    and explicitly instructs the LLM to clean the noisy input title.
+    """
     
     formatted_results = "\n\n---\n\n".join([json.dumps(res, indent=2) for res in chunk_results])
     
     synthesis_query = f"""
-    Document: **{title}** (ID: {document_id}).
+    Raw Input Title (MUST BE CLEANED): **{title}**
+    Document ID: {document_id}
+
+    **FINAL SYNTHESIS TASK:** Based on the following extracted chunks and the *Raw Input Title*, create the final, complete JSON structure.
+    
+    1. **Title Field Synthesis (CRITICAL):** Synthesize the 'title' field by **aggressively cleaning the Raw Input Title** to remove all metadata (journal, authors, affiliations, URLs, dates) and ensure the final 'title' is concise (**MAXIMUM ONE SENTENCE**) and captures the document's central topic.
+    2. **Data Synthesis:** Merge the 'analyzed_biomarkers' arrays and write comprehensive summaries for 'document_summary' and 'treatment_details'.
     
     Structured Data from Chunks (to be synthesized):
     ---

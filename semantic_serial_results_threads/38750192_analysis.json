@@ -1,0 +1,128 @@
+[
+  {
+    "title": "pmc Sci Rep Sci Rep Scientific Reports 2045-2322 Nature Publishing Group UK London 11096363 38750192 61690 10.1038/s41598-024-61690-3 Article Diagnostic utility of clinicodemographic, biochemical and metabolite variables to identify viable pregnancies in a symptomatic cohort during early gestation Hill Christopher J. 1 Phelan Marie M. 2 3 Dutton Philip J. 1 4 Busuulwa Paula 1 4 Maclean Alison 1 Davison Andrew S. 1 5 Drury Josephine A. 1 Tempest Nicola 1 4 Horne Andrew W. 6 Guti\u00e9rrez Eva Caama\u00f1o 2 7 Hapangama Dharani K. dharani@liverpool.ac.uk 1 4 1 https://ror.org/04xs57h96 grid.10025.36 0000 0004 1936 8470 Department of Women\u2019s and Children\u2019s Health, Centre for Women\u2019s Health Research, Institute of Life Course and Medical Sciences, University of Liverpool, Member of Liverpool Health Partners, Liverpool, L8 7SS UK 2 https://ror.org/04xs57h96 grid.10025.36 0000 0004 1936 8470 High Field NMR Facility, Liverpool Shared Research Facilities, University of Liverpool, Liverpool, L69 7TX UK 3 https://ror.org/04xs57h96 grid.10025.36 0000 0004 1936 8470 Department of Biochemistry and Systems Biology, Institute of Systems, Molecular and Integrative Biology, University of Liverpool, Liverpool, L69 7ZB UK 4 grid.522745.3 Liverpool Women\u2019s Hospital NHS Foundation Trust, Member of Liverpool Health Partners, Liverpool, L8 7SS UK 5 grid.513149.b Department of Clinical Biochemistry and Metabolic Medicine, Liverpool Clinical Laboratories, Liverpool University Hospitals NHS Foundation Trust, Liverpool, L7 8SP UK 6 grid.4305.2 0000 0004 1936 7988 Centre for Reproductive Health, Institute for Regeneration and Repair, University of Edinburgh, Edinburgh, EH16 4UU UK 7 https://ror.org/04xs57h96 grid.10025.36 0000 0004 1936 8470 Computational Biology Facility, Liverpool Shared Research Facilities, University of Liverpool, Liverpool, L69 7ZB UK 15 5 2024 15 5 2024 2024 14 11172 4 3 2024 8 5 2024 \u00a9 This is a U.S. Government work and not under copyright protection in the US; foreign copyright protection may apply 2024 https://creativecommons.org/licenses/by/4.0/ Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/ . A significant number of pregnancies are lost in the first trimester and 1\u20132% are ectopic pregnancies (EPs). Early pregnancy loss in general can cause significant morbidity with bleeding or infection, while EPs are the leading cause of maternal mortality in the first trimester. Symptoms of pregnancy loss and EP are very similar (including pain and bleeding); however, these symptoms are also common in live normally sited pregnancies (LNSP). To date, no biomarkers have been identified to differentiate LNSP from pregnancies that will not progress beyond early gestation (non-viable or EPs), defined together as combined adverse outcomes (CAO). In this study, we present a novel machine learning pipeline to create prediction models that identify a composite biomarker to differentiate LNSP from CAO in symptomatic women. This prospective cohort study included 370 participants. A single blood sample was prospectively collected from participants on first emergency presentation prior to final clinical diagnosis of pregnancy outcome: LNSP, miscarriage, pregnancy of unknown location (PUL) or tubal EP (tEP). Miscarriage, PUL and tEP were grouped together into a CAO group. Human chorionic gonadotrophin \u03b2 (\u03b2-hCG) and progesterone concentrations were measured in plasma. Serum samples were subjected to untargeted metabolomic profiling. The cohort was randomly split into train and validation data sets, with the train data set subjected to variable selection. Nine metabolite signals were identified as key discriminators of LNSP versus CAO. Random forest models were constructed using stable metabolite signals alone, or in combination with plasma hormone concentrations and demographic data. When comparing LNSP with CAO, a model with stable metabolite signals only demonstrated a modest predictive accuracy (0.68), which was comparable to a model of \u03b2-hCG and progesterone (0.71). The best model for LNSP prediction comprised stable metabolite signals and hormone concentrations (accuracy = 0.79). In conclusion, serum metabolite levels and biochemical markers from a single blood sample possess modest predictive utility in differentiating LNSP from CAO pregnancies upon first presentation, which is improved by variable selection and combination using machine learning. A diagnostic test to confirm LNSP and thus exclude pregnancies affecting maternal morbidity and potentially life-threatening outcomes would be invaluable in emergency situations. Keywords Ectopic pregnancy Miscarriage Early pregnancy Biomarkers Metabolomics Machine learning Subject terms Biomarkers Biomarkers Medical research Machine learning http://dx.doi.org/10.13039/501100000325 Wellbeing of Women RG2137 SRI/Bayer http://dx.doi.org/10.13039/100010269 Wellcome Trust IFFS3 Hill Christopher J. Liverpool Women's Hospital NHS Foundation Trust NIHR MRC MR/V007238/1 issue-copyright-statement \u00a9 Springer Nature Limited 2024 Introduction Pelvic pain and vaginal bleeding are common in early pregnancy. Up to 30% of women will experience these symptoms during the first trimester 1 , 2 and require a medical assessment and elimination of differential diagnosis that includes miscarriage, ectopic pregnancy (EP) or pregnancy of unknown location (PUL). Approximately 15% of known correctly sited pregnancies end in miscarriage and can cause significant morbidity if heavy bleeding or infection occurs 3 . A further 1\u20132% of pregnancies are located outside the endometrial cavity, with the majority (~ 98%) implanting in the fallopian tubes; these EPs are the leading cause of maternal mortality in the first trimester 4 , 5 . PUL describes a pregnancy that cannot be located on transvaginal ultrasonography (TVS); 5\u201342% of early pregnancy scans fall into this category 6 . Those pregnancies that are assigned as PULs at first emergency presentation have clinically heterogenous outcomes; their final diagnosis includes (i) a live normally-sited pregnancy (LNSP), (ii) a non-viable normally-sited pregnancy (NVNSP), (iii) an EP, (iv) a failed PUL or (v) a persistent PUL 7 . Considering the possible consequences of each pregnancy outcome, early and accurate identification upon first presentation of symptomatic women with a LNSP from any other pregnancy outcome will reduce the diagnostic burden, as well as maternal morbidity and mortality. Diagnosis of an adverse early pregnancy outcome in clinical practice depends on a combination of ultrasonographic, biochemical, clinical, and sometimes surgical assessment. TVS at first presentation is inconclusive in approximately 4\u201340% of cases, likely due to (i) a LNSP before the detection limit of TVS, (ii) failure before gestation sac formation or (iii) being an EP 8 . The detection limit of a LNSP by TVS is ~ 6 weeks of gestation 9 , however, a significant proportion of pregnancies are unplanned 10 . Therefore, dating of the pregnancy from last menstrual period is frequently unreliable, which further complicates diagnosis at first emergency presentation. Human chorionic gonadotrophin \u03b2 (\u03b2-hCG) and progesterone are used in routine clinical practice to monitor pregnancies not located on TVS; doubling of \u03b2-hCG over 48 h is indicative of a LNSP 11 , and TVS should be able to locate a LNSP with a serum \u03b2-hCG level \u2265 1500 IU/L 12 . An initial progesterone level cutoff of \u2264 2 nmol/L has been shown to accurately categorise low risk PULs 13 . However, serial \u03b2-hCG concentrations are required to accurately differentiate LNSPs from adverse outcomes 8 . Such management runs the risk of tubal rupture in women with EP, and unwarranted anxiety and clinical intervention in others with LNSP 14 . Since most symptomatic patients will have a LNSP, their rapid identification at first presentation and reassurance will allow focussing of the available diagnostic resources on women with a high risk of conditions that can be associated with maternal morbidity and mortality. A plethora of novel blood and urine biomarkers have been identified in the pursuit of improved diagnostics for miscarriage, EP and PUL 7 , 8 , 15 \u2013 18 . However, none have yet been translated to routine clinical care. Few studies have assessed biomarkers for the definitive diagnosis of a LNSP in symptomatic cohorts containing multiple adverse outcomes. Therefore, there is an urgent need for a rapid, non-invasive, and single measurement test to accurately identify a LNSP, and exclude NVNSPs and EPs. Metabolomics is the comprehensive analysis of small molecules (< 1500 Da) in biological samples such as cells, tissues and biofluids. In humans, metabolomic profiling can be used to identify disease biomarkers and elucidate metabolic pathways involved in pathological processes 19 . Nuclear magnetic resonance (NMR) spectroscopy and mass spectrometry (MS) are the two most employed techniques in metabolomic research 20 , 21 . NMR metabolomic analysis provides highly reproducible, global quantitation of measurable analytes in biological samples in an unbiased and non-destructive fashion 22 . Routinely collected biofluids in early pregnancy assessment, such as blood and urine, are well-established sample types for NMR metabolomic profiling and are ideal for biomarker screening with simple and minimally invasive sample collection. The analysis of omics data and its exploitation for in-silico biomarker discovery using machine learning is not trivial, with an ongoing crisis of reproducibility in the field 23 . We have applied a state-of-the-art pipeline to detect consensus, robust signals across patients. In this study, we propose a composite biomarker of early LNSP when compared with non-viable correctly sited pregnancies and EPs (these were grouped together as combined adverse outcomes, henceforth CAO). We apply a novel machine learning pipeline for robust biomarker identification and create models that integrate untargeted 1 H NMR small molecule profiling of serum combined with biochemical markers (progesterone, \u03b2-hCG) and patient demographics.",
+    "document_source_id": "38750192",
+    "analysis_date": "2025-12-04",
+    "extracted_data": {
+      "core_effect_and_quantification": [
+        {
+          "biomarker_name": "composite biomarker (stable metabolite signals and hormone concentrations)",
+          "activity_context": "prediction of live normally sited pregnancy (LNSP) and differentiation from combined adverse outcomes (CAO)",
+          "direction_of_change": "predictor",
+          "magnitude_quantification": "predictive accuracy of 0.79"
+        },
+        {
+          "biomarker_name": "stable metabolite signals (alone)",
+          "activity_context": "differentiating live normally sited pregnancy (LNSP) from combined adverse outcomes (CAO)",
+          "direction_of_change": "discriminator",
+          "magnitude_quantification": "predictive accuracy of 0.68"
+        },
+        {
+          "biomarker_name": "\beta-hCG and progesterone (combined)",
+          "activity_context": "differentiating live normally sited pregnancy (LNSP) from combined adverse outcomes (CAO)",
+          "direction_of_change": "predictor",
+          "magnitude_quantification": "predictive accuracy of 0.71"
+        },
+        {
+          "biomarker_name": "\beta-hCG",
+          "activity_context": "LNSP group compared with adverse outcomes (miscarriage, PUL, tEP)",
+          "direction_of_change": "higher",
+          "magnitude_quantification": "significantly higher"
+        },
+        {
+          "biomarker_name": "progesterone",
+          "activity_context": "LNSP group compared with adverse outcomes (miscarriage, PUL, tEP) and in LNSP group (\f 10 weeks gestation)",
+          "direction_of_change": "higher (in LNSP vs CAO); low level (at certain thresholds)",
+          "magnitude_quantification": "significantly higher (in LNSP vs CAO); low level (11-21 nmol/L) can exclude LNSP"
+        },
+        {
+          "biomarker_name": "glutamate",
+          "activity_context": "LNSP compared with CAO (miscarriage, PUL, tEP; failed LNSPs and ectopically located pregnancies)",
+          "direction_of_change": "higher",
+          "magnitude_quantification": "median abundances higher; significantly higher"
+        },
+        {
+          "biomarker_name": "phenylalanine",
+          "activity_context": "LNSP compared with CAO (miscarriage, PUL, tEP; failed LNSPs and ectopically located pregnancies)",
+          "direction_of_change": "higher",
+          "magnitude_quantification": "median abundances higher; significantly higher"
+        },
+        {
+          "biomarker_name": "unlabelled signal 30",
+          "activity_context": "LNSP compared with CAO (miscarriage, PUL, tEP)",
+          "direction_of_change": "higher",
+          "magnitude_quantification": "median abundances higher"
+        },
+        {
+          "biomarker_name": "unlabelled signal 54",
+          "activity_context": "LNSP compared with CAO (miscarriage, PUL, tEP)",
+          "direction_of_change": "higher",
+          "magnitude_quantification": "median abundances higher"
+        },
+        {
+          "biomarker_name": "unlabelled signal 130",
+          "activity_context": "LNSP compared with CAO (miscarriage, PUL, tEP)",
+          "direction_of_change": "higher",
+          "magnitude_quantification": "median abundances higher"
+        },
+        {
+          "biomarker_name": "acetate",
+          "activity_context": "CAO (miscarriage, PUL, tEP) compared with LNSP; specifically in tEP",
+          "direction_of_change": "higher / increased",
+          "magnitude_quantification": "levels higher / increased"
+        },
+        {
+          "biomarker_name": "alanine",
+          "activity_context": "LNSP group compared with CAO (miscarriage, PUL, tEP)",
+          "direction_of_change": "lower (in LNSP vs CAO)",
+          "magnitude_quantification": "significantly lower (in LNSP vs CAO); conversely, levels higher in CAO vs LNSP"
+        },
+        {
+          "biomarker_name": "arginine",
+          "activity_context": "LNSP group compared with CAO (miscarriage, PUL, tEP)",
+          "direction_of_change": "lower (in LNSP vs CAO)",
+          "magnitude_quantification": "significantly lower (in LNSP vs CAO); conversely, levels higher in CAO vs LNSP"
+        },
+        {
+          "biomarker_name": "glutamine",
+          "activity_context": "LNSP group compared with CAO (miscarriage, PUL, tEP)",
+          "direction_of_change": "lower (in LNSP vs CAO)",
+          "magnitude_quantification": "significantly lower (in LNSP vs CAO); conversely, levels higher in CAO vs LNSP"
+        }
+      ],
+      "molecular_mechanism_and_relationship": {
+        "activity_type_context": "Differentiation of early pregnancy outcomes, specifically live normally sited pregnancy (LNSP) from combined adverse outcomes (CAO) including miscarriage, pregnancy of unknown location (PUL), tubal ectopic pregnancy (tEP), and failed LNSPs.",
+        "mechanism_description": "A novel machine learning pipeline integrates untargeted 1H NMR metabolomic profiling of serum with biochemical markers (progesterone, \beta-hCG) and patient demographics to develop predictive models for differentiating LNSP from CAO. Specific mechanistic insights include altered amino acid levels: lower alanine, arginine, and glutamine in LNSP compared to CAO, possibly reflecting perturbed fetal utilization or non-viable status. Conversely, higher levels of glutamate and phenylalanine in LNSP compared to CAO may reflect abnormal progression in failed LNSPs and ectopically located pregnancies. The utility lies in classifying combined biomarker changes for improved diagnostic accuracy.",
+        "related_biomarkers": [
+          "stable metabolite signals",
+          "human chorionic gonadotrophin \beta (\beta-hCG)",
+          "progesterone",
+          "acetate",
+          "alanine",
+          "arginine",
+          "glutamate",
+          "glutamine",
+          "phenylalanine",
+          "unlabelled signal 30",
+          "unlabelled signal 54",
+          "unlabelled signal 130"
+        ]
+      },
+      "dose_intensity_and_specificity": {
+        "dose_comparison_summary": "Biomarker levels were assessed from a single blood sample collected upon first emergency presentation. While no specific dose-response for individual biomarkers was discussed, plasma \beta-hCG concentrations showed a strong positive correlation with gestational age in LNSP, unlike in miscarriage and PUL groups. Progesterone levels are noted to rise in viable pregnancies beyond 10 weeks, showing a larger difference from non-viable gestations, though initial progesterone levels did not significantly correlate with gestational age or \beta-hCG.",
+        "specificity_finding": "The composite biomarker model (stable metabolite signals and hormone concentrations) achieved the best predictive accuracy (0.79) for specifically differentiating LNSP from CAO, indicating its utility in identifying viable pregnancies. While models were less effective at differentiating all four individual pregnancy outcomes (LNSP, miscarriage, PUL, tEP) with accuracy (0.48\b0.58), they demonstrated modest to superior accuracy (0.68\b0.79) for the LNSP vs. CAO distinction. Low progesterone levels (11\b21 nmol/L) can accurately exclude LNSP but lack specificity to distinguish between EP and miscarriage cases. Acetate levels were specifically increased in tubal ectopic pregnancies (tEP)."
+      },
+      "clinical_implication_and_population": {
+        "target_population": "Symptomatic pregnant women (>= 18 years, <= 10 weeks gestation) presenting with abdominal pain and/or bleeding at emergency or an Early Pregnancy Assessment Unit (EPAU), prior to a final clinical diagnosis of pregnancy outcome (including LNSP, miscarriage, pregnancy of unknown location (PUL), and tubal ectopic pregnancy (tEP)). The study cohort included 339 participants.",
+        "health_implication": "Early and accurate identification of a live normally sited pregnancy (LNSP) in symptomatic women is crucial. This can reduce diagnostic burden, maternal morbidity (e.g., bleeding, infection), and mortality, particularly concerning ectopic pregnancies which are a leading cause of first-trimester maternal mortality. Such a diagnostic tool would allow for better stratification for further investigations, improve management of early pregnancy complications, and help confirm LNSP while excluding pregnancy loss and potentially life-threatening adverse early pregnancy outcomes.",
+        "risk_classification": "The study focuses on diagnostic and predictive utility for identifying viable pregnancies (LNSP) and discriminating them from combined adverse outcomes (CAO), which include miscarriage, pregnancy of unknown location (PUL), and tubal ectopic pregnancy (tEP). This classification aids in confirming LNSP and excluding high-risk conditions."
+      },
+      "biomarker_reliability_and_future_focus": {
+        "reliability_assessment": "The study utilized a 'state-of-the-art' machine learning pipeline, ensuring reproducibility and avoiding overfitting for robust biomarker identification, addressing deficiencies in prior research. Serum metabolite levels and biochemical markers from a single blood sample offer modest predictive utility for differentiating LNSP from CAO, significantly enhanced by variable selection and machine learning integration. While maternal amino acid levels are promising and easily measurable, larger validation studies with independent cohorts are required to confirm accuracy, translatability, and clinical utility. Potential confounders like age, BMI, and smoking status were assessed and found to have minimal impact; however, a single \beta-hCG measurement alone is considered unreliable for distinguishing LNSP from ectopic pregnancy.",
+        "recommended_alternatives": [
+          "A composite biomarker combining stable metabolite signals (e.g., acetate, alanine, arginine, glutamate, glutamine, phenylalanine, unlabelled signals 30, 54, 130), plasma hormones (\beta-hCG, progesterone), and clinicodemographic variables (e.g., age, BMI, gestational age) is recommended as an improved diagnostic tool. This approach, implemented through machine learning models, offers superior performance compared to single biomarkers like \beta-hCG alone or simpler combinations, addressing the lack of translation of previous novel biomarkers to routine clinical care."
+        ]
+      }
+    }
+  }
+]

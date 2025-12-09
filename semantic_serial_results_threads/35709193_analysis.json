@@ -1,0 +1,160 @@
+[
+  {
+    "title": "pmc PLoS One PLoS One plos PLoS ONE 1932-6203 Public Library of Science San Francisco, CA USA 9202850 10.1371/journal.pone.0269394 PONE-D-21-35981 Research Article Biology and Life Sciences Neuroscience Cognitive Science Cognitive Neuroscience Cognitive Neurology Cognitive Impairment Biology and Life Sciences Neuroscience Cognitive Neuroscience Cognitive Neurology Cognitive Impairment Medicine and Health Sciences Neurology Cognitive Neurology Cognitive Impairment Physical sciences Chemistry Chemical compounds Organic compounds Vitamins Vitamin D Physical sciences Chemistry Organic chemistry Organic compounds Vitamins Vitamin D Medicine and Health Sciences Endocrinology Endocrine Disorders Diabetes Mellitus Medicine and Health Sciences Medical Conditions Metabolic Disorders Diabetes Mellitus Biology and Life Sciences Cell Biology Oxidative Stress Medicine and Health Sciences Mental Health and Psychiatry Dementia Alzheimer's Disease Medicine and Health Sciences Neurology Dementia Alzheimer's Disease Medicine and Health Sciences Medical Conditions Neurodegenerative Diseases Alzheimer's Disease Medicine and Health Sciences Neurology Neurodegenerative Diseases Alzheimer's Disease Medicine and health sciences Diagnostic medicine Diabetes diagnosis and management HbA1c Biology and life sciences Biochemistry Proteins Hemoglobin HbA1c Biology and Life Sciences Biochemistry Enzymology Enzymes Dismutases Superoxide Dismutase Biology and Life Sciences Biochemistry Proteins Enzymes Dismutases Superoxide Dismutase Biology and life sciences Nutrition Nutritional deficiencies Vitamin D deficiency Medicine and health sciences Nutrition Nutritional deficiencies Vitamin D deficiency Comparative assessment of cognitive impairment and oxidative stress markers among vitamin D insufficient elderly patients with and without type 2 diabetes mellitus (T2DM) Role of Vitamin-D on cognition among diabetics https://orcid.org/0000-0002-7685-5182 R. Rajalakshmi Conceptualization Funding acquisition Methodology Project administration Supervision Visualization Writing \u2013 original draft 1 * Uthaiah Chinnappa A. Investigation Methodology Resources Visualization Writing \u2013 original draft 2 C. M. Ramya Conceptualization Investigation Methodology Resources 1 https://orcid.org/0000-0001-9167-9271 Madhunapantula SubbaRao V. Conceptualization Funding acquisition Supervision Validation Writing \u2013 review & editing 2 Salimath Paramahans V. Conceptualization Funding acquisition Supervision Writing \u2013 review & editing 3 \u2021 K. Praveen Formal analysis 4 M. Srinath K. Resources 5 M. R. Kishor Methodology Resources 6 1 Department of Physiology, JSS Medical College, JSS Academy of Higher Education & Research, Mysuru, Karnataka, India 2 Center of Excellence in Molecular Biology and Regenerative Medicine (CEMR) Laboratory (A DST-FIST Supported Center), Department of Biochemistry (A DST-FIST Supported Department), JSS Medical College, JSS Academy of Higher Education & Research, Mysuru, Karnataka, India 3 JSS Medical College, JSS Academy of Higher Education & Research, Mysuru, Karnataka, India 4 Department of Community Medicine, JSS Medical College, JSS Academy of Higher Education & Research, Mysuru, Karnataka, India 5 Department of Medicine, JSS Medical College & Hospital, JSS Academy of Higher Education & Research, Mysuru, Karnataka, India 6 Department of Psychiatry, JSS Medical College & Hospital, JSS Academy of Higher Education & Research, Mysuru, Karnataka, India Greene Michael W. Editor Auburn University, UNITED STATES Competing Interests: The authors have declared that no competing interests exist. \u2021 Superannuated from service on 15th May 2020. * E-mail: rajalakshmir@jssuni.edu.in 16 6 2022 2022 17 6 e0269394 11 11 2021 19 5 2022 \u00a9 2022 R. et al 2022 R. et al https://creativecommons.org/licenses/by/4.0/ This is an open access article distributed under the terms of the Creative Commons Attribution License , which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited. Background Disorders of mental health are known to affect cognitive functions, hence called as cognitive disorders. Impaired glucose metabolism, insulin resistance, vitamin-D deficiency and oxidative stress are some of the key early events reported to be involved in the pathogenesis of most common cognitive disorders, which include Alzheimer\u2019s disease. Type-2 diabetes mellitus (T2DM) is one of the known contributing factors of cognitive impairment and dementia. Methods A cross sectional study was carried out in 145 subjects, who were assessed for cognitive function by modified mini mental status examination (3MS). In addition, measurement of fasting blood sugar (FBS), fasting insulin, HbA1c, lipid profile, vitamin D and oxidative markers was performed. Participants were divided into different groups based on (a) vitamin D insufficiency and sufficiency; (b) diabetic and non-diabetic with and without cognitive impairment. Results The study included a total of 145 subjects; 51 males and 94 females and the mean age was 68.24\u00b19.70 years. Among diabetics with vitamin D insufficiency, 35 subjects (71.43%) had cognitive impairment, but, among non-diabetics with vitamin D insufficiency, 27 subjects (62.79%) had cognitive impairment. Chi square test showed no significant association between diabetes, vitamin D insufficiency and cognitive impairment. Glutathione peroxidase (GPx) and superoxide dismutase (SOD) levels were non-significantly lower in cognition-impaired subjects, when compared to cognition normal subjects in diabetics with vitamin D insufficiency. Conclusion Our study showed that cognitive impairment is more predominant in individuals with diabetes. However, our study did not find any significant relationship between T2DM, vitamin D deficiency, cognitive impairment, and oxidative stress. A significant association was found only with GPx and 3MSE score in vitamin D insufficient non-diabetics. Department of Science and Technology CSRI, Government of India SR/CSRI/44/2016(G) https://orcid.org/0000-0002-7685-5182 R. Rajalakshmi Financial Disclosure Statement Specific grant numbers: SR/CSRI/44/2016(G) Initials of authors who received each award: Dr Rajalakshmi R Full names of commercial companies that funded the study or authors: Department of Science and Technology - Cognitive science research initiative Ministry of science and technology Government of India Initials of authors who received salary or other funding from commercial companies: Mr Chinnappa A U URLs to sponsors\u2019 websites: https://dst.gov.in/cognitive-science-research-initiative-csri The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript. Data Availability All relevant data are within the paper and its Supporting Information files. Data Availability All relevant data are within the paper and its Supporting Information files.",
+    "document_source_id": "35709193",
+    "analysis_date": "2025-12-04",
+    "extracted_data": {
+      "core_effect_and_quantification": [
+        {
+          "biomarker_name": "25(OH)D levels",
+          "activity_context": "cognitive impairment",
+          "direction_of_change": "decrease",
+          "magnitude_quantification": "lower levels associated with increased risk"
+        },
+        {
+          "biomarker_name": "FBS",
+          "activity_context": "non-diabetic vs diabetic groups",
+          "direction_of_change": "direction not specified in chunk",
+          "magnitude_quantification": "P < 0.05"
+        },
+        {
+          "biomarker_name": "fasting serum insulin",
+          "activity_context": "non-diabetic vs diabetic groups",
+          "direction_of_change": "direction not specified in chunk",
+          "magnitude_quantification": "P < 0.05"
+        },
+        {
+          "biomarker_name": "HOMA IR",
+          "activity_context": "non-diabetic vs diabetic groups",
+          "direction_of_change": "direction not specified in chunk",
+          "magnitude_quantification": "P < 0.05"
+        },
+        {
+          "biomarker_name": "HbA1c",
+          "activity_context": "non-diabetic vs diabetic groups",
+          "direction_of_change": "direction not specified in chunk",
+          "magnitude_quantification": "P < 0.05"
+        },
+        {
+          "biomarker_name": "triglycerides",
+          "activity_context": "non-diabetic vs diabetic groups",
+          "direction_of_change": "direction not specified in chunk",
+          "magnitude_quantification": "P < 0.05"
+        },
+        {
+          "biomarker_name": "HDL",
+          "activity_context": "non-diabetic vs diabetic groups",
+          "direction_of_change": "direction not specified in chunk",
+          "magnitude_quantification": "P < 0.05"
+        },
+        {
+          "biomarker_name": "LDL",
+          "activity_context": "non-diabetic vs diabetic groups",
+          "direction_of_change": "direction not specified in chunk",
+          "magnitude_quantification": "P < 0.05"
+        },
+        {
+          "biomarker_name": "VLDL",
+          "activity_context": "non-diabetic vs diabetic groups",
+          "direction_of_change": "direction not specified in chunk",
+          "magnitude_quantification": "P < 0.05"
+        },
+        {
+          "biomarker_name": "3MS score",
+          "activity_context": "Cognitive impairment vs. cognition normal in diabetics with vitamin D insufficiency",
+          "direction_of_change": "Lower in cognitive impairment group",
+          "magnitude_quantification": "Mean 50.20 \b1 23.08 (cognitive impairment) vs. 83.93 \b1 3.66 (cognition normal), P<0.05"
+        },
+        {
+          "biomarker_name": "3MS score",
+          "activity_context": "Cognitive impairment vs. cognition normal in diabetics with vitamin D sufficiency",
+          "direction_of_change": "Lower in cognitive impairment group",
+          "magnitude_quantification": "Mean 50.00 \b1 21.16 (cognitive impairment) vs. 83.83 \b1 5.56 (cognition normal), P<0.05"
+        },
+        {
+          "biomarker_name": "3MS score",
+          "activity_context": "Cognitive impairment vs. cognition normal in diabetics with vitamin D sufficiency",
+          "direction_of_change": "Lower in cognitive impairment group",
+          "magnitude_quantification": "Mean 36.50 \b1 4.60 (cognitive impairment) vs. 43.86 \b1 11.81 (cognition normal), statistically significant"
+        },
+        {
+          "biomarker_name": "3MS score",
+          "activity_context": "Cognitive impairment vs. cognition normal in non-diabetics with vitamin D insufficiency",
+          "direction_of_change": "Lower in cognitive impairment group",
+          "magnitude_quantification": "Mean 39.90 \b1 21.88 (cognitive impairment) vs. 84.00 \b1 3.60 (cognition normal), statistically significant"
+        },
+        {
+          "biomarker_name": "3MS score",
+          "activity_context": "Cognitive impairment vs. cognition normal in non-diabetics with vitamin D sufficiency",
+          "direction_of_change": "Lower in cognitive impairment group",
+          "magnitude_quantification": "Mean 47.26 \b1 19.46 (cognitive impairment) vs. 86.38 \b1 3.94 (cognition normal), statistically significant"
+        },
+        {
+          "biomarker_name": "GPx levels",
+          "activity_context": "Cognitive impairment vs. cognition normal in non-diabetics with vitamin D insufficiency",
+          "direction_of_change": "Higher in cognition impaired subjects",
+          "magnitude_quantification": "Mean 100.37 \b1 83.33 (cognition impaired) vs. 59.87 \b1 40.32 (cognition normal), statistically significant"
+        },
+        {
+          "biomarker_name": "FBS (Fasting Blood Sugar)",
+          "activity_context": "Correlation with 3MS Score in vitamin D insufficient non-diabetics",
+          "direction_of_change": "Negative correlation",
+          "magnitude_quantification": "R = -0.323"
+        },
+        {
+          "biomarker_name": "GPx",
+          "activity_context": "Correlation with 3MS Score in vitamin D insufficient non-diabetics",
+          "direction_of_change": "Negative correlation",
+          "magnitude_quantification": "R = -0.384, p<0.05"
+        }
+      ],
+      "molecular_mechanism_and_relationship": {
+        "activity_type_context": "Cognitive disorders (including Alzheimer\b9s disease, cognitive impairment, and dementia), Type-2 diabetes mellitus (T2DM), serum vitamin D deficiency, and oxidative stress (OS) are key contexts. Vitamin D also exhibits neuroprotective, antioxidant, and immunomodulatory functions.",
+        "mechanism_description": "Impaired glucose metabolism, insulin resistance, vitamin-D deficiency, and oxidative stress are early events in the pathogenesis of cognitive disorders, including Alzheimer\b9s disease (AD). AD is characterized by amyloid beta (A\b2) peptide accumulation and neurofibrillary tangles, alongside impaired glucose metabolism, insulin resistance, altered insulin signaling, mitochondrial dysfunction, and oxidative stress. Vitamin D stimulates amyloid plaque clearance, reduces amyloid-induced cytotoxicity, apoptosis, and inflammation. 25-dihydroxyvitamin D inhibits pro-inflammatory cytokines (e.g., TNF-\b1), regulates NF-\b2B, and suppresses TLR-2/-4, thereby reducing insulin resistance and diabetes risk. Insulin resistance and oxidative stress are common factors in T2DM and vitamin D deficiency, leading to cognitive dysfunction. Oxidative stress, resulting from an imbalance in ROS production and removal, contributes to AD pathogenesis, insulin resistance, and diabetic complications. Vitamin D receptors in the central nervous system influence neurogenesis, calcium signaling, neurotrophic factor expression, amyloid-beta clearance, and prevent neurodegeneration. Vitamin D also acts as an antioxidant by inhibiting free radical formation and modulates pro- and anti-inflammatory cytokines (e.g., TNF-\b1, IL-6, IL-12) from peripheral mononuclear cells, which can induce CNS neuro-inflammation and cognitive dysfunction.",
+        "related_biomarkers": [
+          "fasting blood sugar (FBS)",
+          "fasting serum insulin (FSI)",
+          "glycated haemoglobin (HbA1c)",
+          "lipid profile",
+          "vitamin D",
+          "Glutathione peroxidase (GPx)",
+          "superoxide dismutase (SOD)",
+          "amyloid beta (A\b2)",
+          "neurofibrillary tangles (NFTs)",
+          "glucose",
+          "insulin",
+          "25(OH)D",
+          "pro-inflammatory cytokines",
+          "TNF-\b1",
+          "nuclear factor (NF)- \b2 B",
+          "toll-like receptors (TLR)-2",
+          "toll-like receptors (TLR)-4",
+          "reactive oxygen species (ROS)",
+          "Homeostatic model assessment-insulin resistance (HOMA-IR)",
+          "triglycerides",
+          "HDL-Cholesterol",
+          "LDL-Cholesterol",
+          "Cholesterol",
+          "thiobarbituric acid reacting substances (TBARS)",
+          "IL-6",
+          "IL-12"
+        ]
+      },
+      "dose_intensity_and_specificity": {
+        "dose_comparison_summary": "The study compared subjects based on vitamin D insufficiency and sufficiency, as well as diabetic vs. non-diabetic status. Among diabetics with vitamin D insufficiency, 71.43% experienced cognitive impairment, compared to 62.79% among non-diabetics with vitamin D insufficiency. A 7-year follow-up study noted a strong association between elevated vitamin D intake and a lower risk of developing AD in older women. While comparisons were made between diabetic and non-diabetic groups (based on HbA1c), no dose-response effect of vitamin D therapy was observed in this study. Furthermore, previous studies cited found no significant differences in cognitive outcomes between high-dose vs. low-dose vitamin D therapy in T2DM patients, nor significant improvements with vitamin D supplementation vs. placebo in young adults.",
+        "specificity_finding": "Overall, no significant association was found between diabetes, vitamin D insufficiency, and cognitive impairment. However, a significant association was specifically identified between Glutathione peroxidase (GPx) and 3MSE score in vitamin D insufficient non-diabetics. It was also noted that anti-oxidative parameters in peripheral circulation (like SOD, GPx, and total anti-oxidative activity of serum) are likely not accurate reflections of oxidative stress conditions in the brain."
+      },
+      "clinical_implication_and_population": {
+        "target_population": "The study focused on elderly patients with and without Type 2 Diabetes Mellitus (T2DM) with a mean age of 68.24\b19.70 years (51 males, 94 females), drawn from a larger population of 145 participants aged 43\b190 years from an outpatient department. This included Indians above 60 years affected by dementia, elderly people affected by AD, older women in vitamin D intake studies, and individuals with and without vitamin D insufficiency/sufficiency experiencing cognitive impairment. Other referenced populations include older adults with mild cognitive impairment and young adults.",
+        "health_implication": "Cognitive impairment is more predominant in individuals with diabetes, as T2DM is a known contributing factor to cognitive impairment and dementia. Cognitive disorders are increasing globally. Lower 25(OH)D levels are associated with an increased risk of cognitive impairment. Conversely, elevated vitamin D intake is linked to a lower risk of developing AD and can mitigate insulin resistance and T2DM. Lower 3MS scores consistently indicate cognitive impairment across various diabetic and vitamin D status groups. Higher GPx and FBS levels negatively correlate with 3MS scores in vitamin D insufficient non-diabetics, suggesting a link to worse cognitive function.",
+        "risk_classification": "Individuals with T2DM and lower 25(OH)D levels face an increased or adverse risk of cognitive impairment and dementia. Elevated vitamin D intake is associated with a protective benefit against AD risk. The 3MS score holds diagnostic utility for identifying cognitive impairment. Diabetes is considered a risk factor for cognitive impairment, and higher GPx and FBS levels serve as risk markers associated with worse cognition in specific non-diabetic groups."
+      },
+      "biomarker_reliability_and_future_focus": {
+        "reliability_assessment": "The study broadly found no significant relationship between T2DM, vitamin D deficiency, cognitive impairment, and oxidative stress. Although Glutathione peroxidase (GPx) and superoxide dismutase (SOD) levels were non-significantly lower in cognition-impaired diabetics with vitamin D insufficiency, a significant association was specifically noted between GPx and 3MSE score in vitamin D insufficient non-diabetics. The modified mini mental status (3MS) test is considered a widely used and validated neuropsychological test for assessing cognitive function and screening for dementia. However, peripheral anti-oxidative parameters (such as SOD, GPx, and total anti-oxidative activity of serum) are considered poor indicators for reflecting oxidative stress conditions in the brain.",
+        "recommended_alternatives": [
+          "Inflammatory markers (e.g., TNF-\b1, IL-6, IL-12) to investigate their role in CNS neuro-inflammation and cognitive dysfunction."
+        ]
+      }
+    }
+  }
+]

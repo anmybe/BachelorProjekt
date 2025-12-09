@@ -1,0 +1,165 @@
+[
+  {
+    "title": "pmc PLoS One PLoS One plos PLoS ONE 1932-6203 Public Library of Science San Francisco, CA USA 8975111 10.1371/journal.pone.0265619 PONE-D-21-29236 Research Article Biology and Life Sciences Genetics Gene Expression Medicine and Health Sciences Endocrinology Endocrine Disorders Diabetes Mellitus Medicine and Health Sciences Medical Conditions Metabolic Disorders Diabetes Mellitus Biology and Life Sciences Anatomy Body Fluids Blood Medicine and Health Sciences Anatomy Body Fluids Blood Biology and Life Sciences Physiology Body Fluids Blood Biology and Life Sciences Biochemistry Biomarkers Creatinine Biology and Life Sciences Anatomy Body Fluids Urine Medicine and Health Sciences Anatomy Body Fluids Urine Biology and Life Sciences Physiology Body Fluids Urine Medicine and Health Sciences Diagnostic Medicine Clinical Laboratory Sciences Clinical Laboratories Biology and Life Sciences Biochemistry Biomarkers Physical Sciences Chemistry Chemical Compounds Organic Compounds Urea Physical Sciences Chemistry Organic Chemistry Organic Compounds Urea The role of CDH2 and MCP-1 mRNAs of blood extracellular vesicles in predicting early-stage diabetic nephropathy Extracellular vesicles as biomarkers of diabetic nephropathy https://orcid.org/0000-0003-1057-0309 Dehghanbanadaki Hojat Data curation Formal analysis Methodology Writing \u2013 original draft 1 2 Forouzanfar Katayoon Conceptualization Resources 3 Kakaei Ardeshir Investigation Methodology 2 Zeidi Samaneh Conceptualization Methodology 1 4 Salehi Negar Conceptualization Visualization 1 4 Arjmand Babak Project administration Resources Supervision 3 5 Razi Farideh Conceptualization Formal analysis Supervision Validation Visualization Writing \u2013 original draft 1 6 * https://orcid.org/0000-0001-5713-4876 Hashemi Ehsan Conceptualization Investigation Methodology Writing \u2013 original draft 1 4 * 1 Diabetes Research Center, Endocrinology and Metabolism Clinical Sciences Institute, Tehran University of Medical Sciences, Tehran, Iran 2 Metabolomics and Genomics Research Center, Endocrinology and Metabolism Molecular\u2013Cellular Sciences Institute, Tehran University of Medical Sciences, Tehran, Iran 3 Metabolic Disorders Research Center, Endocrinology and Metabolism Molecular-Cellular Sciences Institute, Tehran University of Medical Sciences, Tehran, Iran 4 Department of Animal Biotechnology, National Institute of Genetic Engineering and Biotechnology, Tehran, Iran 5 Cell Therapy and Regenerative Medicine Research Center, Endocrinology and Metabolism Molecular\u2013Cellular Sciences Institute, Tehran University of Medical Sciences, Tehran, Iran 6 Endocrinology and Metabolism Research Center, Endocrinology and Metabolism Clinical Sciences Institute, Tehran University of Medical Sciences, Tehran, Iran Abdel Ghafar Muhammad Tarek Editor Tanta University Faculty of Medicine, EGYPT Competing Interests: The authors have declared that no competing interests exist. * E-mail: F-razi@tums.ac.ir (FR); E_hashemi@nigeb.ac.ir (EH) 1 4 2022 2022 17 4 e0265619 9 9 2021 4 3 2022 \u00a9 2022 Dehghanbanadaki et al 2022 Dehghanbanadaki et al https://creativecommons.org/licenses/by/4.0/ This is an open access article distributed under the terms of the Creative Commons Attribution License , which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited. Background Extracellular vesicles (EVs), including exosomes and microvesicles, are involved in intercellular communication by transferring biomolecules such as mRNA, which has been shown to be as essential biomarkers for many physiological and pathological conditions such as diabetic nephropathy (DN). This study aimed to investigate the expression of CDH1, CDH2, MCP-1, and PAI-1 mRNAs in blood EVs of DN patients and to determine their accuracy in predicting early-stage DN. Methods We recruited 196 participants, including 35 overt DN patients, 53 incipient DN patients, 62 diabetic patients (DM), and 46 healthy individuals. Quantification of the mRNA profile of blood EVs was performed using the qRT-PCR method. The diagnostic performance of mRNA was evaluated using receiver operating characteristic analysis. Results The mRNA expression of CDH2 and MCP-1 was downregulated in overt DN group (0.22-fold change and 0.15-fold change, respectively) and incipient DN group (0.60-fold change and 0.43-fold change, respectively) compared to DM group (1.72-fold change and 2.77-fold change, respectively), while PAI-1 mRNA expression decreased in incipient DN group (0.70-fold change) and DM group (0.58-fold change) compared to control. However, the expression level of CDH1 mRNA was not significantly different among the four groups ( p = 0.408). Moreover, CDH2 and MCP-1 mRNAs inversely correlated with creatinine (r = -0.370 and r = -0.361, p <0.001) and Alb/Cr ratio (r = -0.355 and r = -0.297, p <0.001). 1/CDH2 mRNA also predicted overt DN with an accuracy of 0.75 (95%CI: 0.65\u20130.85) and incipient DN with an accuracy of 0.61 (95%CI: 0.50\u20130.71) while 1/MCP-1 mRNA had an accuracy of 0.66 (95%CI: 0.55\u20130.77) for overt DN prediction and an accuracy of 0.61 (95%CI: 0.51\u20130.71) for incipient DN prediction. Conclusion CDH2 and MCP-1 mRNAs expression in blood EVs was decreased with the development of DN, suggesting the renoprotective effect of these mRNAs in diabetic individuals. Moreover, their quantifications could serve as diagnostic biomarkers for early-stage DN. The authors received no specific funding for this work. Data Availability All relevant data are within the paper and its Supporting information files. Data Availability All relevant data are within the paper and its Supporting information files.",
+    "document_source_id": "35363774",
+    "analysis_date": "2025-12-04",
+    "extracted_data": {
+      "core_effect_and_quantification": [
+        {
+          "biomarker_name": "CDH2 mRNA (in blood EVs)",
+          "activity_context": "overt DN",
+          "direction_of_change": "downregulated",
+          "magnitude_quantification": "0.22-fold change compared to DM group, significantly downregulated (p<0.001 vs DM/control, p=0.013 vs incipient DN); more downregulated compared to incipient DN and DM patients; 1/CDH2 mRNA showed diagnostic accuracy of 0.75 (95%CI: 0.65\u20130.85, p < 0.001), sensitivity 74.3%, specificity 69.4% at cutoff 2.14"
+        },
+        {
+          "biomarker_name": "CDH2 mRNA (in blood EVs)",
+          "activity_context": "incipient DN",
+          "direction_of_change": "downregulated",
+          "magnitude_quantification": "0.60-fold change compared to DM group, significantly downregulated (p=0.042 vs DM); 1/CDH2 mRNA showed diagnostic accuracy of 0.61 (95%CI: 0.50\u20130.71, p = 0.038), sensitivity 37.7%, specificity 83.9% at cutoff 3.47"
+        },
+        {
+          "biomarker_name": "CDH2 mRNA level",
+          "activity_context": "all participants",
+          "direction_of_change": "inversely correlated",
+          "magnitude_quantification": "Spearman correlation coefficient = -0.183 with HbA1c (p = 0.012), -0.152 with urea (p = 0.035), -0.370 with creatinine (p < 0.001), and -0.355 with urine Alb/Cr ratio (p < 0.001)"
+        },
+        {
+          "biomarker_name": "MCP-1 mRNA (in blood EVs)",
+          "activity_context": "overt DN",
+          "direction_of_change": "downregulated",
+          "magnitude_quantification": "0.15-fold change compared to DM group, significantly downregulated (p=0.002 vs DM/control); 1/MCP-1 mRNA showed diagnostic accuracy of 0.66 (95%CI: 0.55\u20130.77, p = 0.007), sensitivity 57.1%, specificity 74.2% at cutoff >= 5.89"
+        },
+        {
+          "biomarker_name": "MCP-1 mRNA (in blood EVs)",
+          "activity_context": "incipient DN",
+          "direction_of_change": "downregulated",
+          "magnitude_quantification": "0.43-fold change compared to DM group, significantly downregulated (p=0.008 vs DM, p=0.001 vs control); 1/MCP-1 mRNA showed diagnostic accuracy of 0.61 (95%CI: 0.51\u20130.71, p = 0.035), sensitivity 69.8%, specificity 61.3% at cutoff >= 0.61"
+        },
+        {
+          "biomarker_name": "MCP-1 mRNA (in blood EVs)",
+          "activity_context": "DM group",
+          "direction_of_change": "upregulated",
+          "magnitude_quantification": "p = 0.017 compared to control"
+        },
+        {
+          "biomarker_name": "MCP-1 mRNA level",
+          "activity_context": "all participants",
+          "direction_of_change": "inversely/negatively correlated",
+          "magnitude_quantification": "Spearman correlation coefficient = -0.361 with creatinine (p < 0.001) and -0.297 with urine Alb/Cr ratio (p < 0.001)"
+        },
+        {
+          "biomarker_name": "PAI-1 mRNA (in blood EVs)",
+          "activity_context": "incipient DN group",
+          "direction_of_change": "decreased/lower expression",
+          "magnitude_quantification": "0.70-fold change compared to control (p = 0.011)"
+        },
+        {
+          "biomarker_name": "PAI-1 mRNA (in blood EVs)",
+          "activity_context": "DM group",
+          "direction_of_change": "decreased/lower expression",
+          "magnitude_quantification": "0.58-fold change compared to control (p = 0.003)"
+        },
+        {
+          "biomarker_name": "CDH1 mRNA (in blood EVs)",
+          "activity_context": "among four groups (overt DN, incipient DN, DM, healthy controls)",
+          "direction_of_change": "not significantly different",
+          "magnitude_quantification": "p = 0.408"
+        },
+        {
+          "biomarker_name": "Cadherin 1 (CDH1) mRNA",
+          "activity_context": "Diabetic Nephropathy (DN) patients vs healthy controls (urine pellet)",
+          "direction_of_change": "increased",
+          "magnitude_quantification": "significantly increased"
+        },
+        {
+          "biomarker_name": "Exosomal Wilm\nR\nD\ts tumor-1 (WT1) mRNA",
+          "activity_context": "Diabetic Nephropathy (DN) patients (urine sediment)",
+          "direction_of_change": "inversely associated",
+          "magnitude_quantification": "inversely associated with estimated glomerular filtration rate (eGFR); accuracy of 0.705 for predicting DN"
+        },
+        {
+          "biomarker_name": "Angiotensin I-converting enzyme (ACE) mRNA",
+          "activity_context": "Diabetic Nephropathy (DN) patients vs healthy controls (urine pellet)",
+          "direction_of_change": "increased",
+          "magnitude_quantification": "significantly increased"
+        },
+        {
+          "biomarker_name": "Fasting Blood Sugar (FBS)",
+          "activity_context": "Overt DN, Incipient DN, DM vs Controls; Overt DN vs DM",
+          "direction_of_change": "higher",
+          "magnitude_quantification": "p \":\\u2264\" 0.001 for DN/DM vs Controls; p = 0.022 for Overt DN vs DM"
+        },
+        {
+          "biomarker_name": "HbA1c",
+          "activity_context": "Overt DN, Incipient DN, DM vs Controls; Overt DN vs DM",
+          "direction_of_change": "higher",
+          "magnitude_quantification": "p < 0.001 for DN/DM vs Controls; p = 0.002 for Overt DN vs DM"
+        },
+        {
+          "biomarker_name": "Urea",
+          "activity_context": "Overt DN vs DM/Control; Incipient DN vs Control",
+          "direction_of_change": "higher",
+          "magnitude_quantification": "p < 0.001 for Overt DN vs DM/Control; p < 0.001 for Incipient DN vs Control"
+        },
+        {
+          "biomarker_name": "Creatinine",
+          "activity_context": "Overt DN vs Incipient DN/DM/Control; Incipient DN vs DM",
+          "direction_of_change": "higher",
+          "magnitude_quantification": "p = 0.044 for Overt DN vs Incipient DN; p < 0.001 for Overt DN vs DM/Control; p = 0.001 for Incipient DN vs DM"
+        },
+        {
+          "biomarker_name": "Urine Albumin/Creatinine (Alb/Cr) ratio",
+          "activity_context": "Overt DN/Incipient DN vs DM/Control; Overt DN vs Incipient DN",
+          "direction_of_change": "higher",
+          "magnitude_quantification": "p \">= 0.040 for Overt/Incipient DN vs DM/Control; p < 0.001 for Overt DN vs Incipient DN\""
+        }
+      ],
+      "molecular_mechanism_and_relationship": {
+        "activity_type_context": "Diabetic nephropathy (DN) development and progression; Diabetic Mellitus (DM) complications; renal fibrosis detection; early-stage DN prediction",
+        "mechanism_description": "Extracellular vesicles (EVs), including exosomes and microvesicles, are involved in intercellular communication by transferring biomolecules like mRNA, contributing to disease development. CDH1 and CDH2 genes produce calcium-dependent adhesion proteins essential for intercellular adhesion, with abnormal expression leading to diseases including DN. MCP-1 gene produces chemokines crucial for regulating monocyte/macrophage trafficking in inflammation, and its abnormal expression contributes to DN. PAI-1 gene (SERPINE1) produces plasminogen activator inhibitor 1, involved in hemostasis, cell motility, and adhesion; its abnormal expression leads to DN and cardiovascular disease due to DM. Decreased expression of CDH2 and MCP-1 mRNAs in blood EVs with DN development suggests a renoprotective effect of these mRNAs in diabetic individuals, with their decline contributing to DN progression and impaired kidney function.",
+        "related_biomarkers": [
+          "Creatinine",
+          "Alb/Cr ratio",
+          "Exosomal Wilm\nR\nD\ts tumor-1 (WT1) mRNA",
+          "Cadherin 1 (CDH1) mRNA",
+          "Cadherin 2 (CDH2) mRNA",
+          "Monocyte chemoattractant protein-1 (MCP-1) mRNA",
+          "Plasminogen activator inhibitor-1 (PAI-1) mRNA",
+          "Angiotensin I-converting enzyme (ACE) mRNA",
+          "HbA1c",
+          "urea",
+          "extracellular vesicles (EV)",
+          "exosomes",
+          "microvesicles",
+          "CDH1",
+          "CDH2",
+          "MCP",
+          "PAI"
+        ]
+      },
+      "dose_intensity_and_specificity": {
+        "dose_comparison_summary": "Downregulation of CDH2 and MCP-1 mRNAs is progression-dependent, being more pronounced in overt DN (0.22-fold and 0.15-fold change vs DM, respectively) compared to incipient DN (0.60-fold and 0.43-fold change vs DM, respectively). CDH2 mRNA expression was lowest in the overt DN group, followed by incipient DN, then DM and control. MCP-1 mRNA was lowest in overt DN and incipient DN compared to DM and control. Overt DN and incipient DN groups consistently showed higher levels of clinical markers (FBS, HbA1c, urea, creatinine, urine Alb/Cr ratio) compared to DM and/or healthy control groups, with overt DN demonstrating the highest levels, indicating disease stage-dependent changes in these parameters.",
+        "specificity_finding": "CDH1 mRNA expression in blood EVs showed no significant difference among the four groups (p = 0.408), indicating specificity of CDH2, MCP-1, and PAI-1 as biomarkers for DN stages. The study specifically investigated CDH1, CDH2, MCP-1, and PAI-1 mRNAs derived from blood extracellular vesicles (EVs), distinguishing its findings from previous research that examined these mRNAs in urinary sediment or urine EVs. CDH2 and MCP-1 mRNAs of blood EVs were found to have a role in predicting early-stage diabetic nephropathy, while CDH1 and PAI-1 mRNAs derived from blood EVs did not show the same utility. Isolated EVs were characterized with a size range of 80-152 nm. Current clinical diagnosis of DN based on albuminuria lacks sufficient sensitivity and specificity for predicting early-stage DN and its progression. 1/CDH2 mRNA showed a diagnostic specificity of 69.4% for overt DN detection."
+      },
+      "clinical_implication_and_population": {
+        "target_population": "Diabetic patients, specifically those with incipient or overt diabetic nephropathy (early stages of DN, characterized by micro/macroalbuminuria and normal eGFR), and type 2 diabetes mellitus (DM) patients, aged 30-75 years with eGFR \">= 60 mL/min/1.73 m2, without major comorbidities like cardiovascular disease or severe liver failure. Also includes healthy controls.",
+        "health_implication": "Diabetic nephropathy (DN) is a major microvascular complication of diabetes, a leading cause of renal failure, and significantly increases cardiovascular morbidity and mortality. Early diagnosis and treatment are critical for managing these severe health risks and are a global public health issue. Downregulation of CDH2 and MCP-1 mRNAs in blood EVs serves as a diagnostic marker for the early detection of diabetic nephropathy, offering potential insights into the underlying mechanisms of DN progression, which could lead to alternative approaches for its prevention, prognosis, and treatment. Their downregulation correlates with impaired kidney function and can be useful for monitoring disease progression and therapy response.",
+        "risk_classification": "Diagnostic utility for early-stage DN and overt DN; utility for risk stratification and monitoring disease progression; decreased levels of CDH2 and MCP-1 mRNAs suggest disease progression and loss of renoprotective effect, indicating potential protective benefit."
+      },
+      "biomarker_reliability_and_future_focus": {
+        "reliability_assessment": "CDH2 and MCP-1 mRNAs in blood EVs demonstrate diagnostic performance for early-stage DN, with accuracies ranging from 0.61 to 0.75 in predicting incipient and overt DN, sensitivities 37.7%-74.3%, and specificities 61.3%-83.9%. They showed 'excellent diagnostic ability' to discriminate DN from DM and inverse correlation with established clinical markers (serum creatinine and albuminuria), enhancing reliability. The statistical studies were assessed as 'very good'. However, limitations include its cross-sectional design (precluding causal interpretations), demographic differences between study groups, reliance on albuminuria for DN diagnosis instead of the gold standard renal biopsy, and lack of examination of medications. The study also noted no significant correlation between eGFR and CDH2/MCP-1 mRNA expression, possibly due to all participants having normal eGFR, indicating a need for confirmation in future studies with varying eGFR levels. Current clinical diagnosis using albuminuria lacks sufficient sensitivity and specificity for early-stage DN prediction. The manuscript was deemed technically sound, and data supporting conclusions were accepted after revisions. The concept of 'guaranteed sensitivity' was questioned.",
+        "recommended_alternatives": [
+          "Extracellular vesicles (EVs)",
+          "Exosomal Wilm\nR\nD\ts tumor-1 (WT1) mRNA",
+          "Cadherin 1 (CDH1) mRNA",
+          "Cadherin 2 (CDH2) mRNA",
+          "Monocyte chemoattractant protein-1 (MCP-1) mRNA",
+          "Plasminogen activator inhibitor-1 (PAI-1) mRNA",
+          "Angiotensin I-converting enzyme (ACE) mRNA",
+          "New sensitive laboratory biomarkers (potentially in combination with conventional biomarkers)",
+          "Further mRNA profiling of blood EVs to uncover new molecular pathways"
+        ]
+      }
+    }
+  }
+]

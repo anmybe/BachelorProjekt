@@ -1,0 +1,117 @@
+[
+  {
+    "title": "Int J Oncol Int. J. Oncol IJO International Journal of Oncology 1019-6439 1791-2423 D.A. Spandidos 3898720 24270800 10.3892/ijo.2013.2185 ijo-44-02-0600 Articles Molecular changes in bone marrow, tumor and serum after conductive ablation of murine 4T1 breast carcinoma PRZYBYLA BEATA D. 1 SHAFIRSTEIN GAL 3 VISHAL SAGAR J. 2 DENNIS RICHARD A. 4 GRIFFIN ROBERT J. 1 1 Department of Radiation Oncology, University of Arkansas for Medical Science, Little Rock, AR; 2 College of Medicine, University of Arkansas for Medical Science, Little Rock, AR; 3 Department of Cell Stress Biology and Otolaryngology, Roswell Park Cancer Institute, Buffalo, NY; 4 Geriatric Research Education and Clinical Center, Central Arkansas Veteran Healthcare System, Little Rock, AR, USA Correspondence to: Dr Beata D. Przybyla, Department of Radiation Oncology, University of Arkansas for Medical Sciences, Little Rock, 4301 West Markham Street, AR 72205, USA, E-mail: bea.przybyla@gmail.com 2 2014 21 11 2013 21 11 2013 44 2 600 608 06 9 2013 23 10 2013 Copyright \u00a9 2014, Spandidos Publications 2014 This is an open-access article licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License. The article may be redistributed, reproduced, and reused for non-commercial purposes, provided the original source is properly cited. Thermal ablation of solid tumors using conductive interstitial thermal therapy (CITT) produces coagulative necrosis in the center of ablation. Local changes in homeostasis for surviving tumor and systemic changes in circulation and distant organs must be understood and monitored in order to prevent tumor re-growth and metastasis. The purpose of this study was to use a mouse carcinoma model to evaluate molecular changes in the bone marrow and surviving tumor after CITT treatment by quantification of transcripts associated with cancer progression and hyperthermia, serum cytokines, stress proteins and the marrow/tumor cross-talk regulator stromal-derived factor 1. Analysis of 27 genes and 22 proteins with quantitative PCR, ELISA, immunoblotting and multiplex antibody assays revealed that the gene and protein expression in tissue and serum was significantly different between ablated and control mice. The transcripts of four genes (Cxcl12, Sele, Fgf2, Lifr) were significantly higher in the bone marrow of treated mice. Tumors surviving ablation showed significantly lower levels of the Lifr and Sele transcripts. Similarly, the majority of transcripts measured in tumors decreased with treatment. Surviving tumors also contained lower levels of SDF-1\u03b1 and HIF-1\u03b1 proteins whereas HSP27 and HSP70 were higher. Of 16 serum chemokines, IFN\u03b3 and GM-CSF levels were lower with treatment. These results indicate that CITT ablation causes molecular changes which may slow cancer cell proliferation. However, inhibition of HSP27 may be necessary to control aggressiveness of surviving cancer stem cells. The changes in bone marrow are suggestive of possible increased recruitment of circulatory cancer cells. Therefore, the possibility of heightened bone metastasis after thermal ablation needs to be further investigated and inhibition strategies developed, if warranted. thermal ablation 4T1 tumors bone marrow gene expression SDF1 HSP27 HSP70 Esele Cxcl12 Fgf2 Lifr cytokines Introduction Thermal ablation therapy destroys cancer cells by delivering electromagnetic or acoustic energy [e.g. radiofrequency ( 1 ), laser ( 2 ), or focused ultrasound ( 3 )] that is converted to heat in the target tissue. The therapy raises the temperature of the ablation site to between 56 and 100\u00b0C which results in irreversible damage by coagulation necrosis. Preclinical study with conductive interstitial thermal therapy (CITT) ( 4 ), ( 5 ) has demonstrated decreased metastasis in rabbits with VX2 tumors ( 6 ) and the reduction of hypoxia in tumor tissue surviving partial CITT ablation of murine breast carcinoma ( 7 ). Investigating the molecular changes associated with CITT and with other thermal ablation therapies may identify biomarkers that facilitate development of methods for monitoring and predicting the potential for therapy-associated enhancement of tumor re-growth, and metastasis. Histological analysis of thermal ablation lesions in animal models has revealed three regions. The central region is adjacent to the ablation (i.e. area of probe insertion, or focus of ultrasound) and contains necrotic tumor tissue. Massive tumor debris appears to result in release of immunogenic factors ( 8 ). Adjacent to necrotic area is a coagulation margin that defines a sharp transition zone between necrotic and viable tissue. This highly hypoxic region was shown to be a site of accelerated tumor re-growth after radiofrequency ablation ( 9 ). A third region is more distant from the center of heat delivery and contains viable tumor tissue. In this region, we observed decreased hypoxia 72 h after CITT ablation ( 7 ). Thus, lesions of ablated tumor appear to possess areas with different properties that may have the potential to initiate induction of tumor re-growth (undesirable effect), stimulate antitumor immunity and decrease hypoxia (desirable effects). Our research is interested in the mechanisms by which thermal tumor ablation affects communication between tumor tissue, bone marrow and sites of metastasis. Recent progress in understanding tumor biology has revealed crucial roles for the bone marrow in carcinogenesis, tumor growth and metastasis. Cytokines and growth factors secreted by tumor into circulation stimulate release of a variety of cells from bone marrow. These molecules contribute to tumor growth, vascularization, and regulation of immune cells in the tumor microenvironment ( 10 , 11 ). However, little is known about the effects of thermal ablation upon the interactions between tumors, bone marrow, and site of metastasis. Thus, characterization of the molecules that potentially mediate these communications in the context of tumor growth and treatment would be an important step towards understanding the mechanisms underlying different outcomes of thermal tumor ablation. The study presented here reports the preliminary results of quantitative analysis of gene expression and protein levels for serum, marrow and surviving tumor collected 72 h after partial ablation of 4T1 carcinoma in BALB/c mice. The CITT treatment protocol was designed to result in only partial tumor ablation to enable characterization of the remaining surviving tumor tissue. The study hypothesized that tumor ablation would broadly affect gene expression ( Table I ) and protein ( Table II ) levels for molecules involved in cell signaling, proliferation, adhesion, angiogenesis and stress response. Candidate molecules were chosen due to evidence in the literature for their role in breast tumor development and spreading, bone marrow homeostasis and tumor responses to thermal stress ( 12 \u2013 16 ).",
+    "document_source_id": "24270800",
+    "analysis_date": "2025-11-14",
+    "extracted_data": {
+      "core_effect_and_quantification": [
+        {
+          "biomarker_name": "Cxcl12",
+          "activity_context": "bone marrow after CITT thermal ablation of murine 4T1 breast carcinoma",
+          "direction_of_change": "higher",
+          "magnitude_quantification": "2 to 2.5-fold higher (P<0.05)"
+        },
+        {
+          "biomarker_name": "Sele",
+          "activity_context": "bone marrow after CITT thermal ablation of murine 4T1 breast carcinoma",
+          "direction_of_change": "higher",
+          "magnitude_quantification": "2 to 2.5-fold higher (P<0.05)"
+        },
+        {
+          "biomarker_name": "Fgf2",
+          "activity_context": "bone marrow after CITT thermal ablation of murine 4T1 breast carcinoma",
+          "direction_of_change": "higher",
+          "magnitude_quantification": "2 to 2.5-fold higher (P<0.05)"
+        },
+        {
+          "biomarker_name": "Lifr",
+          "activity_context": "bone marrow after CITT thermal ablation of murine 4T1 breast carcinoma",
+          "direction_of_change": "higher",
+          "magnitude_quantification": "2 to 2.5-fold higher (P<0.05)"
+        },
+        {
+          "biomarker_name": "Lifr",
+          "activity_context": "surviving tumor tissue after CITT thermal ablation of murine 4T1 breast carcinoma",
+          "direction_of_change": "lower",
+          "magnitude_quantification": "~60% as high as control tumors (P<0.05)"
+        },
+        {
+          "biomarker_name": "Sele",
+          "activity_context": "surviving tumor tissue after CITT thermal ablation of murine 4T1 breast carcinoma",
+          "direction_of_change": "lower",
+          "magnitude_quantification": "~60% as high as control tumors (P<0.05)"
+        },
+        {
+          "biomarker_name": "SDF-1\u03b1",
+          "activity_context": "surviving tumor tissue after CITT thermal ablation of murine 4T1 breast carcinoma",
+          "direction_of_change": "lower",
+          "magnitude_quantification": "0.071\u00b10.016 pg/\u00b5g versus 0.113\u00b10.017 pg/\u00b5g (P<0.05)"
+        },
+        {
+          "biomarker_name": "HIF-1\u03b1",
+          "activity_context": "surviving tumor tissue after CITT thermal ablation of murine 4T1 breast carcinoma",
+          "direction_of_change": "lower",
+          "magnitude_quantification": "consistently lower"
+        },
+        {
+          "biomarker_name": "HSP27",
+          "activity_context": "surviving tumor tissue after CITT thermal ablation of murine 4T1 breast carcinoma",
+          "direction_of_change": "higher",
+          "magnitude_quantification": "higher for all individual samples"
+        },
+        {
+          "biomarker_name": "HSP70",
+          "activity_context": "surviving tumor tissue after CITT thermal ablation of murine 4T1 breast carcinoma",
+          "direction_of_change": "higher",
+          "magnitude_quantification": "higher for all individual samples"
+        },
+        {
+          "biomarker_name": "IFN\u03b3",
+          "activity_context": "serum after CITT thermal ablation of murine 4T1 breast carcinoma",
+          "direction_of_change": "lower",
+          "magnitude_quantification": "significantly lower (P<0.05)"
+        },
+        {
+          "biomarker_name": "GM-CSF",
+          "activity_context": "serum after CITT thermal ablation of murine 4T1 breast carcinoma",
+          "direction_of_change": "lower",
+          "magnitude_quantification": "significantly lower (P<0.05)"
+        }
+      ],
+      "molecular_mechanism_and_relationship": {
+        "activity_type_context": "Conductive interstitial thermal therapy (CITT) for murine 4T1 breast carcinoma",
+        "mechanism_description": "CITT ablation causes molecular changes that may initially slow cancer cell proliferation. However, alterations in bone marrow (higher Cxcl12, Sele, Fgf2, Lifr) suggest increased recruitment of circulatory cancer cells, which could lead to heightened bone metastasis, with E-selectin (Sele) potentially promoting adhesion and seeding, Fgf2 re-establishing mesenchymal cell maturation, Lifr influencing mesenchymal stromal cell maturation/differentiation, and Cxcl12 stimulating mobilization of hematopoietic cells and progenitors. In surviving tumors, lower levels of Lifr, Sele, SDF-1\u03b1, and HIF-1\u03b1 are observed; decreased SDF-1\u03b1 and HIF-1\u03b1 are consistent with reduced hypoxia, potentially inhibiting metastatic potential. Conversely, elevated HSP27 and HSP70 in surviving tumors indicate a stress response, but these proteins are associated with poor prognosis, metastasis, tumor growth, EMT, and chemo-resistance. Decreased Sele and Lifr in tumor tissue post-ablation might dampen tumor cell proliferation and metastasis. Decreased GM-CSF and IFN\u03b3 in serum, whose significance is unknown, may indicate reduced need for antitumor immune function, immunosuppression, or slowed tumor growth. Overall, CITT alters communication between marrow and tumor, and homeostasis in surviving tumors.",
+        "related_biomarkers": [
+          "Cxcl12",
+          "Sele",
+          "Fgf2",
+          "Lifr",
+          "SDF-1\u03b1",
+          "HIF-1\u03b1",
+          "HSP27",
+          "HSP70",
+          "IFN\u03b3",
+          "GM-CSF"
+        ]
+      },
+      "dose_intensity_and_specificity": {
+        "dose_comparison_summary": "The study investigated the effects of a single CITT ablation protocol (designed for partial tumor ablation, maintaining temperature within 80\u201390\u00b0C next to the probe and low to mid 40\u00b0C at the tumor periphery) compared to untreated control groups. No direct comparisons between different doses or intensities of CITT were reported. Ablation outcomes can vary by modality, operator techniques, and tumor site.",
+        "specificity_finding": "The observed molecular changes were specific to the CITT treatment of murine 4T1 breast carcinoma, affecting gene and protein expression in bone marrow, surviving tumor tissue, and serum in a tissue-dependent manner. For instance, Sele and Lifr gene effects were opposite in tumor tissue compared to bone marrow. The study did not investigate specificity related to varying types of sport, workload, disease stage, heat stress variations, or diet comparisons."
+      },
+      "clinical_implication_and_population": {
+        "target_population": "BALB/c mice with 4T1 mammary carcinoma, which serves as a syngeneic mouse model of human invasive breast cancer.",
+        "health_implication": "CITT ablation causes molecular changes that may initially slow cancer cell proliferation. However, significant alterations in bone marrow (e.g., increased Cxcl12, Sele, Fgf2, Lifr) are suggestive of increased recruitment of circulatory cancer cells, potentially promoting heightened bone metastasis and seeding premetastatic niches. Elevated HSP70 and HSP27 in surviving tumors are associated with poor prognosis, metastasis, tumor growth, EMT, and chemo-resistance. Conversely, decreased SDF-1\u03b1 and HIF-1\u03b1 in the tumor may inhibit metastatic potential, and thermal ablation appears to decrease local and systemic inflammation. Overall, characterizing these molecular changes helps in understanding tumor survival and informing future therapeutic strategies, particularly for incomplete treatments.",
+        "risk_classification": "Mixed: While CITT may slow cancer cell proliferation and reduce inflammation, it carries an adverse risk for promoting metastasis (due to bone marrow changes) and is associated with poor prognosis/chemo-resistance (due to increased HSPs in surviving tumor). The findings offer diagnostic utility for monitoring post-ablation molecular responses."
+      },
+      "biomarker_reliability_and_future_focus": {
+        "reliability_assessment": "Methodological quality controls, such as verifying RNA integrity (RIN >7) and optimizing primer concentrations for RT-PCR, were performed. However, the reliability or sensitivity of specific biomarkers as indicators of biological state was not explicitly assessed, though large inter-sample variability was noted for many serum cytokines. HSP27 is suggested as a potentially useful marker for treatment regimens but requires close monitoring due to its association with poor prognosis.",
+        "recommended_alternatives": [
+          "Additional pre-clinical studies are needed to define the functions and understand the pro- or anti-tumorigenic responses of Sele, Fgf2, Lifr, Cxcl12 in marrow, and SDF-1\u03b1, HIF-1\u03b1, HSP27, HSP70, Lifr, Sele in tumor.",
+          "Future studies are needed to determine the source, effects, and meaning of low serum GM-CSF and IFN\u03b3 levels.",
+          "General additional studies are needed to determine the influence of these changes on cell phenotype and their significance relative to cancer host or patient outcomes.",
+          "Inhibition strategies for HSP27 may be necessary to control aggressiveness of surviving cancer stem cells."
+        ]
+      }
+    }
+  }
+]

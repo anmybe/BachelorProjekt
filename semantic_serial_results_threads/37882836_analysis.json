@@ -1,0 +1,242 @@
+[
+  {
+    "title": "pmc Eur Radiol Eur Radiol European Radiology 0938-7994 1432-1084 Springer Berlin Heidelberg Berlin/Heidelberg 11045669 37882836 10215 10.1007/s00330-023-10215-z Neuro Simultaneous quantification of perfusion, permeability, and leakage effects in brain gliomas using dynamic spin-and-gradient-echo echoplanar imaging MRI http://orcid.org/0000-0003-3379-9958 Sanvito Francesco 1 2 3 Raymond Catalina 1 2 Cho Nicholas S. 1 2 4 5 Yao Jingwen 1 2 Hagiwara Akifumi 1 2 6 Orpilla Joey 7 Liau Linda M. 7 Everson Richard G. 7 Nghiemphu Phioanh L. 8 Lai Albert 8 Prins Robert 7 Salamon Noriko 2 Cloughesy Timothy F. 8 http://orcid.org/0000-0002-2764-6640 Ellingson Benjamin M. bellingson@mednet.ucla.edu 1 2 4 5 7 9 1 https://ror.org/046rm7j60 grid.19006.3e 0000 0001 2167 8097 UCLA Brain Tumor Imaging Laboratory (BTIL), Center for Computer Vision and Imaging Biomarkers, University of California Los Angeles, 924 Westwood Blvd, Los Angeles, CA 90024 USA 2 https://ror.org/046rm7j60 grid.19006.3e 0000 0001 2167 8097 Department of Radiological Sciences, David Geffen School of Medicine, University of California Los Angeles, 885 Tiverton Dr, Los Angeles, CA 90095 USA 3 https://ror.org/00s6t1f81 grid.8982.b 0000 0004 1762 5736 Unit of Radiology, Department of Clinical, Surgical, Diagnostic, and Pediatric Sciences, University of Pavia, Viale Camillo Golgi 19, 27100 Pavia, Italy 4 https://ror.org/046rm7j60 grid.19006.3e 0000 0001 2167 8097 Medical Scientist Training Program, David Geffen School of Medicine, University of California Los Angeles, 885 Tiverton Dr, Los Angeles, CA 90095 USA 5 https://ror.org/046rm7j60 grid.19006.3e 0000 0001 2167 8097 Department of Bioengineering, Henry Samueli School of Engineering and Applied Science, University of California Los Angeles, 7400 Boelter Hall, Los Angeles, CA 90095 USA 6 https://ror.org/01692sz90 grid.258269.2 0000 0004 1762 2738 Department of Radiology, Juntendo University School of Medicine, Bunkyo City, 2-Ch\u014dme-1-1 Hong\u014d, Tokyo, 113-8421 Japan 7 https://ror.org/046rm7j60 grid.19006.3e 0000 0001 2167 8097 Department of Neurosurgery, David Geffen School of Medicine, University of California Los Angeles, 885 Tiverton Dr, Los Angeles, CA 90095 USA 8 https://ror.org/046rm7j60 grid.19006.3e 0000 0001 2167 8097 Department of Neurology, David Geffen School of Medicine, University of California Los Angeles, 885 Tiverton Dr, Los Angeles, CA 90095 USA 9 https://ror.org/046rm7j60 grid.19006.3e 0000 0001 2167 8097 Department of Psychiatry and Biobehavioral Sciences, David Geffen School of Medicine, University of California Los Angeles, 885 Tiverton Dr, Los Angeles, CA 90095 USA 26 10 2023 26 10 2023 2024 34 5 3087 3101 13 4 2023 5 7 2023 27 7 2023 \u00a9 The Author(s) 2023 https://creativecommons.org/licenses/by/4.0/ Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/ . Objective To determine the feasibility and biologic correlations of dynamic susceptibility contrast (DSC), dynamic contrast enhanced (DCE), and quantitative maps derived from contrast leakage effects obtained simultaneously in gliomas using dynamic spin-and-gradient-echo echoplanar imaging (dynamic SAGE-EPI) during a single contrast injection. Materials and methods Thirty-eight patients with enhancing brain gliomas were prospectively imaged with dynamic SAGE-EPI, which was processed to compute traditional DSC metrics (normalized relative cerebral blood flow [nrCBV], percentage of signal recovery [PSR]), DCE metrics (volume transfer constant [ K trans ], extravascular compartment [ v e ]), and leakage effect metrics: \u0394 R 2,ss * (reflecting T 2 *-leakage effects), \u0394 R 1,ss (reflecting T 1 -leakage effects), and the transverse relaxivity at tracer equilibrium ( TRATE , reflecting the balance between \u0394 R 2,ss * and \u0394 R 1,ss ). These metrics were compared between patient subgroups (treatment-na\u00efve [TN] vs recurrent [R]) and biological features (IDH status, Ki67 expression). Results In IDH wild-type gliomas (IDH wt \u2014i.e., glioblastomas), previous exposure to treatment determined lower TRATE ( p = 0.002), as well as higher PSR ( p = 0.006), K trans ( p = 0.17), \u0394 R 1,ss ( p = 0.035), v e ( p = 0.006), and ADC ( p = 0.016). In IDH-mutant gliomas (IDH m ), previous treatment determined higher K trans and \u0394 R 1,ss ( p = 0.026). In TN-gliomas, dynamic SAGE-EPI metrics tended to be influenced by IDH status ( p ranging 0.09\u20130.14). TRATE values above 142 mM \u22121 s \u22121 were exclusively seen in TN-IDH wt , and, in TN-gliomas, this cutoff had 89% sensitivity and 80% specificity as a predictor of Ki67 > 10%. Conclusions Dynamic SAGE-EPI enables simultaneous quantification of brain tumor perfusion and permeability, as well as mapping of novel metrics related to cytoarchitecture ( TRATE ) and blood\u2013brain barrier disruption (\u0394 R 1,ss ), with a single contrast injection. Clinical relevance statement Simultaneous DSC and DCE analysis with dynamic SAGE-EPI reduces scanning time and contrast dose, respectively alleviating concerns about imaging protocol length and gadolinium adverse effects and accumulation, while providing novel leakage effect metrics reflecting blood\u2013brain barrier disruption and tumor tissue cytoarchitecture. Key Points \u2022 Traditionally, perfusion and permeability imaging for brain tumors requires two separate contrast injections and acquisitions. \u2022 Dynamic spin-and-gradient-echo echoplanar imaging enables simultaneous perfusion and permeability imaging. \u2022 Dynamic spin-and-gradient-echo echoplanar imaging provides new image contrasts reflecting blood\u2013brain barrier disruption and cytoarchitecture characteristics. Graphical Abstract Supplementary Information The online version contains supplementary material available at 10.1007/s00330-023-10215-z. Keywords Glioblastoma Magnetic resonance imaging Perfusion imaging Vascular permeability Blood\u2013brain barrier http://dx.doi.org/10.13039/100000005 U.S. Department of Defense DoD CA20029 Ellingson Benjamin M. http://dx.doi.0rg/10.13039/100000009 Foundation for the National Institutes of Health NIH NCI P50CA211015 NIH NCI R01CA279984 NIH NCI R01CA270027 NIH NIGMS T32 GM008042 Cho Nicholas S. Liau Linda M. Ellingson Benjamin M. issue-copyright-statement \u00a9 European Society of Radiology 2024 Introduction Brain gliomas are characterized by heterogeneous prognosis, depending on biological and molecular features [ 1 , 2 ] and on a variable response to treatment [ 3 \u2013 5 ]. Aggressive tumors rely on a more intense neoangiogenesis, resulting in a dysfunctional neovasculature with blood\u2013brain barrier (BBB) breakdown [ 6 \u2013 9 ]. Magnetic resonance imaging (MRI) can non-invasively quantify vascularization and BBB permeability in vivo, using two separate techniques based on contrast agent (CA) administration: dynamic susceptibility contrast (DSC), a T 2 *-weighted gradient-echo (GE) sequence, and dynamic contrast enhanced (DCE), a T 1 -weighted sequence [ 10 ]. While DSC perfusion imaging yields rCBV (relative cerebral blood volume), reflecting vascular density [ 11 ], DCE permeability imaging allows to compute K trans (volume transfer constant), representing the rate of CA leakage and therefore BBB permeability [ 12 ]. These techniques can aid glioma grading [ 13 \u2013 15 ], molecular profiling [ 16 \u2013 19 ], differential diagnosis [ 10 , 20 \u2013 24 ], and the distinction between treatment effects and tumor recurrence [ 10 , 24 \u2013 27 ], and have become part of the clinical brain tumor work-up in many neuroimaging centers [ 28 ]. However, performing perfusion (DSC) and permeability (DCE) imaging requires two separate acquisitions, which increases scanning time, and two full CA doses, which raises concerns for chronic gadolinium deposition [ 29 ] and adverse effects in patients with impaired renal function [ 30 ]. Dual-echo DSC simultaneously acquires two GE echoes, which can be processed to disentangle the T 2 *- and T 1 -contributions that coexist in a DSC sequence [ 31 ]. In fact, DSC bears some T 1 -weighting, which can be sorted out by analyzing two GE echoes. The T 1 -contribution can further be used for a DCE analysis, enabling complementary permeability imaging without extra scanning time and without a second CA dose [ 31 ]. Additionally, dual-echo DSC allows to compute quantitative maps derived from CA leakage effects. In the presence of BBB breakdown, CA leaks from the intravascular (IV) to the extravascular extracellular (EEC) compartment, resulting in competing T 2 *- and T 1 -leakage effects, whose balance is influenced by tissue-related factors [ 32 , 33 ]. In a traditional single-echo DSC, the overall balance between T 2 *- and T 1 -leakage effects can be evaluated with a metric named percentage of signal recovery (PSR) [ 34 ], which is valuable for differential diagnosis because tissue-related factors differ among tumor types (gliomas, lymphomas, and meningiomas) [ 34 , 35 ]. However, PSR strongly depends on acquisition parameters such as flip angle (FA) and echo time (TE) [ 36 ], a major obstacle when generalizing reliable PSR cutoffs across institutions. Moreover, PSR only provides overall estimates of the balance between T 2 *- and T 1 -leakage effects, which cannot be disentangled with a single-echo DSC. Conversely, dual-echo DSC allows to separately evaluate T 1 and T 2 * contributions, and to compute a novel quantitative biomarker named transverse relaxivity at tracer equilibrium ( TRATE ), which quantifies T 2 *-leakage effects normalized to the estimated CA concentration (derived from T 1 -leakage effects) [ 32 , 33 ]. Despite bearing similar information to PSR, TRATE is independent from acquisition factors (FA and TE) [ 33 ]. Results from simulated and preclinical data advocate for TRATE as a biomarker for cytoarchitectural features such as cell volume fraction and cell size, but its application on human brain tumors has only been preliminary explored in five recurrent high-grade gliomas [ 33 ]. In this study, we aim to simultaneously obtain perfusion, permeability, and novel leakage effect maps in a cohort of human gliomas, both newly diagnosed and recurrent, using a dynamic spin-and-gradient-echo echoplanar imaging (dynamic SAGE-EPI) acquisition. In fact, the first and second echoes of a dynamic SAGE-EPI can serve as a dual-echo DSC sequence. First, we hypothesize that TRATE will correlate with PSR, and that \u0394 R 1,ss (quantifying T 1 -leakage effects) will correlate with K trans , since these metrics are considered quantitative markers for cytoarchitecture ( TRATE and PSR) and BBB permeability (\u0394 R 1,ss and K trans ), respectively. Second, we hypothesize that increased TRATE will reflect aggressive cytoarchitectural features, and will therefore be higher in tumors with higher expression of Ki67 (a marker of cell proliferation) and with IDH wild-type (IDH wt ) status (i.e., glioblastomas).",
+    "document_source_id": "37882836",
+    "analysis_date": "2025-12-04",
+    "extracted_data": {
+      "core_effect_and_quantification": [
+        {
+          "biomarker_name": "TRATE",
+          "activity_context": "IDH wild-type gliomas: recurrent vs treatment-na\u00efve",
+          "direction_of_change": "lower in recurrent",
+          "magnitude_quantification": "p = 0.002"
+        },
+        {
+          "biomarker_name": "PSR",
+          "activity_context": "IDH wild-type gliomas: recurrent vs treatment-na\u00efve",
+          "direction_of_change": "higher in recurrent",
+          "magnitude_quantification": "p = 0.006"
+        },
+        {
+          "biomarker_name": "K trans",
+          "activity_context": "IDH wild-type gliomas: recurrent vs treatment-na\u00efve",
+          "direction_of_change": "higher in recurrent",
+          "magnitude_quantification": "p = 0.17"
+        },
+        {
+          "biomarker_name": "\u0394 R 1,ss",
+          "activity_context": "IDH wild-type gliomas: recurrent vs treatment-na\u00efve",
+          "direction_of_change": "higher in recurrent",
+          "magnitude_quantification": "p = 0.035"
+        },
+        {
+          "biomarker_name": "v e",
+          "activity_context": "IDH wild-type gliomas: recurrent vs treatment-na\u00efve",
+          "direction_of_change": "higher in recurrent",
+          "magnitude_quantification": "p = 0.006"
+        },
+        {
+          "biomarker_name": "ADC",
+          "activity_context": "IDH wild-type gliomas: recurrent vs treatment-na\u00efve",
+          "direction_of_change": "higher in recurrent",
+          "magnitude_quantification": "p = 0.016"
+        },
+        {
+          "biomarker_name": "K trans",
+          "activity_context": "IDH-mutant gliomas: recurrent vs treatment-na\u00efve",
+          "direction_of_change": "higher in recurrent",
+          "magnitude_quantification": "p = 0.026"
+        },
+        {
+          "biomarker_name": "\u0394 R 1,ss",
+          "activity_context": "IDH-mutant gliomas: recurrent vs treatment-na\u00efve",
+          "direction_of_change": "higher in recurrent",
+          "magnitude_quantification": "p = 0.026"
+        },
+        {
+          "biomarker_name": "TRATE",
+          "activity_context": "Treatment-na\u00efve (TN) gliomas, as a predictor for Ki67 > 10%",
+          "direction_of_change": "higher (cutoff > 142 mM\u22121 s\u22121)",
+          "magnitude_quantification": "89% sensitivity, 80% specificity, AUC = 0.84"
+        },
+        {
+          "biomarker_name": "TRATE",
+          "activity_context": "Treatment-na\u00efve (TN) gliomas",
+          "direction_of_change": "Strong positive correlation with \u0394 R 2,ss *",
+          "magnitude_quantification": "p = 0.004, r = +0.71"
+        },
+        {
+          "biomarker_name": "TRATE",
+          "activity_context": "Recurrent (R) gliomas",
+          "direction_of_change": "Moderate positive correlation with \u0394 R 2,ss *",
+          "magnitude_quantification": "p = 0.02, r = +0.46"
+        },
+        {
+          "biomarker_name": "TRATE",
+          "activity_context": "Recurrent (R) gliomas",
+          "direction_of_change": "Moderate negative correlation with \u0394 R 1,ss",
+          "magnitude_quantification": "p = 0.04, r = -0.42"
+        },
+        {
+          "biomarker_name": "TRATE",
+          "activity_context": "Treatment-na\u00efve (TN) gliomas",
+          "direction_of_change": "Negative correlation with ADC",
+          "magnitude_quantification": "p = 0.04, r = -0.54"
+        },
+        {
+          "biomarker_name": "TRATE",
+          "activity_context": "Treatment-na\u00efve (TN) gliomas",
+          "direction_of_change": "Positive correlation with nrCBV",
+          "magnitude_quantification": "p = 0.02, r = +0.60"
+        },
+        {
+          "biomarker_name": "TRATE",
+          "activity_context": "Treatment-na\u00efve (TN) gliomas",
+          "direction_of_change": "Strong negative correlation with PSR",
+          "magnitude_quantification": "p < 0.0001, r = -0.87"
+        },
+        {
+          "biomarker_name": "TRATE",
+          "activity_context": "Recurrent (R) gliomas",
+          "direction_of_change": "Strong negative correlation with PSR",
+          "magnitude_quantification": "p = 0.0003, r = -0.68"
+        },
+        {
+          "biomarker_name": "PSR",
+          "activity_context": "Treatment-na\u00efve (TN) gliomas",
+          "direction_of_change": "Negative dependence on \u0394 R 2,ss *",
+          "magnitude_quantification": "p = 0.02, r = -0.61"
+        },
+        {
+          "biomarker_name": "PSR",
+          "activity_context": "Recurrent (R) gliomas",
+          "direction_of_change": "Negative dependence on \u0394 R 2,ss *",
+          "magnitude_quantification": "p = 0.03, r = -0.45"
+        },
+        {
+          "biomarker_name": "PSR",
+          "activity_context": "Treatment-na\u00efve (TN) gliomas",
+          "direction_of_change": "Positive correlation with ADC",
+          "magnitude_quantification": "p = 0.015, r = +0.63"
+        },
+        {
+          "biomarker_name": "PSR",
+          "activity_context": "Treatment-na\u00efve (TN) gliomas",
+          "direction_of_change": "Negative correlation with nrCBV",
+          "magnitude_quantification": "p = 0.005, r = -0.70"
+        },
+        {
+          "biomarker_name": "\u0394 R 1,ss",
+          "activity_context": "Treatment-na\u00efve (TN) gliomas",
+          "direction_of_change": "Strong positive correlation with K trans",
+          "magnitude_quantification": "p = 0.036, r = +0.68"
+        },
+        {
+          "biomarker_name": "\u0394 R 1,ss",
+          "activity_context": "Recurrent (R) gliomas",
+          "direction_of_change": "Strong positive correlation with K trans",
+          "magnitude_quantification": "p = 0.0024, r = +0.59"
+        },
+        {
+          "biomarker_name": "PSR",
+          "activity_context": "Recurrent IDH mutant gliomas vs Recurrent IDH wildtype gliomas",
+          "direction_of_change": "lower in IDH mutant",
+          "magnitude_quantification": "p = 0.006"
+        },
+        {
+          "biomarker_name": "v e",
+          "activity_context": "Recurrent IDH mutant gliomas vs Recurrent IDH wildtype gliomas",
+          "direction_of_change": "lower in IDH mutant",
+          "magnitude_quantification": "p = 0.006"
+        },
+        {
+          "biomarker_name": "ADC",
+          "activity_context": "Recurrent IDH mutant gliomas vs Recurrent IDH wildtype gliomas",
+          "direction_of_change": "lower in IDH mutant",
+          "magnitude_quantification": "p = 0.016"
+        },
+        {
+          "biomarker_name": "TRATE",
+          "activity_context": "Treatment-na\u00efve (TN) gliomas: high Ki67 expression vs low Ki67 expression",
+          "direction_of_change": "higher in high Ki67",
+          "magnitude_quantification": "p = 0.04"
+        },
+        {
+          "biomarker_name": "nrCBV",
+          "activity_context": "Treatment-na\u00efve (TN) gliomas: high Ki67 expression vs low Ki67 expression",
+          "direction_of_change": "higher in high Ki67",
+          "magnitude_quantification": "p = 0.001"
+        },
+        {
+          "biomarker_name": "PSR",
+          "activity_context": "Treatment-na\u00efve (TN) gliomas: high Ki67 expression vs low Ki67 expression",
+          "direction_of_change": "lower in high Ki67",
+          "magnitude_quantification": "p = 0.04"
+        },
+        {
+          "biomarker_name": "\u0394 R 1,ss",
+          "activity_context": "Blood\u2013brain barrier breakdown",
+          "direction_of_change": "increase",
+          "magnitude_quantification": "quantitative biomarker"
+        },
+        {
+          "biomarker_name": "TRATE",
+          "activity_context": "Treatment-na\u00efve (TN) IDH wildtype gliomas",
+          "direction_of_change": "high values exclusively seen",
+          "magnitude_quantification": "> 142 mM-1 s-1"
+        }
+      ],
+      "molecular_mechanism_and_relationship": {
+        "activity_type_context": "Focuses on brain gliomas, including adult-type diffuse gliomas (astrocytoma, oligodendroglioma, glioblastoma), their aggressive characteristics, dysfunctional neovasculature, blood-brain barrier (BBB) breakdown, and cell proliferation. The context also involves imaging perfusion, permeability, and leakage effects using a single dynamic SAGE-EPI sequence to analyze contrast agent extravasation and differentiate based on treatment status and glioma characteristics.",
+        "mechanism_description": "Gliomas exhibit neoangiogenesis leading to dysfunctional neovasculature and blood-brain barrier (BBB) breakdown, where contrast agent (CA) leaks from the intravascular to the extravascular extracellular compartment (EEC), causing competing T2*- and T1-leakage effects. Dynamic SAGE-EPI imaging with a single CA bolus allows simultaneous quantification of perfusion, permeability, and these leakage effects. \u0394 R 1,ss quantifies T1-leakage effects, is proportional to CA concentration in EEC, and correlates with K trans, both reflecting BBB permeability and CA leakage rate. Previous treatment increases BBB permeability, resulting in higher \u0394 R 1,ss and K trans. TRATE quantifies T2*-leakage effects normalized to CA concentration, serving as a cytoarchitectural biomarker influenced by cell volume fraction and size. Higher TRATE values in IDH wild-type gliomas correlate with increased cell density and proliferation (Ki67), while lower TRATE in recurrent gliomas may indicate reduced cellularity due to treatment effects. TRATE refines the PSR approach, and both show a strong inverse correlation, offering unique cytoarchitectural contrast distinct from ADC.",
+        "related_biomarkers": [
+          "nrCBV",
+          "PSR",
+          "K trans",
+          "v e",
+          "\u0394 R 2,ss *",
+          "\u0394 R 1,ss",
+          "TRATE",
+          "ADC",
+          "Ki67",
+          "\u0394R2*(t)",
+          "T1w(t)",
+          "\u0394R1(t)",
+          "C(t)",
+          "Css",
+          "EEC concentration of CA",
+          "CA leakage rate",
+          "BBB permeability",
+          "cell volume fraction",
+          "cell size",
+          "cell density",
+          "proliferation rate",
+          "cellularity",
+          "EEC",
+          "EIC",
+          "extracellular matrix composition"
+        ]
+      },
+      "dose_intensity_and_specificity": {
+        "dose_comparison_summary": "Dynamic SAGE-EPI significantly reduces scanning time and contrast agent (CA) administration by enabling simultaneous perfusion and permeability imaging with a single CA injection (~0.1 mL/kg Gadavist\u00ae at ~4 mL/s), addressing concerns about imaging protocol length and gadolinium adverse effects/accumulation. Treatment-na\u00efve (TN) gliomas, particularly those with high Ki67 expression, exhibited significantly different biomarker levels (e.g., higher TRATE and nrCBV, lower PSR) compared to low Ki67 lesions. TN-gliomas generally showed lower \u0394 R 1,ss and K trans compared to recurrent (R) gliomas, suggesting differences in CA leakage based on treatment history.",
+        "specificity_finding": "TRATE values exceeding 142 mM \u22121 s \u22121 were exclusively found in treatment-na\u00efve (TN) IDH wild-type gliomas and served as a strong predictor for Ki67 > 10% in TN-gliomas (89% sensitivity, 80% specificity). The DCE analysis used is non-traditional, relying on T1w(t) from dynamic SAGE-EPI. However, the method has limitations: TRATE values are dependent on contrast agent type and field strength, EPI acquisitions are prone to susceptibility artifacts in certain brain regions, spatial resolution is lower, and the utility of extravasation metrics in non-enhancing gliomas is unclear. The methodology is also not fully compliant with current DSC guidelines despite using a bidirectional leakage correction."
+      },
+      "clinical_implication_and_population": {
+        "target_population": "The target population includes patients with enhancing brain gliomas, specifically adult-type diffuse gliomas (astrocytoma, oligodendroglioma, or glioblastoma), encompassing both newly diagnosed (treatment-na\u00efve) and recurrent cases. The study further differentiates findings based on IDH status (IDH wild-type and IDH-mutant) and Ki67 expression, applicable to patients undergoing diagnostic or prognostic studies. While primarily focused on enhancing lesions, non-enhancing gliomas are noted for future investigation.",
+        "health_implication": "The dynamic SAGE-EPI technique offers significant health implications by providing novel leakage effect metrics (TRATE, \u0394 R 1,ss) that enhance the understanding of blood\u2013brain barrier (BBB) disruption and tumor tissue cytoarchitecture. These metrics aid in glioma grading, molecular profiling, differential diagnosis, and distinguishing between treatment effects and tumor recurrence. \u0394 R 1,ss serves as a quantitative biomarker for BBB breakdown, while TRATE can predict high Ki67 expression and reflect cell density/proliferation, offering prognostic insights, especially in IDH wild-type gliomas. The method also improves patient safety and reduces burden by shortening scanning time and halving gadolinium contrast dose, thereby mitigating risks of adverse effects and accumulation.",
+        "risk_classification": "The technology offers significant diagnostic utility for characterizing tumor features such as IDH status, Ki67 expression, BBB disruption, and cytoarchitecture, enabling differentiation of specific glioma subgroups (e.g., treatment-na\u00efve IDH wild-type from recurrent IDH wild-type). It also provides prognostic utility. A key benefit is the reduction of patient burden and risk through decreased scanning time and halved gadolinium contrast agent exposure, thereby mitigating potential adverse effects and accumulation."
+      },
+      "biomarker_reliability_and_future_focus": {
+        "reliability_assessment": "TRATE is a more reliable biomarker than PSR because it is independent of acquisition parameters like flip angle (FA) and echo time (TE), unlike PSR which is highly dependent on them, making TRATE more generalizable. TRATE also provides more detailed information by disentangling T2* and T1-leakage effects. \u0394 R 1,ss is simpler and potentially more reliable for BBB breakdown than K trans, as K trans values are highly variable due to AIF selection and model fit, while \u0394 R 1,ss is independent of these. The study employed rigorous quality checks for image processing. However, reliability is limited by the single-institution nature and lack of histopathological validation for TRATE. Shorter acquisition times may impact DCE/leakage metric accuracy, and TRATE values depend on contrast agent type and field strength. EPI acquisitions introduce susceptibility artifacts in certain brain regions, and lower spatial resolution can affect tumor heterogeneity assessment. The methodology also deviates from current DSC guidelines, though it includes leakage correction.",
+        "recommended_alternatives": [
+          "TRATE (as a more reliable alternative to PSR for cytoarchitectural features)",
+          "\u0394 R 1,ss (as a quantitative marker for BBB permeability, correlating with K trans, and as a surrogate for K trans)",
+          "PSR (as an alternative to TRATE if TRATE computation is unavailable, or for leakage effect measurement)",
+          "Traditional DCE",
+          "Single-echo DSC (using 60\u00b0 FA with preload or 30\u00b0 FA without preload)",
+          "Computing nrCBV from dual-echo derived \u0394 R 2 *( t )"
+        ]
+      }
+    }
+  }
+]

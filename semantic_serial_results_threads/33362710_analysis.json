@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Front Endocrinol (Lausanne) Front Endocrinol (Lausanne) Front. Endocrinol. Frontiers in Endocrinology 1664-2392 Frontiers Media S.A. 7759614 10.3389/fendo.2020.531926 Endocrinology Original Research Cytokines, Adipokines, and Bone Markers at Rest and in Response to Plyometric Exercise in Obese vs Normal Weight Adolescent Females Kurgan Nigel 1 2 McKee Katherine 1 Calleja Melissa 1 Josse Andrea R. 2 3 Klentrou Panagiota 1 2 * 1 Department of Kinesiology, Brock University , St. Catharines, ON , Canada 2 Centre for Bone and Muscle Health, Brock University , St. Catharines, ON , Canada 3 School of Kinesiology and Health Science, York University , Toronto, ON , Canada Edited by: Katherine Samaras, St Vincent\u2019s Hospital Sydney, Australia Reviewed by: Monique Francois, University of Wollongong, Australia; Reina Villareal, Baylor College of Medicine, United States *Correspondence: Panagiota Klentrou, nklentrou@brocku.ca This article was submitted to Obesity, a section of the journal Frontiers in Endocrinology 11 12 2020 2020 11 531926 01 2 2020 12 11 2020 Copyright \u00a9 2020 Kurgan, McKee, Calleja, Josse and Klentrou 2020 Kurgan, McKee, Calleja, Josse and Klentrou This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms. Background In adults, excess adiposity has been associated with low-grade, chronic inflammation and compromised bone health, but less is known about these linkages in children. The purpose of this study was to compare the circulating levels of inflammatory cytokines, adipokines, osteokines, and bone markers at rest and in response to plyometric exercise between obese and normal weight adolescent females. Methods Ten normal weight (BMI = 21.3 \u00b1 2) and 10 obese (BMI = 32.9 \u00b1 4), postmenarcheal females, aged 13\u201317 years, performed one bout of plyometric exercise (5 circuits; 120 jumps). Blood samples were taken at rest, 5 min, 1 h, and 24 h post-exercise. Tumor necrosis factor alpha (TNF-\u03b1), interleukin 6 (IL-6), insulin, leptin, osteocalcin, carboxy-terminal telopeptide (CTX), sclerostin, and parathyroid hormone (PTH) were measured in serum. Results Cytokines were not different between groups at rest or over time with IL-6 increasing (+31%; p = 0.04) 5 min post-exercise and TNF-\u03b1 decreasing (-9%; p = 0.001) 1 h post-exercise. Insulin and leptin were higher in the obese compared to the normal weight females. In both groups, insulin significantly increased 5 min post-exercise but remained elevated 1 h post-exercise only in the obese group. Leptin did not change in response to exercise. Osteocalcin was lower in the obese group across time and increased (+12%; p = 0.02) 24 h post-exercise in both groups. CTX was similar between groups at rest and decreased (-24%; p < 0.001) 1 h post-exercise. Sclerostin was similar between groups at rest, but there was a significant interaction reflecting a significant increase (+29%; p = 0.04) 5 min post-exercise in the obese group and a non-significant decrease (-13%; p = 0.08) in normal weight controls. PTH increased 5 min post-exercise, dropped 1 h post-exercise to lower than pre-exercise, and returned to baseline 24 h post-exercise in both groups. Conclusion Obese adolescent females from our study had no evidence of resting inflammation or differences in bone resorption but show blunted bone formation when compared to normal weight controls. The direction and temporal changes in inflammatory cytokines, adipokines, and bone turnover markers to exercise were similar in both groups, reflecting an overall bone anabolic response for most biomarkers, except sclerostin, which increased only in the obese females immediately post-exercise, suggesting a different systemic regulation of sclerostin depending on adiposity. exercise adolescent girls obesity inflammation carboxy-terminal telopeptide osteocalcin parathyroid hormone sclerostin Natural Sciences and Engineering Research Council of Canada 10.13039/501100000038 Dairy Farmers of Canada 10.13039/100010710 Brock University 10.13039/501100005156",
+    "document_source_id": "33362710",
+    "analysis_date": "2025-12-04",
+    "extracted_data": {
+      "core_effect_and_quantification": [
+        {
+          "biomarker_name": "IL-6",
+          "activity_context": "5 min post-plyometric exercise (both groups)",
+          "direction_of_change": "increased",
+          "magnitude_quantification": "+0.6 pg/ml (+31%), p = 0.02; returned to baseline 24 h post-exercise"
+        },
+        {
+          "biomarker_name": "TNF-\\u03b1",
+          "activity_context": "1 h post-plyometric exercise (both groups)",
+          "direction_of_change": "decreased",
+          "magnitude_quantification": "-0.16 pg/ml (-9%) compared to pre-exercise, p = 0.001"
+        },
+        {
+          "biomarker_name": "Insulin",
+          "activity_context": "at rest (ObAF vs NwAF)",
+          "direction_of_change": "higher in ObAF",
+          "magnitude_quantification": "mean difference: 787 pg/ml (174%), p = 0.03"
+        },
+        {
+          "biomarker_name": "Insulin",
+          "activity_context": "5 min post-plyometric exercise (NwAF)",
+          "direction_of_change": "significantly increased",
+          "magnitude_quantification": "+345 pg/ml (+108%), p = 0.001; returned to baseline 1 h post-exercise"
+        },
+        {
+          "biomarker_name": "Insulin",
+          "activity_context": "post-plyometric exercise (ObAF)",
+          "direction_of_change": "increased and remained elevated",
+          "magnitude_quantification": "+1,091 pg/ml (+129%), p = 0.02 (pre- to post-exercise); remained elevated 1 h post-exercise, returned to baseline 24 h post-exercise"
+        },
+        {
+          "biomarker_name": "Leptin",
+          "activity_context": "at all time points (ObAF vs NwAF)",
+          "direction_of_change": "significantly higher in ObAF",
+          "magnitude_quantification": "mean difference: 13,579 pg/ml (+2.6-fold), p = 0.02; did not change in response to exercise"
+        },
+        {
+          "biomarker_name": "Osteocalcin",
+          "activity_context": "at rest (ObAF vs NwAF)",
+          "direction_of_change": "lower in ObAF",
+          "magnitude_quantification": "mean difference: 3,326 pg/ml (-23%), p = 0.04"
+        },
+        {
+          "biomarker_name": "Osteocalcin",
+          "activity_context": "24 h post-plyometric exercise (both groups)",
+          "direction_of_change": "increased",
+          "magnitude_quantification": "+1,464.6 pg/ml (+12%) compared to pre-exercise, p = 0.04"
+        },
+        {
+          "biomarker_name": "CTX",
+          "activity_context": "5 min and 1 h post-plyometric exercise (both groups)",
+          "direction_of_change": "decreased",
+          "magnitude_quantification": "-156 pg/ml (-19%) at 5 min, and -204 pg/ml (-24%) at 1 h compared to pre-exercise, p < 0.001 for both"
+        },
+        {
+          "biomarker_name": "Sclerostin",
+          "activity_context": "at rest (between groups)",
+          "direction_of_change": "no difference",
+          "magnitude_quantification": "no difference observed"
+        },
+        {
+          "biomarker_name": "Sclerostin",
+          "activity_context": "5 min post-plyometric exercise (ObAF)",
+          "direction_of_change": "increased",
+          "magnitude_quantification": "+73 pg/ml (+26%), p = 0.04"
+        },
+        {
+          "biomarker_name": "Sclerostin",
+          "activity_context": "immediately post-plyometric exercise (NwAF)",
+          "direction_of_change": "no significant change",
+          "magnitude_quantification": "-13% (non-significant, p = 0.08)"
+        },
+        {
+          "biomarker_name": "PTH",
+          "activity_context": "post-plyometric exercise (both groups)",
+          "direction_of_change": "increased then dropped",
+          "magnitude_quantification": "+15.7 pg/ml (+38%) 5 min post-exercise, p = 0.05; dropped -14.8 pg/ml (-36%) 1 h post-exercise (lower than pre-exercise, p = 0.001); returned to baseline 24 h post-exercise"
+        }
+      ],
+      "molecular_mechanism_and_relationship": {
+        "activity_type_context": "The study investigates the response to acute plyometric exercise and feeding in obese versus normal weight adolescent females, focusing on obesity, systemic inflammation, and bone-adipose crosstalk.",
+        "mechanism_description": "Obesity in adolescent females is linked to low-grade systemic inflammation, elevated pro-inflammatory cytokines (TNF-\u03b1, IL-6) and adipokines (leptin) that can compromise bone health by promoting resorption and attenuating growth. This is further exacerbated by obesity promoting adipogenesis over osteoblastogenesis and potentially inducing leptin resistance, leading to hyperinsulinemia and impaired glucose metabolism. Obese adolescents exhibit blunted bone formation, evidenced by lower osteocalcin levels, and a differential sclerostin response to exercise suggesting 'bone aging' or altered systemic regulation. Sclerostin, an osteocyte-secreted factor, inhibits bone formation via Wnt signaling and promotes adipogenesis. A single bout of plyometric exercise, acting as a high-impact load, acutely elicits an anti-inflammatory response (transient IL-6 increase possibly mediating TNF-\u03b1 decrease) and an overall anabolic bone response (increased osteocalcin, decreased CTX). The exercise-induced insulin response is also more pronounced and prolonged in obese adolescents, reflecting body composition-related differences.",
+        "related_biomarkers": [
+          "TNF-\\\\u03b1",
+          "IL-6",
+          "Insulin",
+          "Leptin",
+          "Osteocalcin",
+          "CTX",
+          "Sclerostin",
+          "PTH",
+          "IL-10"
+        ]
+      },
+      "dose_intensity_and_specificity": {
+        "dose_comparison_summary": "The study employed a single bout of plyometric exercise (5 circuits, 120 jumps) with jump height adjusted (40 cm for normal weight, 25 cm for obese) to achieve comparable ground reaction forces and mechanical loading between groups. While the precise osteogenic load for youth is unknown, this protocol was deemed sufficient as both normal weight and obese adolescent females (NwAF and ObAF) showed similar responses in some biomarkers (e.g., osteocalcin, CTX, IL-6, TNF-\u03b1, PTH). However, differential responses were observed, such as a higher and more prolonged exercise-induced insulin increase in ObAF compared to NwAF.",
+        "specificity_finding": "Obese adolescent females (ObAF) exhibited significant differences compared to normal weight adolescent females (NwAF), including higher body mass, BMI, % body fat, waist-to-hip ratio, and lower weekly leisure activity. These correlated with higher baseline insulin and leptin, and a distinct, more prolonged insulin response to exercise. A key specific finding was the differential sclerostin response to exercise: a significant increase was observed only in ObAF immediately post-exercise, with no response in NwAF, suggesting adiposity-dependent regulation and potential 'bone aging' in ObAF. Despite higher adiposity, no evidence of chronic low-grade systemic inflammation (based on IL-6 and TNF-\u03b1 levels at rest or post-exercise) was found between the groups. Resting osteocalcin levels were consistently lower in ObAF, indicating blunted bone formation. The negative impact of adiposity on bone mineral density (BMD) has been noted for individuals with over 33% body fat."
+      },
+      "clinical_implication_and_population": {
+        "target_population": "The primary target population consists of postmenarcheal adolescent females, aged 13-17 years (mean 15.0 \\u00b1 1 years for normal weight, 14.7 \\u00b1 1 years for obese), matched for age, menstrual status, and somatic maturity. This includes normal weight (BMI < 85th percentile, 21.3 \\u00b1 2) and obese (BMI \\u2265 95th percentile, 32.9 \\u00b1 4) individuals. The findings also have broader implications for overweight adolescent females and individuals with high body fat percentage (>33%), and in some contexts, for adults and children regarding sclerostin responses.",
+        "health_implication": "Obesity in adolescent females is associated with compromised bone health, characterized by blunted bone formation (lower osteocalcin levels) and potentially advanced skeletal maturation ('bone aging'), which can impair normal skeletal growth and increase the risk of fracture, osteopenia, or osteoporosis. Obese adolescents also exhibit altered metabolic regulation, including higher basal insulin and leptin levels, and a more prolonged insulin response to exercise and feeding, indicative of impaired postprandial glucose metabolism and potential insulin resistance. While systemic inflammation (IL-6, TNF-\u03b1) was not significantly different between groups at rest or post-exercise in this study, elevated leptin in obese youth may indicate local or tissue-level inflammation. High-impact plyometric exercise provides a beneficial anabolic bone response (increased bone formation, decreased resorption) and an acute anti-inflammatory effect in all adolescent females, regardless of adiposity, and can improve bone accrual.",
+        "risk_classification": "Obesity in adolescent females poses an adverse risk for compromised bone health, including blunted bone formation, reduced bone turnover, and potential 'bone aging', increasing susceptibility to osteopenia, osteoporosis, and fractures. It also presents an adverse risk for impaired metabolic adaptation, hyperinsulinemia, and insulin resistance. There is a potential adverse risk of local/tissue inflammation due to elevated leptin in obese youth that could progress to systemic chronic diseases. Conversely, acute high-impact plyometric exercise offers a protective benefit by eliciting an anabolic bone response and an anti-inflammatory effect in both obese and normal weight adolescents."
+      },
+      "biomarker_reliability_and_future_focus": {
+        "reliability_assessment": "Reliability of biomarker measurements was generally good, with intra-assay CVs ranging from 3.8% (sclerostin) to 9.5% (IL-6) and an average inter-assay CV of 6.9%. However, the study has limitations including a small sample size, which might have limited the detection of statistically significant differences, especially for inflammatory cytokines. The post-exercise consumption of a standardized breakfast could have influenced some serum biomarkers (IL-6, insulin, CTX). The authors note that the small decrease in TNF-\u03b1 post-exercise might not be clinically relevant and that systemic inflammation may not always be detectable in children, as local inflammation might precede it. Differences in habitual physical activity and other body composition aspects between groups could also be confounding factors. There is a general lack of existing data on cytokine, adipokine, and osteokine responses with bone turnover in obese youth, highlighting a gap in understanding.",
+        "recommended_alternatives": [
+          "Investigation of local/tissue-level inflammation (e.g., in adipose depots) for inflammatory markers in obese adolescents",
+          "Further investigation into the drivers of the differential sclerostin response to exercise in obese adolescents",
+          "Further investigation of sclerostin as an endocrine factor regulating tissues beyond bone, such as adipose tissue metabolism and growth and development",
+          "Measure blood calcium levels (to provide insight regarding PTH fluctuations)",
+          "Examine the influence of longer-term exercise and dietary interventions (lifestyle modification) on the acute response of cytokines, osteokines, and adipokines in pediatric populations",
+          "Conduct mechanistic studies (in animal models) to examine the importance of sclerostin to the exercise-induced adaptations of adipose tissue"
+        ]
+      }
+    }
+  }
+]

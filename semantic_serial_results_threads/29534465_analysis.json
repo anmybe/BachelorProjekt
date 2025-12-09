@@ -1,0 +1,141 @@
+[
+  {
+    "title": "Nutrients Nutrients nutrients Nutrients 2072-6643 MDPI 5872755 10.3390/nu10030337 nutrients-10-00337 Article Effect of a Protein Supplement on the Gut Microbiota of Endurance Athletes: A Randomized, Controlled, Double-Blind Pilot Study Moreno-P\u00e9rez Diego 1 Bressa Carlo 2 Bail\u00e9n Mar\u00eda 2 Hamed-Bousdar Safa 3 https://orcid.org/0000-0001-7405-4894 Naclerio Fernando 4 Carmona Manuel 3 P\u00e9rez Margarita 3 Gonz\u00e1lez-Soltero Roc\u00edo 2 Montalvo-Lominchar Maria Gregoria 3 Caraba\u00f1a Claudia 3 https://orcid.org/0000-0002-8863-4686 Larrosa Mar 3 * 1 Departamento de Educaci\u00f3n, M\u00e9todos de Investigaci\u00f3n y Evaluaci\u00f3n, Universidad Pontificia de Comillas, ICAI-ICADE, Cantoblanco, Madrid 28015, Spain; diego.moreno@allinyourmind.es 2 Facultad de Ciencias Biom\u00e9dicas, Universidad Europea de Madrid, Villaviciosa de Od\u00f3n, Madrid 28670, Spain; carlo.bressa@universidadeuropea.es (C.B.); maria.bailen@universidadeuropea.es (M.B.); mariadelrocio.gonzalez@universidadeuropea.es (R.G.-S.) 3 Escuela de Doctorado e Investigaci\u00f3n, Universidad Europea de Madrid, Villaviciosa de Od\u00f3n, Madrid 28670, Spain; safahamed1994@gmail.com (S.H.-B.); manuel.carmona@universidadeuropea.es (M.C.); margarita.perez@universidadeuropea.es (M.P.); mariagregoria.montalvo@universidadeuropea.es (M.G.M.-L.); claudiacarabana@hotmail.com (C.C.) 4 Department of Life and Sports Sciences, University of Greenwich, Kent ME4 4TB, UK; f.j.naclerio@greenwich.ac.uk * Correspondence: mar.larrosa@universidadeuropea.es ; Tel.: +34-912-115-176 10 3 2018 3 2018 10 3 337 11 1 2018 08 3 2018 \u00a9 2018 by the authors. 2018 Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license ( http://creativecommons.org/licenses/by/4.0/ ). Nutritional supplements are popular among athletes to improve performance and physical recovery. Protein supplements fulfill this function by improving performance and increasing muscle mass; however, their effect on other organs or systems is less well known. Diet alterations can induce gut microbiota imbalance, with beneficial or deleterious consequences for the host. To test this, we performed a randomized pilot study in cross-country runners whose diets were complemented with a protein supplement (whey isolate and beef hydrolysate) ( n = 12) or maltodextrin (control) ( n = 12) for 10 weeks. Microbiota, water content, pH, ammonia, and short-chain fatty acids (SCFAs) were analyzed in fecal samples, whereas malondialdehyde levels (oxidative stress marker) were determined in plasma and urine. Fecal pH, water content, ammonia, and SCFA concentrations did not change, indicating that protein supplementation did not increase the presence of these fermentation-derived metabolites. Similarly, it had no impact on plasma or urine malondialdehyde levels; however, it increased the abundance of the Bacteroidetes phylum and decreased the presence of health-related taxa including Roseburia , Blautia , and Bifidobacterium longum . Thus, long-term protein supplementation may have a negative impact on gut microbiota. Further research is needed to establish the impact of protein supplements on gut microbiota. sport supplements fecal ammonia Bifidobacterium longum fecal pH branched short-chain fatty acids 1. Introduction The World Health Organization recommendation for protein intake in adults, considering a net nitrogen balance, is 0.83 g/kg body weight/day. Because athletes have a greater nutrient expenditure, the American Dietetic Association, the Dietitians of Canada, and the American College of Sports Medicine recommend an intake range from 1.2 to 2 g/kg body weight/day for endurance- and strength-trained athletes [ 1 ]. These recommendations are not only based on the net nitrogen balance, they also seek to promote muscle mass and improve performance [ 2 , 3 ]. Several studies have shown that intake of protein supplements increases muscle mass and improves sports performance [ 4 , 5 ], providing context for their popularity [ 6 ]; however, their effects on organs other than muscle have been poorly studied. A factor that can be modified by the increase in dietary protein intake is the gut microbiota, which may have positive or negative repercussions on host health [ 7 ]. The gut microbiota is an important factor that shapes both energy harvest and storage through the metabolism of proteins and the production of several metabolites: branched short-chain fatty acids (SCFAs), ammonia, sulfur-containing metabolites such as hydrogen sulfide and methanethiol, and neuroactive compounds such as tryptamine, serotonin, phenethylamine, and histamine [ 8 , 9 ]. Some of these metabolites are related to deleterious effects on health; for instance, ammonia and hydrogen sulfide favor colon cancer and inflammatory bowel disease [ 10 , 11 ], whereas others such as branched SCFAs have hitherto unknown effects [ 12 ]. Moreover, the gut microbiota can also synthesize de novo amino acids, and thus the balance between production and digestion determines the level of nitrogen in the body [ 13 ]. Animal studies have revealed bidirectional communication between the gut microbiota and the muscle, in which gut microbiota can affect muscle energy homeostasis by interfering with fat deposition and lipid and glucose metabolism through various metabolites including SCFAs and secondary bile salts [ 14 ]. Likewise, physical activity may induce changes in gut microbiota through several factors: myokines released during exercise or changes to intestinal transit generated by exercise [ 14 , 15 ] may promote the growth of certain species beneficial to health [ 15 , 16 ]. Supplementation with powder-hydrolyzed beef protein in resistance-training males can significantly increase the biceps brachialis thickness and arm circumference compared with carbohydrate or whey protein supplementation [ 17 ]. In addition, a decline in fat mass and an increase in fat-free mass can be observed after eight weeks of supplementation with 135 g of lean beef in healthy subjects participating in a resistance-training program [ 18 ]. The effect of protein supplementation on the microbiota of endurance athletes has, however, not yet been studied. The aim of the present study was to determine the changes produced by a high-quality hydrolyzed beef and whey protein supplement on gut microbiota, fecal pH, and metabolites derived by protein consumption such as SCFAs and ammonia.",
+    "document_source_id": "29534465",
+    "analysis_date": "2025-12-04",
+    "extracted_data": {
+      "core_effect_and_quantification": [
+        {
+          "biomarker_name": "Bacteroidetes phylum",
+          "activity_context": "Long-term protein supplementation in endurance athletes (PRO group vs CHO group)",
+          "direction_of_change": "Increased",
+          "magnitude_quantification": "increased abundance (significant, 11 differentially abundant taxa)"
+        },
+        {
+          "biomarker_name": "Roseburia genus",
+          "activity_context": "Long-term protein supplementation in endurance athletes (PRO group)",
+          "direction_of_change": "Decreased",
+          "magnitude_quantification": "decreased presence (significant within-group analysis)"
+        },
+        {
+          "biomarker_name": "Blautia genus",
+          "activity_context": "Long-term protein supplementation in endurance athletes (PRO group)",
+          "direction_of_change": "Decreased",
+          "magnitude_quantification": "decreased presence (significant within-group analysis)"
+        },
+        {
+          "biomarker_name": "Bifidobacterium longum",
+          "activity_context": "Long-term protein supplementation in endurance athletes (PRO group)",
+          "direction_of_change": "Decreased",
+          "magnitude_quantification": "decreased presence (3.8-fold lower, p = 0.021)"
+        },
+        {
+          "biomarker_name": "total protein intake",
+          "activity_context": "protein supplementation (PRO group)",
+          "direction_of_change": "increase",
+          "magnitude_quantification": "16.65 \".\" 3.16% of baseline (p = 0.018 for total grams; p = 0.003 for kcal from protein; p = 0.008 for kcal per kg body weight)"
+        },
+        {
+          "biomarker_name": "Synergistetes phylum",
+          "activity_context": "protein supplementation (PRO group)",
+          "direction_of_change": "decrease",
+          "magnitude_quantification": "significant (within-group analysis)"
+        },
+        {
+          "biomarker_name": "Synergistales order",
+          "activity_context": "protein supplementation (PRO group)",
+          "direction_of_change": "decrease",
+          "magnitude_quantification": "significant (within-group analysis)"
+        },
+        {
+          "biomarker_name": "Synergistia class",
+          "activity_context": "protein supplementation (PRO group)",
+          "direction_of_change": "decrease",
+          "magnitude_quantification": "significant (within-group analysis)"
+        },
+        {
+          "biomarker_name": "Lachnospiraceae family",
+          "activity_context": "protein supplementation (PRO group)",
+          "direction_of_change": "decrease",
+          "magnitude_quantification": "LDA score -4.5 (within-group analysis)"
+        },
+        {
+          "biomarker_name": "Coprococcus genus",
+          "activity_context": "protein supplementation (PRO group)",
+          "direction_of_change": "decrease",
+          "magnitude_quantification": "significant (within-group analysis)"
+        },
+        {
+          "biomarker_name": "Firmicutes phylum",
+          "activity_context": "protein supplementation (PRO group vs CHO group)",
+          "direction_of_change": "lower abundance",
+          "magnitude_quantification": "significant (11 differentially abundant taxa)"
+        },
+        {
+          "biomarker_name": "Bacteroides genus",
+          "activity_context": "protein supplementation (PRO group vs CHO group)",
+          "direction_of_change": "higher percentage",
+          "magnitude_quantification": "significant (11 differentially abundant taxa)"
+        },
+        {
+          "biomarker_name": "Citrobacter genus",
+          "activity_context": "protein supplementation (PRO group vs CHO group)",
+          "direction_of_change": "lower presence",
+          "magnitude_quantification": "significant (11 differentially abundant taxa)"
+        },
+        {
+          "biomarker_name": "Klebsiella genus",
+          "activity_context": "protein supplementation (PRO group vs CHO group)",
+          "direction_of_change": "lower presence",
+          "magnitude_quantification": "significant (11 differentially abundant taxa)"
+        }
+      ],
+      "molecular_mechanism_and_relationship": {
+        "activity_type_context": "Long-term protein supplementation (beef and whey protein blend) in endurance athletes",
+        "mechanism_description": "Long-term protein supplementation, specifically with a beef and whey protein blend, leads to elevated protein reaching the colon. The colonic microbiota then metabolizes this protein, altering the microbial composition. This process supports the growth of proteolytic Bacteroidetes species, leading to an increased abundance of the Bacteroidetes phylum and Bacteroides genus, while simultaneously decreasing the abundance of the Firmicutes phylum and various health-related taxa and SCFA producers such as Roseburia, Blautia, Coprococcus, and Bifidobacterium longum. These changes indicate a potential gut microbiota imbalance.",
+        "related_biomarkers": [
+          "branched short-chain fatty acids (SCFAs)",
+          "ammonia",
+          "hydrogen sulfide",
+          "methanethiol",
+          "tryptamine",
+          "serotonin",
+          "phenethylamine",
+          "histamine",
+          "Firmicutes phylum",
+          "Bacteroidetes phylum",
+          "Bacteroides genus",
+          "Citrobacter genus",
+          "Klebsiella genus",
+          "Lachnospiraceae family",
+          "Roseburia genus",
+          "Blautia genus",
+          "Coprococcus genus",
+          "Bifidobacterium longum",
+          "Synergistetes phylum",
+          "Synergistales order",
+          "Synergistia class"
+        ]
+      },
+      "dose_intensity_and_specificity": {
+        "dose_comparison_summary": "The study compared a protein supplement group (receiving a daily blend of 10g whey isolate and 10g beef hydrolysate for 10 weeks, resulting in a 16.65 \".\" 3.16% increase in baseline total protein intake, from 20% to 22.5% of energy from protein) against a control group (receiving maltodextrin). This specific dose was chosen to be within the effective range for muscle protein synthesis. While this dose was sufficient to induce significant changes in gut microbiota composition, no comparisons between different protein doses were performed, and it did not impact microbial diversity or metabolite concentrations such as SCFAs and ammonia.",
+        "specificity_finding": "Protein supplementation specifically altered the abundance of various gut bacterial taxa, significantly increasing the Bacteroidetes phylum and Bacteroides genus, while decreasing health-related taxa such as Roseburia, Blautia, Bifidobacterium longum, Coprococcus genus, Lachnospiraceae family, Firmicutes phylum, Synergistetes phylum, Synergistales order, Synergistia class, Citrobacter genus, and Klebsiella genus. Importantly, these changes occurred without significantly affecting fecal pH, water content, ammonia, total SCFA concentrations (including acetic, propionic, butyric, isobutyric, valeric, isovaleric acid), plasma/urine malondialdehyde (TBARS) levels, or overall microbiota alpha- and beta-diversity measures."
+      },
+      "clinical_implication_and_population": {
+        "target_population": "Regularly endurance-training male athletes (cross-country runners) aged 18-45 years, with at least five years of regular endurance training, a minimum of five sessions per week, and a total weekly training time of at least 240 minutes. The study specifically focused on males to reduce data variability in this pilot study.",
+        "health_implication": "Long-term protein supplementation in endurance athletes induces significant changes in gut microbiota composition, specifically decreasing health-promoting bacteria like Blautia, Roseburia, and Bifidobacterium longum. While these changes do not immediately affect SCFA levels, ammonia, or fecal pH, they suggest a potential dysbiosis. The long-term consequences for gut health stemming from these decreases in health-related taxa are currently unknown but indicate a potential negative impact.",
+        "risk_classification": "Adverse risk/Potential dysbiosis, primarily due to the observed decrease in health-related bacterial taxa."
+      },
+      "biomarker_reliability_and_future_focus": {
+        "reliability_assessment": "The study was a randomized, controlled, double-blind pilot study, suggesting the need for further validation of its findings. While the detection of specific bacterial taxa changes was supported by reliable methods like LEfSe analysis and qPCR (for B. longum), and microbiota sequencing depth was sufficient (saturated rarefaction curves), the lack of corresponding changes in fecal SCFA levels despite decreased SCFA-producing bacteria indicates a potential limitation in the magnitude of microbial changes detected or the sensitivity of SCFA measurements in this context. Further research is explicitly recommended to fully establish the impact of protein supplements on gut microbiota.",
+        "recommended_alternatives": [
+          "Balancing protein/carbohydrate ratio with prebiotics when protein intake is elevated",
+          "Accompanying protein supplements with probiotics",
+          "Future research on different doses of protein",
+          "Future research on different sources of protein",
+          "Future research on different dietary ratios of protein/carbohydrate to affect athletes\u2019 microbiota and their potential health effects"
+        ]
+      }
+    }
+  }
+]

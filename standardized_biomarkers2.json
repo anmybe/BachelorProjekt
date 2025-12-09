@@ -1,0 +1,656 @@
+[
+  {
+    "standard_name": "Phosphorylated H2AX",
+    "original_names": [
+      "percentage of \u03b3-H2AX positive cells",
+      "\u03b3-H2AX foci",
+      "\u03b3-H2AX foci per cell"
+    ],
+    "document_source_ids": [
+      "26820970"
+    ]
+  },
+  {
+    "standard_name": "TP53-Binding Protein 1",
+    "original_names": [
+      "53BP1 foci",
+      "53BP1 levels"
+    ],
+    "document_source_ids": [
+      "26820970"
+    ]
+  },
+  {
+    "standard_name": "Carbohydrate Antigen 19-9",
+    "original_names": [
+      "CA19-9"
+    ],
+    "document_source_ids": [
+      "36516200"
+    ]
+  },
+  {
+    "standard_name": "microRNA-4539",
+    "original_names": [
+      "miR-4539"
+    ],
+    "document_source_ids": [
+      "36516200"
+    ]
+  },
+  {
+    "standard_name": "microRNA-6132",
+    "original_names": [
+      "miR-6132"
+    ],
+    "document_source_ids": [
+      "36516200"
+    ]
+  },
+  {
+    "standard_name": "MicroRNA Panel (Undisclosed)",
+    "original_names": [
+      "Five other miRNAs"
+    ],
+    "document_source_ids": [
+      "36516200"
+    ]
+  },
+  {
+    "standard_name": "Long Noncoding RNA Panel (8-gene)",
+    "original_names": [
+      "Signature of 8 long noncoding RNAs"
+    ],
+    "document_source_ids": [
+      "36516200"
+    ]
+  },
+  {
+    "standard_name": "Thrombospondin 2",
+    "original_names": [
+      "THBS2"
+    ],
+    "document_source_ids": [
+      "36516200"
+    ]
+  },
+  {
+    "standard_name": "Anti-P53 Antibody, Carcinoembryonic Antigen, and Carbohydrate Antigen 19-9 Panel",
+    "original_names": [
+      "Anti-p53 antibody in combination with serum concentrations of CEA and CA19-9"
+    ],
+    "document_source_ids": [
+      "36516200"
+    ]
+  },
+  {
+    "standard_name": "Serum Protein Panel (Undisclosed)",
+    "original_names": [
+      "Six serum proteins"
+    ],
+    "document_source_ids": [
+      "36516200"
+    ]
+  },
+  {
+    "standard_name": "Cluster of Differentiation 72",
+    "original_names": [
+      "CD72"
+    ],
+    "document_source_ids": [
+      "36516200"
+    ]
+  },
+  {
+    "standard_name": "Docking Protein 5",
+    "original_names": [
+      "DOK5"
+    ],
+    "document_source_ids": [
+      "36516200"
+    ]
+  },
+  {
+    "standard_name": "Enolase 1",
+    "original_names": [
+      "ENO1"
+    ],
+    "document_source_ids": [
+      "36516200"
+    ]
+  },
+  {
+    "standard_name": "POU Class 2 Homeobox 2",
+    "original_names": [
+      "POU2F2"
+    ],
+    "document_source_ids": [
+      "36516200"
+    ]
+  },
+  {
+    "standard_name": "SPT6 Homolog, Histone Chaperone",
+    "original_names": [
+      "SUPT6H"
+    ],
+    "document_source_ids": [
+      "36516200"
+    ]
+  },
+  {
+    "standard_name": "Protein Panel (26-protein)",
+    "original_names": [
+      "26-protein panel"
+    ],
+    "document_source_ids": [
+      "36516200"
+    ]
+  },
+  {
+    "standard_name": "Protein Panel (17-protein)",
+    "original_names": [
+      "17-protein panel"
+    ],
+    "document_source_ids": [
+      "36516200"
+    ]
+  },
+  {
+    "standard_name": "Protein Panel (4-protein)",
+    "original_names": [
+      "4-protein panel"
+    ],
+    "document_source_ids": [
+      "36516200"
+    ]
+  },
+  {
+    "standard_name": "microRNA-122-5p",
+    "original_names": [
+      "miR-122\u20135p"
+    ],
+    "document_source_ids": [
+      "36516200"
+    ]
+  },
+  {
+    "standard_name": "microRNA-125b-5p",
+    "original_names": [
+      "miR-125b-5p"
+    ],
+    "document_source_ids": [
+      "36516200"
+    ]
+  },
+  {
+    "standard_name": "microRNA-146a-5p",
+    "original_names": [
+      "miR-146a-5p"
+    ],
+    "document_source_ids": [
+      "36516200"
+    ]
+  },
+  {
+    "standard_name": "microRNA-365a-3p",
+    "original_names": [
+      "miR-365a-3p"
+    ],
+    "document_source_ids": [
+      "36516200"
+    ]
+  },
+  {
+    "standard_name": "microRNA-375",
+    "original_names": [
+      "miR-375"
+    ],
+    "document_source_ids": [
+      "36516200"
+    ]
+  },
+  {
+    "standard_name": "MicroRNA Panel (6-7 miRNA)",
+    "original_names": [
+      "6-7 miRNA panel"
+    ],
+    "document_source_ids": [
+      "36516200"
+    ]
+  },
+  {
+    "standard_name": "Eukaryotic Translation Elongation Factor 1 Alpha 1",
+    "original_names": [
+      "EEF1A1"
+    ],
+    "document_source_ids": [
+      "36516200"
+    ]
+  },
+  {
+    "standard_name": "Rabphilin 3A Like",
+    "original_names": [
+      "RPH3AL"
+    ],
+    "document_source_ids": [
+      "36516200"
+    ]
+  },
+  {
+    "standard_name": "Nuclear Receptor Corepressor 1",
+    "original_names": [
+      "NCOR1"
+    ],
+    "document_source_ids": [
+      "36516200"
+    ]
+  },
+  {
+    "standard_name": "L1 Cell Adhesion Molecule",
+    "original_names": [
+      "L1CAM"
+    ],
+    "document_source_ids": [
+      "36516200"
+    ]
+  },
+  {
+    "standard_name": "Transmembrane Protein 161A",
+    "original_names": [
+      "TMEM161A"
+    ],
+    "document_source_ids": [
+      "36516200"
+    ]
+  },
+  {
+    "standard_name": "microRNA-155-5p",
+    "original_names": [
+      "miR-155\u20135p"
+    ],
+    "document_source_ids": [
+      "36516200"
+    ]
+  },
+  {
+    "standard_name": "Protein and MicroRNA Panel (Combined)",
+    "original_names": [
+      "Protein and miRNA biomarker panels (combined)"
+    ],
+    "document_source_ids": [
+      "36516200"
+    ]
+  },
+  {
+    "standard_name": "Interleukin 1 Beta",
+    "original_names": [
+      "IL1B"
+    ],
+    "document_source_ids": [
+      "36516200"
+    ]
+  },
+  {
+    "standard_name": "microRNA-130a-3p",
+    "original_names": [
+      "miR-130a-3p"
+    ],
+    "document_source_ids": [
+      "36516200"
+    ]
+  },
+  {
+    "standard_name": "Annexin A1",
+    "original_names": [
+      "ANXA1"
+    ],
+    "document_source_ids": [
+      "36516200"
+    ]
+  },
+  {
+    "standard_name": "Aquaporin 1",
+    "original_names": [
+      "AQP1"
+    ],
+    "document_source_ids": [
+      "36516200"
+    ]
+  },
+  {
+    "standard_name": "Calpain 2",
+    "original_names": [
+      "CAPN2"
+    ],
+    "document_source_ids": [
+      "36516200"
+    ]
+  },
+  {
+    "standard_name": "Cluster of Differentiation 59",
+    "original_names": [
+      "CD59"
+    ],
+    "document_source_ids": [
+      "36516200"
+    ]
+  },
+  {
+    "standard_name": "Engulfment And Cell Motility 2",
+    "original_names": [
+      "ELMO2"
+    ],
+    "document_source_ids": [
+      "36516200"
+    ]
+  },
+  {
+    "standard_name": "Glutathione S-Transferase Mu 4",
+    "original_names": [
+      "GSTM4"
+    ],
+    "document_source_ids": [
+      "36516200"
+    ]
+  },
+  {
+    "standard_name": "Hyaluronan-Mediated Motility Receptor",
+    "original_names": [
+      "HMMR"
+    ],
+    "document_source_ids": [
+      "36516200"
+    ]
+  },
+  {
+    "standard_name": "Insulin Like Growth Factor 2 MRNA Binding Protein 3",
+    "original_names": [
+      "IGF2BP3"
+    ],
+    "document_source_ids": [
+      "36516200"
+    ]
+  },
+  {
+    "standard_name": "Neuropilin And Tolloid Like 2",
+    "original_names": [
+      "NETO2"
+    ],
+    "document_source_ids": [
+      "36516200"
+    ]
+  },
+  {
+    "standard_name": "Proteinase 3",
+    "original_names": [
+      "PRTN3"
+    ],
+    "document_source_ids": [
+      "36516200"
+    ]
+  },
+  {
+    "standard_name": "Tight Junction Protein 2",
+    "original_names": [
+      "TJP2"
+    ],
+    "document_source_ids": [
+      "36516200"
+    ]
+  },
+  {
+    "standard_name": "Thymic Stromal Lymphopoietin",
+    "original_names": [
+      "TSLP"
+    ],
+    "document_source_ids": [
+      "36516200"
+    ]
+  },
+  {
+    "standard_name": "TTK Protein Kinase",
+    "original_names": [
+      "TTK"
+    ],
+    "document_source_ids": [
+      "36516200"
+    ]
+  },
+  {
+    "standard_name": "Vascular Endothelial Growth Factor A",
+    "original_names": [
+      "VEGFA"
+    ],
+    "document_source_ids": [
+      "36516200"
+    ]
+  },
+  {
+    "standard_name": "Cluster of Differentiation 226",
+    "original_names": [
+      "CD226+ B cells",
+      "CD226+ CD4+ T cells",
+      "CD226+ CD8+ T cells",
+      "CD226+ NK cells",
+      "CD226+ SM B cells",
+      "CD226+ cells (in whole B cells and all subsets)",
+      "CD226+ plasmablasts"
+    ],
+    "document_source_ids": [
+      "34367178"
+    ]
+  },
+  {
+    "standard_name": "Insulin-like Growth Factor 1",
+    "original_names": [
+      "IGF-I"
+    ],
+    "document_source_ids": [
+      "31123862"
+    ]
+  },
+  {
+    "standard_name": "Anti-A Antibody",
+    "original_names": [
+      "anti-A IgG RMF",
+      "anti-A IgM RMF",
+      "anti-A IgM RMF and anti-A IgG RMF",
+      "anti-A antibody levels"
+    ],
+    "document_source_ids": [
+      "34970278"
+    ]
+  },
+  {
+    "standard_name": "Immunoglobulin M",
+    "original_names": [
+      "IgM"
+    ],
+    "document_source_ids": [
+      "34970278"
+    ]
+  },
+  {
+    "standard_name": "Complement C3c",
+    "original_names": [
+      "C3c"
+    ],
+    "document_source_ids": [
+      "34970278"
+    ]
+  },
+  {
+    "standard_name": "Complement C5b-9",
+    "original_names": [
+      "C5b-9"
+    ],
+    "document_source_ids": [
+      "34970278"
+    ]
+  },
+  {
+    "standard_name": "Immunoglobulin G",
+    "original_names": [
+      "IgG"
+    ],
+    "document_source_ids": [
+      "34970278"
+    ]
+  },
+  {
+    "standard_name": "Cluster of Differentiation 3",
+    "original_names": [
+      "CD3+"
+    ],
+    "document_source_ids": [
+      "34970278"
+    ]
+  },
+  {
+    "standard_name": "Cluster of Differentiation 20",
+    "original_names": [
+      "CD20+"
+    ],
+    "document_source_ids": [
+      "34970278"
+    ]
+  },
+  {
+    "standard_name": "Cluster of Differentiation 68",
+    "original_names": [
+      "CD68+"
+    ],
+    "document_source_ids": [
+      "34970278"
+    ]
+  },
+  {
+    "standard_name": "Hyperacute Rejection",
+    "original_names": [
+      "Hyperacute Rejection (HAR)"
+    ],
+    "document_source_ids": [
+      "34970278"
+    ]
+  },
+  {
+    "standard_name": "Procollagen Type II N-terminal Propeptide",
+    "original_names": [
+      "PIIBNP",
+      "PIIBNP (hsPRO-C2)"
+    ],
+    "document_source_ids": [
+      "30404167"
+    ]
+  },
+  {
+    "standard_name": "Procollagen Type I N-terminal Propeptide",
+    "original_names": [
+      "PIIANP",
+      "PINP"
+    ],
+    "document_source_ids": [
+      "30404167"
+    ]
+  },
+  {
+    "standard_name": "Collagen Type II Marker",
+    "original_names": [
+      "C2M"
+    ],
+    "document_source_ids": [
+      "30404167"
+    ]
+  },
+  {
+    "standard_name": "Procollagen Type I C-terminal Propeptide",
+    "original_names": [
+      "PIICP"
+    ],
+    "document_source_ids": [
+      "30404167"
+    ]
+  },
+  {
+    "standard_name": "C-X-C Motif Chemokine Ligand 12",
+    "original_names": [
+      "Cxcl12",
+      "SDF-1\u03b1"
+    ],
+    "document_source_ids": [
+      "24270800"
+    ]
+  },
+  {
+    "standard_name": "E-Selectin",
+    "original_names": [
+      "Sele"
+    ],
+    "document_source_ids": [
+      "24270800"
+    ]
+  },
+  {
+    "standard_name": "Fibroblast Growth Factor 2",
+    "original_names": [
+      "Fgf2"
+    ],
+    "document_source_ids": [
+      "24270800"
+    ]
+  },
+  {
+    "standard_name": "Leukemia Inhibitory Factor Receptor",
+    "original_names": [
+      "Lifr"
+    ],
+    "document_source_ids": [
+      "24270800"
+    ]
+  },
+  {
+    "standard_name": "Hypoxia-Inducible Factor 1 Alpha",
+    "original_names": [
+      "HIF-1\u03b1"
+    ],
+    "document_source_ids": [
+      "24270800"
+    ]
+  },
+  {
+    "standard_name": "Heat Shock Protein 27",
+    "original_names": [
+      "HSP27"
+    ],
+    "document_source_ids": [
+      "24270800"
+    ]
+  },
+  {
+    "standard_name": "Heat Shock Protein 70",
+    "original_names": [
+      "HSP70"
+    ],
+    "document_source_ids": [
+      "24270800"
+    ]
+  },
+  {
+    "standard_name": "Interferon Gamma",
+    "original_names": [
+      "IFN\u03b3"
+    ],
+    "document_source_ids": [
+      "24270800"
+    ]
+  },
+  {
+    "standard_name": "Granulocyte-Macrophage Colony-Stimulating Factor",
+    "original_names": [
+      "GM-CSF"
+    ],
+    "document_source_ids": [
+      "24270800"
+    ]
+  }
+]

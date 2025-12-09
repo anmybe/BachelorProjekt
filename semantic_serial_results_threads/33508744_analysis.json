@@ -1,0 +1,96 @@
+[
+  {
+    "title": "EBioMedicine EBioMedicine EBioMedicine 2352-3964 Elsevier 7841305 S2352-3964(21)00009-8 10.1016/j.ebiom.2021.103216 103216 Research Paper Early signature in the blood lipidome associated with subsequent cognitive decline in the elderly: A case-control analysis nested within the Three-City cohort study Lef\u00e8vre-Arbogast Sophie a Hejblum Boris P a b Helmer Catherine a Klose Christian c Manach Claudine d Low Dorrain Y d Urpi-Sarda Mireia e Andres-Lacueva Cristina e Gonz\u00e1lez-Dom\u00ednguez Ra\u00fal e Aigner Ludwig f Altendorfer Barbara f Lucassen Paul J g Ruigrok Silvie R g De Lucia Chiara h Du Preez Andrea h Proust-Lima C\u00e9cile a Thuret Sandrine h i Korosi Aniko g Samieri C\u00e9cilia cecilia.samieri@u-bordeaux.fr a \u204e a University of Bordeaux, Inserm, Bordeaux Population Health Research Center, UMR 1219, 146 rue L\u00e9o-Saignat, Bordeaux 33076, France b Inria SISTM, Bordeaux Sud-Ouest, Bordeaux 33000, France c Lipotype GmbH, Tatzberg 47, Dresden 01307, Germany d University of Clermont Auvergne, INRA, UMR1019, Human Nutrition Unit, Clermont Ferrand 63000, France e Nutrition, Food Science and Gastronomy Department, Faculty of Pharmacy and Food Science, CIBER Fragilidad y Envejecimiento Saludable (CIBERFES), Instituto de Salud Carlos III, University of Barcelona, Barcelona 08028, Spain f Institute of Molecular Regenerative Medicine, Spinal Cord Injury and Tissue Regeneration Center Salzburg, Paracelsus Medical University, Salzburg 5020, Austria g Brain Plasticity Group, Swammerdam Institute for Life Sciences, Center for Neuroscience, University of Amsterdam, Amsterdam 1098 XH, Netherlands h Department of Basic and Clinical Neuroscience, Maurice Wohl Clinical Neuroscience Institute, Institute of Psychiatry, Psychology and Neuroscience, King's College London, London SE5 9NU, United Kingdom i Department of Neurology, University Hospital Carl Gustav Carus, Technische Universit\u00e4t Dresden, Germany \u204e Corresponding author. University of Bordeaux, Inserm, Bordeaux Population Health Research Center, UMR 1219, 146 rue L\u00e9o-Saignat, 33076 Bordeaux cedex, France cecilia.samieri@u-bordeaux.fr 25 1 2021 2 2021 25 1 2021 64 103216 8 10 2020 4 1 2021 5 1 2021 \u00a9 2021 The Authors 2021 This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/). Background Brain lipid metabolism appears critical for cognitive aging, but whether alterations in the lipidome relate to cognitive decline remains unclear at the system level. Methods We studied participants from the Three-City study, a multicentric cohort of older persons, free of dementia at time of blood sampling, and who provided repeated measures of cognition over 12 subsequent years. We measured 189 serum lipids from 13 lipid classes using shotgun lipidomics in a case-control sample on cognitive decline (matched on age, sex and level of education) nested within the Bordeaux study center (discovery, n = 418). Associations with cognitive decline were investigated using bootstrapped penalized regression, and tested for validation in the Dijon study center (validation, n = 314). Findings Among 17 lipids identified in the discovery stage, lower levels of the triglyceride TAG50:5, and of four membrane lipids (sphingomyelin SM40:2,2, phosphatidylethanolamine PE38:5(18:1/20:4), ether-phosphatidylethanolamine PEO34:3(16:1/18:2), and ether-phosphatidylcholine PCO34:1(16:1/18:0)), and higher levels of PCO32:0(16:0/16:0), were associated with greater odds of cognitive decline, and replicated in our validation sample. Interpretation These findings indicate that in the blood lipidome of non-demented older persons, a specific profile of lipids involved in membrane fluidity, myelination, and lipid rafts, is associated with subsequent cognitive decline. Funding The complete list of funders is available at the end of the manuscript, in the Acknowledgement section. Keywords Cognitive dysfunction Dementia Membrane lipids Metabolomics Lipidomics Serum biomarker Research in Context Evidence before this study While cognitive decline and dementia evolve slowly over years, a long-term prospective approach is critical to identify early biomarkers and etiological risk pathways. Prior lipidomics studies were often cross-sectional or with short follow-up, and were thus as likely to reveal lipid changes due to deteriorating cognitive health as to reflect causal pathways. Added value of this study Our prospective approach, where investigation of the blood lipidome precedes ascertainment of cognitive decline over 12 years, enhanced by a validation effort, provides a methodologically robust early signature of cognitive aging in the blood lipidome. Implications of all the available evidence Our findings extend preliminary evidence suggesting a dysregulation of the blood lipidome toward decreasing membrane lipids (involved in neurone membrane fluidity, myelination and lipid raft microdomains), as a very early biomarker in the course of cognitive decline. Alt-text: Unlabelled box 1 Introduction Lipids are major constituents of neuronal membranes and play a central role in brain functioning. Converging evidence has recently implicated lipid metabolism in brain aging, including in neurodegenerative diseases such as late-onset Alzheimer's disease (AD) [1] , [2] , [3] . Epidemiological studies have shown that elevated blood cholesterol and triglycerides in midlife, and lower blood levels of omega-3 long-chain polyunsaturated fatty acids (LC-PUFA) are associated with higher risks of cognitive impairment and dementia [ 4 , 5 ]. Neuropathological studies further reported AD brains to contain an abnormal composition of two major classes of brain phospholipids, i.e. phosphatidylcholines (PC) and phosphatidylethanolamines (PE) [ 6 , 7 ]. Although this suggests a role for specific lipids in brain aging and cognitive function, a more complete picture of the lipid profiles and changes in lipid metabolism that could help understand cognitive changes with aging is lacking at the systematic level. Lipidomics is a technology that may help better understand the overall pattern of lipid (dys)regulation in relation to brain aging as it allows to investigate hundreds of lipids and their metabolites in biological fluids and tissues. For example, the blood lipidomics studies conducted thus far in AD and cognitive impairment have revealed promising associations with (i) apolar lipids, including triglycerides [8] , [9] , [10] and cholesterol esters (CE) [ 8 , 11 ] and with (ii) polar, structural lipids, which are incorporated in cell membranes (e.g., PC [ 8 , [10] , [11] , [12] , [13] , [14] , [15] , [16] , [17] , [18] , [19] , [20] , [21] , [22] ], sphingomyelins [SM] [ 9 , 10 , [18] , [19] , [20] , [21] , 23 , 24 ], and ceramides [Cer] [ 10 , 21 , 23 , 24 ]). However, most of these studies failed to measure PE, i.e. a main class of lipids that is strongly altered in AD brain [ 7 , 25 , 26 ]. In addition, previous studies were often cross-sectional or with short follow-up and their data have thus most likely been influenced by behavioral and metabolic changes due to the deteriorating cognitive health itself (i.e., reverse causation). Brain aging is a heterogeneous process driven by both normal aging and pathology (i.e., dementia and AD); both are closely related (e.g., aging is the primary risk factor for dementia), share many risk factors and underlying mechanisms, and together determine an individual's course of cognitive decline. In dementia and AD science, there is therefore a strong biological rationale to investigate the continuum of brain aging globally, through cognitive decline [27] . As brain aging evolves slowly over the years, a long-term prospective approach is critical if one wants to study metabolic profiles in relation to early biomarkers and etiological risk pathways. So far, few groups have taken such a prospective approach. In addition, while reproducibility is critical in - omics studies, validation in an external sample was rarely performed, and lipidomics studies in relation to cognitive impairment often had inconsistent results [ 13 , [17] , [18] , [19] , 23 , 28 ]. The large Three-City (3C) cohort study provides unique prospective data to decipher molecular signatures of accelerated cognitive decline. Our objective was to identify, in the 3C study, a robust and valid serum lipid signature associated with subsequent cognitive decline 12 years later.",
+    "document_source_id": "33508744",
+    "analysis_date": "2025-12-04",
+    "extracted_data": {
+      "core_effect_and_quantification": [
+        {
+          "biomarker_name": "TAG50:5",
+          "activity_context": "cognitive decline",
+          "direction_of_change": "lower",
+          "magnitude_quantification": "ORs for 1SD- decrease = 2.61 (discovery) and 1.44 [0.96\u20132.17] (validation)"
+        },
+        {
+          "biomarker_name": "SM40:2,2",
+          "activity_context": "cognitive decline",
+          "direction_of_change": "lower",
+          "magnitude_quantification": "ORs for 1SD- decrease = 1.99 (discovery) and 1.69 [1.19\u20132.40] (validation)"
+        },
+        {
+          "biomarker_name": "PE38:5(18:1/20:4)",
+          "activity_context": "cognitive decline",
+          "direction_of_change": "lower",
+          "magnitude_quantification": "ORs for 1SD- decrease = 1.38 (discovery) and 1.32 [0.97\u20131.81] (validation)"
+        },
+        {
+          "biomarker_name": "PEO34:3(16:1/18:2)",
+          "activity_context": "cognitive decline",
+          "direction_of_change": "lower",
+          "magnitude_quantification": "ORs for 1SD- decrease = 1.11 (discovery) and 1.31 [0.96\u20131.79] (validation)"
+        },
+        {
+          "biomarker_name": "PCO34:1(16:1/18:0)",
+          "activity_context": "cognitive decline",
+          "direction_of_change": "lower",
+          "magnitude_quantification": "ORs for 1SD- decrease = 1.53 (discovery) and 1.50 [1.04\u20132.16] (validation)"
+        },
+        {
+          "biomarker_name": "PCO32:0(16:0/16:0)",
+          "activity_context": "cognitive decline",
+          "direction_of_change": "higher",
+          "magnitude_quantification": "OR for 1SD- increase = 1.85 (discovery) and 1.58 [0.93\u20132.66] (validation)"
+        },
+        {
+          "biomarker_name": "Lipid signature score",
+          "activity_context": "cognitive decline",
+          "direction_of_change": "increase",
+          "magnitude_quantification": "OR for 1SD- increase in score = 3.39 (discovery) and 1.39 [95% CI 1.08\u20131.78] (validation)"
+        },
+        {
+          "biomarker_name": "PCO34:2",
+          "activity_context": "cognitive decline/AD",
+          "direction_of_change": "higher",
+          "magnitude_quantification": "associated with greater risk/decline in validation stage and Baltimore Longitudinal Study of Aging"
+        }
+      ],
+      "molecular_mechanism_and_relationship": {
+        "activity_type_context": "cognitive decline, brain aging, Alzheimer's disease (AD)",
+        "mechanism_description": "A specific profile of lipids involved in membrane fluidity, myelination, and lipid rafts is associated with subsequent cognitive decline. This suggests a dysregulation of the blood lipidome toward decreasing membrane lipids. Sphingomyelins (SM) and ether phospholipids (PCO/PEO, plasmalogens) are enriched in the myelin sheath and are key components of lipid rafts, which are crucial for cellular signaling, neurotransmission, and synaptic plasticity. Alterations in lipid raft structure and composition can influence amyloid beta production in Alzheimer's disease. Imbalances, such as decreasing unsaturated fatty acids and increasing saturated fatty acids in phospholipids, are hypothesized to be related to AD. Specifically, lower levels of phosphatidylethanolamines (PE) with two unsaturated fatty acids and higher levels of saturated phosphatidylcholines (PCO) are associated with greater cognitive decline.",
+        "related_biomarkers": [
+          "TAG50:5",
+          "SM40:2,2",
+          "PE38:5(18:1/20:4)",
+          "PEO34:3(16:1/18:2)",
+          "PCO34:1(16:1/18:0)",
+          "PCO32:0(16:0/16:0)",
+          "PCO34:2",
+          "Triglycerides",
+          "Cholesterol esters (CE)",
+          "Phosphatidylcholines (PC)",
+          "Sphingomyelins (SM)",
+          "Ceramides (Cer)",
+          "Phosphatidylethanolamines (PE)",
+          "Phosphatidylinositol (PI)",
+          "plasmalogens",
+          "unsaturated fatty acids",
+          "saturated fatty acids",
+          "amyloid beta"
+        ]
+      },
+      "dose_intensity_and_specificity": {
+        "dose_comparison_summary": "Associations for individual lipids and the overall lipid signature were quantified per 1-standard deviation (1SD) change, indicating an intensity-dependent effect where larger changes are associated with greater cognitive decline. The study identified an 'early signature' preceding cognitive decline over 12 years. The association of the overall lipid signature with cognitive decline appeared stronger among APOE-\b54 carriers, indicating a differential effect based on genetic background, though this effect was not observed for individual lipids.",
+        "specificity_finding": "A specific profile of blood lipids (including a triglyceride and various membrane lipids) was identified and replicated as an early signature associated with subsequent cognitive decline. This signature showed effect modification by APOE-\b54 genotype in the validation sample, with a stronger association for the lipid signature score among APOE-\b54 carriers (OR=2.51 vs 1.26 for non-carriers; P for interaction=0.04), suggesting genetic specificity for this subgroup. No effect modification was observed for individual lipids or by diabetes."
+      },
+      "clinical_implication_and_population": {
+        "target_population": "Non-demented, non-institutionalized community dwellers aged 65 years and older (average age 76 years) from the Three-City study cohort in France (Bordeaux, Dijon, Montpellier). Participants had serum samples, no dementia diagnosis at baseline, at least one repeated cognitive examination over 12 years, and included specifically highlighted APOE-\b54 carriers.",
+        "health_implication": "The study identifies a robust serum lipid signature and specific lipids associated with greater subsequent cognitive decline over 12 years, serving as early biomarkers for cognitive aging and dementia. This involves investigating metabolomics and lipidomics profiles in relation to subsequent trajectories of cognitive decline, with a primary outcome focused on changes in a composite score of global cognition.",
+        "risk_classification": "Diagnostic and prognostic utility; the identified lipid signature serves as an early biomarker for predicting adverse risk and identifying individuals at higher risk of greater subsequent cognitive decline."
+      },
+      "biomarker_reliability_and_future_focus": {
+        "reliability_assessment": "The identified lipid profile and signature (comprising 17 lipids, with 6 individual lipids replicated) were robust and valid, successfully replicated in a validation sample. This reliability is attributed to a prospective population-based design, long-term follow-up over 12 years, a harmonized validation sample and analytical platform (shotgun lipidomics), and a robust analytical strategy using bootstrapped LASSO-penalized conditional logistic regression (lipids selected in at least 60% of 1000 bootstrapped samples, replication threshold p <0.10). Limitations acknowledged include single-time-point lipid measurements, moderate sample size potentially leading to false negatives, possible measurement error from an extreme-phenotyping strategy, residual confounding inherent in observational studies, and limited generalizability due to the specific case-control design. Heterogeneity across previous lipidomics studies also limits direct comparability.",
+        "recommended_alternatives": []
+      }
+    }
+  }
+]

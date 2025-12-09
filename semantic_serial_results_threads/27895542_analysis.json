@@ -1,0 +1,99 @@
+[
+  {
+    "title": "J Int Soc Sports Nutr J Int Soc Sports Nutr Journal of the International Society of Sports Nutrition 1550-2783 BioMed Central London 5109721 151 10.1186/s12970-016-0151-x Research Article Effect of tart cherry juice on recovery and next day performance in well-trained Water Polo players McCormick Rachel 1 2 Peeling Peter 1 2 Binnie Martyn 2 Dawson Brian 1 http://orcid.org/0000-0001-5166-0605 Sim Marc +61 3 5327 9004 m.sim@federation.edu.au 2 3 1 School of Sport Science, Exercise and Health, The University of Western Australia, Crawley, Western Australia Australia 2 Western Australian Institute of Sport, Mt Claremont, Western Australia Australia 3 School of Health Sciences and Psychology, Federation University, Mt Helen, Victoria Australia 14 11 2016 14 11 2016 2016 13 41 12 8 2016 25 10 2016 \u00a9 The Author(s). 2016 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License ( http://creativecommons.org/licenses/by/4.0/ ), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver ( http://creativecommons.org/publicdomain/zero/1.0/ ) applies to the data made available in this article, unless otherwise stated. Background Tart Montmorency cherries contain high concentrations of phytochemicals and anthocyanins, which have recently been linked to improved athletic recovery and subsequent performance. To date however, previous work reporting promising results has focused on land-based endurance sports, with any potential benefits to team sports remaining unknown. As such, this investigation set-out to examine the effect of supplemental tart cherry juice (CJ) on recovery and next day athletic performance in highly-trained water-based team sport athletes over seven days. Methods In a randomised, double-blind, repeated measures, crossover design, nine male Water Polo athletes were supplemented with CJ or a placebo equivalent (PLA) for six consecutive days. Prior to, and at the completion of the supplementation period, water-based performance testing was conducted. On day 6, participants also undertook a fatiguing simulated team game activity. Venous blood samples were collected (Pre-exercise: day 1, 6 and 7; Post-exercise: day 6) to investigate markers of inflammation [Interleukin-6 (IL-6); C-reactive protein (CRP)] and oxidative stress [Uric Acid (UA); F2-Isoprostane (F2-IsoP)]. A daily diary was also completed (total quality of recovery, delayed onset muscle soreness) as a measure of perceptual recovery. Results In both conditions, day 6 post-exercise IL-6 was significantly higher than pre-exercise and day 7 ( p < 0.05); CRP was greater on day 7 as compared to day 6 pre- and post-exercise ( p < 0.05); F2-IsoP was significantly lower on day 7 as compared to day 1 and day 6 ( p < 0.05); UA remained unchanged ( p > 0.05). No differences were found for any performance or recovery measures. Conclusions The lack of difference observed in the blood markers between groups may reflect the intermittent, non-weight bearing demands of Water Polo, with such activity possibly unable to create a substantial inflammatory response or oxidative stress (over 7 days) to impede performance; thereby negating any potential beneficial effects associated with CJ supplementation. Trial registration This trial was registered with the Australian and New Zealand Clinical Trials Registry (ANZCTR). Registration number: ACTRN12616001080415 . Date registered: 11/08/2016, retrospectively registered. Keywords Supplement Inflammation Oxidative stress Team-sports Australian Institute of Sport; Australian Sports Comission issue-copyright-statement \u00a9 The Author(s) 2016 Background Tart Montmorency cherries have recently gained repute as a useful supplement for athletes due to their high concentration of phytochemicals and anthocyanins, which have been linked to numerous health benefits. These include high anti-inflammatory and anti-oxidant capacities, enhanced sleep, improved recovery and a reduction in post-exercise muscle damage and soreness [ 1 \u2013 3 ]. Such findings have recently led to tart cherry juice (CJ) being included as a \u2018Group B\u2019 supplement (warrants further research/provided to athletes within research or clinical monitoring situations) on the Australian Institutue of Sport Supplement Classification System. To date however, all exercise-based studies have investigated the effects of CJ supplementation on recovery from maximal strength or endurance (>60 min duration) exercise, demonstrating an attenuation of markers related to both inflammation and oxidative stress [ 2 , 4 , 5 ]. As such, any response linked to accelerated recovery would appear beneficial when considering the large training load experienced by high performance athletes. Despite the aforementioned benefits of tart CJ supplementation, its effect on performance, inflammation and oxidative stress in water-based team sport athletes remains unknown. Specifically, the non-weight bearing intermittent nature of Water Polo may influence the typical post-exercise inflammatory and oxidative stress response (compared to endurance exercise), thus having implications for the type of recovery strategies adopted by such populations. Therefore, the aim of this investigation was to assess the effect of supplemental tart CJ on athletic recovery and next day performance in highly-trained Water Polo players. It was hypothesised that tart CJ supplementation (in comparison to a placebo [PLA] equivalent) would; (a) improve athletic performance, and (b) reduce post-exercise markers of inflammation, oxidative stress and perceptual muscle soreness.",
+    "document_source_id": "27895542",
+    "analysis_date": "2025-12-04",
+    "extracted_data": {
+      "core_effect_and_quantification": [
+        {
+          "biomarker_name": "Interleukin-6 (IL-6)",
+          "activity_context": "Water Polo: fatiguing simulated team game activity / post-exercise during supplementation period",
+          "direction_of_change": "higher",
+          "magnitude_quantification": "day 6 post-exercise significantly higher than pre-exercise and day 7 (p < 0.05); general post-exercise up to ~40 times higher"
+        },
+        {
+          "biomarker_name": "C-reactive protein (CRP)",
+          "activity_context": "Water Polo: fatiguing simulated team game activity / post-exercise during supplementation period",
+          "direction_of_change": "greater",
+          "magnitude_quantification": "greater on day 7 as compared to day 6 pre- and post-exercise (p < 0.05); general post-exercise up to ~6 times higher"
+        },
+        {
+          "biomarker_name": "F2-Isoprostane (F2-IsoP)",
+          "activity_context": "Water Polo: fatiguing simulated team game activity / over time / post-exercise during supplementation period",
+          "direction_of_change": "lower",
+          "magnitude_quantification": "significantly lower on day 7 as compared to day 1 and day 6 (p < 0.05) pre- and post-exercise"
+        },
+        {
+          "biomarker_name": "BLa (Blood Lactate)",
+          "activity_context": "Water Polo: post-WIST and RST Water Polo tests",
+          "direction_of_change": "lower",
+          "magnitude_quantification": "p < 0.05 on day 7 compared to day 1 across both conditions"
+        },
+        {
+          "biomarker_name": "Interleukin-6 (IL-6)",
+          "activity_context": "marathon running with CJ supplementation",
+          "direction_of_change": "lower",
+          "magnitude_quantification": "~50% lower"
+        },
+        {
+          "biomarker_name": "C-reactive protein (CRP)",
+          "activity_context": "marathon running with CJ supplementation",
+          "direction_of_change": "lower",
+          "magnitude_quantification": "~35% lower"
+        },
+        {
+          "biomarker_name": "Interleukin-6 (IL-6)",
+          "activity_context": "endurance cycling with CJ supplementation",
+          "direction_of_change": "lower",
+          "magnitude_quantification": "~50% lower"
+        },
+        {
+          "biomarker_name": "C-reactive protein (CRP)",
+          "activity_context": "endurance cycling with CJ supplementation",
+          "direction_of_change": "lower",
+          "magnitude_quantification": "~80% lower"
+        },
+        {
+          "biomarker_name": "Delayed onset muscle soreness (DOMS)",
+          "activity_context": "repeated maximal eccentric contractions with CJ supplementation",
+          "direction_of_change": "diminished",
+          "magnitude_quantification": "significantly diminished (vs. PLA)"
+        },
+        {
+          "biomarker_name": "Maximal isometric strength loss",
+          "activity_context": "repeated maximal eccentric contractions with CJ supplementation",
+          "direction_of_change": "attenuated",
+          "magnitude_quantification": "4% decrement (vs. 22% for PLA)"
+        }
+      ],
+      "molecular_mechanism_and_relationship": {
+        "activity_type_context": "Investigation of tart cherry juice (CJ) supplementation's effects on athletic recovery and performance, focusing on biological markers during water polo training and simulated match activity, and its general role in exercise-induced inflammation and oxidative stress.",
+        "mechanism_description": "Tart Montmorency cherries are rich in phytochemicals and anthocyanins, known for their anti-inflammatory and anti-oxidant properties. These compounds are theorized to improve athletic recovery, reduce post-exercise muscle damage and soreness, and attenuate markers of inflammation and oxidative stress, thereby maintaining muscular function and preserving strength. However, the current study in Water Polo players found no such attenuation in circulating IL-6, CRP, or oxidative stress markers with CJ supplementation. This lack of effect is hypothesized to stem from the inherently lower mechanical strain, inflammation, and oxidative stress induced by the weight-supported, intermittent nature of Water Polo compared to land-based endurance activities, which typically elicit a more substantial inflammatory response.",
+        "related_biomarkers": [
+          "Interleukin-6 (IL-6)",
+          "C-reactive protein (CRP)",
+          "Uric Acid (UA)",
+          "F2-Isoprostane (F2-IsoP)",
+          "Delayed onset muscle soreness (DOMS)",
+          "Total Quality of Recovery (TQR)",
+          "muscular function",
+          "soreness",
+          "strength"
+        ]
+      },
+      "dose_intensity_and_specificity": {
+        "dose_comparison_summary": "In the current study, participants consumed 90 mL daily of tart Montmorency CJ concentrate (diluted to a 200 mL beverage, taken twice daily) or a placebo for six consecutive days. Despite this higher daily dose (equivalent to 270 cherries and 820 mg anthocyanins) compared to previous studies that reported benefits (e.g., 120 cherries and 80 mg anthocyanins, or different serving sizes like 2x240ml or 2x30ml concentrates), no significant differences were observed in blood markers or performance measures between the CJ and placebo groups. The final CJ dose was consumed prior to performance testing, unlike some other studies. The average daily training load was similar between conditions, suggesting the lack of effect was not due to differing exercise stress.",
+        "specificity_finding": "The study specifically investigated the effects of tart cherry juice, differentiating it from placebo by the absence of anthocyanins. It found that CJ supplementation had no effect on athletic performance or recovery in highly-trained Water Polo athletes. This lack of specificity is strongly linked to the exercise modality: the intermittent, non-weight bearing nature of Water Polo likely induces substantially lower mechanical strain, inflammation, and oxidative stress compared to land-based endurance or maximal strength exercises. This suggests that CJ benefits might be specific to sports that elicit a more significant inflammatory and muscle damage response."
+      },
+      "clinical_implication_and_population": {
+        "target_population": "The primary target population for this study was nine highly-trained male Water Polo players (mean age 18.6 +/- 1.4 years) from the Western Australian Institute of Sport. Previous research, for comparison, has focused on marathon runners, endurance cyclists, and athletes performing repeated maximal eccentric contractions. Future research may extend to running-based (weight-bearing) team sports.",
+        "health_implication": "Despite investigating its potential, this study found no demonstrable beneficial effects of tart cherry juice supplementation on recovery, next day athletic performance, or the reduction of post-exercise inflammation (IL-6, CRP) and oxidative stress (F2-IsoP) in highly-trained Water Polo players. While CJ has been linked to recovery, anti-inflammatory/antioxidant activity, improved muscular function, and reduced soreness/strength loss in other athletic contexts, these benefits were not observed in this specific population and exercise modality.",
+        "risk_classification": "This study indicates a lack of observed protective or demonstrable benefit from tart cherry juice supplementation for athletic recovery and performance in highly-trained Water Polo players. While CJ is investigational and has shown potential protective benefits in specific high-inflammation/muscle damage contexts, no such benefits were evident in the lower-inflammation demands of water-based sports."
+      },
+      "biomarker_reliability_and_future_focus": {
+        "reliability_assessment": "The reliability of the assayed inflammatory markers (hsIL-6, hsCRP) and oxidative stress markers (UA, F2-IsoP) was confirmed by low inter-assay and intra-assay coefficients of variation (CVs), and the water-based testing protocols are established and adopted by Water Polo Australia. However, the study's limitations include unconfirmed anthocyanin concentrations in the specific commercial and placebo supplements used, and the absence of plasma anthocyanin level analysis, although active ingredient concentration was previously published, and adherence was confirmed. The lack of observed differences in blood markers is largely attributed to the intermittent, non-weight bearing demands of Water Polo not inducing a substantial inflammatory or oxidative stress response, making these biomarkers less sensitive to potential CJ benefits in this context compared to activities with higher mechanical strain.",
+        "recommended_alternatives": []
+      }
+    }
+  }
+]

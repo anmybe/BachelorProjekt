@@ -1,0 +1,389 @@
+[
+  {
+    "title": "pmc Front Immunol Front Immunol Front. Immunol. Frontiers in Immunology 1664-3224 Frontiers Media S.A. 12179060 10.3389/fimmu.2025.1590257 Immunology Original Research Integrated analysis of myeloperoxidase in gastric health and cancer: associations with pepsinogen levels, immune regulation, and prognosis in a large healthy population-based and TCGA cohorts Zhou Junteng 1 \u2020 Kong Qihang 2 \u2020 Liu Xiaojing 2 3 * Huang Yan 1 4 5 6 * 1 Health Management Center, General Practice Medical Center, West China Hospital, Sichuan University , Chengdu , China 2 Laboratory of Cardiovascular Diseases, Regenerative Medicine Research Center, West China Hospital, Sichuan University , Chengdu , China 3 Department of Cardiology, West China Hospital, Sichuan University , Chengdu , China 4 State Key Laboratory of Respiratory Health and Multimorbidity, West China Hospital, Sichuan University , Chengdu , China 5 Research Laboratory for Prediction and Evaluation of Chronic Diseases in the Elderly, National Clinical Research Center for Geriatric Diseases , Chengdu , China 6 General Practice Research Institute, West China Hospital, Sichuan University , Chengdu , China Edited by: Arumugam Jayakumar, University of Texas MD Anderson Cancer Center, United States Reviewed by: Wei Wang, Air Force Medical University, China Xianzhu Zhou, Second Military Medical University, China *Correspondence: Yan Huang, yanhuang@wchscu.cn ; Xiaojing Liu, liuxq@scu.edu.cn \u2020These authors have contributed equally to this work 06 6 2025 2025 16 1590257 09 3 2025 23 5 2025 Copyright \u00a9 2025 Zhou, Kong, Liu and Huang 2025 Zhou, Kong, Liu and Huang https://creativecommons.org/licenses/by/4.0/ This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms. Background Myeloperoxidase (MPO) is a key enzyme involved in immune responses and oxidative stress, yet its roles in gastric physiology and gastric cancer remain incompletely understood. This study comprises two independent analyses: (1) to investigate the association between MPO and gastric mucosal injury markers (pepsinogen I, II, and PGR) in a large healthy population, and (2) to evaluate the prognostic significance and immune-regulatory mechanisms of MPO in gastric adenocarcinoma (GA). Methods We analyzed data from 16,943 individuals in a healthy population-based cohort and 375 GA patients from The Cancer Genome Atlas (TCGA). In the healthy cohort, multivariate linear regression was used to evaluate associations between MPO and pepsinogen levels. In the GA cohort, survival analyses (OS, DSS, PFI) were conducted using Kaplan-Meier and Cox regression models. Gene expression analysis, functional enrichment (GO, KEGG, GSEA), and immune infiltration analysis (ssGSEA) were performed to explore MPO-related mechanisms in GA. Results In the healthy cohort, MPO was inversely associated with PGR (\u03b2 = -0.009, P < 0.0001) and PGI (\u03b2 = -0.057, P < 0.0001). Subgroup and threshold effect analyses revealed non-linear associations and stronger effects among hypertensive individuals, smokers, and alcohol consumers. In the TCGA cohort, high MPO expression was an independent predictor of poor OS (HR = 2.781, P = 0.002) and DSS (HR = 3.667, P < 0.001). Functional analyses showed that MPO was associated with immune-related pathways and increased infiltration of macrophages (R = 0.379, P < 0.001) and dendritic cells (R = 0.377, P < 0.001). Conclusion This study highlights the distinct roles of MPO in gastric mucosal injury and gastric cancer. In healthy individuals, MPO is associated with markers of gastric mucosal damage, while in GA patients, MPO serves as a prognostic biomarker linked to immune dysregulation. These findings suggest that MPO may be a potential target for monitoring or intervention in gastric mucosal injury and gastric cancer. myeloperoxidase gastric adenocarcinoma pepsinogen ratio cross-sectional study association The author(s) declare that financial support was received for the research and/or publication of this article. This research was supported by grants from the National Natural Science Foundation of China (Nos. 82400306, 12372314), Sichuan Science and Technology Program (2024YFFK0283), Sichuan Provincial Cadre Health Research Project (2024-109), and Science and Technology Achievement Transformation Fund of West China Hospital, Sichuan University (HX-H2406199). section-in-acceptance Cancer Immunity and Immunotherapy Introduction Gastric cancer is a major global health issue that imposes a significant economic burden on cancer patients and society ( 1 ). In 2020, gastric cancer ranked among the top three causes of cancer-related deaths in China ( 2 ). The majority of gastric cancer cases are gastric adenocarcinomas ( 3 ), with treatment primarily including surgery, chemotherapy, radiotherapy, and immunotherapy ( 4 ). Due to the high tumor heterogeneity, low early detection rates, and poor prognosis associated with gastric cancer ( 5 ), identifying effective prognostic or predictive biomarkers is crucial for improving the management of gastric cancer. The occurrence and progression of gastric cancer result from the combined effects of genetic and environmental factors ( 6 ). Previous studies have shown that immune inflammation and related oxidative stress responses are important components of gastric cancer risk ( 7 , 8 ), but only a few studies have assessed the correlation between the levels of certain oxidative stress biomarkers and gastric cancer. Therefore, there is an urgent need to explore new biomarkers and potential therapeutic targets. MPO is a heme-containing peroxidase primarily expressed in neutrophils ( 9 ), and it serves as one of the sources of reactive oxygen species in immune inflammation processes ( 10 ). MPO is part of the innate immune defense against invading pathogens ( 11 ). Importantly, MPO is closely associated with tumor development and may play a role in regulating tumor growth, metastasis, and tumor cell migration ( 12 ). Studies have found that MPO expression can be detected in the serum of ovarian cancer patients at different stages, while it is undetectable in healthy individuals ( 13 ). In a mouse model of pancreatic cancer, MPO deficiency and pharmacological inhibition of MPO, when combined with immune checkpoint therapy, significantly delayed tumor growth ( 14 ). Additionally, MPO promotes the migration and invasion of human choriocarcinoma JEG-3 cells ( 15 ). However, in breast cancer, MPO-positive cell infiltration is an independent prognostic biomarker ( 16 ). These studies suggest a strong connection between MPO and tumors, indicating that MPO may serve as a biomarker for tumor diagnosis, treatment, or prognosis. It is noteworthy that during gastric cancer progression, there is prolonged oxidative stress, accompanied by increased MPO levels ( 17 ). However, the function and potential clinical significance of MPO in gastric cancer remain insufficiently explored. Pepsinogen (PG) is a biomarker commonly used to assess gastric mucosal damage and evaluate gastric health. Pepsinogen I (PGI), Pepsinogen II (PGII), and their ratio (PGR) are closely related to the structure and function of the gastric mucosa, and they can be used to identify populations at increased risk for gastric cancer ( 18 ). Studies have shown that serum PG can also help distinguish between Helicobacter pylori-induced and autoimmune atrophic gastritis ( 19 ). To the best of our knowledge, PGR and oxidative stress levels are potential diagnostic biomarkers for gastric cancer ( 20 ), but research on the relationship between MPO and these PG markers, especially in the context of gastric physiology and pathology, is limited. Therefore, this study investigates the distinct roles of MPO using two independent cohorts. In a large-scale healthy population cohort, we analyzed the relationship between MPO and pepsinogen markers to assess its association with gastric mucosal status. In the TCGA gastric adenocarcinoma cohort, we examined the prognostic value of MPO and explored its potential pathogenic mechanisms through immune microenvironment and functional enrichment analyses, thereby providing a theoretical basis for MPO as a potential biomarker and therapeutic target in gastric mucosal injury and gastric adenocarcinoma.",
+    "document_source_id": "40547041",
+    "analysis_date": "2025-12-04",
+    "extracted_data": {
+      "core_effect_and_quantification": [
+        {
+          "biomarker_name": "MPO",
+          "activity_context": "healthy cohort, gastric mucosal injury",
+          "direction_of_change": "inversely associated",
+          "magnitude_quantification": "PGR (\\u03b2 = -0.009, P < 0.0001), PGI (\\u03b2 = -0.057, P < 0.0001)"
+        },
+        {
+          "biomarker_name": "High MPO expression",
+          "activity_context": "gastric adenocarcinoma (GA)",
+          "direction_of_change": "predictor of poor",
+          "magnitude_quantification": "OS (HR = 2.781, P = 0.002), DSS (HR = 3.667, P < 0.001)"
+        },
+        {
+          "biomarker_name": "MPO",
+          "activity_context": "gastric adenocarcinoma (GA), immune infiltration",
+          "direction_of_change": "increased infiltration",
+          "magnitude_quantification": "macrophages (R = 0.379, P < 0.001), dendritic cells (R = 0.377, P < 0.001)"
+        },
+        {
+          "biomarker_name": "Age",
+          "activity_context": "Stratification into pepsinogen ratio (PGR) quartiles",
+          "direction_of_change": "Decreased (younger)",
+          "magnitude_quantification": "P < 0.001"
+        },
+        {
+          "biomarker_name": "Sex (male percentage)",
+          "activity_context": "Stratification into pepsinogen ratio (PGR) quartiles",
+          "direction_of_change": "Increased",
+          "magnitude_quantification": "P < 0.001"
+        },
+        {
+          "biomarker_name": "Current smoking rates",
+          "activity_context": "Stratification into pepsinogen ratio (PGR) quartiles",
+          "direction_of_change": "Increased",
+          "magnitude_quantification": "P < 0.001"
+        },
+        {
+          "biomarker_name": "Alcohol consumption rates",
+          "activity_context": "Stratification into pepsinogen ratio (PGR) quartiles",
+          "direction_of_change": "Increased",
+          "magnitude_quantification": "P < 0.001"
+        },
+        {
+          "biomarker_name": "Systolic blood pressure (SBP)",
+          "activity_context": "Stratification into pepsinogen ratio (PGR) quartiles",
+          "direction_of_change": "Decreasing trend",
+          "magnitude_quantification": "P = 0.028"
+        },
+        {
+          "biomarker_name": "Diabetes prevalence",
+          "activity_context": "Stratification into pepsinogen ratio (PGR) quartiles",
+          "direction_of_change": "Increasing",
+          "magnitude_quantification": "P < 0.001"
+        },
+        {
+          "biomarker_name": "Gout prevalence",
+          "activity_context": "Stratification into pepsinogen ratio (PGR) quartiles",
+          "direction_of_change": "Significant differences observed",
+          "magnitude_quantification": "P = 0.004"
+        },
+        {
+          "biomarker_name": "H. pylori infection rates",
+          "activity_context": "Stratification into pepsinogen ratio (PGR) quartiles",
+          "direction_of_change": "Decreased",
+          "magnitude_quantification": "P < 0.001"
+        },
+        {
+          "biomarker_name": "Aspartate aminotransferase (AST)",
+          "activity_context": "Stratification into pepsinogen ratio (PGR) quartiles",
+          "direction_of_change": "Significant differences observed",
+          "magnitude_quantification": "P < 0.001"
+        },
+        {
+          "biomarker_name": "Triglycerides (TG)",
+          "activity_context": "Stratification into pepsinogen ratio (PGR) quartiles",
+          "direction_of_change": "Increased",
+          "magnitude_quantification": "Higher quartiles associated with increased TG"
+        },
+        {
+          "biomarker_name": "Cholesterol",
+          "activity_context": "Stratification into pepsinogen ratio (PGR) quartiles",
+          "direction_of_change": "Decreased",
+          "magnitude_quantification": "Higher quartiles associated with decreased cholesterol"
+        },
+        {
+          "biomarker_name": "Low-density lipoprotein (LDL)",
+          "activity_context": "Stratification into pepsinogen ratio (PGR) quartiles",
+          "direction_of_change": "Decreased",
+          "magnitude_quantification": "Higher quartiles associated with decreased LDL"
+        },
+        {
+          "biomarker_name": "High-density lipoprotein (HDL)",
+          "activity_context": "Stratification into pepsinogen ratio (PGR) quartiles",
+          "direction_of_change": "Decreased",
+          "magnitude_quantification": "Higher quartiles associated with decreased HDL"
+        },
+        {
+          "biomarker_name": "Red blood cells (RBC)",
+          "activity_context": "across quartiles (blood cell counts)",
+          "direction_of_change": "significant differences",
+          "magnitude_quantification": "P < 0.001"
+        },
+        {
+          "biomarker_name": "White blood cells (WBC)",
+          "activity_context": "across quartiles (blood cell counts)",
+          "direction_of_change": "significant differences",
+          "magnitude_quantification": "P < 0.001"
+        },
+        {
+          "biomarker_name": "Neutrophils",
+          "activity_context": "across quartiles (blood cell counts)",
+          "direction_of_change": "significant differences",
+          "magnitude_quantification": "P < 0.001"
+        },
+        {
+          "biomarker_name": "MPO levels",
+          "activity_context": "higher quartiles (general population)",
+          "direction_of_change": "lower",
+          "magnitude_quantification": "P < 0.001"
+        },
+        {
+          "biomarker_name": "MPO levels",
+          "activity_context": "atrophic gastritis (PGR \\u22643)",
+          "direction_of_change": "significantly higher",
+          "magnitude_quantification": "median 27.71 vs 25.04 ng/mL, P < 0.001"
+        },
+        {
+          "biomarker_name": "PGR (continuous)",
+          "activity_context": "associated with MPO as a continuous variable (non-adjusted)",
+          "direction_of_change": "decrease",
+          "magnitude_quantification": "\\u03b2 = -0.008, 95% CI: -0.01 to -0.007, P < 0.0001"
+        },
+        {
+          "biomarker_name": "Pepsinogen I (continuous)",
+          "activity_context": "associated with MPO as a continuous variable (non-adjusted)",
+          "direction_of_change": "decrease",
+          "magnitude_quantification": "\\u03b2 = -0.06, 95% CI: -0.08 to -0.04, P < 0.0001"
+        },
+        {
+          "biomarker_name": "Pepsinogen II (continuous)",
+          "activity_context": "associated with MPO as a continuous variable (non-adjusted)",
+          "direction_of_change": "increase",
+          "magnitude_quantification": "\\u03b2 = 0.004, 95% CI: 0.00 to 0.01, P = 0.0415"
+        },
+        {
+          "biomarker_name": "PGR",
+          "activity_context": "MPO quartiles Q2-Q4 vs Q1 (adjusted)",
+          "direction_of_change": "decrease",
+          "magnitude_quantification": "Q2: \\u03b2 = -0.66, Q3: \\u03b2 = -0.92, Q4: \\u03b2 = -0.90; P for trend < 0.0001"
+        },
+        {
+          "biomarker_name": "Pepsinogen I",
+          "activity_context": "MPO quartiles Q2-Q4 vs Q1 (adjusted)",
+          "direction_of_change": "decrease",
+          "magnitude_quantification": "Q2: \\u03b2 = -1.05, Q3: \\u03b2 = -3.17, Q4: \\u03b2 = -3.52; P for trend < 0.0001"
+        },
+        {
+          "biomarker_name": "Pepsinogen II",
+          "activity_context": "MPO quartiles Q2-Q4 vs Q1 (adjusted)",
+          "direction_of_change": "increase",
+          "magnitude_quantification": "Q2: \\u03b2 = 0.73, Q3: \\u03b2 = 0.84, Q4: \\u03b2 = 0.89; P for trend < 0.0001"
+        },
+        {
+          "biomarker_name": "Risk for PGR \\u22643 status",
+          "activity_context": "each unit increase in continuous MPO (Model II)",
+          "direction_of_change": "higher risk",
+          "magnitude_quantification": "HR=1.003, 95%CI 1.000\\u20131.006, P=0.033"
+        },
+        {
+          "biomarker_name": "Risk for PGR \\u22643 status",
+          "activity_context": "highest MPO quartile (Q4) vs Q1 (Model II)",
+          "direction_of_change": "nearly doubled risk",
+          "magnitude_quantification": "HR=1.989, 95%CI 1.448\\u20132.731, P=0.00002"
+        },
+        {
+          "biomarker_name": "PGR",
+          "activity_context": "MPO < 24 (inflection point)",
+          "direction_of_change": "significant decrease",
+          "magnitude_quantification": "\\u03b2 = -0.089, 95% CI: -0.098 to -0.079, P < 0.0001"
+        },
+        {
+          "biomarker_name": "PGR",
+          "activity_context": "MPO \\u2265 24 (inflection point)",
+          "direction_of_change": "significant decrease (attenuated)",
+          "magnitude_quantification": "\\u03b2 = -0.003, 95% CI: -0.004 to -0.001, P = 0.0032"
+        },
+        {
+          "biomarker_name": "Pepsinogen I",
+          "activity_context": "MPO < 24 (inflection point)",
+          "direction_of_change": "significant decrease",
+          "magnitude_quantification": "\\u03b2 = -0.244, 95% CI: -0.356 to -0.131, P < 0.0001"
+        },
+        {
+          "biomarker_name": "Pepsinogen I",
+          "activity_context": "MPO \\u2265 24 (inflection point)",
+          "direction_of_change": "significant decrease (smaller)",
+          "magnitude_quantification": "\\u03b2 = -0.043, 95% CI: -0.063 to -0.023, P < 0.0001"
+        },
+        {
+          "biomarker_name": "Pepsinogen II",
+          "activity_context": "MPO < 24 (inflection point)",
+          "direction_of_change": "significant increase",
+          "magnitude_quantification": "\\u03b2 = 0.091, 95% CI: 0.067 to 0.116, P < 0.0001"
+        },
+        {
+          "biomarker_name": "MPO expression",
+          "activity_context": "Gastric adenocarcinoma (TCGA), comparison of high vs. low MPO",
+          "direction_of_change": "associated with higher mortality",
+          "magnitude_quantification": "Overall Survival: 46.3% vs. 32.1%, P = 0.005"
+        },
+        {
+          "biomarker_name": "MPO expression",
+          "activity_context": "Gastric adenocarcinoma (TCGA), comparison of high vs. low MPO",
+          "direction_of_change": "associated with more disease-specific events",
+          "magnitude_quantification": "Disease-specific Survival: 31.5% vs. 19.9%, P = 0.013"
+        },
+        {
+          "biomarker_name": "MPO expression",
+          "activity_context": "Gastric adenocarcinoma (TCGA), comparison of high vs. low MPO",
+          "direction_of_change": "associated with more progression events",
+          "magnitude_quantification": "Progression-free Interval: 40.4% vs. 25.7%, P = 0.002"
+        },
+        {
+          "biomarker_name": "MPO expression",
+          "activity_context": "Gastric adenocarcinoma (TCGA), high vs. low MPO (Kaplan-Meier)",
+          "direction_of_change": "worse Overall Survival",
+          "magnitude_quantification": "HR = 1.43, 95% CI: 1.02\\u20131.99, P = 0.037"
+        },
+        {
+          "biomarker_name": "MPO expression",
+          "activity_context": "Gastric adenocarcinoma (TCGA), high vs. low MPO (Kaplan-Meier)",
+          "direction_of_change": "worse Disease-specific Survival",
+          "magnitude_quantification": "HR = 1.67, 95% CI: 1.08\\u20132.56, P = 0.020"
+        },
+        {
+          "biomarker_name": "MPO expression",
+          "activity_context": "Gastric adenocarcinoma (TCGA), high vs. low MPO (Kaplan-Meier)",
+          "direction_of_change": "worse Progression-free Interval",
+          "magnitude_quantification": "HR = 1.63, 95% CI: 1.14\\u20132.34, P = 0.008"
+        },
+        {
+          "biomarker_name": "PGI-associated genes (PG4, PG5)",
+          "activity_context": "high MPO expression in gastric adenocarcinoma",
+          "direction_of_change": "significant suppression",
+          "magnitude_quantification": "FDR < 0.05"
+        },
+        {
+          "biomarker_name": "Pepsinogen A (PGA)",
+          "activity_context": "MPO levels in GSE54129 dataset (mixed normal/tumor)",
+          "direction_of_change": "negative correlation",
+          "magnitude_quantification": "r = -0.187, p < 0.05"
+        },
+        {
+          "biomarker_name": "Lymphocyte counts",
+          "activity_context": "atrophic gastritis (PGR \\u22643)",
+          "direction_of_change": "lower",
+          "magnitude_quantification": "30.4% vs 32.1%"
+        },
+        {
+          "biomarker_name": "Pepsinogen I (PGI)",
+          "activity_context": "atrophic gastritis (PGR \\u22643)",
+          "direction_of_change": "lower",
+          "magnitude_quantification": "median 45.8 vs 69.7 ng/mL; P < 0.001"
+        },
+        {
+          "biomarker_name": "Pepsinogen II (PGII)",
+          "activity_context": "atrophic gastritis (PGR \\u22643)",
+          "direction_of_change": "higher",
+          "magnitude_quantification": "median 21.0 vs 8.7 ng/mL; P < 0.001"
+        },
+        {
+          "biomarker_name": "PGII",
+          "activity_context": "Gastric cancer (after adjusting for confounding factors)",
+          "direction_of_change": "Lost correlation",
+          "magnitude_quantification": "lost its correlation with MPO"
+        },
+        {
+          "biomarker_name": "MPO expression",
+          "activity_context": "Colon adenocarcinoma (COAD) overall survival (OS)",
+          "direction_of_change": "Elevated risk",
+          "magnitude_quantification": "HR = 1.588, 1.069\\u20132.360, P = 0.022"
+        },
+        {
+          "biomarker_name": "MPO expression",
+          "activity_context": "Colon adenocarcinoma (COAD) disease-specific survival (DSS)",
+          "direction_of_change": "Elevated risk",
+          "magnitude_quantification": "HR = 2.032, 1.209\\u20133.413, P = 0.008"
+        },
+        {
+          "biomarker_name": "MPO expression",
+          "activity_context": "Colon adenocarcinoma (COAD) progression-free interval (PFI)",
+          "direction_of_change": "Elevated risk",
+          "magnitude_quantification": "HR = 1.702, 1.192\\u20132.429, P = 0.003"
+        },
+        {
+          "biomarker_name": "PGR (low group)",
+          "activity_context": "Gastric cancer risk factors",
+          "direction_of_change": "Older age and higher H. pylori infection rate",
+          "magnitude_quantification": "participants in the low PGR group were older and had a higher Helicobacter pylori (H. pylori) infection rate"
+        },
+        {
+          "biomarker_name": "PGR",
+          "activity_context": "Gender comparison",
+          "direction_of_change": "Lower in females",
+          "magnitude_quantification": "females have lower PGR compared to males"
+        },
+        {
+          "biomarker_name": "serum PGR",
+          "activity_context": "H. pylori infection",
+          "direction_of_change": "Lower",
+          "magnitude_quantification": "individuals with H. pylori infection have lower serum PGR levels"
+        },
+        {
+          "biomarker_name": "MPO",
+          "activity_context": "gastric adenocarcinoma (high expression group)",
+          "direction_of_change": "positively correlated",
+          "magnitude_quantification": "complement cascade, immune regulation, GPCR-related pathways"
+        },
+        {
+          "biomarker_name": "MPO",
+          "activity_context": "gastric adenocarcinoma (low expression group)",
+          "direction_of_change": "linked to",
+          "magnitude_quantification": "mitochondrial protein import, oxidative phosphorylation"
+        },
+        {
+          "biomarker_name": "MPO",
+          "activity_context": "tumor microenvironment",
+          "direction_of_change": "strong correlations with",
+          "magnitude_quantification": "macrophages, dendritic cells"
+        }
+      ],
+      "molecular_mechanism_and_relationship": {
+        "activity_type_context": "gastric mucosal injury, gastric adenocarcinoma, atrophic gastritis, tumorigenesis, tumor immune escape, associations with pepsinogen ratio (PGR) quartiles",
+        "mechanism_description": "MPO is a key enzyme involved in immune responses and oxidative stress, acting as a source of reactive oxygen species and potentially creating a high-mutagenic environment linked to tumorigenesis through DNA oxidation. MPO is inversely associated with PGR, largely due to PGI suppression, and may mediate PGI-associated gastric lesions. In gastric adenocarcinoma, high MPO expression correlates with significant suppression of PGI-associated genes (PG4, PG5) and is associated with immune-related pathways, including complement cascade, immunoregulatory interactions, and GPCR ligand binding. It promotes tumor immune escape and progression by regulating immune cell infiltration and activity, showing positive correlations with macrophages and dendritic cells. Myeloid-derived MPO may also regulate epithelial pepsinogen production via paracrine signaling. Low MPO expression is linked to mitochondrial protein import and oxidative phosphorylation, while differentially expressed genes related to MPO are involved in cell proliferation, invasion, GPCRs, and cAMP signaling.",
+        "related_biomarkers": [
+          "Pepsinogen I (PGI)",
+          "Pepsinogen II (PGII)",
+          "Pepsinogen Ratio (PGR)",
+          "macrophages",
+          "dendritic cells",
+          "Age",
+          "Sex",
+          "Current smoking",
+          "Alcohol consumption",
+          "Systolic blood pressure (SBP)",
+          "Diabetes prevalence",
+          "Gout prevalence",
+          "H. pylori infection rates",
+          "Aspartate aminotransferase (AST)",
+          "Triglycerides (TG)",
+          "Cholesterol",
+          "Low-density lipoprotein (LDL)",
+          "High-density lipoprotein (HDL)",
+          "PGI-associated genes (PG4, PG5)",
+          "PGC (Pepsinogen II associated gene)",
+          "Pepsinogen A (PGA)",
+          "B cells",
+          "Cytotoxic T cells",
+          "Regulatory T cells (Treg)",
+          "Natural killer cells (NK)"
+        ]
+      },
+      "dose_intensity_and_specificity": {
+        "dose_comparison_summary": "MPO was analyzed as a continuous variable and categorized into quartiles, revealing non-linear associations with pepsinogen levels, particularly a threshold effect at MPO = 24 ng/ml. Below this threshold, MPO showed stronger inverse associations with PGR and PGI, and a stronger positive association with PGII; these effects attenuated above the threshold. Higher MPO quartiles were associated with a nearly doubled risk for PGR \\u22643 (atrophic gastritis threshold). Stronger effects of MPO on PGR and PGI were observed among hypertensive individuals, smokers, and alcohol consumers. In the TCGA cohort, MPO expression was stratified into low and high groups based on median TPM for differential expression analysis, and high MPO expression was associated with poor prognosis. Significant trends across PGR quartiles were observed for various health indicators including age, sex, smoking, alcohol consumption, diabetes prevalence, triglycerides, cholesterol, LDL, HDL, and H. pylori infection rates.",
+        "specificity_finding": "MPO exhibits distinct roles: in healthy individuals, it is associated with gastric mucosal damage markers, while in gastric adenocarcinoma (GA) patients, it acts as a prognostic biomarker linked to immune dysregulation. The inverse association between MPO and PGR was observed across H. pylori-negative and positive subgroups, with stronger effects in hypertensive individuals, smokers, and alcohol consumers. Notably, high MPO expression consistently showed adverse effects in GA and colon adenocarcinoma (COAD), while generally lacking significant association in most other TCGA cancer types, indicating a specific prognostic role. MPO's prognostic factor in GA did not significantly differ across various clinicopathological factors like T/N/M stage, age, sex, race, or H. pylori status. This study is the first to comprehensively analyze MPO's specific roles in gastric health and cancer."
+      },
+      "clinical_implication_and_population": {
+        "target_population": "The study targeted two main populations: a large healthy population-based cohort of 16,943 individuals (mean age 45.6 \\u00b1 12.0 years, 47.9% female, 52.1% male) undergoing routine health examinations, and a cohort of 375 gastric adenocarcinoma (STAD) patients from The Cancer Genome Atlas (TCGA) database. Specific subgroups of interest included individuals at risk for atrophic gastritis (PGR \\u22643), populations with high-risk factors like smoking, alcohol consumption, or hypertension, and those with H. pylori infection, as well as older individuals and males in China.",
+        "health_implication": "MPO plays a critical, distinct role in gastric health and cancer. In healthy individuals, MPO levels are associated with gastric mucosal damage. Elevated MPO levels are consistently linked to a higher risk of atrophic gastritis (PGR \\u22643). In gastric adenocarcinoma (GA), high MPO expression is significantly associated with a poor prognosis, including worse overall survival, disease-specific survival, and progression-free interval, acting as an independent prognostic factor. This suggests that high MPO expression in GA patients may necessitate more aggressive treatment regimens. MPO is also implicated in gastric mucosal damage in general, and the pepsinogen ratio itself is associated with a broad spectrum of health indicators including demographic traits, lifestyle factors, chronic diseases, liver function, and lipid profiles. MPO is a potential new biomarker for early diagnosis, prevention, and prognosis in gastric adenocarcinoma, as well as for monitoring gastric mucosal injury.",
+        "risk_classification": "MPO serves as a diagnostic/monitoring biomarker for gastric mucosal injury and atrophic gastritis risk (especially with elevated levels and PGR \\u22643, and a new reference biomarker threshold of 24 ng/ml). High MPO expression is consistently classified as an adverse risk and prognostic biomarker, strongly associated with poor overall survival, disease-specific survival, and disease progression in gastric adenocarcinoma. The pepsinogen ratio itself is associated with various health and disease indicators, implying potential links to adverse metabolic health markers. Serum PGR is also recognized as a biomarker for gastric cancer."
+      },
+      "biomarker_reliability_and_future_focus": {
+        "reliability_assessment": "MPO is confirmed as a reliable biomarker with distinct roles: it is associated with gastric mucosal damage in healthy individuals and serves as an independent prognostic factor for overall and disease-specific survival in gastric adenocarcinoma (GA). Its association with pepsinogen profiles is conserved between healthy and cancer cohorts, aligning with established clinical diagnostic thresholds for atrophic gastritis (PGR \\u22643), even across H. pylori statuses. The study utilized robust methodologies, including biomarker measurements conforming to certified laboratory standards and standard bioinformatic pipelines for TCGA data. A novel MPO threshold of 24 ng/ml is identified as a potential clinical reference. Strengths include a large sample size for both healthy (16,943) and GA (375) cohorts, making it the first comprehensive analysis of MPO in gastric health and cancer. However, limitations include the cross-sectional design preventing causal inferences, lack of long-term follow-up, unconfirmed underlying mechanisms, reliance on gene expression for immune infiltration without experimental validation, and caution needed when extrapolating the non-linear MPO-PGR relationship from healthy to disease states or across all subgroups.",
+        "recommended_alternatives": [
+          "Immunohistochemistry is recommended for validating immune infiltration data.",
+          "Further functional experiments are needed to confirm MPO as a therapeutic target.",
+          "Integrating multi-omics data for a more comprehensive understanding."
+        ]
+      }
+    }
+  }
+]

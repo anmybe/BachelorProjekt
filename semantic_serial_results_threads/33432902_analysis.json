@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Am J Trop Med Hyg Am J Trop Med Hyg tpmd tropmed The American Journal of Tropical Medicine and Hygiene 0002-9637 1476-1645 The American Society of Tropical Medicine and Hygiene 7941812 33432902 tpmd201282 10.4269/ajtmh.20-1282 Articles Longitudinal Monitoring of Lactate in Hospitalized and Ambulatory COVID-19 Patients Velavan Thirumalaisamy P. 1 2 * Kieu Linh Le Thi 1 2 Kreidenweiss Andrea 1 Gabor Julian 1 Krishna Sanjeev 1 3 4 Kremsner Peter G. 1 4 1 Institute of Tropical Medicine, University of T\u00fcbingen, T\u00fcbingen, Germany; 2 Vietnamese-German Center for Medical Research, Hanoi, Vietnam; 3 Institute for Infection Immunity, St George\u2019s University of London, London, United Kingdom; 4 Centre de Recherches M\u00e9dicales de Lambar\u00e9n\u00e9, Lambar\u00e9n\u00e9, Gabon * Address correspondence to Thirumalaisamy P. Velavan, Institute of Tropical Medicine, University of T\u00fcbingen, Wilhelmstrasse 27, T\u00fcbingen 72074, Germany. E-mail: velavan@medizin.uni-tuebingen.de Financial support: This work was funded by the Federal Ministry of Education and Research (BMBF) (BMBF-01KI2052) and the Federal Ministry of Health (BMG) (BMG-ZMVI1-1520COR801). Disclosure: All related data supporting the results reported in the article is available within the manuscript. T. P. V. is a member of the Pan African Network for Rapid Research, Response, and Preparedness for Infectious Diseases Epidemics consortium (PANDORA-ID-NET). Authors\u2019 addresses: Thirumalaisamy P. Velavan, Le Thi Kieu Linh, Andrea Kreidenweiss, and Julian Gabor, Institute of Tropical Medicine, University of T\u00fcbingen, T\u00fcbingen, Germany, E-mails: velavan@medizin.uni-tuebingen.de , lk.linh1509@gmail.com , andrea.kreidenweiss@uni-tuebingen.de , and julian.gabor@uni-tuebingen.de . Sanjeev Krishna, Infection and Immunity, St. George\u2019s University of London, London, United Kingdom, E-mail: s.krishna@sgul.ac.uk . Peter G. Kremsner, Department of Parasitology, Institute of Tropical Medicine, University of T\u00fcbingen, T\u00fcbingen, Germany, E-mail: peter.kremsner@uni-tuebingen.de . 3 2021 11 1 2021 11 1 2021 104 3 1041 1044 30 9 2020 04 1 2021 \u00a9 The American Society of Tropical Medicine and Hygiene 2021 Open Access statement . This is an open-access article distributed under the terms of the Creative Commons Attribution-NonCommercial 4.0 International License ( https://creativecommons.org/licenses/by-nc/4.0/ ), which permits unrestricted use, distribution, and reproduction in any medium for non-commercial purposes, provided the original author and source are credited, a link to the CC License is provided, and changes \u2013 if any \u2013 are indicated. ABSTRACT Hypoxemia is readily detectable by assessing SpO 2 levels, and these are important in optimizing COVID-19 patient management. Hyperlactatemia is a marker of tissue hypoxia, particularly in patients with increased oxygen requirement and microvascular obstruction. We monitored peripheral venous lactate concentrations in hospitalized patients with moderate to severe COVID-19 ( n = 18) and in mild ambulatory COVID-19 patients in home quarantine ( n = 16). Whole blood lactate decreased significantly during the clinical course and recovery in hospitalized patients ( P = 0.008). The blood lactate levels were significantly higher in hospitalized patients than ambulatory patients (day 1: hospitalized versus ambulatory patients P = 0.002; day 28: hospitalized versus ambulatory patients P = < 0.0001). Elevated lactate levels may be helpful in risk stratification, and serial monitoring of lactate may prove useful in the care of hospitalized COVID-19 patients. Severe SARS-CoV-2 causes pneumonia and hypoxemia, often out of proportion to symptoms reported by COVID-19 patients. 1 Hypoxemia is readily detectable by assessing SpO 2 levels, and these are important in optimizing patient management. The degree to which systemic hypoxemia results in tissue hypoxemia and an increase in anaerobic glycolysis is unknown in COVID-19. Several factors could mitigate the tissue effects of decreased oxygen diffusion capacity in the lungs, including increased oxygen delivery by a right shift in the oxygen\u2013hemoglobin dissociation curve (Bohr effect), increased fractional unloading of oxygen, and increased hemoglobin concentrations. Hyperlactatemia is one marker of tissue hypoxia, particularly when anaerobic tissue metabolism is increased in infections where there is anemia, fever with increased oxygen requirement, and microvascular obstruction. Severe malaria exemplifies these predispositions, and increased lactate levels (\u2265 5 mmol/L), particularly if they are sustained after admission, are one of the best prognostic indicators of disease severity and fatal outcomes. 2 Lactate levels are also associated with poor clinical outcomes, as observed in a recent retrospective observational study in patients with COVID-19 pneumonia. 3",
+    "document_source_id": "33432902",
+    "analysis_date": "2025-12-04",
+    "extracted_data": {
+      "core_effect_and_quantification": [
+        {
+          "biomarker_name": "Whole blood lactate levels",
+          "activity_context": "hospitalized patients with moderate to severe COVID-19 during clinical course and recovery",
+          "direction_of_change": "decreased significantly",
+          "magnitude_quantification": "P = 0.008; Median: Day 1 = 3.3 mmol, Day 7 = 2.6 mmol, Day 14 = 2.2 mmol, Day 28 = 1.9 mmol"
+        },
+        {
+          "biomarker_name": "Blood lactate levels",
+          "activity_context": "hospitalized patients with more severe COVID-19 compared to mild ambulatory COVID-19 patients",
+          "direction_of_change": "significantly higher in hospitalized patients",
+          "magnitude_quantification": "Day 1: P = 0.002; Day 28: P = < 0.0001 (levels were comparable between groups at Day 28 according to one source, while another indicated an increase in some patients at D28)"
+        },
+        {
+          "biomarker_name": "Lactate levels",
+          "activity_context": "hospitalized patients with persistent SARS-CoV-2 virus positivity on day 7",
+          "direction_of_change": "consistently elevated",
+          "magnitude_quantification": "Consistently elevated in patients with prolonged viral clearance"
+        },
+        {
+          "biomarker_name": "Lactate",
+          "activity_context": "Hospitalized patients with severe COVID-19 pneumonia (CURB-65 \">= 4\")",
+          "direction_of_change": "Elevated",
+          "magnitude_quantification": "Median level around 4 mmol/L; moderately elevated compared with pneumonia caused by non SARS-CoV-2 infections"
+        }
+      ],
+      "molecular_mechanism_and_relationship": {
+        "activity_type_context": "COVID-19, encompassing its severity, pneumonia, and viral clearance",
+        "mechanism_description": "Hyperlactatemia is identified as a marker of tissue hypoxia, particularly in patients with increased oxygen requirement and microvascular obstruction, indicating increased anaerobic tissue metabolism. In COVID-19 pneumonia, elevated lactate levels are suggested to reflect decreased oxygen diffusion in the lungs, potentially with tissue oxygenation maintained ('silent hypoxia') until disease progression. While a correlation between lactate levels and COVID-19 severity/viral clearance is observed, an explicit molecular mechanism linking these is not fully described, contrasting with malaria where microvascular obstruction directly causes tissue hypoxia.",
+        "related_biomarkers": [
+          "SpO2",
+          "hemoglobin"
+        ]
+      },
+      "dose_intensity_and_specificity": {
+        "dose_comparison_summary": "Whole blood lactate levels decreased significantly during the clinical course and recovery in hospitalized patients. These levels were significantly higher in hospitalized patients with moderate to severe COVID-19 compared to mild ambulatory patients at Day 1 and Day 28, though some sources suggest comparability by Day 28. More severe COVID-19 (CURB-65 \">= 4\") presented with median lactate levels around 4 mmol/L, which are moderately elevated. In contrast, severe systemic infections like malaria show admission lactate levels > 5 mmol/L, particularly if sustained, correlating with severe disease and fatal outcomes.",
+        "specificity_finding": "Hyperlactatemia specifically marks tissue hypoxia when anaerobic tissue metabolism increases due to anemia, fever with increased oxygen demand, and microvascular obstruction, as seen in severe malaria. In COVID-19, lactate elevations are primarily linked to decreased oxygen diffusion in the lungs. Four hospitalized patients with prolonged SARS-CoV-2 virus positivity on day 7 exhibited consistently elevated lactate levels, suggesting a potential correlation with viral clearance time."
+      },
+      "clinical_implication_and_population": {
+        "target_population": "Hospitalized patients with moderate to severe COVID-19 and mild ambulatory COVID-19 patients in home quarantine.",
+        "health_implication": "Elevated whole blood lactate levels are indicative of more severe COVID-19, may be associated with prolonged viral positivity, and are linked to poor clinical outcomes. Serial monitoring of decreasing lactate levels correlates with patient recovery. Higher lactate levels facilitate disease course assessment, indicating more severe COVID-19 (e.g., CURB-65 \">= 4\") and associating with severe disease and fatal outcomes in other conditions like malaria (> 5 mmol/L).",
+        "risk_classification": "Diagnostic utility for COVID-19 severity and prolonged viral positivity, prognostic indicator for disease course and recovery, and a marker for risk stratification indicating adverse risk."
+      },
+      "biomarker_reliability_and_future_focus": {
+        "reliability_assessment": "Whole blood lactate levels reliably differentiated between severe and mild COVID-19 cases (P = 0.002, P = < 0.0001) and significantly tracked recovery in hospitalized patients (P = 0.008), indicating potential utility for risk stratification and patient care. However, a major limitation noted was that only 10% of hospitalized patients could be recruited due to non-fulfillment of inclusion criteria or denial of consent, which may impact the generalizability of the findings.",
+        "recommended_alternatives": []
+      }
+    }
+  }
+]

@@ -1,0 +1,205 @@
+[
+  {
+    "title": "pmc Cells Cells cells Cells 2073-4409 MDPI 11429563 39329776 10.3390/cells13181595 cells-13-01595 Article miR-409-3p Regulates IFNG and p16 Signaling in the Human Blood of Aging-Related Hearing Loss Jung Junseo Data curation Writing \u2013 original draft 1 2 Lee Jeongmin Investigation Data curation 1 2 Kang Hyunsook Methodology Validation Writing \u2013 review & editing 1 Park Kyeongjin Validation 1 https://orcid.org/0000-0003-0245-4586 Kim Young Sun Methodology Writing \u2013 original draft 3 https://orcid.org/0000-0003-0606-8834 Ha Jungho Formal analysis 3 4 https://orcid.org/0000-0002-7281-8771 So Seongjun Formal analysis 3 Sung Siung Investigation 4 Yun Jeong Hyeon Formal analysis 4 Jang Jeong Hun Validation 3 https://orcid.org/0000-0003-4478-9704 Choi Seong Jun Conceptualization Writing \u2013 review & editing Funding acquisition 1 * https://orcid.org/0000-0002-0786-1781 Choung Yun-Hoon Conceptualization Writing \u2013 review & editing Visualization 3 4 * Romano Maurizio Academic Editor 1 Department of Otolaryngology-Head and Neck Surgery, Cheonan Hospital, College of Medicine, Soonchunhyang University, Cheonan 31151, Republic of Korea; ing2094@naver.com (J.J.); minn5454@naver.com (J.L.); ssook4311@hanmail.net (H.K.); rudwls1289@naver.com (K.P.) 2 Department of Biomedical Science, Soonchunhyang University, Asan 31538, Republic of Korea 3 Department of Otolaryngology, School of Medicine, Ajou University, Suwon 16499, Republic of Korea; jmyea@hanmail.net (Y.S.K.); jhflyflyfly@gmail.com (J.H.); thtjdwns123@gmail.com (S.S.); jhj@ajou.ac.kr (J.H.J.) 4 Department of Medical Sciences, Graduate School of Medicine, Ajou University, Suwon 16499, Republic of Korea; ylem2s1u@gamil.com (S.S.); medicake@ajou.ac.kr (J.H.Y.) * Correspondence: akas9238@hanmail.net (S.J.C.); yhc@ajou.ac.kr (Y.-H.C.); Tel.: +82-41-570-2265 (S.J.C.); +82-31-219-5265 (Y.-H.C.) 23 9 2024 9 2024 13 18 1595 13 8 2024 19 9 2024 20 9 2024 \u00a9 2024 by the authors. 2024 https://creativecommons.org/licenses/by/4.0/ Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license ( https://creativecommons.org/licenses/by/4.0/ ). Presbycusis, also referred to as age-related hearing loss (ARHL), is a multifaceted condition caused by the natural aging process affecting the auditory system. Genome-wide association studies (GWAS) in human populations can identify potential genes linked to ARHL. Despite this, our knowledge of the biochemical and molecular mechanisms behind the condition remains incomplete. This study aims to evaluate a potential protective tool for ARHL treatment by comparing human blood-based target gene-miRNA associations regulated in ARHL. To identify promising target genes for ARHL, we utilized an mRNA assay. To determine the role of miRNA in ARHL, we investigated the expression profile of miRNA in whole blood in ARHL patients with real-time polymerase chain reaction (RT-qPCR). A reporter gene assay was performed to confirm the regulation of candidate genes by microRNA. Through RT-qPCR validation analysis, we finally confirmed the relationship between ARHL and the role of the interferon-gamma (IFNG) gene. This gene can be regarded as an age-related gene. Through gene ontology (GO) analysis, it has been found that these genes are enriched in pathways related to apoptosis. Among them, IFNG induces an inflammatory response, apoptotic cell death, and cellular senescence. We found that miR-409-3p downregulates the expression of the IFNG in vitro. In addition, the downregulation of the IFNG by miRNA 409-3p promoted cell apoptosis and suppressed proliferation. In conclusion, our study produced gene signatures and associated microRNA regulation that could be a protective key for ARHL patients. IFNG genes and miR-409-3p should be investigated for their usefulness as a new biomarker for treatment modality. hearing loss senescence miRNA IFNG P16 Korean Fund for Regenerative Medicine (KFRM), funded by the Korean government (the Ministry of Science and ICT and the Ministry of Health & Welfare) 22A0303L1-01 National Research Foundation of Korea (NRF), supported by the Ministry of Education, Science, and Technology NRF-2020R111A3061422 This research was supported by the Korean Fund for Regenerative Medicine (KFRM), funded by the Korean government (the Ministry of Science and ICT and the Ministry of Health & Welfare) under grant number 22A0303L1-01. Additionally, it was funded by the Basic Research Program through the National Research Foundation of Korea (NRF), supported by the Ministry of Education, Science, and Technology under grant number NRF-2020R111A3061422. 1. Introduction Inflammation has become a focal point in biomedical research on age-related conditions. As tissues age, the body undergoes a process called \u2018chronic inflammation\u2019. This low-grade, age-related inflammation, also known as \u2018inflammaging\u2019, progressively worsens over time [ 1 ]. Recently, the potential pathways of inflammation and its effect on age-related hearing loss (ARHL) have received more and more attention in the field of hearing research. Although the cochlea was traditionally thought to be an immune-privileged organ [ 2 ], recent research has demonstrated its susceptibility to systemic inflammation [ 3 , 4 ]. Prolonged activation of inflammatory cytokines, including IL-1\u03b1, IL-2, TNF-\u03b1, and NF-\u03baB, which play critical roles in initiating, regulating, and amplifying immune responses, can penetrate cells within the inner ear, such as those in the endolymphatic sac [ 5 , 6 ]. Verschuur et al. conducted human studies that demonstrated a link between hearing thresholds and key serum biomarkers of low-grade inflammation [ 7 ]. They found associations between the average hearing thresholds in elderly individuals and their levels of IL-6, C-reactive protein (CRP), white blood cell counts, and neutrophil counts. Lowthian et al. also highlighted the potential therapeutic advantages of low-dose aspirin, a mild anti-inflammatory agent, for ARHL [ 8 ]. This finding adds to the growing body of evidence suggesting that chronic inflammatory processes are key mechanisms behind age-related conditions. One promising method for identifying genetic variants that contribute to ARHL is the use of a genome-wide association study (GWAS), which screens a large number of genetic markers throughout the genome for associations with the trait of interest. Trpchevska et al. performed a meta-analysis of GWASs in a large sample of 723,266 individuals who had self-reported or clinically diagnosed hearing impairment [ 9 ]. The study identified a total of 48 loci that were significantly associated with hearing impairment, including 10 loci that had not been previously reported. Additionally, Ivarsdottir et al. demonstrated that a combined cohort from Iceland and the UK Biobank (totaling 121,934 individuals identified through pure-tone audiograms and self-reported hearing difficulties) revealed 21 new associations, including 13 rare variants [ 10 ]. This study performed analysis for RNA sequencing data from ARHL patients and found 11 genes related to ARHL. MicroRNA(miRNA)s are a class of small, non-coding RNA molecules that occur naturally within organisms. Typically, miRNAs are 20\u201323 nucleotides long, and they function by binding to specific target messenger RNA (mRNA) transcripts via complementary base pairing [ 11 ]. The interaction between miRNAs and their target mRNA molecules can lead to gene silencing, translational repression, or target degradation. It is estimated that miRNAs have the potential to target up to 60% of all genes, and each miRNA can affect the expression of hundreds of target genes [ 12 ]. Recent studies have revealed differences in miRNA expression in the inner ear of two mouse strains, C57BL/6J and CBA/J, which are frequently used in research on aging and age-related diseases due to the unavailability of human-derived samples. In the context of age-related hearing loss (ARHL), 111 miRNAs in C57 mice and 71 miRNAs in CBA mice showed differential expression [ 13 ]. Among these, downregulated miRNAs were more common than upregulated ones. Zhang\u2019s research further identified miRNAs associated with the aging of the cochlear duct\u2019s lateral wall, in addition to the organ of Corti. Downregulated miRNAs, such as those from the miR-183 and miR-181 families, were linked to proliferation and differentiation pathways [ 14 ], whereas upregulated miRNAs, including members of the miR-29 and miR-34 families, were implicated in pathways that activate or enhance apoptosis, involving genes like p53, p27, and Bcl2 [ 15 ]. While miRNAs are recognized for their roles in regulating cellular proliferation, differentiation, and growth within the inner ear, their function in the blood concerning age-related hearing loss (ARHL) remains unestablished. Zhuoran et al. suggested that miR-155 selectively interacts with the 3\u2032untranslated region (3\u2032UTR) of Stat1, leading to the suppression of mRNA expression. Additionally, the absence of miR-155 leads to the depression of IFN-\u03b3-related transcription factors, offering a potential explanation for the heightened IFN response observed in microglia lacking miR-155 [ 16 ]. Amado T et al.\u2019s research uncovered that within CD8+ T cells, miR-181a constrains the production of IFN-\u03b3 by repressing the expression of the transcription factor Id2, consequently fostering the activation of the IFNG expression program [ 17 ]. In another study, the miRNA expression pattern was analyzed in melanoma cells undergoing IFN-\u03b3-induced ferroptosis. Subsequently, Weinan et al. demonstrated that the upregulation of miR-21-3p enhances IFN-\u03b3-triggered ferroptosis by promoting lipid peroxidation [ 18 ]. In the present study, we identified 11 potential genes by analyzing RNA sequencing from ARHL patients. Among the identified genes, we focused on the profiles of the IFNG gene, which is possibly involved in cochlear inflammation or ARHL. Moreover, we assessed the preventive role of miR-409-3p on the expression of the IFNG gene.",
+    "document_source_id": "39329776",
+    "analysis_date": "2025-12-04",
+    "extracted_data": {
+      "core_effect_and_quantification": [
+        {
+          "biomarker_name": "IFNG",
+          "activity_context": "In vitro regulation relevant to Aging-related hearing loss (ARHL)",
+          "direction_of_change": "Downregulated by miR-409-3p",
+          "magnitude_quantification": "Expression levels reduced; promoted cell apoptosis and suppressed proliferation when downregulated"
+        },
+        {
+          "biomarker_name": "IL-6",
+          "activity_context": "Low-grade inflammation in elderly individuals with hearing loss",
+          "direction_of_change": "Increased",
+          "magnitude_quantification": "Associated with average hearing thresholds"
+        },
+        {
+          "biomarker_name": "C-reactive protein (CRP)",
+          "activity_context": "Low-grade inflammation in elderly individuals with hearing loss",
+          "direction_of_change": "Increased",
+          "magnitude_quantification": "Associated with average hearing thresholds"
+        },
+        {
+          "biomarker_name": "White blood cell counts",
+          "activity_context": "Low-grade inflammation in elderly individuals with hearing loss",
+          "direction_of_change": "Increased",
+          "magnitude_quantification": "Associated with average hearing thresholds"
+        },
+        {
+          "biomarker_name": "Neutrophil counts",
+          "activity_context": "Low-grade inflammation in elderly individuals with hearing loss",
+          "direction_of_change": "Increased",
+          "magnitude_quantification": "Associated with average hearing thresholds"
+        },
+        {
+          "biomarker_name": "Stat1 mRNA expression",
+          "activity_context": "Interaction with miR-155",
+          "direction_of_change": "Suppressed",
+          "magnitude_quantification": "Selective interaction with 3\u2032untranslated region (3\u2032UTR)"
+        },
+        {
+          "biomarker_name": "IFN-\u03b3-related transcription factors",
+          "activity_context": "Microglia lacking miR-155",
+          "direction_of_change": "Heightened response (due to depression)",
+          "magnitude_quantification": "Due to absence of miR-155"
+        },
+        {
+          "biomarker_name": "IFN-\u03b3 production",
+          "activity_context": "CD8+ T cells",
+          "direction_of_change": "Constrained by miR-181a",
+          "magnitude_quantification": "Repression of Id2 expression"
+        },
+        {
+          "biomarker_name": "IFNG expression program",
+          "activity_context": "CD8+ T cells",
+          "direction_of_change": "Fostered by miR-181a",
+          "magnitude_quantification": "Result of Id2 repression"
+        },
+        {
+          "biomarker_name": "IFN-\u03b3-triggered ferroptosis",
+          "activity_context": "Melanoma cells",
+          "direction_of_change": "Enhanced by miR-21-3p upregulation",
+          "magnitude_quantification": "Promoted lipid peroxidation"
+        },
+        {
+          "biomarker_name": "IFNG",
+          "activity_context": "Age-related hearing loss (ARHL) versus normal hearing (NH) groups",
+          "direction_of_change": "Upregulated",
+          "magnitude_quantification": "Statistically significant differences (adjusted p = 0.05)"
+        },
+        {
+          "biomarker_name": "miR-409-3p",
+          "activity_context": "Age-related hearing loss (ARHL) versus normal hearing (NH) groups",
+          "direction_of_change": "Downregulated",
+          "magnitude_quantification": "p < 0.05"
+        },
+        {
+          "biomarker_name": "miR-409-3p",
+          "activity_context": "ARHL (functional role in human blood samples)",
+          "direction_of_change": "reduces expression of IFNG and p16",
+          "magnitude_quantification": "significant role"
+        },
+        {
+          "biomarker_name": "IFNG",
+          "activity_context": "ARHL (human blood samples)",
+          "direction_of_change": "upregulation",
+          "magnitude_quantification": "at least two-fold (adjusted p<0.05)"
+        },
+        {
+          "biomarker_name": "T cells capable of producing IFN-\u03b3",
+          "activity_context": "autoimmune sensorineural hearing loss (PBMCs)",
+          "direction_of_change": "increased",
+          "magnitude_quantification": "significantly increased in 25% of PBMCs"
+        },
+        {
+          "biomarker_name": "miR-409-3p",
+          "activity_context": "senescent endothelial progenitor cells (EPCs)",
+          "direction_of_change": "upregulated",
+          "magnitude_quantification": "upregulated"
+        },
+        {
+          "biomarker_name": "miR-30a-5p",
+          "activity_context": "cellular senescence in vascular endothelial cells",
+          "direction_of_change": "upregulation",
+          "magnitude_quantification": "concurrent upregulation"
+        },
+        {
+          "biomarker_name": "miR-409-3p",
+          "activity_context": "cellular senescence in vascular endothelial cells",
+          "direction_of_change": "upregulation",
+          "magnitude_quantification": "concurrent upregulation"
+        },
+        {
+          "biomarker_name": "miR-30a-3p",
+          "activity_context": "cellular senescence in vascular endothelial cells",
+          "direction_of_change": "downregulation",
+          "magnitude_quantification": "downregulation"
+        },
+        {
+          "biomarker_name": "miR-181a-5p",
+          "activity_context": "cellular senescence in vascular endothelial cells",
+          "direction_of_change": "downregulation",
+          "magnitude_quantification": "downregulation"
+        },
+        {
+          "biomarker_name": "p16",
+          "activity_context": "IFN-\u03b3 treatment (in vitro)",
+          "direction_of_change": "upregulation",
+          "magnitude_quantification": "observed upregulation"
+        },
+        {
+          "biomarker_name": "p15",
+          "activity_context": "IFN-\u03b3 treatment (in vitro)",
+          "direction_of_change": "upregulation",
+          "magnitude_quantification": "observed upregulation"
+        }
+      ],
+      "molecular_mechanism_and_relationship": {
+        "activity_type_context": "Age-related hearing loss (ARHL), cellular senescence, inflammatory response, apoptotic cell death",
+        "mechanism_description": "The core mechanism identifies miR-409-3p as a regulator that downregulates IFNG and p16 expression. This downregulation of IFNG by miR-409-3p in vitro promotes cell apoptosis and suppresses proliferation, suggesting a protective role against Age-related hearing loss (ARHL). IFNG is characterized as an age-related gene that induces inflammatory responses, apoptotic cell death, and cellular senescence, processes integral to ARHL and 'inflammaging.' miR-409-3p has a validated binding site in the 3'UTR of IFNG, and its overexpression decreases p16 protein. Additionally, IFN-\u03b3 (a product of IFNG) induces premature senescence via ROS and DNA damage response pathways, and increases susceptibility to TNF-\u03b1-induced cytotoxicity through JAK1/2-STAT1 signaling. Other miRNAs like miR-34a and miR-155 also contribute to ARHL by targeting SIRT1. Furthermore, hsa-miR-409-3p negatively regulates angiogenesis by targeting PPP2CA and modulating the PP2A/p38 pathway in senescent EPCs. p16 INK4a contributes to cellular senescence by inhibiting CDK activity, preventing Rb phosphorylation. Methodologies included gene set enrichment analysis (GO, KEGG) and dual-luciferase reporter assays for miRNA-target gene validation.",
+        "related_biomarkers": [
+          "IFNG",
+          "miR-409-3p",
+          "p16",
+          "Stat1",
+          "Id2",
+          "IFN-\u03b3",
+          "miR-155",
+          "miR-181a",
+          "miR-21-3p",
+          "IL-1\u03b1",
+          "IL-2",
+          "TNF-\u03b1",
+          "NF-\u03baB",
+          "IL-6",
+          "C-reactive protein (CRP)",
+          "white blood cell counts",
+          "neutrophil counts",
+          "p53",
+          "p27",
+          "Bcl2",
+          "differentially expressed genes (DEGs)",
+          "IFN-\u03b2",
+          "ROS",
+          "DDR signaling pathways",
+          "JAK1/2-STAT1 signaling",
+          "miR-34a",
+          "SIRT1",
+          "PPP2CA",
+          "PP2A/p38 signaling pathway",
+          "miR-30a-5p",
+          "miR-30a-3p",
+          "miR-181a-5p",
+          "DGCR8",
+          "p21",
+          "CDK4/6",
+          "Rb",
+          "CDK",
+          "p15"
+        ]
+      },
+      "dose_intensity_and_specificity": {
+        "dose_comparison_summary": "The study compared normal hearing and ARHL groups based on hearing thresholds (<= 25 dB vs. >= 40 dB across multiple frequencies). In vitro experiments showed that increasing concentrations of miR-409-3p led to decreased expression of IFNG and p16 proteins in HEI-OC-1 cells. Prolonged in vitro exposure to IFN-\u03b2 or IFN-\u03b3 also induced premature senescence. Low-dose aspirin was noted for its potential therapeutic advantages in ARHL, and gene expression changes of at least two-fold were observed for several genes between ARHL and normal hearing groups.",
+        "specificity_finding": "The study demonstrated specificity through rigorous exclusion criteria for patient populations, ensuring focus on ARHL. In vitro, miR-409-3p selectively downregulates IFNG expression, and off-target miRNAs did not affect its binding site. Specificity of miRNA action is highlighted by miR-155's selective interaction with Stat1 3'UTR, miR-181a's constraint of IFN-\u03b3 production by repressing Id2 in CD8+ T cells, and miR-21-3p's enhancement of IFN-\u03b3-triggered ferroptosis. Upregulation of p16 and p15 following IFN-\u03b3 treatment was broadly observed across cell types, with HUVECs being an exception."
+      },
+      "clinical_implication_and_population": {
+        "target_population": "Patients with Age-Related Hearing Loss (ARHL), normal hearing individuals (average age 28 \u00b1 12.89 years for normal, 68 \u00b1 8.56 years for ARHL), human populations, elderly individuals, patients with autoimmune sensorineural hearing loss, individuals undergoing aging, and senescent endothelial progenitor cells.",
+        "health_implication": "The study deepens the understanding of Age-Related Hearing Loss (ARHL), a condition characterized by significant hearing threshold elevation, and its molecular mechanisms. Findings suggest miR-409-3p's potential as a protective tool for ARHL treatment by promoting cell apoptosis and suppressing proliferation via IFNG downregulation. It also points to the identification of new diagnostic and therapeutic biomarkers for ARHL, autoimmune sensorineural hearing loss, cellular senescence, and related conditions like dry eye, auditory dysfunction, and degeneration of the organ of Corti.",
+        "risk_classification": "The findings indicate a diagnostic utility for miR-409-3p as a potential biomarker for ARHL and human aging. IFNG is associated with adverse risks due to its role in inducing inflammatory response, apoptotic cell death, and cellular senescence. Conversely, miR-409-3p and other miRNAs are identified as potential therapeutic targets for preventing or treating hearing loss, offering a protective benefit. The study compared existing ARHL conditions rather than classifying risk for developing it."
+      },
+      "biomarker_reliability_and_future_focus": {
+        "reliability_assessment": "The reliability of key findings was supported by RT-qPCR validation of IFNG and miR-409-3p expression in whole blood samples of ARHL patients and normal hearing groups, confirming their statistically significant relationship. A reporter gene assay also confirmed microRNA regulation of candidate genes. However, limitations include a restricted number of clinical samples, reliance on in vitro data, and incomplete control of potential age-related effects. The complex regulatory nature of miR-409-3p, involving multiple target genes and interaction with other miRNAs, suggests its role in ARHL may be more intricate than currently understood.",
+        "recommended_alternatives": [
+          "analysis of single nucleotide polymorphism (SNP) and exploration of potential genetic factors related to ARHL",
+          "future research employing animal models to validate and extend findings",
+          "further research on the relationship between miR-409-3p and other miRNAs in ARHL",
+          "further research on animal models to elucidate the mechanism and pathway by which miR-409-3p regulates p16 signaling"
+        ]
+      }
+    }
+  }
+]

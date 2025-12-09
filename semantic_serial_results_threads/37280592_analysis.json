@@ -1,0 +1,88 @@
+[
+  {
+    "title": "pmc BMC Med BMC Med BMC Medicine 1741-7015 BioMed Central London 10243051 2910 10.1186/s12916-023-02910-x Research Article Neutrophil activation may trigger tau burden contributing to cognitive progression of chronic sleep disturbance in elderly individuals not living with dementia Sun Lin xiaosuan2004@126.com 1 Zhang Jie 2 Li Wei 1 Sheng Jianhua sjh-lyl@263.net 1 Xiao Shifu xiaoshifu@msn.com 1 Alzheimer\u2019s Disease Neuroimaging Initiative 1 grid.415630.5 0000 0004 1782 6212 Department of Psychiatry, Alzheimer\u2019s Disease and Related Disorders Center, Shanghai Mental Health Center, Shanghai Jiao Tong University School of Medicine, No. 600 South Wanping Road, Xuhui District, Shanghai, China 2 grid.24516.34 0000000123704535 Key Laboratory of Spine and Spinal Cord Injury Repair and Regeneration of Ministry of Education, Orthopedic Department of Tongji Hospital, School of Medicine, Tongji University, Shanghai, China 6 6 2023 6 6 2023 2023 21 205 18 1 2023 25 5 2023 \u00a9 The Author(s) 2023 https://creativecommons.org/licenses/by/4.0/ Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/ . The Creative Commons Public Domain Dedication waiver ( http://creativecommons.org/publicdomain/zero/1.0/ ) applies to the data made available in this article, unless otherwise stated in a credit line to the data. Background To investigate the complex connection between chronic sleep disturbance (CSD) and cognitive progression. Methods The Alzheimer\u2019s Disease Neuroimaging Initiative (ADNI) database was used to assign 784 non-dementia elderly into two groups: a normal sleep group (528 participants) and a CSD group (256 participants) via the Neuropsychiatric Inventory (NPI)-sleep subitem. Blood transcriptomics, blood neutrophil, cerebrospinal fluid (CSF) biomarkers of Alzheimer\u2019s disease (AD), and neutrophil-related inflammatory factors were measured. We also investigated gene set enrichment analysis (GSEA), Cox proportional hazards model for risk factors, and mediation and interaction effects between indicators. Cognitive progression is defined as the progression from cognitively normal to mild cognitive impairment (MCI)/dementia or from MCI to dementia. Results CSD could significantly affect cognitive function. The activated neutrophil pathways for cognitive progression in CSD were identified by transcriptomics GSEA, which was reflected by increased blood neutrophil level and its correlation with cognitive progression in CSD. High tau burden mediated the influence of neutrophils on cognitive function and exacerbated the CSD-related risk of left hippocampal atrophy. Elevated neutrophil-related inflammatory factors were observed in the cognitive progression of CSD and were associated with brain tau burden. Conclusions Activated neutrophil pathway triggering tau pathology may underline the mechanism of cognitive progression in CSD. Supplementary Information The online version contains supplementary material available at 10.1186/s12916-023-02910-x. Keywords Chronic sleep disturbance Cognitive progression Neutrophil Tau burden Alzheimer\u2019s disease http://dx.doi.org/10.13039/501100001809 National Natural Science Foundation of China 82271607 81301139 81830059 Sun Lin Xiao Shifu Special Sub Project of Strategic Leading Science and Technology of the Chinese Academy of Sciences XDA12040101 Xiao Shifu the Clinical Research Center Project of Shanghai Mental Health Center CRC2017ZD02 Xiao Shifu National Science and Technology Support Program of China 2009BAI77B03 Xiao Shifu issue-copyright-statement \u00a9 BioMed Central Ltd., part of Springer Nature 2023 Background More than 47 million people worldwide are affected by dementia, and the number is estimated to double every 20 years with the increases in life expectancy [ 1 , 2 ]. Alzheimer\u2019s disease (AD) accounts for 60 to 70% of all dementia cases [ 3 ], and the accumulation of toxic forms of \u03b2-amyloid (A\u03b2) and tau neurofibrillary tangles in the brain is considered the main pathological mechanism. According to epidemiological studies, sleep difficulties are significantly more common among the elderly, with a prevalence of 36 to 69% [ 4 ]. When left untreated, sleep difficulties are associated with severe adverse consequences, ranging from poor mental health to cardiovascular disease [ 5 ]. According to the Neuropsychiatric Inventory (NPI)-sleep subitem, chronic sleep disturbance (CSD) consists of 8 aspects, including difficulty falling asleep, superficial sleep, early awakening, interrupted sleep, abnormal nighttime behavior, excessive daytime sleepiness, getting up at night, and other nocturnal abnormal behaviors. A bidirectional relationship exists between sleep and neurodegenerative disorders, such as AD, caused by A\u03b2 and tau pathologies [ 6 ]. Extended periods of wakefulness or sleep deprivation were found to regulate the extracellular release of both A\u03b2 [ 7 , 8 ] and tau [ 9 , 10 ]. Besides A\u03b2 pathology, another biologically potential mechanism linking CSD and dementia risk is inflammatory response activation, which is thought to be an early event associated with the onset and clinical course of AD [ 11 ]. The mechanism by which inflammation associated with AD pathology regulates the relevance of CSD to cognitive function remains unclear. A better understanding of the mechanism of the effect of CSD on cognitive progression can help identify potential targets for dementia prevention. Previous studies have shown that sleep disturbance can influence the hypothalamus\u2013pituitary\u2013adrenal (HPA) axis and the sympathetic nervous system (SNS), which together alter the profile of proinflammatory gene expression [ 12 ], and induce increases in interleukin 6 (IL-6), C-reactive protein (CRP) [ 13 ], tumor necrosis factor \u03b1 (TNF-\u03b1), interleukin 1\u03b2 (IL-1\u03b2) [ 14 ], and vascular cell adhesion molecule-1 (VCAM-1) [ 15 ]. Growing evidences demonstrated that sleep disturbance links with systemic inflammation and that neutrophils, as a marker of the ongoing non-specific inflammation and the first-line innate immune cell, can induce the uncontrolled release of toxic substances including inflammatory cytokines and tissue-damaging materials [ 16 ]. The ratio of neutrophil-to-lymphocyte has been repeatedly shown to be associated with obstructive sleep apnea [ 16 \u2013 18 ]. Activation of neutrophils induces the release of neutrophil extracellular traps (NETs), leading to vascular destabilization [ 19 ], breakdown of the blood\u2013brain barrier (BBB) [ 20 ], and vulnerability of the brain to damage [ 21 ]. Meanwhile, inflammatory cytokines also promote vascular permeability, neutrophil adhesion, and migration [ 22 ]. These findings suggested the importance of neutrophils in CSD, and we would focus on the effects of neutrophils on the association of CSD and cognitive function. In the present study, the longitudinal analysis showed the association of CSD with cognitive progression, and transcriptomics enrichment analysis revealed the activated neutrophil pathways in cognitively progressive subjects with CSD, which was echoed by analyses on blood neutrophils. The correlation between the neutrophil pathway and brain tau burden may reveal the mechanism, by which neutrophil activation triggers tau pathology to impair cognitive function in CSD.",
+    "document_source_id": "37280592",
+    "analysis_date": "2025-12-04",
+    "extracted_data": {
+      "core_effect_and_quantification": [
+        {
+          "biomarker_name": "Neutrophil activation and blood neutrophil levels",
+          "activity_context": "Cognitive progression in individuals with Chronic Sleep Disturbance (CSD)",
+          "direction_of_change": "Increased/Enriched",
+          "magnitude_quantification": "Significantly increased blood neutrophil levels (above a threshold of 61.633%) are associated with a higher risk of cognitive progression (adjusted p < 0.05, mediation effects 21-36%), with neutrophil activation pathways significantly enriched in CSD subjects."
+        },
+        {
+          "biomarker_name": "Tau burden (t-tau and p-tau)",
+          "activity_context": "Cognitive progression in CSD and its influence on cognitive function and left hippocampal atrophy",
+          "direction_of_change": "High/Significant changes",
+          "magnitude_quantification": "High tau burden mediated 21-36% of the association between blood neutrophils and cognitive function, exacerbated CSD-related risk of left hippocampal atrophy, and showed significant differences in cognitively progressive CSD subjects (adjusted p < 0.05)."
+        },
+        {
+          "biomarker_name": "Neutrophil-related inflammatory factors (ICAM1, VCAM1, TNFR2, TGF\u03b21)",
+          "activity_context": "Cognitive progression of Chronic Sleep Disturbance (CSD)",
+          "direction_of_change": "Elevated/Higher",
+          "magnitude_quantification": "Significantly elevated (adjusted p < 0.05) and correlated with brain tau burden (CSF t-tau and p-tau levels) in cognitively progressive CSD subjects."
+        },
+        {
+          "biomarker_name": "Cognitive function",
+          "activity_context": "Chronic Sleep Disturbance (CSD)",
+          "direction_of_change": "Significantly affected",
+          "magnitude_quantification": "Significant difference observed after 14 years of follow-up in CSD subjects."
+        },
+        {
+          "biomarker_name": "A\u03b2 levels",
+          "activity_context": "Cognitive progression in CSD and normal sleep groups",
+          "direction_of_change": "Significant differences",
+          "magnitude_quantification": "Adjusted p < 0.05"
+        }
+      ],
+      "molecular_mechanism_and_relationship": {
+        "activity_type_context": "Chronic Sleep Disturbance (CSD) leading to cognitive progression",
+        "mechanism_description": "The core mechanism links Chronic Sleep Disturbance (CSD) to cognitive progression via an activated neutrophil pathway that triggers tau pathology. Neutrophils are activated in the initial stages of CSD, leading to the release of neutrophil extracellular traps (NETs) and inflammatory cytokines (e.g., ICAM1, VCAM1, TNFR2, TGF\u03b21). These processes promote vascular destabilization, blood-brain barrier (BBB) breakdown, and vulnerability of the brain to damage. Neutrophils are recruited by chemokines (e.g., IL8, C5a complement), migrate into the peri-cerebrovascular space, adhere to endothelial cells, and cross the BBB, causing neuronal damage. High tau burden (CSF t-tau and p-tau) mediates 21-36% of the association between blood neutrophils and cognitive function (ADAS-cog, MMSE, FAQ). Furthermore, higher t-tau and p-tau levels exacerbate the CSD-related risk of left hippocampal atrophy, particularly in samples with higher neutrophil levels. Inflammatory factors are significantly associated with CSF p-tau and t-tau levels, suggesting a synergistic neurotoxicity in CSD.",
+        "related_biomarkers": [
+          "\u03b2-amyloid (A\u03b2)",
+          "tau neurofibrillary tangles",
+          "interleukin 6 (IL-6)",
+          "C-reactive protein (CRP)",
+          "tumor necrosis factor \u03b1 (TNF-\u03b1)",
+          "interleukin 1\u03b2 (IL-1\u03b2)",
+          "vascular cell adhesion molecule-1 (VCAM-1)",
+          "neutrophil-to-lymphocyte ratio",
+          "neutrophil extracellular traps (NETs)",
+          "Blood neutrophil percentage",
+          "CSF t-tau",
+          "CSF p-tau",
+          "ICAM1",
+          "TNFR2",
+          "TGF\u03b21",
+          "FAQ",
+          "MMSE",
+          "ADAS-cog",
+          "ADNI-MEM",
+          "MoCA",
+          "Hippocampal volume",
+          "Cognitive function",
+          "Left hippocampus atrophy",
+          "IL8",
+          "C5a complement"
+        ]
+      },
+      "dose_intensity_and_specificity": {
+        "dose_comparison_summary": "The study identified that the risk of cognitive progression increased with blood neutrophil levels in Chronic Sleep Disturbance (CSD) subjects, specifically with a threshold of 61.633% for blood neutrophil percentage. A significant difference in cognitive function was observed between normal sleep and CSD groups after 14 years. While specific dose-response effects for CSD itself were not detailed, high tau burden mediated and exacerbated risks.",
+        "specificity_finding": "The findings demonstrate specificity: activated neutrophil pathways, elevated blood neutrophil percentage (especially above 61.633%), and increased inflammatory factors (ICAM1, VCAM1, TNFR2, TGF\u03b21) were observed specifically in cognitively progressive subjects with Chronic Sleep Disturbance (CSD), but not in those without CSD or in normal sleep subjects. The relationship between blood neutrophil levels and cognitive progression was exclusive to CSD. While AD pathology (A\u03b2, t-tau, p-tau) was not generally the main characteristic of cognitive decline in CSD, significant changes in t-tau and p-tau were specific to cognitively progressive elderly with CSD. Interaction effects of CSD with tau on hippocampal volume were significant only in samples with higher neutrophil levels, and inflammatory factor correlation with tau was most pronounced in CSD individuals. Blood neutrophil levels also impacted cognitive function independently of CSF t-tau and p-tau."
+      },
+      "clinical_implication_and_population": {
+        "target_population": "Non-dementia elderly individuals (aged 55-90), including those who are cognitively normal or have mild cognitive impairment (MCI) at baseline, especially those experiencing chronic sleep disturbance (CSD) and cognitive progression.",
+        "health_implication": "Chronic Sleep Disturbance (CSD) significantly impacts cognitive function, leading to longitudinal cognitive impairment and an increased risk of cognitive progression (from cognitively normal to MCI/dementia or MCI to dementia). It is associated with lower social activity function, enrichment of Alzheimer's Disease (AD)-relevant pathways, adverse impact on the annual change rate of left hippocampal volume, and exacerbation of neurodegeneration, largely mediated by neutrophil activation and tau pathology.",
+        "risk_classification": "Adverse risk; potential diagnostic utility for identifying the risk of cognitive progression in elderly individuals with CSD."
+      },
+      "biomarker_reliability_and_future_focus": {
+        "reliability_assessment": "Activated neutrophil pathways, increased blood neutrophil levels, and elevated neutrophil-related inflammatory factors were identified and correlated with cognitive progression and brain tau burden in Chronic Sleep Disturbance (CSD), supporting their utility as markers of ongoing non-specific inflammation. CSF AD biomarkers (A\u03b242, p-tau, t-tau) and inflammatory markers (TNFR1,2; TGF\u03b21,2,3; IL6,7,21; ICAM1; VCAM1) were detected using highly standardized immunoassays. While significant correlations and mediation effects imply potential utility, explicit reliability metrics (sensitivity, specificity, reproducibility) were not quantified. Limitations include a lack of follow-up data on blood neutrophils, the absence of tau PET imaging for regional pathology, and potential population heterogeneity bias from including both cognitively normal and MCI subjects at baseline.",
+        "recommended_alternatives": [
+          "Tau PET imaging (for regional tau pathology)",
+          "Multi-cohort studies (for validation of blood neutrophil and CSF tauopathy pathways)"
+        ]
+      }
+    }
+  }
+]

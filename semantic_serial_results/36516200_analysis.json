@@ -1,0 +1,353 @@
+[
+  {
+    "title": "pmc Clin Cancer Res Clin Cancer Res Clinical Cancer Research 1078-0432 1557-3265 American Association for Cancer Research 10102846 36516200 CCR-22-2531 10.1158/1078-0432.CCR-22-2531 Version of Record Precision Medicine and Imaging Blood-Based Diagnosis and Risk Stratification of Patients with Pancreatic Intraductal Papillary Mucinous Neoplasm (IPMN) Blood-Based IPMN Diagnosis and Risk Assessment https://orcid.org/0000-0001-6816-3840 Zhang Chaoyang 1 2 https://orcid.org/0000-0002-6857-2596 Al-Shaheri Fawaz N. 1 2 https://orcid.org/0000-0001-9168-3895 Alhamdani Mohamed Saiel Saeed 1 https://orcid.org/0000-0002-7919-0497 Bauer Andrea S. 1 https://orcid.org/0000-0002-1583-5049 Hoheisel J\u00f6rg D. 1 * https://orcid.org/0000-0003-0208-7958 Schenk Miriam 3 https://orcid.org/0000-0001-8227-968X Hinz Ulf 3 https://orcid.org/0000-0002-8753-6224 Goedecke Philipp 3 https://orcid.org/0000-0001-5269-783X Al-Halabi Karam 3 https://orcid.org/0000-0002-3666-5675 B\u00fcchler Markus W. 3 https://orcid.org/0000-0001-5920-3142 Giese Nathalia A. 3 https://orcid.org/0000-0002-7012-1196 Hackert Thilo 3 # https://orcid.org/0000-0002-5136-4686 Roth Susanne 3 # 1 Division of Functional Genome Analysis, German Cancer Research Center (DKFZ), Heidelberg, Germany. 2 Medical Faculty, Heidelberg University, Heidelberg, Germany. 3 Department of General Surgery, University Hospital Heidelberg, Heidelberg, Germany. # T. Hackert and S. Roth contributed equally to this article. * Corresponding Author: J\u00f6rg D. Hoheisel, Functional Genome Analysis, Deutsches Krebsforschungszentrum (DKFZ), Im Neuenheimer Feld 580, Heidelberg 69120, Germany. E-mail: j.hoheisel@dkfz.de Clin Cancer Res 2023;29:1535\u201345 14 4 2023 14 12 2022 29 8 1535 1545 15 8 2022 28 10 2022 13 12 2022 \u00a92022 The Authors; Published by the American Association for Cancer Research 2022 American Association for Cancer Research https://creativecommons.org/licenses/by-nc-nd/4.0/ This open access article is distributed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) license. Abstract Purpose: Intraductal papillary mucinous neoplasm (IPMN) is a precursor of pancreatic ductal adenocarcinoma. Low-grade dysplasia has a relatively good prognosis, whereas high-grade dysplasia and IPMN invasive carcinoma require surgical intervention. However, diagnostic distinction is difficult. We aimed to identify biomarkers in peripheral blood for accurate discrimination. Experimental Design: Sera were obtained from 302 patients with IPMNs and 88 healthy donors. For protein biomarkers, serum samples were analyzed on microarrays made of 2,977 antibodies. A support vector machine (SVM) algorithm was applied to define classifiers, which were validated on a separate sample set. For microRNA biomarkers, a PCR-based screen was performed for discovery. Biomarker candidates confirmed by quantitative PCR were used to train SVM classifiers, followed by validation in a different sample set. Finally, a combined SVM classifier was established entirely independent of the earlier analyses, again using different samples for training and validation. Results: Panels of 26 proteins or seven microRNAs could distinguish high- and low-risk IPMN with an AUC value of 95% and 94%, respectively. Upon combination, a panel of five proteins and three miRNAs yielded an AUC of 97%. These values were much better than those obtained in the same patient cohort by using the guideline criteria for discrimination. In addition, accurate discrimination was achieved between other patient subgroups. Conclusions: Protein and microRNA biomarkers in blood allow precise diagnosis and risk stratification of IPMN cases, which should improve patient management and thus the prognosis of IPMN patients. See related commentary by L\u00f6hr and Pantel, p. 1387 China Scholarship Council (CSC) https://doi.org/10.13039/501100004543 Zhang C. Translational Relevance IPMN usually develops from benign forms (low risk) to a premalignant stage and finally IPMN-associated carcinoma (high-risk). Patients with low-risk IPMN are kept under close surveillance, whereas the others have the tumor surgically resected. Currently, distinction between the two risk groups is difficult to achieve. Late intervention, however, results in poor prognosis. Inversely, if surgery is performed when not required, it poses an unnecessary risk to patient health. The definition of a highly accurate diagnostic panel of five proteins and three miRNAs in the serum of IPMN patients allows non-invasive, blood-based discrimination of the risk groups. In a cohort that embodies the actual representation of IPMN patients, for whom such a distinction is required, the biomarker signature markedly outperformed the discrimination accuracy obtained following the current clinical guidelines. The established process could substantially affect clinical disease management and thereby considerably improve patient prognosis. Introduction Pancreatic ductal adenocarcinoma (PDAC) is one of the most aggressive malignancies ( 1 ) and bound to become the second most frequent cause of cancer-related death in the Western world ( 2 ). There are two types of PDAC precursor lesions, namely pancreatic intraepithelial neoplasias (PanIN) and mucinous cysts. The latter are subdivided further into intraductal papillary<bos> mucinous neoplasms (IPMN) and mucinous cystic neoplasms (MCN). In particular IPMNs have a high potential to develop into malignant tumors with a bad prognosis and are therefore of high clinical relevance. They are frequently discovered through incidental cross-sectional imaging ( 3, 4 ). Diagnostically, three IPMN grades are described: low-grade and high-grade dysplasia (also called carcinoma in situ ) as well as IPMN with an associated carcinoma ( 5 ). On the basis of clinical evidence, low-grade IPMN dysplasia are considered benign with a low risk of malignant progression. They have a 5-year disease-specific survival rate of 97%, as compared with 84% and 39% of patients with high-grade and invasive IPMN ( 6 ). They are kept under close surveillance to monitor further development of the disease. High-grade dysplasia is a premalignant form and IPMNs with an associated carcinoma have already become malignant. Because of the high risk, these IPMN patients require surgical tumor resection ( 7, 8 ). Distinguishing high-risk from low-risk IPMN patients accurately is critical to give patients the appropriate treatment ( 9 ). If the intervention is late, a highly malignant tumor could develop which results in poor prognosis. If surgery is performed when not required, it poses an unnecessary risk to the patient's health. There are quite a few indicators for surgery, such as a positive cytology for malignant, high-grade dysplasia, tumor-related jaundice, enhancing mural nodes, main pancreatic duct dilatation, tumor growth-rate, cyst diameter, increased carbohydrate antigen 19\u20139 (CA19\u20139) blood concentration, new-onset of diabetes mellitus, and diagnosis of pancreatitis ( 10, 11 ). Despite this large number of diagnostic features, however, diagnosis is not sufficiently accurate. Also imaging does not solve the problem; resected IPMN samples frequently reveal other grades of malignancy than predicted prior to resection ( 12 ). Blood-based diagnostics of PDAC has been developing during the last few years. Blood is attractive for biomarker detection because of its stability and accessibility. Also, diagnosis would be minimally invasive, reducing the burden to the patients and cost. In addition, samples could be easily collected repeatedly from the same patient, allowing longitudinal monitoring. A large number of blood biomarkers or biomarker signatures for the diagnosis of PDAC has been published (for a comprehensive review see ref. 13 ). However, not much progress has been made toward actual translation to clinical routine. Even the utility of serum markers that are already in use in clinical diagnostics, such as CA19\u20139, is limited by a relatively high degree of false results. There have been far fewer studies about blood-based detection of IPMN patients or the discrimination of IPMN grades than there are on PDAC and they are mostly lacking validation ( 14 ). In addition, performance is insufficient for application. Serum levels of CA19\u20139 are associated with malignant IPMN, but the diagnostic power is low ( 11, 15 ). Reported AUC values vary, ranging from 0.62 to 0.78. Another serum marker\u2014carcinoembryonic antigen (CEA)\u2014exhibits little utility in patient management. Also the blood type was proposed as a predictor of high-grade dysplasia but was of rather limited accuracy ( 16 ). At the RNA level, miRNA miR-4539 isolated from extracellular vesicles was reported to discriminate IPMN patients from healthy individuals with an AUC of 0.72; miR-6132 could distinguish benign IPMN and IPMN-derived carcinoma with an AUC of 0.77 ( 17 ). Five other miRNAs were found to correlate somehow with high-grade dysplasia or malignant carcinoma (AUC = 0.73; ref. 18 ) and a signature of 8 long noncoding RNAs yielded an AUC of 0.77 ( 19 ). With respect to proteins, MIC-1/GDF15 was considered, but proved ineffective ( 20 ). Also THBS2 showed very low accuracy with an AUC of 0.65 ( 21 ). Detection of anti-p53 antibody in combination with serum concentrations of CEA and CA19\u20139 could discriminate high-grade dysplasia and malignant IPMN from low-grade IPMN with a sensitivity of just 38.4% and specificity of 81.6% ( 22 ). The relatively strong anti-p53 antibody marker, however, could be detected in only 8.2% of the samples. Thus, for most patients, specificity was actually substantially lower than 81.6%. Recently, variations in the abundance of six serum proteins were described that distinguished low- and high-risk IPMNs with an accuracy of 83% ( 23 ). However, the analysis was based on a small sample number and not validated in an independent sample set. We aimed at substantially better discrimination by performing a much more comprehensive study, analyzing a large number of serum samples and studying variations in two molecule classes, namely proteins and miRNAs. The samples were collected from patients with low-grade or high-grade dysplasia as well as invasive carcinoma. Serum from healthy blood donors was analyzed for reference. Besides producing separate protein and miRNA diagnostic signatures, we generated independently a classifier that combined both molecule classes as several studies suggested that a combination of diagnostic features of different molecule classes could yield better robustness ( 13 ). The main objective of our study was the discrimination between low- and high-risk patients, because of this is most relevant clinically. An accurate biomarker signature in serum could substantially simplify risk stratification and thus a decision about performing tumor resection or not.",
+    "document_source_id": "36516200",
+    "analysis_date": "2025-11-14",
+    "extracted_data": {
+      "core_effect_and_quantification": [
+        {
+          "biomarker_name": "CA19-9",
+          "activity_context": "malignant IPMN / IPMN diagnosis",
+          "direction_of_change": "associated with low diagnostic power",
+          "magnitude_quantification": "AUC values varying from 0.62 to 0.78; part of a panel with 38.4% sensitivity and 81.6% specificity"
+        },
+        {
+          "biomarker_name": "miR-4539",
+          "activity_context": "discriminate IPMN patients from healthy individuals",
+          "direction_of_change": "discriminated",
+          "magnitude_quantification": "AUC of 0.72"
+        },
+        {
+          "biomarker_name": "miR-6132",
+          "activity_context": "distinguish benign IPMN and IPMN-derived carcinoma",
+          "direction_of_change": "distinguished",
+          "magnitude_quantification": "AUC of 0.77"
+        },
+        {
+          "biomarker_name": "Five other miRNAs",
+          "activity_context": "high-grade dysplasia or malignant carcinoma",
+          "direction_of_change": "correlated with",
+          "magnitude_quantification": "AUC = 0.73"
+        },
+        {
+          "biomarker_name": "Signature of 8 long noncoding RNAs",
+          "activity_context": "IPMN",
+          "direction_of_change": "discriminated",
+          "magnitude_quantification": "AUC of 0.77"
+        },
+        {
+          "biomarker_name": "THBS2",
+          "activity_context": "IPMN",
+          "direction_of_change": "showed low accuracy",
+          "magnitude_quantification": "AUC of 0.65"
+        },
+        {
+          "biomarker_name": "Anti-p53 antibody in combination with serum concentrations of CEA and CA19-9",
+          "activity_context": "discriminate high-grade dysplasia and malignant IPMN from low-grade IPMN",
+          "direction_of_change": "discriminated",
+          "magnitude_quantification": "sensitivity of 38.4% and specificity of 81.6%"
+        },
+        {
+          "biomarker_name": "Six serum proteins",
+          "activity_context": "distinguished low- and high-risk IPMNs",
+          "direction_of_change": "distinguished",
+          "magnitude_quantification": "accuracy of 83%"
+        },
+        {
+          "biomarker_name": "CD72",
+          "activity_context": "Discrimination of IPMN patients from healthy individuals",
+          "direction_of_change": "Distinguished",
+          "magnitude_quantification": "AUC=1.00; Absolute accuracy"
+        },
+        {
+          "biomarker_name": "DOK5",
+          "activity_context": "Discrimination of IPMN patients from healthy individuals",
+          "direction_of_change": "Distinguished",
+          "magnitude_quantification": "AUC=1.00; Absolute accuracy"
+        },
+        {
+          "biomarker_name": "ENO1",
+          "activity_context": "Discrimination of IPMN patients from healthy individuals / IPMN progression",
+          "direction_of_change": "Distinguished / Correlated",
+          "magnitude_quantification": "AUC=1.00; Absolute accuracy (for healthy vs. IPMN); Correlation observed (among 37 proteins in IPMN progression)"
+        },
+        {
+          "biomarker_name": "POU2F2",
+          "activity_context": "Discrimination of IPMN patients from healthy individuals",
+          "direction_of_change": "Distinguished",
+          "magnitude_quantification": "AUC=1.00; Absolute accuracy"
+        },
+        {
+          "biomarker_name": "SUPT6H",
+          "activity_context": "Discrimination of IPMN patients from healthy individuals",
+          "direction_of_change": "Distinguished",
+          "magnitude_quantification": "AUC=1.00; Absolute accuracy"
+        },
+        {
+          "biomarker_name": "26-protein panel",
+          "activity_context": "Discrimination of high-risk from low-risk IPMN",
+          "direction_of_change": "Distinguished",
+          "magnitude_quantification": "AUC=0.98 (discovery), 0.95 (validation); specificity 96%, sensitivity 84%"
+        },
+        {
+          "biomarker_name": "17-protein panel",
+          "activity_context": "Discrimination of high-risk from low-risk IPMN (smaller panel)",
+          "direction_of_change": "Distinguished",
+          "magnitude_quantification": "AUC=0.91"
+        },
+        {
+          "biomarker_name": "4-protein panel",
+          "activity_context": "Discrimination of malignant IPMN from healthy individuals",
+          "direction_of_change": "Distinguished",
+          "magnitude_quantification": "Accuracy=100%"
+        },
+        {
+          "biomarker_name": "miR-122\u20135p",
+          "activity_context": "Discrimination of high-risk IPMN from healthy individuals",
+          "direction_of_change": "Accurately discriminated",
+          "magnitude_quantification": "Included in panels with high accuracy"
+        },
+        {
+          "biomarker_name": "miR-125b-5p",
+          "activity_context": "Discrimination of high-risk IPMN from healthy individuals / IPMN progression",
+          "direction_of_change": "Accurately discriminated / Negative correlation",
+          "magnitude_quantification": "Included in panels with high accuracy; Correlation observed"
+        },
+        {
+          "biomarker_name": "miR-146a-5p",
+          "activity_context": "Discrimination of high-risk IPMN from healthy individuals / IPMN sera compared with healthy individuals / Discrimination of high-risk from low-risk IPMN (combined panel)",
+          "direction_of_change": "Accurately discriminated / Less in serum (opposite in tissues) / Distinguished",
+          "magnitude_quantification": "Included in panels with high accuracy; Observed; Included in combined panel with AUC=0.99 (training), 0.97 (validation)"
+        },
+        {
+          "biomarker_name": "miR-365a-3p",
+          "activity_context": "Discrimination of low-risk IPMN from healthy individuals",
+          "direction_of_change": "Accurately discriminated",
+          "magnitude_quantification": "Added to panel for discrimination"
+        },
+        {
+          "biomarker_name": "miR-375",
+          "activity_context": "Discrimination of low-risk IPMN from healthy individuals / Discrimination of high-risk from low-risk IPMN (combined panel)",
+          "direction_of_change": "Accurately discriminated / Distinguished",
+          "magnitude_quantification": "Added to panel for discrimination; Included in combined panel with AUC=0.99 (training), 0.97 (validation)"
+        },
+        {
+          "biomarker_name": "6-7 miRNA panel",
+          "activity_context": "Discrimination of high-risk from low-risk IPMN",
+          "direction_of_change": "Distinguished",
+          "magnitude_quantification": "AUC=0.94 (validation)"
+        },
+        {
+          "biomarker_name": "EEF1A1",
+          "activity_context": "Discrimination of high-risk from low-risk IPMN (combined panel) / IPMN progression",
+          "direction_of_change": "Distinguished / Correlated",
+          "magnitude_quantification": "Included in combined panel with AUC=0.99 (training), 0.97 (validation); Correlation observed (among 37 proteins in IPMN progression)"
+        },
+        {
+          "biomarker_name": "RPH3AL",
+          "activity_context": "Discrimination of high-risk from low-risk IPMN (combined panel)",
+          "direction_of_change": "Distinguished",
+          "magnitude_quantification": "Included in combined panel with AUC=0.99 (training), 0.97 (validation)"
+        },
+        {
+          "biomarker_name": "NCOR1",
+          "activity_context": "Discrimination of high-risk from low-risk IPMN (combined panel) / IPMN progression",
+          "direction_of_change": "Distinguished / Correlated",
+          "magnitude_quantification": "Included in combined panel with AUC=0.99 (training), 0.97 (validation); Correlation observed (among 37 proteins in IPMN progression)"
+        },
+        {
+          "biomarker_name": "L1CAM",
+          "activity_context": "Discrimination of high-risk from low-risk IPMN (combined panel) / IPMN progression",
+          "direction_of_change": "Distinguished / Correlated",
+          "magnitude_quantification": "Included in combined panel with AUC=0.99 (training), 0.97 (validation); Correlation observed (among 37 proteins in IPMN progression)"
+        },
+        {
+          "biomarker_name": "TMEM161A",
+          "activity_context": "Discrimination of high-risk from low-risk IPMN (combined panel)",
+          "direction_of_change": "Distinguished",
+          "magnitude_quantification": "Included in combined panel with AUC=0.99 (training), 0.97 (validation)"
+        },
+        {
+          "biomarker_name": "miR-155\u20135p",
+          "activity_context": "Discrimination of high-risk from low-risk IPMN (combined panel) / IPMN sera compared with healthy individuals",
+          "direction_of_change": "Distinguished / Less in serum (opposite in tissues)",
+          "magnitude_quantification": "Included in combined panel with AUC=0.99 (training), 0.97 (validation); Observed"
+        },
+        {
+          "biomarker_name": "Protein and miRNA biomarker panels (combined)",
+          "activity_context": "Discrimination of IPMN progression stages (healthy vs. IPMN, high-risk vs. low-risk IPMN, healthy vs. malignant IPMN)",
+          "direction_of_change": "Discriminative",
+          "magnitude_quantification": "AUC of 0.97, substantially more accurate than clinical guidelines (AUC 0.82) and performing with AUC=0.99 (training) and 0.97 (validation) for high-risk vs. low-risk IPMN"
+        },
+        {
+          "biomarker_name": "IL1B",
+          "activity_context": "High-risk IPMN compared with low-risk IPMN",
+          "direction_of_change": "Upregulated",
+          "magnitude_quantification": "More abundant in serum samples of high- than low-risk IPMN patients; comparably small discriminative power"
+        },
+        {
+          "biomarker_name": "miR-130a-3p",
+          "activity_context": "Benign to malignant IPMN",
+          "direction_of_change": "Decreases in serum levels",
+          "magnitude_quantification": "Reduction observed"
+        },
+        {
+          "biomarker_name": "ANXA1",
+          "activity_context": "IPMN progression",
+          "direction_of_change": "Correlated",
+          "magnitude_quantification": "Correlation observed (among 37 proteins)"
+        },
+        {
+          "biomarker_name": "AQP1",
+          "activity_context": "IPMN progression",
+          "direction_of_change": "Correlated",
+          "magnitude_quantification": "Correlation observed (among 37 proteins)"
+        },
+        {
+          "biomarker_name": "CAPN2",
+          "activity_context": "IPMN progression",
+          "direction_of_change": "Correlated",
+          "magnitude_quantification": "Correlation observed (among 37 proteins)"
+        },
+        {
+          "biomarker_name": "CD59",
+          "activity_context": "IPMN progression",
+          "direction_of_change": "Correlated",
+          "magnitude_quantification": "Correlation observed (among 37 proteins)"
+        },
+        {
+          "biomarker_name": "ELMO2",
+          "activity_context": "IPMN progression",
+          "direction_of_change": "Correlated",
+          "magnitude_quantification": "Correlation observed (among 37 proteins)"
+        },
+        {
+          "biomarker_name": "GSTM4",
+          "activity_context": "IPMN progression",
+          "direction_of_change": "Correlated",
+          "magnitude_quantification": "Correlation observed (among 37 proteins)"
+        },
+        {
+          "biomarker_name": "HMMR",
+          "activity_context": "IPMN progression",
+          "direction_of_change": "Correlated",
+          "magnitude_quantification": "Correlation observed (among 37 proteins)"
+        },
+        {
+          "biomarker_name": "IGF2BP3",
+          "activity_context": "IPMN progression",
+          "direction_of_change": "Correlated",
+          "magnitude_quantification": "Correlation observed (among 37 proteins)"
+        },
+        {
+          "biomarker_name": "NETO2",
+          "activity_context": "IPMN progression",
+          "direction_of_change": "Correlated",
+          "magnitude_quantification": "Correlation observed (among 37 proteins)"
+        },
+        {
+          "biomarker_name": "PRTN3",
+          "activity_context": "IPMN progression",
+          "direction_of_change": "Correlated",
+          "magnitude_quantification": "Correlation observed (among 37 proteins)"
+        },
+        {
+          "biomarker_name": "TJP2",
+          "activity_context": "IPMN progression",
+          "direction_of_change": "Correlated",
+          "magnitude_quantification": "Correlation observed (among 37 proteins)"
+        },
+        {
+          "biomarker_name": "TSLP",
+          "activity_context": "IPMN progression",
+          "direction_of_change": "Correlated",
+          "magnitude_quantification": "Correlation observed (among 37 proteins)"
+        },
+        {
+          "biomarker_name": "TTK",
+          "activity_context": "IPMN progression",
+          "direction_of_change": "Correlated",
+          "magnitude_quantification": "Correlation observed (among 37 proteins)"
+        },
+        {
+          "biomarker_name": "VEGFA",
+          "activity_context": "IPMN progression / cystic pancreatic tumors",
+          "direction_of_change": "Correlated (also elevated in cyst fluid of serous cystic neoplasms)",
+          "magnitude_quantification": "Correlation observed"
+        }
+      ],
+      "molecular_mechanism_and_relationship": {
+        "activity_type_context": "Diagnostic classification and risk stratification of Intraductal Papillary Mucinous Neoplasm (IPMN) across varying grades of dysplasia (low-grade vs. high-grade/invasive carcinoma), as well as discrimination between IPMN patients and healthy individuals, and different IPMN progression stages.",
+        "mechanism_description": "The study identifies biomarker panels (proteins and microRNAs) in blood serum that exhibit variations in abundance, enabling accurate non-invasive distinction between various IPMN disease states and risk levels. This approach is necessary due to the molecular heterogeneity of pancreatic cancers. Some identified proteins (e.g., ANXA1, AQP1) are known to promote PDAC proliferation or invasion, suggesting their involvement in IPMN progression. The observed asymmetric distribution of certain miRNAs between serum and tissues implies active cellular secretion. However, functional interpretations of serum biomarker changes are largely speculative and may reflect the overall physiological status rather than solely tumor-specific mechanisms.",
+        "related_biomarkers": [
+          "Panel of 26 proteins",
+          "Panel of 7 microRNAs",
+          "Combined panel of 5 proteins and 3 miRNAs",
+          "CA19-9",
+          "CEA",
+          "miR-4539",
+          "miR-6132",
+          "Five other miRNAs",
+          "Signature of 8 long noncoding RNAs",
+          "MIC-1/GDF15",
+          "THBS2",
+          "Anti-p53 antibody",
+          "Six serum proteins",
+          "CD72",
+          "DOK5",
+          "ENO1",
+          "POU2F2",
+          "SUPT6H",
+          "miR-122\u20135p",
+          "miR-125b-5p",
+          "miR-146a-5p",
+          "miR-365a-3p",
+          "miR-375",
+          "EEF1A1",
+          "RPH3AL",
+          "NCOR1",
+          "L1CAM",
+          "TMEM161A",
+          "miR-155\u20135p",
+          "ANXA1",
+          "AQP1",
+          "CAPN2",
+          "CD59",
+          "ELMO2",
+          "GSTM4",
+          "HMMR",
+          "IGF2BP3",
+          "NETO2",
+          "PRTN3",
+          "TJP2",
+          "TSLP",
+          "TTK",
+          "VEGFA",
+          "miR-205\u20135p",
+          "miR-326",
+          "miR-154\u20135p"
+        ]
+      },
+      "dose_intensity_and_specificity": {
+        "dose_comparison_summary": "The study did not investigate dose-response effects of an intervention. Instead, it explored the diagnostic intensity required for discrimination, finding that the number of biomarkers needed varied with the 'pathologic distance' between patient groups. Distinguishing IPMN from healthy individuals achieved perfect accuracy (AUC=1.00) with small protein panels. Discrimination between high- and low-risk IPMN was more challenging, necessitating larger protein panels (26 proteins yielding AUC=0.95-0.98), smaller miRNA panels (6-7 miRNAs yielding AUC=0.94), or an improved combined protein-miRNA panel (AUC=0.97-0.99).",
+        "specificity_finding": "The identified biomarker panels demonstrated high specificity in distinguishing various IPMN disease stages and risk groups, including IPMN patients from healthy individuals, low-risk from high-risk IPMN, and benign IPMN from IPMN-derived carcinoma. For instance, a 26-protein panel achieved 96% specificity for high- vs. low-risk IPMN. The combined protein and miRNA panels significantly outperformed current clinical guidelines, achieving an AUC of 0.97 compared to 0.82, showing clear specificity for disease stage and malignancy."
+      },
+      "clinical_implication_and_population": {
+        "target_population": "The target population includes patients with Intraductal Papillary Mucinous Neoplasm (IPMN) at various progression stages, such as low-grade dysplasia, high-grade dysplasia, and IPMN invasive carcinoma (n=302), as well as healthy individuals (n=88) serving as controls. This also extends to individuals requiring early detection of asymptomatic pancreatic ductal adenocarcinoma (PDAC).",
+        "health_implication": "The highly accurate diagnosis and risk stratification of IPMN cases using the identified biomarker panels are crucial for improving patient management and prognosis. This diagnostic utility allows for tailored clinical decision-making: enabling timely surgical intervention for high-risk patients to prevent poor prognosis and avoiding unnecessary surgery for low-risk cases, thereby reducing associated health risks. Furthermore, these panels show potential for earlier detection of IPMN risk and asymptomatic early-stage pancreatic ductal adenocarcinoma (PDAC), ultimately improving overall patient care for cystic pancreatic tumors.",
+        "risk_classification": "The biomarkers offer significant adverse risk/diagnostic utility by providing superior tools for identifying and stratifying patients with IPMN based on their risk of malignant progression (e.g., high-grade dysplasia and invasive carcinoma) versus low-risk forms. This capability directly influences critical treatment decisions, such as surgery versus surveillance, thereby mitigating adverse outcomes and identifying early-stage cancer or risk of malignant transformation."
+      },
+      "biomarker_reliability_and_future_focus": {
+        "reliability_assessment": "The newly developed combined panel of 5 proteins and 3 miRNAs demonstrates high reliability (AUC 97% on validation) for IPMN risk stratification, significantly outperforming current clinical guidelines (AUC 0.82) and existing markers like CA19-9 (AUCs 0.62-0.78), CEA, blood type, MIC-1/GDF15, THBS2 (AUC 0.65), and a previous 6-protein panel (83% accuracy). Single protein panels (e.g., 26-protein panel with AUC 0.95 and 96% specificity/84% sensitivity for high- vs. low-risk IPMN) and miRNA panels (AUC 0.94 for high- vs. low-risk IPMN) also show high accuracy, with miRNA panels requiring fewer molecules. The robustness is supported by reproducible marker identification and good statistical performance. However, these findings stem from a single-center study, necessitating multicenter, prospective studies for broader clinical validation and refinement of the SVM classifier.",
+        "recommended_alternatives": [
+          "Biomarker panels (instead of single proteins/miRNAs due to molecular heterogeneity of pancreatic cancers)",
+          "Smaller protein panels (e.g., 17-protein panel for AUC>0.90, or 4-protein panel for malignant IPMN vs. healthy)",
+          "miRNA-based biomarkers (due to smaller panel sizes required)",
+          "Combination panel of serum proteins and miRNAs (to improve discrimination between high- and low-risk IPMN)",
+          "qPCR-based assays for miRNA biomarkers for clinical testing",
+          "multiplex ELISAs for protein biomarkers for clinical testing"
+        ]
+      }
+    }
+  }
+]
