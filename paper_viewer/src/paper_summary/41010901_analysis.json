@@ -1,0 +1,131 @@
+[
+  {
+    "title": "pmc Medicina (Kaunas) Medicina (Kaunas) medicina Medicina 1010-660X 1648-9144 MDPI 12471504 10.3390/medicina61091510 medicina-61-01510 Article Sex-Specific Longitudinal Changes in Metabolic, Endocrine, Renal, Cardiovascular, and Inflammatory Biomarkers of Vaccinated COVID-19 Survivors: 30-Month Follow-Up Study https://orcid.org/0000-0003-0554-6718 Gur Ceren Conceptualization Methodology Software Validation Formal analysis Investigation Resources Data curation Writing \u2013 original draft Writing \u2013 review & editing Visualization Supervision Project administration Funding acquisition 1 * Solak Sezen Kumas Conceptualization Methodology Software Validation Investigation Data curation Writing \u2013 original draft Writing \u2013 review & editing Project administration Funding acquisition 2 Gundogan Erdal Conceptualization Methodology Formal analysis Investigation Writing \u2013 original draft Writing \u2013 review & editing Visualization Project administration 3 Pektas Fatih Conceptualization Methodology Software Investigation Data curation Writing \u2013 original draft Writing \u2013 review & editing Project administration Funding acquisition 3 https://orcid.org/0000-0002-1347-8498 Uzun Hafize Conceptualization Methodology Formal analysis Writing \u2013 original draft Writing \u2013 review & editing Visualization Supervision Project administration Funding acquisition 4 Ferrara Pietro Academic Editor 1 Department of Internal Medicine, Ba\u011fc\u0131lar Training and Research Hospital, University of Health Sciences, 34100 Istanbul, T\u00fcrkiye 2 Department of Anesthesiology and Reanimation, Ba\u011fc\u0131lar Training and Research Hospital, University of Health Sciences, 34100 Istanbul, T\u00fcrkiye; sezenkumassolak@gmail.com 3 Department of Internal Medicine, Faculty of Medicine, Istanbul Atlas University, 34403 Istanbul, T\u00fcrkiye; erdal.gundogan@atlas.edu.tr (E.G.); fatif.pektas@atlas.edu.tr (F.P.) 4 Department of Medical Biochemistry, Faculty of Medicine, Istanbul Atlas University, 34403 Istanbul, T\u00fcrkiye; huzun59@hotmail.com * Correspondence: cerencalti@yahoo.com ; Tel.: +90-5069290728 22 8 2025 9 2025 61 9 1510 27 7 2025 17 8 2025 20 8 2025 \u00a9 2025 by the authors. 2025 https://creativecommons.org/licenses/by/4.0/ Published by MDPI on behalf of the Lithuanian University of Health Sciences. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license ( https://creativecommons.org/licenses/by/4.0/ ). Objectives : Sex-based disparities in COVID-19 outcomes are well-documented, with men experiencing greater acute severity and women showing increased vulnerability to post-viral syndromes. However, longitudinal immunometabolic trajectories in vaccinated individuals remain underexplored. In this study, sex-based differences in long-term metabolic, endocrine, renal, cardiovascular, and inflammatory responses were investigated among vaccinated individuals recovering from SARS-CoV-2 infection. Methods: This retrospective single-center cohort study included 426 adults (199 females, 227 males) with PCR-confirmed symptomatic COVID-19 and at least two vaccine doses. Serial assessments were conducted at baseline, 18-, 24-, and 30-month post-infection. Parameters included fasting glucose, HbA1c, lipid profile, thyroid function, renal markers, CRP, D-dimer, fibrinogen, troponin, and hematologic indices. Statistical analyses assessed longitudinal changes and sex-stratified correlations. Results : Fasting glucose and HbA1c levels significantly declined over time, more prominently in males. Glucose correlated with age and BMI only in females. Lipid levels remained largely unchanged, although males had higher baseline triglycerides. Females showed rising TSH levels and persistently lower free T3; males exhibited higher creatinine, urea, and troponin levels throughout. Inflammatory markers declined significantly in both sexes, with males displaying higher CRP and troponin, and females showing sustained fibrinogen elevation and a temporary lymphocyte surge. D-dimer was elevated in females at the 30-month point. Conclusions : Sex-specific physiological recovery patterns were evident among vaccinated COVID-19 survivors. Males exhibited earlier metabolic and cardiac alterations, while females had more persistent endocrine and inflammatory shifts. These findings underscore the need for sex-tailored long-term monitoring strategies prioritizing early metabolic and cardiac screening in men and prolonged immunoendocrine surveillance in women. COVID-19 sex differences inflammation metabolism thyroid function vaccination This research received no external funding. 1. Introduction The COVID-19 pandemic, caused by SARS-CoV-2, has prompted extensive investigation into its long-term effects, particularly in vaccinated populations. Although vaccination reduces acute disease severity, emerging evidence suggests persistent alterations in metabolic, endocrine, and inflammatory pathways [ 1 , 2 , 3 ]. These changes may impact long-term health and quality of life. Biological sex is a key determinant of immune responses, influencing susceptibility, disease course, and recovery following SARS-CoV-2 infection and vaccination [ 4 , 5 ]. Research indicates that men tend to experience more severe outcomes from COVID-19, with higher rates of hospitalization, thromboinflammatory complications, and mortality [ 1 , 6 , 7 , 8 ]. These outcomes are often attributed to sex-based differences in immunological responses, including elevated levels of pro-inflammatory cytokines, impaired T cell responses, and variations in the expression of ACE2 and TMPRSS2 receptors. Conversely, women generally exhibit stronger innate and adaptive immune responses but paradoxically are more susceptible to post-viral syndromes, autoimmune sequelae, and adverse reactions related to vaccines or infections [ 5 , 9 ]. The long-term effects of SARS-CoV-2, known as long COVID complications, which are more common in women than men, are also linked to depression, reduced physical activity, and poor lifestyle habits [ 10 ]. Notably, long COVID frequently involves cardiometabolic and endocrine abnormalities, especially among women. This underscores the importance of considering sex-specific risk stratification [ 11 ]. Additionally, SARS-CoV-2-mediated damage and/or vaccination may influence post-infection immunometabolism, affecting inflammation, glucose levels, lipid metabolism, renal function, and thyroid regulation in the post-pandemic era [ 12 , 13 , 14 , 15 ]. With widespread COVID-19 vaccination, most individuals now experience infection post-vaccination, which may alter disease progression and recovery. However, data on long-term outcomes in vaccinated populations remain limited. This study focuses on vaccinated patients to better understand sex-specific metabolic and inflammatory changes after COVID-19, providing relevant insights for current clinical management and follow-up. This retrospective cohort study explores sex-based differences in metabolic, endocrine, and inflammatory responses to SARS-CoV-2 infection in vaccinated individuals. Serial blood samples were collected over 30 months. Baseline and follow-up assessments included markers of glucose metabolism, thyroid function, inflammation, coagulation, and cardiac status. The study aims to clarify the role of biological sex in post-infection immunometabolic dynamics to support personalized recovery strategies.",
+    "document_source_id": "41010901",
+    "analysis_date": "2025-12-04",
+    "extracted_data": {
+      "core_effect_and_quantification": [
+        {
+          "biomarker_name": "Fasting glucose",
+          "activity_context": "COVID-19 recovery in vaccinated individuals",
+          "direction_of_change": "declined",
+          "magnitude_quantification": "Fasting glucose levels declined significantly over time in vaccinated COVID-19 survivors, with a more pronounced reduction observed in males (e.g., from 126.00 to 113.60 mg/dL overall). While significant in males (p = 0.033), it was not significant in females (p = 0.197)."
+        },
+        {
+          "biomarker_name": "HbA1c",
+          "activity_context": "COVID-19 recovery in vaccinated individuals",
+          "direction_of_change": "declined",
+          "magnitude_quantification": "HbA1c levels significantly decreased in both sexes among vaccinated COVID-19 survivors (from 7.26% to 6.43% overall, p < 0.001), though the reduction was more pronounced in males."
+        },
+        {
+          "biomarker_name": "TSH",
+          "activity_context": "COVID-19 recovery in vaccinated females",
+          "direction_of_change": "increased",
+          "magnitude_quantification": "TSH levels significantly increased in females over time (from 2.18 \nG\n 0.13 to 3.26 \nG\n 0.58 \nG\nU/mL, p = 0.043) but remained stable in males."
+        },
+        {
+          "biomarker_name": "Free T3",
+          "activity_context": "COVID-19 recovery in vaccinated females",
+          "direction_of_change": "persistently lower",
+          "magnitude_quantification": "Free T3 levels were consistently higher in males (e.g., 3.18 \nG\n 0.05 ng/L at T0) compared to females (2.95 \nG\n 0.06 ng/L at T0, p = 0.0006) and remained elevated in males throughout the follow-up period, indicating persistently lower levels in females."
+        },
+        {
+          "biomarker_name": "Creatinine",
+          "activity_context": "COVID-19 recovery in vaccinated males",
+          "direction_of_change": "increased",
+          "magnitude_quantification": "Creatinine levels significantly increased in both sexes during the follow-up period (female: p = 0.009; male: p = 0.001) and were consistently higher in males throughout the study."
+        },
+        {
+          "biomarker_name": "Urea",
+          "activity_context": "COVID-19 recovery in vaccinated males",
+          "direction_of_change": "higher",
+          "magnitude_quantification": "Urea levels were consistently higher in males throughout the study."
+        },
+        {
+          "biomarker_name": "Troponin",
+          "activity_context": "COVID-19 recovery in vaccinated individuals",
+          "direction_of_change": "declined",
+          "magnitude_quantification": "Troponin levels significantly decreased in both sexes (female: p = 0.001; male: p = 0.003) but males consistently displayed higher levels, particularly during early follow-up."
+        },
+        {
+          "biomarker_name": "CRP",
+          "activity_context": "COVID-19 recovery in vaccinated individuals",
+          "direction_of_change": "declined",
+          "magnitude_quantification": "CRP levels significantly declined over time in both sexes (p = 0.001 overall decline). However, males consistently exhibited higher levels than females at T2 (p = 0.016) and T3 (p = 0.001)."
+        },
+        {
+          "biomarker_name": "Fibrinogen",
+          "activity_context": "COVID-19 recovery in vaccinated females",
+          "direction_of_change": "elevated",
+          "magnitude_quantification": "Fibrinogen levels declined overall (p < 0.001) but remained consistently higher in females across all timepoints (p < 0.05), indicating sustained elevation in females."
+        },
+        {
+          "biomarker_name": "Lymphocyte percentages",
+          "activity_context": "COVID-19 recovery in vaccinated females",
+          "direction_of_change": "surge",
+          "magnitude_quantification": "Lymphocyte percentages showed a modest but significant temporary surge/increase in females at T2 (p = 0.006)."
+        },
+        {
+          "biomarker_name": "D-dimer",
+          "activity_context": "COVID-19 recovery in vaccinated females",
+          "direction_of_change": "elevated",
+          "magnitude_quantification": "D-dimer levels were significantly higher in females than males at the 30-month (T3) point (p = 0.024)."
+        },
+        {
+          "biomarker_name": "Lipid levels",
+          "activity_context": "COVID-19 recovery in vaccinated individuals",
+          "direction_of_change": "unchanged",
+          "magnitude_quantification": "Overall lipid levels remained largely unchanged. However, triglyceride levels fluctuated slightly; males initially had significantly higher baseline levels compared to females and showed a gradual decline, while females exhibited a sustained and progressive increase by the 30-month (T3) point."
+        },
+        {
+          "biomarker_name": "T4",
+          "activity_context": "Post-COVID-19 (follow-up T0-T3)",
+          "direction_of_change": "increase",
+          "magnitude_quantification": "T4 levels showed a slight overall increase (p = 0.010), with males exhibiting a significant rise from 1.15 \nG\n 0.02 to 1.21 \nG\n 0.02 ng/dL (p = 0.021)."
+        }
+      ],
+      "molecular_mechanism_and_relationship": {
+        "activity_type_context": "SARS-CoV-2 infection and vaccination, focusing on post-COVID-19 physiological adaptation and recovery, sex-based immunometabolic differences, and vulnerability to long COVID in vaccinated adults who recovered from moderate COVID-19.",
+        "mechanism_description": "Biological sex is a critical determinant of immune responses, influencing susceptibility, disease course, and recovery following SARS-CoV-2 infection and vaccination. Sex-based immunological differences, including variations in pro-inflammatory cytokines, T cell responses, and ACE2/TMPRSS2 receptor expression, contribute to men experiencing greater acute severity and thromboinflammatory complications. Conversely, women generally exhibit stronger innate and adaptive immune responses but are more susceptible to post-viral syndromes, autoimmune sequelae, and long COVID, often linked to distinct immune modulation, hormonal influences, or sustained inflammatory processes. SARS-CoV-2-mediated damage and/or vaccination may significantly influence post-infection immunometabolism, affecting inflammation, glucose levels, lipid metabolism, renal function, and thyroid regulation. Sex-specific physiological adaptations arise from innate variations (body composition, hormonal milieu, renal function), acute infection effects, and immunometabolic differences. This includes the complex interplay of adiposity, hormones, and metabolic regulation for glucose, differential metabolic recovery or lingering inflammatory responses for triglycerides, and shared metabolic pathways such as insulin resistance. The hypothalamic-pituitary-thyroid axis modulation also differs by sex, possibly due to immune-endocrine interactions, along with age-related renal changes for creatinine. Recovery also involves interconnected roles of systemic inflammation, vascular reactivity, and myocardial stress, indicated by correlations between CRP, fibrinogen, and troponin.",
+        "related_biomarkers": [
+          "Pro-inflammatory cytokines",
+          "T cell responses",
+          "ACE2 receptors",
+          "TMPRSS2 receptors",
+          "Age",
+          "BMI",
+          "Triglycerides",
+          "Urea",
+          "Creatinine",
+          "Fibrinogen",
+          "Troponin",
+          "CRP",
+          "Fasting glucose",
+          "HbA1c",
+          "TSH",
+          "Free T3",
+          "WBC",
+          "Lymphocyte percentages"
+        ]
+      },
+      "dose_intensity_and_specificity": {
+        "dose_comparison_summary": "The study focused on vaccinated individuals (at least two doses) and did not perform comparisons based on the number or intensity of vaccine doses. Instead, dose comparisons relate to physiological burden and sex-specific baseline differences. Males generally exhibited a more pronounced acute physiological burden with significantly higher baseline levels of fasting glucose, HbA1c, urea, creatinine, and troponin. They also showed higher troponin values during early follow-up and consistently higher WBC values, particularly at T1, though these differences diminished for troponin by 30 months. Significant sex-based differences were observed in baseline and longitudinal changes for glucose, HbA1c, triglycerides, free T3, urea, D-dimer, fibrinogen, and troponin levels, with distinct patterns of change between sexes over the 18-30 month follow-up.",
+        "specificity_finding": "Pronounced sex-specific physiological recovery patterns were evident among vaccinated COVID-19 survivors who experienced moderate COVID-19 requiring hospitalization. Males exhibited earlier alterations in metabolic (fasting glucose, HbA1c) and cardiac (troponin) parameters, demonstrating higher baseline triglycerides, CRP, and troponin. Females, conversely, showed more persistent endocrine (TSH increase, persistently lower free T3) and inflammatory shifts (sustained fibrinogen elevation, sustained triglyceride increase by 30 months, temporary lymphocyte surge). Glucose correlated with age and BMI only in females. A specific positive correlation was found between glucose and triglyceride levels in both sexes (r=0.23, p=0.001 in females; r=0.20, p=0.021 in males), highlighting a link between glucose metabolism and triglycerides, distinct from cholesterol or LDL associations. The kinetics of inflammatory resolution for CRP also differed, with males consistently showing higher mean concentrations."
+      },
+      "clinical_implication_and_population": {
+        "target_population": "A cohort of 426 vaccinated adult COVID-19 survivors (199 females, 227 males; median age 56 years, range 19-80 years) with PCR-confirmed symptomatic, moderate COVID-19 requiring hospitalization, who had received at least two doses of a SARS-CoV-2 vaccine (mRNA BNT162b2 or inactivated CoronaVac) prior to infection.",
+        "health_implication": "Post-COVID-19 recovery involves persistent, sex-specific alterations in metabolic, endocrine, renal, cardiovascular, and inflammatory pathways impacting long-term health, necessitating sex-tailored long-term monitoring strategies. Males generally experienced earlier metabolic and cardiac alterations, indicating greater acute severity and subclinical cardiac stress, but also showed improved glycemic control post-COVID-19. Females, however, exhibited more persistent endocrine and inflammatory shifts, including delayed coagulative resolution, and an increased vulnerability to post-viral syndromes, autoimmune sequelae, and long COVID complications associated with cardiometabolic and endocrine abnormalities, depression, reduced physical activity, and poor lifestyle habits. Therefore, clinical management should prioritize early metabolic and cardiac screening in men and prolonged immunoendocrine surveillance in women to address both acute and extended sequelae.",
+        "risk_classification": "The findings reveal sex-specific risk classifications for long-term COVID-19 complications, emphasizing the need for tailored clinical approaches. Males are at higher risk for earlier metabolic and cardiac alterations, characterized by greater acute physiological burden and subclinical cardiac stress (adverse risk), though also showing improved glycemic control (protective benefit). Females, conversely, demonstrate a propensity for prolonged inflammatory responses, sustained metabolic changes, altered thyroid profiles, and delayed coagulative resolution (all adverse risks), indicating increased vulnerability to persistent endocrine-inflammatory issues and long COVID syndrome. This highlights the diagnostic utility of identified biomarkers for sex-specific monitoring and prognostic risk stratification."
+      },
+      "biomarker_reliability_and_future_focus": {
+        "reliability_assessment": "Biomarkers were measured using established and generally reliable clinical laboratory protocols, commercial autoanalyzers (Roche-Hitachi Cobas 8000, Mindray-BS-2000m), immunoturbidimetric assays, chemiluminescence immunoassays (CLIA), and hematology analysis. The identified sex-specific patterns in various biomarkers over 30 months were consistent and statistically/biologically relevant, underscoring their utility for post-COVID-19 monitoring. However, the study noted limitations including a lack of baseline data for certain inflammatory and cardiac biomarkers (D-dimer, fibrinogen, high-sensitivity troponin, CRP, WBC, NEU, LY) and incomplete hypertension data at intermediate time points, which could affect longitudinal trend interpretation. The longitudinal immunometabolic trajectories in vaccinated individuals remain underexplored, suggesting a broader knowledge gap.",
+        "recommended_alternatives": [
+          "Hormonal data (e.g., estrogen, testosterone)",
+          "Proinflammatory cytokines (e.g., IFN-\nG\n, IL-1\nG\n, IL-6)",
+          "Functional outcome measures (e.g., long COVID symptom incidence, quality-of-life measures)",
+          "SARS-CoV-2-specific immune response data"
+        ]
+      }
+    }
+  }
+]
