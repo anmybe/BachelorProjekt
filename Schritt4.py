@@ -12,9 +12,9 @@ load_dotenv()
 # Der Input-Ordner, der die Original-Phase-1-Analysen enthaelt (z.B. semantic_serial_results3)
 PHASE1_INPUT_FOLDER = "semantic_serial_results_threads_final"
 # Die Input-Datei von Phase 3 (mit standardisierten Namen)
-PHASE3_INPUT_FILE = "standardized_biomarkers_final.json"
+PHASE3_INPUT_FILE = "ki(step3)_standardized_biomarkers_final.json"
 # Die finale Output-Datei
-OUTPUT_FILE = "final_biomarker_details_aggregated2.json"
+OUTPUT_FILE = "result_step4.json"
 
 # --- HELPER FUNCTION: NAME NORMALIZATION ---
 
@@ -23,18 +23,9 @@ def normalize_name_for_comparison(name: str) -> str:
     überflüssigen Whitespace-Zeichen (inkl. \n, \t, \r, \b) 
     für den robusten Vergleich."""
     # Wird für das interne Matching verwendet.
+    # Dies ist der entscheidende Fix für die Sonderzeichen/Whitespace-Probleme
     cleaned_name = re.sub(r'\s+', '', name) 
     return cleaned_name.lower()
-
-def clean_output_name(name: str) -> str:
-    """Entfernt alle nicht-standardmäßigen Whitespace-Zeichen, 
-    ersetzt sie durch EIN Leerzeichen und trimmt den String."""
-    
-    # 1. Ersetze alle Whitespace-Zeichen (\s+) durch ein einzelnes Leerzeichen (" ")
-    cleaned_name = re.sub(r'\s+', ' ', name)
-    
-    # 2. Entferne führende/nachfolgende Leerzeichen
-    return cleaned_name.strip()
 
 # --- CORE LOGIC ---
 
@@ -82,6 +73,7 @@ def extract_and_consolidate_details(standard_name: str, findings: List[Dict[str,
     """
     
     # PLACEEHOLDER Logic (Beibehalten, da keine KI verwendet werden soll)
+    # Beachte: Der standard_name sollte hier bereits sauber sein, da er aus Phase 3 kommt.
     if len(findings) == 1:
         return {
             "overall_biomarker_summary": f"Manuelle Synthese: {standard_name} wurde in {findings[0]['document_source_id']} gefunden. Die tatsächliche Zusammenfassung muss manuell hinzugefügt werden.",
@@ -127,7 +119,7 @@ def aggregate_biomarker_details(standardized_index: List[Dict[str, Any]], doc_ca
             extracted_data = source_document.get('extracted_data', {})
             
             # NEU: Normalisiere den Originalnamen FÜR DEN VERGLEICH
-            normalized_original_name = normalize_name(original_name)
+            normalized_original_name = normalize_name_for_comparison(original_name)
             
             # Wir suchen im Array 'analyzed_biomarkers'
             analyzed_biomarkers = extracted_data.get('analyzed_biomarkers', [])
@@ -136,7 +128,7 @@ def aggregate_biomarker_details(standardized_index: List[Dict[str, Any]], doc_ca
             matching_biomarker_details = [
                 detail for detail in analyzed_biomarkers 
                 # HIER DER FIX: Normalisierter Vergleich
-                if normalize_name(detail.get('biomarker_name', '')) == normalized_original_name
+                if normalize_name_for_comparison(detail.get('biomarker_name', '')) == normalized_original_name
             ]
 
             if matching_biomarker_details:
