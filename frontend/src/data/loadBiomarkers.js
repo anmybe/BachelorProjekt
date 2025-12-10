@@ -1,5 +1,5 @@
 import Papa from 'papaparse';
-import biomarkerCsvContent from '../biomarker_summary3.csv?raw';
+import biomarkerCsvContent from '../biomarker_summary_step4.csv?raw';
 import { loadPapers } from './loadPapers';
 
 let cachedBiomarkers = null;
@@ -10,7 +10,7 @@ export const loadBiomarkers = () => {
     const results = Papa.parse(biomarkerCsvContent, {
         header: true,
         skipEmptyLines: true,
-        delimiter: ';', // Explicitly set delimiter for summary3.csv
+        delimiter: ',', // Updated to comma for step4 CSV
     });
 
     cachedBiomarkers = results.data.map(row => {
@@ -22,7 +22,7 @@ export const loadBiomarkers = () => {
             activityContext: row['Activity Context Summary'],
             effectSummary: row['Effect Summary'],
             sportImplications: row['Sport Implications'],
-            relevance: row['Relevance for Sports (1-10)'],
+            relevance: row['Relevance for Sports (1–10)'], // Updated to en-dash
             groups: row['Biomarker Groups'],
             occurrences: row['Occurrences in Dataset'],
             docIds

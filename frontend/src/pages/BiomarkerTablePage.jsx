@@ -1,4 +1,6 @@
 import React, { useState, useMemo } from 'react';
+import Slider from 'rc-slider';
+import 'rc-slider/assets/index.css';
 import { Link } from 'react-router-dom';
 import { loadBiomarkers } from '../data/loadBiomarkers';
 import backgroundImage from '../assets/background.png';
@@ -8,6 +10,10 @@ const BiomarkerTablePage = () => {
     const [searchTerm, setSearchTerm] = useState('');
     const [sortConfig, setSortConfig] = useState({ key: 'name', direction: 'asc' });
 
+    // Filter States
+    const [relevanceRange, setRelevanceRange] = useState({ min: 1, max: 10 });
+    const [selectedGroups, setSelectedGroups] = useState([]);
+
     const handleSort = (key) => {
         let direction = 'asc';
         if (sortConfig.key === key && sortConfig.direction === 'asc') {
@@ -16,24 +22,63 @@ const BiomarkerTablePage = () => {
         setSortConfig({ key, direction });
     };
 
+    // Extract unique groups
+    const allGroups = useMemo(() => {
+        const groups = new Set();
+        biomarkers.forEach(b => {
+            if (b.groups) {
+                b.groups.split(',').forEach(g => {
+                    const trimmed = g.trim();
+                    if (trimmed) groups.add(trimmed);
+                });
+            }
+        });
+        return Array.from(groups).sort();
+    }, [biomarkers]);
+
+    const toggleGroup = (group) => {
+        setSelectedGroups(prev =>
+            prev.includes(group)
+                ? prev.filter(g => g !== group)
+                : [...prev, group]
+        );
+    };
+
     const filteredBiomarkers = useMemo(() => {
-        let sortedData = [...biomarkers];
+        let data = biomarkers.filter(b => {
+            const matchesSearch = b.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
+                (b.groups && b.groups.toLowerCase().includes(searchTerm.toLowerCase()));
+
+            const relevanceval = parseFloat(b.relevance) || 0;
+            const matchesRelevance = relevanceval >= relevanceRange.min && relevanceval <= relevanceRange.max;
+
+            const matchesGroup = selectedGroups.length === 0 || selectedGroups.every(g => b.groups && b.groups.includes(g));
+
+            return matchesSearch && matchesRelevance && matchesGroup;
+        });
+
         if (sortConfig.key) {
-            sortedData.sort((a, b) => {
-                if (a[sortConfig.key] < b[sortConfig.key]) {
+            data.sort((a, b) => {
+                let aVal = a[sortConfig.key];
+                let bVal = b[sortConfig.key];
+
+                // Handle numeric sorting for relevance
+                if (sortConfig.key === 'relevance') {
+                    aVal = parseFloat(aVal) || 0;
+                    bVal = parseFloat(bVal) || 0;
+                }
+
+                if (aVal < bVal) {
                     return sortConfig.direction === 'asc' ? -1 : 1;
                 }
-                if (a[sortConfig.key] > b[sortConfig.key]) {
+                if (aVal > bVal) {
                     return sortConfig.direction === 'asc' ? 1 : -1;
                 }
                 return 0;
             });
         }
-        return sortedData.filter(b =>
-            b.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
-            b.groups.toLowerCase().includes(searchTerm.toLowerCase())
-        );
-    }, [biomarkers, searchTerm, sortConfig]);
+        return data;
+    }, [biomarkers, searchTerm, sortConfig, relevanceRange, selectedGroups]);
 
     return (
         <div>
@@ -89,6 +134,87 @@ const BiomarkerTablePage = () => {
             {/* Main Content */}
             <div style={{ padding: '4rem 2rem', maxWidth: '1200px', margin: '0 auto', minHeight: '100vh' }}>
                 <h2 style={{ marginBottom: '2rem', fontSize: '2.25rem', fontWeight: 800, letterSpacing: '-0.03em', color: 'var(--text-primary)' }}>Biomarker Summary</h2>
+
+                {/* Filters Section */}
+                <div style={{
+                    marginBottom: '2rem',
+                    padding: '2rem',
+                    backgroundColor: 'rgba(255, 255, 255, 0.7)',
+                    backdropFilter: 'blur(12px)',
+                    borderRadius: 'var(--radius-lg)',
+                    boxShadow: 'var(--shadow-sm)',
+                    border: '1px solid rgba(255, 255, 255, 0.8)'
+                }}>
+                    <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '2rem' }}>
+
+                        {/* Relevance Filter */}
+                        <div style={{ paddingRight: '1rem' }}>
+                            <h3 style={{ fontSize: '1rem', fontWeight: 700, marginBottom: '1.5rem', color: 'var(--text-secondary)' }}>
+                                Relevance Range: {relevanceRange.min} - {relevanceRange.max}
+                            </h3>
+                            <Slider
+                                range
+                                min={1}
+                                max={10}
+                                value={[relevanceRange.min, relevanceRange.max]}
+                                onChange={(value) => setRelevanceRange({ min: value[0], max: value[1] })}
+                                trackStyle={[{ backgroundColor: '#F8B9B4', height: 6 }]}
+                                handleStyle={[
+                                    { borderColor: '#F8B9B4', backgroundColor: 'white', opacity: 1 },
+                                    { borderColor: '#F6C8D9', backgroundColor: 'white', opacity: 1 }
+                                ]}
+                                railStyle={{ backgroundColor: 'rgba(0,0,0,0.1)', height: 6 }}
+                            />
+                        </div>
+
+                        {/* Search */}
+                        <div>
+                            <h3 style={{ fontSize: '1rem', fontWeight: 700, marginBottom: '1rem', color: 'var(--text-secondary)' }}>Search</h3>
+                            <input
+                                type="text"
+                                placeholder="Search biomarkers..."
+                                value={searchTerm}
+                                onChange={(e) => setSearchTerm(e.target.value)}
+                                style={{
+                                    width: '100%',
+                                    padding: '0.75rem',
+                                    borderRadius: 'var(--radius-md)',
+                                    border: '1px solid rgba(0,0,0,0.1)',
+                                    backgroundColor: 'rgba(255,255,255,0.8)',
+                                    fontSize: '1rem'
+                                }}
+                            />
+                        </div>
+                    </div>
+
+                    {/* Group Filter */}
+                    <div style={{ marginTop: '2rem' }}>
+                        <h3 style={{ fontSize: '1rem', fontWeight: 700, marginBottom: '1rem', color: 'var(--text-secondary)' }}>Filter by Group</h3>
+                        <div style={{ display: 'flex', flexWrap: 'wrap', gap: '0.5rem' }}>
+                            {allGroups.map(group => (
+                                <button
+                                    key={group}
+                                    onClick={() => toggleGroup(group)}
+                                    style={{
+                                        padding: '0.5rem 1rem',
+                                        borderRadius: '9999px',
+                                        border: '1px solid',
+                                        borderColor: selectedGroups.includes(group) ? '#86198f' : 'rgba(0,0,0,0.1)',
+                                        backgroundColor: selectedGroups.includes(group) ? '#fdf4ff' : 'white',
+                                        color: selectedGroups.includes(group) ? '#86198f' : 'var(--text-secondary)',
+                                        cursor: 'pointer',
+                                        fontSize: '0.875rem',
+                                        fontWeight: 600,
+                                        transition: 'all 0.2s'
+                                    }}
+                                >
+                                    {group.replace(/_/g, ' ')}
+                                </button>
+                            ))}
+                        </div>
+                    </div>
+                </div>
+
                 <div style={{
                     overflowX: 'auto',
                     backgroundColor: 'rgba(255, 255, 255, 0.6)',
