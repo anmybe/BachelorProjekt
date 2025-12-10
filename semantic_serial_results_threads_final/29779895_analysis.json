@@ -1,0 +1,412 @@
+[
+  {
+    "title": "Stem Cell Reports Stem Cell Reports Stem Cell Reports 2213-6711 Elsevier 5993559 S2213-6711(18)30183-8 10.1016/j.stemcr.2018.04.015 Article Identification and Single-Cell Functional Characterization of an Endodermally Biased Pluripotent Substate in Human Embryonic Stem Cells Allison Thomas F. tomallison24@gmail.com 1 \u2217 Smith Andrew J.H. 3 5 Anastassiadis Konstantinos 4 Sloane-Stanley Jackie 5 Biga Veronica 2 7 Stavish Dylan 1 Hackland James 1 Sabri Shan 6 Langerman Justin 6 Jones Mark 1 Plath Kathrin 6 Coca Daniel 2 Barbaric Ivana 1 Gokhale Paul 1 Andrews Peter W. 1 1 Centre for Stem Cell Biology, Department of Biomedical Science, University of Sheffield, Sheffield S10 2TN, UK 2 Signal Processing and Complex Systems Group, Department of Automatic Control and Systems Engineering, University of Sheffield, Sheffield S10 2TN, UK 3 MRC Centre for Regenerative Medicine, Institute for Stem Cell Research, School of Biological Sciences, University of Edinburgh, Edinburgh EH16 4UU, UK 4 Stem Cell Engineering, Biotechnology Center, Technische Universitaet Dresden, 01307 Dresden, Germany 5 MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, Radcliffe Department of Medicine, University of Oxford, John Radcliffe Hospital, Oxford OX3 9DS, UK 6 UCLA School of Medicine, Department of Biological Chemistry, University of California Los Angeles, Los Angeles, CA, USA 7 School of Medicine, Faculty of Biology and Health, University of Manchester, Manchester M13 9PT, UK \u2217 Corresponding author tomallison24@gmail.com 17 5 2018 05 6 2018 17 5 2018 10 6 1895 1907 9 9 2015 17 4 2018 17 4 2018 \u00a9 2018 The Authors 2018 This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/). Summary Human embryonic stem cells (hESCs) display substantial heterogeneity in gene expression, implying the existence of discrete substates within the stem cell compartment. To determine whether these substates impact fate decisions of hESCs we used a GFP reporter line to investigate the properties of fractions of putative undifferentiated cells defined by their differential expression of the endoderm transcription factor, GATA6, together with the hESC surface marker, SSEA3. By single-cell cloning, we confirmed that substates characterized by expression of GATA6 and SSEA3 include pluripotent stem cells capable of long-term self-renewal. When clonal stem cell colonies were formed from GATA6 -positive and GATA6 -negative cells, more of those derived from GATA6 -positive cells contained spontaneously differentiated endoderm cells than similar colonies derived from the GATA6 -negative cells. We characterized these discrete cellular states using single-cell transcriptomic analysis, identifying a potential role for SOX17 in the establishment of the endoderm-biased stem cell state. Graphical Abstract Highlights \u2022 Subsets of hESCs can co-express pluripotency-associated and lineage-specific genes \u2022 hESCs co-expressing GATA6 are capable of long-term self-renewal \u2022 Single GATA6 -expressing hESCs regenerate GATA6 -negative cells \u2022 GATA6 -expressing hESCs are biased in their propensity for differentiation Human embryonic stem cells have the capacity to turn into any cell type within the adult. Peter Andrews and colleagues have shown that subtle differences between individual cells can functionally bias the resulting cell type that is produced. Generating and purifying these biased cells may therefore improve the derivation of medically relevant cell types. Keywords GATA6 lineage priming human embryonic stem cell heterogeneity differentiation bias Published: May 17, 2018 Introduction Human embryonic stem cells (hESCs) offer opportunities for a wide range of applications in human health care, provided that effective methods are developed for controlling their differentiation. A central problem for stem cell biology, whether for pluripotent stem cells from the early embryo, or multipotent stem cells from later tissues, is to establish how such cells make fate decisions between self-renewal or differentiation and then how they choose between alternative pathways of differentiation ( Murry and Keller, 2008 ). In part, the decision any individual stem cell makes depends upon external cues, and many studies focus on the response of stem cells to particular signals, whether diffusible cytokines, the extracellular matrix or cell:cell interactions ( Semrau and van Oudenaarden, 2015 ). However, as cell characterization has become more refined and single-cell analyses have become feasible, many studies have also highlighted the heterogeneity of stem cell populations, making it possible to cluster cells into different subsets ( Hough et al., 2009 , Hough et al., 2014 ). This raises the question of whether this heterogeneity is \u201cnoise\u201d with no relevance to fate decisions, or whether the different subsets of stem cells respond differently to external cues so that their ultimate fate depends on a combination of extrinsic and intrinsic factors. By definition, stem cells assigned to different subsets must all be capable of self-renewal and the same range of differentiation, but it is possible that the different subsets correspond to different, interconvertible substates in which the stem cells exhibit distinct properties ( Arias and Brickman, 2011 , Draper et al., 2002 , Enver et al., 2005 , Enver et al., 2009 ). Among hematopoietic stem cells, heterogeneity in the patterns of gene expression at the single-cell level has been used to suggest the existence of multi-lineage priming, whereby subsets of stem cells activate components of different lineage-related regulatory genes prior to commitment to differentiate ( Hu et al., 1997 , Huang et al., 2007 ). Further, different subsets of a myeloid progenitor cell separated by differential surface markers appeared to have different propensities for monocyte and erythroid differentiation, although both were capable of self-renewal ( Chang et al., 2008 ). However, in another study based on single-cell analyses ( Pina et al., 2012 ), that conclusion was questioned since the apparent lineage-biased subsets could themselves be further subdivided into self-renewing and lineage-committed cells, emphasizing the need for clonal analyses to confirm the co-existence of self-renewal capacity and lineage bias in a single cell. In the pluripotent context, interconvertible subsets of mouse embryonic stem cells have been identified using reporters for stem cell-associated transcription factors such as NANOG ( Chambers et al., 2007 ), STELLA ( Hayashi et al., 2008 ), or REX1 ( Toyooka et al., 2008 ), or lineage-associated transcription factors such as HEX ( Canham et al., 2010 ), and shown to exhibit different functional properties. We previously identified a transitory state of hESCs, marked by lack of the surface marker SSEA3, with an apparently greater tendency to differentiate ( Enver et al., 2005 ), while Laslett et al. (2007) reported a gradation in expression of the surface markers CD9 and GCTM2 as hESCs transited from an undifferentiated to differentiated state ( Laslett et al., 2007 ). However, although these observations indicate substates with a greater or lesser tendency to differentiate, it is unclear whether substates can be identified with different biases with respect to the lineages they follow after differentiation. Previously, we inferred the existence of such lineage-biased substates in the pluripotent human embryonal carcinoma cell line NTERA2, but could not specifically identify the biased cells prior to differentiation ( Tonge et al., 2010 ). In a recent study of gene expression in individual hESCs, we observed that among cells expressing characteristic features of undifferentiated cells, notably the surface antigen SSEA3, and the transcription factors OCT4 and NANOG, some also expressed genes typically associated with endoderm differentiation, such as GATA6 ( Gokhale et al., 2015 ). To test whether these cells are functional, self-renewing stem cells, we have produced and analyzed an hESC line, Shef4, carrying a GFP reporter knocked into the GATA6 locus by gene targeting, as a tool to interrogate whether functionally biased substates exist within the over-arching pluripotent stem cell state.",
+    "document_source_id": "29779895",
+    "analysis_date": "2025-12-09",
+    "extracted_data": {
+      "document_summary": "This study comprehensively investigated the functional implications of heterogeneity in human embryonic stem cells (hESCs), focusing on an endodermally biased pluripotent substate. Using a GATA6-GFP reporter line and single-cell functional/transcriptomic analyses, the research identified distinct, interconvertible hESC substates defined by differential expression of GATA6 and SSEA3. GATA6-positive hESCs, while retaining long-term self-renewal and pluripotency (often alongside OCT4 and SOX2 co-expression), exhibited a higher propensity and bias towards spontaneous endoderm and mesoderm differentiation, with downregulation of ectodermal genes. SOX17 was identified as a potential driver for this endoderm-biased substate.",
+      "treatment_details": {
+        "therapy_type": "Human Embryonic Stem Cell (hESC) Substate Characterization and Differentiation Study",
+        "dose_specificity": "The study utilized the Shef4 hESC line, which was genetically modified with a GATA6-GFP reporter via Zinc Finger Nuclease-mediated homologous recombination. Cells were cultured in KO/SR on MEF feeders or E8 medium. hESC substates, defined by differential GATA6 and SSEA3 expression (e.g., 3+/6-, 3+/6L, 3+/6H, 3-/6+), were isolated by Fluorescence Activated Cell Sorting (FACS). These sorted cells were subjected to single-cell cloning, gene expression analysis (qPCR, single-cell RNA sequencing), high-content clonogenic assays, and differentiation protocols, including a spin-embryoid body (EB) system, without external therapeutic interventions or dose-response comparisons for differentiation-inducing factors. The focus was on intrinsic marker expression and resultant lineage bias."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "GATA6",
+          "measured_tissue_or_fluid": "Human embryonic stem cells (hESCs), Shef4 hESCs, Embryoid Bodies (EBs), hESC fractions, undifferentiated hESCs and differentiated subsets",
+          "activity_type": "Gene Transcript (GFP reporter, qPCR, single-cell RNA sequencing), Protein Level (immunolabeling/antibody staining), Functional Outcome (Transcription Factor Expression), Expression State",
+          "measured_effect": {
+            "direction_of_change": "heterogeneously expressed, oscillates between positive and negative, increased expression in specific subsets",
+            "magnitude_quantification": "Heterogeneously expressed in a subset of cells, oscillating between GATA6-positive and GATA6-negative states in self-renewing culture (2%-10% expressed GATA6). Upregulated in EBs and fractions from GATA6-expressing subsets. Increased GFP expression correlates with GATA6 protein upon endoderm differentiation. Cloning efficiency reduced progressively from GATA6-negative to GATA6-high subsets (e.g., 2.5% for 3+/6H vs 6% for 3+/6-). Increased GATA6 correlated with multiple lineages, including mesoderm and definitive endoderm differentiation, and developmental trajectory."
+          },
+          "core_biological_function": "Key lineage-associated transcription factor involved in early embryonic development, endoderm, and mesoderm differentiation; specifies endoderm lineage during blastocyst segregation and gastrulation; associated with multi-lineage priming and stem cell state interconversion.",
+          "relevant_activity_context": "Identification and functional characterization of endoderm-biased pluripotent substates in hESCs; hESC heterogeneity in self-renewing and differentiating conditions; endoderm differentiation protocols; blastocyst development; gastrulation; embryoid body (EB) formation; single-cell RNA sequencing.",
+          "performance_or_health_indicator": "Indicates an endoderm-biased pluripotent substate, showing that subtle molecular differences functionally bias cell fate decisions towards endoderm and mesoderm differentiation while largely retaining self-renewal. Higher expression correlates with reduced cloning efficiency and greater propensity for differentiation, signifying a more differentiated or lineage-biased state. Its expression increases the probability of hESCs committing to an endoderm differentiation route."
+        },
+        {
+          "biomarker_name": "SSEA3",
+          "measured_tissue_or_fluid": "Human embryonic stem cells (hESCs), Undifferentiated hESCs (cell surface)",
+          "activity_type": "Protein Level (Cell Surface Globoseries Glycolipid Expression, flow cytometry/immunolabeling)",
+          "measured_effect": {
+            "direction_of_change": "expressed in undifferentiated cells, lost quickly upon differentiation, used to define fractions",
+            "magnitude_quantification": "Expressed by undifferentiated hESCs, with high levels in the most undifferentiated population (3+/6-). Used in conjunction with GATA6 to define hESC fractions (e.g., 3+/6-, 3+/6L, 3+/6H, 3-/6+). Co-expressed with GATA6, its presence is characteristic of undifferentiated cells. Lost most quickly upon differentiation compared to other surface markers. All clones after differentiation showed similar patterns to the unsorted stem cell line."
+          },
+          "core_biological_function": "Sensitive cell surface marker for undifferentiated human embryonic stem cells, associated with a cell surface globoseries glycolipid.",
+          "relevant_activity_context": "Defining and distinguishing subsets of hESCs; hESC heterogeneity in self-renewing conditions; hESC differentiation process; assessment of stem cell purity.",
+          "performance_or_health_indicator": "Identifies undifferentiated hESCs; its loss indicates differentiation and its differential expression marks transitory states with varied differentiation tendencies. The 3+/6- subset (high SSEA3, low GATA6) represents a more pristine stem cell state. Important for assessing stem cell purity and differentiation potential."
+        },
+        {
+          "biomarker_name": "SOX17",
+          "measured_tissue_or_fluid": "Human embryonic stem cells (hESCs), EBs from hESC subsets, hESC colonies, hESC fractions",
+          "activity_type": "Gene Transcript (qPCR, RNA sequencing), Protein Expression (Immunostaining)",
+          "measured_effect": {
+            "direction_of_change": "upregulated, involved in establishment",
+            "magnitude_quantification": "Identified as having a 'potential role' in the establishment of the endoderm-biased stem cell state. Marked upregulation in EBs from GATA6-expressing subsets. Considerably more colonies contained SOX17 expressing cells among those originating from 3+/6H or 3-/6+ cells. A small yet distinct increase in the proportion of SOX17(+) cells per OCT4-positive colony within the 3+/6H and 3-/6+ biased fractions. Significantly more highly expressed in the 3+/6H fraction compared with the 3+/6L."
+          },
+          "core_biological_function": "Transcription factor involved in endoderm development and differentiation; endoderm-associated gene; potential driver for endoderm-biased substate.",
+          "relevant_activity_context": "Characterization of discrete cellular states in hESCs; single-cell transcriptomic analysis; hESC subset differentiation using spin-EB system; high-content clonogenic assay.",
+          "performance_or_health_indicator": "Indicates bias toward endoderm differentiation. May be a main driving force for cells to enter an endoderm-biased substate, suggesting a target for controlling differentiation pathways. Higher levels suggest a greater propensity for endodermal commitment."
+        },
+        {
+          "biomarker_name": "SSEA4, TRA-1-60, TRA-1-81",
+          "measured_tissue_or_fluid": "Human Embryonic Stem Cells (hESCs) (cell surface)",
+          "activity_type": "Protein Level (cell surface marker expression via flow cytometry)",
+          "measured_effect": {
+            "direction_of_change": "co-expressed, similar (in clones)",
+            "magnitude_quantification": "Similar to SSEA3, these three antigens showed co-expression with GATA6. All clones showed similar patterns of expression to the unsorted stem cell line."
+          },
+          "core_biological_function": "Stem cell-associated surface antigens.",
+          "relevant_activity_context": "Characterization of hESC heterogeneity in self-renewing conditions; analysis of clonal lines.",
+          "performance_or_health_indicator": "Further defines substates within hESC cultures; confirms pluripotency and stem cell attributes in clonal lines generated from GATA6-expressing cells."
+        },
+        {
+          "biomarker_name": "General Endoderm-related genes",
+          "measured_tissue_or_fluid": "Human Embryonic Stem Cells (hESCs)",
+          "activity_type": "Gene Expression Levels (qPCR)",
+          "measured_effect": {
+            "direction_of_change": "increased",
+            "magnitude_quantification": "Significant increase in expression of genes associated with endoderm was found in the 3+/6H and 3-/6+ subsets."
+          },
+          "core_biological_function": "Markers for differentiation into endodermal lineages.",
+          "relevant_activity_context": "Differentiation capacity assessment of reporter line; gene expression analysis of hESC substates.",
+          "performance_or_health_indicator": "Increased expression indicates a bias towards endoderm differentiation in GATA6-expressing subsets; confirms differentiation capacity of the reporter line."
+        },
+        {
+          "biomarker_name": "Stem cell-associated genes (e.g., LIN28, GRB7, NR6A)",
+          "measured_tissue_or_fluid": "Human Embryonic Stem Cells (hESCs)",
+          "activity_type": "Gene Expression Levels (qPCR)",
+          "measured_effect": {
+            "direction_of_change": "downregulated, similar (in clones), low (in subclones)",
+            "magnitude_quantification": "One cluster of stem cell-related genes was expressed in 3+/6- cells and downregulated in the 3-/6+ subset. GATA6 expression correlated with a reduction in these stem cell-associated genes. Gene expression for germ layer differentiation within all subclones was low and comparable to the unsorted line."
+          },
+          "core_biological_function": "Maintain pluripotency and self-renewal of human embryonic stem cells.",
+          "relevant_activity_context": "Gene expression differences between hESC substates; characterization of clonal lines derived from hESC substates.",
+          "performance_or_health_indicator": "Decreased expression indicates a shift away from a fully undifferentiated pluripotent state and a progression towards differentiation. Stable expression in clonal lines confirms their continued pluripotency and stem cell identity."
+        },
+        {
+          "biomarker_name": "OCT4",
+          "measured_tissue_or_fluid": "Human Embryonic Stem Cells (hESCs), hESC colonies, hESC clusters, self-renewing stem cells, hESC fractions",
+          "activity_type": "Gene Expression (qPCR, RNA sequencing), Protein Level (Immunolabeling, high-content microscopy)",
+          "measured_effect": {
+            "direction_of_change": "co-expression strongly retained in self-renewing clusters, lower proportion in biased subsets",
+            "magnitude_quantification": "Co-expression was strongly retained within self-renewing associated clusters but lost in other clusters. Most cells in each colony expressed OCT4, but there was a noticeable downward shift in the proportion of OCT4(+) cells per colony from 3+/6- and 3+/6L subsets to the 3+/6H and 3-/6+ subsets. OCT4(+)/SOX17(-) colonies predominated among those derived from 3+/6- and 3+/6L cells, with fewer such undifferentiated colonies from the 3+/6H and 3-/6+ subsets. A higher proportion of SOX17 or GATA4-expressing colonies also contained OCT4-expressing cells, particularly from 3+/6H cells. Robust and significant co-expression of both endoderm and stem cell genes was observed in cluster 13."
+          },
+          "core_biological_function": "Core transcription factor crucial for maintaining pluripotency and self-renewal in stem cells; master regulator of the stem cell state; facilitates endoderm gene-expressing cells to remain within the stem cell compartment.",
+          "relevant_activity_context": "Characterization of hESC substates; clonogenic assays; self-renewing stem cells; hESC differentiation; endoderm pathway commitment; single-cell RNA sequencing.",
+          "performance_or_health_indicator": "A decreased proportion of OCT4-positive cells suggests a reduced capacity for maintaining pluripotency and an increased tendency to differentiate. Co-expression with endoderm genes suggests mesendodermally biased cells while retaining stem cell characteristics. Its expression status dictates cellular residence inside or outside of the stem cell compartment, indicating sustained self-renewal capacity."
+        },
+        {
+          "biomarker_name": "SOX2",
+          "measured_tissue_or_fluid": "Human Embryonic Stem Cells (hESCs), hESC colonies, hESC clusters, EBs from hESC subsets, hESC fractions, self-renewing stem cells",
+          "activity_type": "Gene Expression (qPCR, RNA sequencing), Protein Level (immunolabeling, high-content microscopy)",
+          "measured_effect": {
+            "direction_of_change": "co-expression strongly retained in self-renewing clusters, downregulated in biased subsets, significant number of negative cells",
+            "magnitude_quantification": "Co-expression was strongly retained within self-renewing associated clusters but lost in other clusters. A similar pattern to OCT4 was observed, but with a broader distribution of SOX2 expression and a significant number of colonies, especially from the 3+/6H and 3-/6+ subsets, containing only SOX2-negative cells. Markedly downregulated in EBs from GATA6-expressing subsets, with a notable gradation from 3+/6L to 3+/6H and the 3-/6+ derived EBs. Co-expression was noted in cluster 13 of 3+/6H cells."
+          },
+          "core_biological_function": "Core transcription factor for maintaining pluripotency and self-renewal; master regulator of the stem cell state; ectodermal differentiation marker; its absence is associated with endoderm differentiation; facilitates endoderm gene-expressing cells to remain within the stem cell compartment.",
+          "relevant_activity_context": "Characterization of hESC substates; clonogenic assays; self-renewing stem cells; hESC differentiation; hESC subset differentiation using spin-EB system; single-cell RNA sequencing.",
+          "performance_or_health_indicator": "The presence of SOX2-negative cells, particularly in GATA6-high subsets, indicates a tendency towards endoderm differentiation and a reduced maintenance of the pluripotent state. Downregulation indicates bias against ectoderm differentiation. Co-expression in cluster 13 suggests mesendodermally biased cells. Its expression status dictates cellular residence inside or outside of the stem cell compartment, indicating sustained self-renewal capacity."
+        },
+        {
+          "biomarker_name": "GATA4",
+          "measured_tissue_or_fluid": "EBs from hESC subsets, hESC colonies, Single-cell derived hESC colonies",
+          "activity_type": "Gene Transcript (qPCR), Protein Expression (Immunostaining), Gene Expression (Marker for differentiated cells)",
+          "measured_effect": {
+            "direction_of_change": "upregulated (generally), reduced (specific subset), higher expression in specific subsets",
+            "magnitude_quantification": "Marked upregulation in EBs from GATA6-expressing subsets (3+/6L, 3+/6H). Reduced levels in EBs from the 3-/6+ subset. Considerably more colonies contained GATA4 expressing cells among those originating from 3+/6H or 3-/6+ cells. A small yet distinct increase in the proportion of GATA4(+) cells per OCT4-positive colony within the 3+/6H and 3-/6+ biased fractions. Colonies derived from 3+/6L or 3+/6H subsets contained more spontaneously differentiated cells of the endoderm pathway (marked by GATA4)."
+          },
+          "core_biological_function": "Endoderm-associated gene, transcription factor; marker for cells of the endoderm pathway.",
+          "relevant_activity_context": "hESC subset differentiation using spin-EB system; high-content clonogenic assay; spontaneous differentiation of hESCs.",
+          "performance_or_health_indicator": "Indicates bias toward endoderm differentiation. Reduced levels in 3-/6+ EBs potentially due to cells being further along in differentiation. Higher levels suggest a greater propensity for endodermal commitment."
+        },
+        {
+          "biomarker_name": "AFP",
+          "measured_tissue_or_fluid": "EBs from hESC subsets; hESC fractions (cluster 8)",
+          "activity_type": "Gene Transcript (qPCR, RNA sequencing)",
+          "measured_effect": {
+            "direction_of_change": "upregulated",
+            "magnitude_quantification": "Marked upregulation in EBs from GATA6-expressing subsets (3+/6L, 3+/6H). Higher expression in cells within 3+/6H and 3-/6+ fractions (cluster 8)."
+          },
+          "core_biological_function": "Endoderm-associated gene, marker for more mature endoderm.",
+          "relevant_activity_context": "hESC subset differentiation using spin-EB system; single-cell RNA sequencing.",
+          "performance_or_health_indicator": "Indicates bias toward endoderm differentiation, specifically more mature endoderm."
+        },
+        {
+          "biomarker_name": "FOXA2",
+          "measured_tissue_or_fluid": "EBs from hESC subsets; hESC fractions (cluster 8)",
+          "activity_type": "Gene Transcript (qPCR, RNA sequencing)",
+          "measured_effect": {
+            "direction_of_change": "upregulated",
+            "magnitude_quantification": "Marked upregulation in EBs from GATA6-expressing subsets (3+/6L, 3+/6H). Higher expression in cells within 3+/6H and 3-/6+ fractions (cluster 8)."
+          },
+          "core_biological_function": "Endoderm-associated gene, marker for more mature endoderm.",
+          "relevant_activity_context": "hESC subset differentiation using spin-EB system; single-cell RNA sequencing.",
+          "performance_or_health_indicator": "Indicates bias toward endoderm differentiation, specifically more mature endoderm."
+        },
+        {
+          "biomarker_name": "SOX7",
+          "measured_tissue_or_fluid": "EBs from hESC subsets; hESC fractions",
+          "activity_type": "Gene Transcript (qPCR, RNA sequencing)",
+          "measured_effect": {
+            "direction_of_change": "upregulated (generally); reduced (specific subset)",
+            "magnitude_quantification": "Marked upregulation in EBs from GATA6-expressing subsets (3+/6L, 3+/6H). Reduced levels in EBs from the 3-/6+ subset. No strong evidence for primitive endoderm by SOX7 expression in specific clusters."
+          },
+          "core_biological_function": "Endoderm-associated gene.",
+          "relevant_activity_context": "hESC subset differentiation using spin-EB system; single-cell RNA sequencing.",
+          "performance_or_health_indicator": "Indicates bias toward endoderm differentiation. Reduced levels in 3-/6+ EBs potentially due to cells being further along in differentiation. Absence of strong expression in certain clusters indicates lack of primitive endoderm."
+        },
+        {
+          "biomarker_name": "CD4",
+          "measured_tissue_or_fluid": "EBs from hESC subsets",
+          "activity_type": "Gene Transcript (qPCR)",
+          "measured_effect": {
+            "direction_of_change": "upregulated",
+            "magnitude_quantification": "Marked upregulation in EBs from GATA6-expressing subsets (3+/6L, 3+/6H, 3-/6+)."
+          },
+          "core_biological_function": "Mesoderm-associated gene.",
+          "relevant_activity_context": "hESC subset differentiation using spin-EB system.",
+          "performance_or_health_indicator": "Indicates bias toward mesoderm differentiation."
+        },
+        {
+          "biomarker_name": "PECAM",
+          "measured_tissue_or_fluid": "EBs from hESC subsets",
+          "activity_type": "Gene Transcript (qPCR)",
+          "measured_effect": {
+            "direction_of_change": "upregulated",
+            "magnitude_quantification": "Marked upregulation in EBs from GATA6-expressing subsets (3+/6L, 3+/6H, 3-/6+)."
+          },
+          "core_biological_function": "Mesoderm-associated gene.",
+          "relevant_activity_context": "hESC subset differentiation using spin-EB system.",
+          "performance_or_health_indicator": "Indicates bias toward mesoderm differentiation."
+        },
+        {
+          "biomarker_name": "KDR",
+          "measured_tissue_or_fluid": "EBs from hESC subsets",
+          "activity_type": "Gene Transcript (qPCR)",
+          "measured_effect": {
+            "direction_of_change": "upregulated",
+            "magnitude_quantification": "Marked upregulation in EBs from GATA6-expressing subsets (3+/6L, 3+/6H, 3-/6+)."
+          },
+          "core_biological_function": "Mesoderm-associated gene.",
+          "relevant_activity_context": "hESC subset differentiation using spin-EB system.",
+          "performance_or_health_indicator": "Indicates bias toward mesoderm differentiation."
+        },
+        {
+          "biomarker_name": "DESMIN",
+          "measured_tissue_or_fluid": "EBs from hESC subsets",
+          "activity_type": "Gene Transcript (qPCR)",
+          "measured_effect": {
+            "direction_of_change": "upregulated",
+            "magnitude_quantification": "Marked upregulation in EBs from GATA6-expressing subsets (3+/6L, 3+/6H, 3-/6+)."
+          },
+          "core_biological_function": "Mesoderm-associated gene.",
+          "relevant_activity_context": "hESC subset differentiation using spin-EB system.",
+          "performance_or_health_indicator": "Indicates bias toward mesoderm differentiation."
+        },
+        {
+          "biomarker_name": "CD34",
+          "measured_tissue_or_fluid": "EBs from hESC subsets",
+          "activity_type": "Gene Transcript (qPCR)",
+          "measured_effect": {
+            "direction_of_change": "reduced",
+            "magnitude_quantification": "Reduced levels in EBs from the 3-/6+ subsets."
+          },
+          "core_biological_function": "Mesoderm-associated gene.",
+          "relevant_activity_context": "hESC subset differentiation using spin-EB system.",
+          "performance_or_health_indicator": "Reduced levels potentially due to cells being further along in differentiation, past the point of normal developmental expression."
+        },
+        {
+          "biomarker_name": "PAX6",
+          "measured_tissue_or_fluid": "EBs from hESC subsets",
+          "activity_type": "Gene Transcript (qPCR)",
+          "measured_effect": {
+            "direction_of_change": "downregulated",
+            "magnitude_quantification": "Markedly downregulated in EBs from GATA6-expressing subsets (3+/6L, 3+/6H, 3-/6+), with a notable gradation."
+          },
+          "core_biological_function": "Ectodermal differentiation marker.",
+          "relevant_activity_context": "hESC subset differentiation using spin-EB system.",
+          "performance_or_health_indicator": "Indicates bias against ectoderm differentiation."
+        },
+        {
+          "biomarker_name": "TH",
+          "measured_tissue_or_fluid": "EBs from hESC subsets",
+          "activity_type": "Gene Transcript (qPCR)",
+          "measured_effect": {
+            "direction_of_change": "downregulated",
+            "magnitude_quantification": "Markedly downregulated in EBs from GATA6-expressing subsets (3+/6L, 3+/6H, 3-/6+), with a notable gradation."
+          },
+          "core_biological_function": "Ectodermal differentiation marker.",
+          "relevant_activity_context": "hESC subset differentiation using spin-EB system.",
+          "performance_or_health_indicator": "Indicates bias against ectoderm differentiation."
+        },
+        {
+          "biomarker_name": "SOX1",
+          "measured_tissue_or_fluid": "EBs from hESC subsets",
+          "activity_type": "Gene Transcript (qPCR)",
+          "measured_effect": {
+            "direction_of_change": "downregulated",
+            "magnitude_quantification": "Markedly downregulated in EBs from GATA6-expressing subsets (3+/6L, 3+/6H, 3-/6+), with a notable gradation."
+          },
+          "core_biological_function": "Ectodermal differentiation marker.",
+          "relevant_activity_context": "hESC subset differentiation using spin-EB system.",
+          "performance_or_health_indicator": "Indicates bias against ectoderm differentiation."
+        },
+        {
+          "biomarker_name": "SYN3",
+          "measured_tissue_or_fluid": "hESC fractions (cluster 2)",
+          "activity_type": "Gene Transcript (RNA sequencing)",
+          "measured_effect": {
+            "direction_of_change": "upregulated",
+            "magnitude_quantification": "Strong upregulation in cluster 2 (derived from 3+/6- fraction)."
+          },
+          "core_biological_function": "Neural associated gene.",
+          "relevant_activity_context": "Single-cell RNA sequencing.",
+          "performance_or_health_indicator": "Indicates neural differentiation."
+        },
+        {
+          "biomarker_name": "GRID2",
+          "measured_tissue_or_fluid": "hESC fractions (cluster 2)",
+          "activity_type": "Gene Transcript (RNA sequencing)",
+          "measured_effect": {
+            "direction_of_change": "upregulated",
+            "magnitude_quantification": "Strong upregulation in cluster 2 (derived from 3+/6- fraction)."
+          },
+          "core_biological_function": "Neural associated gene.",
+          "relevant_activity_context": "Single-cell RNA sequencing.",
+          "performance_or_health_indicator": "Indicates neural differentiation."
+        },
+        {
+          "biomarker_name": "NRG3",
+          "measured_tissue_or_fluid": "hESC fractions (cluster 2)",
+          "activity_type": "Gene Transcript (RNA sequencing)",
+          "measured_effect": {
+            "direction_of_change": "upregulated",
+            "magnitude_quantification": "Strong upregulation in cluster 2 (derived from 3+/6- fraction)."
+          },
+          "core_biological_function": "Neural associated gene.",
+          "relevant_activity_context": "Single-cell RNA sequencing.",
+          "performance_or_health_indicator": "Indicates neural differentiation."
+        },
+        {
+          "biomarker_name": "EOMES",
+          "measured_tissue_or_fluid": "hESC fractions (cluster 6)",
+          "activity_type": "Gene Transcript (RNA sequencing)",
+          "measured_effect": {
+            "direction_of_change": "high expression",
+            "magnitude_quantification": "High levels in 3+/6L cells within cluster 6."
+          },
+          "core_biological_function": "Early endoderm-associated gene.",
+          "relevant_activity_context": "Single-cell RNA sequencing.",
+          "performance_or_health_indicator": "Contributes to observed endoderm differentiation bias."
+        },
+        {
+          "biomarker_name": "FGF17",
+          "measured_tissue_or_fluid": "hESC fractions (cluster 6)",
+          "activity_type": "Gene Transcript (RNA sequencing)",
+          "measured_effect": {
+            "direction_of_change": "high expression",
+            "magnitude_quantification": "High levels in 3+/6L cells within cluster 6."
+          },
+          "core_biological_function": "Early endoderm-associated gene.",
+          "relevant_activity_context": "Single-cell RNA sequencing.",
+          "performance_or_health_indicator": "Contributes to observed endoderm differentiation bias."
+        },
+        {
+          "biomarker_name": "NODAL",
+          "measured_tissue_or_fluid": "hESC fractions (cluster 6)",
+          "activity_type": "Gene Transcript (RNA sequencing)",
+          "measured_effect": {
+            "direction_of_change": "high expression",
+            "magnitude_quantification": "High levels in 3+/6L cells within cluster 6."
+          },
+          "core_biological_function": "Early endoderm-associated gene.",
+          "relevant_activity_context": "Single-cell RNA sequencing.",
+          "performance_or_health_indicator": "Contributes to observed endoderm differentiation bias."
+        },
+        {
+          "biomarker_name": "LEFTY1",
+          "measured_tissue_or_fluid": "hESC fractions (cluster 6)",
+          "activity_type": "Gene Transcript (RNA sequencing)",
+          "measured_effect": {
+            "direction_of_change": "high expression",
+            "magnitude_quantification": "High levels in 3+/6L cells within cluster 6."
+          },
+          "core_biological_function": "Early endoderm-associated gene.",
+          "relevant_activity_context": "Single-cell RNA sequencing.",
+          "performance_or_health_indicator": "Contributes to observed endoderm differentiation bias."
+        },
+        {
+          "biomarker_name": "ID2",
+          "measured_tissue_or_fluid": "hESC fractions (cluster 8)",
+          "activity_type": "Gene Transcript (RNA sequencing)",
+          "measured_effect": {
+            "direction_of_change": "higher expression",
+            "magnitude_quantification": "Higher expression in cells within the 3+/6H and 3-/6+ fractions (cluster 8)."
+          },
+          "core_biological_function": "More mature endoderm-associated gene.",
+          "relevant_activity_context": "Single-cell RNA sequencing.",
+          "performance_or_health_indicator": "Confirms later developmental time point."
+        },
+        {
+          "biomarker_name": "HNF4A",
+          "measured_tissue_or_fluid": "hESC fractions (cluster 8)",
+          "activity_type": "Gene Transcript (RNA sequencing)",
+          "measured_effect": {
+            "direction_of_change": "higher expression",
+            "magnitude_quantification": "Higher expression in cells within the 3+/6H and 3-/6+ fractions (cluster 8)."
+          },
+          "core_biological_function": "More mature endoderm-associated gene.",
+          "relevant_activity_context": "Single-cell RNA sequencing.",
+          "performance_or_health_indicator": "Confirms later developmental time point."
+        },
+        {
+          "biomarker_name": "MSX1",
+          "measured_tissue_or_fluid": "hESC fractions (cluster 7)",
+          "activity_type": "Gene Transcript (RNA sequencing)",
+          "measured_effect": {
+            "direction_of_change": "higher expression",
+            "magnitude_quantification": "Higher expression in cells within the 3+/6H and 3-/6+ fractions (cluster 7)."
+          },
+          "core_biological_function": "Mesoderm-associated gene.",
+          "relevant_activity_context": "Single-cell RNA sequencing.",
+          "performance_or_health_indicator": "Confirms later developmental time point."
+        },
+        {
+          "biomarker_name": "HAND1",
+          "measured_tissue_or_fluid": "hESC fractions (cluster 7)",
+          "activity_type": "Gene Transcript (RNA sequencing)",
+          "measured_effect": {
+            "direction_of_change": "higher expression",
+            "magnitude_quantification": "Higher expression in cells within the 3+/6H and 3-/6+ fractions (cluster 7)."
+          },
+          "core_biological_function": "Mesoderm-associated gene.",
+          "relevant_activity_context": "Single-cell RNA sequencing.",
+          "performance_or_health_indicator": "Confirms later developmental time point."
+        },
+        {
+          "biomarker_name": "CDH11",
+          "measured_tissue_or_fluid": "hESC fractions (cluster 7)",
+          "activity_type": "Gene Transcript (RNA sequencing)",
+          "measured_effect": {
+            "direction_of_change": "higher expression",
+            "magnitude_quantification": "Higher expression in cells within the 3+/6H and 3-/6+ fractions (cluster 7)."
+          },
+          "core_biological_function": "Mesoderm-associated gene.",
+          "relevant_activity_context": "Single-cell RNA sequencing.",
+          "performance_or_health_indicator": "Confirms later developmental time point."
+        },
+        {
+          "biomarker_name": "ALPK2",
+          "measured_tissue_or_fluid": "hESC fractions (cluster 7)",
+          "activity_type": "Gene Transcript (RNA sequencing)",
+          "measured_effect": {
+            "direction_of_change": "higher expression",
+            "magnitude_quantification": "Higher expression in cells within the 3+/6H and 3-/6+ fractions (cluster 7)."
+          },
+          "core_biological_function": "Mesoderm-associated gene.",
+          "relevant_activity_context": "Single-cell RNA sequencing.",
+          "performance_or_health_indicator": "Confirms later developmental time point."
+        }
+      ]
+    }
+  }
+]

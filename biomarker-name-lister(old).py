@@ -38,9 +38,9 @@ except ImportError:
 API_PROVIDER = "GEMINI" 
 
 # Input-Ordner mit den analysierten JSONs aus Phase 1 (Thread-Output)
-INPUT_FOLDER = os.environ.get("PHASE1_OUTPUT_FOLDER", "semantic_serial_results") 
+INPUT_FOLDER = "semantic_serial_results_threads_final"
 # Output-Datei fuer die bereinigte Liste
-OUTPUT_FILE = "standardized_biomarkers4.json"
+OUTPUT_FILE = "standardized_biomarkers_final.json"
 MAX_WORKERS = 4 # Anzahl der gleichzeitigen API-Anfragen
 
 
@@ -304,15 +304,14 @@ def load_all_biomarkers_for_clustering(directory_path: str) -> List[Dict[str, st
                 with open(file_path, 'r', encoding='utf-8') as f:
                     data = json.load(f)
                     
-                    # Die Dateien enthalten ein Array, das ein einzelnes Dokument-Analyse-Objekt enthält
-                    doc_data = data[0] 
+                    doc_data = data[0]
                     doc_id = doc_data.get('document_source_id', 'UNKNOWN_ID')
                     
                     extracted_data = doc_data.get('extracted_data', {})
-                    # Wir interessieren uns nur fuer die core_effect_and_quantification
-                    core_effects = extracted_data.get('core_effect_and_quantification', [])
+                    biomarkers = extracted_data.get('analyzed_biomarkers', [])
                     
-                    for entry in core_effects:
+                    for entry in biomarkers:
+                        # Der Name wird über den Schlüssel 'biomarker_name' extrahiert
                         biomarker_name = entry.get('biomarker_name')
                         if biomarker_name:
                             all_biomarkers.append({
@@ -321,7 +320,7 @@ def load_all_biomarkers_for_clustering(directory_path: str) -> List[Dict[str, st
                             })
                             
             except (json.JSONDecodeError, IndexError, AttributeError) as e:
-                print(f"  - Fehler: Datei {filename} konnte nicht geparst werden: {e}")
+                print(f"  - Fehler: Datei {filename} konnte nicht geparst werden: {e}")
             
     print(f"\nGeladene Biomarker-Einträge zur Standardisierung: {len(all_biomarkers)}")
     return all_biomarkers

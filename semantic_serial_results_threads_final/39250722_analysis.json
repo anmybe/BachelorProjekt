@@ -1,0 +1,88 @@
+[
+  {
+    "title": "pmc Neurol Neuroimmunol Neuroinflamm Neurol Neuroimmunol Neuroinflamm nnn NEURIMMINFL Neurology\u00ae Neuroimmunology & Neuroinflammation 2332-7812 Lippincott Williams & Wilkins Hagerstown, MD 11385952 39250722 NXI-2024-100231 10.1212/NXI.0000000000200313 00010 3 132 176 179 Research Article Serological Markers of Clinical Improvement in MuSK Myasthenia Gravis https://orcid.org/0000-0003-0656-9671 Spagni Gregorio MD, PhD https://orcid.org/0000-0003-2395-8695 Vincent Angela MD, FRCPath, FRS https://orcid.org/0000-0002-5507-6657 Sun Bo MBBS, BSc, DPhil https://orcid.org/0000-0002-6264-5299 Falso Silvia MD Jacobson Leslie W. DPhil Devenish Sean PhD https://orcid.org/0000-0002-4644-2299 Evoli Amelia MD https://orcid.org/0000-0003-1740-4522 Damato Valentina MD, PhD From the Department of Neuroscience (G.S., S.F., A.E.), Universit\u00e0 Cattolica del Sacro Cuore, Rome, Italy; German Center for Neurodegenerative Diseases (DZNE) Berlin (G.S.), Berlin, Germany; Nuffield Department of Clinical Neurosciences (A.V., B.S., L.W.J.), University of Oxford; Fluidic Analytics Ltd (S.D.), The Paddocks Business Centre, Cambridge, United Kingdom; and Department of Neurosciences (V.D.), Drugs and Child Health, University of Florence, Italy. Correspondence Dr. Evoli amelia.evoli@unicatt.it Go to Neurology.org/NN for full disclosures. Funding information is provided at the end of the article. The Article Processing Charge was funded by the authors. Submitted and externally peer reviewed. The handling editor was Associate Editor Marinos C. Dalakas, MD, FAAN. 11 2024 9 9 2024 9 9 2024 11 6 e200313 10 4 2024 24 7 2024 Copyright \u00a9 2024 The Author(s). Published by Wolters Kluwer Health, Inc. on behalf of the American Academy of Neurology. 2024 American Academy of Neurology https://creativecommons.org/licenses/by-nc-nd/4.0/ This is an open access article distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives License 4.0 (CC BY-NC-ND) , which permits downloading and sharing the work provided it is properly cited. The work cannot be changed in any way or used commercially without permission from the journal. Background and Objectives In this retrospective longitudinal study, we aimed at exploring the role of (a) MuSK-immunoglobulin G (IgG) levels, (b) predominant MuSK-IgG subclasses, and (c) antibody affinity as candidate biomarkers of severity and outcomes in MuSK-MG, using and comparing different antibody testing techniques. Methods Total MuSK-IgGs were quantified with radioimmunoassay (RIA), ELISA, flow cytometry, and cell-based assay (CBA) serial dilutions using HEK293 cells transfected with MuSK-eGFP. MuSK-IgG subclasses were measured by flow cytometry. SAffCon assay was used for determining MuSK-IgG affinity. Results Forty-three serum samples were obtained at different time points from 20 patients with MuSK-MG (median age at onset: 48 years, interquartile range = 27.5\u201372.5; women, 16/20), with 9 of 20 (45%) treated with rituximab. A strong correlation between MuSK-IgG levels measured by flow cytometry and RIA titers was found (r s = 0.74, 95% CI 0.41\u20130.89, p = 0.0003), as well as a moderate correlation between CBA end-point titers and RIA titers (r s = 0.47, 95% CI 0.01\u20130.77, p = 0.0414). A significant correlation was found between MuSK-IgG flow cytometry levels and disease severity (r s = 0.39, 95% CI 0.06\u20130.64, p = 0.0175; mixed-effects model estimate: 2.296e-06, std. error: 1.024e-06, t = 2.243, p = 0.032). In individual patients, clinical improvement was associated with decrease in MuSK-IgG levels, as measured by either flow cytometry or CBA end-point titration. In all samples, MuSK-IgG4 was the most frequent isotype (mean \u00b1 SD: 90.95% \u00b1 13.89). A significant reduction of MuSK-IgG4 and, to a lesser extent, of MuSK-IgG2, was seen in patients with favorable clinical outcomes. A similar trend was confirmed in the subgroup of rituximab-treated patients. In a single patient, MuSK-IgG affinity increased during symptom exacerbation ( K D values: 62 nM vs 0.6 nM) while total MuSK-IgG and IgG4 levels remained stable, suggesting that affinity maturation may be a driver of clinical worsening. Discussion Our data support the quantification of MuSK antibodies by flow cytometry. Through a multimodal investigational approach, we showed that total MuSK-IgG levels, MuSK-IgG4 and MuSK-IgG2 levels, and MuSK-IgG affinity may represent promising biomarkers of disease outcomes in MuSK-MG.",
+    "document_source_id": "39250722",
+    "analysis_date": "2025-12-10",
+    "extracted_data": {
+      "document_summary": "This study retrospectively investigated MuSK-IgG levels, subclasses (IgG4, IgG2, IgG1), and antibody affinity as biomarkers for severity and outcomes in a longitudinal cohort of 20 MuSK Myasthenia Gravis (MuSK-MG) patients. Findings indicate that lower total MuSK-IgG, MuSK-IgG4, and MuSK-IgG2 levels, along with lower MuSK-IgG end-point titers, are associated with clinical improvement and favorable treatment response. Conversely, increased MuSK-IgG affinity may drive clinical worsening. These markers correlate with disease severity and show promise for guiding treatment strategies.",
+      "treatment_details": {
+        "therapy_type": "Rituximab and general immunosuppressive therapies for MuSK Myasthenia Gravis",
+        "dose_specificity": "Rituximab was administered to 9 out of 20 (45%) patients, with a median administration time of 10 years after disease onset. Specific dose, intensity, duration, or dose-response comparisons for rituximab or other immunosuppressive treatments were not detailed. Intravenous Immunoglobulin (IVIg) was not administered to any patient due to known poor response in MuSK-MG."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "MuSK-IgG (Total)",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Protein Level (measured by Flow Cytometry (FACS), CBA titration, RIA, and ELISA, quantified as ABC values)",
+          "measured_effect": {
+            "direction_of_change": "lower, higher",
+            "magnitude_quantification": "Significantly lower levels (median: 59,853, IQR: 47,826\u201394,533) were associated with MM-or-better status compared to acute symptomatic phase (median: 116,889, IQR: 65,478\u201318,034) (p = 0.0295). Higher levels correlated significantly with MGFA clinical classification (r s = 0.3885, 95% CI 0.06383\u20130.6387, p = 0.0175). A trend toward reduction (median ABC differences: -107,000, -65%; p = 0.0625) was observed in RTX-treated patients with good clinical outcomes."
+          },
+          "core_biological_function": "Pathogenic autoantibody targeting muscle-specific kinase (MuSK), critically involved in MuSK-Myasthenia Gravis pathogenesis by impairing neuromuscular junction function.",
+          "relevant_activity_context": "MuSK-MG clinical status (severity, acute symptomatic phase, MM-or-better status, remission) and response to therapeutic intervention (including Rituximab).",
+          "performance_or_health_indicator": "A valuable biomarker for diagnosing, monitoring disease severity, and predicting clinical outcomes (improvement/worsening) in MuSK-MG. Lower levels are associated with better clinical status and favorable response to treatment, while higher levels indicate worse clinical classification. Potentially useful for guiding immunotherapy."
+        },
+        {
+          "biomarker_name": "MuSK-IgG end-point titers",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Antibody Titer (measured by live Cell-Based Assay (CBA))",
+          "measured_effect": {
+            "direction_of_change": "lower, increased, unchanged",
+            "magnitude_quantification": "Median titers decreased from 1:400 in acute symptomatic phase to 1:200 with MM-or-better status (p = 0.0156). A trend toward reduction (1:100 vs 1:400, p = 0.0625) was seen in RTX-treated patients. In some cases, titers increased (e.g., 1:400 to 1:800) during remission or remained unchanged (1:800) during exacerbation. No significant correlation with MGFA clinical classification (r s = 0.2304, p = 0.1701)."
+          },
+          "core_biological_function": "Pathogenic autoantibody in MuSK-Myasthenia Gravis, reflecting the concentration of antibodies targeting muscle-specific kinase.",
+          "relevant_activity_context": "MuSK-MG clinical status (acute symptomatic phase, MM-or-better status, remission, exacerbation) and response to treatment (including Rituximab).",
+          "performance_or_health_indicator": "Serves as an indicator of clinical improvement in MuSK-MG, with lower titers associated with better outcomes. Used in diagnosis and monitoring, though showing weak correlation with clinical severity."
+        },
+        {
+          "biomarker_name": "MuSK-IgG4",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Protein Level (measured by flow cytometry, quantified as ABC values)",
+          "measured_effect": {
+            "direction_of_change": "higher, lower, stable",
+            "magnitude_quantification": "Most frequent isotype (mean \u00b1 SD: 90.95% \u00b1 13.89). Showed a significant positive correlation with MGFA scores (r s = 0.3808, 95% CI 0.05487\u20130.6334, p = 0.0201). Significant reduction (median ABC differences: -47,438; p = 0.0245) in MM-or-better status. A trend toward reduction (median ABC differences: -4,652, p = 0.0625) was observed in RTX-treated responders. Levels remained stable in non-improving patients and during exacerbation in one case (90.8% and 81.3%)."
+          },
+          "core_biological_function": "Dominant pathogenic autoantibody subclass in MuSK-Myasthenia Gravis, primarily associated with MuSK-MG and produced by short-lived plasma cells.",
+          "relevant_activity_context": "MuSK-MG clinical status (severity, acute symptomatic phase, MM-or-better status, remission, exacerbation) and response to conventional and Rituximab treatment.",
+          "performance_or_health_indicator": "A valuable biomarker for disease severity and outcomes in MuSK-MG. Higher levels correlate with worse disease severity, while reduction is associated with favorable treatment response and good clinical outcome. Potentially supports immunotherapy tapering/suspension."
+        },
+        {
+          "biomarker_name": "MuSK-IgG2",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Protein Level (measured by flow cytometry, quantified as ABC values)",
+          "measured_effect": {
+            "direction_of_change": "lower, unchanged",
+            "magnitude_quantification": "Represented 3.27% \u00b1 3.98 of MuSK antibodies. Showed a significant reduction (median ABC differences: -2,303; p = 0.0085) in MM-or-better status, and a trend toward reduction (median ABC differences: -105,683, p = 0.0625) in RTX-treated responders. No significant changes in non-improving patients. No significant correlations with disease severity were found."
+          },
+          "core_biological_function": "Pathogenic autoantibody subclass in MuSK-Myasthenia Gravis, contributing to the autoimmune response.",
+          "relevant_activity_context": "MuSK-MG clinical status (MM-or-better status) and response to conventional and Rituximab treatment.",
+          "performance_or_health_indicator": "Reduction is associated with favorable treatment response. Warrants further investigation for its clinical usefulness as a biomarker for MuSK-MG."
+        },
+        {
+          "biomarker_name": "MuSK-IgG Affinity",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Binding Affinity (determined by SAffCon assay)",
+          "measured_effect": {
+            "direction_of_change": "higher, unchanged",
+            "magnitude_quantification": "Median K D was 1.625 nM (range: 0.04 nM\u201361.9 nM). A 100-fold increase was observed during symptom exacerbation in one patient (K D values: 62 nM vs 0.6 nM), while it remained substantially unchanged (K D 1.3 nM vs 2 nM) when achieving MM-or-better status in another patient."
+          },
+          "core_biological_function": "The binding strength of autoantibodies to MuSK, which is a key determinant of their pathogenic potential and disease activity.",
+          "relevant_activity_context": "MuSK-MG clinical status (symptom exacerbation, MM-or-better status), particularly in patients not receiving immunosuppressive treatment.",
+          "performance_or_health_indicator": "Increased affinity may be a driver of clinical worsening in MuSK-MG, offering deeper insights into the immunobiology of the disorder and serving as a potential novel serologic biomarker of clinical outcomes."
+        },
+        {
+          "biomarker_name": "MuSK-IgG1",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Protein Level (measured by flow cytometry, quantified as ABC values)",
+          "measured_effect": {
+            "direction_of_change": "increased",
+            "magnitude_quantification": "Least frequent subclass, representing 2.47% \u00b1 13.04 of MuSK antibodies. In one patient, levels switched from 2.76% in acute phase to 85.45% in pharmacologic remission. No significant correlations with disease severity were found."
+          },
+          "core_biological_function": "Autoantibody subclass, potentially involved in immunobiological mechanisms driving clinical remission via IgG class switch.",
+          "relevant_activity_context": "MuSK-MG clinical status (acute phase to pharmacologic remission), particularly in the context of IgG class switch.",
+          "performance_or_health_indicator": "May suggest clinical remission is driven by IgG1+ B cell differentiation/recruitment in some patients, requiring further investigation as a biomarker for clinical outcomes."
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,160 @@
+[
+  {
+    "title": "pmc BMC Med Res Methodol BMC Med Res Methodol BMC Medical Research Methodology 1471-2288 BioMed Central London 9746108 1807 10.1186/s12874-022-01807-2 Research Methodology of the INVestigating traIning assoCiated blasT pAthology (INVICTA) study Roy Michael J. michael.roy@usuhs.edu 1 Keyser David O. 1 Rowe Sheilah S. 1 2 Hernandez Rene S. 1 2 Dovel Marcia 1 2 Romero Holland 1 2 Lee Diana 1 2 Menezes Matthew 1 2 Magee Elizabeth 1 2 Brooks Danielle J. 1 2 Lai Chen 1 2 Gill Jessica 1 3 Wiri Suthee 4 Metzger Elizabeth 1 2 Werner J. Kent 1 Brungart Douglas 5 Kulinski Devon M. 5 Nathan Dominic 1 2 Carr Walter S. 6 1 grid.265436.0 0000 0001 0421 5525 Department of Medicine, Center for Neuroscience and Regenerative Medicine, Uniformed Services University, Bethesda, MD 20814 USA 2 grid.201075.1 0000 0004 0614 9826 Henry M. Jackson Foundation, Rockville, MD USA 3 grid.94365.3d 0000 0001 2297 5165 National Institutes of Health, Bethesda, MD USA 4 grid.422775.1 0000 0004 0477 9461 Applied Research Associates, Albuquerque, NM USA 5 grid.414467.4 0000 0001 0560 6544 Walter Reed National Military Medical Center, Bethesda, MD USA 6 grid.507680.c 0000 0001 2230 3166 Center for Military Psychiatry and Neuroscience, Walter Reed Army Institute of Research, Silver Spring, MD USA 13 12 2022 13 12 2022 2022 22 317 15 7 2022 29 11 2022 \u00a9 This is a U.S. Government work and not under copyright protection in the US; foreign copyright protection may apply 2022 https://creativecommons.org/licenses/by/4.0/ Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/ . The Creative Commons Public Domain Dedication waiver ( http://creativecommons.org/publicdomain/zero/1.0/ ) applies to the data made available in this article, unless otherwise stated in a credit line to the data. Background Subconcussive blast exposure during military training has been the subject of both anecdotal concerns and reports in the medical literature, but prior studies have often been small and have used inconsistent methods. Methods This paper presents the methodology employed in INVestigating traIning assoCiated blasT pAthology (INVICTA) to assess a wide range of aspects of brain function, including immediate and delayed recall, gait and balance, audiologic and oculomotor function, cerebral blood flow, brain electrical activity and neuroimaging and blood biomarkers. Results A number of the methods employed in INVICTA are relatively easy to reproducibly utilize, and can be completed efficiently, while other measures require greater technical expertise, take longer to complete, or may have logistical challenges. Conclusions This presentation of methods used to assess the impact of blast exposure on the brain is intended to facilitate greater uniformity of data collection in this setting, which would enable comparison between different types of blast exposure and environmental circumstances, as well as to facilitate meta-analyses and syntheses across studies. Keywords Traumatic brain injury subconcussive injury concussion military blast exposure http://dx.doi.org/10.13039/100009898 Defense Health Agency issue-copyright-statement \u00a9 The Author(s) 2022 Background Traumatic Brain Injury (TBI) has an estimated incidence of 15\u201322% in veterans of the recent wars in Iraq and Afghanistan. Mild TBI (mTBI), characterized by loss or alteration of consciousness [ 1 ], is responsible for the great majority of these cases, has been considered to represent the lower end of the TBI spectrum, and has received considerable attention in the medical literature. In the last decade, however, increasing concerns have been expressed regarding the significance of subconcussive head trauma, which by definition does not result in loss or alteration of consciousness, but may result in symptoms such as headache or dizziness. Concern originated in contact sports [ 2 ], particularly with the demonstration of chronic traumatic encephalopathy (CTE), a progressive debilitating brain disorder [ 3 , 4 ] in athletes who had never experienced a concussion. Additionally, a dose\u2013response relationship was demonstrated between a cumulative head impact index (incorporating years of exposure to impact sports, positions played, and published accelerometer data in former football players) and subsequent cognitive impairment, self-reported executive dysfunction, depression, apathy, and behavioral dysregulation [ 5 ]. In addition to exposures in the world of athletics, a growing body of evidence has been gathered suggesting that blast overpressure in military service members (SMs) may have acute, cumulative, and long-term pathophysiological effects that are unique and do not contribute to CTE [ 6 \u2013 8 ]. Among Army personnel returning from deployment, blast has been implicated in 77% to 88% of deployment-related concussions [ 1 , 9 , 10 ]. Although subconcussive blast exposure has received far less attention, military SMs are uniquely susceptible to potential injury from blast waves generated by the detonation of high explosives or combustion of propellants inherent in various weapon systems, which can be transmitted throughout the body. There is also anecdotal evidence of post-concussive symptoms in SMs with repetitive subconcussive blast exposure (RSCBE). In a study of blast exposure in New Zealand breachers, reaction time and overall cognitive performance were associated with cumulative impulse, or total blast overpressure experienced, during two weeks of training [ 11 ]. Another study of SMs exposed to blast, as well as military law enforcement personnel not exposed to blast [ 6 ], identified a relationship between RSCBE and self-reported functional changes. Although several studies have attempted to examine relationships between RSCBE and changes in clinical and physiological function, they have been limited in size or scope, and have had inconsistent methodologies, resulting in overall equivocal findings [ 12 \u2013 14 ]. However, the measurement of blast overpressure using wearable blast gauges has since become increasingly sophisticated and reproducible. The current generation of wearable blast sensors reliably measure blast overpressure and capture detailed recordings of pressure versus time as blast exposure events occur. Recording is triggered by an incident overpressure event that exceeds a preset overpressure threshold and ends after blast-related energy has dissipated [ 15 ]. The capability to measure neurocognitive [ 16 \u2013 18 ], neurosensory [ 16 , 19 , 20 ], neuromotor [ 13 ] and autonomic nervous system [ 21 ] function has similarly become increasingly sophisticated, sensitive, and reliable. In addition, improvements in functional and structural neuroimaging make it possible to assess the potential impact of something as subtle as RSCBE which does not necessarily show up with conventional magnetic resonance imaging [ 22 \u2013 26 ]. In fact, computerized axial tomography (CT) and magnetic resonance imaging (MRI) are by definition normal in cases of concussion or mild TBI, and subconcussive blast exposure would similarly not be expected to show alterations on these imaging studies. However, diffusion tensor imaging (DTI) and/or functional MRI (fMRI) [ 25 , 26 ] may be more sensitive to the impact of blast. This has in fact been demonstrated in subconcussive head injuries in athletes, with DTI demonstrating an increase in white matter diffusivity [ 27 ], and fMRI showing alterations in the functional connectivity of the default mode network (DMN) [ 28 ]. There is also evidence of that fMRI changes correlate with impairment in verbal and visual memory [ 29 ]. In military SMs with blast-related mTBI [ 30 ] and blast exposure [ 31 ], DTI demonstrated reduced fractional anisotropy, consistent with white matter impairment. One form of DTI, diffusion weighted imaging (DWI), has also identified decreased fractional anisotropy and increased radial diffusivity, evidence of white matter damage, in career breachers who are repeatedly exposed to blast [ 32 ]. Resting state fMRI demonstrated increased DMN connectivity in career breachers compared to controls [ 32 ]. In summary, DTI and fMRI appear to have promise in documenting the impact of RSCBE, but the studies to date have been relatively small, with varying methodologies, and more study is needed. In addition to alterations in neurophysiology and imaging, changes in blood levels of molecular markers may represent an especially important and easily accessible window that cannot only facilitate the identification of injury, but also may elucidate specific pathophysiological mechanisms. Notably, neuron-specific enolase (NSE) and ubiquitin carboxyl-terminal hydrolase isozyme L1 (UCH-L1) indicate neuronal cell body injury, while microtubule-associated proteins 2 (MAP2) have been associated with dendritic injury, and neurofilament-light (NF-L) and heavy chains (NF-H), tau and spectrin breakdown products have been linked to axonal injury. Elevations in glial fibrillary acidic protein (GFAP) and S100\u03b2 markers represent potential blood markers of astroglial injury, whereas myelin basic protein (MBP) is more specific for myelin/oligodendrocyte damage [ 33 \u2013 35 ]. S100\u03b2 is also considered a marker of blood brain barrier (BBB) impairment [ 36 \u2013 38 ]. A relationship has been demonstrated in athletes with repetitive subconcussive head injury (RSCHI) and some of these biomarkers, including NSE [ 39 \u2013 41 ], UCH-L1 [ 42 \u2013 46 ], S100\u03b2 [ 37 , 39 \u2013 41 , 47 , 48 ] and tau [ 49 ]. MicroRNA analyses represent additional potential circulating markers of TBI [ 35 , 50 \u2013 54 ]. Among military SMs with blast exposure, there is evidence of elevations in blood levels of UCH-L1 [ 14 ], GFAP, and Spectrin Breakdown Product [SBDP]-150 [ 11 ]. Thus, blood biomarkers have particular promise in enhancing our understanding of the dimensions of impact of subconcussive blast exposure on the brain. In summary, while there is growing evidence of the impact of repeated concussive and subconcussive head impacts in athletes, to date there has been comparatively little attention on the impact associated with military training exercises and wartime activities. The INVestigating traIning assoCiated blasT pAthology (INVICTA) study is designed to address identified gaps in knowledge regarding the impact of RSCBE incurred during heavy weapons training on the brain, through the measurement of biomarkers, as well as a series of neurocognitive, neurobehavioral, neurosensory, neuromotor, and autonomic nervous system assessments. Moreover, investigation of these gaps in the understanding of the impact of RSCBE was mandated by the U.S. Congress in Sect. 734 of the National Defense Authorization Act (NDAA) for Fiscal Year 2018 as well as in Sect. 742 of NDAA 2020. INVICTA seeks to more explicitly define a wide range of blast-related brain pathobiology, thresholds of injury, the duration of any impairments identified, and the demographic and environmental factors that may impact the injury pattern. The ultimate goal is to provide guidance to military leadership and medical personnel to mitigate risk, as well as to lead to the development of preventive or protective measures, and potential therapeutic solutions. The purpose of this paper is to describe the unique, technologically sophisticated set of assessments employed in the INVICTA study to serially delineate a broad spectrum of brain activity and the full range of potential impact resulting from RSCBE during Special Operations Heavy Weapons Training (HWT).",
+    "document_source_id": "36513998",
+    "analysis_date": "2025-12-10",
+    "extracted_data": {
+      "document_summary": "The INVICTA study outlines its comprehensive methodology to assess the impact of repetitive subconcussive blast exposure (RSCBE) during military heavy weapons training on brain function and molecular changes. The study aims to identify acute and long-term effects, develop and validate a risk stratification system (RATING tool), and ensure uniform data collection for future comparisons and meta-analyses. It investigates relationships between blast exposure and various clinical, physiological, and neuroimaging outcomes, including specific blood biomarkers, to predict individual risk and inform military decision-making regarding performance readiness and return-to-duty.",
+      "treatment_details": {
+        "therapy_type": "Repetitive Subconcussive Blast Exposure (RSCBE) during Heavy Weapons Training (HWT)",
+        "dose_specificity": "Participants are exposed to blast overpressure during military Special Operations Heavy Weapons Training (HWT), involving firing weapons like the Carl Gustav recoilless rifle, Light Anti-Armor Weapon (LAAW), and AT-4 anti-tank rocket. Exposure is quantified using wearable blast sensors (e.g., Black Box Biometrics Gen 7 Blast Gauge System) mounted on helmets, shoulders, and chests, which record full waveforms for blast pressures exceeding ~6.9 kPa (1.0 psi) and define significant exposure at > ~27.6 kPa (4.0 psi). Incident peak overpressure and impulse are estimated using the FAST-CT algorithm. The study assesses naturally occurring exposure in RSOs conducting 6 training courses per year over a 2-year tour, with no controlled dose administration or explicit dose-response comparisons reported as findings, but aims to explore relationships between exposure extent and outcomes."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "Neuron-specific enolase (NSE)",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Not specifically quantified in the provided text; its increase indicates neuronal cell body injury. A relationship was demonstrated in athletes with repetitive subconcussive head injury (RSCHI)."
+          },
+          "core_biological_function": "Indicates neuronal cell body injury.",
+          "relevant_activity_context": "General brain injury context; specifically for repetitive subconcussive head injury (RSCHI) in athletes.",
+          "performance_or_health_indicator": "Facilitates identification of neuronal cell body injury and elucidation of pathophysiological mechanisms related to brain trauma."
+        },
+        {
+          "biomarker_name": "Ubiquitin carboxyl-terminal hydrolase isozyme L1 (UCH-L1)",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Hypothesized 25% increase in serum levels comparing post-exposure measures with baseline (mean pre-blast 100, post-exposure 125, SD 100, 94.2% power). Elevations observed in military Service Members (SMs) with blast exposure; its increase indicates neuronal cell body injury. A relationship was demonstrated in athletes with repetitive subconcussive head injury (RSCHI)."
+          },
+          "core_biological_function": "Indicates neuronal cell body injury.",
+          "relevant_activity_context": "Exposure to repeated subconcussive blast events (RSCBE) during military heavy weapons training; also observed in repetitive subconcussive head injury (RSCHI) in athletes.",
+          "performance_or_health_indicator": "Indicates neuronal injury, facilitates identification of neuronal cell body injury, and serves as a potential biomarker for brain injury assessment, contributing to a risk stratification system for blast-related health outcomes."
+        },
+        {
+          "biomarker_name": "Microtubule-associated proteins 2 (MAP2)",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Not specifically quantified in the provided text; its increase is associated with dendritic injury."
+          },
+          "core_biological_function": "Associated with dendritic injury.",
+          "relevant_activity_context": "General brain injury context.",
+          "performance_or_health_indicator": "Facilitates identification of dendritic injury and elucidation of pathophysiological mechanisms related to brain trauma."
+        },
+        {
+          "biomarker_name": "Neurofilament light chain (NfL/NF-L)",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Not specifically quantified in the provided text; its increase has been linked to axonal injury."
+          },
+          "core_biological_function": "Linked to axonal injury.",
+          "relevant_activity_context": "General brain injury context; blast exposure during training events.",
+          "performance_or_health_indicator": "Facilitates identification of axonal injury, elucidates pathophysiological mechanisms related to brain trauma, and serves as a potential biomarker for brain injury assessment and risk stratification."
+        },
+        {
+          "biomarker_name": "Neurofilament-heavy chains (NF-H)",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Not specifically quantified in the provided text; its increase has been linked to axonal injury."
+          },
+          "core_biological_function": "Linked to axonal injury.",
+          "relevant_activity_context": "General brain injury context.",
+          "performance_or_health_indicator": "Facilitates identification of axonal injury and elucidation of pathophysiological mechanisms related to brain trauma."
+        },
+        {
+          "biomarker_name": "Tau",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Not specifically quantified in the provided text; its increase has been linked to axonal injury. A relationship was demonstrated in athletes with repetitive subconcussive head injury (RSCHI)."
+          },
+          "core_biological_function": "Linked to axonal injury.",
+          "relevant_activity_context": "General brain injury context; blast exposure during training events; repetitive subconcussive head injury (RSCHI) in athletes.",
+          "performance_or_health_indicator": "Facilitates identification of axonal injury, elucidates pathophysiological mechanisms related to brain trauma, and serves as a potential biomarker for brain injury assessment and risk stratification."
+        },
+        {
+          "biomarker_name": "Spectrin breakdown products",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Not specifically quantified in the provided text; its increase has been linked to axonal injury."
+          },
+          "core_biological_function": "Linked to axonal injury.",
+          "relevant_activity_context": "General brain injury context.",
+          "performance_or_health_indicator": "Facilitates identification of axonal injury and elucidation of pathophysiological mechanisms related to brain trauma."
+        },
+        {
+          "biomarker_name": "Glial fibrillary acidic protein (GFAP)",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Elevations in blood levels observed in military Service Members (SMs) with blast exposure. Not specifically quantified in the provided text; its increase represents a potential marker of astroglial injury."
+          },
+          "core_biological_function": "Potential blood marker of astroglial injury.",
+          "relevant_activity_context": "Blast exposure in military SMs during training events.",
+          "performance_or_health_indicator": "Facilitates identification of astroglial injury, elucidates pathophysiological mechanisms related to brain trauma, and serves as a potential biomarker for brain injury assessment and risk stratification."
+        },
+        {
+          "biomarker_name": "S100\beta",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Elevations represent potential blood markers of astroglial injury and blood brain barrier (BBB) impairment. Not specifically quantified in the provided text; a relationship was demonstrated in athletes with repetitive subconcussive head injury (RSCHI)."
+          },
+          "core_biological_function": "Potential blood marker of astroglial injury; also considered a marker of blood brain barrier (BBB) impairment.",
+          "relevant_activity_context": "General brain injury context; specifically for repetitive subconcussive head injury (RSCHI) in athletes.",
+          "performance_or_health_indicator": "Facilitates identification of astroglial injury, blood brain barrier impairment, and elucidation of pathophysiological mechanisms related to brain trauma."
+        },
+        {
+          "biomarker_name": "Myelin basic protein (MBP)",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Not specifically quantified in the provided text; its increase is specific for myelin/oligodendrocyte damage."
+          },
+          "core_biological_function": "Specific for myelin/oligodendrocyte damage.",
+          "relevant_activity_context": "General brain injury context.",
+          "performance_or_health_indicator": "Facilitates identification of myelin/oligodendrocyte damage and elucidation of pathophysiological mechanisms related to brain trauma."
+        },
+        {
+          "biomarker_name": "MicroRNA",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Gene Transcript",
+          "measured_effect": {
+            "direction_of_change": "Not explicitly stated",
+            "magnitude_quantification": "Not specifically quantified in the provided text; they represent additional potential circulating markers of TBI."
+          },
+          "core_biological_function": "Potential circulating markers of Traumatic Brain Injury (TBI).",
+          "relevant_activity_context": "Traumatic Brain Injury (TBI) context.",
+          "performance_or_health_indicator": "Potential markers for identifying TBI and understanding pathophysiological mechanisms."
+        },
+        {
+          "biomarker_name": "Spectrin Breakdown Product (SBDP)-150",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Elevations in blood levels observed in military Service Members (SMs) with blast exposure. Not specifically quantified in the provided text."
+          },
+          "core_biological_function": "Linked to axonal injury (as a type of spectrin breakdown product).",
+          "relevant_activity_context": "Blast exposure in military SMs.",
+          "performance_or_health_indicator": "Facilitates identification of axonal injury and elucidation of pathophysiological mechanisms related to brain trauma."
+        }
+      ]
+    }
+  }
+]

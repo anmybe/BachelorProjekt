@@ -1,0 +1,184 @@
+[
+  {
+    "title": "pmc PLoS One PLoS One plos PLoS ONE 1932-6203 Public Library of Science San Francisco, CA USA 8975111 10.1371/journal.pone.0265619 PONE-D-21-29236 Research Article Biology and Life Sciences Genetics Gene Expression Medicine and Health Sciences Endocrinology Endocrine Disorders Diabetes Mellitus Medicine and Health Sciences Medical Conditions Metabolic Disorders Diabetes Mellitus Biology and Life Sciences Anatomy Body Fluids Blood Medicine and Health Sciences Anatomy Body Fluids Blood Biology and Life Sciences Physiology Body Fluids Blood Biology and Life Sciences Biochemistry Biomarkers Creatinine Biology and Life Sciences Anatomy Body Fluids Urine Medicine and Health Sciences Anatomy Body Fluids Urine Biology and Life Sciences Physiology Body Fluids Urine Medicine and Health Sciences Diagnostic Medicine Clinical Laboratory Sciences Clinical Laboratories Biology and Life Sciences Biochemistry Biomarkers Physical Sciences Chemistry Chemical Compounds Organic Compounds Urea Physical Sciences Chemistry Organic Chemistry Organic Compounds Urea The role of CDH2 and MCP-1 mRNAs of blood extracellular vesicles in predicting early-stage diabetic nephropathy Extracellular vesicles as biomarkers of diabetic nephropathy https://orcid.org/0000-0003-1057-0309 Dehghanbanadaki Hojat Data curation Formal analysis Methodology Writing \u2013 original draft 1 2 Forouzanfar Katayoon Conceptualization Resources 3 Kakaei Ardeshir Investigation Methodology 2 Zeidi Samaneh Conceptualization Methodology 1 4 Salehi Negar Conceptualization Visualization 1 4 Arjmand Babak Project administration Resources Supervision 3 5 Razi Farideh Conceptualization Formal analysis Supervision Validation Visualization Writing \u2013 original draft 1 6 * https://orcid.org/0000-0001-5713-4876 Hashemi Ehsan Conceptualization Investigation Methodology Writing \u2013 original draft 1 4 * 1 Diabetes Research Center, Endocrinology and Metabolism Clinical Sciences Institute, Tehran University of Medical Sciences, Tehran, Iran 2 Metabolomics and Genomics Research Center, Endocrinology and Metabolism Molecular\u2013Cellular Sciences Institute, Tehran University of Medical Sciences, Tehran, Iran 3 Metabolic Disorders Research Center, Endocrinology and Metabolism Molecular-Cellular Sciences Institute, Tehran University of Medical Sciences, Tehran, Iran 4 Department of Animal Biotechnology, National Institute of Genetic Engineering and Biotechnology, Tehran, Iran 5 Cell Therapy and Regenerative Medicine Research Center, Endocrinology and Metabolism Molecular\u2013Cellular Sciences Institute, Tehran University of Medical Sciences, Tehran, Iran 6 Endocrinology and Metabolism Research Center, Endocrinology and Metabolism Clinical Sciences Institute, Tehran University of Medical Sciences, Tehran, Iran Abdel Ghafar Muhammad Tarek Editor Tanta University Faculty of Medicine, EGYPT Competing Interests: The authors have declared that no competing interests exist. * E-mail: F-razi@tums.ac.ir (FR); E_hashemi@nigeb.ac.ir (EH) 1 4 2022 2022 17 4 e0265619 9 9 2021 4 3 2022 \u00a9 2022 Dehghanbanadaki et al 2022 Dehghanbanadaki et al https://creativecommons.org/licenses/by/4.0/ This is an open access article distributed under the terms of the Creative Commons Attribution License , which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited. Background Extracellular vesicles (EVs), including exosomes and microvesicles, are involved in intercellular communication by transferring biomolecules such as mRNA, which has been shown to be as essential biomarkers for many physiological and pathological conditions such as diabetic nephropathy (DN). This study aimed to investigate the expression of CDH1, CDH2, MCP-1, and PAI-1 mRNAs in blood EVs of DN patients and to determine their accuracy in predicting early-stage DN. Methods We recruited 196 participants, including 35 overt DN patients, 53 incipient DN patients, 62 diabetic patients (DM), and 46 healthy individuals. Quantification of the mRNA profile of blood EVs was performed using the qRT-PCR method. The diagnostic performance of mRNA was evaluated using receiver operating characteristic analysis. Results The mRNA expression of CDH2 and MCP-1 was downregulated in overt DN group (0.22-fold change and 0.15-fold change, respectively) and incipient DN group (0.60-fold change and 0.43-fold change, respectively) compared to DM group (1.72-fold change and 2.77-fold change, respectively), while PAI-1 mRNA expression decreased in incipient DN group (0.70-fold change) and DM group (0.58-fold change) compared to control. However, the expression level of CDH1 mRNA was not significantly different among the four groups ( p = 0.408). Moreover, CDH2 and MCP-1 mRNAs inversely correlated with creatinine (r = -0.370 and r = -0.361, p <0.001) and Alb/Cr ratio (r = -0.355 and r = -0.297, p <0.001). 1/CDH2 mRNA also predicted overt DN with an accuracy of 0.75 (95%CI: 0.65\u20130.85) and incipient DN with an accuracy of 0.61 (95%CI: 0.50\u20130.71) while 1/MCP-1 mRNA had an accuracy of 0.66 (95%CI: 0.55\u20130.77) for overt DN prediction and an accuracy of 0.61 (95%CI: 0.51\u20130.71) for incipient DN prediction. Conclusion CDH2 and MCP-1 mRNAs expression in blood EVs was decreased with the development of DN, suggesting the renoprotective effect of these mRNAs in diabetic individuals. Moreover, their quantifications could serve as diagnostic biomarkers for early-stage DN. The authors received no specific funding for this work. Data Availability All relevant data are within the paper and its Supporting information files. Data Availability All relevant data are within the paper and its Supporting information files.",
+    "document_source_id": "35363774",
+    "analysis_date": "2025-12-10",
+    "extracted_data": {
+      "document_summary": "This study investigated the diagnostic potential of CDH1, CDH2, MCP-1, and PAI-1 mRNA expression levels in blood extracellular vesicles (EVs) for predicting early-stage diabetic nephropathy (DN) in patients with type 2 diabetes mellitus. The main findings indicate that CDH2 and MCP-1 mRNA expression in blood EVs was significantly downregulated with the development of DN (overt and incipient stages) compared to diabetic patients without DN, suggesting a renoprotective effect and their potential as diagnostic biomarkers. These mRNAs inversely correlated with markers of kidney damage like creatinine and albuminuria. In contrast, CDH1 mRNA showed no significant change across groups, and while PAI-1 mRNA decreased in some diabetic groups, its diagnostic utility for early DN was not clearly established, according to the authors' results. The study also explored the expression of these and other related biomarkers in urine.",
+      "treatment_details": {
+        "therapy_type": "Diagnostic Biomarker Study",
+        "dose_specificity": "This was an observational study involving 196 participants (35 overt DN, 53 incipient DN, 62 DM, and 46 healthy controls) with type 2 diabetes. The study focused on characterizing mRNA expression levels in blood extracellular vesicles and other clinical markers across different stages of diabetic nephropathy and healthy controls. No therapeutic interventions, specific doses, or dose-response comparisons were administered or reported."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "CDH2 mRNA",
+          "measured_tissue_or_fluid": "Blood Extracellular Vesicles",
+          "activity_type": "Gene Transcript (mRNA expression)",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Significantly downregulated in overt DN group (0.22-fold change relative to DM group, more downregulated than incipient DN, p < 0.001) and incipient DN group (0.60-fold change relative to DM group, p = 0.042). Expressed less in overt DN group than incipient DN (p = 0.013), DM (p < 0.001), and control (p < 0.001). Inversely correlated with HbA1c (r = -0.183, p = 0.012), urea (r = -0.152, p = 0.035), creatinine (r = -0.370, p < 0.001), and urine Alb/Cr ratio (r = -0.355, p < 0.001). 1/CDH2 mRNA predicted overt DN with an accuracy of 0.75 (95%CI: 0.65\u20130.85, AUC 0.75) and incipient DN with an accuracy of 0.61 (95%CI: 0.50\u20130.71, AUC 0.61, sensitivity 37.7%, specificity 83.9% at cutoff 3.47). Optimal diagnostic performance for overt DN at 2.14-fold change (sensitivity 74.3%, specificity 69.4%)."
+          },
+          "core_biological_function": "Cadherin-2 (N-cadherin) is involved in cell-cell adhesion and is suggested to have a renoprotective effect in diabetic individuals. Its downregulation correlates with impaired kidney function and is associated with renal fibrosis detection.",
+          "relevant_activity_context": "Diabetic Nephropathy progression (overt DN, incipient DN) and Diabetic Mellitus patients, compared to healthy controls. Relevant for early-stage DN development and monitoring.",
+          "performance_or_health_indicator": "Decreased expression suggests a renoprotective effect and serves as a diagnostic biomarker for early-stage DN, with its inverse correlation to kidney damage markers (creatinine, albuminuria). Useful for detecting early-stage DN, stratifying patients, and monitoring therapy response."
+        },
+        {
+          "biomarker_name": "MCP-1 mRNA",
+          "measured_tissue_or_fluid": "Blood Extracellular Vesicles",
+          "activity_type": "Gene Transcript (mRNA expression)",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Significantly downregulated in overt DN group (0.15-fold change relative to DM group) and incipient DN group (0.43-fold change relative to DM group). Overt DN group had lower level than DM and control (p = 0.002 for both). Incipient DN group expressed less compared to DM (p = 0.008) and control (p = 0.001). Negatively correlated with creatinine (r = -0.361, p < 0.001) and urine Alb/Cr ratio (r = -0.297, p < 0.001). 1/MCP-1 mRNA predicted overt DN with an accuracy of 0.66 (95%CI: 0.55\u20130.77, AUC 0.66) and incipient DN with an accuracy of 0.61 (95%CI: 0.51\u20130.71, AUC 0.61, sensitivity 69.8%, specificity 61.3% at cutoff 0.61)."
+          },
+          "core_biological_function": "Monocyte Chemoattractant Protein-1 (MCP-1) is a chemokine regulating monocyte/macrophage trafficking in inflammation. Its decrease in this context is suggested to have a renoprotective effect in diabetic individuals and is associated with renal fibrosis detection.",
+          "relevant_activity_context": "Diabetic Nephropathy progression (overt DN, incipient DN) and Diabetic Mellitus patients, compared to healthy controls. Relevant for early-stage DN development and monitoring.",
+          "performance_or_health_indicator": "Decreased expression suggests a renoprotective effect and serves as a diagnostic biomarker for early-stage DN, with its inverse correlation to kidney damage markers (creatinine, albuminuria). Useful for detecting early-stage DN, stratifying patients, and monitoring therapy response."
+        },
+        {
+          "biomarker_name": "PAI-1 mRNA",
+          "measured_tissue_or_fluid": "Blood Extracellular Vesicles",
+          "activity_type": "Gene Transcript (mRNA expression)",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Decreased in incipient DN group (0.70-fold change) and DM group (0.58-fold change) compared to control. However, authors' results did not indicate a strong role in early detection of DN."
+          },
+          "core_biological_function": "Plasminogen Activator Inhibitor-1 (SERPINE1) plays a role in fibrinolysis, blood clotting, cell motility, and adhesion, with implications in fibrosis relevant to renal pathology.",
+          "relevant_activity_context": "Incipient diabetic nephropathy and diabetic patients (DM) compared to healthy controls; early-stage diabetic nephropathy prediction.",
+          "performance_or_health_indicator": "Observed decrease in expression is associated with incipient diabetic nephropathy and the diabetic state. While potentially a predictor of renal fibrosis, its diagnostic utility for early-stage DN in this study was not significant."
+        },
+        {
+          "biomarker_name": "CDH1 mRNA",
+          "measured_tissue_or_fluid": "Blood Extracellular Vesicles",
+          "activity_type": "Gene Transcript (mRNA expression)",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "Expression level was not significantly different among the four groups (p = 0.408). Kruskal\u2013Wallis analyses showed no significant difference in expression fold change between four study groups. Authors' results did not indicate a role in early detection of DN."
+          },
+          "core_biological_function": "Cadherin-1 (E-cadherin) is a cell-cell adhesion molecule crucial for maintaining epithelial integrity.",
+          "relevant_activity_context": "Diabetic nephropathy (Overt DN, Incipient DN, DM) and healthy individuals; early-stage diabetic nephropathy prediction.",
+          "performance_or_health_indicator": "Not a significant indicator for early-stage diabetic nephropathy based on this study's findings due to lack of significant change in expression. No significant diagnostic potential found in blood EVs."
+        },
+        {
+          "biomarker_name": "urine Alb/Cr ratio",
+          "measured_tissue_or_fluid": "Urine",
+          "activity_type": "Concentration ratio",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Overt DN group and incipient DN group had higher urine Alb/Cr ratio than the DM group and control (p < 0.001). Inversely correlated with CDH2 mRNA (r = -0.355, p < 0.001) and MCP-1 mRNA (r = -0.297, p < 0.001)."
+          },
+          "core_biological_function": "Indicator of kidney damage and albuminuria, reflecting impaired kidney function and glomerular filtration barrier integrity.",
+          "relevant_activity_context": "Diabetic Nephropathy progression (incipient DN and overt DN) compared to Diabetic Mellitus (DM) and control groups.",
+          "performance_or_health_indicator": "Higher levels are indicative of Diabetic Nephropathy progression and kidney dysfunction. Severity of kidney damage, a key diagnostic criterion for DN, inversely correlated with potential renoprotective markers."
+        },
+        {
+          "biomarker_name": "HbA1c",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Concentration",
+          "measured_effect": {
+            "direction_of_change": "inversely correlated",
+            "magnitude_quantification": "CDH2 mRNA level inversely correlated with HbA1c (Spearman correlation coefficient = -0.183, p = 0.012)."
+          },
+          "core_biological_function": "Indicator of long-term blood glucose control.",
+          "relevant_activity_context": "Diabetic Nephropathy / Diabetic Mellitus.",
+          "performance_or_health_indicator": "Correlation with CDH2 mRNA levels suggests an association with DN progression."
+        },
+        {
+          "biomarker_name": "Urea",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Concentration",
+          "measured_effect": {
+            "direction_of_change": "inversely correlated",
+            "magnitude_quantification": "CDH2 mRNA level inversely correlated with urea (Spearman correlation coefficient = -0.152, p = 0.035). CDH2 mRNA expression level could be estimated from urea (unstandardized coefficient = 0.035, p = 0.019)."
+          },
+          "core_biological_function": "Indicator of kidney function, specifically nitrogenous waste product clearance.",
+          "relevant_activity_context": "Diabetic Nephropathy / Diabetic Mellitus.",
+          "performance_or_health_indicator": "Correlated with CDH2 mRNA levels, suggesting an association with kidney function in DN."
+        },
+        {
+          "biomarker_name": "Creatinine",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Concentration",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "CDH2 mRNA level inversely correlated with creatinine (Spearman correlation coefficient = -0.370, p < 0.001). MCP-1 mRNA had negative correlations with creatinine (Spearman correlation coefficient = -0.361, p < 0.001). Incipient DN group had higher concentration than DM group (p = 0.001), but no significant difference compared to control (p = 0.151). CDH2 mRNA expression level could be estimated from creatinine (unstandardized coefficient = -2.673, p < 0.001). MCP-1 mRNA expression level could be estimated from creatinine level (unstandardized coefficient = -3.024, p = 0.010)."
+          },
+          "core_biological_function": "Indicator of kidney function. Elevated levels suggest impaired kidney function, and are inversely correlated with potential renoprotective markers.",
+          "relevant_activity_context": "Diabetic Nephropathy / Diabetic Mellitus.",
+          "performance_or_health_indicator": "Inversely correlated with CDH2 and MCP-1 mRNA levels, reflecting kidney function and severity of renal injury. Acts as a predictor of CDH2 and MCP-1 mRNA expression."
+        },
+        {
+          "biomarker_name": "eGFR",
+          "measured_tissue_or_fluid": "Calculated from blood parameters",
+          "activity_type": "Estimated rate",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "No significant correlation between eGFR and CDH2 and MCP-1 mRNA expression was found. Four study groups had no significant difference in eGFR, and all participants had normal eGFR despite different degrees of albuminuria."
+          },
+          "core_biological_function": "Measure of kidney function.",
+          "relevant_activity_context": "Diabetic Nephropathy.",
+          "performance_or_health_indicator": "Normal eGFR indicated early stages of Diabetic Nephropathy in participants, despite varying levels of albuminuria. Not found to correlate with CDH2 or MCP-1 mRNA expression in this study's context."
+        },
+        {
+          "biomarker_name": "Exosomal Wilm\u2019s tumor-1 (WT1) mRNA",
+          "measured_tissue_or_fluid": "urine sediment",
+          "activity_type": "Gene Transcript",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Inversely associated with estimated glomerular filtration rate (eGFR); predicts DN with an accuracy of 0.705."
+          },
+          "core_biological_function": "Associated with glomeruli damage and renal function.",
+          "relevant_activity_context": "Diabetic Nephropathy (DN) patients",
+          "performance_or_health_indicator": "Indicates glomeruli damage and early renal failure; predicts DN with 0.705 accuracy."
+        },
+        {
+          "biomarker_name": "Cadherin 1 (CDH1) mRNA",
+          "measured_tissue_or_fluid": "urine pellet",
+          "activity_type": "Gene Transcript",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly increased in DN patients compared with healthy controls."
+          },
+          "core_biological_function": "Produces E-cadherin, a calcium-dependent adhesion protein fundamental in intercellular adhesion.",
+          "relevant_activity_context": "Diabetic Nephropathy (DN) patients",
+          "performance_or_health_indicator": "Abnormal expression causes diseases such as DN, diabetic retinopathy, and epithelial-derived solid tumors. Acts as a potential predictor of renal fibrosis due to chronic kidney disease, obstructive nephropathy, and DN."
+        },
+        {
+          "biomarker_name": "Cadherin 2 (CDH2) mRNA",
+          "measured_tissue_or_fluid": "urine pellet",
+          "activity_type": "Gene Transcript",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "15-fold higher in DN patients compared with healthy controls."
+          },
+          "core_biological_function": "Produces N-cadherin, a calcium-dependent adhesion protein fundamental in intercellular adhesion.",
+          "relevant_activity_context": "Diabetic Nephropathy (DN) patients",
+          "performance_or_health_indicator": "Abnormal expression causes diseases such as DN, diabetic retinopathy, and epithelial-derived solid tumors. Acts as a potential predictor of renal fibrosis due to chronic kidney disease, obstructive nephropathy, and DN."
+        },
+        {
+          "biomarker_name": "Monocyte chemoattractant protein-1 (MCP-1) mRNA",
+          "measured_tissue_or_fluid": "urine pellet",
+          "activity_type": "Gene Transcript",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly increased in DN patients compared with healthy controls."
+          },
+          "core_biological_function": "Produces chemokines that play a pivotal role in regulating monocyte/macrophage trafficking in the inflammatory process.",
+          "relevant_activity_context": "Diabetic Nephropathy (DN) patients",
+          "performance_or_health_indicator": "Abnormal expression leads to DN, diabetic retinopathy, insulin resistance, atherosclerosis, and other inflammatory conditions. Acts as a potential predictor of renal fibrosis due to chronic kidney disease, obstructive nephropathy, and DN."
+        },
+        {
+          "biomarker_name": "Plasminogen activator inhibitor-1 (PAI-1) mRNA",
+          "measured_tissue_or_fluid": "urine pellet",
+          "activity_type": "Gene Transcript",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly increased in DN patients compared with healthy controls."
+          },
+          "core_biological_function": "Produces plasminogen activator inhibitor 1 (SERPINE1), playing a major role in hemostasis by inhibiting plasminogen activators mediated fibrinolysis and in cell motility and adhesion.",
+          "relevant_activity_context": "Diabetic Nephropathy (DN) patients",
+          "performance_or_health_indicator": "Abnormal gene expression leads to various diseases such as DN and cardiovascular disease due to DM. Acts as a potential predictor of renal fibrosis due to chronic kidney disease, obstructive nephropathy, and DN."
+        }
+      ]
+    }
+  }
+]

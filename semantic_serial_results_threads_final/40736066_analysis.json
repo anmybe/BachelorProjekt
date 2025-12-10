@@ -1,0 +1,292 @@
+[
+  {
+    "title": "Background Depressive symptoms are highly prevalent in first-episode psychosis (FEP) and worsen clinical outcomes. It is currently difficult to determine which patients will have persistent depressive symptoms based on a clinical assessment. We aimed to determine whether depressive symptoms and post-psychotic depressive episodes can be predicted from baseline clinical data, quality of life, and blood-based biomarkers, and to assess the geographical generalizability of these models. Methods Two FEP trials were analyzed: European First-Episode Schizophrenia Trial (EUFEST) ( n = 498; 2002\u20132006) and Recovery After an Initial Schizophrenia Episode Early Treatment Program (RAISE-ETP) ( n = 404; 2010\u20132012). Participants included those aged 15\u201340 years, meeting Diagnostic and Statistical Manual of Mental Disorders IV criteria for schizophrenia spectrum disorders. We developed support vector regressors and classifiers to predict changes in depressive symptoms at 6 and 12 months and depressive episodes within the first 6 months. These models were trained in one sample and externally validated in another for geographical generalizability. Results A total of 320 EUFEST and 234 RAISE-ETP participants were included (mean [SD] age: 25.93 [5.60] years, 56.56% male; 23.90 [5.27] years, 73.50% male). Models predicted changes in depressive symptoms at 6 months with balanced accuracy (BAC) of 66.26% (RAISE-ETP) and 75.09% (EUFEST), and at 12 months with BAC of 67.88% (RAISE-ETP) and 77.61% (EUFEST). Depressive episodes were predicted with BAC of 66.67% (RAISE-ETP) and 69.01% (EUFEST), showing fair external predictive performance. Conclusions Predictive models using clinical data, quality of life, and biomarkers accurately forecast depressive events in FEP, demonstrating generalization across populations. Keywords depression first-episode psychosis schizophrenia artificial intelligence predictive modelling machine learning support vector machines clinical prognosis biomarkers precision psychiatry Introduction Depressive syndromes frequently predate, parallel, or follow the first-episode psychosis (FEP) (Upthegrove et al., 2010 ). Depressive comorbidity in psychotic disorder rates vary depending on criteria and illness stage, and are reported to range from 26% up to 80% (Birchwood, Iqbal, Chadwick, & Trower, 2000 ; Conley, Ascher-Svanum, Zhu, Faries, & Kinon, 2007 ; Cotton et al., 2012 ; Upthegrove et al., 2010 ). These symptoms may stem from neurobiological processes inherent to psychosis (Alexandros Lalousis et al., 2023 ; H\u00e4fner et al., 2005 ), as a result of the dysphoric effects of antipsychotic medication (Voruganti & Awad, 2004 ), or as a psychological response to the debilitating and life-changing impact of psychosis (Upthegrove, Marwaha, & Birchwood, 2017 ). As a result of all these factors, ~80% of psychosis patients experience a major depressive episode over the course of their illness (Upthegrove et al., 2010 ). These rates far exceed the lifetime prevalence of major depressive episodes in the general population, reported to be from 14% up to 24% (Bromet et al., 2011 ; Davis et al., 2020 ). Studying depressive symptoms in patients with psychosis is crucial due to the association between comorbid depression and poor clinical outcomes and quality of life of individuals at risk for psychosis (Solmi et al., 2023 ) and FEP patients (Conley et al., 2007 ). Suicidal behavior remains a critical and life-threatening concern among patients with psychotic disorders, with those who have comorbid depression being at the highest risk (McGinty & Upthegrove, 2020 ). As a result, clinical guidelines recommend monitoring coexisting conditions in psychosis, including depression (National Institute for Health and Care Excellence, 2014 ). Although there is no clear consensus on treatment practices, recent evidence suggests that coadministering antidepressants with antipsychotics can enhance the remission of depressive symptoms in psychosis, potentially improving clinical outcomes without substantially increasing the burden of side effects (Barnes et al., 2019 ; Gregory, Mallikarjun, & Upthegrove, 2017 ). Current ongoing clinical trials are testing whether the addition of an antidepressant to antipsychotic medication following FEP is clinically useful in the prevention of post-psychotic depression (PPD) (Palmer et al., 2023 ). At the same time, evidence suggests that some FEP patients with comorbid depression will remit from depressive symptoms with an antipsychotic treatment alone (Phahladira et al., 2021 ). There is also historical, often conflicting, evidence that adjunctive antidepressants may worsen psychotic symptoms, suggesting that some FEP patients with comorbid depression will remit (Kramer et al., 1989 ; Lehman, Lieberman, Dixon, & Association, 2004 ; Preda, MacLean, Mazure, & Bowers, 2001 ). As a result, there is no consensus on the optimal strategy in the triage and management of depressive episodes before, during, and after the FEP, as well as in later psychotic stages (Barnes et al., 2019 ). In this context, artificial intelligence offers a promising avenue to help address this challenge by identifying FEP patients at risk of experiencing recurrent depressive episodes following initiation of antipsychotic medication, and who may, therefore, benefit from adjunctive treatments. Despite significant advances in the application of artificial intelligence to prognostication in psychosis (Coutts, Koutsouleris, & McGuire, 2023 ; Saboori Amleshi et al., 2025 ), existing tools primarily focus on the prediction of remission defined using the core positive symptoms of psychosis (Coutts et al., 2023 ), and other outcome measures, such as functioning (Koutsouleris et al., 2016 , 2018 ), and quality of life (Beaudoin, Hudon, Gigu\u00e8re, Potvin, & Dumais, 2022 ). Prognostication of depressive episodes following FEP is critical, as patients who experience these episodes tend to have a poorer recovery and a higher risk of psychotic relapse (Guerrero-Jim\u00e9nez, Carrillo de Albornoz Calahorro, Girela-Serrano, Bodoano S\u00e1nchez, & Guti\u00e9rrez-Rojas, 2022 ; J\u00e4\u00e4skel\u00e4inen et al., 2018 ). Furthermore, the high comorbidity between psychosis and depression, along with numerous transdiagnostic findings that bridge these disorders across various biopsychosocial levels (Alexandros Lalousis et al., 2023 ), underscores the clinical importance of expanding the application of AI to study and predict depressive symptoms in psychosis. To our knowledge, no large-scale multivariate pattern recognition algorithms have been trained to predict comorbid depressive episodes and symptom trajectories in FEP and externally validated in independent cohorts. The current work fills this gap by utilizing two large, multisite, and longitudinal clinical trials of minimally antipsychotic-treated FEP patients to predict depressive symptom trajectories, including the presence of post-psychotic depressive episode. These trials included the European First-Episode Schizophrenia Trial (EUFEST; ISRCTN68736636) and the Recovery After an Initial Schizophrenia Episode Early Treatment Program (RAISE-ETP; NCT01321177). The datasets comprised sociodemographic, clinical, treatment-related, quality-of-life, blood samples, and neurocognitive measures. Our objective was to predict future depression symptomatology in FEP patients by analyzing baseline variables using machine learning, to assess the prognostic specificity of these models for depressive symptoms and episodes, rather than negative symptoms, and to study the underlying patient and treatment characteristics that predict good versus poor depression outcomes.",
+    "document_source_id": "40736066",
+    "analysis_date": "2025-12-10",
+    "extracted_data": {
+      "document_summary": "This study conducted a secondary analysis of data from the European First-Episode Schizophrenia Trial (EUFEST) and Recovery After an Initial Schizophrenia Episode Early Treatment Program (RAISE-ETP) trials. It utilized machine learning models (support vector regressors and classifiers) to predict depressive symptom trajectories (changes in CDSS scores) and the occurrence of post-psychotic depressive episodes (PPD) at 6 and 12 months in first-episode psychosis (FEP) patients with schizophrenia-spectrum disorders. The models leveraged various baseline variables including sociodemographic information, clinical assessments (e.g., PANSS, CDSS scores), neurocognitive performance, quality of life, and blood-based biomarkers, demonstrating accurate prediction and geographical generalizability across populations. The study also analyzed how factors like treatment assignment (e.g., NAVIGATE program) and antidepressant prescription influenced model misclassification and patient outcomes.",
+      "treatment_details": {
+        "therapy_type": "Antipsychotic medication, NAVIGATE program (psychosocial intervention), Antidepressant coadministration, and Usual community care.",
+        "dose_specificity": "Participants in the EUFEST trial received 1 year of antipsychotic treatment (described as \"minimally antipsychotic-treated\"), while RAISE-ETP participants were allocated to either usual community care or the NAVIGATE program. Antidepressant prescriptions were observed, with RAISE-ETP patients showing a higher rate (33.33%) compared to EUFEST (2.18%). The NAVIGATE program was associated with a sharper decline in depressive symptoms, especially among patients prescribed antidepressants at baseline. However, no specific doses, intensities, or durations for antipsychotics, the NAVIGATE program, or antidepressants were detailed, nor were dose-response comparisons reported for any treatment; their influence on predictive model performance and patient characteristics was primarily analyzed."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "Insulin",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Hormone Concentration",
+          "measured_effect": {
+            "direction_of_change": "Not explicitly reported as a change; its baseline level served as a variable in machine learning models.",
+            "magnitude_quantification": "Specific quantitative data or changes were not reported in the provided chunks; it was included as a blood-based biomarker in predictive models for depressive symptoms in schizophrenia-spectrum disorder patients."
+          },
+          "core_biological_function": "Regulation of blood glucose levels and overall energy metabolism.",
+          "relevant_activity_context": "Used as a baseline blood-based biomarker in secondary analysis of EUFEST and RAISE-ETP trials, collected from patients with schizophrenia-spectrum disorders, for inclusion in machine learning models predicting depressive symptoms and episodes.",
+          "performance_or_health_indicator": "General indicator of metabolic health; used as a variable to evaluate its contribution to predicting depressive symptoms or post-psychotic depressive episodes in schizophrenia-spectrum disorder patients."
+        },
+        {
+          "biomarker_name": "Glucose",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Metabolite Concentration",
+          "measured_effect": {
+            "direction_of_change": "Not explicitly reported as a change; its baseline level served as a variable in machine learning models.",
+            "magnitude_quantification": "Specific quantitative data or changes were not reported in the provided chunks; it was included as a blood-based biomarker in predictive models for depressive symptoms in schizophrenia-spectrum disorder patients."
+          },
+          "core_biological_function": "Primary energy source for cells and central to carbohydrate metabolism and blood sugar regulation.",
+          "relevant_activity_context": "Used as a baseline blood-based biomarker in secondary analysis of EUFEST and RAISE-ETP trials, collected from patients with schizophrenia-spectrum disorders, for inclusion in machine learning models predicting depressive symptoms and episodes.",
+          "performance_or_health_indicator": "General indicator of metabolic health; used as a variable to evaluate its contribution to predicting depressive symptoms or post-psychotic depressive episodes in schizophrenia-spectrum disorder patients."
+        },
+        {
+          "biomarker_name": "High-density lipoprotein",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Lipid Level",
+          "measured_effect": {
+            "direction_of_change": "Not explicitly reported as a change; its baseline level served as a variable in machine learning models.",
+            "magnitude_quantification": "Specific quantitative data or changes were not reported in the provided chunks; it was included as a blood-based biomarker in predictive models for depressive symptoms in schizophrenia-spectrum disorder patients."
+          },
+          "core_biological_function": "Involved in reverse cholesterol transport, removing cholesterol from arteries and transporting it to the liver for excretion; commonly referred to as 'good cholesterol'.",
+          "relevant_activity_context": "Used as a baseline blood-based biomarker in secondary analysis of EUFEST and RAISE-ETP trials, collected from patients with schizophrenia-spectrum disorders, for inclusion in machine learning models predicting depressive symptoms and episodes.",
+          "performance_or_health_indicator": "Indicator of cardiovascular and metabolic health; used as a variable to evaluate its contribution to predicting depressive symptoms or post-psychotic depressive episodes in schizophrenia-spectrum disorder patients."
+        },
+        {
+          "biomarker_name": "Low-density lipoprotein",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Lipid Level",
+          "measured_effect": {
+            "direction_of_change": "Not explicitly reported as a change; its baseline level served as a variable in machine learning models.",
+            "magnitude_quantification": "Specific quantitative data or changes were not reported in the provided chunks; it was included as a blood-based biomarker in predictive models for depressive symptoms in schizophrenia-spectrum disorder patients."
+          },
+          "core_biological_function": "Transports cholesterol from the liver to cells throughout the body; commonly referred to as 'bad cholesterol' due to its association with atherosclerosis.",
+          "relevant_activity_context": "Used as a baseline blood-based biomarker in secondary analysis of EUFEST and RAISE-ETP trials, collected from patients with schizophrenia-spectrum disorders, for inclusion in machine learning models predicting depressive symptoms and episodes.",
+          "performance_or_health_indicator": "Indicator of cardiovascular and metabolic health; used as a variable to evaluate its contribution to predicting depressive symptoms or post-psychotic depressive episodes in schizophrenia-spectrum disorder patients."
+        },
+        {
+          "biomarker_name": "Triglycerides",
+          "measured_tissue_or_fluid": "Blood; Blood Serum",
+          "activity_type": "Lipid Level; Concentration",
+          "measured_effect": {
+            "direction_of_change": "Not specified as a direct change; its baseline level served as a consistently selected key predictor in predictive models.",
+            "magnitude_quantification": "Consistently selected as a harmonized feature and predictor in models across both EUFEST and RAISE-ETP datasets for depressive symptoms and episodes with feature selection probability > 0.5 and cross-validated ratio (CVR) \u00b13. Its exclusion increased model bias, suggesting its importance for unbiased detection of symptom changes. Specific quantitative baseline levels were not provided in this excerpt."
+          },
+          "core_biological_function": "Main form of fat storage in the body, providing energy; associated with affective symptoms and metabolic dysfunction; high levels can be a risk factor for heart disease.",
+          "relevant_activity_context": "Used as a baseline blood-based biomarker in secondary analysis of EUFEST and RAISE-ETP trials, collected from patients with schizophrenia-spectrum disorders, and consistently identified as a key predictor in machine learning models for depressive symptoms and episodes in First-Episode Psychosis (FEP) patients, validated across both EUFEST and RAISE-ETP samples.",
+          "performance_or_health_indicator": "Indicator of metabolic and cardiovascular health; used as a variable to evaluate its contribution to predicting depressive symptoms or post-psychotic depressive episodes in schizophrenia-spectrum disorder patients; a valuable biomarker for predicting and managing depressive symptoms in FEP patients, helping to ensure unbiased detection of symptom changes. Associated with immuno-metabolic dysfunction and metabolic comorbidity in psychiatric disorders."
+        },
+        {
+          "biomarker_name": "BMI",
+          "measured_tissue_or_fluid": "Whole body measurement",
+          "activity_type": "Physiological measurement",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "RAISE-ETP patients had a higher mean BMI (27.06 [6.85]) compared to EUFEST patients (22.04 [3.17]). In RAISE-ETP, patients with an increase in CDSS scores (+\\u0394CDSS) at 6 months had a significantly higher baseline BMI; specific quantitative difference for this association is not detailed."
+          },
+          "core_biological_function": "Indicator of body composition, energy balance, and metabolic health.",
+          "relevant_activity_context": "Baseline characteristic of patients in RAISE-ETP and EUFEST clinical trials; associated with an increase in depressive symptoms (+\\u0394CDSS) at 6 months in RAISE-ETP.",
+          "performance_or_health_indicator": "Associated with various health outcomes; in this context, it serves as a patient characteristic linked to psychopathological variables and predictive of changes in clinical depression scores."
+        },
+        {
+          "biomarker_name": "PANSS scores",
+          "measured_tissue_or_fluid": "Clinical assessment",
+          "activity_type": "Clinical score",
+          "measured_effect": {
+            "direction_of_change": "Selected as a significant predictor; specific effect direction (e.g., higher/lower score linked to outcome) was determined but not specified in the provided chunks.",
+            "magnitude_quantification": "Determined with feature selection probability > 0.5 and cross-validated ratio (CVR) \\u00b13. Consistently selected irrespective of training sample in predictive models."
+          },
+          "core_biological_function": "Measures severity of positive and negative symptoms of psychopathology.",
+          "relevant_activity_context": "Used as a baseline predictor in regression and classification models for depressive symptoms and episodes in first-episode psychosis patients.",
+          "performance_or_health_indicator": "Indicates mental health status and psychopathology severity; associated with predicted depressive symptoms and episodes."
+        },
+        {
+          "biomarker_name": "CDSS scores",
+          "measured_tissue_or_fluid": "Clinical assessment",
+          "activity_type": "Clinical score",
+          "measured_effect": {
+            "direction_of_change": "Selected as a significant predictor; specific effect direction (e.g., higher/lower score linked to outcome) was determined but not specified in the provided chunks.",
+            "magnitude_quantification": "Determined with feature selection probability > 0.5 and cross-validated ratio (CVR) \\u00b13. Consistently selected irrespective of training sample in predictive models."
+          },
+          "core_biological_function": "Measures severity of depressive symptoms.",
+          "relevant_activity_context": "Used as a baseline predictor in regression and classification models for depressive symptoms and episodes in first-episode psychosis patients.",
+          "performance_or_health_indicator": "Indicates mental health status and depressive symptom severity; associated with predicted depressive symptoms and episodes."
+        },
+        {
+          "biomarker_name": "Mental health satisfaction",
+          "measured_tissue_or_fluid": "Patient assessment",
+          "activity_type": "Satisfaction level",
+          "measured_effect": {
+            "direction_of_change": "Selected as a significant predictor; specific effect direction (e.g., higher/lower satisfaction linked to outcome) was determined but not specified in the provided chunks.",
+            "magnitude_quantification": "Determined with feature selection probability > 0.5 and cross-validated ratio (CVR) \\u00b13 in predictive models."
+          },
+          "core_biological_function": "Subjective well-being indicator.",
+          "relevant_activity_context": "Used as a baseline predictor in regression and classification models for depressive symptoms and episodes in first-episode psychosis patients.",
+          "performance_or_health_indicator": "Associated with predicted depressive symptoms and episodes."
+        },
+        {
+          "biomarker_name": "Physical health satisfaction",
+          "measured_tissue_or_fluid": "Patient assessment",
+          "activity_type": "Satisfaction level",
+          "measured_effect": {
+            "direction_of_change": "Selected as a significant predictor; specific effect direction (e.g., higher/lower satisfaction linked to outcome) was determined but not specified in the provided chunks.",
+            "magnitude_quantification": "Determined with feature selection probability > 0.5 and cross-validated ratio (CVR) \\u00b13. Consistently selected irrespective of training sample (as 'general health satisfaction') in predictive models."
+          },
+          "core_biological_function": "Subjective well-being indicator.",
+          "relevant_activity_context": "Used as a baseline predictor in regression and classification models for depressive symptoms and episodes in first-episode psychosis patients.",
+          "performance_or_health_indicator": "Associated with predicted depressive symptoms and episodes."
+        },
+        {
+          "biomarker_name": "Job satisfaction",
+          "measured_tissue_or_fluid": "Patient assessment",
+          "activity_type": "Satisfaction level",
+          "measured_effect": {
+            "direction_of_change": "Selected as a significant predictor; specific effect direction (e.g., higher/lower satisfaction linked to outcome) was determined but not specified in the provided chunks.",
+            "magnitude_quantification": "Determined with feature selection probability > 0.5 and cross-validated ratio (CVR) \\u00b13 in predictive models."
+          },
+          "core_biological_function": "Indicator of professional well-being and social functioning.",
+          "relevant_activity_context": "Used as a baseline predictor in regression and classification models for depressive symptoms and episodes in first-episode psychosis patients.",
+          "performance_or_health_indicator": "Associated with predicted depressive symptoms and episodes."
+        },
+        {
+          "biomarker_name": "Living alone",
+          "measured_tissue_or_fluid": "Demographic information",
+          "activity_type": "Status (binary)",
+          "measured_effect": {
+            "direction_of_change": "Selected as a significant predictor; specific effect direction (e.g., living alone linked to outcome) was determined but not specified in the provided chunks.",
+            "magnitude_quantification": "Determined with feature selection probability > 0.5 and cross-validated ratio (CVR) \\u00b13. Consistently selected irrespective of training sample in predictive models."
+          },
+          "core_biological_function": "Social determinant of health.",
+          "relevant_activity_context": "Used as a baseline predictor in regression and classification models for depressive symptoms and episodes in first-episode psychosis patients.",
+          "performance_or_health_indicator": "Associated with predicted depressive symptoms and episodes."
+        },
+        {
+          "biomarker_name": "Cholesterol",
+          "measured_tissue_or_fluid": "Blood; Blood Serum",
+          "activity_type": "Concentration; Lipid Level",
+          "measured_effect": {
+            "direction_of_change": "Not specified as a direct change; its baseline level served as a consistently selected key predictor in predictive models.",
+            "magnitude_quantification": "Consistently selected as a harmonized feature and predictor in models across both EUFEST and RAISE-ETP datasets for depressive symptoms and episodes with feature selection probability > 0.5 and cross-validated ratio (CVR) \\u00b13. Its exclusion increased model bias, suggesting its importance for unbiased detection of symptom changes. Specific quantitative baseline levels were not provided in this excerpt."
+          },
+          "core_biological_function": "Involved in lipid metabolism, cell membrane structure, and steroid hormone synthesis; associated with affective symptoms and metabolic dysfunction.",
+          "relevant_activity_context": "Used as a baseline blood-based biomarker in secondary analysis of EUFEST and RAISE-ETP trials, collected from patients with schizophrenia-spectrum disorders, and consistently identified as a key predictor in machine learning models for depressive symptoms and episodes in First-Episode Psychosis (FEP) patients, validated across both EUFEST and RAISE-ETP samples.",
+          "performance_or_health_indicator": "Associated with predicted depressive symptoms and episodes; indicator of metabolic health; a valuable biomarker for predicting and managing depressive symptoms in FEP patients, helping to ensure unbiased detection of symptom changes. Associated with immuno-metabolic dysfunction and metabolic comorbidity in psychiatric disorders."
+        },
+        {
+          "biomarker_name": "Pulse",
+          "measured_tissue_or_fluid": "Physiological measurement",
+          "activity_type": "Rate",
+          "measured_effect": {
+            "direction_of_change": "Selected as a significant predictor; specific effect direction (e.g., higher/lower rate linked to outcome) was determined but not specified in the provided chunks.",
+            "magnitude_quantification": "Determined with feature selection probability > 0.5 and cross-validated ratio (CVR) \\u00b13 in predictive models."
+          },
+          "core_biological_function": "Indicator of heart rate and cardiovascular function.",
+          "relevant_activity_context": "Used as a baseline predictor in regression and classification models for depressive symptoms and episodes in first-episode psychosis patients.",
+          "performance_or_health_indicator": "Associated with predicted depressive symptoms and episodes; indicator of cardiovascular health."
+        },
+        {
+          "biomarker_name": "Substance use",
+          "measured_tissue_or_fluid": "Patient reported outcome/Clinical assessment",
+          "activity_type": "History/Status",
+          "measured_effect": {
+            "direction_of_change": "Selected as a significant predictor; specific effect direction (e.g., presence/absence of use linked to outcome) was determined but not specified in the provided chunks.",
+            "magnitude_quantification": "Determined with feature selection probability > 0.5 and cross-validated ratio (CVR) \\u00b13 in predictive models."
+          },
+          "core_biological_function": "Behavioral factor impacting neurological and physiological systems.",
+          "relevant_activity_context": "Used as a baseline predictor in regression and classification models for depressive symptoms and episodes in first-episode psychosis patients.",
+          "performance_or_health_indicator": "Associated with predicted depressive symptoms and episodes; indicator of potential comorbidity or contributing factor to mental health."
+        },
+        {
+          "biomarker_name": "Neurocognitive performance (executive functioning)",
+          "measured_tissue_or_fluid": "Neuropsychological assessment",
+          "activity_type": "Performance score",
+          "measured_effect": {
+            "direction_of_change": "Selected as a significant predictor; specific effect direction (e.g., higher/lower performance linked to outcome) was determined but not specified in the provided chunks.",
+            "magnitude_quantification": "Determined with feature selection probability > 0.5 and cross-validated ratio (CVR) \\u00b13 in predictive models."
+          },
+          "core_biological_function": "Brain's ability to plan, focus attention, remember instructions, and juggle multiple tasks successfully.",
+          "relevant_activity_context": "Used as a baseline predictor in regression and classification models for depressive symptoms and episodes in first-episode psychosis patients.",
+          "performance_or_health_indicator": "Associated with predicted depressive symptoms and episodes; indicator of cognitive health."
+        },
+        {
+          "biomarker_name": "Haloperidol treatment",
+          "measured_tissue_or_fluid": "Medical record/Clinical history",
+          "activity_type": "Treatment status",
+          "measured_effect": {
+            "direction_of_change": "Selected as a significant predictor; specific effect direction (e.g., presence/absence of treatment linked to outcome) was determined but not specified in the provided chunks.",
+            "magnitude_quantification": "Determined with feature selection probability > 0.5 and cross-validated ratio (CVR) \\u00b13 in predictive models."
+          },
+          "core_biological_function": "Antipsychotic medication, modulates neurotransmission.",
+          "relevant_activity_context": "Used as a baseline predictor in regression and classification models for depressive symptoms and episodes in first-episode psychosis patients.",
+          "performance_or_health_indicator": "Associated with predicted depressive symptoms and episodes; indicates pharmacological intervention for psychiatric conditions."
+        },
+        {
+          "biomarker_name": "Diagnosis of schizoaffective disorder",
+          "measured_tissue_or_fluid": "Medical record/Clinical history",
+          "activity_type": "Diagnostic status",
+          "measured_effect": {
+            "direction_of_change": "Selected as a significant predictor; specific effect direction (e.g., presence/absence of diagnosis linked to outcome) was determined but not specified in the provided chunks.",
+            "magnitude_quantification": "Determined with feature selection probability > 0.5 and cross-validated ratio (CVR) \\u00b13 in predictive models."
+          },
+          "core_biological_function": "Psychiatric diagnosis characterizing mental health status.",
+          "relevant_activity_context": "Used as a baseline predictor in regression and classification models for depressive symptoms and episodes in first-episode psychosis patients.",
+          "performance_or_health_indicator": "Associated with predicted depressive symptoms and episodes; indicates presence of a specific mental health condition."
+        },
+        {
+          "biomarker_name": "Antidepressant prescription",
+          "measured_tissue_or_fluid": "Medical record/Clinical history",
+          "activity_type": "Prescription status",
+          "measured_effect": {
+            "direction_of_change": "Associated with higher model misclassification for change in CDSS (6 months) and trending toward significance for poor outcome for depression (PPD). Higher prescription rates were observed for patients with predicted/observed poor outcomes. The PPD model was more likely to predict PPD in patients with a prescribed antidepressant.",
+            "magnitude_quantification": "Misclassification was significant for change in CDSS (6 months), trending toward significance for PPD. Differences in cumulative error distributions for PPD in antidepressant-prescribed patients trended toward significance."
+          },
+          "core_biological_function": "Pharmacological intervention for depressive symptoms, modulating neurochemical balance.",
+          "relevant_activity_context": "Examined for its influence on predictive model misclassification and as a variable in predictive models for depressive symptoms and episodes.",
+          "performance_or_health_indicator": "Indicates active treatment for depression; influences the accuracy of predictive models for depressive outcomes."
+        },
+        {
+          "biomarker_name": "\\u00b1\\u0394CDSS (Change in Depressive Symptoms)",
+          "measured_tissue_or_fluid": "Clinical assessment",
+          "activity_type": "Predicted clinical score change",
+          "measured_effect": {
+            "direction_of_change": "Higher model accuracy in predicting outcomes, particularly in the EUFEST sample and at the 12-month follow-up.",
+            "magnitude_quantification": "EUFEST-trained classifiers predicted \\u00b1\\u0394CDSS at 6 months with OOT-BAC of 75.09% (P < .001) and OOCV-BAC of 66.26% (P < .001); at 12 months with OOT-BAC of 77.61% (P < .001) and OOCV-BAC of 68.78% (P < .001). RAISE-ETP-trained classifiers predicted \\u00b1\\u0394CDSS at 6 months with OOT-BAC of 66.26% (P < .001) and OOCV-BAC of 76.35% (P < .001); at 12 months with OOT-BAC of 67.88% (P < .001) and OOCV-BAC of 73.05% (P = 0.026). Discriminative performance was consistently higher in the EUFEST sample compared to the RAISE-ETP sample, and accuracy was higher at the 12-month follow-up."
+          },
+          "core_biological_function": "Reflects change in severity of depressive symptoms.",
+          "relevant_activity_context": "Outcome variable predicted by regression and classification models in EUFEST and RAISE-ETP cohorts.",
+          "performance_or_health_indicator": "Indicates prognosis or treatment response for depressive symptoms."
+        },
+        {
+          "biomarker_name": "\\u00b1PPD (Poor Outcome for Depression)",
+          "measured_tissue_or_fluid": "Clinical assessment",
+          "activity_type": "Predicted outcome status",
+          "measured_effect": {
+            "direction_of_change": "Higher model accuracy in prediction, but the effect of sample (EUFEST vs. RAISE-ETP) was not consistently observed. Net benefit was only evident when models were trained in the EUFEST cohort. The NAVIGATE program and prescribed antidepressant were associated with more misclassifications where a negative outcome was predicted but a positive outcome was observed.",
+            "magnitude_quantification": "EUFEST-trained classifiers predicted \\u00b1PPD with OOT-BAC of 69.01% (P < .001) and OOCV-BAC of 59.15% (P < .001). RAISE-ETP-trained classifiers predicted \\u00b1PPD with OOT-BAC of 67.67% (P < .001) and OOCV-BAC of 58.92% (P < .001). Models largely did not discriminate between patients with different treatments, except for the \\u00b1PPD model, which was more likely to predict PPD in patients with a prescribed antidepressant. NAVIGATE program had significantly more misclassifications in patients with predicted +PPD but observed -PPD. A similar effect, trending toward significance, was seen in patients with prescribed antidepressants."
+          },
+          "core_biological_function": "Reflects the likelihood or occurrence of a poor outcome in depression following first-episode psychosis.",
+          "relevant_activity_context": "Outcome variable predicted by regression and classification models in EUFEST and RAISE-ETP cohorts, and analyzed for misclassification in relation to treatment programs and antidepressant prescriptions.",
+          "performance_or_health_indicator": "Indicates prognosis or risk of poor outcome in depression for first-episode psychosis patients."
+        },
+        {
+          "biomarker_name": "Prolactin",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Hormone Concentration",
+          "measured_effect": {
+            "direction_of_change": "Not specified as a change; its baseline level served as a predictor.",
+            "magnitude_quantification": "Identified as a key predictor in EUFEST dataset models for depressive symptoms and episodes. Its exclusion increased model bias, suggesting its importance for unbiased detection of symptom changes. Specific quantitative changes or thresholds were not provided."
+          },
+          "core_biological_function": "Metabolic hormone; associated with affective symptoms, metabolic regulation, immuno-metabolic dysfunction, and metabolic comorbidity in psychiatric disorders.",
+          "relevant_activity_context": "Prediction of depressive symptoms and episodes in First-Episode Psychosis (FEP) patients, specifically identified as a key baseline predictor within the EUFEST dataset.",
+          "performance_or_health_indicator": "Valuable biomarker for predicting and managing depressive symptoms in FEP patients, helping to ensure unbiased detection of symptom changes."
+        },
+        {
+          "biomarker_name": "Alanine transferase",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Enzyme Level",
+          "measured_effect": {
+            "direction_of_change": "Not specified as a change; its baseline level served as a predictor.",
+            "magnitude_quantification": "Identified as a key predictor in RAISE-ETP dataset models for depressive symptoms and episodes. Its exclusion increased model bias, suggesting its importance for unbiased detection of symptom changes. Specific quantitative changes or thresholds were not provided."
+          },
+          "core_biological_function": "Metabolic enzyme, primarily involved in liver function; indicator of metabolic dysfunction; associated with immuno-metabolic dysfunction and metabolic comorbidity in psychiatric disorders.",
+          "relevant_activity_context": "Prediction of depressive symptoms and episodes in First-Episode Psychosis (FEP) patients, specifically identified as a key baseline predictor within the RAISE-ETP dataset.",
+          "performance_or_health_indicator": "Valuable biomarker for predicting and managing depressive symptoms in FEP patients, helping to ensure unbiased detection of symptom changes."
+        }
+      ]
+    }
+  }
+]

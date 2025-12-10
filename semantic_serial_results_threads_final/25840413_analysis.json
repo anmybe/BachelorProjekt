@@ -1,0 +1,820 @@
+[
+  {
+    "title": "101316957 35616 Stem Cell Res Stem Cell Res Stem cell research 1873-5061 1876-7753 5778352 25840413 10.1016/j.scr.2015.01.009 nihpa882628 Article Development of a protein marker panel for characterization of human induced pluripotent stem cells (hiPSCs) using global quantitative proteome analysis \u2606 Pripuzova Natalia S. a 1 Getie-Kebtie Melkamu a 1 Grunseich Christopher b Sweeney Colin c Malech Harry c Alterman Michail A. a * a Tumor Vaccine and Biotechnology Branch, Division of Cellular and Gene Therapies, FDA, Center for Biologics Evaluation and Research, Bethesda, MD 20892-4555, USA b Neurogenetics Branch, National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, MD 20892-3705, USA c Laboratory of Host Defenses, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD 20892-1456, USA * Corresponding author at: Tumor Vaccines and Biotechnology Branch, Division of Cellular and Gene Therapies, Center for Biologics Evaluation and Research, US FDA, Bethesda, MD, USA. Fax: +1 301 827 0449. Michail.Alterman@fda.hhs.gov (M.A. Alterman) 1 Authors equally contributed to the study. 12 1 2018 07 2 2015 5 2015 23 1 2018 14 3 323 338 This is an open access article under the CC BY-NC-ND license ( http://creativecommons.org/licenses/by-nc-nd/4.0/ ). The emergence of new methods for reprogramming of adult somatic cells into induced pluripotent stem cells (iPSC) led to the development of new approaches in drug discovery and regenerative medicine. Investigation of the molecular mechanisms underlying the self-renewal, expansion and differentiation of human iPSC (hiPSC) should lead to improvements in the manufacture of safe and reliable cell therapy products. The goal of our study was qualitative and quantitative proteomic characterizations of hiPSC by means of electrospray ionization (ESI)-MS e and MALDI-TOF/TOF mass spectrometry (MS). Proteomes of hiPSCs of different somatic origins: fibroblasts and peripheral blood CD34 + cells, reprogrammed by the same technique, were compared with the original somatic cells and hESC. Quantitative proteomic comparison revealed approximately 220 proteins commonly up-regulated in all three pluripotent stem cell lines compared to the primary cells. Expression of 21 proteins previously reported as pluripotency markers was up-regulated in both hiPSCs (8 were confirmed by Western blot). A number of novel candidate marker proteins with the highest fold-change difference between hiPSCs/hESC and somatic cells discovered by MS were confirmed by Western blot. A panel of 22 candidate marker proteins of hiPSC was developed and expression of these proteins was confirmed in 8 additional hiPSC lines. Introduction Induced pluripotent stem cells (iPSC) are an important research tool and have a potential to become a significant source of autologous cells differentiated from iPSC for therapeutic treatments. However, prior to therapeutic application appropriate characterization of human iPSC (hiPSC) is needed. To date, iPSC have been generated from numerous somatic cell types including dermal fibroblasts ( Lowry et al., 2008 ; Takahashi et al., 2007 ; Yu et al., 2007 ), lymphocytes ( Staerk et al., 2010 ; Loh et al., 2010 ), mesenchymal stem cells ( Zou et al., 2011 ), endogenous kidney tubular renal epithelial cells ( Montserrat et al., 2012 ), and CD34 + hematopoietic stem cells ( Loh et al., 2009 ). It is believed that iPSC of different somatic origins may be predisposed toward re-differentiation to a particular cell lineage via \u201cepigenetic memory\u201d ( Bar-Nur et al., 2011 ; Kim et al., 2010 ). For instance, it has been reported that hiPSC derived from hematopoietic stem cells (CD34 + cells) are particularly suitable for development of research models and treatments for hematopoietic diseases ( Zou et al., 2011 ; Merling et al., 2013 ). Another recent study has shown that the hepatic lineage epigenetic memory contributed to the differentiation potential of mouse iPSC ( Lee et al., 2012 ). On the mRNA level hiPSC have been found to be clearly distinguishable from hESC and their expression pattern becomes closer to that of hESC after extended culture ( Chin et al., 2009 ); hiPSC have been shown to bear residual gene expression from the donor cell type ( Marchetto et al., 2009 ; Ghosh et al., 2010 ). Recent analysis of 12 established hiPSC lines has revealed epigenetic and transcriptional variations among them and has shown that these variations can have a significant impact on a cell line's ability to differentiate to a particular cell type ( Bock et al., 2011 ). The molecular characterization of hiPSC has been performed previously on different biological levels, including: gene expression profiling, epigenetic evaluation, the role of miRNAs in pluripotency, and genomic DNA alterations ( Muller et al., 2012 ; Benevento and Munoz, 2012 ). However, quantitative proteomics has not yet been used to characterize hiPSC systematically ( Munoz et al., 2011 ; Phanstiel et al., 2011 ; Kim et al., 2012 ; Yamana et al., 2013 ), and the molecular differences on the proteome level between hiPSC of different somatic origins have not been addressed. Sample preparation and MS-proteomic approaches reported previously on hiPSC vary significantly ( Benevento and Munoz, 2012 ; Munoz et al., 2011 ; Phanstiel et al., 2011 ; Kim et al., 2012 ; Yamana et al., 2013 ), which complicates direct comparison of these studies. The focal point of this study was the analysis of proteomes of two hiPSC lines at the earlier and later cell culture passages derived in two different laboratories and of different somatic origins: CD34 + cells circulating in peripheral blood (iNC-01) and fibroblasts of healthy donors (SB5-MP1). Both hiPSC lines were generated using the same reprogramming technique: loxP-flanked excisable polycistronic (human Oct4, Klf4, Sox2, and c-Myc) STEMCCA lentiviral vector, which generates transgene-free hiPSC lines upon Cre-mediated vector excision. iNC-01 cell line was previously used to obtain functional neutrophils ( Sweeney et al., 2014 ) and SB5-MP1 was successfully used in differentiation into motor neurons ( Grunseich et al., 2014 ). In parallel, we performed a quantitative global proteome analysis of H9 hESC line at the earlier and later passages, as well as of the somatic cell types (fibroblasts and peripheral blood mononuclear cells (PBMC), the cell population containing CD34 + hematopoietic stem cells). From an analytical perspective, we applied the approach that combines application of high pressure assisted protein extraction and a combination of two LC/MS/MS techniques: electrospray ionization (ESI)-MS e and MALDI-TOF/TOF ( Mindaye et al., 2013a , 2013b ). Label-free quantification of proteins was performed by ESI-MS e using normalization against an internal reference standard ( Silva et al., 2005 , 2006 ). Quantitative and qualitative comparisons of hiPSC/hESC proteomes with that of somatic cells allowed the development of a protein marker panel for characterization of hiPSC, which was successfully tested in 8 more hiPSC lines of different somatic origins derived in different laboratories by different reprogramming techniques.",
+    "document_source_id": "25840413",
+    "analysis_date": "2025-12-09",
+    "extracted_data": {
+      "document_summary": "This study performed a comprehensive qualitative and quantitative proteomic analysis of human induced pluripotent stem cells (hiPSCs) derived from different somatic origins (fibroblasts and peripheral blood CD34+ cells), comparing them to original somatic cells (fibroblasts, PBMC) and human embryonic stem cells (hESC). Using ESI-MS e and MALDI-TOF/TOF mass spectrometry, complemented by Western blot validation, the research aimed to characterize hiPSC proteomic profiles, identify known and novel pluripotency markers, and distinguish hiPSCs from their somatic precursors. Key findings include the identification of approximately 220 commonly up-regulated proteins in pluripotent stem cell lines, the development and confirmation of a 22-protein marker panel for hiPSC characterization, and the observation of coordinated up-regulation of proteins involved in protein synthesis, folding, RNA processing, DNA replication, DNA repair, and energy metabolism (including oxidative phosphorylation and lipogenesis) in hiPSCs. The study also identified somatic cell markers that were down-regulated upon reprogramming and highlighted specific proteomic differences between hiPSCs and hESCs, contributing to improved hiPSC quality control for therapeutic applications.",
+      "treatment_details": {
+        "therapy_type": "Proteomic characterization and comparative analysis of human induced pluripotent stem cells (hiPSCs) and human embryonic stem cells (hESCs).",
+        "dose_specificity": "This was a characterization study, not a therapeutic intervention, thus no 'dose' of therapy was administered. Quantitative and qualitative proteomic analyses were performed using electrospray ionization (ESI)-MS e (label-free quantification with internal reference standard) and MALDI-TOF/TOF mass spectrometry. Two hiPSC lines (iNC-01 from CD34+ cells, SB5-MP1 from fibroblasts, both generated using loxP-flanked excisable polycistronic STEMCCA lentiviral vector) and one hESC line (H9) were analyzed at earlier and later passages. Comparisons were made against their respective original somatic cells (fibroblasts, PBMC). Proteins were considered differentially expressed if expression changed by >=1.5-fold, with a maximum false discovery rate of 2% and >95% confidence. Western blot analysis was used for validation. The developed marker panel was further tested in 8-9 additional hiPSC lines or passages from different somatic origins and reprogramming techniques. Differentiation studies were conducted with embryoid bodies at 24 hours and 7 days to assess marker changes during spontaneous differentiation."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "Approximately 220 proteins",
+          "measured_tissue_or_fluid": "Human induced pluripotent stem cells (hiPSCs) and human embryonic stem cells (hESC) from fibroblasts and peripheral blood CD34+ cells",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Approximately 220 proteins were commonly up-regulated in all three pluripotent stem cell lines compared to primary cells."
+          },
+          "core_biological_function": "Distinguishing pluripotent stem cells from primary somatic cells; cellular state and biological functions activated during reprogramming.",
+          "relevant_activity_context": "Reprogramming of adult somatic cells into hiPSCs and comparison to hESC and original somatic cells.",
+          "performance_or_health_indicator": "Markers for the pluripotent state, distinguishing hiPSCs/hESCs from their somatic origins; indicates the proteomic shift towards a pluripotent cellular state."
+        },
+        {
+          "biomarker_name": "21 previously reported pluripotency marker proteins",
+          "measured_tissue_or_fluid": "Human induced pluripotent stem cells (hiPSCs) from fibroblasts and peripheral blood CD34+ cells",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Expression of 21 proteins previously reported as pluripotency markers was up-regulated in both hiPSCs (8 were confirmed by Western blot); 48 identified by ESI-MS e."
+          },
+          "core_biological_function": "Indicators of pluripotency and self-renewal capacity in stem cells; maintenance of pluripotency.",
+          "relevant_activity_context": "Characterization of hiPSCs derived from adult somatic cells; identification of known markers for hiPSCs.",
+          "performance_or_health_indicator": "Validation of pluripotency status in hiPSCs, confirming established markers; confirms the pluripotent state of the analyzed hiPSCs."
+        },
+        {
+          "biomarker_name": "Novel candidate marker proteins",
+          "measured_tissue_or_fluid": "Human induced pluripotent stem cells (hiPSCs) and human embryonic stem cells (hESC)",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "A number of novel candidate marker proteins with the highest fold-change difference between hiPSCs/hESC and somatic cells discovered by MS were confirmed by Western blot. 12 selected novel potential pluripotency marker candidates (including Basigin, CD147) had quantification confirmed by Western blot."
+          },
+          "core_biological_function": "Potential new indicators for pluripotency and stem cell identity; potential roles in stemness maintenance and pluripotency regulation.",
+          "relevant_activity_context": "Quantitative proteomic comparison of hiPSCs/hESCs with somatic cells; identification and characterization of novel markers for hiPSCs.",
+          "performance_or_health_indicator": "Identification of new proteins useful for characterizing and validating hiPSC lines; identifies new candidate markers for hiPSC characterization and quality control."
+        },
+        {
+          "biomarker_name": "Panel of 22 candidate marker proteins of hiPSC",
+          "measured_tissue_or_fluid": "Human induced pluripotent stem cells (hiPSCs)",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "A panel of 22 candidate marker proteins of hiPSC was developed and expression of these proteins was confirmed in 8 additional hiPSC lines. This panel included both previously described and novel hESC/hiPSC protein markers."
+          },
+          "core_biological_function": "Characterization and validation of hiPSC identity; improving hiPSC quality control.",
+          "relevant_activity_context": "Development of a reliable marker panel for quality control and identity verification of hiPSC lines for therapeutic applications; investigation and selection of protein markers based on proteomic analysis of hiPSC lines.",
+          "performance_or_health_indicator": "Essential for appropriate characterization of hiPSC prior to therapeutic application, ensuring safe and reliable cell therapy products; facilitates potential clinical applications."
+        },
+        {
+          "biomarker_name": "EPCAM (CD326)",
+          "measured_tissue_or_fluid": "Human Induced Pluripotent Stem Cells (hiPSCs) and Human Embryonic Stem Cells (hESCs) compared to parental somatic cells (fibroblasts, PBMC)",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Included in the list of 982 proteins up-regulated by at least 1.5-fold in hiPSCs compared to parental somatic cells, identified with >95% confidence and a maximum false discovery rate of 2%."
+          },
+          "core_biological_function": "Cell surface marker; involved in cell adhesion and signaling; well-known embryonic stem cell (ESC) marker.",
+          "relevant_activity_context": "Comparison of proteomic profiles during reprogramming of somatic cells to hiPSCs and between hiPSCs and hESCs.",
+          "performance_or_health_indicator": "Indicator of pluripotency and stem cell identity; identified as a potential hiPSC surface marker."
+        },
+        {
+          "biomarker_name": "4 F2 (CD98)",
+          "measured_tissue_or_fluid": "Human Induced Pluripotent Stem Cells (hiPSCs) and Human Embryonic Stem Cells (hESCs) compared to parental somatic cells (fibroblasts, PBMC)",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Included in the list of 982 proteins up-regulated by at least 1.5-fold in hiPSCs compared to parental somatic cells, identified with >95% confidence and a maximum false discovery rate of 2%."
+          },
+          "core_biological_function": "Cell surface protein involved in amino acid transport and cell fusion; previously not used for hiPSC selection.",
+          "relevant_activity_context": "Comparison of proteomic profiles during reprogramming of somatic cells to hiPSCs and between hiPSCs and hESCs.",
+          "performance_or_health_indicator": "Potential candidate for hiPSC surface marker, indicating pluripotency and stem cell identity."
+        },
+        {
+          "biomarker_name": "TFR1 (CD71)",
+          "measured_tissue_or_fluid": "Human Induced Pluripotent Stem Cells (hiPSCs) and Human Embryonic Stem Cells (hESCs) compared to parental somatic cells (fibroblasts, PBMC)",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Included in the list of 982 proteins up-regulated by at least 1.5-fold in hiPSCs compared to parental somatic cells, identified with >95% confidence and a maximum false discovery rate of 2%."
+          },
+          "core_biological_function": "Transferrin receptor protein 1; involved in iron uptake and cell proliferation; previously not used for hiPSC selection.",
+          "relevant_activity_context": "Comparison of proteomic profiles during reprogramming of somatic cells to hiPSCs and between hiPSCs and hESCs.",
+          "performance_or_health_indicator": "Potential candidate for hiPSC surface marker, indicating pluripotency and stem cell identity."
+        },
+        {
+          "biomarker_name": "AT1B3 (CD298)",
+          "measured_tissue_or_fluid": "Human Induced Pluripotent Stem Cells (hiPSCs) and Human Embryonic Stem Cells (hESCs) compared to parental somatic cells (fibroblasts, PBMC)",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Included in the list of 982 proteins up-regulated by at least 1.5-fold in hiPSCs compared to parental somatic cells, identified with >95% confidence and a maximum false discovery rate of 2%."
+          },
+          "core_biological_function": "ATP1B3, a subunit of Na+/K+-ATPase; involved in ion transport and cell signaling; previously not used for hiPSC selection.",
+          "relevant_activity_context": "Comparison of proteomic profiles during reprogramming of somatic cells to hiPSCs and between hiPSCs and hESCs.",
+          "performance_or_health_indicator": "Potential candidate for hiPSC surface marker, indicating pluripotency and stem cell identity."
+        },
+        {
+          "biomarker_name": "Basigin (CD147)",
+          "measured_tissue_or_fluid": "Human Induced Pluripotent Stem Cells (hiPSCs), Human Embryonic Stem Cells (hESCs), somatic cells",
+          "activity_type": "Protein Level (cell surface marker)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Included in the list of 982 proteins up-regulated by at least 1.5-fold in hiPSCs compared to parental somatic cells, identified with >95% confidence and a maximum false discovery rate of 2%. Consistently up-regulated in early and late passage cells of both hiPSC lines (by ESI-MS e) and confirmed by Western blot analysis. All selected proteins were confirmed to be up-regulated in hiPSC and hESC compared to somatic cells. Quantification confirmed by Western blot analysis in the study."
+          },
+          "core_biological_function": "Transmembrane glycoprotein; involved in cell adhesion, migration, and extracellular matrix remodeling; previously not used for hiPSC selection. Cell surface marker, associated with stemness maintenance and regulation of pluripotency.",
+          "relevant_activity_context": "Comparison of proteomic profiles during reprogramming of somatic cells to hiPSCs and between hiPSCs and hESCs. Proposed novel pluripotency marker identification and validation. Stemness maintenance and regulation of pluripotency in hESC and hiPSC, as a candidate for a protein marker panel for hiPSC characterization.",
+          "performance_or_health_indicator": "Potential candidate for hiPSC surface marker, indicating pluripotency and stem cell identity. Candidate novel pluripotency marker for hiPSCs/hESCs. Potential marker for hiPSC characterization and quality control."
+        },
+        {
+          "biomarker_name": "PODXL (TRA-1-60)",
+          "measured_tissue_or_fluid": "human induced pluripotent stem cells (hiPSC)",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Identified exclusively by ESI\u2013MS e; up-regulated in hiPSCs compared to somatic cells."
+          },
+          "core_biological_function": "Maintenance of pluripotency",
+          "relevant_activity_context": "Identification and characterization of hiPSC pluripotency markers.",
+          "performance_or_health_indicator": "Candidate pluripotency marker for hiPSCs."
+        },
+        {
+          "biomarker_name": "SALL4",
+          "measured_tissue_or_fluid": "human induced pluripotent stem cells (hiPSC)",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Identified by both MALDI-TOF/TOF and ESI\u2013MS e. In silico digestion yields Lys-ending/Arg-ending peptide ratio of 1.6."
+          },
+          "core_biological_function": "Maintenance of pluripotency",
+          "relevant_activity_context": "Identification and characterization of hiPSC pluripotency markers.",
+          "performance_or_health_indicator": "Candidate pluripotency marker for hiPSCs."
+        },
+        {
+          "biomarker_name": "DNMT3B",
+          "measured_tissue_or_fluid": "human induced pluripotent stem cells (hiPSC)",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Identified by both MALDI-TOF/TOF and ESI\u2013MS e. In silico digestion yields Lys-ending/Arg-ending peptide ratio of 1.4."
+          },
+          "core_biological_function": "Maintenance of pluripotency",
+          "relevant_activity_context": "Identification and characterization of hiPSC pluripotency markers.",
+          "performance_or_health_indicator": "Candidate pluripotency marker for hiPSCs."
+        },
+        {
+          "biomarker_name": "c-Myc",
+          "measured_tissue_or_fluid": "human embryonic stem cells (hESC) and human induced pluripotent stem cells (hiPSCs)",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "expressed",
+            "magnitude_quantification": "Detected by Western blot analysis in hESC and both hiPSCs. Not reliably identified by MS due to protein characteristics (48.8 kDa, 25 Lys, 26 Arg, 7 acetylated Lys), leading to an insufficient number of tryptic peptides in the optimal mass range (750\u20133000 Da) for MS detection (maximum 13 peptides covering 37% of sequence)."
+          },
+          "core_biological_function": "Essential for embryonic stem cell pluripotency",
+          "relevant_activity_context": "Characterization of hESC and hiPSCs; investigation of MS compatibility.",
+          "performance_or_health_indicator": "Essential pluripotency marker; challenging to detect by standard MS methods due to amino acid sequence distribution and post-translational modifications."
+        },
+        {
+          "biomarker_name": "FGF4",
+          "measured_tissue_or_fluid": "human embryonic stem cells (hESC), human induced pluripotent stem cells (hiPSCs), Peripheral Blood Mononuclear Cells (PBMC), fibroblasts",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "expressed",
+            "magnitude_quantification": "Detected by Western blot analysis in hESC, both hiPSCs, and PBMC. Also expressed in fibroblasts. Not reliably identified by MS. Expression in PBMC has not been previously reported."
+          },
+          "core_biological_function": "Well-known marker of pluripotency",
+          "relevant_activity_context": "Characterization of hESC and hiPSCs, and expression in somatic cells; investigation of MS compatibility.",
+          "performance_or_health_indicator": "Essential pluripotency marker; challenging to detect by standard MS methods. Novel finding of expression in PBMC."
+        },
+        {
+          "biomarker_name": "Klf4",
+          "measured_tissue_or_fluid": "human embryonic stem cells (hESC), human induced pluripotent stem cells (hiPSCs), Peripheral Blood Mononuclear Cells (PBMC)",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "expressed",
+            "magnitude_quantification": "Detected by Western blot analysis in hESC, both hiPSCs, and PBMC. Not reliably identified by MS. Expression in human PBMC has been previously shown."
+          },
+          "core_biological_function": "Well-known marker of pluripotency",
+          "relevant_activity_context": "Characterization of hESC and hiPSCs, and expression in PBMC; investigation of MS compatibility.",
+          "performance_or_health_indicator": "Essential pluripotency marker; challenging to detect by standard MS methods."
+        },
+        {
+          "biomarker_name": "Oct3/4 (POU5F1)",
+          "measured_tissue_or_fluid": "hESC, hiPSCs, 81 human cell types, 20 types of cancer, Glial cells, heart, skeletal muscles",
+          "activity_type": "Protein Level (Western blot, immunoreactivity)",
+          "measured_effect": {
+            "direction_of_change": "expressed",
+            "magnitude_quantification": "Detected by Western blot analysis in hESC and both hiPSCs. Not reliably identified by MS in this study (did not pass filtering criteria), but identified in previous mass spectrometry-based studies. Shows low to moderate expressions in 81 out of 81 analyzed cell types, with strong immunoreactivity in Glial cells, heart and skeletal muscles, and low to moderate staining in 94% of cancers (data from The Human Protein Atlas)."
+          },
+          "core_biological_function": "Essential for embryonic stem cell pluripotency",
+          "relevant_activity_context": "Characterization of hESC and hiPSCs, and expression across various normal and cancer tissues; investigation of MS compatibility.",
+          "performance_or_health_indicator": "Essential pluripotency marker; ubiquitously expressed in various tissues and cancers with varying intensity, but challenging for reliable MS identification."
+        },
+        {
+          "biomarker_name": "HSP90-beta",
+          "measured_tissue_or_fluid": "hiPSC, hESC, somatic cells, Mouse ESC",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Consistently up-regulated in early and late passage cells of both hiPSC lines (by ESI-MS e) and confirmed by Western blot analysis. All selected proteins were confirmed to be up-regulated in hiPSC and hESC compared to somatic cells. Shown to regulate pluripotency in mouse ESC; potentially regulates folding of Oct4 and Nanog."
+          },
+          "core_biological_function": "Protein folding and quality control; regulates pluripotency, potentially regulates the folding of Oct4 and Nanog.",
+          "relevant_activity_context": "Proposed novel pluripotency marker identification and validation; Regulation of pluripotency in mouse ESC and as a component of the hiPSC protein marker panel.",
+          "performance_or_health_indicator": "Candidate novel pluripotency marker for hiPSCs/hESCs; indicates robust cellular machinery for managing protein integrity in pluripotent stem cells; marker for pluripotency state."
+        },
+        {
+          "biomarker_name": "HSPA8",
+          "measured_tissue_or_fluid": "hiPSC, hESC, somatic cells, certain types of normal tissue",
+          "activity_type": "Protein Level (Gene Transcript or Protein Level - previously demonstrated)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Consistently up-regulated in early and late passage cells of both hiPSC lines (by ESI-MS e) and confirmed by Western blot analysis. All selected proteins were confirmed to be up-regulated in hiPSC and hESC compared to somatic cells. Expressed only in certain types of normal tissue. Over-expression in hESC or hiPSC was demonstrated previously by gene expression or proteomic analysis. Included in a panel of markers confirmed to be differentially expressed in analyzed hiPSCs compared to somatic cells."
+          },
+          "core_biological_function": "Not explicitly stated, inferred as related to cell maintenance and potentially pluripotency. Involved in stemness maintenance and regulation of pluripotency.",
+          "relevant_activity_context": "Proposed novel pluripotency marker identification and validation; tissue specificity analysis. Stemness maintenance and regulation of pluripotency in hESC and hiPSC.",
+          "performance_or_health_indicator": "Candidate novel pluripotency marker for hiPSCs/hESCs; shows tissue-specific expression. Marker for stemness and pluripotency in hESC and hiPSC."
+        },
+        {
+          "biomarker_name": "Peroxiredoxin-1 (Prxd 1)",
+          "measured_tissue_or_fluid": "hiPSC, hESC, somatic cells",
+          "activity_type": "Protein Level (Gene Transcript or Protein Level - previously demonstrated)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Consistently up-regulated in early and late passage cells of both hiPSC lines (by ESI-MS e) and confirmed by Western blot analysis. All selected proteins were confirmed to be up-regulated in hiPSC and hESC compared to somatic cells. Over-expression in hESC or hiPSC was demonstrated previously by gene expression or proteomic analysis. Included in a panel of markers confirmed to be differentially expressed in analyzed hiPSCs compared to somatic cells."
+          },
+          "core_biological_function": "Not explicitly stated, inferred as related to cell maintenance and potentially pluripotency. Involved in stemness maintenance and regulation of pluripotency.",
+          "relevant_activity_context": "Proposed novel pluripotency marker identification and validation. Stemness maintenance and regulation of pluripotency in hESC and hiPSC.",
+          "performance_or_health_indicator": "Candidate novel pluripotency marker for hiPSCs/hESCs. Marker for stemness and pluripotency in hESC and hiPSC."
+        },
+        {
+          "biomarker_name": "Prohibitin2",
+          "measured_tissue_or_fluid": "hiPSC, hESC, somatic cells",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Consistently up-regulated in early and late passage cells of both hiPSC lines (by ESI-MS e) and confirmed by Western blot analysis. All selected proteins were confirmed to be up-regulated in hiPSC and hESC compared to somatic cells."
+          },
+          "core_biological_function": "Not explicitly stated, inferred as related to cell maintenance and potentially pluripotency.",
+          "relevant_activity_context": "Proposed novel pluripotency marker identification and validation.",
+          "performance_or_health_indicator": "Candidate novel pluripotency marker for hiPSCs/hESCs."
+        },
+        {
+          "biomarker_name": "Stathmin1",
+          "measured_tissue_or_fluid": "hiPSC, hESC, somatic cells",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Consistently up-regulated in early and late passage cells of both hiPSC lines (by ESI-MS e) and confirmed by Western blot analysis. All selected proteins were confirmed to be up-regulated in hiPSC and hESC compared to somatic cells."
+          },
+          "core_biological_function": "Not explicitly stated, inferred as related to cell maintenance and potentially pluripotency.",
+          "relevant_activity_context": "Proposed novel pluripotency marker identification and validation.",
+          "performance_or_health_indicator": "Candidate novel pluripotency marker for hiPSCs/hESCs."
+        },
+        {
+          "biomarker_name": "XRCC5 (Ku80)",
+          "measured_tissue_or_fluid": "hiPSC, hESC, somatic cells",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Consistently up-regulated in early and late passage cells of both hiPSC lines (by ESI-MS e) and confirmed by Western blot analysis. All selected proteins were confirmed to be up-regulated in hiPSC and hESC compared to somatic cells."
+          },
+          "core_biological_function": "Not explicitly stated, inferred as related to DNA repair and potentially pluripotency.",
+          "relevant_activity_context": "Proposed novel pluripotency marker identification and validation.",
+          "performance_or_health_indicator": "Candidate novel pluripotency marker for hiPSCs/hESCs."
+        },
+        {
+          "biomarker_name": "MCM4",
+          "measured_tissue_or_fluid": "hiPSC, hESC, somatic cells",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Consistently up-regulated in early and late passage cells of both hiPSC lines (by ESI-MS e) and confirmed by Western blot analysis. All selected proteins were confirmed to be up-regulated in hiPSC and hESC compared to somatic cells."
+          },
+          "core_biological_function": "Not explicitly stated, inferred as related to cell proliferation and potentially pluripotency.",
+          "relevant_activity_context": "Proposed novel pluripotency marker identification and validation.",
+          "performance_or_health_indicator": "Candidate novel pluripotency marker for hiPSCs/hESCs."
+        },
+        {
+          "biomarker_name": "Tripartite motif containing 28 (TRIM28, TIF1B)",
+          "measured_tissue_or_fluid": "hiPSC, hESC, somatic cells",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Consistently up-regulated in early and late passage cells of both hiPSC lines (by ESI-MS e) and confirmed by Western blot analysis. All selected proteins were confirmed to be up-regulated in hiPSC and hESC compared to somatic cells. Shown to regulate transcriptional dynamics and retroviral silencing in hESC (previous study)."
+          },
+          "core_biological_function": "Not explicitly stated, inferred as related to gene regulation and pluripotency. Regulates transcriptional dynamics and retroviral silencing.",
+          "relevant_activity_context": "Proposed novel pluripotency marker identification and validation. Regulation of transcriptional dynamics and retroviral silencing in hESC and as a component of the hiPSC protein marker panel.",
+          "performance_or_health_indicator": "Candidate novel pluripotency marker for hiPSCs/hESCs. Marker for hESC transcriptional and silencing regulation, contributing to pluripotency."
+        },
+        {
+          "biomarker_name": "Cathepsin D",
+          "measured_tissue_or_fluid": "hiPSC, hESC, somatic cells",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Consistently up-regulated in early and late passage cells of both hiPSC lines (by ESI-MS e) and confirmed by Western blot analysis. All selected proteins were confirmed to be up-regulated in hiPSC and hESC compared to somatic cells."
+          },
+          "core_biological_function": "Not explicitly stated, inferred as related to cellular processes and pluripotency.",
+          "relevant_activity_context": "Proposed novel pluripotency marker identification and validation.",
+          "performance_or_health_indicator": "Candidate novel pluripotency marker for hiPSCs/hESCs."
+        },
+        {
+          "biomarker_name": "Isocitrate dehydrogenase 1 (IDH1)",
+          "measured_tissue_or_fluid": "hiPSC, hESC, somatic cells, certain types of normal tissue",
+          "activity_type": "Protein Level (Gene Transcript or Protein Level - previously demonstrated)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Consistently up-regulated in early and late passage cells of both hiPSC lines (by ESI-MS e) and confirmed by Western blot analysis. All selected proteins were confirmed to be up-regulated in hiPSC and hESC compared to somatic cells. Expressed only in certain types of normal tissue. Over-expression in hESC or hiPSC was demonstrated previously by gene expression or proteomic analysis. Included in a panel of markers confirmed to be differentially expressed in analyzed hiPSCs compared to somatic cells."
+          },
+          "core_biological_function": "Not explicitly stated, inferred as related to metabolism and potentially pluripotency. Involved in stemness maintenance and regulation of pluripotency.",
+          "relevant_activity_context": "Proposed novel pluripotency marker identification and validation; tissue specificity analysis. Stemness maintenance and regulation of pluripotency in hESC and hiPSC.",
+          "performance_or_health_indicator": "Candidate novel pluripotency marker for hiPSCs/hESCs; shows tissue-specific expression. Marker for stemness and pluripotency in hESC and hiPSC."
+        },
+        {
+          "biomarker_name": "ACACA",
+          "measured_tissue_or_fluid": "hiPSC, hESC, somatic cells, Mouse iPSC",
+          "activity_type": "Protein Level (up-regulation described)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Consistently up-regulated in early and late passage cells of both hiPSC lines (by ESI-MS e) and confirmed by Western blot analysis. All selected proteins were confirmed to be up-regulated in hiPSC and hESC compared to somatic cells. Found to be up-regulated in mouse iPSC (previous study). Included in a panel of markers confirmed to be differentially expressed in analyzed hiPSCs compared to somatic cells."
+          },
+          "core_biological_function": "Not explicitly stated, inferred as related to metabolism and potentially pluripotency. Involved in iPSC biology (up-regulated in mouse iPSC).",
+          "relevant_activity_context": "Proposed novel pluripotency marker identification and validation. Mouse iPSC biology and as a component of the hiPSC protein marker panel.",
+          "performance_or_health_indicator": "Candidate novel pluripotency marker for hiPSCs/hESCs. Marker for iPSC state."
+        },
+        {
+          "biomarker_name": "Gelsolin (GSN)",
+          "measured_tissue_or_fluid": "hiPSC, fibroblasts, PBMC, certain types of normal tissue",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Dramatically down-regulated upon reprogramming; quantification data by ESI-MS e correlated well with detection by Western blot analysis. Highly expressed in PBMC and fibroblasts. Confirmed down-regulated upon reprogramming in all 9 hiPSC lines. Expressed only in certain types of normal tissue."
+          },
+          "core_biological_function": "Not explicitly stated, inferred as a marker of somatic cells.",
+          "relevant_activity_context": "Identification of 'contrasting' (somatic cell) markers to indicate successful reprogramming.",
+          "performance_or_health_indicator": "Indicates somatic cell state; down-regulation is a marker of successful reprogramming to pluripotency. Shows tissue-specific expression."
+        },
+        {
+          "biomarker_name": "Calpain 1 (large subunit)",
+          "measured_tissue_or_fluid": "hiPSC, PBMC",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Dramatically down-regulated upon reprogramming; quantification data by ESI-MS e correlated well with detection by Western blot analysis. Highly expressed in PBMC."
+          },
+          "core_biological_function": "Not explicitly stated, inferred as a marker of somatic cells.",
+          "relevant_activity_context": "Identification of 'contrasting' (somatic cell) markers to indicate successful reprogramming.",
+          "performance_or_health_indicator": "Indicates somatic cell state; down-regulation is a marker of successful reprogramming to pluripotency."
+        },
+        {
+          "biomarker_name": "LCP1 (Plastin-2)",
+          "measured_tissue_or_fluid": "hiPSC, PBMC",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Dramatically down-regulated upon reprogramming; quantification data by ESI-MS e correlated well with detection by Western blot analysis. Highly expressed in PBMC."
+          },
+          "core_biological_function": "Not explicitly stated, inferred as a marker of somatic cells.",
+          "relevant_activity_context": "Identification of 'contrasting' (somatic cell) markers to indicate successful reprogramming.",
+          "performance_or_health_indicator": "Indicates somatic cell state; down-regulation is a marker of successful reprogramming to pluripotency."
+        },
+        {
+          "biomarker_name": "Annexin A2",
+          "measured_tissue_or_fluid": "hiPSC, fibroblasts",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Dramatically down-regulated upon reprogramming; quantification data by ESI-MS e correlated well with detection by Western blot analysis. Highly expressed in fibroblasts. Confirmed down-regulated upon reprogramming in all 9 hiPSC lines."
+          },
+          "core_biological_function": "Not explicitly stated, inferred as a marker of somatic cells.",
+          "relevant_activity_context": "Identification of 'contrasting' (somatic cell) markers to indicate successful reprogramming.",
+          "performance_or_health_indicator": "Indicates somatic cell state; down-regulation is a marker of successful reprogramming to pluripotency."
+        },
+        {
+          "biomarker_name": "BMP2",
+          "measured_tissue_or_fluid": "hiPSC, hESC",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Identified exclusively by MALDI MS. Listed as a widely used hiPSC/hESC marker."
+          },
+          "core_biological_function": "Not explicitly stated, inferred as related to pluripotency maintenance.",
+          "relevant_activity_context": "Pluripotency marker identification and proteome coverage expansion using MALDI MS.",
+          "performance_or_health_indicator": "Candidate pluripotency marker for hiPSCs/hESCs."
+        },
+        {
+          "biomarker_name": "BUB1",
+          "measured_tissue_or_fluid": "hiPSC, hESC",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Identified exclusively by MALDI MS. Listed as a widely used hiPSC/hESC marker."
+          },
+          "core_biological_function": "Not explicitly stated, inferred as related to pluripotency maintenance.",
+          "relevant_activity_context": "Pluripotency marker identification and proteome coverage expansion using MALDI MS.",
+          "performance_or_health_indicator": "Candidate pluripotency marker for hiPSCs/hESCs."
+        },
+        {
+          "biomarker_name": "FGFR2",
+          "measured_tissue_or_fluid": "hiPSC, hESC",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Identified exclusively by MALDI MS. Listed as a widely used hiPSC/hESC marker."
+          },
+          "core_biological_function": "Not explicitly stated, inferred as related to pluripotency maintenance.",
+          "relevant_activity_context": "Pluripotency marker identification and proteome coverage expansion using MALDI MS.",
+          "performance_or_health_indicator": "Candidate pluripotency marker for hiPSCs/hESCs."
+        },
+        {
+          "biomarker_name": "Sox2",
+          "measured_tissue_or_fluid": "hiPSC, hESC",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Identified exclusively by MALDI MS. Listed as a widely used hiPSC/hESC marker."
+          },
+          "core_biological_function": "Not explicitly stated, inferred as related to pluripotency maintenance.",
+          "relevant_activity_context": "Pluripotency marker identification and proteome coverage expansion using MALDI MS.",
+          "performance_or_health_indicator": "Candidate pluripotency marker for hiPSCs/hESCs."
+        },
+        {
+          "biomarker_name": "TERT",
+          "measured_tissue_or_fluid": "hiPSC, hESC",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Identified exclusively by MALDI MS. Listed as a widely used hiPSC/hESC marker."
+          },
+          "core_biological_function": "Not explicitly stated, inferred as related to pluripotency maintenance.",
+          "relevant_activity_context": "Pluripotency marker identification and proteome coverage expansion using MALDI MS.",
+          "performance_or_health_indicator": "Candidate pluripotency marker for hiPSCs/hESCs."
+        },
+        {
+          "biomarker_name": "TGFBR1",
+          "measured_tissue_or_fluid": "hiPSC, hESC",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Identified exclusively by MALDI MS. Listed as a widely used hiPSC/hESC marker."
+          },
+          "core_biological_function": "Not explicitly stated, inferred as related to pluripotency maintenance.",
+          "relevant_activity_context": "Pluripotency marker identification and proteome coverage expansion using MALDI MS.",
+          "performance_or_health_indicator": "Candidate pluripotency marker for hiPSCs/hESCs."
+        },
+        {
+          "biomarker_name": "EHMT2 (G9a methyltransferase)",
+          "measured_tissue_or_fluid": "hESC, hiPSCs, primary cells, certain types of normal tissue",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Confirmed up-regulated in hESC and hiPSCs compared to primary cells by Western blot analysis. Previously described pluripotency marker. Expressed only in certain types of normal tissue. Dramatically down-regulated upon differentiation in embryoid bodies (EB-24h and EB-7days compared to hiPSC). Previously described to be involved in regulation of the global histone methylation levels."
+          },
+          "core_biological_function": "Function arguably related to the establishment of pluripotency or stemness maintenance. Involved in regulation of the global histone methylation levels.",
+          "relevant_activity_context": "Pluripotency marker identification and validation. Pluripotency marker in hiPSCs/hESCs after reprogramming and during spontaneous differentiation.",
+          "performance_or_health_indicator": "Confirmed pluripotency marker for hESC/hiPSCs; shows tissue-specific expression. Potential marker for hiPSC characterization and quality control, indicating pluripotency state and epigenetic regulation."
+        },
+        {
+          "biomarker_name": "Serine/threonine-protein kinase TAOK1",
+          "measured_tissue_or_fluid": "hESC, hiPSCs, primary cells, testis, brain, placenta, colon, skeletal muscle",
+          "activity_type": "Protein Level (identified by MALDI MS/MS, confirmed by Western blot)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Confirmed up-regulated in hESC and hiPSCs compared to primary cells by Western blot analysis. Novel marker. Dramatically down-regulated upon differentiation in embryoid bodies (EB-24h and EB-7days compared to hiPSC)."
+          },
+          "core_biological_function": "Function arguably related to the establishment of pluripotency or stemness maintenance. Involved in p38/MAPK14 stress-activated MAPK cascade, DNA damage response, and regulation of cytoskeleton stability. Highly expressed in testis, lower in brain, placenta, colon, skeletal muscle.",
+          "relevant_activity_context": "Novel pluripotency marker identification and validation. Pluripotency marker in hiPSCs/hESCs after reprogramming and during spontaneous differentiation.",
+          "performance_or_health_indicator": "Candidate novel pluripotency marker for hESC/hiPSCs. Potential marker for hiPSC characterization and quality control, indicating pluripotency state."
+        },
+        {
+          "biomarker_name": "Voltage-dependent P/Q-type calcium channel subunit alpha-1A (CACNA1A)",
+          "measured_tissue_or_fluid": "hESC, hiPSCs, primary cells, brain (cerebellum, cerebral cortex, thalamus, hypothalamus), certain types of normal tissue",
+          "activity_type": "Protein Level (identified by MALDI MS/MS, confirmed by Western blot)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Confirmed up-regulated in hESC and hiPSCs compared to primary cells by Western blot analysis. Novel marker. Expressed only in certain types of normal tissue. Dramatically down-regulated upon differentiation in embryoid bodies (EB-24h and EB-7days compared to hiPSC)."
+          },
+          "core_biological_function": "Function arguably related to the establishment of pluripotency or stemness maintenance. Brain-specific, mainly found in the cerebellum, cerebral cortex, thalamus, and hypothalamus.",
+          "relevant_activity_context": "Novel pluripotency marker identification and validation; tissue specificity analysis. Pluripotency marker in hiPSCs/hESCs after reprogramming and during spontaneous differentiation.",
+          "performance_or_health_indicator": "Candidate novel pluripotency marker for hESC/hiPSCs; shows tissue-specific expression. Potential marker for hiPSC characterization and quality control, indicating pluripotency state."
+        },
+        {
+          "biomarker_name": "Homeobox protein cut-like 2 (CUX2)",
+          "measured_tissue_or_fluid": "hESC, hiPSCs, primary cells, female liver",
+          "activity_type": "Protein Level (identified by MALDI MS/MS, confirmed by Western blot)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Confirmed up-regulated in hESC and hiPSCs compared to primary cells by Western blot analysis. Novel marker. Dramatically down-regulated upon differentiation in embryoid bodies (EB-24h and EB-7days compared to hiPSC)."
+          },
+          "core_biological_function": "Function arguably related to the establishment of pluripotency or stemness maintenance. Likely transcription factor, binds to DNA in a sequence-specific manner, involved in neural specification during embryogenesis, and may regulate sex-specific gene expression in female liver.",
+          "relevant_activity_context": "Novel pluripotency marker identification and validation. Pluripotency marker in hiPSCs/hESCs after reprogramming and during spontaneous differentiation.",
+          "performance_or_health_indicator": "Candidate novel pluripotency marker for hESC/hiPSCs. Potential marker for hiPSC characterization and quality control, indicating pluripotency state."
+        },
+        {
+          "biomarker_name": "Cohesin subunit SA-2 (STAG2)",
+          "measured_tissue_or_fluid": "hESC, hiPSCs, primary cells",
+          "activity_type": "Protein Level (identified by MALDI MS/MS, confirmed by Western blot)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Confirmed up-regulated in hESC and hiPSCs compared to primary cells by Western blot analysis. Novel marker. Dramatically down-regulated upon differentiation in embryoid bodies (EB-24h and EB-7days compared to hiPSC)."
+          },
+          "core_biological_function": "Function arguably related to the establishment of pluripotency or stemness maintenance. Component of the cohesin complex, required for cohesion of sister chromatids after DNA replication.",
+          "relevant_activity_context": "Novel pluripotency marker identification and validation. Pluripotency marker in hiPSCs/hESCs after reprogramming and during spontaneous differentiation.",
+          "performance_or_health_indicator": "Candidate novel pluripotency marker for hESC/hiPSCs. Potential marker for hiPSC characterization and quality control, indicating pluripotency state and proper cell division."
+        },
+        {
+          "biomarker_name": "PAS domain-containing serine/threonine-protein kinase (PASK)",
+          "measured_tissue_or_fluid": "hESC, hiPSCs, primary cells, brain, prostate, testis (ubiquitously expressed)",
+          "activity_type": "Protein Level (identified by MALDI MS/MS, confirmed by Western blot)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Confirmed up-regulated in hESC and hiPSCs compared to primary cells by Western blot analysis. Novel marker. Dramatically down-regulated upon differentiation in embryoid bodies (EB-24h and EB-7days compared to hiPSC)."
+          },
+          "core_biological_function": "Function arguably related to the establishment of pluripotency or stemness maintenance. Involved in energy homeostasis and protein translation. Ubiquitously expressed, with slightly higher expression in the brain, prostate, and testis.",
+          "relevant_activity_context": "Novel pluripotency marker identification and validation. Pluripotency marker in hiPSCs/hESCs after reprogramming and during spontaneous differentiation.",
+          "performance_or_health_indicator": "Candidate novel pluripotency marker for hESC/hiPSCs. Potential marker for hiPSC characterization and quality control, indicating pluripotency state."
+        },
+        {
+          "biomarker_name": "APOE",
+          "measured_tissue_or_fluid": "9 hiPSC lines, fibroblasts, certain types of normal tissue, hESC or hiPSC (cell lines)",
+          "activity_type": "Protein Level (Gene Transcript or Protein Level - previously demonstrated by gene expression or proteomic analysis)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Confirmed to be up-regulated in all 9 hiPSC lines compared to fibroblasts by Western blot analysis. Previously described hESC/hiPSC marker. Expressed only in certain types of normal tissue. Over-expression in hESC or hiPSC was demonstrated previously by gene expression or proteomic analysis. Included in a panel of markers confirmed to be differentially expressed in analyzed hiPSCs compared to somatic cells."
+          },
+          "core_biological_function": "Previously described hESC/hiPSC marker. Involved in stemness maintenance and regulation of pluripotency.",
+          "relevant_activity_context": "Validation of pluripotency markers in diverse hiPSC lines; tissue specificity analysis. Stemness maintenance and regulation of pluripotency in hESC and hiPSC.",
+          "performance_or_health_indicator": "Confirmed pluripotency marker for hiPSCs; shows tissue-specific expression. Marker for stemness and pluripotency in hESC and hiPSC."
+        },
+        {
+          "biomarker_name": "IMP1",
+          "measured_tissue_or_fluid": "9 hiPSC lines, fibroblasts",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Confirmed to be up-regulated in all 9 hiPSC lines compared to fibroblasts by Western blot analysis."
+          },
+          "core_biological_function": "Previously described hESC/hiPSC marker.",
+          "relevant_activity_context": "Validation of pluripotency markers in diverse hiPSC lines.",
+          "performance_or_health_indicator": "Confirmed pluripotency marker for hiPSCs."
+        },
+        {
+          "biomarker_name": "Lin28",
+          "measured_tissue_or_fluid": "9 hiPSC lines, fibroblasts",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Confirmed to be up-regulated in all 9 hiPSC lines compared to fibroblasts by Western blot analysis. Widely used hESC/hiPSC marker."
+          },
+          "core_biological_function": "Previously described hESC/hiPSC marker.",
+          "relevant_activity_context": "Validation of pluripotency markers in diverse hiPSC lines.",
+          "performance_or_health_indicator": "Confirmed pluripotency marker for hiPSCs."
+        },
+        {
+          "biomarker_name": "FUBP3",
+          "measured_tissue_or_fluid": "9 hiPSC lines, fibroblasts",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Confirmed to be up-regulated in all 9 hiPSC lines compared to fibroblasts by Western blot analysis. Widely used hESC/hiPSC marker."
+          },
+          "core_biological_function": "Previously described hESC/hiPSC marker.",
+          "relevant_activity_context": "Validation of pluripotency markers in diverse hiPSC lines.",
+          "performance_or_health_indicator": "Confirmed pluripotency marker for hiPSCs."
+        },
+        {
+          "biomarker_name": "Proteins (general category, up-regulated in hiPSCs vs parental)",
+          "measured_tissue_or_fluid": "Induced pluripotent stem cells (hiPSCs) compared to parental primary cells",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "~420 to 540 proteins up-regulated in both hiPSCs (in two biological replicates); ~50\u2013150 proteins up-regulated in both hiPSCs compared to H9 cells."
+          },
+          "core_biological_function": "Cellular state and biological functions activated during reprogramming; cellular state differences between hiPSCs and hESC.",
+          "relevant_activity_context": "Reprogramming of somatic cells into hiPSCs; quantitative proteomic comparison of hiPSCs with hESC.",
+          "performance_or_health_indicator": "Indicates the proteomic shift towards a pluripotent cellular state; highlights proteomic differences and similarities between hiPSCs and hESC."
+        },
+        {
+          "biomarker_name": "Proteins (general category, down-regulated in hiPSCs vs parental)",
+          "measured_tissue_or_fluid": "Induced pluripotent stem cells (hiPSCs) compared to parental primary cells",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "~90 to 240 proteins down-regulated in both hiPSCs (in two biological replicates); ~50\u2013150 proteins down-regulated in both hiPSCs compared to H9 cells."
+          },
+          "core_biological_function": "Cellular state and biological functions modified during reprogramming; cellular state differences between hiPSCs and hESC.",
+          "relevant_activity_context": "Reprogramming of somatic cells into hiPSCs; quantitative proteomic comparison of hiPSCs with hESC.",
+          "performance_or_health_indicator": "Indicates the proteomic shift away from the somatic cell state; highlights proteomic differences and similarities between hiPSCs and hESC."
+        },
+        {
+          "biomarker_name": "Large and small subunit ribosomal proteins",
+          "measured_tissue_or_fluid": "hiPSCs compared to somatic cells",
+          "activity_type": "Protein Expression Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Coordinated up-regulation observed"
+          },
+          "core_biological_function": "Protein synthesis",
+          "relevant_activity_context": "Cellular state of hiPSCs",
+          "performance_or_health_indicator": "Reflects high proliferative capacity and protein turnover in pluripotent stem cells"
+        },
+        {
+          "biomarker_name": "HSP90, HSP70, CCT2, CCT7, TEBP (Chaperons and Chaperonins)",
+          "measured_tissue_or_fluid": "hiPSCs compared to somatic cells",
+          "activity_type": "Protein Expression Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Coordinated up-regulation observed"
+          },
+          "core_biological_function": "Protein folding and quality control",
+          "relevant_activity_context": "Cellular state of hiPSCs",
+          "performance_or_health_indicator": "Indicates robust cellular machinery for managing protein integrity in hiPSCs"
+        },
+        {
+          "biomarker_name": "hnRNPs (heterogeneous nuclear ribonucleoproteins)",
+          "measured_tissue_or_fluid": "hiPSCs compared to somatic cells",
+          "activity_type": "Protein Expression Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Coordinated up-regulation observed"
+          },
+          "core_biological_function": "RNA processing, splicing, transport, and stability",
+          "relevant_activity_context": "Cellular state of hiPSCs",
+          "performance_or_health_indicator": "Essential for regulating gene expression programs critical for pluripotency"
+        },
+        {
+          "biomarker_name": "t-RNA synthetases",
+          "measured_tissue_or_fluid": "hiPSCs compared to somatic cells",
+          "activity_type": "Protein Expression Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Coordinated up-regulation observed"
+          },
+          "core_biological_function": "Aminoacylation of tRNAs for protein synthesis",
+          "relevant_activity_context": "Cellular state of hiPSCs",
+          "performance_or_health_indicator": "Underpins the high rate of protein synthesis in hiPSCs"
+        },
+        {
+          "biomarker_name": "TARDBP (TAR DNA binding protein), YBX1 (Y box binding protein), FUS (RNA-binding protein FUS)",
+          "measured_tissue_or_fluid": "hiPSCs compared to somatic cells",
+          "activity_type": "Protein Expression Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Coordinated up-regulation observed"
+          },
+          "core_biological_function": "Gene transcription and RNA splicing",
+          "relevant_activity_context": "Cellular state of hiPSCs",
+          "performance_or_health_indicator": "Key regulators of gene expression vital for pluripotency maintenance"
+        },
+        {
+          "biomarker_name": "snRPs, hnRNP70, CDC5L (RNA splicing and spliceosome formation proteins)",
+          "measured_tissue_or_fluid": "hiPSCs",
+          "activity_type": "Protein Expression Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Up-regulation observed"
+          },
+          "core_biological_function": "RNA splicing and spliceosome formation",
+          "relevant_activity_context": "Specific protein complexes in hiPSCs",
+          "performance_or_health_indicator": "Indicates active and complex RNA processing essential for hiPSC specific gene expression"
+        },
+        {
+          "biomarker_name": "MCM complex (Cell cycle control of chromosomal replication proteins)",
+          "measured_tissue_or_fluid": "hiPSCs",
+          "activity_type": "Protein Expression Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Up-regulation observed"
+          },
+          "core_biological_function": "DNA replication initiation and cell cycle control",
+          "relevant_activity_context": "Specific protein complexes in hiPSCs",
+          "performance_or_health_indicator": "Reflects the rapid and controlled cell division characteristic of hiPSCs"
+        },
+        {
+          "biomarker_name": "MRE11A, BASC (Mismatch repair and DNA double-stranded break repair proteins)",
+          "measured_tissue_or_fluid": "hiPSCs",
+          "activity_type": "Protein Expression Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Up-regulation observed"
+          },
+          "core_biological_function": "DNA repair mechanisms (mismatch repair, homologous recombination)",
+          "relevant_activity_context": "Specific protein complexes in hiPSCs",
+          "performance_or_health_indicator": "Suggests robust mechanisms for maintaining genomic integrity in hiPSCs, crucial for their stability"
+        },
+        {
+          "biomarker_name": "POLRs (RNA Polymerases in estrogen and glucocorticoid receptor signaling)",
+          "measured_tissue_or_fluid": "hiPSCs",
+          "activity_type": "Protein Expression Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Up-regulation observed"
+          },
+          "core_biological_function": "Transcription in estrogen and glucocorticoid receptor signaling",
+          "relevant_activity_context": "Specific protein complexes in hiPSCs",
+          "performance_or_health_indicator": "Indicates active transcriptional regulation potentially involved in pluripotency pathways"
+        },
+        {
+          "biomarker_name": "EXOSC (Exosome complex, mRNA surveillance proteins)",
+          "measured_tissue_or_fluid": "hiPSCs",
+          "activity_type": "Protein Expression Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Up-regulation observed"
+          },
+          "core_biological_function": "mRNA degradation and quality control",
+          "relevant_activity_context": "Specific protein complexes in hiPSCs",
+          "performance_or_health_indicator": "Essential for regulating gene expression and removing aberrant mRNAs, maintaining hiPSC integrity"
+        },
+        {
+          "biomarker_name": "ATP synthase, NADH dehydrogenase (Complex I), Cytochrome b-c1, Cytochrome C, Cytochrome b5, H+-transporting two-sector ATPase (Oxidative phosphorylation complexes)",
+          "measured_tissue_or_fluid": "hiPSCs",
+          "activity_type": "Protein Expression Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Up-regulated in both hiPSCs"
+          },
+          "core_biological_function": "Cellular energy production via oxidative phosphorylation",
+          "relevant_activity_context": "hiPSC cellular state, challenging previous findings on metabolic shift",
+          "performance_or_health_indicator": "Suggests active mitochondrial respiration in hiPSCs, indicating functional respiratory complexes"
+        },
+        {
+          "biomarker_name": "mTOR signaling proteins",
+          "measured_tissue_or_fluid": "hiPSCs",
+          "activity_type": "Protein Expression Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "54 molecules involved in total were up-regulated"
+          },
+          "core_biological_function": "Regulation of cell growth, proliferation, metabolism, and survival",
+          "relevant_activity_context": "hiPSC cellular state",
+          "performance_or_health_indicator": "Indicates active signaling supporting the high metabolic and proliferative demands of hiPSCs"
+        },
+        {
+          "biomarker_name": "ENO2, TKT, ALDOB, PGAM1 (Glycolytic enzymes)",
+          "measured_tissue_or_fluid": "hiPSCs",
+          "activity_type": "Protein Expression Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Only four up-regulated proteins found"
+          },
+          "core_biological_function": "Glycolytic metabolism",
+          "relevant_activity_context": "hiPSC cellular state as markers of transition to glycolytic metabolism, contrasting with expected strong induction",
+          "performance_or_health_indicator": "Suggests a less dramatic shift to glycolysis than previously reported, possibly due to cell passage or origin differences"
+        },
+        {
+          "biomarker_name": "Acetyl-CoA carboxylase (ACACA), Fatty acid synthase (FASN) (Lipogenic enzymes)",
+          "measured_tissue_or_fluid": "hiPSCs",
+          "activity_type": "Protein Expression Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Up-regulated in both hiPSCs"
+          },
+          "core_biological_function": "Lipogenesis (fatty acid synthesis)",
+          "relevant_activity_context": "hiPSC cellular state, involved in a lipogenic switch",
+          "performance_or_health_indicator": "Indicates active lipid synthesis, supporting membrane biogenesis and energy storage in rapidly dividing hiPSCs"
+        },
+        {
+          "biomarker_name": "CRABP1",
+          "measured_tissue_or_fluid": "hiPSCs compared to hESC (H9 cells)",
+          "activity_type": "Protein Expression Level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Down-regulated in hiPSCs vs hESC (Supplementary Tables 3 and 4)"
+          },
+          "core_biological_function": "Cellular retinoic acid binding",
+          "relevant_activity_context": "Proteomic comparison between hiPSCs and hESC",
+          "performance_or_health_indicator": "Suggests a specific proteomic difference between hiPSCs and hESC"
+        },
+        {
+          "biomarker_name": "AK3",
+          "measured_tissue_or_fluid": "hiPSCs compared to hESC (H9 cells)",
+          "activity_type": "Protein Expression Level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Down-regulated in hiPSCs vs hESC (Supplementary Tables 3 and 4)"
+          },
+          "core_biological_function": "Adenylate kinase activity (energy metabolism)",
+          "relevant_activity_context": "Proteomic comparison between hiPSCs and hESC",
+          "performance_or_health_indicator": "Suggests a specific proteomic difference in energy metabolism between hiPSCs and hESC"
+        },
+        {
+          "biomarker_name": "Energy production related proteins (general category, hiPSCs vs hESC)",
+          "measured_tissue_or_fluid": "hiPSCs compared to hESC",
+          "activity_type": "Protein Expression Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Energy production was up-regulated in both hiPSCs vs. hESC"
+          },
+          "core_biological_function": "Cellular energy metabolism",
+          "relevant_activity_context": "Proteomic comparison between hiPSCs and hESC",
+          "performance_or_health_indicator": "Indicates differences in metabolic profiles between hiPSCs and hESC, with hiPSCs exhibiting higher energy production activity"
+        },
+        {
+          "biomarker_name": "IGF2BP1",
+          "measured_tissue_or_fluid": "hESC or hiPSC (cell lines)",
+          "activity_type": "Gene Transcript or Protein Level (previously demonstrated by gene expression or proteomic analysis)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Over-expression in hESC or hiPSC was demonstrated previously by gene expression or proteomic analysis. Included in a panel of markers confirmed to be differentially expressed in analyzed hiPSCs compared to somatic cells."
+          },
+          "core_biological_function": "Involved in stemness maintenance and regulation of pluripotency.",
+          "relevant_activity_context": "Stemness maintenance and regulation of pluripotency in hESC and hiPSC.",
+          "performance_or_health_indicator": "Marker for stemness and pluripotency in hESC and hiPSC."
+        }
+      ]
+    }
+  }
+]

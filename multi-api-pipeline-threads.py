@@ -37,8 +37,8 @@ except ImportError:
 API_PROVIDER = "GEMINI" 
 
 MOCK_MODE = False
-CHUNK_FOLDER = "chunks_gemini_semantic_serial3"
-OUTPUT_DIR_PHASE1 = "semantic_serial_results_threads_final"
+CHUNK_FOLDER = "chunks_gemini_semantic_serial3.2"
+OUTPUT_DIR_PHASE1 = "semantic_serial_results_threads_final2"
 
 
 # --- API KEYS AND MODEL MAPPING (Laden aus Umgebungsvariablen) ---

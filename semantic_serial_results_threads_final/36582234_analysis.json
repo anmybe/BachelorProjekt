@@ -1,0 +1,304 @@
+[
+  {
+    "title": "pmc Front Immunol Front Immunol Front. Immunol. Frontiers in Immunology 1664-3224 Frontiers Media S.A. 9792979 10.3389/fimmu.2022.1070994 Immunology Review A scoping review of regulatory T cell dynamics in convalescent COVID-19 patients \u2013 indications for their potential involvement in the development of Long COVID? Haunhorst Simon 1 Bloch Wilhelm 2 Javelle Florian 2 Kr\u00fcger Karsten 3 Baumgart Sabine 4 Drube Sebastian 4 Lemh\u00f6fer Christina 5 Reuken Philipp 6 Stallmach Andreas 6 7 M\u00fcller Michael 8 Zielinski Christina E. 8 Pletz Mathias W. 4 7 9 Gabriel Holger H. W. 1 Puta Christian 1 7 10 * 1 Department of Sports Medicine and Health Promotion, Friedrich-Schiller-University Jena , Jena , Germany 2 Department for Molecular and Cellular Sports Medicine, Institute for Cardiovascular Research and Sports Medicine, German Sport University Cologne , Cologne , Germany 3 Department of Exercise Physiology and Sports Therapy, Institute of Sports Science, Justus-Liebig-University Giessen , Giessen , Germany 4 Institute for Immunology, Jena University Hospital , Jena , Germany 5 Institute of Physiotherapy, Jena University Hospital , Jena , Germany 6 Clinic for Internal Medicine IV (Gastroenterology, Hepatology and Infectious Diseases), Jena University Hospital , Jena , Germany 7 Center for Sepsis Control and Care (CSCC), Jena University Hospital/Friedrich-Schiller-University Jena , Jena , Germany 8 Department of Infection Immunology, Leibniz Institue for Natural Product Research and Infection Biology, Hans Kn\u00f6ll Institute , Jena , Germany 9 Institute for Infectious Diseases and Infection Control, Jena University Hospital , Jena , Germany 10 Center for Interdisciplinary Prevention of Diseases related to Professional Activities , Jena , Germany Edited by: Rubeshan Perumal, Centre for the AIDS Programme of Research in South Africa, South Africa Reviewed by: Waleed Mahallawi, Taibah University, Saudi Arabia; Jing Sun, Guangzhou Medical University, China *Correspondence: Christian Puta, christian.puta@uni-jena.de This article was submitted to Viral Immunology, a section of the journal Frontiers in Immunology 13 12 2022 2022 13 12 2022 13 1070994 15 10 2022 28 11 2022 Copyright \u00a9 2022 Haunhorst, Bloch, Javelle, Kr\u00fcger, Baumgart, Drube, Lemh\u00f6fer, Reuken, Stallmach, M\u00fcller, Zielinski, Pletz, Gabriel and Puta 2022 Haunhorst, Bloch, Javelle, Kr\u00fcger, Baumgart, Drube, Lemh\u00f6fer, Reuken, Stallmach, M\u00fcller, Zielinski, Pletz, Gabriel and Puta https://creativecommons.org/licenses/by/4.0/ This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms. Background Recovery from coronavirus disease 2019 (COVID-19) can be impaired by the persistence of symptoms or new-onset health complications, commonly referred to as Long COVID. In a subset of patients, Long COVID is associated with immune system perturbations of unknown etiology, which could be related to compromised immunoregulatory mechanisms. Objective The objective of this scoping review was to summarize the existing literature regarding the frequency and functionality of Tregs in convalescent COVID-19 patients and to explore indications for their potential involvement in the development of Long COVID Design A systematic search of studies investigating Tregs during COVID-19 convalescence was conducted on MEDLINE ( via Pubmed) and Web of Science. Results The literature search yielded 17 relevant studies, of which three included a distinct cohort of patients with Long COVID. The reviewed studies suggest that the Treg population of COVID-19 patients can reconstitute quantitatively and functionally during recovery. However, the comparison between recovered and seronegative controls revealed that an infection-induced dysregulation of the Treg compartment can be sustained for at least several months. The small number of studies investigating Tregs in Long COVID allowed no firm conclusions to be drawn about their involvement in the syndrome\u2019s etiology. Yet, even almost one year post-infection Long COVID patients exhibit significantly altered proportions of Tregs within the CD4+ T cell population. Conclusions Persistent alterations in cell frequency in Long COVID patients indicate that Treg dysregulation might be linked to immune system-associated sequelae. Future studies should aim to address the association of Treg adaptations with different symptom clusters and blood parameters beyond the sole quantification of cell frequencies while adhering to consensualized phenotyping strategies. regulatory T cells (T reg) COVID-19 SARS-CoV-2 Long Covid immune system adaptive immunity 1 Introduction Infections with the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the pathogen responsible for the ongoing coronavirus disease 2019 (COVID-19) pandemic, manifest with varying severity. The clinical spectrum ranges from asymptomatic/mild disease to severe pneumonia and respiratory distress syndrome that can ultimately lead to death ( 1 , 2 ). Although the majority of patients experience moderate symptoms such as fever, cough, dyspnea, loss of smell and taste or sore throat, it has been highlighted that COVID-19 can include multi-system complications, such as thrombotic events, vasculitis and myocarditis ( 3 \u2013 5 ). In addition to that, the clinical spectrum of COVID-19 encompasses acute immunopathology. Specifically, dysfunctional cellular and humoral immune responses characterized by exaggerated cytokine release, lymphopenia and new onset or aggravated autoimmunity are associated with negative disease outcomes ( 1 , 6 \u2013 9 ). It is estimated that approximately one in eight patients who contracted COVID-19 experience symptoms beyond the acute symptomatic phase, as reported by a recent observational cohort study ( 10 ). The World Health Organization (WHO) defines these sequelae, by common usage now also referred to as \u201cLong COVID\u201d, as a post-COVID-19 condition that usually occurs three months after a confirmed or probable SARS-CoV-2 infection with a set of new-onset, persistent or fluctuating symptoms that last for at least two months ( 11 ). The most common symptoms in this context are fatigue, exercise intolerance, post-exertional malaise, difficulty breathing, headache, muscle pain, tachycardia, concentration deficits and diminished quality of life ( 12 \u2013 15 ). In this context, it bears noting that the overall prevalence and types of symptoms can vary depending on the COVID-19 disease severity. Specifically, the proportion of patients that experience residual symptoms appears to be higher among previously hospitalized patients ( 16 \u2013 18 ). In addition, the results of a clustering analysis conducted as a part of the REACT-2 study suggest that patients with severe initial symptoms report post-acute respiratory symptoms more often than those with mild or asymptomatic COVID-19 whose symptomatology is rather fatigue-dominant ( 19 ). Likewise, recent evidence suggests that those who had one or multiple reinfections exhibit an increased risk of experiencing post-acute sequelae compared to those who were infected once ( 20 ). The pathophysiological mechanisms involved in the devolvement of Long COVID remain to be elucidated, with a range of theories currently under discussion. Merad et al. ( 21 ), for instance, postulated that immunopathological processes, such as chronic inflammation with viral persistence, post-viral autoimmunity, microbiome dysbiosis and unrepaired tissue damage might contribute to the pathophysiology of the Long COVID phenotype. In line with that, it has been documented that affected patients exhibit a significant elevation of multiple inflammatory markers compared to recovered subjects, indicating a dysregulated and overactive immune system ( 22 , 23 ). Correspondingly, the triad of pro-inflammatory cytokines IL-1\u03b2, IL-6 and TNF-\u03b1 showed a significant correlation with persistent symptoms of COVID-19 at an eight-months follow-up ( 24 ). In addition, the discovery of functional autoantibodies specific to G-protein coupled receptors ( 25 ) has been linked to an autonomic dysregulation and assumed to be a cause of residual symptoms ( 26 ). Despite this, components of the immune system that regulate and fine-tune (auto)immune responses, favoring immune homeostasis, such as regulatory T cells (Tregs), have only been investigated sparsely in COVID-19 convalescence and Long COVID. Tregs are a dynamic CD4 + T cell subpopulation that is characterized by CD25 (IL-2 receptor \u03b1-chain) upregulation, CD127 (IL-7 receptor \u03b1-chain) downregulation and expression of the transcription factor forkhead box P3 (FoxP3) that is considered the master regulator of Treg development ( 27 \u2013 30 ). It is estimated that 80% of the peripheral cell repertoire is represented by functionally mature natural Tregs that develop in the thymus as antigen-primed cells ( 31 , 32 ), while peripherally-derived Tregs are induced from na\u00efve T cells upon antigen encounter ( 32 \u2013 34 ) ( Figure 1 ). During self-directed and pathogen-directed immune responses, activated Tregs exert suppressive effects on effector cells and antigen-presenting cells, for example, through the secretion of the inhibitory cytokines IL-10, IL-35 and TGF-\u03b2, by limiting the amount of IL-2 available for conventional T cells or by stimulating the formation of indoleamine 2, 3-dioxygenase ( 28 , 35 ) ( Figure 1 ). In this way, Tregs promote self-tolerance and prevent excessive inflammation, which makes their proper functioning indispensable for a balanced immune response. Correspondingly, diseases such as type 1 diabetes, multiple sclerosis, lupus erythematosus and rheumatoid arthritis are associated with functional deficiencies in the Treg compartment and altered cell frequencies ( 36 , 37 ). Studying COVID-19, previous reviews have already made an effort to characterize Tregs during the acute phase of a SARS-CoV-2-infection ( 38 \u2013 41 ). Although evidence exists that alterations in the Treg compartment might contribute to the immunopathology of COVID-19, the literature concerning their functionality and frequency during the acute illness is controversial. Nevertheless, a trend toward functional impairments and decreased levels of circulating Tregs in severe cases of COVID-19 has been reported previously ( 38 \u2013 40 ). It was shown that patients dying from COVID-19 exhibited significantly lower Treg counts and higher Th17/Treg ratio compared to recovered and healthy controls ( 42 \u2013 44 ) and that low Treg counts at hospital admission were associated with clinical worsening and longer duration to discharge ( 45 , 46 ). Correspondingly, several studies demonstrated a downregulation of FoxP3 in severe cases of COVID-19 ( 44 , 47 \u2013 49 ). Given the aforementioned evidence suggesting that an ongoing inflammatory profile, autoantibody formation, inflammatory tissue damage, SARS-CoV-2 persistence and viral reactivation (herpes virus family) likely contribute to the persistence of symptoms, it is conceivable that Tregs are involved in the pathophysiology of Long COVID ( 50 ). Yet, there exist uncertainties concerning the longitudinal dynamics of the Treg population during recovery from COVID-19, and it remains unclear if Treg dysfunction is involved in the immunopathology of Long COVID. Therefore, we aimed to summarize the existing literature on the frequency (e.g., absolute counts, relative frequency) and functionality (e.g., cytokine secretion, ex vivo suppressive capacity) of Tregs in convalescent COVID-19 patients with and without persisting symptoms and to explore indications for their potential involvement in the development of Long COVID.",
+    "document_source_id": "36582234",
+    "analysis_date": "2025-12-10",
+    "extracted_data": {
+      "document_summary": "This scoping review synthesizes existing literature on the frequency, function, and dynamics of regulatory T cells (Tregs) and their subsets in convalescent COVID-19 patients, including those with Long COVID, comparing them to acutely ill patients and seronegative controls. The review concludes that while Treg populations can quantitatively and functionally reconstitute during recovery, an infection-induced dysregulation often persists for several months. Findings reveal varied outcomes for total Treg frequencies, but distinct patterns for specific Treg subsets, FoxP3 expression, and cytokine production. Long COVID patients consistently exhibit significantly altered proportions of Tregs, indicating persistent immune dysregulation potentially contributing to the syndrome's pathophysiology and viral persistence, despite methodological heterogeneity across studies.",
+      "treatment_details": {
+        "therapy_type": "Scoping Review of Regulatory T Cell Dynamics in COVID-19 Convalescence and Long COVID",
+        "dose_specificity": "This scoping review systematically investigated the frequency (e.g., absolute counts, relative frequency) and functionality (e.g., cytokine secretion, ex vivo suppressive capacity) of regulatory T cells (Tregs) and their subsets in convalescent COVID-19 patients, including those with Long COVID. Studies included comparisons across different initial disease severities (asymptomatic, mild, severe, fatal), hospitalization statuses, and various stages of convalescence (ranging from 4 weeks to ~1 year post-infection), and against acute COVID-19 cases or seronegative controls. The literature search was conducted on MEDLINE (via Pubmed) and Web of Science up to July 23, 2022. No therapeutic interventions or dose-response comparisons were directly reported as this is a review of observational studies. The reviewed studies showed methodological heterogeneity in subject recruitment and Treg phenotyping strategies, and most subjects were likely unvaccinated and contracted wild-type SARS-CoV-2."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "Regulatory T cells (Tregs)",
+          "measured_tissue_or_fluid": "Peripheral Blood, Bronchoalveolar Lavage Fluid, and Systemic (implied)",
+          "activity_type": "Cell frequency (absolute counts and proportions), cell functionality (suppressive capacity, cytokine production), and compartment dysregulation",
+          "measured_effect": {
+            "direction_of_change": "altered, lower, higher, unchanged, expansion, decreased ratio, variable, closer to normal, significantly different/not returned to normal, dynamic changes",
+            "magnitude_quantification": "The dynamics of Tregs are complex and often dysregulated post-COVID-19. In acute severe COVID-19, there is a trend towards decreased frequency, functional impairment, lower counts, and higher Th17/Treg ratios, particularly in fatal cases or those with clinical worsening. During convalescence, Treg populations show signs of reconstitution, with some studies reporting greater relative frequencies, expansion, and enhanced function compared to severe acute cases. However, persistent dysregulation is frequently observed, with altered proportions that can be sustained for several months, often not returning to seronegative control levels even after 8 months. In Long COVID patients, there are contradictory findings, with some studies showing significantly higher Treg frequencies and others reporting lower proportions compared to recovered or seronegative controls, indicating complex and variable immune responses that might contribute to persistent symptoms or viral shedding. Treg proportion was higher in the bronchoalveolar lavage fluid than in blood in severe COVID-19."
+          },
+          "core_biological_function": "Immune regulation, maintenance of immunological homeostasis, promotion of self-tolerance, and prevention of excessive inflammation by suppressing effector cells and antigen-presenting cells.",
+          "relevant_activity_context": "Across acute, convalescent, and Long COVID phases of SARS-CoV-2 infection; comparisons between different disease severities (asymptomatic, mild, severe, fatal), hospitalization statuses, and recovery trajectories (early vs. late convalescence, up to ~1 year post-infection); also in the context of viral shedding and specific tissue (e.g., lungs).",
+          "performance_or_health_indicator": "Treg dynamics are critical indicators of immune system status during and after COVID-19. Decreased frequency or impaired function during acute severe disease contribute to immunopathology and negative outcomes (e.g., longer hospital stays, fatality). During convalescence, Treg reconstitution generally signifies healthy immune recovery and inflammation resolution, though persistent dysregulation is frequently observed, which can impact immunological homeostasis for months. In Long COVID, altered and often contradictory Treg profiles suggest complex immune dysregulation that may contribute to persistent symptoms, inflammation, or prolonged viral shedding."
+        },
+        {
+          "biomarker_name": "FoxP3",
+          "measured_tissue_or_fluid": "Peripheral Blood, Draining Lymph Node Cells, Lungs (autopsied patients)",
+          "activity_type": "Protein Expression, Cell Proportion",
+          "measured_effect": {
+            "direction_of_change": "higher, lower, significantly greater",
+            "magnitude_quantification": "Expression is generally higher in recovered or convalescent patients (especially post-asymptomatic infection) compared to severe acute cases, hospitalized patients, or fatal cases. Lower FoxP3 expression is noted in severe or fatal cases and in Long COVID patients, with 121 Long COVID patients exhibiting significantly lower proportions of FoxP3-expressing CD4+ cells compared to seronegative controls. In vitro stimulation with omicron variant peptide showed significantly greater FoxP3 expression in draining lymph node cells."
+          },
+          "core_biological_function": "Master transcription factor essential for regulatory T cell (Treg) development, maintenance, and function, mediating immune suppression and potentially signaling a switch from effector to regulatory T cell programs.",
+          "relevant_activity_context": "Across COVID-19 disease spectrum: acute severe/fatal, mild initial disease, hospitalized vs. recovered, asymptomatic infection convalescence, Long COVID, and in vitro antigen stimulation.",
+          "performance_or_health_indicator": "Higher expression is associated with improved recovery and immune regulation. Lower expression is a marker of impaired Treg function or reduced Treg numbers, contributing to severe disease outcomes, immunopathology, and potentially persistent inflammation in Long COVID. Increased expression can also signify a pathogen-driven immune evasion strategy."
+        },
+        {
+          "biomarker_name": "IL-10",
+          "measured_tissue_or_fluid": "Peripheral Blood, Lungs (autopsied patients), and Immune system (general)",
+          "activity_type": "Protein Production/Expression (cytokine)",
+          "measured_effect": {
+            "direction_of_change": "higher, no significant difference, limited, upregulating",
+            "magnitude_quantification": "Generally higher production/expression in recovered patients compared to severe acute cases. No significant difference in production in asymptomatic recovery compared to seronegative controls. Limited production observed in fatal COVID-19 cases. Pathogens can upregulate its expression for immune modulation."
+          },
+          "core_biological_function": "Key immunosuppressive cytokine involved in maintaining immune tolerance, regulating inflammation, dampening effector cell responses, and mediating Treg suppressive function.",
+          "relevant_activity_context": "Across COVID-19 severity (recovered vs. severe/fatal), asymptomatic recovery, and in the context of pathogen immune evasion.",
+          "performance_or_health_indicator": "Higher levels are associated with improved recovery and effective immune regulation. Limited production in fatal cases points to profound Treg dysfunction. Normalization in asymptomatic recovery indicates successful immune resolution. Pathogen-induced upregulation suggests a mechanism for immune evasion."
+        },
+        {
+          "biomarker_name": "Treg suppressive function",
+          "measured_tissue_or_fluid": "In vitro (from Peripheral Blood cells)",
+          "activity_type": "Functional Activity",
+          "measured_effect": {
+            "direction_of_change": "higher, no significant difference, greater",
+            "magnitude_quantification": "Generally higher in recovered/recovering patients compared to severely ill acute cases. No significant difference in asymptomatic recovery compared to seronegative controls. Greater suppressive function observed in recovering subjects compared to severe acute disease."
+          },
+          "core_biological_function": "Immune regulation, preventing excessive immune responses and autoimmunity by suppressing effector T cells.",
+          "relevant_activity_context": "Comparison between recovered and severely ill COVID-19 patients, comparison of Treg cytokine release and suppressive function between previously asymptomatic COVID-19 patients and seronegative controls, recovery from severe acute SARS-CoV-2 infection.",
+          "performance_or_health_indicator": "Higher function indicates more effective immune control and better recovery outcomes. Normalization in asymptomatic recovery suggests successful immune resolution. Impaired function in severe cases contributes to immunopathology."
+        },
+        {
+          "biomarker_name": "Na\u00efve Regulatory T cells (Tregs) (CD4+CD25highCD127lowCD45RA+CD62L+)",
+          "measured_tissue_or_fluid": "Peripheral Blood",
+          "activity_type": "Cell Frequency",
+          "measured_effect": {
+            "direction_of_change": "more frequent, increased, further increased, decreased towards normal",
+            "magnitude_quantification": "Initially more frequent (increased proportions) in convalescent patients (12 weeks post-infection) compared to seronegative controls, further increasing from 14-90 days to 91-180 days post-infection, then normalizing towards seronegative control levels by 16-24 weeks post-infection."
+          },
+          "core_biological_function": "Newly formed Tregs with high suppressive capacity, crucial for initiating and maintaining immune tolerance.",
+          "relevant_activity_context": "Convalescent COVID-19 patients (12 weeks to 24 weeks post-infection) compared to seronegative controls, with longitudinal assessment.",
+          "performance_or_health_indicator": "Dynamic changes reflect a shift in Treg subset composition, indicating an adaptive immune response or ongoing immune regulation during convalescence, with normalization suggesting resolution of immune perturbation."
+        },
+        {
+          "biomarker_name": "Effector Memory Regulatory T cells expressing CD45RA (TEMRA) (CD4+CD25highCD127lowCD45RA+CD62L-)",
+          "measured_tissue_or_fluid": "Peripheral Blood",
+          "activity_type": "Cell Frequency",
+          "measured_effect": {
+            "direction_of_change": "more frequent, greater, decreased towards normal",
+            "magnitude_quantification": "Initially more frequent (greater) in convalescent patients (12 weeks post-infection) compared to seronegative controls, subsequently decreasing towards seronegative control values by 16-24 weeks post-infection."
+          },
+          "core_biological_function": "Terminally differentiated Tregs with immediate effector functions, involved in rapid immune suppression.",
+          "relevant_activity_context": "Comparison between convalescent COVID-19 patients (12 weeks post-infection) and seronegative controls, longitudinal assessment during COVID-19 convalescence (up to 24 weeks post-infection).",
+          "performance_or_health_indicator": "Initial expansion suggests an active but transient role for highly differentiated suppressive T cells in post-acute immune resolution, followed by normalization during convalescence."
+        },
+        {
+          "biomarker_name": "Central Memory Regulatory T cells (Tregs) (CD4+CD25highCD127lowCD45RA-CD62L+)",
+          "measured_tissue_or_fluid": "Peripheral Blood",
+          "activity_type": "Cell Frequency",
+          "measured_effect": {
+            "direction_of_change": "lower, decreased, increased towards normal",
+            "magnitude_quantification": "Initially lower in convalescent patients (12 weeks post-infection) compared to seronegative controls, decreasing further from 14-90 days to 91-180 days post-infection, then increasing towards seronegative control values by 16-24 weeks post-infection."
+          },
+          "core_biological_function": "Memory Tregs involved in long-term immune surveillance, capable of rapid proliferation and differentiation upon antigen re-encounter.",
+          "relevant_activity_context": "Comparison between convalescent COVID-19 patients (12 weeks post-infection) and seronegative controls, longitudinal assessment during COVID-19 convalescence (14-180 days, and up to 24 weeks post-infection).",
+          "performance_or_health_indicator": "A shift in central memory Treg dynamics during recovery, initially declining then normalizing, reflects immune reconstitution and potentially altered long-term immune surveillance."
+        },
+        {
+          "biomarker_name": "Effector Memory Regulatory T cells (Tregs) (CD4+CD25highCD127lowCD45RA-CD62L-)",
+          "measured_tissue_or_fluid": "Peripheral Blood",
+          "activity_type": "Cell Frequency",
+          "measured_effect": {
+            "direction_of_change": "lower, increased towards normal",
+            "magnitude_quantification": "Initially lower in convalescent patients (12 weeks post-infection) compared to seronegative controls, then increasing towards seronegative control values by 16-24 weeks post-infection."
+          },
+          "core_biological_function": "Mature Tregs with immediate effector function, typically residing in non-lymphoid tissues.",
+          "relevant_activity_context": "Comparison between convalescent COVID-19 patients (12 weeks post-infection) and seronegative controls, longitudinal assessment during COVID-19 convalescence (up to 24 weeks post-infection).",
+          "performance_or_health_indicator": "Initial decline followed by a return towards baseline reflects dynamic immune reconstitution and a specific alteration in more differentiated, tissue-homing Treg populations post-COVID-19."
+        },
+        {
+          "biomarker_name": "IL-6 (Interleukin-6)",
+          "measured_tissue_or_fluid": "Systemic and Tissue-level",
+          "activity_type": "Concentration",
+          "measured_effect": {
+            "direction_of_change": "surge, persistently high",
+            "magnitude_quantification": "Acute surge in severe COVID-19 due to exaggerated innate immune response, and persistently high systemic and tissue-level concentrations in Long COVID."
+          },
+          "core_biological_function": "Pro-inflammatory cytokine, antagonizes Treg generation and FoxP3 induction, promotes pro-inflammatory Th17 cell profile.",
+          "relevant_activity_context": "Acute severe COVID-19 illness, Long COVID.",
+          "performance_or_health_indicator": "Elevated IL-6 contributes to acute Treg reduction and severe COVID-19 immunopathology. Persistently high levels in Long COVID could subvert Treg regulatory capacity, indicating ongoing inflammation."
+        },
+        {
+          "biomarker_name": "Th17 cells",
+          "measured_tissue_or_fluid": "Not specified, implied systemic",
+          "activity_type": "Expansion/profile",
+          "measured_effect": {
+            "direction_of_change": "expansion, promotion of pro-inflammatory profile",
+            "magnitude_quantification": "Th17 cell expansion; promoting a pro-inflammatory Th17 cell profile; a positive correlation between IL-6 and Th17."
+          },
+          "core_biological_function": "Pro-inflammatory immune response.",
+          "relevant_activity_context": "Severe acute COVID-19 illness.",
+          "performance_or_health_indicator": "Linked to decreased relative Treg frequency, promoted by IL-6 surge, contributes to immunopathology."
+        },
+        {
+          "biomarker_name": "Th17/Treg ratio",
+          "measured_tissue_or_fluid": "Not specified, implied systemic",
+          "activity_type": "Ratio",
+          "measured_effect": {
+            "direction_of_change": "greater",
+            "magnitude_quantification": "A greater Th17/Treg ratio has been documented in severe cases of COVID-19."
+          },
+          "core_biological_function": "Balance between pro-inflammatory and regulatory immune responses.",
+          "relevant_activity_context": "Severe acute COVID-19 illness.",
+          "performance_or_health_indicator": "Associated with severe COVID-19, indicating an imbalance favoring inflammation."
+        },
+        {
+          "biomarker_name": "CD4+ lymphocytes",
+          "measured_tissue_or_fluid": "Not specified, implied systemic",
+          "activity_type": "Frequency",
+          "measured_effect": {
+            "direction_of_change": "loss",
+            "magnitude_quantification": "Loss of CD4+ lymphocytes, including Tregs, is a prominent clinical feature in severe cases."
+          },
+          "core_biological_function": "Immune response, T cell mediated immunity.",
+          "relevant_activity_context": "Severe acute COVID-19 illness.",
+          "performance_or_health_indicator": "Prominent clinical feature in severe cases, contributes to immunopathology."
+        },
+        {
+          "biomarker_name": "CD8+ T cells",
+          "measured_tissue_or_fluid": "Not specified, implied systemic",
+          "activity_type": "Levels",
+          "measured_effect": {
+            "direction_of_change": "persistently low",
+            "magnitude_quantification": "Persistently low levels of CD8+ T cells six months post-discharge (in severely ill patients with persistently low CD8+ T cell counts)."
+          },
+          "core_biological_function": "Cytotoxic immune response, viral clearance.",
+          "relevant_activity_context": "Six months post-discharge from COVID-19.",
+          "performance_or_health_indicator": "Associated with a higher Treg frequency, potentially indicating an imbalance in immune response hindering viral clearance."
+        },
+        {
+          "biomarker_name": "Neutrophils",
+          "measured_tissue_or_fluid": "Not specified, implied systemic",
+          "activity_type": "Numbers",
+          "measured_effect": {
+            "direction_of_change": "expansion, higher",
+            "magnitude_quantification": "An expansion of neutrophils; an inverse correlation between neutrophil and lymphocyte numbers has been documented in severe cases of COVID-19."
+          },
+          "core_biological_function": "Innate immune response, phagocytosis.",
+          "relevant_activity_context": "Severe acute COVID-19 illness.",
+          "performance_or_health_indicator": "Contributes to immunopathology, excessive tissue infiltration, and acute respiratory distress syndrome."
+        },
+        {
+          "biomarker_name": "Dehydroepiandrosterone sulfate",
+          "measured_tissue_or_fluid": "Not specified",
+          "activity_type": "Levels",
+          "measured_effect": {
+            "direction_of_change": "depleted",
+            "magnitude_quantification": "Depleted in patients with COVID-19."
+          },
+          "core_biological_function": "Important for Treg development, inhibits IL-6, activates Tregs.",
+          "relevant_activity_context": "COVID-19 (general).",
+          "performance_or_health_indicator": "Depletion might contribute to the acute reduction of Tregs."
+        },
+        {
+          "biomarker_name": "Retinoic acid",
+          "measured_tissue_or_fluid": "Not specified",
+          "activity_type": "Levels",
+          "measured_effect": {
+            "direction_of_change": "depleted",
+            "magnitude_quantification": "Depleted in patients with COVID-19."
+          },
+          "core_biological_function": "Essential for Treg differentiation.",
+          "relevant_activity_context": "COVID-19 (general).",
+          "performance_or_health_indicator": "Depletion might contribute to the acute reduction of Tregs."
+        },
+        {
+          "biomarker_name": "TGF-\u03b2",
+          "measured_tissue_or_fluid": "Peripheral Blood, Immune System (general)",
+          "activity_type": "Protein Production/Expression (cytokine)",
+          "measured_effect": {
+            "direction_of_change": "unchanged, upregulation",
+            "magnitude_quantification": "In vitro production of TGF-\u03b2 did not change significantly over time during COVID-19 convalescence. Pathogens can upregulate its expression for immune modulation."
+          },
+          "core_biological_function": "Immunosuppressive cytokine involved in immune regulation, tissue repair, fibrosis, and dampening effector cell responses.",
+          "relevant_activity_context": "Longitudinal assessment of Treg function during COVID-19 convalescence, pathogen-developed mechanisms to use immune regulatory networks for their advantage.",
+          "performance_or_health_indicator": "Stable production during convalescence suggests a consistent role in immune regulation or tissue repair. Pathogen-induced upregulation indicates a mechanism for immune evasion."
+        },
+        {
+          "biomarker_name": "IL-2",
+          "measured_tissue_or_fluid": "Peripheral Blood",
+          "activity_type": "Protein Level (Production)",
+          "measured_effect": {
+            "direction_of_change": "decreased significantly",
+            "magnitude_quantification": "In vitro production of IL-2 decreased significantly over time during COVID-19 convalescence."
+          },
+          "core_biological_function": "Crucial cytokine for T cell proliferation and survival, including Tregs.",
+          "relevant_activity_context": "Longitudinal assessment of Treg function during COVID-19 convalescence.",
+          "performance_or_health_indicator": "Suggests a decline in Treg proliferative capacity or a shift in their functional phenotype during the later stages of COVID-19 recovery."
+        },
+        {
+          "biomarker_name": "Mitochondrial membrane potential",
+          "measured_tissue_or_fluid": "Not specified, implied cellular",
+          "activity_type": "Integrity/level",
+          "measured_effect": {
+            "direction_of_change": "loss",
+            "magnitude_quantification": "A loss of mitochondrial membrane potential."
+          },
+          "core_biological_function": "Essential for mitochondrial metabolism and Treg suppressive function.",
+          "relevant_activity_context": "Long COVID.",
+          "performance_or_health_indicator": "Indicates mitochondrial dysfunction in Long COVID that compromises Treg metabolic integrity and function."
+        },
+        {
+          "biomarker_name": "Glycolysis rates",
+          "measured_tissue_or_fluid": "Not specified, implied cellular",
+          "activity_type": "Rate",
+          "measured_effect": {
+            "direction_of_change": "greater",
+            "magnitude_quantification": "Greater glycolysis rates."
+          },
+          "core_biological_function": "Cellular energy metabolism.",
+          "relevant_activity_context": "Long COVID.",
+          "performance_or_health_indicator": "Indicates mitochondrial dysfunction in Long COVID that compromises Treg metabolic integrity and function."
+        },
+        {
+          "biomarker_name": "Oxidative stress",
+          "measured_tissue_or_fluid": "Not specified, implied cellular/tissue",
+          "activity_type": "Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Higher oxidative stress."
+          },
+          "core_biological_function": "Cellular damage due to reactive oxygen species.",
+          "relevant_activity_context": "Long COVID.",
+          "performance_or_health_indicator": "Indicates mitochondrial dysfunction in Long COVID that compromises Treg metabolic integrity and function."
+        },
+        {
+          "biomarker_name": "TNF (Tumor Necrosis Factor)",
+          "measured_tissue_or_fluid": "Systemic and tissue-level",
+          "activity_type": "Concentration",
+          "measured_effect": {
+            "direction_of_change": "persistently high",
+            "magnitude_quantification": "Persistently high systemic and tissue-level concentrations of inflammatory cytokines like TNF."
+          },
+          "core_biological_function": "Pro-inflammatory cytokine.",
+          "relevant_activity_context": "Long COVID.",
+          "performance_or_health_indicator": "Could subvert the Tregs' regulatory capacity, indicating persistent inflammation."
+        },
+        {
+          "biomarker_name": "Treg population with high expression of class II HLA molecules",
+          "measured_tissue_or_fluid": "Peripheral Blood",
+          "activity_type": "Gene Transcript (Expression) and Cell Population Expansion",
+          "measured_effect": {
+            "direction_of_change": "expansion",
+            "magnitude_quantification": "Expansion of the Treg population with high expression of class II HLA molecules in patients recovering from asymptomatic infection, relative to all other severity groups."
+          },
+          "core_biological_function": "Immune regulation; class II HLA molecules facilitate antigen presentation, suggesting enhanced contact-mediated suppression of T helper cells.",
+          "relevant_activity_context": "Comparison of patients recovering from asymptomatic COVID-19 infection relative to other severity groups.",
+          "performance_or_health_indicator": "Suggests a unique and potentially highly effective immune regulatory mechanism in asymptomatic recovery, possibly contributing to the mild disease course."
+        },
+        {
+          "biomarker_name": "Effector Regulatory T cell populations",
+          "measured_tissue_or_fluid": "Peripheral Blood",
+          "activity_type": "Cell Frequency",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Lower effector Treg populations in previously hospitalized patients compared to those with mild initial disease."
+          },
+          "core_biological_function": "Directly suppressive Tregs, often found at sites of inflammation.",
+          "relevant_activity_context": "Comparison between patients recovering from severe (hospitalized) and mild initial COVID-19 disease.",
+          "performance_or_health_indicator": "Lower effector Tregs might suggest a dampened or altered immune suppressive response in patients who experienced more severe initial COVID-19."
+        }
+      ]
+    }
+  }
+]

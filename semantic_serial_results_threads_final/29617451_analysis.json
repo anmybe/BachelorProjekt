@@ -1,0 +1,256 @@
+[
+  {
+    "title": "PLoS One PLoS ONE plos plosone PLoS ONE 1932-6203 Public Library of Science San Francisco, CA USA 5884535 10.1371/journal.pone.0194844 PONE-D-17-39887 Research Article Research and Analysis Methods Mathematical and Statistical Techniques Statistical Methods Meta-Analysis Physical Sciences Mathematics Statistics (Mathematics) Statistical Methods Meta-Analysis Biology and Life Sciences Genetics Gene Expression Biology and Life Sciences Biochemistry Biomarkers Research and Analysis Methods Bioassays and Physiological Analysis Microarrays Biology and Life Sciences Biochemistry Metabolism Metabolic Processes Medicine and Health Sciences Diagnostic Medicine Cancer Detection and Diagnosis Medicine and Health Sciences Oncology Cancer Detection and Diagnosis Biology and life sciences Molecular biology Molecular biology techniques Biomolecular isolation RNA isolation Research and analysis methods Molecular biology techniques Biomolecular isolation RNA isolation Computer and Information Sciences Information Technology Data Processing Integrative multi-platform meta-analysis of gene expression profiles in pancreatic ductal adenocarcinoma patients for identifying novel diagnostic biomarkers Integrative multi-platform meta-analysis to identify biomarkers in pancreatic cancer Irigoyen Antonio Conceptualization Resources 1 Jimenez-Luna Cristina Investigation Methodology 2 Benavides Manuel Investigation Methodology 3 http://orcid.org/0000-0003-3426-8294 Caba Octavio Conceptualization Funding acquisition Investigation Writing \u2013 original draft Writing \u2013 review & editing 4 * Gallego Javier Investigation 5 Ortu\u00f1o Francisco Manuel Data curation Formal analysis 6 Guillen-Ponce Carmen Investigation Methodology 7 Rojas Ignacio Data curation Investigation 6 Aranda Enrique Investigation Methodology 8 Torres Carolina Investigation 9 Prados Jose Conceptualization Writing \u2013 original draft Writing \u2013 review & editing 2 1 Department of Medical Oncology, Virgen de la Salud Hospital, Toledo, Spain 2 Institute of Biopathology and Regenerative Medicine (IBIMER), Center of Biomedical Research (CIBM), University of Granada, Granada, Spain 3 Department of Medical Oncology, Virgen de la Victoria Hospital, Malaga, Spain 4 Department of Health Sciences, University of Jaen, Jaen, Spain 5 Department of Medical Oncology, University General Hospital of Elche, Alicante, Spain 6 Department of Computer Architecture and Computer Technology, Research Center for Information and Communications Technologies, University of Granada, Granada, Spain 7 Department of Medical Oncology, Hospital Ram\u00f3n y Cajal Hospital, Madrid, Spain 8 Maimonides Institute of Biomedical Research (IMIBIC), Reina Sofia Hospital, University of Cordoba, Cordoba, Spain 9 Department of Biochemistry and Molecular Biology I, Faculty of Sciences, University of Granada, Granada, Spain Batra Surinder K. Editor University of Nebraska Medical Center, UNITED STATES Competing Interests: I have read the journal's policy and the authors of this manuscript have the following competing interests: Manuel Benavides has received honoraria from Roche and honoraria for advisory role from Roche. Carmen Guillen-Ponce has received honoraria from Roche; honoraria for advisory role from Roche Pharma, Bayer, Merck Serono, Sanofi Aventis, Celgene y Novocure; other remuneration from Celgene, Roche Pharma, Sanofi Aventis, Merck Serono. Enrique Aranda has received honoraria for advisory role from Amgen, Bayer, Celgene, Merck, Roche, Sanofi. The other authors have stated that they have no conflicts of interest. This does not alter our adherence to PLOS ONE policies on sharing data and materials. * E-mail: ocaba@ujaen.es 4 4 2018 2018 13 4 e0194844 10 11 2017 9 3 2018 \u00a9 2018 Irigoyen et al 2018 Irigoyen et al This is an open access article distributed under the terms of the Creative Commons Attribution License , which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited. Applying differentially expressed genes (DEGs) to identify feasible biomarkers in diseases can be a hard task when working with heterogeneous datasets. Expression data are strongly influenced by technology, sample preparation processes, and/or labeling methods. The proliferation of different microarray platforms for measuring gene expression increases the need to develop models able to compare their results, especially when different technologies can lead to signal values that vary greatly. Integrative meta-analysis can significantly improve the reliability and robustness of DEG detection. The objective of this work was to develop an integrative approach for identifying potential cancer biomarkers by integrating gene expression data from two different platforms. Pancreatic ductal adenocarcinoma (PDAC), where there is an urgent need to find new biomarkers due its late diagnosis, is an ideal candidate for testing this technology. Expression data from two different datasets, namely Affymetrix and Illumina (18 and 36 PDAC patients, respectively), as well as from 18 healthy controls, was used for this study. A meta-analysis based on an empirical Bayesian methodology (ComBat) was then proposed to integrate these datasets. DEGs were finally identified from the integrated data by using the statistical programming language R. After our integrative meta-analysis, 5 genes were commonly identified within the individual analyses of the independent datasets. Also, 28 novel genes that were not reported by the individual analyses (\u2018gained\u2019 genes) were also discovered. Several of these gained genes have been already related to other gastroenterological tumors. The proposed integrative meta-analysis has revealed novel DEGs that may play an important role in PDAC and could be potential biomarkers for diagnosing the disease. http://dx.doi.org/10.13039/501100004587 Instituto de Salud Carlos III DTS15/00201 http://orcid.org/0000-0003-3426-8294 Caba Octavio Universidad de Granada (ES) 15/13 http://orcid.org/0000-0003-3426-8294 Caba Octavio http://dx.doi.org/10.13039/501100003329 Ministerio de Econom\u00eda y Competitividad TIN2015-71873-R Rojas Ignacio http://dx.doi.org/10.13039/501100002878 Consejer\u00eda de Econom\u00eda, Innovaci\u00f3n, Ciencia y Empleo, Junta de Andaluc\u00eda P12-TIC-2082 Rojas Ignacio This work was supported by the Instituto de Salud Carlos III (grant number DTS15/00201 to OC), Ministerio de Econom\u00eda y Competitividad (the Spanish Ministry of Economy and Competitiveness) (grant number TIN2015-71873-R to IR), Consejer\u00eda de Salud, Junta de Andaluc\u00eda (PIN-0474-2016 to JP), Consejer\u00eda de Econom\u00eda, Innovaci\u00f3n, Ciencia y Empleo, Junta de Andaluc\u00eda (P12-TIC-2082 to IR) and the University de Granada (grant number 15/13 to OC). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript. Data Availability The data from both microarrays reported in this paper were deposited in the Gene Expression Omnibus (GEO) database ( http://www.ncbi.nlm.nih.gov/geo ) with accession numbers GSE49641 and GSE74629 for the Affymetrix and Illumina platforms, respectively. Data Availability The data from both microarrays reported in this paper were deposited in the Gene Expression Omnibus (GEO) database ( http://www.ncbi.nlm.nih.gov/geo ) with accession numbers GSE49641 and GSE74629 for the Affymetrix and Illumina platforms, respectively.",
+    "document_source_id": "29617451",
+    "analysis_date": "2025-12-09",
+    "extracted_data": {
+      "document_summary": "This study performed an integrative multi-platform meta-analysis of gene expression profiles from Affymetrix and Illumina datasets in pancreatic ductal adenocarcinoma (PDAC) patients and healthy controls to identify novel, robust diagnostic biomarkers. The analysis revealed 5 commonly differentially expressed genes and 28 novel 'gained' genes, suggesting their significant potential for early PDAC diagnosis.",
+      "treatment_details": {
+        "therapy_type": "Integrative meta-analysis of gene expression data for biomarker identification and diagnostic prediction in Pancreatic Ductal Adenocarcinoma (PDAC).",
+        "dose_specificity": "Gene expression data from two independent cohorts of PDAC patients (Affymetrix: 18 PDAC patients; Illumina: 36 PDAC patients) and 18 healthy controls were integrated. Profiling was performed on peripheral blood mononuclear cells (PBMCs) using Affymetrix GeneChip\u00ae Human Gene ST 1.0 Arrays and Illumina HumanHT-12 v4 Expression BeadChip microarray platforms. Data were integrated using an empirical Bayesian methodology (ComBat) for batch effect removal, and differential expression was analyzed with limma software, identifying genes with p<0.01 and at least 1.5-fold differential expression. The analysis identified 5 commonly differentially expressed genes (with individual ROC curve AUC > 0.9) and 28 novel 'gained' genes, which could discriminate PDAC patients from controls with an average sensitivity of 74.8% and specificity of 73.3% for individual gained genes, 100% sensitivity and 94% specificity for combined common genes, and 91% sensitivity and 87% specificity for combined gained genes. No dose-response comparisons were applicable as it is a diagnostic biomarker identification study."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "carbohydrate antigen 19\u20139 (CA19-9)",
+          "measured_tissue_or_fluid": "Not explicitly specified, but typically measured in blood serum for routine clinical use.",
+          "activity_type": "Biomarker (Protein Level, Antigen)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Limited sensitivity (~80%) and specificity (80\u201390%) as a diagnostic tool for PDAC."
+          },
+          "core_biological_function": "Carbohydrate antigen; specific biological function not detailed in this chunk beyond its role as a tumor marker.",
+          "relevant_activity_context": "Routine clinical use for Pancreatic ductal adenocarcinoma (PDAC), also elevated in pancreatitis, benign diseases of the hepatobiliary system, and other malignancies of the gastrointestinal tract.",
+          "performance_or_health_indicator": "Considered an unreliable diagnostic tool for PDAC due to limited sensitivity and specificity; false positives can occur in various benign and malignant conditions."
+        },
+        {
+          "biomarker_name": "Fas apoptotic inhibitory molecule 3 (FAIM3 or TOSO)",
+          "measured_tissue_or_fluid": "Pancreatic Ductal Adenocarcinoma (PDAC) patient samples (gene expression data); generally reported in peripheral blood leukocytes and chronic lymphocytic leukemia cells.",
+          "activity_type": "Gene Expression Level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Downregulation; identified as a differentially expressed gene with individual ROC curve showing AUC > 0.9 for distinguishing PDAC patients from healthy controls."
+          },
+          "core_biological_function": "Encodes an Fc receptor for immunoglobulins (IgM), plays an important role in the immune system, involved in apoptosis regulation.",
+          "relevant_activity_context": "PDAC patients, immune process, IL-2-mediated activation-induced cell death (AICD).",
+          "performance_or_health_indicator": "Decreased expression results in increased apoptosis; increased expression protects T cells from AICD; potential predictor for PDAC diagnosis."
+        },
+        {
+          "biomarker_name": "IL-1 Receptor-Associated Kinase 3 (IRAK3)",
+          "measured_tissue_or_fluid": "Pancreatic Ductal Adenocarcinoma (PDAC) patient samples (gene expression data); generally expressed in monocytes and macrophages.",
+          "activity_type": "Gene Expression Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Upregulation; identified as a differentially expressed gene with individual ROC curve showing AUC > 0.9 for distinguishing PDAC patients from healthy controls."
+          },
+          "core_biological_function": "Leads to immunosuppression, allows communication between tumor cells and macrophages, facilitates cancer progression, triggered by Toll-like receptors (TLRs).",
+          "relevant_activity_context": "PDAC patients, tumor cells, chronic myeloid leukemia, metastatic cancer, inflammation, colorectal cancer.",
+          "performance_or_health_indicator": "Provides a clue about immune evasion by tumor cells; linked to tumor formation and growth; associated with inflammation and colorectal cancer; potential predictor for PDAC diagnosis."
+        },
+        {
+          "biomarker_name": "DENN/MADD Domain Containing 2D gene (DENND2D)",
+          "measured_tissue_or_fluid": "Pancreatic Ductal Adenocarcinoma (PDAC) patient samples (gene expression data); mRNA expression found in esophageal squamous cell carcinoma tissues, hepatocellular carcinoma, lung cancers, immortalized bronchial epithelial cell lines and other precancerous lesions.",
+          "activity_type": "Gene Expression Level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Differentially expressed; mRNA expression level significantly lower in other cancer types; identified as a differentially expressed gene with individual ROC curve showing AUC > 0.9 for distinguishing PDAC patients from healthy controls."
+          },
+          "core_biological_function": "Suggested as a tumor suppressor gene, regulates Rab GTPases which play roles in differentiation, proliferation processes, and regulation of cancer cells.",
+          "relevant_activity_context": "PDAC patients, lung cancer cells, esophageal squamous cell carcinoma, hepatocellular carcinoma.",
+          "performance_or_health_indicator": "Suppresses tumorigenicity and proliferation of lung cancer cells; lower expression associated with various cancers; potential predictor for PDAC diagnosis."
+        },
+        {
+          "biomarker_name": "Phospholipase B Domain Containing 1 (PLBD1)",
+          "measured_tissue_or_fluid": "Pancreatic Ductal Adenocarcinoma (PDAC) patient samples (gene expression data); highly expressed in neutrophils and monocytes.",
+          "activity_type": "Gene Expression Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Elevated expression; identified as a differentially expressed gene with individual ROC curve showing AUC > 0.9 for distinguishing PDAC patients from healthy controls."
+          },
+          "core_biological_function": "Members of this family have been related to antibacterial defense.",
+          "relevant_activity_context": "PDAC patients.",
+          "performance_or_health_indicator": "Potential predictor for PDAC diagnosis."
+        },
+        {
+          "biomarker_name": "1-Acylglycerol-3-Phosphate O-Acyltransferase 9 (AGPAT9 or MAG-1)",
+          "measured_tissue_or_fluid": "Pancreatic Ductal Adenocarcinoma (PDAC) patient samples (gene expression data).",
+          "activity_type": "Gene Expression Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Overexpression; identified as a differentially expressed gene with individual ROC curve showing AUC > 0.9 for distinguishing PDAC patients from healthy controls."
+          },
+          "core_biological_function": "Involved in adaptation to the microenvironment, regulating metabolism and hypoxia, contributing to vascular development (increasing VEGF expression), involved in mTOR pathway activation.",
+          "relevant_activity_context": "PDAC patients, metastatic process in lung cancer.",
+          "performance_or_health_indicator": "Associated with the metastatic process; key in metastatic progression; potential predictor for PDAC diagnosis."
+        },
+        {
+          "biomarker_name": "Annexin A3 (ANXA3)",
+          "measured_tissue_or_fluid": "Pancreatic Ductal Adenocarcinoma (PDAC) patient samples (gene expression data); previously found in PBMC of PC patients.",
+          "activity_type": "Gene Expression Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Upregulated; identified as a novel gained gene, differentially expressed and capable of discriminating between PDAC patients and healthy controls (individual ROC curves showed average sensitivity 74.8% and specificity 73.3%)."
+          },
+          "core_biological_function": "Not explicitly stated.",
+          "relevant_activity_context": "PDAC patients, part of a predictor set of biomarkers in PBMC of PC patients.",
+          "performance_or_health_indicator": "Part of a predictor set of biomarkers for pancreatic cancer."
+        },
+        {
+          "biomarker_name": "Membrane-Spanning 4-Domains Subfamily A Member 1 (MS4A1)",
+          "measured_tissue_or_fluid": "Pancreatic Ductal Adenocarcinoma (PDAC) patient samples (gene expression data); previously found in PBMC of PC patients.",
+          "activity_type": "Gene Expression Level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Downregulated; identified as a novel gained gene, differentially expressed and capable of discriminating between PDAC patients and healthy controls (individual ROC curves showed average sensitivity 74.8% and specificity 73.3%)."
+          },
+          "core_biological_function": "Not explicitly stated.",
+          "relevant_activity_context": "PDAC patients, part of a predictor set of biomarkers in PBMC of PC patients.",
+          "performance_or_health_indicator": "Part of a predictor set of biomarkers for pancreatic cancer."
+        },
+        {
+          "biomarker_name": "Haptoglobin (HP)",
+          "measured_tissue_or_fluid": "Pancreatic Ductal Adenocarcinoma (PDAC) patient samples (gene expression data); fucosylated protein found in serum.",
+          "activity_type": "Gene Expression Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Upregulated; identified as a novel gained gene, differentially expressed and capable of discriminating between PDAC patients and healthy controls (individual ROC curves showed average sensitivity 74.8% and specificity 73.3%)."
+          },
+          "core_biological_function": "Not explicitly stated for the gene, but fucosylated protein in serum is associated with cancers.",
+          "relevant_activity_context": "PDAC patients, hepatocellular, gastric and colon cancers, especially advanced stage PC.",
+          "performance_or_health_indicator": "Presence of fucosylated HP in serum is associated with many cancers, highest incidence observed in advanced stage PC."
+        },
+        {
+          "biomarker_name": "Lipocalin 2 (LCN2)",
+          "measured_tissue_or_fluid": "Pancreatic Ductal Adenocarcinoma (PDAC) patient samples (gene expression data); proposed as a serum marker.",
+          "activity_type": "Gene Expression Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Upregulated; identified as a novel gained gene, differentially expressed and capable of discriminating between PDAC patients and healthy controls (individual ROC curves showed average sensitivity 74.8% and specificity 73.3%)."
+          },
+          "core_biological_function": "Related to the epithelial to mesenchymal transition.",
+          "relevant_activity_context": "PDAC patients, familial PC.",
+          "performance_or_health_indicator": "Increased levels related to epithelial to mesenchymal transition; proposed as a serum marker for familial PC."
+        },
+        {
+          "biomarker_name": "CD177 Molecule (CD177)",
+          "measured_tissue_or_fluid": "Pancreatic Ductal Adenocarcinoma (PDAC) patient samples (gene expression data).",
+          "activity_type": "Gene Expression Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Upregulation; identified as a novel gained gene, differentially expressed and capable of discriminating between PDAC patients and healthy controls (individual ROC curves showed average sensitivity 74.8% and specificity 73.3%)."
+          },
+          "core_biological_function": "Not explicitly stated.",
+          "relevant_activity_context": "PDAC patients, development of different gastrointestinal tumors.",
+          "performance_or_health_indicator": "Related to the development of different gastrointestinal tumors."
+        },
+        {
+          "biomarker_name": "Phospholipid Scramblase 1 (PLSCR1)",
+          "measured_tissue_or_fluid": "Pancreatic Ductal Adenocarcinoma (PDAC) patient samples (gene expression data).",
+          "activity_type": "Gene Expression Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Upregulation; identified as a novel gained gene, differentially expressed and capable of discriminating between PDAC patients and healthy controls (individual ROC curves showed average sensitivity 74.8% and specificity 73.3%)."
+          },
+          "core_biological_function": "Not explicitly stated.",
+          "relevant_activity_context": "PDAC patients, development of different gastrointestinal tumors.",
+          "performance_or_health_indicator": "Related to the development of different gastrointestinal tumors."
+        },
+        {
+          "biomarker_name": "Secretory Leukocyte Peptidase Inhibitor (SLPI)",
+          "measured_tissue_or_fluid": "Pancreatic Ductal Adenocarcinoma (PDAC) patient samples (gene expression data).",
+          "activity_type": "Gene Expression Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Upregulation; identified as a novel gained gene, differentially expressed and capable of discriminating between PDAC patients and healthy controls (individual ROC curves showed average sensitivity 74.8% and specificity 73.3%)."
+          },
+          "core_biological_function": "Not explicitly stated.",
+          "relevant_activity_context": "PDAC patients, development of different gastrointestinal tumors.",
+          "performance_or_health_indicator": "Related to the development of different gastrointestinal tumors."
+        },
+        {
+          "biomarker_name": "S100 Calcium Binding Protein A12 (S100A12)",
+          "measured_tissue_or_fluid": "Pancreatic Ductal Adenocarcinoma (PDAC) patient samples (gene expression data).",
+          "activity_type": "Gene Expression Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Upregulation; identified as a novel gained gene, differentially expressed and capable of discriminating between PDAC patients and healthy controls (individual ROC curves showed average sensitivity 74.8% and specificity 73.3%)."
+          },
+          "core_biological_function": "Not explicitly stated.",
+          "relevant_activity_context": "PDAC patients, development of different gastrointestinal tumors.",
+          "performance_or_health_indicator": "Related to the development of different gastrointestinal tumors."
+        },
+        {
+          "biomarker_name": "Integrin Beta 3 (ITGB3)",
+          "measured_tissue_or_fluid": "Pancreatic Ductal Adenocarcinoma (PDAC) patient samples (gene expression data).",
+          "activity_type": "Gene Expression Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Upregulation; identified as a novel gained gene, differentially expressed and capable of discriminating between PDAC patients and healthy controls (individual ROC curves showed average sensitivity 74.8% and specificity 73.3%)."
+          },
+          "core_biological_function": "Not explicitly stated.",
+          "relevant_activity_context": "PDAC patients, development of different gastrointestinal tumors.",
+          "performance_or_health_indicator": "Related to the development of different gastrointestinal tumors."
+        },
+        {
+          "biomarker_name": "Granulysin (GNLY)",
+          "measured_tissue_or_fluid": "Pancreatic Ductal Adenocarcinoma (PDAC) patient samples (gene expression data).",
+          "activity_type": "Gene Expression Level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Downregulated; identified as a novel gained gene, differentially expressed and capable of discriminating between PDAC patients and healthy controls (individual ROC curves showed average sensitivity 74.8% and specificity 73.3%)."
+          },
+          "core_biological_function": "Functions as a chemotactic for T-lymphocytes, monocytes and other inflammatory cells.",
+          "relevant_activity_context": "PDAC patients, associated with immune response.",
+          "performance_or_health_indicator": "Associated with immune response; acts as a chemotactic agent."
+        },
+        {
+          "biomarker_name": "Natural Killer Cell Granule Protein 7 (NKG7)",
+          "measured_tissue_or_fluid": "Pancreatic Ductal Adenocarcinoma (PDAC) patient samples (gene expression data); expressed in NK and T-cells.",
+          "activity_type": "Gene Expression Level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Downregulated; identified as a novel gained gene, differentially expressed and capable of discriminating between PDAC patients and healthy controls (individual ROC curves showed average sensitivity 74.8% and specificity 73.3%)."
+          },
+          "core_biological_function": "Expressed in several cell types, including NK and T-cells; involved in immune response.",
+          "relevant_activity_context": "PDAC patients, associated with immune response.",
+          "performance_or_health_indicator": "Associated with immune response."
+        },
+        {
+          "biomarker_name": "C-type Lectin Domain Family 2, Member D (CLEC2D)",
+          "measured_tissue_or_fluid": "Pancreatic Ductal Adenocarcinoma (PDAC) patient samples (gene expression data); receptor present in NK cells.",
+          "activity_type": "Gene Expression Level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Downregulated; identified as a novel gained gene, differentially expressed and capable of discriminating between PDAC patients and healthy controls (individual ROC curves showed average sensitivity 74.8% and specificity 73.3%)."
+          },
+          "core_biological_function": "Receptor present in NK cells; involved in immune response.",
+          "relevant_activity_context": "PDAC patients, associated with immune response.",
+          "performance_or_health_indicator": "Associated with immune response."
+        },
+        {
+          "biomarker_name": "TXK Tyrosine Kinase (TKX)",
+          "measured_tissue_or_fluid": "Pancreatic Ductal Adenocarcinoma (PDAC) patient samples (gene expression data).",
+          "activity_type": "Gene Expression Level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Downregulated; identified as a novel gained gene, differentially expressed and capable of discriminating between PDAC patients and healthy controls (individual ROC curves showed average sensitivity 74.8% and specificity 73.3%)."
+          },
+          "core_biological_function": "Takes part in Th1 cytokine production; implicated in the adaptive immune response.",
+          "relevant_activity_context": "PDAC patients, associated with immune response.",
+          "performance_or_health_indicator": "Implicated in the adaptive immune response."
+        },
+        {
+          "biomarker_name": "RAS Guanyl Releasing Protein 1 (RASGRP1)",
+          "measured_tissue_or_fluid": "Pancreatic Ductal Adenocarcinoma (PDAC) patient samples (gene expression data).",
+          "activity_type": "Gene Expression Level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Downregulated; identified as a novel gained gene, differentially expressed and capable of discriminating between PDAC patients and healthy controls (individual ROC curves showed average sensitivity 74.8% and specificity 73.3%)."
+          },
+          "core_biological_function": "Plays an important role in T-cell development; involved in immune response.",
+          "relevant_activity_context": "PDAC patients, associated with immune response.",
+          "performance_or_health_indicator": "Plays an important role in T-cell development."
+        }
+      ]
+    }
+  }
+]

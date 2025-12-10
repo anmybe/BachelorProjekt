@@ -1,0 +1,268 @@
+[
+  {
+    "title": "pmc J Cereb Blood Flow Metab J Cereb Blood Flow Metab JCB spjcb Journal of Cerebral Blood Flow & Metabolism 0271-678X 1559-7016 SAGE Publications Sage UK: London, England 9121528 35061562 10.1177/0271678X221075967 10.1177_0271678X221075967 Original Articles Hypoxemia increases blood-brain barrier permeability during extreme apnea in humans https://orcid.org/0000-0003-0498-7095 Bailey Damian M 1 Bain Anthony R 2 Hoiland Ryan L 3 4 Barak Otto F 5 6 Drvis Ivan 7 Hirtz Christophe 8 Lehmann Sylvain 8 Marchi Nicola 9 Janigro Damir 10 11 MacLeod David B 12 Ainslie Philip N 1 13 Dujic Zeljko 5 1 Neurovascular Research Laboratory, Faculty of Life Sciences and Education, 6654 University of South Wales , University of South Wales, Glamorgan, UK 2 Faculty of Human Kinetics, University of Windsor, Windsor, ON, Canada 3 Department of Anaesthesiology, Pharmacology and Therapeutics, Vancouver General Hospital, University of British Columbia, Vancouver, BC, Canada 4 Department of Cellular and Physiological Sciences, Faculty of Medicine, University of British Columbia, Vancouver, BC, Canada 5 School of Medicine, University of Split, Split, Croatia 6 Faculty of Medicine, University of Novi Sad, Serbia 7 School of Kinesiology, University of Zagreb, Zagreb, Croatia 8 LBPC-PPC, University of Montpellier, Institute of Regenerative Medicine-Biotherapy IRMB, Centre Hospitalier Universitaire de Montpellier, INSERM, Montpellier, France 9 Institute of Functional Genomics, University of Montpellier, Montpellier, France 10 Department of Physiology, Case Western Reserve University, Cleveland, OH, USA 11 FloTBI, Cleveland, OH, USA 12 Department of Anesthesiology, Duke University Medical Center, Durham, NC, USA 13 Center for Heart Lung and Vascular Health, University of British Columbia, Kelowna, British Columbia, Canada Damian M Bailey, Neurovascular Research Laboratory prior to Faculty of Life Sciences and Education, University of South Wales, Alfred Russel Wallace Building, Upper Glyntaff, CF37 4AT, UK. Email: damian.bailey@southwales.ac.uk 21 1 2022 6 2022 21 1 2022 42 6 1120 1135 13 9 2021 29 11 2021 27 12 2021 \u00a9 The Author(s) 2022 2022 International Society for Cerebral Blood Flow and Metabolism https://creativecommons.org/licenses/by-nc/4.0/ This article is distributed under the terms of the Creative Commons Attribution-NonCommercial 4.0 License ( https://creativecommons.org/licenses/by-nc/4.0/ ) which permits non-commercial use, reproduction and distribution of the work without further permission provided the original work is attributed as specified on the SAGE and Open Access pages ( https://us.sagepub.com/en-us/nam/open-access-at-sage ). Voluntary asphyxia imposed by static apnea challenges blood-brain barrier (BBB) integrity in humans through transient extremes of hypertension, hypoxemia and hypercapnia. In the present study, ten ultra-elite breath-hold divers performed two maximal dry apneas preceded by normoxic normoventilation (NX: severe hypoxemia and hypercapnia) and hyperoxic hyperventilation (HX: absence of hypoxemia with exacerbating hypercapnia) with measurements obtained before and immediately after apnea. Transcerebral exchange of NVU proteins (ELISA, Single Molecule Array) were calculated as the product of global cerebral blood flow (gCBF, duplex ultrasound) and radial arterial to internal jugular venous concentration gradients. Apnea duration increased from 5 m 6 s in NX to 15 m 59 s in HX ( P = <0.001) resulting in marked elevations in gCBF and venous S100B, glial fibrillary acidic protein, ubiquitin carboxy-terminal hydrolase-L1 and total tau (all P < 0.05 vs. baseline). This culminated in net cerebral output reflecting mildly increased BBB permeability and increased neuronal-gliovascular reactivity that was more pronounced in NX due to more severe systemic and intracranial hypertension ( P < 0.05 vs. HX). These findings identify the hemodynamic stress to which the apneic brain is exposed, highlighting the critical contribution of hypoxemia and not just hypercapnia to BBB disruption. Hypoxia hyperoxia hypercapnia cerebral blood flow blood-brain barrier typesetter ts2 Introduction The neurovascular unit (NVU) comprises the interactive cellular network responsible for the regulation of cerebral blood flow (CBF) and blood-brain barrier (BBB) integrity that synergistically preserve neuronal, glial and vascular homeostasis. 1 The NVU is integral to establishing efficient clearance of carbon dioxide (CO 2 ) and other waste products while continuously supplying oxygen (O 2 )/glucose to which the human brain has evolved exquisite sensitivity given its disproportionately high mass-specific energy demands, limited energy stores and almost exclusive reliance on aerobic metabolism. 2 This renders the brain especially vulnerable to asphyxia, with substrate depletion and progression towards rapid and largely irreversible neuronal death. 3 The competitive sport of maximal static apnea performed by ultra-elite breath-hold (BH) divers provides a unique clinical opportunity to study extreme (voluntary) asphyxia. The current world record with face immersion is 11 min 35 s; this can be further extended to a remarkable 24 min 33 s following prior hyperoxic hyperventilation with divers capable of achieving arterial O 2 tensions <20 mmHg and CO 2 tensions >70 mmHg at apnea breakpoint. 4 Yet despite profound asphyxia, the cerebral delivery of oxygen (CDO 2 ) remains well preserved due to a marked increase in CBF. 5 These hemodynamic challenges provide a unique opportunity to investigate the structural and functional \u2018bandwidth\u2019 of NVU integrity in unanesthetized and otherwise healthy humans and mechanisms underlying cerebral substrate conservation during the most severe extremes of O 2 -CO 2 stress recorded to date. In this work, we sought to evaluate the transcerebral exchange kinetics of a comprehensive and ultrasensitive panel of NVU proteins via the Fick principle, combining volumetric assessment of CBF with concurrent sampling of arterio-jugular venous concentration gradients (a-v D ). This allows a quantitative evaluation of indicators of BBB permeability and brain damage under normal or dysregulated conditions after apnea, albeit in the absence of complimentary neuroimaging approaches (see Limitations). Our primary aim was to examine the impact of apnea on the structural integrity of the NVU with a specific focus on the BBB. Our secondary aim was to distinguish between hypoxemia and hypercapnia as the dominant vasoactive stimulus, although we were not in a position experimentally to fully control for the potentially confounding effects of different BH times and degree of peripheral/central acidosis, that likely impact biomarker exchange originating from the brain and/or other organs. The present study enrolled ultra-elite BH divers to perform two maximal dry, static apneas following: [1] normoxic normoventilation (NX) resulting in severe apneic hypoxemia-hypercapnia and [2] hyperoxic hyperventilation (HX) to alleviate apneic hypoxemia while compounding hypercapnia. We hypothesized that: [1] apnea is generally associated with a net cerebral release or output of NVU proteins (v > a) specifically S100B, glial fibrillary acidic protein (GFAP), neuron-specific enolase (NSE), neurofilament light-chain (NF-L), ubiquitin carboxy-terminal hydrolase L1 (UCH-L1) and total tau (T-Tau) collectively reflecting increased BBB permeability and neuronal-gliovascular reactivity and [2] despite considerably shorter BH times, NVU protein output would be more pronounced during hypoxemic compared to hyperoxemic-hypercapnic stress (NX>HX) as a consequence of higher systemic and intracranial hypertension (IH). The conceptional framework of this working hypothesis is illustrated in Figure 1(a) . Materials and methods Ethics Experimental procedures were approved by the University of Split Ethics Committee (#H14-00922). All procedures were carried out in accordance with the most (7th) recent amendment of the Declaration of Helsinki of the World Medical Association (with the exception that it was not registered in a publicly accessible database prior to recruitment) with verbal and written informed consent obtained from all participants. Participants Given the need for extended apneas and inability to safely \u2018recreate\u2019 such extremes of hypoxemia-hypercapnia in \u2018normal\u2019 (i.e. non-BH control) participants, we recruited ten ultra-elite BH divers (6\u2642, 4\u2640) from the Croatian and Slovenian National Apnea Team. They were 33 (mean) \u00b1 9 (SD) years old with a body mass index of 23 \u00b1 2 kg/m 2 and forced vital capacity of 6.40 \u00b1 1.48 L. Six of them were considered world-class given that they were among the world\u2019s top 10 BH divers in their competitive careers. One female diver set a new official world record in dynamic apnea while another male recently set the world record for apnea following hyperoxia (24 min 33 s). All divers had been training specifically for diving apnea four to five times a week for at least three years prior to the study. A medical examination confirmed that all participants were free of cardiovascular, pulmonary and cerebrovascular disease and were not taking any nutritional supplements including over-the-counter antioxidant or anti-inflammatory medications. They were instructed to refrain from physical activity, caffeine and alcohol and to follow a low nitrate/nitrite diet 24 h prior to formal experimentation. 6 Participants attended the laboratory following a 12 h overnight fast. Design Parts of this study including select blood gas variables and aspects of cerebral hemodynamic function have previously been published as part of a wider investigation that included a separate focus on the link between hypercapnia and cerebral oxidative metabolism during apnea. 7 Thus, although the present study adopted an identical experimental design, it constitutes an entirely separate question complemented by de novo experimental measures. Participants were required to perform three maximal apneas in normoxia (NX) [1] with and [2] without prior hyperventilation in a counter-balanced fashion followed by [3] hyperventilation in hyperoxia (HX), with each trial separated by 30 min of recovery. Herein, we focus specifically on the two maximal apneas performed \u2018without\u2019 hyperventilation in NX and after hyperventilation in HX. The order of trials was non-randomized given the long-lasting carryover effects of hyperoxia and fatigue associated with a more prolonged apnea. 7 Data were collected at baseline and as close as possible to the point of apnea termination ( Figure 1(b) ). Procedures All apneas were completed on a single day with the Croatian national apnea coach (Dr I Drvis) present to motivate divers and ensure true maximal efforts. Each apnea was preceded by 30 min of supine rest followed by two standardized preparatory (practice) apneas designed to maximize the experimental apneas 8 (see below). The first preparatory apnea was performed at functional residual capacity (FRC) until seven involuntary breathing movements (IBMs) were attained. Two minutes later, the second preparatory apnea was performed at total lung capacity (TLC) lasting for ten IBMs. Participants then rested quietly for 6 min prior to two \u2018maximal\u2019 apneas that were each performed at TLC, with the extent of glossopharyngeal insufflation (lung packing) standardized across trials: Trial 1: Prior normoxic normoventilation (NX) Participants performed a maximal apnea in room air (normoxia). Trial 2: Prior hyperoxic hyperventilation (HX) Participants performed a maximal apnea preceded by 15 min of standardized hyperventilation of 100% O 2 while receiving auditory feedback from the coach to achieve an end tidal PCO 2 (PET CO2 ) of \u223c20 mmHg. Blood sampling Catheterization Participants were placed slightly head down on a hospital bed, and two catheters were inserted retrograde using the Seldinger technique under local anesthesia (1% lidocaine) via ultrasound guidance. A 20-guage arterial catheter (Arrow, Markham, ON, Canada) was placed in the right radial artery (RA) and attached to an in-line waste-less sampling setup (Edwards Lifesciences VAMP, CA, USA) connected to a pressure transducer that was placed at the height of the right atrium (TruWave transducer). A central venous catheter (Edwards PediaSat Oximetry Catheter, CA, USA) was placed in the right internal jugular vein (JV) and advanced towards the jugular bulb located at the mastoid process, approximately at the C1-C2 interspace ( Figure 1 ). Facial vein contamination was ruled out by ensuring that all jugular venous oxyhemoglobin saturation (SO 2 ) values were <75% during resting conditions. All catheters were continuously infused with normal saline (3 mL/h) to maintain patency. Participants rested for at least 30 min following catheter placement prior to the collection of baseline samples. Collection and storage Blood samples were drawn without stasis simultaneously from the RA and JV directly into Vacutainers (Becton, Dickinson and Company, Oxford, UK) before centrifugation at 600 g (4 \u00b0C) for 10 min. With the exception of blood for determination of blood gas variables, serum samples were decanted into cryogenic vials (Nalgene Labware, Thermo Fisher Scientific Inc, Waltham, MA) and immediately snap-frozen in liquid nitrogen (N 2 ) before transport under nitrogen gas (Cryopak, Taylor-Wharton, Theodore, AL) from Croatia to the United Kingdom. Samples were left to defrost at 37 \u00b0C in the dark for 5 minutes prior to batch analysis. Measurements Blood gas variables Whole blood was collected into heparinized syringes, maintained anerobically at room temperature and immediately analyzed for hemoglobin (Hb), hematocrit (Hct), partial pressures of oxygen, carbon dioxide (PO 2 /PCO 2 ), SO 2 , pH and glucose (Glu) using a commercially available cassette based analyzer (ABL-90 FLEX, Radiometer, Copenhagen, Denmark). Molar hydrogen ion (H + ) concentration was calculated as [H + ] = 10 \u2212pH . Intra and inter-run coefficients of variation (CVs) for all metabolites were <5%. NVU proteins A panel of serum biomarkers were quantified using ultrasensitive analytical platforms. S100B, a calcium-binding protein expressed and released predominantly by astrocytes and Schwann cells found at the perivascular brain space 9 and GFAP, an intermediate filament protein expressed predominantly by astrocytes 10 were employed as biomarkers of BBB permeability and glio-vascular damage. NSE, an intracytoplasmic glycolytic enzyme derived from neuronal cytoplasm and neuroendocrine cells, 11 NF-L, a component of the axonal cytoskeleton expressed primarily in large-caliber myelinated subcortical axons 12 and UCH-L1, a neuron-specific cytoplasmic enzyme concentrated in dendrites 13 were taken to reflect neuronal-axonal damage. T-Tau, a microtubule-associated protein expressed predominantly in short cortical unmyelinated axons 14 was employed as a surrogate for axonal degeneration. The underlying source(s), biochemistry, detection and clinical interpretation of these biomarkers have recently been reviewed. 15 Automated high-sensitivity clinical grade ELISA (LIAISON\u00ae, DiaSorin, Saluggia, Italy) was used to measure S100B and NSE. We employed the Neurology 4-Plex assay kit (Quanterix Corp, Lexington, MA, USA) 16 to measure GFAP, NF-L, UCH-L1 and T-Tau proteins on a single molecule array (Simoa) HD-1 Analyzer (Quanterix Corp). Based on singulation of enzyme labelled immune-complex on paramagnetic beads, this digital ELISA assay is considered \u223c1,200 fold more sensitive than conventional immunoassays. 17 All samples were analyzed following (4-fold) dilution with the diluent provided in the kit (phosphate buffer with bovine serum and heterophilic blocker solution) to minimise matrix effects. The intra- and inter-assay CVs for all metabolites were <5%. Cardiopulmonary function All cardiopulmonary measurements were averaged over 15 s immediately prior to blood sampling. A lead II electrocardiogram (Dual BioAmp; ADInstruments, Oxford, UK) was used to measure heart rate (HR). Intra-arterial ABP was recorded directly via a pressure transducer placed at the level of the heart for determination of MAP. Internal jugular venous pressure ( IJVP) was measured with the transducer connected to the jugular catheter. Finger photoplethysmography (Finometer PRO, Finapres Medical Systems, Amsterdam, The Netherlands) was used to measure beat-by-beat stroke volume (SV) and cardiac output ( Q \u02d9 ) using the Modelflow algorithm 18 that incorporates participant sex, age, stature and mass (BeatScope 1.0 software; TNO; TPD Biomedical Instrumentation, Amsterdam, The Netherlands). Cerebrovascular function Intracranial Blood velocity in the middle cerebral artery (MCAv, insonated through the left temporal window at a depth of \u223c1 cm distal to the MCA-anterior cerebral artery bifurcation) and posterior cerebral artery (PCAv, insonated at the P1 segment through the right temporal window) were measured using standardized procedures with a 2 MHz pulsed transcranial Doppler ultrasound (TCD; Spencer Technologies, Seattle, WA, USA). Bilateral TCD probes were secured using a specialized commercial headband (Mark600, Spencer Technologies, Seattle, WA, USA) using standardized search techniques. Between-day CVs for MCAv and PCAv are 3% and 2%, respectively. Extracranial Continuous diameter, velocity and blood flow recordings in the right internal carotid and left vertebral arteries (Q ICA /Q VA ) with no evidence of asymmetry, were obtained using a 10 MHz, multifrequency, linear array vascular ultrasound (Terason 3200, Teratech, Burlington, MA). Arterial diameter was measured via B-mode imaging, whereas peak blood velocity was simultaneously measured with pulse-wave mode. The ICA was insonated \u223c2 cm from the carotid bifurcation, while the VA was insonated at the C5\u2013C6 or C4\u2013C5 space and standardized within participant across trials. The steering angle was fixed to 60\u00b0 and the sample volume was placed in the centre of the vessel adjusted to cover the entire vascular lumen. All images were recorded as video files at 30 Hz and stored for offline analysis using customized edge detection software designed to mitigate observer bias. 19 Simultaneous measures of arterial diameter and velocity over >12 consecutive cardiac cycles were used to calculate flow. Between-day CVs for Q ICA and Q VA are 5% and 11%, respectively. Data integration All cardiopulmonary measurements were sampled at 1 kHz and integrated into PowerLab\u00ae and LabChart\u00ae software (ADInstruments, Bella Vista, NSW, Australia) for online monitoring and saved for offline analysis. Calculations Perfusion Volumetric blood flow was calculated offline as: Q ICA or Q VA (mL/min) = peak velocity 2 \u00d7\u03c0 diameter 2 2 Q ICA or Q VA were averaged for a 1 min baseline and during the last 30 s of apnea. During the latter half of each apnea, IBMs and corresponding contraction of the sternocleidomastoid prevented reliable blood velocity traces. To circumvent this, Q ICA and Q VA were estimated from changes in MCAv (for ICA flow) and PCAv (for VA flow) respectively using a previously validated approach: 20 Apnea eICAv and eVAv = Baseline ICAv and VAv \u00d7 Apnea MCAv or PCAv Baseline MCAv or PCAv Q ICA or Q VA (mL/min)= eICAv or eVAv \u00d7\u03c0 diameter 2 2 Assuming symmetrical blood flow of contralateral ICA and VA arteries, (brain) mass-normalized global cerebral blood flow (gCBF) was calculated as: gCBF (mL/100g/min) = 2 ( Q ICA + Q VA ) 14 assuming an average brain mass of 1400 g. 21 Cerebral perfusion pressure (CPP) was calculated as MAP-IJVP with the latter serving as a validated surrogate of ICP including excellent agreement at <20 mmHg for ICP. 22 Bioenergetics Arterial and jugular venous O 2 content (caO 2 and cjvO 2 ) were calculated as: caO 2 and cvO 2 (mmol/L) = Hb (mmol/L) \u00d7 SaO 2 a nd SvO 2 ( % ) 100 +\u03b1 PaO 2 o r PvO 2 ( mmHg ) where \u03b1 is the solubility coefficient of O 2 in blood (0.00133 mM/mmHg). C",
+    "document_source_id": "35061562",
+    "analysis_date": "2025-12-10",
+    "extracted_data": {
+      "document_summary": "This study investigated the impact of extreme static apnea on blood-brain barrier (BBB) integrity and neurovascular unit (NVU) protein exchange in ultra-elite breath-hold divers, aiming to distinguish between hypoxemic- and hypercapnic-induced stress. Findings revealed that hypoxemia, independently of hypercapnia, is a critical stimulus contributing to increased BBB permeability and neuronal-gliovascular reactivity, leading to a net cerebral output of NVU proteins. This suggests transient NVU dysfunction rather than structural damage, with evidence of active repair mechanisms and highlighting hemodynamic stress as a key factor in BBB disruption.",
+      "treatment_details": {
+        "therapy_type": "Maximal static apnea (voluntary asphyxia) and breath-hold diving",
+        "dose_specificity": "Ten ultra-elite breath-hold divers performed two maximal dry apneas: Normoxic Normoventilation (NX) with an average apnea duration of 5m 6s (range: 3m 37s to 6m 49s), resulting in severe hypoxemia and hypercapnia; and Hyperoxic Hyperventilation (HX) with an average apnea duration of 15m 59s (range: 9m 39s to 21m 2s), preceded by 15 min of 100% O2 hyperventilation (targeting PET CO2 ~20 mmHg), which alleviated hypoxemia while compounding hypercapnia. Biomarker measurements were taken at baseline (pre-apnea) and at the apnea breakpoint, coinciding with the most severe hypoxemic-hypercapnic stress. NVU protein output was more pronounced in NX compared to HX (P < 0.05). Serial measurements for temporal dynamics and maximal rates of transcerebral protein flux were ethically constrained by blood volume loss, thus no specific dose-response comparisons were reported; however, biomarker output partially recovered post-NX, suggesting transient rather than sustained effects."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "S100B",
+          "measured_tissue_or_fluid": "Serum, systemic and transcerebral circulation (net exchange via arterial and internal jugular venous sampling)",
+          "activity_type": "Protein Level (Net Cerebral Output)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Marked elevations (P < 0.05 vs. baseline) in net cerebral output (v > a). Output was more pronounced in normoxic normoventilation (NX) compared to hyperoxic hyperventilation (HX) (P < 0.05 vs. HX). Apnea-induced elevations in venous S100B were comparable to a submaximal (~30%) BBB disruption. Global cerebral output was ~17 pg/min, systemic accumulation ~12 pg/min, and turnover rate ~6 pg/min. A relationship was observed between apnea-induced elevation in IJVP and the increase in the S100B gradient in NX (r = -0.579, P = 0.049). Levels partially recovered after NX."
+          },
+          "core_biological_function": "Calcium-binding astrocytic protein, found at the perivascular brain space; a molecular reporter of increased blood-brain barrier (BBB) permeability, reflecting glial synthesis and extravasation, involved in gliovascular reactivity.",
+          "relevant_activity_context": "Maximal dry apnea and breath-hold diving (before, during, and post-NX recovery) under normoxic and hyperoxic conditions, particularly severe apneic hypoxemia-hypercapnia (NX condition) and elevated IJVP.",
+          "performance_or_health_indicator": "Biomarker of blood-brain barrier permeability and glio-vascular damage; reflects increased neuronal-gliovascular reactivity. Indicates transient neurovascular unit (NVU) 'dysfunction' (not structural 'damage'), highlights active repair mechanisms, and is implicated in transient loss of motor control ('samba'). Peak concentrations were generally below pathologic thresholds for traumatic brain injury."
+        },
+        {
+          "biomarker_name": "Glial Fibrillary Acidic Protein (GFAP)",
+          "measured_tissue_or_fluid": "Serum, cerebral and transcerebral circulation (net exchange via arterial and internal jugular venous sampling)",
+          "activity_type": "Protein Level (Net Cerebral Output)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Marked elevations (P < 0.05 vs. baseline) in net cerebral output (v > a). Output was more pronounced in normoxic normoventilation (NX) compared to hyperoxic hyperventilation (HX) (P < 0.05 vs. HX). More marked elevations in arterial concentrations during hyperoxic (HX) apnea. A relationship was observed between elevated PaCO2 and decreased GFAP gradient in HX (r = -0.638, P = 0.047). Peak concentrations were generally below pathologic thresholds."
+          },
+          "core_biological_function": "Intermediate filament protein predominantly expressed by astrocytes; indicator of astrocyte activation, damage, and general gliovascular reactivity.",
+          "relevant_activity_context": "Maximal dry apnea and breath-hold diving (during apnea) under normoxic and hyperoxic conditions, particularly severe apneic hypoxemia-hypercapnia (NX condition) and elevated PaCO2 in HX apnea.",
+          "performance_or_health_indicator": "Biomarker of blood-brain barrier permeability and glio-vascular damage; reflects increased neuronal-gliovascular reactivity, identifying hemodynamic stress and hypoxemia's contribution to BBB disruption. Indicates a rapid increase in BBB permeability, but peak concentrations were generally below traumatic brain injury thresholds."
+        },
+        {
+          "biomarker_name": "Ubiquitin Carboxy-Terminal Hydrolase L1 (UCH-L1)",
+          "measured_tissue_or_fluid": "Serum and transcerebral circulation (net exchange via arterial and internal jugular venous sampling)",
+          "activity_type": "Protein Level (Net Cerebral Output)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Marked elevations (P < 0.05 vs. baseline) in net cerebral output (v > a). Output was more pronounced in normoxic normoventilation (NX) compared to hyperoxic hyperventilation (HX) (P < 0.05 vs. HX)."
+          },
+          "core_biological_function": "Neuron-specific cytoplasmic enzyme concentrated in dendrites; indicator of neuronal damage.",
+          "relevant_activity_context": "Maximal dry apnea (Normoxic and Hyperoxic), particularly under severe apneic hypoxemia-hypercapnia (NX condition).",
+          "performance_or_health_indicator": "Reflects neuronal-axonal damage and increased neuronal-gliovascular reactivity; identifies hemodynamic stress and hypoxemia's contribution to BBB disruption."
+        },
+        {
+          "biomarker_name": "Total Tau (T-Tau)",
+          "measured_tissue_or_fluid": "Serum, cerebral and transcerebral circulation (net exchange via arterial and internal jugular venous sampling)",
+          "activity_type": "Protein Level (Net Cerebral Output)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Marked elevations (P < 0.05 vs. baseline) in net cerebral output (v > a). Output was more pronounced in normoxic normoventilation (NX) compared to hyperoxic hyperventilation (HX) (P < 0.05 vs. HX). More marked elevations in arterial concentrations during hyperoxic (HX) apnea. Molecular weight 78.9 kDa."
+          },
+          "core_biological_function": "Microtubule-associated protein predominantly expressed in short cortical unmyelinated axons; associated with neuronal damage and stress, and linked to human tau seeding and propagation in CNS pathologies.",
+          "relevant_activity_context": "Maximal dry apnea and breath-hold diving (during apnea) under normoxic and hyperoxic conditions, particularly severe apneic hypoxemia-hypercapnia (NX condition).",
+          "performance_or_health_indicator": "Surrogate for axonal degeneration; reflects increased neuronal-gliovascular reactivity, increased BBB permeability, and neurovascular unit destabilization. Identifies hemodynamic stress and hypoxemia's contribution to BBB disruption. Associated with CNS pathologies exacerbated by hypoxia and potential longer-term neurological complications."
+        },
+        {
+          "biomarker_name": "Partial pressure of O2 (PO2)",
+          "measured_tissue_or_fluid": "Systemic arterial circulation",
+          "activity_type": "Partial Pressure",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Reduced partial pressure; individual nadirs of 29 mmHg for PaO2 in normoxic (NX) apnea."
+          },
+          "core_biological_function": "Indicates oxygen tension in the blood.",
+          "relevant_activity_context": "Normoxic (NX) apnea.",
+          "performance_or_health_indicator": "Indicates severe systemic hypoxemia and the severity of the hypoxemic-hypercapnic challenge."
+        },
+        {
+          "biomarker_name": "Oxygen saturation (SO2)",
+          "measured_tissue_or_fluid": "Systemic arterial circulation",
+          "activity_type": "Saturation Percentage",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Reduced saturation; individual nadirs of 40% for SaO2 in normoxic (NX) apnea."
+          },
+          "core_biological_function": "Indicates percentage of hemoglobin binding sites occupied by oxygen.",
+          "relevant_activity_context": "Normoxic (NX) apnea.",
+          "performance_or_health_indicator": "Indicates severe systemic hypoxemia and the severity of the hypoxemic-hypercapnic challenge."
+        },
+        {
+          "biomarker_name": "Oxygen content (cO2)",
+          "measured_tissue_or_fluid": "Systemic arterial circulation",
+          "activity_type": "Content (Concentration)",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Reduced content."
+          },
+          "core_biological_function": "Indicates total oxygen carried in the blood.",
+          "relevant_activity_context": "Normoxic (NX) apnea.",
+          "performance_or_health_indicator": "Indicates severe systemic hypoxemia and the severity of the hypoxemic-hypercapnic challenge."
+        },
+        {
+          "biomarker_name": "Partial pressure of CO2 (PCO2)",
+          "measured_tissue_or_fluid": "Systemic arterial circulation",
+          "activity_type": "Partial Pressure",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Elevated partial pressure; peak PaCO2 of 53 mmHg in normoxic (NX) apnea and a highest value of 68 mmHg during hyperoxic (HX) apnea, corresponding to a pH of 7.227."
+          },
+          "core_biological_function": "Indicates carbon dioxide tension in the blood, influencing acid-base balance and cerebral blood flow.",
+          "relevant_activity_context": "Normoxic (NX) apnea and Hyperoxic (HX) apnea.",
+          "performance_or_health_indicator": "Indicates profound hypercapnia and the severity of the hypoxemic-hypercapnic challenge; participants became more hypercapnic in HX apnea."
+        },
+        {
+          "biomarker_name": "pH",
+          "measured_tissue_or_fluid": "Systemic arterial circulation",
+          "activity_type": "Concentration (acidity)",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Reduced pH; during hyperoxic (HX) apnea, pH was 7.227 corresponding to PaCO2 of 68 mmHg."
+          },
+          "core_biological_function": "Indicates acid-base balance in the blood.",
+          "relevant_activity_context": "Normoxic (NX) apnea and Hyperoxic (HX) apnea.",
+          "performance_or_health_indicator": "Indicates metabolic acidosis; participants became more acidotic at the end of HX apnea."
+        },
+        {
+          "biomarker_name": "Bicarbonate (HCO3-)",
+          "measured_tissue_or_fluid": "Systemic arterial circulation",
+          "activity_type": "Concentration",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Elevated HCO3-."
+          },
+          "core_biological_function": "Acts as a primary buffer in the blood to maintain acid-base balance.",
+          "relevant_activity_context": "Normoxic (NX) apnea.",
+          "performance_or_health_indicator": "Indicates metabolic acidosis."
+        },
+        {
+          "biomarker_name": "Hemoglobin (Hb)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Generally elevated in hyperoxic (HX) compared to normoxic (NX) conditions."
+          },
+          "core_biological_function": "Protein in red blood cells that carries oxygen.",
+          "relevant_activity_context": "Baseline in Hyperoxic (HX) conditions compared to Normoxic (NX) apnea.",
+          "performance_or_health_indicator": "Likely reflects (apnea-induced) splenic contraction and/or plasma volume contraction."
+        },
+        {
+          "biomarker_name": "Hematocrit (Hct)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Generally elevated in hyperoxic (HX) compared to normoxic (NX) conditions."
+          },
+          "core_biological_function": "Volume percentage of red blood cells in blood.",
+          "relevant_activity_context": "Baseline in Hyperoxic (HX) conditions compared to Normoxic (NX) apnea.",
+          "performance_or_health_indicator": "Likely reflects (apnea-induced) splenic contraction and/or plasma volume contraction."
+        },
+        {
+          "biomarker_name": "Global cerebral blood flow (gCBF)",
+          "measured_tissue_or_fluid": "Cerebral circulation",
+          "activity_type": "Flow rate",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Apnea generally increased gCBF. Relative increase was greater in hyperoxic (HX) (206 \u00b1 52%) vs. normoxic (NX) (83 \u00b1 22%) due to consistently lower perfusion at baseline in HX."
+          },
+          "core_biological_function": "Perfusion of the brain, delivering oxygen and nutrients.",
+          "relevant_activity_context": "Apnea (Normoxic and Hyperoxic).",
+          "performance_or_health_indicator": "Compensatory elevation in cerebral blood flow during severe asphyxia, secondary to hypercapnia/hypoxemia-induced pial artery dilation and severe arterial hypertension."
+        },
+        {
+          "biomarker_name": "Global O2 delivery (CDO2)",
+          "measured_tissue_or_fluid": "Cerebral circulation",
+          "activity_type": "Delivery rate",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Increased delivery, more pronounced in hyperoxic (HX) apnea."
+          },
+          "core_biological_function": "Supply of oxygen to brain tissue.",
+          "relevant_activity_context": "Apnea (Normoxic and Hyperoxic).",
+          "performance_or_health_indicator": "Indicates cerebral substrate delivery remained generally well preserved despite severe asphyxia."
+        },
+        {
+          "biomarker_name": "Global Glucose delivery (CDGlu)",
+          "measured_tissue_or_fluid": "Cerebral circulation",
+          "activity_type": "Delivery rate",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Increased delivery, more pronounced in hyperoxic (HX) apnea."
+          },
+          "core_biological_function": "Supply of glucose to brain tissue.",
+          "relevant_activity_context": "Apnea (Normoxic and Hyperoxic).",
+          "performance_or_health_indicator": "Indicates cerebral substrate delivery remained generally well preserved despite severe asphyxia."
+        },
+        {
+          "biomarker_name": "Oxygen extraction",
+          "measured_tissue_or_fluid": "Cerebral circulation",
+          "activity_type": "Extraction percentage",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Reciprocal reductions, more pronounced in hyperoxic (HX) apnea."
+          },
+          "core_biological_function": "Utilization of oxygen by brain tissue.",
+          "relevant_activity_context": "Apnea (Normoxic and Hyperoxic).",
+          "performance_or_health_indicator": "Associated with preserved cerebral substrate delivery, suggesting altered metabolic demand or supply balance."
+        },
+        {
+          "biomarker_name": "Glucose extraction",
+          "measured_tissue_or_fluid": "Cerebral circulation",
+          "activity_type": "Extraction percentage",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Reciprocal reductions, more pronounced in hyperoxic (HX) apnea."
+          },
+          "core_biological_function": "Utilization of glucose by brain tissue.",
+          "relevant_activity_context": "Apnea (Normoxic and Hyperoxic).",
+          "performance_or_health_indicator": "Associated with preserved cerebral substrate delivery, suggesting altered metabolic demand or supply balance."
+        },
+        {
+          "biomarker_name": "Global cerebral metabolic rate of oxygen (gCMRO2)",
+          "measured_tissue_or_fluid": "Cerebral circulation",
+          "activity_type": "Metabolic Rate",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Apnea generally decreased gCMRO2 with no differences between normoxic (NX) and hyperoxic (HX) conditions."
+          },
+          "core_biological_function": "Overall metabolic demand for oxygen by the brain.",
+          "relevant_activity_context": "Apnea (Normoxic and Hyperoxic).",
+          "performance_or_health_indicator": "Reflects changes in brain metabolic activity during asphyxia."
+        },
+        {
+          "biomarker_name": "Global cerebral metabolic rate of glucose (gCMRGlu)",
+          "measured_tissue_or_fluid": "Cerebral circulation",
+          "activity_type": "Metabolic Rate",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Apnea generally decreased gCMRGlu with no differences between normoxic (NX) and hyperoxic (HX) conditions. An inverse relationship was observed between the elevation in PaCO2 and the reduction in gCM Glu in NX (r = -0.679, P = 0.031)."
+          },
+          "core_biological_function": "Overall metabolic demand for glucose by the brain.",
+          "relevant_activity_context": "Apnea (Normoxic and Hyperoxic).",
+          "performance_or_health_indicator": "Reflects changes in brain metabolic activity during asphyxia."
+        },
+        {
+          "biomarker_name": "Neurofilament Light (NF-L)",
+          "measured_tissue_or_fluid": "Cerebral (venous output, arterial concentration), systemic and transcerebral circulation (net exchange)",
+          "activity_type": "Protein Level (Net Cerebral Output)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Apnea markedly increased net cerebral output (v > a), which was especially pronounced, and more so in normoxic (NX) conditions. More marked elevations in arterial concentrations during hyperoxic (HX) apnea. Linear relationships were observed between apnea-induced reductions in PaO2/SaO2 and increased NF-L gradient in NX (r = 0.770/0.557, P = 0.009/0.045)."
+          },
+          "core_biological_function": "A cytoskeletal protein specific to neurons; indicator of axonal damage and biomarker for hypoxic brain damage.",
+          "relevant_activity_context": "Apnea (Normoxic and Hyperoxic), particularly during NX apnea and linked to hypoxemia, also in breath-hold diving and patients with hypoxic brain damage.",
+          "performance_or_health_indicator": "Reflects increased leakage across the blood-brain barrier and increased neuronal-gliovascular reactivity, identifying hemodynamic stress and hypoxemia's contribution to BBB disruption. Increased systemic appearance demonstrates superior prognostic accuracy for hypoxic brain damage."
+        },
+        {
+          "biomarker_name": "Neuron-Specific Enolase (NSE)",
+          "measured_tissue_or_fluid": "Cerebral (venous output, arterial inflow) and transcerebral circulation (net exchange)",
+          "activity_type": "Protein Level (Net Cerebral Output/Uptake)",
+          "measured_effect": {
+            "direction_of_change": "reversed (net uptake)",
+            "magnitude_quantification": "Apnea reversed NSE output (v > a) to uptake (a > v) during apnea. This was observed exclusively in normoxic (NX) conditions. A relationship was observed between the elevation in PaCO2 and decrease in NSE gradient in HX (r = 0.739, P = 0.015). Molecular weight 47.3 kDa. No detectable hemolysis (<100 mg of free Hb/L) observed."
+          },
+          "core_biological_function": "A glycolytic enzyme found in neurons, involved in neurotrophic regulation of neuronal survival, differentiation, and neurite regeneration through activation of specific signaling pathways; indicator of neuronal integrity or damage.",
+          "relevant_activity_context": "Apnea (Normoxic and Hyperoxic), specifically in normoxic (NX) conditions and HX apnea with elevated PaCO2 during breath-hold diving.",
+          "performance_or_health_indicator": "Uptake suggests altered neuronal metabolism or efflux across the blood-brain barrier, potentially reflecting contributions from extracerebral sources to foster neuronal repair in response to injury, representing an authentic, counter-intuitive observation."
+        }
+      ]
+    }
+  }
+]

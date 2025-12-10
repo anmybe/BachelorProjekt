@@ -1,5 +1,6 @@
 import json
 import os
+import re
 from collections import defaultdict
 from typing import Dict, Any, List, Optional
 
@@ -9,11 +10,31 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Der Input-Ordner, der die Original-Phase-1-Analysen enthaelt (z.B. semantic_serial_results3)
-PHASE1_INPUT_FOLDER = "semantic_serial_results_threads_neues_schema"
+PHASE1_INPUT_FOLDER = "semantic_serial_results_threads_final"
 # Die Input-Datei von Phase 3 (mit standardisierten Namen)
-PHASE3_INPUT_FILE = "standardized_biomarkers3.json"
+PHASE3_INPUT_FILE = "standardized_biomarkers_final.json"
 # Die finale Output-Datei
-OUTPUT_FILE = "final_biomarker_details_aggregated.json"
+OUTPUT_FILE = "final_biomarker_details_aggregated2.json"
+
+# --- HELPER FUNCTION: NAME NORMALIZATION ---
+
+def normalize_name_for_comparison(name: str) -> str:
+    """Konvertiert den Namen in Kleinbuchstaben und entfernt ALLE 
+    überflüssigen Whitespace-Zeichen (inkl. \n, \t, \r, \b) 
+    für den robusten Vergleich."""
+    # Wird für das interne Matching verwendet.
+    cleaned_name = re.sub(r'\s+', '', name) 
+    return cleaned_name.lower()
+
+def clean_output_name(name: str) -> str:
+    """Entfernt alle nicht-standardmäßigen Whitespace-Zeichen, 
+    ersetzt sie durch EIN Leerzeichen und trimmt den String."""
+    
+    # 1. Ersetze alle Whitespace-Zeichen (\s+) durch ein einzelnes Leerzeichen (" ")
+    cleaned_name = re.sub(r'\s+', ' ', name)
+    
+    # 2. Entferne führende/nachfolgende Leerzeichen
+    return cleaned_name.strip()
 
 # --- CORE LOGIC ---
 
@@ -41,7 +62,8 @@ def load_document_cache(source_dir: str) -> Dict[str, Dict[str, Any]]:
         
     for filename in os.listdir(source_dir):
         if filename.endswith('_analysis.json'):
-            doc_id = filename.split('_analysis.json')[0]
+            # doc_id ist der Teil vor "_analysis.json"
+            doc_id = filename.replace('_analysis.json', '') 
             file_path = os.path.join(source_dir, filename)
             try:
                 with open(file_path, 'r', encoding='utf-8') as f:
@@ -54,68 +76,107 @@ def load_document_cache(source_dir: str) -> Dict[str, Dict[str, Any]]:
     print(f"Dokumenten-Cache geladen: {len(cache)} Dokumente verfügbar.")
     return cache
 
+def extract_and_consolidate_details(standard_name: str, findings: List[Dict[str, Any]]) -> Dict[str, Any]:
+    """
+    Diese Funktion dient der manuellen/regelbasierten Synthese der Biomarker-Details.
+    """
+    
+    # PLACEEHOLDER Logic (Beibehalten, da keine KI verwendet werden soll)
+    if len(findings) == 1:
+        return {
+            "overall_biomarker_summary": f"Manuelle Synthese: {standard_name} wurde in {findings[0]['document_source_id']} gefunden. Die tatsächliche Zusammenfassung muss manuell hinzugefügt werden.",
+            "mechanisms_consensus": "Manuelle Synthese: Hier wuerde die konsolidierte Mechanismus-Zusammenfassung stehen.",
+            "reliability_consensus": "Manuelle Synthese: Hier wuerde die konsolidierte Zuverlaessigkeits-Zusammenfassung stehen."
+        }
+    
+    return {
+        "overall_biomarker_summary": f"Automatischer Platzhalter fuer {standard_name}: Gefunden in {len(findings)} Quellen. Manuelle Synthese erforderlich.",
+        "mechanisms_consensus": f"Details zu den Mechanismen sind in den 'aggregated_source_findings_DEBUG' enthalten.",
+        "reliability_consensus": "Manuelle Aggregation der Zuverlaessigkeit ueber mehrere Studien noetig."
+    }
+
+
 def aggregate_biomarker_details(standardized_index: List[Dict[str, Any]], doc_cache: Dict[str, Dict[str, Any]]) -> List[Dict[str, Any]]:
     """
-    Aggregiert alle Detail-Informationen (extracted_data) unter dem standardisierten Namen.
+    Aggregiert alle Detail-Informationen (analyzed_biomarkers) unter dem standardisierten Namen
+    und fuegt die Summary-Felder hinzu.
     """
     final_aggregated_data = []
+    total_matched_findings = 0 # Zaehler fuer Debugging
 
     for standard_entry in standardized_index:
         standard_name = standard_entry['standard_name']
         source_entries = standard_entry['source_entries']
         
         aggregated_findings = []
-        
-        # 1. Sammle alle Original-Fundstellen (Paare aus Originalname und ID)
+        unique_finding_keys: Set[Tuple[str, str]] = set()
+
         for entry in source_entries:
             original_name = entry['original_name']
             doc_id = entry['document_source_id']
             
+            key = (original_name, doc_id)
+            if key in unique_finding_keys:
+                continue
+            unique_finding_keys.add(key)
+            
             source_document = doc_cache.get(doc_id)
             if not source_document:
-                # Dokument nicht im Cache (z.B. Datei fehlt)
                 continue
 
             extracted_data = source_document.get('extracted_data', {})
             
-            # --- WICHTIGE LOGIK: Finden des spezifischen Eintrags ---
+            # NEU: Normalisiere den Originalnamen FÜR DEN VERGLEICH
+            normalized_original_name = normalize_name(original_name)
             
-            # Die detaillierten Effekte (core_effect_and_quantification) muessen nach dem
-            # original_name des Biomarkers gefiltert werden, um den Kontext zu sichern.
-            core_effects = extracted_data.get('core_effect_and_quantification', [])
+            # Wir suchen im Array 'analyzed_biomarkers'
+            analyzed_biomarkers = extracted_data.get('analyzed_biomarkers', [])
             
-            # Finde alle Core Effects, die dem Originalnamen entsprechen
-            matching_core_effects = [
-                effect for effect in core_effects 
-                if effect.get('biomarker_name', '').strip() == original_name.strip()
+            # Finde ALLE Biomarker-Details, die dem Originalnamen entsprechen
+            matching_biomarker_details = [
+                detail for detail in analyzed_biomarkers 
+                # HIER DER FIX: Normalisierter Vergleich
+                if normalize_name(detail.get('biomarker_name', '')) == normalized_original_name
             ]
 
-            # Füge den Fund zum Aggregat hinzu
-            aggregated_findings.append({
-                "original_name": original_name,
-                "document_source_id": doc_id,
-                # Fuege die gesamten Extraktionsdetails des DOKUMENTS hinzu. 
-                # (Da die anderen Felder (Mechanism, Implication) Dokument-weit sind, 
-                # fuegen wir den vollen Block fuer diesen Kontext hinzu)
-                "document_context_data": extracted_data,
-                "matched_core_effects": matching_core_effects 
-            })
+            if matching_biomarker_details:
+                total_matched_findings += 1 # Debugging-Zaehler erhoehen
+                
+                # Füge den Fund zum Aggregat hinzu
+                aggregated_findings.append({
+                    "original_name": original_name,
+                    "document_source_id": doc_id,
+                    "document_context_data": {
+                        "document_summary": extracted_data.get('document_summary'),
+                        "treatment_details": extracted_data.get('treatment_details'),
+                    },
+                    "matched_biomarker_details": matching_biomarker_details 
+                })
 
 
         # 2. Bauen des finalen Eintrags
         if aggregated_findings:
+            
+            # Erstelle die Summary-Felder
+            biomarker_summary = extract_and_consolidate_details(standard_name, aggregated_findings)
+            
             final_aggregated_data.append({
                 "standard_name": standard_name,
-                "total_unique_sources": len(set(f['document_source_id'] for f in aggregated_findings)),
-                # Behaelt die detaillierten Findings, die nun den vollen Dokument-Kontext enthalten.
-                "aggregated_source_findings": aggregated_findings 
+                "source_entries": source_entries, 
+                "biomarker_summary": biomarker_summary,
+                "metadata": {
+                    "total_documents_contributed": len(set(f['document_source_id'] for f in aggregated_findings)),
+                    "api_calls_for_synthesis": 0 
+                },
+                "aggregated_source_findings_DEBUG": aggregated_findings 
             })
             
+    print(f"DEBUG: Gesamtanzahl der erfolgreich gematchten Originalnamen: {total_matched_findings}")
     return final_aggregated_data
 
 
 def main():
-    print("--- PHASE 4: DETAIL-AGGREGATION UND PROVENIENZ ---")
+    print("--- PHASE 4: DETAIL-AGGREGATION UND SYNTHESE-VORBEREITUNG (Pure Python) ---")
     
     # 1. Index-Datei laden (Output von Phase 3)
     standardized_index = load_index_file(PHASE3_INPUT_FILE)
@@ -127,8 +188,7 @@ def main():
     doc_cache = load_document_cache(PHASE1_INPUT_FOLDER)
     if not doc_cache:
         print("Pipeline gestoppt: Konnte keine Quelldokumente laden.")
-        # Erlaubt, mit der Warnung weiterzumachen, falls der Cache leer ist, aber der Index nicht.
-        # return 
+        return 
     
     # 3. Aggregation durchfuehren
     print(f"Starte Aggregation von {len(standardized_index)} standardisierten Biomarkern...")
@@ -136,7 +196,7 @@ def main():
     
     # 4. Speichern der konsolidierten Ergebnisse
     with open(OUTPUT_FILE, "w", encoding='utf-8') as f:
-        json.dump(final_data, f, indent=2)
+        json.dump(final_data, f, indent=2, ensure_ascii=False)
         
     print("\n=========================================================")
     print(f"✅ SUCCESS: Detail-Aggregation abgeschlossen.")
