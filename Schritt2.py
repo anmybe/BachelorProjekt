@@ -6,9 +6,9 @@ from typing import Dict, Any, List, Tuple
 # --- CONFIGURATION (Behalte Ordnernamen) ---
 
 # Input-Ordner mit den analysierten JSONs aus Phase 1 (Thread-Output)
-INPUT_FOLDER = "semantic_serial_results_threads_final" 
+INPUT_FOLDER = "Schritt1_Results" 
 # Output-Datei fuer die bereinigte Liste
-OUTPUT_FILE = "standardized_biomarkers_final.json"
+OUTPUT_FILE = "biomarker-name-list(Schritt2).json"
 
 # --- REINE PYTHON STANDARDISIERUNG ---
 

@@ -40,8 +40,8 @@ except ImportError:
 API_PROVIDER = "GEMINI" 
 
 MOCK_MODE = False
-INPUT_FILE_STEP2 = "standardized_biomarkers_final.json"
-OUTPUT_FILE_STEP3 = "ki(step3)_standardized_biomarkers_final.json"
+INPUT_FILE_STEP2 = "biomarker-name-list(Schritt2).json"
+OUTPUT_FILE_STEP3 = "biomarker-list-standardized(Schritt3).json"
 
 MAX_WORKERS = 4 # Anzahl der gleichzeitigen API-Anfragen
 BATCH_SIZE = 150

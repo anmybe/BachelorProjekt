@@ -10,11 +10,11 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Der Input-Ordner, der die Original-Phase-1-Analysen enthaelt (z.B. semantic_serial_results3)
-PHASE1_INPUT_FOLDER = "semantic_serial_results_threads_final"
+PHASE1_INPUT_FOLDER = "Schritt1_Results"
 # Die Input-Datei von Phase 3 (mit standardisierten Namen)
-PHASE3_INPUT_FILE = "ki(step3)_standardized_biomarkers_final.json"
+PHASE3_INPUT_FILE = "biomarker-list-standardized(Schritt3).json"
 # Die finale Output-Datei
-OUTPUT_FILE = "result_step4.json"
+OUTPUT_FILE = "consolidated-list(Schritt4).json"
 
 # --- HELPER FUNCTION: NAME NORMALIZATION ---
 
