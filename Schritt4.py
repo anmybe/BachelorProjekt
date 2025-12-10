@@ -2,7 +2,7 @@ import json
 import os
 import re
 from collections import defaultdict
-from typing import Dict, Any, List, Optional
+from typing import Dict, Any, List, Optional, Set, Tuple
 
 # --- CONFIGURATION (Laden aus der Umgebung) ---
 # Laden der Ordnernamen aus der .env Datei
