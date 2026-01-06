@@ -1,0 +1,220 @@
+[
+  {
+    "title": "J Tissue Eng Regen Med J Tissue Eng Regen Med 10.1002/(ISSN)1932-7005 TERM Journal of Tissue Engineering and Regenerative Medicine 1932-6254 1932-7005 John Wiley and Sons Inc. Hoboken 6680361 10.1002/term.2032 TERM2032 TERM-14-0325.R1 Research Article Research Articles A responsive human triple\u2010culture model of the air\u2013blood barrier: incorporation of different macrophage phenotypes Complex in vitro air\u2013blood barrier: integration of different macrophage models J. Kasper et al. Kasper Jennifer Y. kasperj@uni-mainz.de 1 Hermanns Maria I. 1 Unger Ronald E. 1 Kirkpatrick C. James 1 1 Institute of Pathology University Medical Centre Mainz Germany * Correspondence to: Dr. rer. nat. Jennifer Y. Kasper, Institute of Pathology, University Medical Centre Mainz, Langenbeckstrasse 1, 55101 Mainz, Germany. E\u2010mail: kasperj@uni-mainz.de 15 6 2015 4 2017 11 4 10.1002/term.v11.4 1285 1297 08 10 2014 31 3 2015 21 4 2015 \u00a9 2015 The Authors Journal of Tissue Engineering and Regenerative Medicine Published by John Wiley & Sons, Ltd. This is an open access article under the terms of the http://creativecommons.org/licenses/by-nc-nd/4.0/ License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non\u2010commercial and no modifications or adaptations are made. Abstract Current pulmonary research underlines the relevance of the alveolar macrophage (AM) integrated in multicellular co\u2010culture\u2010systems of the respiratory tract to unravel, for example, the mechanisms of tissue regeneration. AMs demonstrate a specific functionality, as they inhabit a unique microenvironment with high oxygen levels and exposure to external hazards. Healthy AMs display an anti\u2010inflammatory phenotype, prevent hypersensitivity to normally innocuous contaminants and maintain tissue homeostasis in the alveolus. To mirror the actual physiological function of the AM, we developed three different polarized [classically activated (M1) and alternatively activated (M2 wh , wound\u2010healing; M2 reg , regulatory)] macrophage models using a mixture of differentiation mediators, as described in the current literature. To test their immunological impact, these distinct macrophage phenotypes were seeded on to the epithelial layer of an established in vitro air\u2013blood barrier co\u2010culture, consisting of alveolar epithelial cells A549 or H441 and microvascular endothelial cells ISO\u2010HAS\u20101 on the opposite side of a Transwell filter\u2010membrane. IL\u20108 and sICAM release were measured as functionality parameters after LPS challenge. The M1 model itself already provoked a severe inflammatory\u2010like response of the air\u2013blood barrier co\u2010culture, thus demonstrating its potential as a useful in vitro model for inflammatory lung diseases. The two M2 models represent a \u2018non\u2010inflammatory\u2019 phenotype but still showed the ability to trigger inflammation following LPS challenge. Hence, the latter could be used to establish a quiescent, physiological in vitro air\u2013blood model. Thus, the more complex differentiation protocol developed in the present study provides a responsive in vitro triple\u2010culture model of the air\u2013blood\u2010barrier that mimics AM features as they occur in vivo . \u00a9 2015 The Authors Journal of Tissue Engineering and Regenerative Medicine Published by John Wiley & Sons, Ltd. air\u2013blood barrier cytotoxic and inflammatory responses alveolar macrophage soluble CD14 alveolar epithelial cells microvascular endothelial cells source-schema-version-number 2.0 component-id term2032 cover-date April 2017 details-of-publishers-convertor Converter:WILEY_ML3GV2_TO_NLMPMC version:5.6.7 mode:remove_FC converted:05.08.2019 Kasper , J. Y. , Hermanns , M. I. , Unger , R. E. , and Kirkpatrick , C. J. ( 2017 ) A responsive human triple\u2010culture model of the air\u2013blood barrier: incorporation of different macrophage phenotypes . J Tissue Eng Regen Med , 11 : 1285 \u2013 1297 . doi: 10.1002/term.2032 . 26078119 1 Introduction In tissue engineering and regenerative medicine, the respiratory system has been approached by a comparatively small number of research groups. Moreover, the complex anatomy and physiology of this organ system makes the establishment of relevant experimental models extremely difficult. Being able to stimulate controlled regeneration in both the upper and lower respiratory tracts could benefit numerous patients with both acute and chronic pulmonary diseases. The present paper is concerned with the lower respiratory tract and how an established in vitro co\u2010culture model developed by our research group can be modified to a higher degree of structural and functional complexity. The lower respiratory interface of the lung involves gas exchange between the external environment and the pulmonary circulation. In order to function efficiently, the alveolar\u2013capillary barrier consists of specialized, flattened epithelial cells (alveolocytes) and microvascular endothelial cells of the lung capillaries, which are separated by a 0.2 \u00b5m thick basement membrane (Lambrecht, 2006 ). As this delicate air\u2013blood barrier possesses a very large surface area of around 140 m 2 (Hoet et al ., 2004 ), inhaled pathogens or particulate matter may easily gain access to the systemic circulation. In addition to the formation of a strong barrier by the tight junctional complexes of the alveolocytes, which prevent inhaled particulate matter from entering the body, further defence mechanisms are required to render such threats harmless and eliminate them properly. Strictly regulated immunological homeostasis in the deeper lung is a first priority, even before contact with external material occurs. In this, a major role is played by the alveolar macrophages (AMs). AMs are described as having an unusual phenotype compared to macrophages from other regions of the body, as they are directly exposed to the external environment and thus to high oxygen levels. Under physiological conditions, the AMs appear in a quiescent or latent inflammatory state. To maintain tissue homeostasis, they actively suppress the adaptive immunity of all alveolus\u2010associated cells by secreting important mediators, such as nitric oxide, prostaglandins, interleukin\u201010 (IL\u201010) and transforming growth factor\u2010 \u03b2 (TGF \u03b2 ) (Lambrecht, 2006 ). In this way, damage to the alveolus from hypersensitive inflammatory reactions to inhaled microbes or dust is prevented. In vivo studies using clodronate\u2010filled liposomes designed to eliminate alveolar macrophages demonstrated an increased pulmonary immune response to normally innocuous particulate matter (Thepen et al ., 1989 ). A further essential activity is the phagocytosis and subsequent killing of aspirated pathogens or removal of particles to prevent pulmonary inflammation (Rubins, 2003 ). Besides secreting the above\u2010mentioned anti\u2010inflammatory mediators, they additionally secrete antimicrobial metabolites, such as reactive oxygen species, lysozymes, peptides or proteases (Rubins, 2003 ; Sibille and Reynolds, 1990 ). Basically, AMs represent the front line of alveolar defence and their unique phenotype is determined by the lung microenvironment. In addition to AMs, alveolar epithelial cells (AECs) also contribute to tissue homeostasis by keeping immune cells such as macrophages in a latent state, e.g. by surfactant components such as SPA and SPD (Guillot et al ., 2013 ). Thus, both cell types, AMs and AECs among others, are responsible for this balancing act, due to their mutual crosstalk (Kopf et al ., 2015 ). For that reason, ongoing studies using in vitro models should consider at least these two cell types as components of their lung model. A recent study has already incorporated a commonly used macrophage in vitro model in a complex 3D lung tetraculture [THP\u20101 stimulated with phorbol\u201012\u2010myristate\u201013\u2010acetate (PMA)] (Klein et al ., 2013 ). The human acute monocytic leukaemia cell line THP\u20101 is well known and commonly substituted as a general macrophage model for in vitro studies (Schwende et al ., 1996 ; Tsuchiya et al ., 1980 ). Most of these studies apply PMA to induce a general macrophage\u2010like differentiation. Due to the difficulty of obtaining alveolar macrophages, which appear under physiological conditions in a quiescent or latent inflammatory state, the THP\u20101 cells are also frequently used as an AM model for in vitro studies (Estrella et al ., 2011 ; Klein et al ., 2013 ; Riendeau and Kornfeld, 2003 ; Voth et al ., 2007 ). Overall, the current literature describes at least three populations of activated macrophages, each of which has a distinct physiology according to three different functions: host defence, wound healing and immune regulation (Mosser and Edwards, 2008 ). The classically activated macrophage (M1) is recruited during cell\u2010mediated immune responses, whereby the combination of two pro\u2010inflammatory signals, interferon\u2010 \u03b3 (INF \u03b3 ) and tumour\u2010necrosis factor\u2010 \u03b1 (TNF \u03b1 ), plays a role in priming the pro\u2010inflammatory macrophage phenotype. Alternatively activated macrophages (M2) with anti\u2010inflammatory potential, such as the so\u2010called wound\u2010healing macrophage (M2 wh ), are normally engaged during tissue repair as well as during innate or adaptive immune responses. IL\u20104 and IL\u201013 play a central role in activation of the latter phenotype (Mosser and Edwards, 2008 ). Another macrophage subtype with anti\u2010inflammatory capacities is described as the regulatory macrophage (M2 reg ), which can be primed following innate or adaptive immune signals, e.g. IL\u201010 produced by regulatory T cells. According to this rough classification, there may also be intermediate stages of these subtypes (Mosser and Edwards, 2008 ), so that it is probably more useful from a biological viewpoint to regard macrophages as having a spectrum of functionality and plasticity, rather than rigid categories. As reviewed by Dey et al . ( 2014 ), a deeper insight into the inherent plasticity of macrophages in homeostasis and disease could lead to progress in therapeutic strategies for acute and chronic inflammatory disease. Since AMs in the healthy lung also display regulatory properties involving, for example, the participation of IL\u201010, it is probable that they are related to the M2 reg subtype. However, according to the current literature, there is still no common agreement about whether healthy alveolar macrophages in humans can be classified towards the M1\u2010like or M2\u2010like subtypes (Hussell and Bell, 2014 ). As discussed by Aggarwal et al . ( 2014 ), diverse macrophage phenotypes/populations are present during acute inflammation and resolution in the lung. Nevertheless, on account of its unusual properties, the phenotypic potential of the alveolar macrophage is of great importance for complex, multicellular bronchial and alveolar models in vitro to study the cytotoxicity and inflammatory potential of inhalable substances as well as regenerative processes. Much effort has already been made to stress its crucial role for such complex in vitro models (Brandenberger et al ., 2010 ; Diabat\u00e9 et al ., 2004 ; Rothen\u2010Rutishauser et al ., 2005 ). On the basis of the above\u2010mentioned facts, the present study focuses on developing a multicellular triple culture model of the air\u2013blood barrier, using a macrophage model that mirrors AM features as they are in vivo . We used the human leukaemia monocyte cell line THP\u20101 to set up the three established macrophage phenotypes, using differentiation mediators that are, according to the literature, relevant for the M1, M2 wh and M2 reg phenotypes and especially for alveolar macrophages. These were subseqently used to assemble a triple\u2010culture model of the air\u2013blood barrier by seeding them on top of the barrier\u2010forming alveolar epithelial cells (A549 or NCI H441) in co\u2010culture with microvascular endothelial cells (ISO\u2010HAS\u20101), these being seeded on opposite sides of a Transwell filter membrane, as shown in our previous studies (Hermanns et al ., 2004 , 2010 ; Kasper et al ., 2011 , 2013 ). The inflammatory behaviour of the three different triple cultures towards the pathogen stimulus, lipopolysaccharide (LPS), was compared in order to establish which macrophage model would most closely mimic a healthy or an inflamed air\u2013blood barrier in vivo .",
+    "document_source_id": "26078119",
+    "analysis_date": "2025-12-09",
+    "extracted_data": {
+      "document_summary": "This study developed and characterized a responsive human triple-culture model of the air-blood barrier, integrating distinct macrophage phenotypes (M1, M2 wound-healing, M2 regulatory) derived from THP-1 monocytes to mimic in vivo alveolar macrophage features. The research investigated their immunological impact, particularly on epithelial barrier function and inflammatory responses in both A549/ISO-HAS-1 and H441/ISO-HAS-1 co-culture systems. It demonstrated that the M1 macrophage model induced a severe inflammatory-like response, characterized by impaired epithelial barrier integrity and increased pro-inflammatory markers, making it suitable for modeling inflammatory lung diseases. Conversely, the M2 models (M2wh and M2reg) exhibited a non-inflammatory or pro-regenerative profile, maintaining barrier integrity and thus providing a foundation for establishing a quiescent, physiological air-blood barrier model. The study also detailed the specific biomarker profiles of these differentiated macrophage subtypes and their varied responses to Lipopolysaccharide (LPS) stimulation within the triple-culture system, highlighting cell line-specific differences in inflammatory outcomes.",
+      "treatment_details": {
+        "therapy_type": "In vitro differentiation of human monocytic leukemia cell line THP-1 into M1 (classically activated), M2wh (wound-healing), and M2reg (regulatory) macrophage phenotypes, followed by their integration into a human triple-culture air-blood barrier model. The model consisted of alveolar epithelial cells (A549 or NCI H441) and microvascular endothelial cells (ISO-HAS-1) cultured on Transwell filter membranes. Immunological impact was subsequently assessed via Lipopolysaccharide (LPS) stimulation.",
+        "dose_specificity": "THP-1 cells were differentiated for 48h using specific cytokine cocktails: for M1 macrophages, 50 nM PMA, 100 ng/ml GM-CSF, and 25 ng/ml TNF\u03b1; for M2wh macrophages, 8 nM PMA, 100 ng/ml GM-CSF, 35 ng/ml IL-4, and 20 ng/ml IL-13; for M2reg macrophages, 8 nM PMA, 100 ng/ml GM-CSF, and 20 ng/ml IL-10. Dexamethasone (1 \u00b5M) was also used in some contexts. The differentiated macrophages were seeded onto the epithelial layer of the co-culture system. Cell culture media contained 10% Fetal Calf Serum (FCS), which was reduced to 5% for the triple cultures. The triple cultures were stimulated apically with 1 \u00b5g/ml LPS (end concentration) and incubated for 24h. No explicit dose-response comparisons for LPS or macrophage cell numbers were reported; the focus was on comparing responses across macrophage phenotypes and with/without LPS stimulation."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "IL-8",
+          "measured_tissue_or_fluid": "Air-blood barrier co-culture supernatant; macrophage culture supernatant; apical and basolateral compartments of co-culture/triple-culture systems",
+          "activity_type": "Protein Level (Release/Production)",
+          "measured_effect": {
+            "direction_of_change": "increased",
+            "magnitude_quantification": "M1 macrophage culture showed a 47 \u00b1 13-fold increase over unstimulated cells, while M2wh and M2reg showed slight but non-significant increases (5.1 \u00b1 1.7-fold and 5.8 \u00b1 2.6-fold, respectively). In A549/ISO-HAS-1 co-culture with LPS, IL-8 increased 3 \u00b1 0.9-fold apically and 3.2 \u00b1 0.7-fold basolaterally. M1 triple culture (tric) with A549 showed 1.8 \u00b1 0.3-fold apical and 1.6 \u00b1 0.3-fold basolateral increase, further increasing to 4.6 \u00b1 1-fold apical and 3.9 \u00b1 0.7-fold basolateral with LPS. M1 tric with H441 showed 3.2 \u00b1 0.3-fold apical and 1.5 \u00b1 0.1-fold basolateral increase, further increasing to 4.9 \u00b1 0.4-fold apical with LPS (basolateral comparable). M2wh tric A549 + LPS: 2.2 \u00b1 0.2-fold apical, 1.2 \u00b1 0.05-fold basolateral (significant elevation). M2reg tric A549 + LPS: 2.1 \u00b1 0.1-fold apical, 1.5 \u00b1 0.1-fold basolateral (significant elevation). M2wh tric H441 + LPS: 2.2 \u00b1 0.2-fold upper compartment (further elevation). M2reg tric H441 + LPS: 2.1 \u00b1 0.1-fold upper compartment (further elevation), 1.5 \u00b1 0.1-fold lower compartment (significant increase). Unstimulated A549/ISO-HAS-1 produced higher baseline levels (approx. 10-fold apical, 5-fold basolateral) compared to H441/ISO-HAS-1, which generally did not respond with increased IL-8 after LPS alone or in M2 triple cultures basolaterally."
+          },
+          "core_biological_function": "A chemokine that mediates inflammatory responses, recruits immune cells, particularly neutrophils, and is a key mediator of inflammation.",
+          "relevant_activity_context": "In vitro differentiation of THP-1 cells into M1, M2wh, and M2reg macrophages; their integration into air-blood barrier triple-culture models (A549/ISO-HAS-1 or H441/ISO-HAS-1) and subsequent stimulation with Lipopolysaccharide (LPS).",
+          "performance_or_health_indicator": "Strongly indicates pro-inflammatory activity, especially from M1 macrophages and in response to LPS, contributing to neutrophil recruitment and inflammatory processes in lung epithelial models. Differential release patterns across apical and basolateral compartments suggest specific directional signaling and can indicate barrier integrity, while cell line-specific responses highlight differences in inflammatory potential."
+        },
+        {
+          "biomarker_name": "sICAM-1",
+          "measured_tissue_or_fluid": "Air-blood barrier co-culture supernatant; macrophage culture supernatant; apical and basolateral compartments of triple-culture systems",
+          "activity_type": "Protein Level (Soluble form, Release)",
+          "measured_effect": {
+            "direction_of_change": "increased",
+            "magnitude_quantification": "Macrophage culture: M1 showed a marked increase of 4.7 \u00b1 0.48-fold, while M2wh and M2reg showed significant increases of 2.2 \u00b1 0.2-fold and 2.4 \u00b1 0.6-fold, respectively, compared to unstimulated THP-1. M1 triple culture (tric) with A549 induced a marked 3.9 \u00b1 1-fold apical release, but no significant basolateral elevation, which was instead significantly elevated (2.1 \u00b1 0.2-fold) after LPS stimulation. M2wh/M2reg tric A549 without LPS showed no significant alterations. A549/ISO-HAS-1 co-culture + LPS showed significant basolateral elevation but no apical alteration. M2wh tric A549 + LPS resulted in massive sICAM production in both compartments (apical, 4.1 \u00b1 1.3-fold; basolateral, 1.9 \u00b1 0.1-fold), comparable to LPS-stimulated M1 tric with A549. M2reg tric A549 + LPS showed a clear but not significant apical increase and significant basolateral increase. H441/ISO-HAS-1 systems generally showed no changes in sICAM release with macrophage addition or LPS treatment, despite unstimulated H441 cells having high and inconsistent baseline production (24-fold apical, 2-fold basolateral) compared to A549."
+          },
+          "core_biological_function": "A soluble form of Intercellular Adhesion Molecule 1, reflecting the shedding of cell adhesion molecules and indicative of inflammation, endothelial activation, and cell adhesion processes.",
+          "relevant_activity_context": "In vitro differentiation of THP-1 cells into M1, M2wh, and M2reg macrophages; their integration into air-blood barrier triple-culture models (A549/ISO-HAS-1 or H441/ISO-HAS-1) and subsequent stimulation with Lipopolysaccharide (LPS).",
+          "performance_or_health_indicator": "Signifies inflammatory activation and changes in cell-cell interactions. M1 macrophages show the most potent direct effect, with LPS treatment further modulating its release, particularly in the basolateral compartment. The lack of response in H441 cells indicates cell line-specific effects on sICAM release and inflammatory signaling. Elevated levels indicate a pro-inflammatory state."
+        },
+        {
+          "biomarker_name": "CD68",
+          "measured_tissue_or_fluid": "THP-1 cells",
+          "activity_type": "Protein expression (immunofluorescent staining)",
+          "measured_effect": {
+            "direction_of_change": "expressed",
+            "magnitude_quantification": "Expressed in unstimulated THP-1 cells and maintained expression in all differentiated phenotypes (M1, M2wh, M2reg)."
+          },
+          "core_biological_function": "A classical macrophage marker used for identifying macrophages.",
+          "relevant_activity_context": "Differentiation/stimulation of THP-1 cells into M1, M2wh, and M2reg macrophage phenotypes.",
+          "performance_or_health_indicator": "Confirms the successful differentiation of THP-1 cells into macrophage phenotypes."
+        },
+        {
+          "biomarker_name": "CD11c",
+          "measured_tissue_or_fluid": "Differentiated THP-1 cells (cell surface)",
+          "activity_type": "Surface Protein Level (FACS immunofluorescence staining)",
+          "measured_effect": {
+            "direction_of_change": "decreased for M1; unchanged for M2wh and M2reg",
+            "magnitude_quantification": "Unstimulated THP-1 cells showed 83 \u00b1 13% positive expression. M1 macrophages exhibited a marked reduction to 23 \u00b1 18% positive cells. M2wh (85 \u00b1 12%) and M2reg (86 \u00b1 6.5%) macrophages preserved similar expression levels compared to unstimulated THP-1 cells."
+          },
+          "core_biological_function": "A cell surface integrin, often associated with dendritic cells and some macrophage subsets, and antigen-presenting capability.",
+          "relevant_activity_context": "In vitro differentiation of THP-1 cells into M1, M2wh, and M2reg macrophage phenotypes.",
+          "performance_or_health_indicator": "Helps differentiate the M1 phenotype, which shows a reduction in CD11c, from the M2wh/M2reg and unstimulated cells, which maintain expression, thereby indicating distinct differentiation states and suggesting a reduction in dendritic cell-like features for M1, consistent with alveolar macrophage features for M2."
+        },
+        {
+          "biomarker_name": "CD33",
+          "measured_tissue_or_fluid": "Differentiated THP-1 cells (cell surface)",
+          "activity_type": "Surface Protein Level (FACS immunofluorescence staining)",
+          "measured_effect": {
+            "direction_of_change": "decreased for all phenotypes; most for M1",
+            "magnitude_quantification": "Unstimulated THP-1 cells showed 99 \u00b1 0.5% positive expression. M1 macrophages showed a clear and significant reduction to 1.2 \u00b1 1.4% positive cells. M2wh (55 \u00b1 19%) and M2reg (67 \u00b1 17%) macrophages also showed a significant, though minor, decrease in expression."
+          },
+          "core_biological_function": "A cell surface transmembrane glycoprotein associated with myeloid lineage cells and a marker for progenitor myeloid cells, monocytes, and macrophages with a lower differentiated state, which typically decreases during macrophage maturation.",
+          "relevant_activity_context": "In vitro differentiation of THP-1 cells into M1, M2wh, and M2reg macrophage phenotypes.",
+          "performance_or_health_indicator": "Differentiates stimulated macrophage phenotypes from unstimulated THP-1 cells, with M1 showing the greatest reduction, indicating maturation of THP-1 cells into more differentiated macrophage states (M1, M2wh, M2reg)."
+        },
+        {
+          "biomarker_name": "CD54 (ICAM-1)",
+          "measured_tissue_or_fluid": "Differentiated THP-1 cells (cell surface)",
+          "activity_type": "Surface Protein Level (FACS labelling)",
+          "measured_effect": {
+            "direction_of_change": "increased",
+            "magnitude_quantification": "Undifferentiated THP-1 cells showed 6.3 \u00b1 1.6% low labelling. All three macrophage differentiation scenarios resulted in increased expression: M1 (69 \u00b1 16%, significantly increased), M2wh (95 \u00b1 2.5%, further enhanced), and M2reg (91 \u00b1 6.7%, further enhanced). M1 showed somewhat lower but still significant levels compared to M2 phenotypes."
+          },
+          "core_biological_function": "Intercellular Adhesion Molecule 1, involved in cell adhesion and immune responses. It is weakly expressed on quiescent alveolar macrophages but is inducible upon activation.",
+          "relevant_activity_context": "In vitro differentiation of THP-1 cells into M1, M2wh, and M2reg macrophage models.",
+          "performance_or_health_indicator": "Indicates activation and changes in adhesion properties of differentiated THP-1 macrophages, consistent with in vitro induction by factors like PMA and TNF\u03b1, with M2wh/M2reg showing the highest increase."
+        },
+        {
+          "biomarker_name": "HLA-DR",
+          "measured_tissue_or_fluid": "Differentiated THP-1 cells (cell surface)",
+          "activity_type": "Surface Protein Level (FACS)",
+          "measured_effect": {
+            "direction_of_change": "lower (not significant)",
+            "magnitude_quantification": "Unstimulated THP-1 cells showed approximately 20% low signals (23.3 \u00b1 3%). Stimulated M1 (9.6 \u00b1 12.5%), M2wh (15 \u00b1 10%), and M2reg (14 \u00b1 8%) macrophages showed a further decrease in expression, but this reduction was not statistically significant."
+          },
+          "core_biological_function": "A Major Histocompatibility Complex (MHC) class II molecule, essential for presenting antigens to T-lymphocytes and involved in antigen presentation by macrophages.",
+          "relevant_activity_context": "In vitro differentiation of THP-1 cells into M1, M2wh, and M2reg macrophage phenotypes after 48h stimulation.",
+          "performance_or_health_indicator": "Lack of significant change suggests this marker is not differentially regulated under these specific macrophage differentiation conditions in THP-1 cells, or that baseline levels are already low. A decrease, even if not significant here, might suggest a specific differentiation or activation state in other contexts."
+        },
+        {
+          "biomarker_name": "sCD14",
+          "measured_tissue_or_fluid": "Supernatant of THP-1 cell culture; broncho-alveolar lavage fluid (BALF); blood serum; alveolar lumen; vascular concentrations",
+          "activity_type": "Protein Level (Soluble form)",
+          "measured_effect": {
+            "direction_of_change": "increased for M1 and M2reg; unchanged for M2wh",
+            "magnitude_quantification": "In macrophage culture, M1 showed a significant 1.7 \u00b1 0.2-fold increase compared to unstimulated THP-1 cells. M2reg exhibited the highest release, 2.5 \u00b1 0.4-fold higher, notably increased by IL-10 treatment. M2wh models showed unaltered sCD14 levels. Physiologically, normal human serum contains 2\u20136 \u00b5g/ml sCD14, with very little or no sCD14 in the alveolar lumen. Increased vascular concentrations are seen during severe sepsis. In SP-D-depleted mice BALF and in vitro on isolated AMs and RAW264.7 cells, sCD14 was increased."
+          },
+          "core_biological_function": "A soluble form of CD14, shed from the cell surface of monocytes/macrophages. It acts as a co-receptor for toll-like receptor 4 (TLR4) in LPS signaling, involved in immune responses, and its production is profoundly increased by IL-10 treatment. It is also regulated by surfactant protein-D.",
+          "relevant_activity_context": "In vitro differentiation of THP-1 cells into M1, M2wh, and M2reg macrophage phenotypes for 48h (M2reg primed with recombinant IL-10). Also observed in SP-D-depleted mice, serum, alveolar lumen, and during sepsis, as well as in LPS challenge with A549 cells (which respond in the presence of sCD14).",
+          "performance_or_health_indicator": "Indicates differential activation and shedding patterns of sCD14 by different macrophage phenotypes, with M2reg showing the highest release, correlated with IL-10 treatment. Physiologically, increased sCD14 in SP-D-depleted mice is linked to decreased inflammatory reactions after LPS challenge, is required for LPS response in cells lacking surface CD14 (like A549), and increased vascular sCD14 during sepsis can diminish vascular response but may exacerbate lung inflammation, potentially leading to acute lung injury (ALI)."
+        },
+        {
+          "biomarker_name": "VEGF",
+          "measured_tissue_or_fluid": "Supernatant of macrophage models",
+          "activity_type": "Protein Level (Release)",
+          "measured_effect": {
+            "direction_of_change": "increased",
+            "magnitude_quantification": "All three macrophage models (M1, M2wh, M2reg) showed significantly increased VEGF release compared to unstimulated cells. M1 macrophages exhibited the highest release (1.8 \u00b1 0.3-fold), while M2wh (1.4 \u00b1 0.2-fold) and M2reg (1.4 \u00b1 0.4-fold) showed comparable but lower increases."
+          },
+          "core_biological_function": "Vascular endothelial growth factor, a signaling protein that stimulates the formation of blood vessels (angiogenesis) and acts as a potent pro-angiogenic factor.",
+          "relevant_activity_context": "Macrophage differentiation/stimulation (M1, M2wh, M2reg) for 48h. Also noted to be increased in asthmatic lungs.",
+          "performance_or_health_indicator": "Indicates pro-angiogenic activity and potential for vascularization by all macrophage subtypes, with M1 showing a stronger pro-angiogenic signal. In asthmatic lungs, it is considered to have an important mediator function."
+        },
+        {
+          "biomarker_name": "IL-1\u03b2",
+          "measured_tissue_or_fluid": "Supernatant of macrophage models (THP-1 derived)",
+          "activity_type": "Protein Level (Production)",
+          "measured_effect": {
+            "direction_of_change": "increased for M1 only",
+            "magnitude_quantification": "Only M1 macrophages displayed significant IL-1\u03b2 production after 48h stimulation, with a 2.9 \u00b1 0.75-fold increase compared to unstimulated cells. M2wh (1.04 \u00b1 0.09-fold) and M2reg (1.09 \u00b1 0.1-fold) showed no significant increase."
+          },
+          "core_biological_function": "A pro-inflammatory cytokine and a key mediator of inflammation and innate immune response.",
+          "relevant_activity_context": "Macrophage differentiation/stimulation (M1, M2wh, M2reg) for 48h and comparison of their inflammatory potential in an in vitro triple culture model.",
+          "performance_or_health_indicator": "Indicates that M1 macrophages are the primary producers of this specific pro-inflammatory cytokine in this model, distinguishing their inflammatory profile and suggesting a pro-inflammatory state, whereas M2wh and M2reg indicate a low or anti-inflammatory state."
+        },
+        {
+          "biomarker_name": "TER (Trans-Epithelial Electrical Resistance)",
+          "measured_tissue_or_fluid": "Triple culture (H441/ISO-HAS-1 with macrophages)",
+          "activity_type": "Electrical resistance measurement (barrier function)",
+          "measured_effect": {
+            "direction_of_change": "decreased for M1; stable for M2wh and M2reg",
+            "magnitude_quantification": "M1 macrophages caused a significant decrease in TER (to 61 \u00b1 37% compared to untreated co-culture, c) after 48h. In contrast, M2wh (103 \u00b1 24% compared to c) and M2reg (108 \u00b1 31% compared to c) maintained stable TER values after 48h. LPS stimulation did not significantly affect TER in any case."
+          },
+          "core_biological_function": "An indicator of epithelial barrier integrity and tightness, reflecting paracellular permeability.",
+          "relevant_activity_context": "Triple culture of H441/ISO-HAS-1 epithelial cells with differently stimulated macrophages (M1, M2wh, M2reg), with and without apical LPS stimulation.",
+          "performance_or_health_indicator": "M1 macrophages significantly impair epithelial barrier function, whereas M2wh and M2reg macrophages maintain it, indicating distinct roles in tissue integrity and inflammatory damage relevant to lung health."
+        },
+        {
+          "biomarker_name": "ZO-1",
+          "measured_tissue_or_fluid": "H441 cells (epithelial layer in triple culture)",
+          "activity_type": "Protein expression (immunofluorescent staining pattern)",
+          "measured_effect": {
+            "direction_of_change": "disintegration for M1; no effect for M2wh and M2reg",
+            "magnitude_quantification": "M1 macrophages caused a considerable disintegration of the ZO-1 staining pattern in H441 cells. M2wh and M2reg macrophages did not affect ZO-1 formation, as determined by visual assessment. These visual observations correlated with the measured TER values (decreased for M1 and stable for M2wh/M2reg)."
+          },
+          "core_biological_function": "A tight junction protein crucial for maintaining epithelial barrier integrity and regulating paracellular transport.",
+          "relevant_activity_context": "Triple culture with H441 cells and differently differentiated macrophages (M1, M2wh, M2reg).",
+          "performance_or_health_indicator": "M1 macrophages compromise tight junction integrity, directly correlating with decreased barrier function (TER), highlighting their destructive potential on epithelial barriers. M2 macrophages help maintain barrier integrity."
+        },
+        {
+          "biomarker_name": "CD206 (Macrophage mannose receptor 1)",
+          "measured_tissue_or_fluid": "Differentiated THP-1 cells",
+          "activity_type": "Surface Protein Level",
+          "measured_effect": {
+            "direction_of_change": "unchanged/negative",
+            "magnitude_quantification": "Flow-cytometric analysis showed negative expression for all differentiated THP-1 models (M1, M2wh, M2reg)."
+          },
+          "core_biological_function": "A typical marker for alternatively activated macrophages (M2wh and M2reg).",
+          "relevant_activity_context": "In vitro differentiation of THP-1 cells into M1, M2wh, and M2reg macrophage models.",
+          "performance_or_health_indicator": "The lack of expression suggests that the differentiated THP-1 models, particularly M2wh and M2reg, do not fully acquire this typical M2 marker, indicating potential limitations in mirroring in vivo M2 phenotypes."
+        },
+        {
+          "biomarker_name": "CD163 (Haemoglobin scavenger receptor)",
+          "measured_tissue_or_fluid": "Differentiated THP-1 cells",
+          "activity_type": "Surface Protein Level",
+          "measured_effect": {
+            "direction_of_change": "unchanged/negative",
+            "magnitude_quantification": "Flow-cytometric analysis showed negative expression for all differentiated THP-1 models (M1, M2wh, M2reg)."
+          },
+          "core_biological_function": "A typical marker for alternatively activated macrophages (M2wh and M2reg).",
+          "relevant_activity_context": "In vitro differentiation of THP-1 cells into M1, M2wh, and M2reg macrophage models.",
+          "performance_or_health_indicator": "The lack of expression suggests that the differentiated THP-1 models, particularly M2wh and M2reg, do not fully acquire this typical M2 marker, indicating potential limitations in mirroring in vivo M2 phenotypes."
+        },
+        {
+          "biomarker_name": "IL-10 (Interleukin-10)",
+          "measured_tissue_or_fluid": "THP-1 cells / Triple cultures",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "undetectable",
+            "magnitude_quantification": "Could not be detected via ELISA (data not shown) in THP-1 cells 48h after differentiation or later in triple cultures."
+          },
+          "core_biological_function": "A cytokine that mediates anti-inflammatory responses, with distinct expression patterns in different macrophage subtypes (M1: low; M2wh: equal; M2reg: high).",
+          "relevant_activity_context": "In vitro differentiation of THP-1 cells and subsequent culture in a triple culture model.",
+          "performance_or_health_indicator": "The lack of detection suggests that the established macrophage models may not fully replicate the expected cytokine production profiles of in vivo M1, M2wh, or M2reg phenotypes, or indicates assay limitations."
+        },
+        {
+          "biomarker_name": "IL-12 (Interleukin-12)",
+          "measured_tissue_or_fluid": "THP-1 cells / Triple cultures",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "undetectable",
+            "magnitude_quantification": "Could not be detected via ELISA (data not shown) in THP-1 cells 48h after differentiation or later in triple cultures."
+          },
+          "core_biological_function": "A cytokine that promotes pro-inflammatory responses, with distinct expression patterns in different macrophage subtypes (M1: high; M2wh: equal; M2reg: low).",
+          "relevant_activity_context": "In vitro differentiation of THP-1 cells and subsequent culture in a triple culture model.",
+          "performance_or_health_indicator": "The lack of detection suggests that the established macrophage models may not fully replicate the expected cytokine production profiles of in vivo M1, M2wh, or M2reg phenotypes, or indicates assay limitations."
+        },
+        {
+          "biomarker_name": "TGF\u03b21 (Transforming Growth Factor Beta 1)",
+          "measured_tissue_or_fluid": "THP-1 cells / Triple cultures; Supernatants of macrophage models",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "increased then decreased then undetectable for M2reg; undetectable for M1 and M2wh",
+            "magnitude_quantification": "For M2reg macrophages, a 1.5 \u00b1 0.2-fold increase of untreated control was observed after 12h, which further decreased after 24h and was no longer detectable after 48h. M1 and M2wh phenotypes did not show any detectable TGF\u03b21 release via ELISA (data not shown), either at 48h after differentiation or later in triple cultures."
+          },
+          "core_biological_function": "A cytokine crucial for alveolar homeostasis, involved in tissue repair and immune regulation, and considered to be expressed by M2wh macrophages and alveolar macrophages (AMs).",
+          "relevant_activity_context": "In vitro differentiation of THP-1 cells into M1, M2wh, and M2reg macrophage phenotypes and subsequent culture in a triple culture model.",
+          "performance_or_health_indicator": "The transient detection of TGF\u03b21 from M2reg macrophages suggests a potential role in alveolar homeostasis, making M2reg more suitable for a physiological triple culture model. The lack of detection from M1 and M2wh, particularly at 48h, indicates that these models may not fully replicate the expected cytokine production profiles of in vivo M2wh or AM phenotypes, or indicates assay limitations."
+        }
+      ]
+    }
+  }
+]

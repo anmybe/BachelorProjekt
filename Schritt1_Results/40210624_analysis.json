@@ -1,0 +1,220 @@
+[
+  {
+    "title": "pmc Nat Commun Nat Commun Nature Communications 2041-1723 Nature Publishing Group UK London 11986092 40210624 58252 10.1038/s41467-025-58252-0 Article Plasma-to-tumour tissue integrated proteomics using nano-omics for biomarker discovery in glioblastoma http://orcid.org/0000-0001-8809-3907 Liu Xinming 1 2 3 Abmanhal-Masarweh Hanan 1 3 Iwanowytsch Olivia 1 3 Okwelogu Emmanuel 1 3 Arashvand Kiana 2 3 Karabatsou Konstantina 4 D\u2019Urso Pietro Ivo 4 http://orcid.org/0000-0003-3650-5572 Roncaroli Federico 5 6 http://orcid.org/0000-0002-2224-6672 Kostarelos Kostas 3 6 7 8 9 http://orcid.org/0000-0002-8432-7910 Kisby Thomas thomas.kisby@manchester.ac.uk 2 3 6 http://orcid.org/0000-0003-4720-2112 Hadjidemetriou Marilena marilena.hadjidemetriou@manchester.ac.uk 1 3 6 1 https://ror.org/027m9bs27 grid.5379.8 0000 0001 2166 2407 NanoOmics Lab, Division of Cancer Sciences, School of Medical Sciences, Faculty of Biology, Medicine and Health, The University of Manchester, Manchester, UK 2 https://ror.org/027m9bs27 grid.5379.8 0000 0001 2166 2407 NanoTherapeutics Lab, Division of Cell Matrix Biology and Regenerative Medicine, School of Biological Sciences, Faculty of Biology, Medicine and Health, University of Manchester, Manchester, UK 3 https://ror.org/027m9bs27 grid.5379.8 0000 0001 2166 2407 Centre for Nanotechnology in Medicine, Faculty of Biology, Medicine and Health, The University of Manchester, Manchester, UK 4 https://ror.org/019j78370 grid.412346.6 0000 0001 0237 2025 Department of Neurosurgery, Manchester Centre for Clinical Neurosciences, Salford Royal NHS Foundation Trust, Manchester, UK 5 https://ror.org/027m9bs27 grid.5379.8 0000 0001 2166 2407 Division of Neuroscience, School of Biological Sciences, Faculty of Biology, Medicine and Health, The University of Manchester, Manchester, UK 6 https://ror.org/027m9bs27 grid.5379.8 0000000121662407 Geoffrey Jefferson Brain Research Centre, Manchester Academic Health Science Centre, Northern Care Alliance NHS Foundation Trust, The University of Manchester, Manchester, UK 7 https://ror.org/00k1qja49 grid.424584.b 0000 0004 6475 7328 Nanomedicine Lab, Catalan Institute of Nanoscience and Nanotechnology (ICN2), CSIC and BIST, Campus UAB, Barcelona, Spain 8 https://ror.org/052g8jq94 grid.7080.f 0000 0001 2296 0625 Institute of Neuroscience, Universitat Aut\u00f2noma de Barcelona, Barcelona, Spain 9 https://ror.org/0371hy230 grid.425902.8 0000 0000 9601 989X Instituci\u00f3 Catalana de Recerca i Estudis Avan\u00e7ats (ICREA), Pg. Llu\u00eds Companys, Barcelona, Spain 10 4 2025 10 4 2025 2025 16 3412 14 10 2024 17 3 2025 \u00a9 The Author(s) 2025, corrected publication 2025 2025 https://creativecommons.org/licenses/by/4.0/ Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article\u2019s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article\u2019s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/ . Glioblastoma (GB) is the most lethal brain cancer, with patient survival rates remaining largely unchanged over the past two decades. Here, we introduce the Nano-omics integrative workflow that links systemic (plasma) and localised (tumour tissue) protein changes associated with GB progression. Mass spectrometry analysis of the nanoparticle biomolecule corona in GL261-bearing mice at different stages of GB revealed plasma protein alterations, even at low tumour burden, with over 30% overlap between GB-specific plasma and tumour tissue proteomes. Analysis of matched plasma and surgically resected tumour samples from high-grade glioma patients demonstrates the clinical applicability of the Nano-omics pipeline. Cross-species correlation identified 48 potential GB biomarker candidates involved in actin cytoskeleton organisation, focal adhesion, platelet activation, leukocyte migration, amino acid biosynthesis, carbon metabolism, and phagosome pathways. The Nano-omics approach holds promise for the discovery of early detection and disease monitoring biomarkers of central nervous system conditions, paving the way for subsequent clinical validation. The nanoparticle protein corona has potential to enrich disease monitoring and detect biomarkers. Here, the authors report on a nano-omics investigation of changes in plasma and tumour tissue proteins associated with glioblastoma and demonstrate biomarker discovery in mouse models and patient cohorts. Subject terms CNS cancer Diagnostic markers Nanobiotechnology https://doi.org/10.13039/501100000289 Cancer Research UK (CRUK) ACED; EICEDAAP\\100013 EDDPMA-Nov21\\100027 Hadjidemetriou Marilena https://doi.org/10.13039/501100000266 RCUK | Engineering and Physical Sciences Research Council (EPSRC) EP/P00119X/1 EP/S030719/1 Hadjidemetriou Marilena issue-copyright-statement \u00a9 Springer Nature Limited 2025 Introduction Glioblastoma (GB) is the most common and aggressive primary tumour of the central nervous system (CNS) in adults, with an incidence of 3 to 6 cases per 100,000 adults annually 1 \u2013 4 . Despite the considerable progress in surgical techniques, radiotherapy, and chemotherapy modalities, the prognosis for patients remains poor, with a 5-year overall survival rate of less than 5% and a median overall survival of 12\u201318 months 1 , 5 . Such dismal outcomes have fuelled efforts to understand the molecular landscape of GB, with the goal of achieving more precise patient stratification for personalised treatment 3 . The identification of peripheral biomarkers in \u2018liquid biopsies\u2019 has the potential to capture the spatial and temporal heterogeneity of GB, contributing to improved diagnosis, treatment response monitoring, and early detection of recurrence 6 . However, despite recent advances in multi-tumour early detection tests, the clinical application of liquid-biopsies in brain tumours is not fully explored, with no clinically approved biomarkers currently available for detection or disease monitoring. A considerable challenge lies in deciphering the correlation between tumour pathophysiology with blood-borne proteomic alterations. Such challenge is largely due to the overwhelming \u2018masking effect\u2019 of highly abundant proteins, such as albumin 7 . The extraction and proteomic analysis of considerably diluted amounts of brain disease-specific proteins in blood, pose a significant bottleneck for GB biomarker discovery. This underscores the need for the development of novel analytical tools to enable the discovery of brain disease-induced alterations in the blood proteome. To address this limitation, our previous work demonstrated the potential of exploiting the nanoparticle (NP) biomolecule corona to overcome the albumin masking effect and enrich low-abundance proteins 8 , 9 . By leveraging the spontaneous surface-absorption of biomolecules onto the NP surface in vivo (following intravenous administration of NPs) and ex vivo (through incubation of NPs with plasma samples), 10 the \u2018Nano-omics approach\u2019 has been applied for biomarker discovery in both preclinical and clinical settings of cancer and neurodegenerative diseases 11 \u2013 16 . The potential of multidimensional proteomics in GB biomarker discovery was recently exemplified in a human cohort study integrating tumour tissue and peripheral blood proteomics 17 . However, most clinical studies analyse samples from single disease stages, limiting our understanding of longitudinal proteomic changes. Moreover, in the context of GB, obtaining human clinical samples at low tumour burden remains extremely challenging. Here, we build upon our previously established NP-enabled plasma proteomics workflow by integrating spatially resolved tumour tissue proteomics analysis. Our goal is to identify highly specific plasma proteomic signatures associated with GB while elucidating the underlying molecular mechanisms that drive the systemic response to GB growth. By bridging the gap between plasma and tumour tissue proteomes, we adopt a comprehensive, mechanism-driven approach to biomarker discovery, linking systemic proteomic alterations with those observed in the GB tumour microenvironment. We utilise the GL261 syngeneic murine model to longitudinally track the plasma and tumour tissue proteomes at various stages of GB progression. Our findings reveal a notable overlap between the NP-enriched plasma and tumour tissue proteomes, even at low tumour burden, highlighting dynamic protein changes associated with GB progression. In addition, we provide pilot data demonstrating the applicability of the Nano-omics \u2018plasma-to-tumour\u2019 integrative pipeline in clinical biomarker discovery by analysing matched plasma and surgically resected tumour samples from n = 10 patients with high-grade gliomas. Finally, our proof-of-concept cross-species pathway correlation analysis facilitated the selection of a panel of 48 protein biomarker candidates for subsequent clinical validation. The Nano-omics integrative approach has the potential to provide valuable biological insights into a range of conditions affecting the central nervous system, paving the way for mechanism-driven biomarker discovery and personalised treatment strategies.",
+    "document_source_id": "40210624",
+    "analysis_date": "2025-12-10",
+    "extracted_data": {
+      "document_summary": "The study developed and applied a Nano-omics integrative workflow, utilizing nanoparticle protein coronas, to link systemic (plasma) and localized (tumor tissue) protein changes associated with glioblastoma (GB) progression. This comprehensive proteomic investigation in GL261 murine models and human high-grade glioma patients aimed to identify GB-specific molecular pathways and peripheral blood biomarkers for early detection and disease monitoring. The methodology included inducing murine GB models, preparing and administering liposome nanoparticles in vivo or incubating them ex vivo with plasma, and subsequent proteomic analysis via mass spectrometry to identify differentially abundant proteins. The findings revealed significant plasma protein alterations, even at low tumor burden, with over 30% overlap between GB-specific plasma and tumor tissue proteomes, leading to the identification of 48 potential GB biomarker candidates across various biological pathways.",
+      "treatment_details": {
+        "therapy_type": "Biomarker Discovery Method: Nano-omics integrative proteomics workflow utilizing nanoparticle protein coronas for glioblastoma (GB).",
+        "dose_specificity": "The study involved inducing murine glioblastoma by stereotactic injection of 50,000 GL261 cells into the striatum of C57BL/6 J mice. Liposomes (HSPC:Chol:DSPE-PEG2000) were prepared at a final lipid concentration of 25 mM and administered intravenously at a lipid dose of 0.125 mM/g body weight (equivalent to 5 mg/kg doxorubicin-loaded liposomes) 10 minutes prior to blood collection in mice. In human validation, ex vivo nanoparticle corona analysis was performed on pre-operative plasma samples from 10 high-grade glioma patients. Matched blood and tumor tissue samples were collected from mice at D7, D14, and D18 post-tumor inoculation, representing low, medium, and large tumor volumes. Matched resected tumor tissue from human patients was analyzed by LCM-coupled LC:MS/MS. No specific dose-response comparisons for nanoparticle application or tumor cell inoculation were reported for therapeutic purposes, as the focus was on biomarker discovery."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "Nanoparticle protein binding (Pb) values",
+          "measured_tissue_or_fluid": "Plasma (proteins bound to intravenously injected liposomes)",
+          "activity_type": "Quantitative assessment of protein binding",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Increased progressively with tumour volume at D7, D14, and D18. Significantly higher (p-value < 0.05 implied by 'significant differences') between GL261-bearing and control mice at D14 and D18."
+          },
+          "core_biological_function": "Reflects the availability of plasma proteins for binding to nanoparticles, enhanced by the release of tumour-secreted materials into the bloodstream.",
+          "relevant_activity_context": "Longitudinal analysis of orthotopic GL261 murine model of Glioblastoma progression at D7, D14, and D18 post-tumour inoculation.",
+          "performance_or_health_indicator": "Could potentially indicate the presence of cancer and/or other diseases; attributed to increased tumour burden enhancing the release of tumour-secreted materials."
+        },
+        {
+          "biomarker_name": "Differentially Abundant Proteins (DAPs) in plasma (general)",
+          "measured_tissue_or_fluid": "Plasma (protein corona from liposomes)",
+          "activity_type": "Protein Level (label-free mass spectrometry)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "115 DAPs identified at D7 (p < 0.05), increasing to 206 at D14, and 417 at D18. The majority of DAPs were upregulated in tumour-bearing mice. A group of 116 DAPs showed differential abundance across all three time points, with some exhibiting progressively increasing or decreasing plasma levels as tumour burden increased."
+          },
+          "core_biological_function": "Reflects alterations in the plasma proteome in response to brain tumour growth, indicating shedding of tumour-related proteins into the bloodstream.",
+          "relevant_activity_context": "Longitudinal monitoring of GL261-bearing mice across three stages of tumour growth (D7, D14, D18) using nanoparticle-enabled proteomic analysis.",
+          "performance_or_health_indicator": "Suggests distinct proteomic changes at different stages of tumour progression, highlighting the importance of longitudinal studies for capturing dynamic changes associated with GB progression; identifies potential molecular pathways that could serve as sources for peripheral blood biomarkers."
+        },
+        {
+          "biomarker_name": "Alpha-2-HS-glycoprotein (AHSG)",
+          "measured_tissue_or_fluid": "Plasma (serum biomarker)",
+          "activity_type": "Protein Level (identified as a DAP in protein corona analysis)",
+          "measured_effect": {
+            "direction_of_change": "progressively increasing or decreasing",
+            "magnitude_quantification": "Identified as one of the 116 differentially abundant proteins (DAPs) across all three time points (D7, D14, D18), grouped within Clusters 4 and 6, which exhibited progressively increasing or decreasing plasma levels as tumour burden increased."
+          },
+          "core_biological_function": "Not specified in provided text.",
+          "relevant_activity_context": "Longitudinal monitoring of GL261-bearing mice across three stages of tumour growth (D7, D14, D18) using nanoparticle-enabled proteomic analysis.",
+          "performance_or_health_indicator": "Has been previously proposed to have high prognostic value in human GB."
+        },
+        {
+          "biomarker_name": "Vinculin (Vcl)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Upregulated in the plasma as early as D7 post-inoculation of GL261"
+          },
+          "core_biological_function": "Component of the focal adhesion pathway, involved in cell adhesion, migration, proliferation, and Glioblastoma (GB) growth and progression.",
+          "relevant_activity_context": "Early stage (D7) of GL261 tumour growth in mice.",
+          "performance_or_health_indicator": "Potential utility for early detection of low-burden Glioblastoma (GB)."
+        },
+        {
+          "biomarker_name": "Zyxin (Zyx)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Upregulated in the plasma as early as D7 post-inoculation of GL261"
+          },
+          "core_biological_function": "Component of the focal adhesion pathway, involved in cell adhesion, migration, proliferation, and Glioblastoma (GB) growth and progression.",
+          "relevant_activity_context": "Early stage (D7) of GL261 tumour growth in mice.",
+          "performance_or_health_indicator": "Potential utility for early detection of low-burden Glioblastoma (GB)."
+        },
+        {
+          "biomarker_name": "Integrin subunit alpha 6 (Itga6)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Upregulated in the plasma as early as D7 post-inoculation of GL261"
+          },
+          "core_biological_function": "Component of the focal adhesion pathway, involved in cell adhesion, migration, proliferation, and Glioblastoma (GB) growth and progression.",
+          "relevant_activity_context": "Early stage (D7) of GL261 tumour growth in mice.",
+          "performance_or_health_indicator": "Potential utility for early detection of low-burden Glioblastoma (GB)."
+        },
+        {
+          "biomarker_name": "Ras-related protein Rap-1b (Rap-1b)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Upregulated in the plasma as early as D7 post-inoculation of GL261"
+          },
+          "core_biological_function": "Component of the focal adhesion pathway, involved in cell adhesion, migration, proliferation, and Glioblastoma (GB) growth and progression.",
+          "relevant_activity_context": "Early stage (D7) of GL261 tumour growth in mice.",
+          "performance_or_health_indicator": "Potential utility for early detection of low-burden Glioblastoma (GB)."
+        },
+        {
+          "biomarker_name": "Argininosuccinate synthase (Ass1)",
+          "measured_tissue_or_fluid": "Plasma, Tumour tissue",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Progressively down-regulated with increasing disease burden; downregulated in human plasma (Supplementary Fig 6)"
+          },
+          "core_biological_function": "Part of the protein network related to the biosynthesis of amino acids pathway.",
+          "relevant_activity_context": "Increasing Glioblastoma (GB) disease burden in mice and human patients.",
+          "performance_or_health_indicator": "Potential biomarker for Glioblastoma (GB) progression."
+        },
+        {
+          "biomarker_name": "Calnexin (Canx)",
+          "measured_tissue_or_fluid": "Plasma, Tumour tissue",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Progressively upregulated with increasing disease burden; upregulated in tumour tissue; upregulated in human plasma (Supplementary Fig 6)"
+          },
+          "core_biological_function": "Associated with protein processing in the endoplasmic reticulum pathway and phagosome pathway.",
+          "relevant_activity_context": "Increasing Glioblastoma (GB) disease burden in mice and human patients.",
+          "performance_or_health_indicator": "Potential biomarker for Glioblastoma (GB) progression."
+        },
+        {
+          "biomarker_name": "Dolichyl-diphosphooligosaccharide protein glycosyltransferase subunit 1 (Rpn1)",
+          "measured_tissue_or_fluid": "Plasma, Tumour tissue",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Progressively upregulated with increasing disease burden; upregulated in tumour tissue; upregulated in human plasma (Supplementary Fig 6)"
+          },
+          "core_biological_function": "Associated with protein processing in the endoplasmic reticulum pathway.",
+          "relevant_activity_context": "Increasing Glioblastoma (GB) disease burden in mice and human patients.",
+          "performance_or_health_indicator": "Potential biomarker for Glioblastoma (GB) progression."
+        },
+        {
+          "biomarker_name": "Dolichyl-diphosphooligosaccharide protein glycosyltransferase subunit 2 (Rpn2)",
+          "measured_tissue_or_fluid": "Plasma, Tumour tissue",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Progressively upregulated with increasing disease burden; upregulated in tumour tissue; upregulated in human plasma (Supplementary Fig 6)"
+          },
+          "core_biological_function": "Associated with protein processing in the endoplasmic reticulum pathway.",
+          "relevant_activity_context": "Increasing Glioblastoma (GB) disease burden in mice and human patients.",
+          "performance_or_health_indicator": "Potential biomarker for Glioblastoma (GB) progression."
+        },
+        {
+          "biomarker_name": "Ras-related protein R-Ras2 (Rras2)",
+          "measured_tissue_or_fluid": "Plasma, Tumour tissue",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Progressively upregulated with increasing disease burden; upregulated in tumour tissue; upregulated in human plasma (Supplementary Fig 6)"
+          },
+          "core_biological_function": "Linked to the regulation of actin cytoskeleton pathway.",
+          "relevant_activity_context": "Increasing Glioblastoma (GB) disease burden in mice and human patients.",
+          "performance_or_health_indicator": "Potential biomarker for Glioblastoma (GB) progression."
+        },
+        {
+          "biomarker_name": "STT3 oligosaccharyltransferase complex catalytic subunit A (STT3a)",
+          "measured_tissue_or_fluid": "Plasma, Tumour tissue",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Progressively upregulated with increasing disease burden; upregulated in tumour tissue; upregulated in human plasma (Supplementary Fig 6)"
+          },
+          "core_biological_function": "Associated with protein processing in the endoplasmic reticulum pathway.",
+          "relevant_activity_context": "Increasing Glioblastoma (GB) disease burden in mice and human patients.",
+          "performance_or_health_indicator": "Potential biomarker for Glioblastoma (GB) progression."
+        },
+        {
+          "biomarker_name": "SEC61 translocon subunit alpha 1 (Sec61a1)",
+          "measured_tissue_or_fluid": "Plasma, Tumour tissue",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Progressively upregulated with increasing disease burden; upregulated in tumour tissue; upregulated in human plasma (Supplementary Fig 6)"
+          },
+          "core_biological_function": "Associated with protein processing in the endoplasmic reticulum pathway and phagosome pathway.",
+          "relevant_activity_context": "Increasing Glioblastoma (GB) disease burden in mice and human patients.",
+          "performance_or_health_indicator": "Potential biomarker for Glioblastoma (GB) progression."
+        },
+        {
+          "biomarker_name": "Phosphofructokinase, Liver Type (PFKL)",
+          "measured_tissue_or_fluid": "Human Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Log2 fold change > 10, ranked among top 5 most significant plasma differentially abundant proteins (DAPs) between Glioblastoma (GB) patients and healthy controls."
+          },
+          "core_biological_function": "Involved in metabolic pathways, specifically carbon metabolism.",
+          "relevant_activity_context": "High-grade glioma patients compared to healthy controls.",
+          "performance_or_health_indicator": "Potential biomarker for Glioblastoma (GB) detection and monitoring."
+        },
+        {
+          "biomarker_name": "Von Willebrand Factor (VWF)",
+          "measured_tissue_or_fluid": "Human Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Log2 fold change > 10, ranked among top 5 most significant plasma differentially abundant proteins (DAPs) between Glioblastoma (GB) patients and healthy controls."
+          },
+          "core_biological_function": "Associated with the cytoskeleton and extracellular matrix functional group.",
+          "relevant_activity_context": "High-grade glioma patients compared to healthy controls.",
+          "performance_or_health_indicator": "Potential biomarker for Glioblastoma (GB) detection and monitoring."
+        },
+        {
+          "biomarker_name": "Tubulin beta-4B chain (TUBB4B)",
+          "measured_tissue_or_fluid": "Human Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Log2 fold change > 10, ranked among top 5 most significant plasma differentially abundant proteins (DAPs) between Glioblastoma (GB) patients and healthy controls."
+          },
+          "core_biological_function": "Associated with the cytoskeleton and extracellular matrix functional group.",
+          "relevant_activity_context": "High-grade glioma patients compared to healthy controls.",
+          "performance_or_health_indicator": "Potential biomarker for Glioblastoma (GB) detection and monitoring."
+        }
+      ]
+    }
+  }
+]

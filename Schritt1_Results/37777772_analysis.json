@@ -1,0 +1,568 @@
+[
+  {
+    "title": "pmc J Neuroinflammation J Neuroinflammation Journal of Neuroinflammation 1742-2094 BioMed Central London 10543875 37777772 2903 10.1186/s12974-023-02903-w Research Inhibition of neutrophil extracellular trap formation ameliorates neuroinflammation and neuronal apoptosis via STING-dependent IRE1\u03b1/ASK1/JNK signaling pathway in mice with traumatic brain injury Shi Guihong 1 2 Liu Liang 1 2 Cao Yiyao 1 2 Ma Guangshuo 1 2 3 Zhu Yanlin 1 2 Xu Jianye 1 2 Zhang Xu 4 Li Tuo 1 2 Mi Liang 1 2 Jia Haoran 1 2 Zhang Yanfeng 1 2 Liu Xilei 1 2 Zhou Yuan 1 2 Li Shenghui 1 2 Yang Guili 1 2 Liu Xiao 1 2 Chen Fanglian 2 Wang Baolong 1 2 Deng Quanjun 1 2 Zhang Shu zhangshu2017@tmu.edu.cn 1 2 Zhang Jianning jianningzhang@hotmail.com 1 2 1 https://ror.org/003sav965 grid.412645.0 0000 0004 1757 9434 Department of Neurosurgery, Tianjin Medical University General Hospital, Tianjin, 300052 People\u2019s Republic of China 2 https://ror.org/03m01yf64 grid.454828.7 0000 0004 0638 8050 Key Laboratory of Post-Trauma Neuro-Repair and Regeneration in Central Nervous System, Tianjin Key Laboratory of Injuries, Variations and Regeneration of Nervous System, Tianjin Neurological Institute, Ministry of Education, Tianjin, 300052 People\u2019s Republic of China 3 Department of Neurosurgery, School of Medicine, Tianjin First Central Hospital, Nankai University, Tianjin, 300192 China 4 https://ror.org/01y1kjr75 grid.216938.7 0000 0000 9878 7032 School of Medicine, Nankai University, Tianjin, 300192 China 30 9 2023 30 9 2023 2023 20 222 19 4 2023 22 9 2023 \u00a9 The Author(s) 2023 https://creativecommons.org/licenses/by/4.0/ Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/ . The Creative Commons Public Domain Dedication waiver ( http://creativecommons.org/publicdomain/zero/1.0/ ) applies to the data made available in this article, unless otherwise stated in a credit line to the data. Background Neuroinflammation is one of the most important pathogeneses in secondary brain injury after traumatic brain injury (TBI). Neutrophil extracellular traps (NETs) forming neutrophils were found throughout the brain tissue of TBI patients and elevated plasma NET biomarkers correlated with worse outcomes. However, the biological function and underlying mechanisms of NETs in TBI-induced neural damage are not yet fully understood. Here, we used Cl-amidine, a selective inhibitor of NETs to investigate the role of NETs in neural damage after TBI. Methods Controlled cortical impact model was performed to establish TBI. Cl-amidine, 2\u20323\u2032-cGAMP (an activator of stimulating Interferon genes (STING)), C-176 (a selective STING inhibitor), and Kira6 [a selectively phosphorylated inositol-requiring enzyme-1 alpha [IRE1\u03b1] inhibitor] were administrated to explore the mechanism by which NETs promote neuroinflammation and neuronal apoptosis after TBI. Peptidyl arginine deiminase 4 (PAD4), an essential enzyme for neutrophil extracellular trap formation, is overexpressed with adenoviruses in the cortex of mice 1 day before TBI. The short-term neurobehavior tests, magnetic resonance imaging (MRI), laser speckle contrast imaging (LSCI), Evans blue extravasation assay, Fluoro-Jade C (FJC), TUNEL, immunofluorescence, enzyme-linked immunosorbent assay (ELISA), western blotting, and quantitative-PCR were performed in this study. Results Neutrophils form NETs presenting in the circulation and brain at 3 days after TBI. NETs inhibitor Cl-amidine treatment improved short-term neurological functions, reduced cerebral lesion volume, reduced brain edema, and restored cerebral blood flow (CBF) after TBI. In addition, Cl-amidine exerted neuroprotective effects by attenuating BBB disruption, inhibiting immune cell infiltration, and alleviating neuronal death after TBI. Moreover, Cl-amidine treatment inhibited microglia/macrophage pro-inflammatory polarization and promoted anti-inflammatory polarization at 3 days after TBI. Mechanistically, STING ligand 2\u20323\u2032-cGAMP abolished the neuroprotection of Cl-amidine via IRE1\u03b1/ASK1/JNK signaling pathway after TBI. Importantly, overexpression of PAD4 promotes neuroinflammation and neuronal death via the IRE1\u03b1/ASK1/JNK signaling pathway after TBI. However, STING inhibitor C-176 or IRE1\u03b1 inhibitor Kira6 effectively abolished the neurodestructive effects of PAD4 overexpression after TBI. Conclusion Altogether, we are the first to demonstrate that NETs inhibition with Cl-amidine ameliorated neuroinflammation, neuronal apoptosis, and neurological deficits via STING-dependent IRE1\u03b1/ASK1/JNK signaling pathway after TBI. Thus, Cl-amidine treatment may provide a promising therapeutic approach for the early management of TBI. Graphical Abstract Supplementary Information The online version contains supplementary material available at 10.1186/s12974-023-02903-w. Keywords Neutrophil extracellular traps Cl-amidine Neuroinflammation Neuronal apoptosis STING IRE1\u03b1 Traumatic brain injury National Natural Science Foundation of China 81801234 82071389 81901525 81930031 Zhou Yuan Yang Guili Zhang Shu Zhang Jianning Tianjin Health Technology ZC20185 Wang Baolong issue-copyright-statement \u00a9 BioMed Central Ltd., part of Springer Nature 2023 Introduction Traumatic brain injury (TBI) remains one of the leading causes of death and devastating diseases worldwide across all age groups [ 1 ]. The treatment of TBI is particularly challenging because it is heterogeneous in nature and often induced various damages and complex pathogenesis pathways, which are usually classified as primary and secondary injuries. Secondary brain injury refers to further damage due to complicated and interrelated pathophysiological processes that include but are not limited to cellular calcium homeostasis, glutamate excitotoxicity, oxidative stress, neuronal apoptosis, neuroinflammatory response, and blood\u2013brain barrier (BBB) disruption [ 2 \u2013 4 ]. Recent evidence suggests that a non-resolving neuroinflammatory response and delayed neuronal injury following TBI are critical secondary injury pathogenesis that can result in chronic motor and cognitive function deficits [ 5 ]. However, therapeutic options for posttraumatic neuroinflammation and ongoing neuronal death remain limited and are often ineffective, indicating a lack of understanding of the pathophysiological mechanism of secondary brain injury post-TBI and targeted treatment approaches. Previous studies have suggested that neutrophils as the most abundant leukocytes in circulation and the first peripheral immune cells to reach the contused brain are highly involved in regulating neuroinflammatory responses and neuronal apoptosis after brain injury [ 6 ]. Various mechanisms of neutrophil-mediated immune responses have been proposed, including neutrophil extracellular traps (NETs), an extracellular web-like structure released by neutrophils, which have been recently identified as a novel mechanism contributing to exacerbation of inflammation [ 7 ], the onset of autoimmune disorders [ 8 ] and thrombi formation [ 9 ]. Since NETs were first reported by Brinkman in 2004, the NET formation has been reported to be involved in the pathophysiological processes of various brain injuries, such as TBI [ 10 ]. NETs are composed of extracellular double-stranded DNA combined with several components, including histones, neutrophil elastase, myeloperoxidase (MPO), and cathepsin [ 11 ]. NETs have been found in the brain parenchyma [ 12 ] and cerebrovascular thrombi [ 13 ] of ischemic stroke patients and inhibition of NETs formation could improve stroke outcomes [ 12 ]. Functionally, a recent study reported increased NET in the plasma of patients with severe TBI, which correlates with elevated ICP and worse neurological function [ 10 ]. However, whether NETs forming neutrophils are involved in exacerbating neuroinflammatory responses and neuronal apoptosis after TBI remains unclear. Likewise, the underlying mechanism by which NET formation plays a detrimental role in the acute phase of TBI has yet to be determined. DNA released by NETs is one of the main sources of circulating free DNA after TBI, and it plays a biological role by activating a series of DNA sensors in the cytosol. Cyclic guanosine 5\u2032-monophosphate (GMP)\u2013adenosine 5\u2032-monophosphate (AMP) synthase (cGAS) is a crucial cytoplasmic DNA receptor that recognizes endogenous and exogenous double-stranded DNA (dsDNA) [ 14 ]. cGAS then catalyzes a reaction between guanosine triphosphate (GTP) and adenosine triphosphate (ATP) to produce a second messenger called cyclic GMP-AMP (2\u20323\u2032-cGAMP), which activates the adaptor protein stimulating Interferon genes (STING) [ 15 ]. STING is a vital transmembrane dimeric protein that is located on the endoplasmic reticulum (ER) and triggers the tank-binding kinase 1 (TBK1)/ I interferon regulatory factor 3 (IRF3)/ type I interferons (IFNs) signaling pathway and proinflammatory cytokines in response to pathogenic DNA [ 15 ]. Recently studies have revealed that STING not only provokes the TBK1/IRF3/IFNs pathway in a classical way but also is involved in the regulation of ER stress and unfolded protein response (UPR) [ 16 \u2013 18 ]. STING has been well reported to play an important role in regulating the neuroinflammatory process and neuronal death after TBI [ 19 , 20 ], but mechanistic regulators of STING activation in TBI are currently unclear. Likewise, the underlying mechanism by which STING regulates the inflammatory process and neuronal death after TBI has yet to be explored. Interestingly, Inositol-requiring enzyme-1 alpha (IRE1\u03b1), one of the key sensor proteins in the endoplasmic reticulum associated with ER stress has been well-reported to broadly regulate neuroinflammation and neuronal death via TNF receptor-associated factor 2 (TRAF2)/apoptosis signal-regulating kinase 1(ASK1) / c-Jun N-terminal kinase (JNK) axis after TBI [ 21 ]. Consequently, STING-mediated ER stress and STING-dependent IRE1\u03b1/ASK1/JNK signaling pathway may exert neurodestructive effects in the acute phase of TBI. In the present study, controlled cortical impact (CCI), one of the most widely applied models of TBI in animal studies, was conducted in mice to mimic clinical TBI [ 22 ]. Inspired by Vaibhav et al. Cl-amidine, an active enzyme peptidyl arginine deiminase 4 (PAD4) inhibitor was used to suppress NET formation after CCI [ 10 ]. We assumed that NET formation exacerbates neurological deficits, and promotes neuroinflammation and neuronal cell death via the STING-dependent IRE1\u03b1/ASK1/JNK signaling pathway after induction of TBI in mice.",
+    "document_source_id": "37777772",
+    "analysis_date": "2025-12-10",
+    "extracted_data": {
+      "document_summary": "This study investigated the role of neutrophil extracellular traps (NETs) in traumatic brain injury (TBI)-induced neural damage in mice, employing a controlled cortical impact model and various pharmacological and genetic manipulations. The central finding was that inhibiting NETs with Cl-amidine ameliorated neuroinflammation, neuronal apoptosis, and neurological deficits by suppressing the STING-dependent IRE1\u03b1/ASK1/JNK signaling pathway. Specifically, Cl-amidine treatment reduced cerebral lesion volume, brain edema, and restored cerebral blood flow, while also attenuating blood-brain barrier disruption, inhibiting immune cell infiltration, alleviating neuronal death, and promoting a shift from pro-inflammatory to anti-inflammatory microglia/macrophage polarization. Conversely, STING activation by 2'3'-cGAMP abolished Cl-amidine's neuroprotection, and PAD4 overexpression aggravated neuroinflammation and neuronal death via the same pathway, effects that were successfully counteracted by STING or IRE1\u03b1 inhibition. The study also detailed comprehensive methodologies for establishing the TBI model and assessing various molecular and cellular changes.",
+      "treatment_details": {
+        "therapy_type": "Controlled Cortical Impact (CCI) model for Traumatic Brain Injury (TBI); Pharmacological interventions including Neutrophil Extracellular Trap (NET) inhibition with Cl-amidine, STING activation with 2'3'-cGAMP, STING inhibition with C-176, and IRE1\u03b1 inhibition with Kira6; Genetic manipulation via adenovirus-mediated overexpression of Peptidyl arginine deiminase 4 (PAD4).",
+        "dose_specificity": "TBI was induced using a controlled cortical impactor (3-mm flat-tip, 5 m/s velocity, 200 ms dwelling time, 2.2 mm depth, 3.5 mm craniotomy). Cl-amidine was administered at 50 mg/kg intraperitoneally (i.p.) once daily for three days, starting 1 hour post-TBI. 2'3'-cGAMP was given at 1 mg/kg intravenously 10 minutes pre-TBI, then repeated at 24 and 48 hours post-TBI. C-176 was administered at 10 mg/kg i.p. 1 hour post-TBI, daily until sacrifice. Kira6 was given at 10 mg/kg i.p. 1 hour post-TBI, once daily for three days. Ad-PAD4 or Ad-con (control) adenoviruses were stereotactically injected (4 \u03bcL total at 0.5 \u03bcL/min across two cortical locations) 1 day before CCI to overexpress PAD4. PAD4 overexpression resulted in a 2.28-fold increase in PAD4 protein and 1.73-fold increase in H3Cit at 3 days post-TBI. Effects were analyzed at 1 and 3 days post-TBI. No explicit dose-response comparisons were reported for most agents, and potential inflammatory or cytotoxic effects of the adenovirus vector were not tested."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "Neutrophil Extracellular Traps (NETs)",
+          "measured_tissue_or_fluid": "Brain tissue, Circulation, Contused brain regions (in TBI patients)",
+          "activity_type": "Formation/Presence level",
+          "measured_effect": {
+            "direction_of_change": "higher (after TBI), lower (with Cl-amidine), higher (with PAD4 overexpression)",
+            "magnitude_quantification": "Present in circulation and brain at 3 days post-TBI. Effectively attenuated by Cl-amidine. Increased by overexpression of PAD4 in the cortex at 3 days post-TBI."
+          },
+          "core_biological_function": "Extracellular web-like structures composed of double-stranded DNA, histones, neutrophil elastase, MPO, and cathepsin, released by neutrophils. While involved in pathogen killing, dysfunctional or excessive NET formation contributes to pathogenic mechanisms.",
+          "relevant_activity_context": "Traumatic Brain Injury (TBI) in mice (Controlled Cortical Impact model) and TBI patients; modulated by Cl-amidine inhibition or PAD4 overexpression.",
+          "performance_or_health_indicator": "Plays a detrimental role in promoting neuronal death and microglia-mediated neuroinflammation after TBI. Correlated with elevated intracranial pressure and worse neurological function in TBI patients. Inhibition is a potential therapeutic strategy for TBI management, ameliorating neurological deficits."
+        },
+        {
+          "biomarker_name": "Plasma NET biomarkers",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Elevated plasma NET biomarkers correlated with worse outcomes in TBI patients. No specific numerical value."
+          },
+          "core_biological_function": "Indicators of neutrophil extracellular trap formation, which contribute to inflammation and adverse outcomes.",
+          "relevant_activity_context": "Traumatic Brain Injury (TBI) in patients",
+          "performance_or_health_indicator": "Correlated with worse neurological outcomes, including elevated intracranial pressure and worse neurological function."
+        },
+        {
+          "biomarker_name": "Peptidyl arginine deiminase 4 (PAD4)",
+          "measured_tissue_or_fluid": "Cortex (ipsilateral/contused)",
+          "activity_type": "Protein expression / Gene overexpression",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Increased in a time-dependent manner compared with sham mice, peaking at 3 days after TBI (p < 0.001). Overexpressed with adenoviruses 1 day before TBI, resulting in 2.28-fold upregulation at 3 days post-TBI (p < 0.01)."
+          },
+          "core_biological_function": "Essential histone-modifying enzyme that orchestrates Neutrophil Extracellular Trap (NET) formation.",
+          "relevant_activity_context": "Traumatic Brain Injury (TBI); adenovirus-mediated overexpression before TBI.",
+          "performance_or_health_indicator": "Indicates activation of the NET formation pathway in the brain after TBI. Overexpression promotes neuroinflammation and neuronal death after TBI."
+        },
+        {
+          "biomarker_name": "STING (Stimulator of Interferon Genes)",
+          "measured_tissue_or_fluid": "Endoplasmic reticulum (intracellular), Contused cortex, Neurons and microglia in brain tissue",
+          "activity_type": "Protein expression / Activation level / Cellular distribution",
+          "measured_effect": {
+            "direction_of_change": "higher (after TBI), lower (with Cl-amidine), higher (with PAD4 overexpression/2'3'-cGAMP)",
+            "magnitude_quantification": "Increased significantly and time-dependently, peaking at 3 days post-TBI (p < 0.001). Significantly decreased by Cl-amidine treatment (p < 0.001). Its activation by 2'3'-cGAMP abolished Cl-amidine's neuroprotection. Mainly expressed in neurons (NeuN+) and microglia (Iba-1+) post-TBI; little co-localization with astrocytes, none with neutrophils or endothelial cells. PAD4 overexpression aggravated STING-dependent neuronal death and microglial activation."
+          },
+          "core_biological_function": "An adaptor protein located on the endoplasmic reticulum that mediates innate immune responses. It triggers proinflammatory cytokine pathways (like TBK1/IRF3/type I IFNs), is involved in ER stress and unfolded protein response, and acts as a bridge between NET formation and IRE1\u03b1 activation.",
+          "relevant_activity_context": "Traumatic Brain Injury (TBI), particularly via the STING-dependent IRE1\u03b1/ASK1/JNK signaling pathway; modulated by NET inhibition (Cl-amidine), STING activation (2'3'-cGAMP), or PAD4 overexpression.",
+          "performance_or_health_indicator": "Its activation contributes to neuroinflammation and neuronal death, indicating its critical role in post-TBI pathology. Inhibition with C-176 abolished neurodestructive effects, and its reduced expression by Cl-amidine correlates with neuroprotection."
+        },
+        {
+          "biomarker_name": "IRE1\u03b1 (Inositol-requiring enzyme-1 alpha)",
+          "measured_tissue_or_fluid": "Endoplasmic reticulum (intracellular), Neurons and microglia in brain tissue (contused cortex)",
+          "activity_type": "Protein expression / Activation level / Signaling pathway involvement",
+          "measured_effect": {
+            "direction_of_change": "higher (after TBI/PAD4 overexpression), lower (with Cl-amidine/Kira6), higher (with 2'3'-cGAMP)",
+            "magnitude_quantification": "IRE1\u03b1 inhibitor Kira6 effectively abolished neurodestructive effects of PAD4 overexpression. Its expression was effectively reduced by Cl-amidine. Overexpression of PAD4 aggravated IRE1\u03b1 activation-associated neuronal apoptosis and neuroinflammation. Numbers of IRE1\u03b1-positive neurons/microglia were significantly reduced by Cl-amidine (p < 0.001) but increased by 2'3'-cGAMP pretreatment (p < 0.01)."
+          },
+          "core_biological_function": "A key endoplasmic reticulum (ER) stress sensor protein that broadly regulates neuroinflammation and neuronal death, primarily via the TRAF2/ASK1/JNK axis and in a STING-dependent manner.",
+          "relevant_activity_context": "Traumatic Brain Injury (TBI), specifically within the STING-dependent IRE1\u03b1/ASK1/JNK signaling pathway; modulated by NET inhibition, PAD4 overexpression, and STING activation.",
+          "performance_or_health_indicator": "Its activation leads to neuroinflammation, neuronal death, and neural damage after TBI. Its inhibition or reduced expression indicates a neuroprotective effect by ameliorating neuronal apoptosis and microglia-mediated inflammatory responses."
+        },
+        {
+          "biomarker_name": "ASK1 (Apoptosis signal-regulating kinase 1)",
+          "measured_tissue_or_fluid": "Intracellular (implied), Contused cortex",
+          "activity_type": "Signaling pathway involvement",
+          "measured_effect": {
+            "direction_of_change": "Activation contributes to detrimental effects",
+            "magnitude_quantification": "Part of the STING-dependent IRE1\u03b1/ASK1/JNK signaling pathway that mediates neuroinflammation and neuronal apoptosis. Specific changes in its activity/levels are reported for its phosphorylated form (p-ASK1)."
+          },
+          "core_biological_function": "A component of the IRE1\u03b1/ASK1/JNK axis involved in regulating neuroinflammation and neuronal death.",
+          "relevant_activity_context": "Traumatic Brain Injury (TBI), as part of the STING-dependent IRE1\u03b1/ASK1/JNK signaling pathway.",
+          "performance_or_health_indicator": "Mediates neuroinflammation and neuronal apoptosis after TBI."
+        },
+        {
+          "biomarker_name": "JNK (c-Jun N-terminal kinase)",
+          "measured_tissue_or_fluid": "Intracellular (implied), Contused cortex",
+          "activity_type": "Signaling pathway involvement",
+          "measured_effect": {
+            "direction_of_change": "Activation contributes to detrimental effects",
+            "magnitude_quantification": "Part of the STING-dependent IRE1\u03b1/ASK1/JNK signaling pathway that mediates neuroinflammation and neuronal apoptosis. Specific changes in its activity/levels are reported for its phosphorylated form (p-JNK)."
+          },
+          "core_biological_function": "A component of the IRE1\u03b1/ASK1/JNK axis involved in regulating neuroinflammation and neuronal death.",
+          "relevant_activity_context": "Traumatic Brain Injury (TBI), as part of the STING-dependent IRE1\u03b1/ASK1/JNK signaling pathway.",
+          "performance_or_health_indicator": "Mediates neuroinflammation and neuronal apoptosis after TBI."
+        },
+        {
+          "biomarker_name": "Brain edema volume (T2-hyperintense area)",
+          "measured_tissue_or_fluid": "Brain (cortical impact site)",
+          "activity_type": "Volume measurement (MRI) / T2-weighted images signal quantification",
+          "measured_effect": {
+            "direction_of_change": "higher (after TBI), lower (with Cl-amidine)",
+            "magnitude_quantification": "Significant brain edema observed at 1 and 3 days after TBI (p < 0.001). Significantly decreased by Cl-amidine treatment at 1 day (p < 0.05) and 3 days (p < 0.001) post-TBI compared to vehicle."
+          },
+          "core_biological_function": "Represents accumulation of fluid in brain tissue due to injury and inflammation, contributing to secondary injury.",
+          "relevant_activity_context": "Traumatic Brain Injury (TBI); Cl-amidine post-treatment after TBI.",
+          "performance_or_health_indicator": "Indicates brain swelling and tissue damage, reflecting the severity of brain injury. Reduction by Cl-amidine signifies mitigation of secondary brain injury."
+        },
+        {
+          "biomarker_name": "Cerebral Blood Flow (CBF)",
+          "measured_tissue_or_fluid": "Cerebral cortex (whole brain)",
+          "activity_type": "Blood flow measurement (Laser Speckle Contrast Imaging - LSCI)",
+          "measured_effect": {
+            "direction_of_change": "lower (after TBI), higher (with Cl-amidine)",
+            "magnitude_quantification": "Significantly decreased compared to baseline within 3 days after TBI (p < 0.001). Cl-amidine treatment significantly rescued the decreased CBF within 3 days post-TBI (p < 0.001), particularly at 1 day (p < 0.05) and 3 days (p < 0.01) compared to vehicle."
+          },
+          "core_biological_function": "Regulates oxygen and nutrient supply to brain tissue, critical for neuronal function and survival.",
+          "relevant_activity_context": "Traumatic Brain Injury (TBI) (measurements at pre-surgery, 1h, 12h, 1 day, 3 days post-injury); Cl-amidine treatment after TBI.",
+          "performance_or_health_indicator": "Reflects brain perfusion and tissue viability. Impaired CBF contributes to secondary brain injury, while restoration by Cl-amidine indicates mitigation of damage."
+        },
+        {
+          "biomarker_name": "Blood-Brain Barrier (BBB) permeability",
+          "measured_tissue_or_fluid": "Brain tissue (parenchyma)",
+          "activity_type": "Evans blue (EB) dye extravasation measurement",
+          "measured_effect": {
+            "direction_of_change": "higher (after TBI), lower (with Cl-amidine)",
+            "magnitude_quantification": "Significantly increased at 1 day and 3 days after TBI (p < 0.001). Cl-amidine treatment significantly decreased extravasation at 1 day (p < 0.05) and 3 days (p < 0.01) post-TBI compared to vehicle. Quantification by spectrophotometry at OD 620 nm."
+          },
+          "core_biological_function": "Indicates the integrity of the blood-brain barrier; its disruption allows plasma components into brain parenchyma, exacerbating cerebral edema and secondary injury.",
+          "relevant_activity_context": "Traumatic Brain Injury (TBI); Cl-amidine treatment following TBI.",
+          "performance_or_health_indicator": "Directly indicates BBB disruption, a critical pathological event in TBI that aggravates secondary injury. Attenuation by Cl-amidine indicates reduced secondary brain injury."
+        },
+        {
+          "biomarker_name": "FJC-positive neurons (degenerating neurons)",
+          "measured_tissue_or_fluid": "Brain (cortex, hippocampus, ipsilateral CTX, hippocampal CA1)",
+          "activity_type": "Histological staining and cell counting (Fluoro-Jade C staining)",
+          "measured_effect": {
+            "direction_of_change": "higher (after TBI, with PAD4 overexpression, with STING activation), lower (with Cl-amidine, with STING inhibition)",
+            "magnitude_quantification": "Significantly increased after TBI (p < 0.001 in CTX and CA1). Significantly increased by PAD4 overexpression (p < 0.05) and by 2'3'-cGAMP in Cl-amidine-treated mice (p < 0.01). Significantly decreased by Cl-amidine (p < 0.001 in CTX and CA1) and by STING antagonist C-176 (p < 0.01)."
+          },
+          "core_biological_function": "Fluoro-Jade C selectively labels degenerating neurons, indicative of neuronal cell death processes.",
+          "relevant_activity_context": "Traumatic Brain Injury (TBI) (3 days post-injury); modulated by PAD4 overexpression, STING activation, Cl-amidine treatment, or STING inhibition.",
+          "performance_or_health_indicator": "Directly indicates neuronal damage and degeneration, a fundamental pathological consequence of TBI. Reduction suggests neuroprotection, while increase indicates exacerbated neuronal death and loss of neuroprotection."
+        },
+        {
+          "biomarker_name": "TUNEL-positive neurons (apoptotic neurons)",
+          "measured_tissue_or_fluid": "Brain (cortex, hippocampus, ipsilateral CTX, hippocampal CA1)",
+          "activity_type": "Histological staining and cell counting (TUNEL staining)",
+          "measured_effect": {
+            "direction_of_change": "higher (after TBI, with PAD4 overexpression, with STING activation), lower (with Cl-amidine, with STING inhibition)",
+            "magnitude_quantification": "Significantly increased after TBI. Significantly increased by PAD4 overexpression (p < 0.01) and by 2'3'-cGAMP in Cl-amidine-treated mice (p < 0.05). Significantly decreased by Cl-amidine (p < 0.001 in CTX, p < 0.01 in CA1) and by STING antagonist C-176 (p < 0.01)."
+          },
+          "core_biological_function": "Detects DNA fragmentation, a biochemical hallmark of apoptosis (programmed cell death) in neurons.",
+          "relevant_activity_context": "Traumatic Brain Injury (TBI); modulated by PAD4 overexpression, STING activation, Cl-amidine treatment, or STING inhibition.",
+          "performance_or_health_indicator": "Indicates neuronal apoptosis, a significant contributor to secondary injury and functional deficits after TBI. Reduction suggests neuroprotection, while increase indicates exacerbated neuronal death and loss of neuroprotection."
+        },
+        {
+          "biomarker_name": "Neutrophil level (Ly6G)",
+          "measured_tissue_or_fluid": "Ipsilateral cerebral cortex",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Increased in a time-dependent manner compared with sham mice, reaching the peak level at 3 days after TBI (p < 0.001)."
+          },
+          "core_biological_function": "Ly6G marks neutrophils, which are immune cells involved in acute inflammatory responses.",
+          "relevant_activity_context": "Traumatic Brain Injury (TBI)",
+          "performance_or_health_indicator": "Indicates inflammatory response and tissue damage after TBI."
+        },
+        {
+          "biomarker_name": "H3cit (Citrullinated Histone H3)",
+          "measured_tissue_or_fluid": "Ipsilateral/Contused cerebral cortex",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher (after TBI/PAD4 overexpression), lower (with Cl-amidine)",
+            "magnitude_quantification": "Increased time-dependently, peaking at 3 days and persisting for at least 14 days after TBI (p < 0.001). Substantially decreased by Cl-amidine treatment (p < 0.01). Overexpression of PAD4 led to 1.73-fold upregulation at 3 days post-TBI (p < 0.01)."
+          },
+          "core_biological_function": "A key component and marker of Neutrophil Extracellular Trap (NET) formation.",
+          "relevant_activity_context": "Traumatic Brain Injury (TBI); Cl-amidine treatment after TBI; PAD4 overexpression after TBI.",
+          "performance_or_health_indicator": "Indicates NET formation which contributes to secondary brain injury after TBI. Its reduction signifies efficacy of Cl-amidine in mitigating injury, while its increase due to PAD4 overexpression is linked to aggravated neuroinflammation and neuronal death."
+        },
+        {
+          "biomarker_name": "Plasma DNA levels",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "DNA concentration",
+          "measured_effect": {
+            "direction_of_change": "higher (after TBI), lower (with Cl-amidine)",
+            "magnitude_quantification": "Significantly elevated in TBI mice at 3 days post-TBI (p < 0.01) compared to sham. Substantially reduced after Cl-amidine treatment at 3 days after TBI (p < 0.01)."
+          },
+          "core_biological_function": "Extracellular DNA, often associated with cell death, inflammation, or NETosis.",
+          "relevant_activity_context": "Traumatic Brain Injury (TBI); Cl-amidine treatment after TBI.",
+          "performance_or_health_indicator": "Indicates cell damage, inflammation, and NET formation in the circulation after TBI. Its reduction by Cl-amidine suggests a decrease in these pathological processes."
+        },
+        {
+          "biomarker_name": "MPO-DNA complex",
+          "measured_tissue_or_fluid": "Plasma, Cortical homogenates",
+          "activity_type": "Protein-DNA complex concentration",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Marked increase in total content compared with sham mice: 1.44-fold increase in plasma at 3 days post-TBI (p < 0.001); significant increase in cortical homogenates at 1 day (p < 0.01) and 3 days (p < 0.001) post-TBI."
+          },
+          "core_biological_function": "A component and indicator of Neutrophil Extracellular Trap (NET) formation.",
+          "relevant_activity_context": "Traumatic Brain Injury (TBI)",
+          "performance_or_health_indicator": "Indicates NET formation in both the circulation and brain tissue after TBI."
+        },
+        {
+          "biomarker_name": "MPO (Myeloperoxidase)",
+          "measured_tissue_or_fluid": "Cortical areas",
+          "activity_type": "Protein content",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Marked increase in total content at 1 day and 3 days after TBI (p < 0.001) compared to sham."
+          },
+          "core_biological_function": "A neutrophil enzyme associated with inflammatory response and NET formation.",
+          "relevant_activity_context": "Traumatic Brain Injury (TBI)",
+          "performance_or_health_indicator": "Indicates neutrophil activity and inflammation in the brain after TBI."
+        },
+        {
+          "biomarker_name": "H3cit-positive neutrophils",
+          "measured_tissue_or_fluid": "Contused cortex",
+          "activity_type": "Cell count / Protein expression",
+          "measured_effect": {
+            "direction_of_change": "higher (after TBI/PAD4 overexpression), lower (with Cl-amidine)",
+            "magnitude_quantification": "Significantly increased at 1 day and 3 days after TBI (p < 0.001). Substantially reduced by Cl-amidine treatment (p < 0.01). Significantly increased by PAD4 overexpression (p < 0.01) at 3 days post-TBI."
+          },
+          "core_biological_function": "Indicates neutrophils undergoing NETosis, characterized by citrullinated histone H3, which contribute to inflammatory responses.",
+          "relevant_activity_context": "Traumatic Brain Injury (TBI); Cl-amidine treatment after TBI; PAD4 overexpression after TBI.",
+          "performance_or_health_indicator": "Direct evidence of NET-forming neutrophils in the injured brain, contributing to secondary injury. Reduction by Cl-amidine indicates mitigation, while increase by PAD4 overexpression is linked to aggravated neuroinflammation and neuronal death."
+        },
+        {
+          "biomarker_name": "PAD4-positive neutrophils",
+          "measured_tissue_or_fluid": "Contused cortex",
+          "activity_type": "Cell count / Protein expression",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly increased at 1 day and 3 days after TBI (p < 0.001) compared to sham."
+          },
+          "core_biological_function": "Indicates neutrophils expressing PAD4, a key enzyme involved in NETosis.",
+          "relevant_activity_context": "Traumatic Brain Injury (TBI)",
+          "performance_or_health_indicator": "Confirms active PAD4 involvement in neutrophils during TBI-induced NET formation."
+        },
+        {
+          "biomarker_name": "Cerebral lesion volume (tissue loss)",
+          "measured_tissue_or_fluid": "Brain (neuronal tissue)",
+          "activity_type": "Morphological assessment (Nissl staining)",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Significantly reduced at 3 days after TBI when compared with TBI + Vehicle mice (p < 0.05)."
+          },
+          "core_biological_function": "Reflects the structural integrity of brain tissue.",
+          "relevant_activity_context": "Cl-amidine treatment after Traumatic Brain Injury (TBI)",
+          "performance_or_health_indicator": "Directly indicates reduction of brain injury and neuroprotective effect."
+        },
+        {
+          "biomarker_name": "IgG",
+          "measured_tissue_or_fluid": "Brain (perivascular region, contused cortex)",
+          "activity_type": "Immunostaining / Protein expression level",
+          "measured_effect": {
+            "direction_of_change": "higher (after TBI), lower (with Cl-amidine)",
+            "magnitude_quantification": "TBI alone significantly increased IgG expression/deposits (p < 0.001) at 1 and 3 days. Cl-amidine treatment led to a marked reduction in perivascular IgG deposits at 1 day (p < 0.05) and 3 days (p < 0.001), and significantly reversed (decreased) IgG protein expression (p < 0.05)."
+          },
+          "core_biological_function": "Immunoglobulin (IgG); its extravasation and deposition indicate leakage through a compromised blood-brain barrier.",
+          "relevant_activity_context": "Traumatic Brain Injury (TBI); Cl-amidine treatment following TBI.",
+          "performance_or_health_indicator": "Indicates blood-brain barrier disruption and associated secondary brain injury. Attenuation by Cl-amidine indicates reduced secondary brain injury."
+        },
+        {
+          "biomarker_name": "ZO-1",
+          "measured_tissue_or_fluid": "Brain (contused cortex)",
+          "activity_type": "Protein expression level (Western blot) / Immunofluorescence (vessels)",
+          "measured_effect": {
+            "direction_of_change": "lower (after TBI), higher (with Cl-amidine)",
+            "magnitude_quantification": "TBI alone significantly reduced ZO-1 expression/positive vessels (p < 0.001) at 3 days post-TBI. Cl-amidine treatment significantly increased ZO-1+ vessels (p < 0.05) and reversed (increased) ZO-1 protein expression (p < 0.05)."
+          },
+          "core_biological_function": "A component of tight junctions, essential for maintaining blood-brain barrier integrity.",
+          "relevant_activity_context": "Traumatic Brain Injury (TBI); Cl-amidine treatment following TBI in mice at 3 days.",
+          "performance_or_health_indicator": "Indicates blood-brain barrier integrity. Improvement with Cl-amidine suggests reduced secondary brain injury by maintaining BBB function."
+        },
+        {
+          "biomarker_name": "VE-cadherin",
+          "measured_tissue_or_fluid": "Brain (contused cortex)",
+          "activity_type": "Protein expression level (Western blot)",
+          "measured_effect": {
+            "direction_of_change": "lower (after TBI), higher (with Cl-amidine)",
+            "magnitude_quantification": "TBI alone significantly reduced VE-cadherin expression (p < 0.001) at 3 days post-TBI. Cl-amidine treatment significantly reversed (increased) its expression (p < 0.05)."
+          },
+          "core_biological_function": "An adhesion protein important for endothelial cell junctions and blood-brain barrier integrity.",
+          "relevant_activity_context": "Traumatic Brain Injury (TBI); Cl-amidine treatment following TBI in mice at 3 days.",
+          "performance_or_health_indicator": "Indicates blood-brain barrier integrity. Improvement with Cl-amidine suggests reduced secondary brain injury by maintaining BBB function."
+        },
+        {
+          "biomarker_name": "Occludin",
+          "measured_tissue_or_fluid": "Brain (contused cortex)",
+          "activity_type": "Protein expression level (Western blot)",
+          "measured_effect": {
+            "direction_of_change": "lower (after TBI), higher (with Cl-amidine)",
+            "magnitude_quantification": "TBI alone significantly reduced Occludin expression (p < 0.05) at 3 days post-TBI. Cl-amidine treatment significantly reversed (increased) its expression (p < 0.05)."
+          },
+          "core_biological_function": "An integral membrane protein crucial for tight junction formation and blood-brain barrier function.",
+          "relevant_activity_context": "Traumatic Brain Injury (TBI); Cl-amidine treatment following TBI in mice at 3 days.",
+          "performance_or_health_indicator": "Indicates blood-brain barrier integrity. Improvement with Cl-amidine suggests reduced secondary brain injury by maintaining BBB function."
+        },
+        {
+          "biomarker_name": "Iba-1 (microglia/macrophage marker)",
+          "measured_tissue_or_fluid": "Brain (contused cortex)",
+          "activity_type": "Protein expression / Immunofluorescence staining (cell count)",
+          "measured_effect": {
+            "direction_of_change": "higher (after TBI, with PAD4 overexpression, with STING activation), lower (with Cl-amidine, with STING inhibition)",
+            "magnitude_quantification": "TBI significantly increased Iba-1-positive cells (p < 0.001). Cl-amidine significantly reduced Iba-1-positive microglia/macrophage numbers (p < 0.001). Upregulation was observed with PAD4 overexpression (p < 0.05) and in the TBI + Cl-amidine + 2'3'-cGAMP group (p < 0.01). STING antagonist C-176 significantly decreased Iba-1 levels (p < 0.01)."
+          },
+          "core_biological_function": "An ionized calcium-binding adapter molecule 1, widely used as a marker for microglia/macrophages and their activation, which is part of the neuroinflammatory response.",
+          "relevant_activity_context": "Traumatic Brain Injury (TBI) (at 3 days post-TBI); modulated by Cl-amidine treatment, PAD4 overexpression, STING activation, or STING inhibition.",
+          "performance_or_health_indicator": "Indicates microglial/macrophage activation. Its reduction signifies inhibited activation and reduced neuroinflammation, while its increase suggests aggravated neuroinflammation and contributes to brain injury."
+        },
+        {
+          "biomarker_name": "F4/80-positive macrophages",
+          "measured_tissue_or_fluid": "Brain (contused cortex)",
+          "activity_type": "Immunofluorescence staining (cell count)",
+          "measured_effect": {
+            "direction_of_change": "higher (after TBI), lower (with Cl-amidine)",
+            "magnitude_quantification": "TBI significantly increased F4/80-positive macrophages (p < 0.001) compared to sham. Cl-amidine treatment significantly reduced their number (p < 0.001)."
+          },
+          "core_biological_function": "F4/80 is a marker for macrophages; its presence indicates macrophage infiltration, which is part of the neuroinflammatory response.",
+          "relevant_activity_context": "Traumatic Brain Injury (TBI) (at 3 days post-TBI); Cl-amidine treatment following TBI.",
+          "performance_or_health_indicator": "Indicates macrophage infiltration and neuroinflammation after TBI. Its reduction signifies inhibited infiltration and reduced neuroinflammation."
+        },
+        {
+          "biomarker_name": "MPO-positive neutrophils",
+          "measured_tissue_or_fluid": "Brain (contused cortex)",
+          "activity_type": "Immunofluorescence staining (cell count)",
+          "measured_effect": {
+            "direction_of_change": "higher (after TBI), lower (with Cl-amidine)",
+            "magnitude_quantification": "TBI significantly increased MPO-positive neutrophils (p < 0.001) compared to sham. Cl-amidine treatment significantly reduced their number (p < 0.01)."
+          },
+          "core_biological_function": "MPO (Myeloperoxidase) is an enzyme found in neutrophils; MPO-positive neutrophils indicate neutrophil infiltration, part of the acute neuroinflammatory response.",
+          "relevant_activity_context": "Traumatic Brain Injury (TBI) (at 3 days post-TBI); Cl-amidine treatment following TBI.",
+          "performance_or_health_indicator": "Indicates neutrophil infiltration and neuroinflammation after TBI. Its reduction signifies inhibited infiltration and reduced neuroinflammation."
+        },
+        {
+          "biomarker_name": "IL-1\u03b2",
+          "measured_tissue_or_fluid": "Brain (contused cortex)",
+          "activity_type": "Immunofluorescence staining (cell count) / mRNA expression level (qPCR)",
+          "measured_effect": {
+            "direction_of_change": "higher (after TBI), lower (with Cl-amidine)",
+            "magnitude_quantification": "TBI significantly increased IL-1\u03b2-positive cells (p < 0.001). Cl-amidine treatment significantly reduced the number of IL-1\u03b2-positive cells (p < 0.001) and downregulated its mRNA expression (p < 0.01)."
+          },
+          "core_biological_function": "A potent pro-inflammatory cytokine that mediates inflammation and serves as a marker for the pro-inflammatory (M1) microglial/macrophage phenotype.",
+          "relevant_activity_context": "Traumatic Brain Injury (TBI) (at 3 days post-TBI); Cl-amidine treatment following TBI.",
+          "performance_or_health_indicator": "Indicates pro-inflammatory response and neuroinflammation. Reduction signifies a decrease in pro-inflammatory microglial/macrophage activation and overall neuroinflammation after TBI."
+        },
+        {
+          "biomarker_name": "CD16 + Iba1 + M1 microglia/macrophages",
+          "measured_tissue_or_fluid": "Brain (contused cortex)",
+          "activity_type": "Protein expression / Double immunofluorescence staining (cell count)",
+          "measured_effect": {
+            "direction_of_change": "higher (with PAD4 overexpression, with STING activation), lower (with Cl-amidine, with STING inhibition)",
+            "magnitude_quantification": "Significantly reduced by Cl-amidine treatment (p < 0.01). Significantly increased in TBI + Cl-amidine + 2'3'-cGAMP group (p < 0.01). Significantly upregulated with PAD4 overexpression (p < 0.01). Significantly decreased with STING antagonist C-176 (p < 0.01)."
+          },
+          "core_biological_function": "Represents the pro-inflammatory (M1-like) microglia/macrophage phenotype, which releases detrimental pro-inflammatory mediators.",
+          "relevant_activity_context": "Traumatic Brain Injury (TBI) (at 3 days post-TBI); modulated by Cl-amidine treatment, STING activation, PAD4 overexpression, or STING inhibition.",
+          "performance_or_health_indicator": "Indicates a detrimental inflammatory response and a pro-inflammatory state. Reduction suggests a shift away from this state, promoting an anti-inflammatory environment and ameliorating neuroinflammation."
+        },
+        {
+          "biomarker_name": "Arginase-1 (M2 microglia/macrophage marker)",
+          "measured_tissue_or_fluid": "Brain (contused cortex)",
+          "activity_type": "Protein expression / mRNA expression / Double immunofluorescence staining (cell count)",
+          "measured_effect": {
+            "direction_of_change": "higher (with Cl-amidine, with STING/IRE1\u03b1 inhibition), lower (with PAD4 overexpression, with STING activation)",
+            "magnitude_quantification": "Significantly increased by Cl-amidine (p < 0.001 for cells, p < 0.05 for mRNA). Markedly reduced by 2'3'-cGAMP (p < 0.001). Downregulated by PAD4 overexpression (p < 0.05). Upregulated by STING antagonist C-176 (p < 0.001) and IRE1\u03b1 inhibitor Kira6 (p < 0.001)."
+          },
+          "core_biological_function": "An enzyme and marker for the anti-inflammatory (M2-like) microglia/macrophage phenotype, which secretes protective anti-inflammatory mediators, facilitates tissue debris clearance, and promotes tissue repair.",
+          "relevant_activity_context": "Traumatic Brain Injury (TBI) (at 3 days post-TBI); modulated by Cl-amidine treatment, STING activation (2'3'-cGAMP), PAD4 overexpression, STING inhibition (C-176), or IRE1\u03b1 inhibition (Kira6).",
+          "performance_or_health_indicator": "Indicates a shift towards an anti-inflammatory/pro-resolving state, promoting tissue repair and recovery. Its reduction indicates impaired resolution of neuroinflammation and an imbalance towards pro-inflammatory responses."
+        },
+        {
+          "biomarker_name": "CD86",
+          "measured_tissue_or_fluid": "Brain (contused cortex)",
+          "activity_type": "mRNA expression level (qPCR)",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Significantly downregulated the mRNA expression level (p < 0.01) in Cl-amidine treated group compared to TBI + Vehicle group."
+          },
+          "core_biological_function": "A co-stimulatory molecule and marker for the pro-inflammatory (M1) microglial/macrophage phenotype.",
+          "relevant_activity_context": "Cl-amidine treatment following Traumatic Brain Injury (TBI) in mice at 3 days post-TBI.",
+          "performance_or_health_indicator": "Indicates pro-inflammatory microglial/macrophage activation. Its downregulation suggests a reduction in this activation."
+        },
+        {
+          "biomarker_name": "iNOS (Inducible Nitric Oxide Synthase)",
+          "measured_tissue_or_fluid": "Brain (contused cortex)",
+          "activity_type": "Protein expression / mRNA expression level (qPCR)",
+          "measured_effect": {
+            "direction_of_change": "higher (with STING activation), lower (with Cl-amidine, with IRE1\u03b1 inhibition)",
+            "magnitude_quantification": "Significantly downregulated the mRNA expression level by Cl-amidine (p < 0.01). Significantly upregulated with 2'3'-cGAMP in Cl-amidine-treated TBI mice (p < 0.01). Significantly downregulated by IRE1\u03b1 inhibitor Kira6 (p < 0.01)."
+          },
+          "core_biological_function": "An inducible nitric oxide synthase enzyme, a marker for the pro-inflammatory (M1) microglial/macrophage phenotype, contributing to oxidative stress and inflammation.",
+          "relevant_activity_context": "Traumatic Brain Injury (TBI) (at 3 days post-TBI); modulated by Cl-amidine treatment, STING activation, or IRE1\u03b1 inhibition.",
+          "performance_or_health_indicator": "Indicates pro-inflammatory microglial/macrophage activation and oxidative damage. Its upregulation suggests increased detrimental responses, while downregulation indicates reduced pro-inflammatory responses and potential neuroprotection."
+        },
+        {
+          "biomarker_name": "TNF-\u03b1",
+          "measured_tissue_or_fluid": "Brain (contused cortex)",
+          "activity_type": "mRNA expression level (qPCR)",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Significantly downregulated the mRNA expression level (p < 0.05) in Cl-amidine treated group compared to TBI + Vehicle group."
+          },
+          "core_biological_function": "A potent pro-inflammatory cytokine and marker for the pro-inflammatory (M1) microglial/macrophage phenotype.",
+          "relevant_activity_context": "Cl-amidine treatment following Traumatic Brain Injury (TBI) in mice at 3 days post-TBI.",
+          "performance_or_health_indicator": "Indicates pro-inflammatory microglial/macrophage activation. Its downregulation suggests a reduction in this activation."
+        },
+        {
+          "biomarker_name": "CD206 (Mannose Receptor)",
+          "measured_tissue_or_fluid": "Brain (contused cortex)",
+          "activity_type": "Protein expression / mRNA expression level (qPCR)",
+          "measured_effect": {
+            "direction_of_change": "higher (with Cl-amidine, with STING inhibition), lower (with PAD4 overexpression)",
+            "magnitude_quantification": "Upregulated mRNA expression level by Cl-amidine (p < 0.01). Downregulated by PAD4 overexpression (p < 0.05). Upregulated by STING antagonist C-176 (p < 0.001)."
+          },
+          "core_biological_function": "A mannose receptor and marker for the anti-inflammatory (M2-like) microglial/macrophage phenotype, involved in tissue repair and resolution of inflammation.",
+          "relevant_activity_context": "Traumatic Brain Injury (TBI) (at 3 days post-TBI); modulated by Cl-amidine treatment, PAD4 overexpression, or STING inhibition.",
+          "performance_or_health_indicator": "Indicates anti-inflammatory microglial/macrophage activation, supporting repair. Its upregulation suggests a promotion of protective responses, while downregulation indicates an imbalance towards pro-inflammatory responses."
+        },
+        {
+          "biomarker_name": "NeuN",
+          "measured_tissue_or_fluid": "Brain (ipsilateral cerebral cortex (CTX), hippocampal CA1, hippocampal DG regions)",
+          "activity_type": "Immunofluorescence staining (neuronal presence)",
+          "measured_effect": {
+            "direction_of_change": "lower (after TBI), higher (with Cl-amidine)",
+            "magnitude_quantification": "TBI induced significant neuronal loss in ipsilateral CTX (p < 0.001), hippocampal CA1 (p < 0.001), and hippocampal DG (p < 0.05). Cl-amidine significantly ameliorated neuronal loss in ipsilateral CTX (p < 0.01) and hippocampal CA1 (p < 0.05); no significant effect in hippocampal CA3 and DG. "
+          },
+          "core_biological_function": "A neuronal nuclear antigen that marks mature neurons; its reduction indicates neuronal loss/death.",
+          "relevant_activity_context": "Traumatic Brain Injury (TBI) (at 3 days post-TBI); Cl-amidine treatment following TBI.",
+          "performance_or_health_indicator": "Indicates neuronal viability. Amelioration of neuronal loss suggests neuroprotection and improved neurological outcome."
+        },
+        {
+          "biomarker_name": "Bax",
+          "measured_tissue_or_fluid": "Contused cortex",
+          "activity_type": "Protein expression",
+          "measured_effect": {
+            "direction_of_change": "higher (with STING activation), lower (with IRE1\u03b1 inhibition)",
+            "magnitude_quantification": "Significantly upregulated in TBI + Cl-amidine + 2'3'-cGAMP group (p < 0.05). Significantly downregulated by IRE1\u03b1 inhibitor Kira6 (p < 0.05)."
+          },
+          "core_biological_function": "A pro-apoptotic protein that promotes programmed cell death.",
+          "relevant_activity_context": "Traumatic Brain Injury (TBI); modulated by STING activation (2'3'-cGAMP) or IRE1\u03b1 inhibition (Kira6).",
+          "performance_or_health_indicator": "Its upregulation indicates increased activation of apoptotic pathways, contributing to neuronal death. Its downregulation suggests reduced neuronal apoptosis and potential neuroprotection."
+        },
+        {
+          "biomarker_name": "Caspase-3",
+          "measured_tissue_or_fluid": "Contused cortex",
+          "activity_type": "Protein expression",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly upregulated (p < 0.001) in the TBI + Cl-amidine + 2'3'-cGAMP group compared to the TBI + Cl-amidine group at 3 days after TBI."
+          },
+          "core_biological_function": "A key executioner caspase in the apoptotic pathway, involved in programmed cell death.",
+          "relevant_activity_context": "Traumatic Brain Injury (TBI); STING activation by 2'3'-cGAMP in Cl-amidine-treated TBI mice.",
+          "performance_or_health_indicator": "Its upregulation indicates increased apoptotic cell death and loss of neuroprotection."
+        },
+        {
+          "biomarker_name": "Bcl-2",
+          "measured_tissue_or_fluid": "Contused cortex",
+          "activity_type": "Protein expression",
+          "measured_effect": {
+            "direction_of_change": "lower (with STING activation), higher (with IRE1\u03b1 inhibition)",
+            "magnitude_quantification": "Downregulated in TBI + Cl-amidine + 2'3'-cGAMP group (p < 0.01). Significantly upregulated by IRE1\u03b1 inhibitor Kira6 (p < 0.01)."
+          },
+          "core_biological_function": "An anti-apoptotic protein that inhibits programmed cell death.",
+          "relevant_activity_context": "Traumatic Brain Injury (TBI); modulated by STING activation (2'3'-cGAMP) or IRE1\u03b1 inhibition (Kira6).",
+          "performance_or_health_indicator": "Its downregulation indicates reduced cellular protection against apoptosis. Its upregulation suggests reduced neuronal apoptosis and potential neuroprotection."
+        },
+        {
+          "biomarker_name": "p-IRE1\u03b1 (phosphorylated IRE1\u03b1)",
+          "measured_tissue_or_fluid": "Contused cortex",
+          "activity_type": "Protein level",
+          "measured_effect": {
+            "direction_of_change": "higher (after TBI, with STING activation), lower (with Cl-amidine, with STING/IRE1\u03b1 inhibition)",
+            "magnitude_quantification": "Significantly increased at 3 days after TBI (p < 0.001). Significantly decreased by Cl-amidine treatment (p < 0.001). Remarkably increased by 2'3'-cGAMP pretreatment (p < 0.001). Significantly downregulated by STING antagonist C-176 (p < 0.001) and IRE1\u03b1 inhibitor Kira6 (p < 0.05)."
+          },
+          "core_biological_function": "The activated form of IRE1\u03b1, a key component of the IRE1\u03b1/ASK1/JNK signaling pathway involved in endoplasmic reticulum stress, inflammation, and apoptosis.",
+          "relevant_activity_context": "Traumatic Brain Injury (TBI); modulated by Cl-amidine treatment, STING activation (2'3'-cGAMP), STING inhibition (C-176), or IRE1\u03b1 inhibition (Kira6).",
+          "performance_or_health_indicator": "Increased phosphorylation indicates activation of the IRE1\u03b1 pathway, correlating with neuroinflammation and neuronal damage. Decreased phosphorylation indicates inhibition of this pathway, contributing to neuroprotective effects."
+        },
+        {
+          "biomarker_name": "p-ASK1 (phosphorylated ASK1)",
+          "measured_tissue_or_fluid": "Contused cortex",
+          "activity_type": "Protein level",
+          "measured_effect": {
+            "direction_of_change": "higher (after TBI, with STING activation), lower (with Cl-amidine, with STING/IRE1\u03b1 inhibition)",
+            "magnitude_quantification": "Significantly increased at 3 days after TBI (p < 0.05). Significantly decreased by Cl-amidine treatment (p < 0.01). Remarkably increased by 2'3'-cGAMP pretreatment (p < 0.01). Significantly downregulated by STING antagonist C-176 (p < 0.01) and IRE1\u03b1 inhibitor Kira6 (p < 0.001)."
+          },
+          "core_biological_function": "The activated form of ASK1, a component of the IRE1\u03b1/ASK1/JNK signaling pathway involved in stress responses and apoptosis.",
+          "relevant_activity_context": "Traumatic Brain Injury (TBI); modulated by Cl-amidine treatment, STING activation (2'3'-cGAMP), STING inhibition (C-176), or IRE1\u03b1 inhibition (Kira6).",
+          "performance_or_health_indicator": "Increased phosphorylation indicates activation of the ASK1 pathway, correlating with neuroinflammation and neuronal damage. Decreased phosphorylation indicates inhibition of this pathway, contributing to neuroprotective effects."
+        },
+        {
+          "biomarker_name": "p-JNK (phosphorylated JNK)",
+          "measured_tissue_or_fluid": "Contused cortex",
+          "activity_type": "Protein level",
+          "measured_effect": {
+            "direction_of_change": "higher (after TBI, with STING activation), lower (with Cl-amidine, with STING/IRE1\u03b1 inhibition)",
+            "magnitude_quantification": "Significantly increased at 3 days after TBI (p < 0.001). Significantly decreased by Cl-amidine treatment (p < 0.01). Remarkably increased by 2'3'-cGAMP pretreatment (p < 0.05). Significantly downregulated by STING antagonist C-176 (p < 0.001) and IRE1\u03b1 inhibitor Kira6 (p < 0.05)."
+          },
+          "core_biological_function": "The activated form of JNK, a component of the IRE1\u03b1/ASK1/JNK signaling pathway involved in stress responses, inflammation, and apoptosis.",
+          "relevant_activity_context": "Traumatic Brain Injury (TBI); modulated by Cl-amidine treatment, STING activation (2'3'-cGAMP), STING inhibition (C-176), or IRE1\u03b1 inhibition (Kira6).",
+          "performance_or_health_indicator": "Increased phosphorylation indicates activation of the JNK pathway, correlating with neuroinflammation and neuronal damage. Decreased phosphorylation indicates inhibition of this pathway, contributing to neuroprotective effects."
+        },
+        {
+          "biomarker_name": "Pro-inflammatory microglia/macrophage activation (M1-like phenotype)",
+          "measured_tissue_or_fluid": "Brain tissue (in mice)",
+          "activity_type": "Phenotypic activation level/state",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Partially suppressed by NET inhibition with Cl-amidine at 3 days after TBI."
+          },
+          "core_biological_function": "Characterized by the release of detrimental pro-inflammatory mediators, creating a vulnerable tissue microenvironment.",
+          "relevant_activity_context": "Traumatic Brain Injury (TBI), following inhibition of NET formation with Cl-amidine.",
+          "performance_or_health_indicator": "Indicates a detrimental inflammatory response in TBI. Suppression suggests a therapeutic benefit in mitigating neuroinflammation and neuronal damage."
+        },
+        {
+          "biomarker_name": "Anti-inflammatory microglia/macrophage activation (M2-like phenotype)",
+          "measured_tissue_or_fluid": "Brain tissue (in mice)",
+          "activity_type": "Phenotypic activation level/state",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Promoted by NET inhibition with Cl-amidine, showing a phenotypic shift from M1 to M2 at 3 days after TBI."
+          },
+          "core_biological_function": "Characterized by the secretion of protective anti-inflammatory mediators and trophic factors, facilitating tissue debris clearance and promoting remyelination.",
+          "relevant_activity_context": "Traumatic Brain Injury (TBI), following inhibition of NET formation with Cl-amidine.",
+          "performance_or_health_indicator": "Indicates a protective, reparative response in TBI. Promotion suggests a therapeutic benefit for tissue repair and recovery."
+        },
+        {
+          "biomarker_name": "Neuronal apoptosis / Neuronal death",
+          "measured_tissue_or_fluid": "Brain tissue (in mice)",
+          "activity_type": "Cell death markers (FJC and TUNEL-positive cells)",
+          "measured_effect": {
+            "direction_of_change": "higher (with PAD4 overexpression), lower (with NET/STING inhibition)",
+            "magnitude_quantification": "Alleviated by NET inhibition with Cl-amidine. Effectively attenuated by NET inhibition. STING inhibition reduced FJC and TUNEL-positive cells. Overexpression of PAD4 aggravated neuronal death."
+          },
+          "core_biological_function": "Programmed cell death of neurons, a key consequence of TBI and neuroinflammation.",
+          "relevant_activity_context": "Traumatic Brain Injury (TBI); affected by NET inhibition, PAD4 overexpression, and STING inhibition.",
+          "performance_or_health_indicator": "A direct indicator of neural damage and poor prognosis after TBI. Reduction signifies neuroprotection and improved neurological health."
+        },
+        {
+          "biomarker_name": "Neuroinflammation",
+          "measured_tissue_or_fluid": "Brain tissue (in mice)",
+          "activity_type": "Inflammatory response",
+          "measured_effect": {
+            "direction_of_change": "higher (with PAD4 overexpression), lower (with NET/STING inhibition)",
+            "magnitude_quantification": "Alleviated by NET inhibition with Cl-amidine. Effectively attenuated microglia-mediated neuroinflammation by Cl-amidine. Significantly attenuated by NET inhibition via STING. Overexpression of PAD4 aggravated neuroinflammation."
+          },
+          "core_biological_function": "Inflammatory response within the brain tissue, mediated by microglia/macrophages, contributing to TBI pathophysiology.",
+          "relevant_activity_context": "Traumatic Brain Injury (TBI); influenced by NET inhibition with Cl-amidine and PAD4 overexpression.",
+          "performance_or_health_indicator": "A key pathophysiological process in TBI associated with neuronal cell death and other adverse outcomes. Alleviation indicates a positive therapeutic effect for TBI management."
+        },
+        {
+          "biomarker_name": "Neurological deficits (mNSS)",
+          "measured_tissue_or_fluid": "Behavioral/Functional assessment (in mice)",
+          "activity_type": "Severity score (modified neurological severity score)",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Alleviated by NET inhibition with Cl-amidine after TBI."
+          },
+          "core_biological_function": "Quantifies motor, sensory, balance, and reflex functions to assess neurological impairment.",
+          "relevant_activity_context": "Traumatic Brain Injury (TBI), following NET inhibition with Cl-amidine.",
+          "performance_or_health_indicator": "Indicator of functional impairment after TBI. Alleviation suggests improved neurological recovery and better health outcomes."
+        }
+      ]
+    }
+  }
+]

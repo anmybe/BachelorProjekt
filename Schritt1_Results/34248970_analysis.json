@@ -1,0 +1,172 @@
+[
+  {
+    "title": "Front Immunol Front Immunol Front. Immunol. Frontiers in Immunology 1664-3224 Frontiers Media S.A. 8267520 10.3389/fimmu.2021.686795 Immunology Original Research Circulating and Synovial Pentraxin-3 (PTX3) Expression Levels Correlate With Rheumatoid Arthritis Severity and Tissue Infiltration Independently of Conventional Treatments Response Boutet Marie-Astrid 1 2 \u2020 * Nerviani Alessandra 1 \u2020 Lliso-Ribera Gloria 1 Leone Roberto 3 Sironi Marina 3 Hands Rebecca 1 Rivellese Felice 1 Del Prete Annalisa 3 4 Goldmann Katriona 1 Lewis Myles J. 1 Mantovani Alberto 1 3 5 Bottazzi Barbara 3 \u2021 Pitzalis Costantino 1 \u2021 * 1 Centre for Experimental Medicine & Rheumatology, William Harvey Research Institute and Barts and The London School of Medicine and Dentistry, Queen Mary University of London , London , United Kingdom 2 Inserm UMR 1229, Regenerative Medicine and Skeleton, RMeS, Universit\u00e9 de Nantes, ONIRIS , Nantes , France 3 Department of Inflammation and Immunology, Humanitas Clinical and Research Center\u2014IRCCS , Milan , Italy 4 Department of Molecular and Translational Medicine, University of Brescia , Brescia , Italy 5 Department of Biomedical Sciences, Humanitas University , Milan , Italy Edited by: Jeehee Youn, Hanyang University, South Korea Reviewed by: Marpe Bam, University of South Carolina, United States; Adam Croft, University of Birmingham, United Kingdom *Correspondence: Costantino Pitzalis, c.pitzalis@qmul.ac.uk ; Marie-Astrid Boutet, m.a.boutet@qmul.ac.uk \u2020These authors have contributed equally to this work and share first authorship \u2021These authors have contributed equally to this work and share last authorship This article was submitted to Autoimmune and Autoinflammatory Disorders, a section of the journal Frontiers in Immunology 25 6 2021 2021 12 686795 27 3 2021 10 6 2021 Copyright \u00a9 2021 Boutet, Nerviani, Lliso-Ribera, Leone, Sironi, Hands, Rivellese, Del Prete, Goldmann, Lewis, Mantovani, Bottazzi and Pitzalis 2021 Boutet, Nerviani, Lliso-Ribera, Leone, Sironi, Hands, Rivellese, Del Prete, Goldmann, Lewis, Mantovani, Bottazzi and Pitzalis https://creativecommons.org/licenses/by/4.0/ This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms. Aims To determine the relationship between PTX3 systemic and synovial levels and the clinical features of rheumatoid arthritis (RA) in a cohort of early, treatment na\u00efve patients and to explore the relevance of PTX3 expression in predicting response to conventional-synthetic (cs) Disease-Modifying-Anti-Rheumatic-Drugs (DMARDs) treatment. Methods PTX3 expression was analyzed in 119 baseline serum samples from early na\u00efve RA patients, 95 paired samples obtained 6-months following the initiation of cs-DMARDs treatment and 43 healthy donors. RNA-sequencing analysis and immunohistochemistry for PTX3 were performed on a subpopulation of 79 and 58 synovial samples, respectively, to assess PTX3 gene and protein expression. Immunofluorescence staining was performed to characterize PTX3 expressing cells within the synovium. Results Circulating levels of PTX3 were significantly higher in early RA compared to healthy donors and correlated with disease activity at baseline and with the degree of structural damages at 12-months. Six-months after commencing cs-DMARDs, a high level of PTX3, proportional to the baseline value, was still detectable in the serum of patients, regardless of their response status. RNA-seq analysis confirmed that synovial transcript levels of PTX3 correlated with disease activity and the presence of mediators of inflammation, tissue remodeling and bone destruction at baseline. PTX3 expression in the synovium was strongly linked to the degree of immune cell infiltration, the presence of ectopic lymphoid structures and seropositivity for autoantibodies. Accordingly, PTX3 was found to be expressed by numerous synovial cell types such as plasma cells, fibroblasts, vascular and lymphatic endothelial cells, macrophages, and neutrophils. The percentage of PTX3-positive synovial cells, although significantly reduced at 6-months post-treatment as a result of global decreased cellularity, was similar in cs-DMARDs responders and non-responders. Conclusion This study demonstrates that, early in the disease and prior to treatment modification, the level of circulating PTX3 is a reliable marker of RA activity and predicts a high degree of structural damages at 12-months. In the joint, PTX3 associates with immune cell infiltration and the presence of ectopic lymphoid structures. High synovial and peripheral blood levels of PTX3 are associated with chronic inflammation characteristic of RA. Additional studies to determine the mechanistic link are required. pentraxin-3 rheumatoid arthritis synovial tissue pathotypes inflammation Introduction Rheumatoid arthritis (RA) is the most common chronic inflammatory autoimmune joint disease. It is characterized by synovitis and progressive cartilage destruction and bone erosions, and can lead to persistent joint pain and functional disability. Defective control of the systemic inflammatory response and the development of autoimmunity, often emerging long before the clinical onset of the disease, result in the synovial infiltration and activation of immune and stromal cells that lead to the production of high levels of inflammatory mediators such as pro-inflammatory interleukins (IL-1, Tumor Necrosis Factor-TNF-\u03b1, IL-6) or matrix metalloproteinases (MMP) ( 1 ). These molecules contribute to the maintenance of synovitis, which displays histopathological variability that has been categorized into three partially overlapping pathotypes ( 2 ). These include the lympho-myeloid pathotype characterized by the presence of B/T cells forming organized ectopic lymphoid structures (ELS), plasma cells and macrophages; the diffuse-myeloid pathotype with a predominant infiltration of macrophages without organized ELS, and the pauci-immune fibroid pathotype defined by a scant immune cell infiltrate. These pathotypes have been shown to stratify disease activity and severity, as well as response to conventional synthetic (cs) disease modifying anti-rheumatic drug (DMARDs) ( 3 ). Furthermore, soluble proteins such as the classical short pentraxin C-reactive protein (CRP), in addition to acting as acute phase reactants and indicator of systemic inflammation, also reflect joint disease activity and tissue pathology ( 3 , 4 ). The long pentraxin 3 (PTX3) is a soluble pattern recognition molecule highly conserved in evolution ( 5 ). PTX3 is generally poorly expressed in homeostatic conditions, but is rapidly upregulated in response to inflammatory stimuli. For instance, the proinflammatory molecules IL-1 and TNF are the most important inducers of PTX3 production by myeloid and endothelial cells. When appropriately stimulated, fibroblasts and other stromal cells also release PTX3. PTX3 is a multifunctional protein exerting non-redundant roles in the innate resistance to pathogens, the regulation of inflammation and tissue repair. It has been shown that PTX3 can limit tissue damage in murine models of acute lung injury and ischemia/reperfusion-induced kidney injury by regulating neutrophil recruitment at inflamed sites ( 6 , 7 ). In experimental models of chemically-induced sterile liver and lung injury, skin wound healing and in arterial thrombosis, PTX3-deficiency is associated with altered remodeling of the fibrin-rich inflammatory matrix and impairment of normal tissue repair ( 8 ). Similarly to CRP, PTX3 circulating levels are increased in several inflammatory or infectious pathological conditions and are associated with disease severity and mortality risk ( 9 \u2013 11 ). In the context of RA, PTX3 has been shown to be constitutively highly expressed by synovial fibroblasts ( 12 ); however, as described in other tissues, various resident or infiltrating synovial cells like macrophages or endothelial cells might also represent a source of PTX3 upon inflammatory activation. Several groups found that PTX3 is upregulated in the serum of RA patients compared to healthy donors ( 13 \u2013 15 ) or patients with osteoarthritis ( 16 ). However, conflicting results have been published regarding the relationship between the level of PTX3 in the serum and clinical features of the disease. On the one hand, studies on different cohorts of 111 ( 17 ), 29 ( 18 ), 60 ( 13 ), 83 ( 19 ), 58 ( 14 ) or 41 ( 15 ) RA patients reported no relationship between PTX3 and the Disease Activity Score (DAS)-28. Conversely, other groups found an association between PTX3 serum levels and either CRP ( 16 ) or the progression of joint damage assessed by increase in the total van der Heijde modified Sharp score (SHSS) and joint space narrowing over 3 years ( 20 ). In addition, Weitoft and colleagues reported that the level of PTX3 in synovial fluid from RA patients is higher in seropositive patients (anti-cyclic citrullinated protein -CCP- antibody or rheumatoid factor -RF-) when compared to seronegative patients, and correlates with disease activity and local expression of markers of inflammation such as IL-6 or vascular endothelial growth factor (VEGF) ( 21 ). These contradictory results likely depend on the heterogeneity of the cohorts analyzed including, for example, diverse disease stages, treatment exposure (cs- or biologic-DMARDs, known to influence various biologic processes), and disease phases (acute flare/latent chronic). For example, during acute flares, a dysregulated production of synovial fluid with a predominant infiltration of neutrophils will significantly influence PTX3 level. Here, to clarify the relationship between PTX3 systemic and synovial levels and clinical parameters while minimizing population heterogeneity and drug-exposure, we investigated a large cohort of treatment-na\u00efve early RA patients. We performed a thorough analysis of PTX3 circulating and transcript/protein synovial expression at baseline and 6-months after cs-DMARDs exposure in matched individuals. Here, we provide important insights into the relevance of PTX3 in RA disease tissue pathology, disease severity and whether it is a useful biomarker predictive of treatment response in RA.",
+    "document_source_id": "34248970",
+    "analysis_date": "2025-12-09",
+    "extracted_data": {
+      "document_summary": "This study investigated systemic and synovial Pentraxin-3 (PTX3) levels in early, treatment-na\u00efve rheumatoid arthritis (RA) patients, both at baseline and after 6 months of conventional-synthetic Disease-Modifying-Anti-Rheumatic-Drugs (cs-DMARDs) treatment. It found that circulating PTX3 is a reliable marker of RA activity and predicts structural damage, remaining high post-treatment regardless of clinical response. Synovial PTX3 gene and protein expression correlated with local inflammation, disease activity, immune cell infiltration, ectopic lymphoid structures, and specific synovial pathotypes. While synovial PTX3 protein levels significantly decreased after cs-DMARD treatment, reflecting reduced local inflammation, this change was independent of clinical response.",
+      "treatment_details": {
+        "therapy_type": "Conventional-synthetic Disease-Modifying-Anti-Rheumatic-Drugs (cs-DMARDs)",
+        "dose_specificity": "Patients received cs-DMARDs for 6 months; 94.1% received cs-DMARDs and 47.9% received adjunctive corticosteroid treatment. Treatment effects on PTX3 levels were assessed at 6 months and were independent of clinical response status; no specific dosages or dose-response comparisons were reported."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "Pentraxin-3 (PTX3)",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher, then largely unchanged",
+            "magnitude_quantification": "Significantly higher in early RA patients (median 3.23 ng/mL, IQR 2.28-4.99) compared to healthy donors (median 1.25 ng/mL, IQR 0.76-1.64). At baseline, positively correlated with clinical parameters including CRP, ESR, DAS28, tender and swollen joints, VAS physician assessment of global health, HAQ, and the degree of bone erosions (SHSS) at 12-months. After 6 months of cs-DMARD treatment, systemic PTX3 levels were largely unchanged from baseline, remaining high and proportional to baseline values. While correlations with most disease activity parameters were lost at 6 months, the correlation with CRP persisted."
+          },
+          "core_biological_function": "Soluble pattern recognition molecule, acute-phase reactant, innate immunity modulator, involved in inflammation, tissue repair, and innate resistance to pathogens; can limit tissue damage by regulating neutrophil recruitment and is essential for normal fibrin-rich inflammatory matrix remodeling.",
+          "relevant_activity_context": "Early, treatment-na\u00efve Rheumatoid Arthritis (RA) patients at baseline and 6 months following initiation of cs-DMARDs treatment, comparing to healthy donors.",
+          "performance_or_health_indicator": "Reliable and strong marker of RA activity and severity, correlating with systemic inflammation and predicting structural damage (bone erosions) at 12 months. High baseline levels predict persistently higher circulating PTX3 after 6 months. Does not predict or reflect clinical response to cs-DMARDs treatment and its association with general disease activity parameters (except CRP) diminishes after 6 months of treatment."
+        },
+        {
+          "biomarker_name": "Pentraxin-3 (PTX3)",
+          "measured_tissue_or_fluid": "Synovial Tissue",
+          "activity_type": "Gene Transcript Level",
+          "measured_effect": {
+            "direction_of_change": "correlated; higher",
+            "magnitude_quantification": "Synovial transcript levels of PTX3 correlated with disease activity (ESR, circulating CRP, DAS28) and the presence of mediators of inflammation, tissue remodeling, and bone destruction (e.g., MMP, RANK) at baseline. It also correlated with gene expression of other acute phase reactants (CRP, SAA) and chemokines. Higher expression was observed in the lympho-myeloid synovial pathotype compared to the pauci-immune pathotype, and it negatively correlated with TNFSFR11B (OPG)."
+          },
+          "core_biological_function": "Soluble pattern recognition molecule involved in innate resistance to pathogens, regulation of inflammation, tissue repair, tissue remodeling, bone resorption, cytokine signaling, and regulation of leukocyte migration.",
+          "relevant_activity_context": "Early, treatment-na\u00efve Rheumatoid Arthritis (RA) patients at baseline, particularly in synovial tissue via RNA-seq, and associated with specific synovial pathotypes.",
+          "performance_or_health_indicator": "Indicator of local disease activity, inflammation, tissue remodeling, and bone resorption within the joint; associated with the lympho-myeloid pathotype, reflecting severe tissue pathology and chronic inflammation characteristic of RA."
+        },
+        {
+          "biomarker_name": "Pentraxin-3 (PTX3)",
+          "measured_tissue_or_fluid": "Synovial Tissue",
+          "activity_type": "Protein Expression (Immunohistochemistry, Immunofluorescence)",
+          "measured_effect": {
+            "direction_of_change": "higher, then significantly decreased",
+            "magnitude_quantification": "Percentage of PTX3-positive cells was significantly higher in synovial tissue with a lympho-myeloid pathotype compared to diffuse-myeloid and pauci-immune pathotypes. Expression was strongly linked to the degree of immune cell infiltration (CD3+ T cells, CD20+ B cells, CD138+ plasma cells, CD68+ macrophages), total Krenn score, and seropositivity for autoantibodies (RF/CCP). Following cs-DMARD treatment, the percentage of synovial PTX3-positive cells significantly decreased, associated with reduced inflammatory cell markers. This reduction, however, was observed similarly in both responders and non-responders to cs-DMARDs."
+          },
+          "core_biological_function": "Soluble pattern recognition molecule that drives local inflammation, tissue remodeling, and bone erosions; functions as a bridge between innate and adaptive immunity; associated with synovial histopathology; involved in innate resistance to pathogens, regulation of inflammation, and tissue repair.",
+          "relevant_activity_context": "Early, treatment-na\u00efve Rheumatoid Arthritis (RA) patients at baseline and 6 months following initiation of cs-DMARDs treatment, analyzed in the context of distinct synovial pathotypes and local joint inflammation.",
+          "performance_or_health_indicator": "Reflects local disease activity and severity, strongly associated with deleterious immune cell infiltration, ectopic lymphoid structures, specific synovial pathotypes, and seropositivity for RA auto-antibodies. Indicates a reduction in local inflammation and immune cell infiltration after cs-DMARDs, but is not a predictive marker of clinical response to cs-DMARDs at the local level. Provides insights into disease pathogenesis and potential risks of complications."
+        },
+        {
+          "biomarker_name": "CRP (C-reactive protein)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Higher concentration in RA patients compared to healthy donors; positively correlated with PTX3 levels at baseline and 6 months post-treatment; higher systemic levels found in patients with a lympho-myeloid pathotype compared to other pathotypes."
+          },
+          "core_biological_function": "Acute-phase reactant, marker of inflammation.",
+          "relevant_activity_context": "Early, treatment-na\u00efve RA patients at baseline and after cs-DMARD treatment.",
+          "performance_or_health_indicator": "Marker of RA disease activity, differentiates patients presenting distinct synovial pathotypes, and maintains correlation with PTX3 after treatment."
+        },
+        {
+          "biomarker_name": "ESR (Erythrocyte Sedimentation Rate)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Clinical Marker",
+          "measured_effect": {
+            "direction_of_change": "correlated",
+            "magnitude_quantification": "Circulating PTX3 levels positively correlated with ESR at baseline, but this correlation was largely lost at 6 months post-treatment."
+          },
+          "core_biological_function": "Marker of systemic inflammation.",
+          "relevant_activity_context": "RA patients at the onset of the disease prior to any treatment modification, and after 6 months of cs-DMARD treatment.",
+          "performance_or_health_indicator": "Strong marker of RA disease activity at baseline, but its association with PTX3 diminishes with cs-DMARD treatment."
+        },
+        {
+          "biomarker_name": "DAS28 (Disease Activity Score in 28 joints)",
+          "measured_tissue_or_fluid": "Clinical Assessment",
+          "activity_type": "Clinical Score",
+          "measured_effect": {
+            "direction_of_change": "correlated",
+            "magnitude_quantification": "Circulating PTX3 levels positively correlated with DAS28 score at baseline, but this correlation was largely lost at 6 months post-treatment."
+          },
+          "core_biological_function": "Measures disease activity in Rheumatoid Arthritis.",
+          "relevant_activity_context": "RA patients at the onset of the disease prior to any treatment modification, and after 6 months of cs-DMARD treatment.",
+          "performance_or_health_indicator": "Strong marker of RA disease activity at baseline, but its association with PTX3 diminishes with cs-DMARD treatment."
+        },
+        {
+          "biomarker_name": "SAA (Serum Amyloid A)",
+          "measured_tissue_or_fluid": "Synovial Tissue",
+          "activity_type": "Gene Transcript",
+          "measured_effect": {
+            "direction_of_change": "positive correlation",
+            "magnitude_quantification": "Positive correlation observed between SAA and PTX3 synovial transcript abundance."
+          },
+          "core_biological_function": "Acute-phase reactant, enhances PTX3 expression.",
+          "relevant_activity_context": "RA patients, synovial environment, at baseline.",
+          "performance_or_health_indicator": "Associated with PTX3 expression, indicating a link between acute-phase reactants and local inflammation in the synovium."
+        },
+        {
+          "biomarker_name": "CXCL13, CCL19",
+          "measured_tissue_or_fluid": "Synovial Tissue",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "positive correlation",
+            "magnitude_quantification": "PTX3 synovial expression positively correlated with the levels of CXCL13 and CCL19, chemokines involved in Ectopic Lymphoid Structures (ELS) formation and maintenance."
+          },
+          "core_biological_function": "Mediate inflammation and are involved in the formation and maintenance of Ectopic Lymphoid Structures (ELS).",
+          "relevant_activity_context": "RA patients, particularly in the lympho-myeloid pathotype characterized by ELS, at baseline.",
+          "performance_or_health_indicator": "Indicate heightened local inflammation and lymphoid organization in specific synovial pathotypes, associated with PTX3 expression."
+        },
+        {
+          "biomarker_name": "RF/anti-CCP autoantibodies (Rheumatoid Factor/anti-Cyclic Citrullinated Peptide autoantibodies)",
+          "measured_tissue_or_fluid": "Serum (seropositivity)",
+          "activity_type": "Antibody Presence",
+          "measured_effect": {
+            "direction_of_change": "associated",
+            "magnitude_quantification": "High PTX3 synovial tissue expression was associated with seropositivity for RF/anti-CCP autoantibodies."
+          },
+          "core_biological_function": "Markers of autoimmune response in Rheumatoid Arthritis.",
+          "relevant_activity_context": "RA patients, in relation to synovial PTX3 expression at baseline.",
+          "performance_or_health_indicator": "Indicates specific RA serotype, suggesting a link between synovial PTX3 expression and specific autoimmune profiles."
+        },
+        {
+          "biomarker_name": "Anti-PTX3 autoantibodies",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Antibody Presence/Concentration",
+          "measured_effect": {
+            "direction_of_change": "positive correlation",
+            "magnitude_quantification": "Positively correlated with PTX3 serum levels, disease activity, and circulating levels of pro-inflammatory cytokines such as IL-6 or IL-1\u03b2."
+          },
+          "core_biological_function": "Autoimmune response against PTX3, confirming PTX3 immunogenicity.",
+          "relevant_activity_context": "RA context, at baseline.",
+          "performance_or_health_indicator": "Confirms PTX3 immunogenicity in RA, associated with disease activity and systemic inflammation."
+        },
+        {
+          "biomarker_name": "IL-6 (Interleukin-6), IL-1\u03b2 (Interleukin-1 beta)",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "correlated",
+            "magnitude_quantification": "Circulating levels positively correlated with anti-PTX3 autoantibodies and overall disease activity."
+          },
+          "core_biological_function": "Pro-inflammatory cytokines, drive inflammasome activation.",
+          "relevant_activity_context": "RA context, associated with PTX3/C1q-mediated pyroptosis and inflammasome activation, at baseline.",
+          "performance_or_health_indicator": "Markers of systemic inflammation and disease activity in RA."
+        },
+        {
+          "biomarker_name": "FGF-2 (Fibroblast Growth Factor 2)",
+          "measured_tissue_or_fluid": "Joints",
+          "activity_type": "Activity/Function",
+          "measured_effect": {
+            "direction_of_change": "inhibited",
+            "magnitude_quantification": "PTX3 inhibits FGF-2 associated osteoclastogenesis; PTX3 binding to FGF-2 can reverse FGF-2's inhibitory effect on osteoblastogenesis."
+          },
+          "core_biological_function": "Promotes osteoclastogenesis and regulates bone remodeling.",
+          "relevant_activity_context": "Collagen-induced arthritis model, bone remodeling, in the context of PTX3 interaction.",
+          "performance_or_health_indicator": "PTX3's interaction with FGF-2 suggests a protective role against bone erosion and influence on bone remodeling in arthritic conditions."
+        },
+        {
+          "biomarker_name": "MMP8 (Matrix Metalloproteinase 8)",
+          "measured_tissue_or_fluid": "Joints",
+          "activity_type": "Gene Expression",
+          "measured_effect": {
+            "direction_of_change": "increased (PTX3 and IL1B expression with MMP8 deficiency)",
+            "magnitude_quantification": "MMP8 deficiency leads to increased disease severity, accompanied by increased expression of IL1B and PTX3 in the joints."
+          },
+          "core_biological_function": "Matrix degradation, involved in inflammation.",
+          "relevant_activity_context": "RA, joint inflammation, in the context of MMP8 deficiency.",
+          "performance_or_health_indicator": "MMP8 deficiency is associated with worsened disease severity and increased local PTX3 expression, highlighting a link between matrix degradation enzymes and inflammation."
+        }
+      ]
+    }
+  }
+]

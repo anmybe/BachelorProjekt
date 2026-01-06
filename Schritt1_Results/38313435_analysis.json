@@ -1,0 +1,304 @@
+[
+  {
+    "title": "pmc Front Immunol Front Immunol Front. Immunol. Frontiers in Immunology 1664-3224 Frontiers Media S.A. 10835145 38313435 10.3389/fimmu.2023.1299792 Immunology Original Research Urokinase-type plasminogen activator and plasminogen activator inhibitor-1 complex as a serum biomarker for COVID-19 Yatsenko Tetiana 1 2 Rios Ricardo 3 Nogueira Tatiane 3 Salama Yousef 4 Takahashi Satoshi 5 Tabe Yoko 1 Naito Toshio 1 Takahashi Kazuhisa 1 6 Hattori Koichi 7 8 * \u2020 Heissig Beate 1 * \u2020 1 Department of Research Support Utilizing Bioresource Bank, Graduate School of Medicine, Juntendo University School of Medicine , Tokyo , Japan 2 Department of Enzymes Chemistry and Biochemistry, Palladin Institute of Biochemistry of the National Academy of Science of Ukraine , Kyiv , Ukraine 3 Institute of Computing, Federal University of Bahia , Salvador, Bahia , Brazil 4 An-Najah Center for Cancer and Stem Cell Research, Faculty of Medicine and Health Sciences, An-Najah National University , Nablus , Palestine 5 Division of Clinical Precision Research Platform, the Institute of Medical Science, the University of Tokyo , Tokyo , Japan 6 Department of Respiratory Medicine, Juntendo University School of Medicine , Tokyo , Japan 7 Center for Genome and Regenerative Medicine, Juntendo University, Graduate School of Medicine , Tokyo , Japan 8 Department of Hematology/Oncology, the Institute of Medical Science, the University of Tokyo , Tokyo , Japan Edited by: Aleksandra Piechota-Polanczyk, Jagiellonian University, Poland Reviewed by: Meganathan Kannan, Central University of Tamil Nadu, India Khalil Bdeir, University of Pennsylvania, United States *Correspondence: Beate Heissig, heissig@juntendo.ac.jp ; Koichi Hattori, khattori@juntendo.ac.jp \u2020ORCID: Koichi Hattori, orcid.org/0000000313800704 ; Beate Heissig, orcid.org/0000-0002-0348-5934 11 1 2024 2023 14 1299792 23 9 2023 19 12 2023 Copyright \u00a9 2024 Yatsenko, Rios, Nogueira, Salama, Takahashi, Tabe, Naito, Takahashi, Hattori and Heissig 2024 Yatsenko, Rios, Nogueira, Salama, Takahashi, Tabe, Naito, Takahashi, Hattori and Heissig https://creativecommons.org/licenses/by/4.0/ This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms. Patients with coronavirus disease-2019 (COVID-19) have an increased risk of thrombosis and acute respiratory distress syndrome (ARDS). Thrombosis is often attributed to increases in plasminogen activator inhibitor-1 (PAI-1) and a shut-down of fibrinolysis (blood clot dissolution). Decreased urokinase-type plasminogen activator (uPA), a protease necessary for cell-associated plasmin generation, and increased tissue-type plasminogen activator (tPA) and PAI-1 levels have been reported in COVID-19 patients. Because these factors can occur in free and complexed forms with differences in their biological functions, we examined the predictive impact of uPA, tPA, and PAI-1 in their free forms and complexes as a biomarker for COVID-19 severity and the development of ARDS. In this retrospective study of 69 Japanese adults hospitalized with COVID-19 and 20 healthy donors, we found elevated free, non-complexed PAI-1 antigen, low circulating uPA, and uPA/PAI-1 but not tPA/PAI-1 complex levels to be associated with COVID-19 severity and ARDS development. This biomarker profile was typical for patients in the complicated phase. Lack of PAI-1 activity in circulation despite free, non-complexed PAI-1 protein and plasmin/\u03b12anti-plasmin complex correlated with suPAR and sVCAM levels, markers indicating endothelial dysfunction. Furthermore, uPA/PAI-1 complex levels positively correlated with TNF\u03b1, a cytokine reported to trigger inflammatory cell death and tissue damage. Those levels also positively correlated with lymphopenia and the pro-inflammatory factors interleukin1\u03b2 (IL1\u03b2), IL6, and C-reactive protein, markers associated with the anti-viral inflammatory response. These findings argue for using uPA and uPA/PAI-1 as novel biomarkers to detect patients at risk of developing severe COVID-19, including ARDS. COVID-19 plasminogen activator inhibitor-1 urokinase-type plasminogen activator interleukin-6 fibrinolysis thrombosis C-reactive protein respiratory distress syndrome Japan Society for the Promotion of Science 10.13039/501100001691 MEXT The author(s) declare financial support was received for the research, authorship, and/or publication of this article. This work was supported partly by JSPS KAKENHI Grant Numbers JP22F21773(BH), JP22KF0337(BH), JP17K09941(KH), JP22K07206(ST), a grant from The Japanese Society of Hematology Research Grant (KH), Nakatani Foundation (KH), Terumo Life Science Foundation (KH), Okinaka Memorial Institute for Medical Research (KH), Grants from the Society of iodine science (KH), Radiation effects association (KH) and International Joint Usage/Research Center, the Institute of Medical Science, the University of Tokyo (KH, BH), Heiwa Nakajima Foundation (BH), Institute for Environmental & Gender-specific Medicine, Juntendo University (BH). section-in-acceptance Inflammation Highlights Lower circulating uPA and uPA/PAI-1 complex levels and increased non-complexed PAI-1 were associated with severe COVID-19 outcomes (ARDS). uPA/PAI-1 complex positively correlated with proinflammatory response (TNF\u03b1, IL1\u03b2, IL6, CRP) in severely ill patients. Introduction Impaired blood clot dissolution (hypofibrinolysis) and hypercoagulation, inflammation, and endotheliopathy contribute to the pathogenesis of coronavirus disease-2019 (COVID-19) ( 1 \u2013 6 ). D-dimers, fibrin fragments generated after fibrin dissolution ( 7 ), have been proposed in various studies to predict COVID-19 disease severity. However, Sridharan et al. reported that D-dimer levels are ineffective as a prognostic marker of COVID-19-associated thrombosis ( 8 ). We showed that Japanese COVID-19 patients presented with low D-dimer levels even in the complicated phase ( 5 ). A low thrombosis incidence and fewer severe cases were reported in Japan compared to other countries globally ( 9 ). As of March 17 th, 2023, the death rate of COVID-19 in Japan and the Western Pacific region is 0.22% and 0.2%, respectively, compared to that in Europe (0.8%), South-East Asia (1.32%), Eastern Mediterranean region (1.5%), Americas (1.54%), and Africa (1.84%) ( covid19.who.int ). The levels of other fibrinolytic factors, including tissue-type plasminogen activator (tPA), urokinase-type PA (uPA), and one of its main inhibitors called plasminogen activator inhibitor-1 (PAI-1) and the soluble form of the uPA receptor (suPAR) were found to be altered in COVID-19 patients ( 10 ). Dysregulation of uPA and its receptor system has been implicated in the pathogenesis of pulmonary fibrosis and acute respiratory distress syndrome (ARDS) ( 10 \u2013 12 ). While these studies indicate that the fibrinolytic system during COVID-19 is altered, they did not consider that all these factors occur not only in their free forms but also in complexes that change their biological functions. The plasminogen-plasmin system, best known for removing fibrin-containing blood clots, controls extracellular matrix degradation and inflammation, the latter due to its ability to activate other proteases and release pro-inflammatory cytokines ( 13 , 14 ). Only a small portion of circulating plasminogen is converted to plasmin. Free plasmin in the blood plasma can be immediately inhibited by \u03b12-antiplasmin (\u03b12AP). Plasmin is activated on fibrin by tPA or urokinase-type plasminogen activator (uPA) after binding to receptors like uPAR on cell surfaces ( 15 ). Plasminogen activator inhibitor-1 (PAI-1) and PAI-2 can bind tPA or uPA and block their fibrinolytic activity. Inflammation promotes the local release of tPA and PAI-1 from endothelial cells ( 16 ). Elevated PAI-1 levels modulate neutrophil migration in murine models of bacterial infection or abdominal surgery ( 17 \u2013 19 ). Viral infections are associated with elevated circulating PAI-1 levels ( 20 ). Intracellular endothelial PAI-1 impairs endothelial function ( 21 ). Circulating free, relatively unstable active PAI-1 readily converts to the latent or inactive form by binding to PAs or undergoing structural changes or proteolytical cleavage (e.g., by neutrophil elastase) in less than 1h ( 22 \u2013 24 ). Vitronectin binding to PAI-1 stabilizes the active form and extends the lifetime of active inhibitor ( 25 ). uPA, PAI-1, and uPA/PAI-1 complexes are important prognostic factors in metastatic breast cancer ( 26 ). The uPA/PAI-1 complex typically constitutes ~5% of the uPA antigen (total uPA), and elevated levels indicate breast cancer metastasis ( 27 ). Tissue destruction is a common feature of COVID-19-associated ARDS. uPA is involved in the matrix degradation of tissues during inflammation ( 28 ) and tissue fibrosis ( 29 ). Studies also show a relationship between coagulopathy and systemic inflammation ( 30 ). Plasmin controls TNF\u03b1 and IFN\u03b3 expression in macrophages ( 31 , 32 ). TNF\u03b1 and IFN\u03b3 in synergy can trigger inflammatory cell death, tissue damage, and mortality in SARS-CoV2 infection and cytokine shock syndromes ( 33 ). Because fibrinolytic factors can occur in free and complexed forms with differences in their biological functions, we examined the predictive impact of uPA, tPA, and PAI-1 in their free forms and complexes as a prognostic biomarker for COVID-19 severity and the development of ARDS, and determined their association with inflammatory factors.",
+    "document_source_id": "38313435",
+    "analysis_date": "2025-12-09",
+    "extracted_data": {
+      "document_summary": "This study investigated the predictive impact of free and complexed forms of urokinase-type plasminogen activator (uPA), tissue-type plasminogen activator (tPA), and plasminogen activator inhibitor-1 (PAI-1), along with other inflammatory and coagulation biomarkers, for COVID-19 severity and the development of Acute Respiratory Distress Syndrome (ARDS) in Japanese adults. It revealed that elevated free, non-complexed PAI-1 antigen, and low circulating uPA and uPA/PAI-1 complex levels were associated with increased COVID-19 severity and ARDS, particularly in the complicated phase. These fibrinolytic changes correlated with heightened inflammation (e.g., TNF\nG\u03b1, IL1\nG\u03b2, IL6, CRP), endothelial dysfunction (suPAR, sVCAM1), and clinical outcomes like lymphopenia, suggesting a \"fibrinolysis-sleeper/shutdown\" state in severe COVID-19.",
+      "treatment_details": {
+        "therapy_type": "Observational Study on COVID-19 Disease Progression",
+        "dose_specificity": "This was a retrospective observational study involving 69 hospitalized Japanese adults with COVID-19 and 20 healthy donors, comparing biomarker levels across uncomplicated, complicated, and critical disease phases. No therapeutic intervention or dose comparisons were reported, focusing instead on naturally occurring changes during disease progression and noting ethnic differences in biomarker profiles."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "Urokinase-type plasminogen activator (uPA)",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Lower in COVID-19 patients than in healthy individuals, irrespective of clinical phase, with significant decreases observed and downregulation during disease progression. Low circulating levels were associated with COVID-19 severity and ARDS development, and negatively correlated with ARDS. Moderately correlated with TGF\nG\u03b2 (r=0.42, p=0.02)."
+          },
+          "core_biological_function": "Protease essential for cell-associated plasmin generation; promotes plasminogen-plasmin conversion, involved in fibrinolysis, extracellular matrix degradation during inflammation, and tissue fibrosis.",
+          "relevant_activity_context": "COVID-19 disease progression, particularly in severe and complicated phases, ARDS development, and impaired plasmin-driven fibrin degradation.",
+          "performance_or_health_indicator": "A prognostic biomarker for COVID-19 severity and ARDS, indicating altered fibrinolysis and a 'fibrinolysis-sleeper/shutdown' state. Proposed as a novel biomarker to detect patients at risk of developing severe COVID-19."
+        },
+        {
+          "biomarker_name": "Non-complexed PAI-1 protein",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Elevated levels, highest in COVID-19 patients in the complicated phase compared to uncomplicated phase and healthy donors. Strongly associated with COVID-19 severity and ARDS development. Correlated with suPAR and sVCAM, inversely correlated with lymphocytes and TNF\nG\u03b1, and high levels correlated with the presence of diabetes."
+          },
+          "core_biological_function": "The main inhibitor of plasminogen activators (tPA and uPA), blocking fibrinolytic activity. It is an early marker of endothelial dysfunction, modulates neutrophil migration, and elevated levels impair endothelial function, contributing to hypofibrinolysis and fibrin persistence.",
+          "relevant_activity_context": "COVID-19 disease progression, particularly in severe and complicated phases, ARDS development, endothelial dysfunction, inflammatory response, lymphopenia, and comorbidities like diabetes.",
+          "performance_or_health_indicator": "A prognostic biomarker for COVID-19 severity and ARDS, indicating endothelial dysfunction, a 'fibrinolysis-sleeper/shutdown' state, and reflecting inflammatory response. Associated with increased risk in patients with diabetes and proposed as a novel biomarker to detect patients at risk of developing severe COVID-19."
+        },
+        {
+          "biomarker_name": "uPA/PAI-1 complex",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Protein Complex Level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Lower in COVID-19 patients compared to healthy individuals, with lowest levels observed in the complicated phase. Low circulating levels were strongly associated with COVID-19 severity and ARDS development. Negatively correlated with plasmin/\nG\u03b12AP complex, CRP, IL6, IL1\nG\u03b2, and ARDS. Positively correlated with lymphocytes and TNF\nG\u03b1 expression in mononuclear cells from severely ill patients."
+          },
+          "core_biological_function": "A complex formed between uPA and PAI-1, crucial for regulating fibrinolysis, matrix degradation, and plasmin generation. It modulates macrophage migration and TNF\nG\u03b1 release.",
+          "relevant_activity_context": "COVID-19 disease progression, particularly in severe and complicated phases, ARDS development, lymphopenia, systemic inflammation, and macrophage function. Also associated with comorbidities like hypertension and heart disease.",
+          "performance_or_health_indicator": "A prognostic biomarker for COVID-19 severity and ARDS, indicating impaired fibrinolysis and a 'fibrinolysis-sleeper/shutdown' state. It is linked to increased inflammatory cytokines (TNF\nG\u03b1, IL1\nG\u03b2, IL6, CRP) and lymphopenia, and is a novel biomarker for worsening clinical parameters. Also associated with hypertension and heart disease."
+        },
+        {
+          "biomarker_name": "tPA/PAI-1 complex",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Protein Complex Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Higher in COVID-19 patients regardless of clinical phase compared to healthy individuals, but not associated with COVID-19 severity or ARDS development in this study. No correlation with plasmin/\nG\u03b12AP complex (Spearman rs=0.0068)."
+          },
+          "core_biological_function": "A complex formed between tPA and PAI-1, involved in regulating fibrinolysis. Increases are linked to myocardial infarction.",
+          "relevant_activity_context": "COVID-19 disease, specifically in relation to fibrinolysis regulation.",
+          "performance_or_health_indicator": "Not found to be a predictive biomarker for COVID-19 severity or ARDS development in this study. While higher in COVID-19 patients, its functional consequences are unclear, though it may suggest a low thrombosis risk for Japanese when considered with other markers."
+        },
+        {
+          "biomarker_name": "Tumor Necrosis Factor alpha (TNF\nG\u03b1)",
+          "measured_tissue_or_fluid": "Serum, Peripheral blood mononuclear cells (PBMCs)",
+          "activity_type": "Protein Level (Serum), Gene Transcript/Expression (PBMCs)",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Lower serum levels and gene transcripts in PBMCs were observed in severely ill patients compared to the uncomplicated phase, and decreased production in Japanese COVID-19 patients. Inversely correlated with non-complexed PAI-1 protein, but positively correlated with uPA/PAI-1 complex levels in mononuclear cells."
+          },
+          "core_biological_function": "A proinflammatory cytokine that triggers inflammatory cell death and tissue damage, controls expression in macrophages, and can regulate PAI-1 expression, contributing to organ damage.",
+          "relevant_activity_context": "COVID-19 disease severity, inflammatory cell death, tissue damage, cytokine shock syndromes, and ethnic differences in inflammatory response.",
+          "performance_or_health_indicator": "Associated with severe COVID-19 and cytokine shock syndromes, typically indicating a heightened inflammatory response. However, lower levels were unexpectedly found in severely ill Japanese patients, which may contribute to a less severe disease course in this cohort. It predicts poor outcomes in general COVID-19 patients."
+        },
+        {
+          "biomarker_name": "Interleukin-1 beta (IL1\nG\u03b2)",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Protein Level (Pro-inflammatory factor)",
+          "measured_effect": {
+            "direction_of_change": "increased",
+            "magnitude_quantification": "Increased in patients with more severe stages of COVID-19. Positively correlated with total PAI-1 protein (Spearman r=0.69, p<0.001) but negatively correlated with uPA/PAI-1 complex levels."
+          },
+          "core_biological_function": "A proinflammatory cytokine associated with the anti-viral inflammatory response and regulates PAI-1 expression.",
+          "relevant_activity_context": "COVID-19 disease severity and anti-viral inflammatory response.",
+          "performance_or_health_indicator": "An indicator of severe COVID-19 disease and a heightened inflammatory/anti-viral response."
+        },
+        {
+          "biomarker_name": "Interleukin-6 (IL6)",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Protein Level (Pro-inflammatory cytokine)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Higher levels in patients in the complicated and more severe phases of COVID-19 compared to the uncomplicated phase (normal range \nG21.8 pg/ml). Positively correlated with total PAI-1 protein (Spearman r=0.61, p<0.001), negatively correlated with uPA/PAI-1 complex levels, and weakly correlated with PAI-1 activity (r=0.42, p<0.01)."
+          },
+          "core_biological_function": "A proinflammatory cytokine associated with the anti-viral inflammatory response and regulates PAI-1 expression.",
+          "relevant_activity_context": "COVID-19 disease severity, complicated phase, and anti-viral inflammatory response.",
+          "performance_or_health_indicator": "An indicator of severe COVID-19 disease, increased inflammation, and a heightened anti-viral inflammatory response."
+        },
+        {
+          "biomarker_name": "C-reactive protein (CRP)",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Protein Level (Pro-inflammatory factor)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Higher levels in patients in the complicated and more severe phases of COVID-19 compared to the uncomplicated phase (normal range \nG20.3 mg/dl). Positively correlated with total PAI-1 protein (Spearman r=0.59, p<0.001), negatively correlated with uPA/PAI-1 complex levels, and weakly correlated with PAI-1 activity (r=0.36, p<0.01)."
+          },
+          "core_biological_function": "An acute-phase inflammatory protein and pro-inflammatory factor associated with the anti-viral inflammatory response.",
+          "relevant_activity_context": "COVID-19 disease severity, complicated phase, and anti-viral inflammatory response.",
+          "performance_or_health_indicator": "An indicator of severe COVID-19 disease, increased inflammation, and a heightened anti-viral inflammatory response."
+        },
+        {
+          "biomarker_name": "suPAR (soluble form of the uPA receptor)",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Increased in COVID-19 patients, with levels greater in the uncomplicated phase compared to healthy individuals and highest in the complicated phase. Correlated with COVID-19 severity, lack of PAI-1 activity despite free PAI-1, plasmin/\nG\u03b12AP complex, and sVCAM levels."
+          },
+          "core_biological_function": "A marker indicating endothelial dysfunction, cleaved from activated endothelium and released in a plasmin-mediated manner.",
+          "relevant_activity_context": "COVID-19 disease progression (uncomplicated to complicated phases) and COVID-19-associated endothelial dysfunction.",
+          "performance_or_health_indicator": "A strong indicator of COVID-19-associated endothelial dysfunction and disease severity."
+        },
+        {
+          "biomarker_name": "sVCAM1 (soluble Vascular Cell Adhesion Molecule 1)",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Increased in COVID-19 patients, with levels greater in the uncomplicated phase compared to healthy individuals and highest in the complicated phase. Correlated with COVID-19 severity, lack of PAI-1 activity despite free PAI-1, plasmin/\nG\u03b12AP complex, and suPAR levels."
+          },
+          "core_biological_function": "An endothelial-associated adhesion molecule and marker indicating endothelial dysfunction, cleaved from activated endothelium and released in a plasmin-mediated manner.",
+          "relevant_activity_context": "COVID-19 disease progression (uncomplicated to complicated phases) and COVID-19-associated endothelial dysfunction.",
+          "performance_or_health_indicator": "A strong indicator of COVID-19-associated endothelial dysfunction and disease severity."
+        },
+        {
+          "biomarker_name": "Plasmin/\nG\u03b12-antiplasmin (Pm/\nG\u03b12AP) complex",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Protein Complex Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Higher levels in COVID-19 patients compared to healthy individuals. Negatively correlated with uPA/PAI-1 complex (Spearman rs=-0.488), but correlated with high total PAI-1 antigen, suPAR, sVCAM levels, and COVID-19 severity. No correlation with tPA/PAI-1 (Spearman rs=0.0068) or free uPA (Spearman rs=-0.017)."
+          },
+          "core_biological_function": "Forms when free plasmin is inhibited by \nG\u03b12-antiplasmin. It serves as a measure of actual plasmin production and fibrinolysis activity, involved in fibrinolysis regulation.",
+          "relevant_activity_context": "COVID-19 disease progression (complicated phase), endothelial dysfunction, and fibrinolytic status.",
+          "performance_or_health_indicator": "A good indicator of actual plasmin production, fibrinolysis activity, and endothelial dysfunction in circulation during COVID-19. Increases indicate increased fibrinolysis activation and suggest its involvement in COVID-19 pathology. Combined with other markers, it may suggest a low risk of thrombosis for Japanese patients."
+        },
+        {
+          "biomarker_name": "Lymphopenia (Lymphocyte counts)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Cell Count",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Lower lymphocyte counts, almost two-fold lower in patients in the complicated group (though remaining within the normal range). Positively correlated with uPA/PAI-1 complex levels, which are associated with inflammatory response in severely ill patients."
+          },
+          "core_biological_function": "Reduction in lymphocyte count, which is a key component of the adaptive immune system and an indicator of immune system response.",
+          "relevant_activity_context": "COVID-19 complicated phase and anti-viral inflammatory response.",
+          "performance_or_health_indicator": "Suggests immune dysregulation in complicated COVID-19, despite remaining within the reported normal range, and is associated with the anti-viral inflammatory response."
+        },
+        {
+          "biomarker_name": "D-dimer",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Protein Level (Coagulation/Fibrinolysis Factor)",
+          "measured_effect": {
+            "direction_of_change": "elevated",
+            "magnitude_quantification": "Elevated levels, increased ~two-fold in COVID-19 patients in uncomplicated (1.2-1.9 ng/ml) and complicated (1.8-3.8 ng/ml) phases compared to healthy individuals (<1 ng/ml). Levels in the complicated phase were elevated compared to the uncomplicated phase but remained below the upper limit of the normal range for Caucasians. Low D-dimer formation was associated with uPA downregulation."
+          },
+          "core_biological_function": "A byproduct of fibrinolysis of cross-linked fibrinogen, serving as a coagulation/fibrinolysis factor that indicates fibrin degradation and reflects activation of coagulation and fibrinolysis.",
+          "relevant_activity_context": "COVID-19 disease progression (uncomplicated and complicated phases) in Japanese patients, and uPA downregulation.",
+          "performance_or_health_indicator": "An indicator of coagulation system and fibrinolysis activation. Elevated levels indicate moderate coagulation activation and are associated with increased COVID-19 severity. Lower levels in Japanese COVID-19 patients potentially indicate a lower thrombosis risk and may identify 'fibrinolysis-sleeper/shutdown' patients."
+        },
+        {
+          "biomarker_name": "INR (International Normalized Ratio)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Coagulation Test Result",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "Similar and in a normal range (<1.25) in both complicated and uncomplicated COVID-19 patient groups."
+          },
+          "core_biological_function": "Measures the extrinsic pathway of coagulation.",
+          "relevant_activity_context": "COVID-19 uncomplicated and complicated phases.",
+          "performance_or_health_indicator": "Indicates a normal extrinsic coagulation pathway in COVID-19 patients within this study."
+        },
+        {
+          "biomarker_name": "Fibrinogen",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Protein Level (Coagulation/Fibrinolysis Factor)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Elevated in patients in the complicated phase compared to the uncomplicated phase, but just above the upper limit of average values (normal range \nG2400 mg/dl)."
+          },
+          "core_biological_function": "Key protein in blood clot formation.",
+          "relevant_activity_context": "COVID-19 complicated phase vs uncomplicated phase.",
+          "performance_or_health_indicator": "Elevated levels indicate moderate activation of coagulation and are associated with increased COVID-19 severity."
+        },
+        {
+          "biomarker_name": "Platelet counts",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Cell Count",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "Similar and in a normal range (120,000\nG2450,000/\nG5l) in both complicated and uncomplicated COVID-19 patient groups."
+          },
+          "core_biological_function": "Essential for hemostasis and blood clotting.",
+          "relevant_activity_context": "COVID-19 uncomplicated and complicated phases.",
+          "performance_or_health_indicator": "Normal platelet levels suggest no significant thrombocytopenia or thrombocytosis associated with severity in this cohort."
+        },
+        {
+          "biomarker_name": "WBC (White Blood Cell) counts",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Cell Count",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "In the normal range (4000\nG28000/ul) in patients in the complicated group."
+          },
+          "core_biological_function": "Immune response.",
+          "relevant_activity_context": "COVID-19 complicated phase.",
+          "performance_or_health_indicator": "Not indicative of significant changes in overall white blood cell count in complicated COVID-19 within this cohort."
+        },
+        {
+          "biomarker_name": "Procalcitonin",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Higher levels in patients in the complicated phase compared to the uncomplicated phase."
+          },
+          "core_biological_function": "Marker for bacterial infection and sepsis; inflammatory marker.",
+          "relevant_activity_context": "COVID-19 complicated phase vs uncomplicated phase.",
+          "performance_or_health_indicator": "Associated with increased inflammation and COVID-19 severity."
+        },
+        {
+          "biomarker_name": "Ferritin",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Higher levels in patients in the complicated phase compared to the uncomplicated phase."
+          },
+          "core_biological_function": "Iron storage protein; acute phase reactant.",
+          "relevant_activity_context": "COVID-19 complicated phase vs uncomplicated phase.",
+          "performance_or_health_indicator": "Associated with increased inflammation and COVID-19 severity."
+        },
+        {
+          "biomarker_name": "Troponin T",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Higher than normal levels, found independent of the disease phase."
+          },
+          "core_biological_function": "Cardiac muscle damage marker.",
+          "relevant_activity_context": "COVID-19 patients, independent of disease phase.",
+          "performance_or_health_indicator": "Indicates cardiac damage or stress in COVID-19 patients, regardless of severity phase."
+        },
+        {
+          "biomarker_name": "PAI-1 activity",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Activity Level (ELISA)",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "Similar active PAI-1 levels in sera of COVID-19 patients and healthy individuals, with nearly average values in the complicated phase (despite increased total PAI-1 protein). A non-significant trend towards higher levels was found in healthy Europeans (26.28 \nG2 11.68 IU/ml) compared to healthy Japanese (20.2 \nG2 5.2 IU/ml). Weakly correlated with IL6 (r=0.42, p<0.01) and CRP (r=0.36, p<0.01)."
+          },
+          "core_biological_function": "Plasminogen Activator Inhibitor-1, which inhibits fibrinolysis by blocking plasminogen activators, thus contributing to hypofibrinolysis.",
+          "relevant_activity_context": "COVID-19 disease progression (complicated phase), inflammatory response, and ethnic differences in baseline levels between Japanese and Caucasians.",
+          "performance_or_health_indicator": "While high PAI-1 levels are generally reported to predict COVID-19-associated thrombosis and tissue fibrosis, active PAI-1 did not significantly increase in COVID-19 patients in this study, and only weakly reflects the inflammatory response. A discrepancy between PAI-1 antigen and activity levels was noted, with lower activity in Japanese potentially contributing to a lower thrombosis risk."
+        },
+        {
+          "biomarker_name": "Plasminogen",
+          "measured_tissue_or_fluid": "Blood serum",
+          "activity_type": "Protein Level (Western Blot)",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "No difference found in blood samples independent of clinical phase."
+          },
+          "core_biological_function": "Precursor to plasmin, involved in fibrinolysis.",
+          "relevant_activity_context": "COVID-19 patients, independent of clinical phase vs healthy individuals.",
+          "performance_or_health_indicator": "Not indicative of differences in the plasmin precursor molecule during COVID-19 progression."
+        },
+        {
+          "biomarker_name": "\nG\u03b12-antiplasmin (\nG\u03b12AP)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Protein Level (Western Blot)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Higher levels in COVID-19 patients compared to healthy individuals."
+          },
+          "core_biological_function": "Primary inhibitor of plasmin in circulation, inhibits fibrinolysis.",
+          "relevant_activity_context": "COVID-19 patients vs healthy individuals.",
+          "performance_or_health_indicator": "Increases in \nG\u03b12AP indicate hypofibrinolysis and increased activation of fibrinolysis with disease progression."
+        },
+        {
+          "biomarker_name": "Transforming growth factor \nG\u03b2 (TGF\nG\u03b2)",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "Levels did not increase in patients with more severe stages of COVID-19. No correlation with total PAI-1 (r=-0.035, p=0.2). Moderately correlated with uPA (r=0.42, p=0.02)."
+          },
+          "core_biological_function": "Proinflammatory factor; can regulate PAI-1 expression.",
+          "relevant_activity_context": "COVID-19 disease severity.",
+          "performance_or_health_indicator": "Not an indicator of severity in this context."
+        }
+      ]
+    }
+  }
+]

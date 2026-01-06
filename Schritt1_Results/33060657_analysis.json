@@ -1,0 +1,256 @@
+[
+  {
+    "title": "Sci Rep Sci Rep Scientific Reports 2045-2322 Nature Publishing Group UK London 7567094 73588 10.1038/s41598-020-73588-x Article A site-specific map of the human plasma glycome and its age and gender-associated alterations Merleev Alexander A. 1 Park Dayoung 2 3 Xie Yixuan 3 Kailemia Muchena J. 3 Xu Gege 3 Ruhaak L. Renee 3 4 Kim Kyoungmi 5 Hong Qiuting 3 Li Qiongyu 3 Patel Forum 1 Wan Yu-Jui Yvonne 6 Marusina Alina I. 1 Adamopoulos Iannis E. 7 8 Lal Nelvish N. 1 Mitra Anupum 5 Le Stephanie T. 1 Shimoda Michiko 1 Luxardi Guillaume 1 Lebrilla Carlito B. cblebrilla@ucdavis.edu 3 9 10 Maverakis Emanual emaverakis@ucdavis.edu 1 1 grid.27860.3b 0000 0004 1936 9684 Department of Dermatology, University of California Davis School of Medicine, 3301 C Street Suite 1400, Sacramento, CA 95816 USA 2 grid.38142.3c 000000041936754X Department of Surgery, Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, MA USA 3 grid.27860.3b 0000 0004 1936 9684 Department of Chemistry, University of California Davis, One Shields Ave, 2465 Chemistry Annex, Davis, CA 95616 USA 4 grid.10419.3d 0000000089452978 Department of Clinical Chemistry and Laboratory Medicine, Leiden University Medical Center, ZA Leiden, The Netherlands 5 grid.27860.3b 0000 0004 1936 9684 Division of Biostatistics, Department of Public Health Sciences, University of California Davis, Davis, CA USA 6 grid.27860.3b 0000 0004 1936 9684 Department of Medical Pathology and Laboratory Medicine, University of California Davis School of Medicine, Sacramento, CA USA 7 grid.27860.3b 0000 0004 1936 9684 Department of Internal Medicine, Division of Rheumatology, Allergy and Clinical Immunology, University of California Davis School of Medicine, Davis, CA USA 8 grid.415852.f 0000 0004 0449 5792 Institute for Pediatric Regenerative Medicine, Shriners Hospitals for Children Northern California, Sacramento, CA USA 9 grid.27860.3b 0000 0004 1936 9684 Department of Biochemistry and Molecular Medicine, University of California Davis, Davis, CA USA 10 grid.27860.3b 0000 0004 1936 9684 Foods for Health Institute, University of California Davis, Davis, CA USA 15 10 2020 15 10 2020 2020 10 17505 14 4 2020 10 9 2020 \u00a9 The Author(s) 2020 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/ . Alterations in the human glycome have been associated with cancer and autoimmunity. Thus, constructing a site-specific map of the human glycome for biomarker research and discovery has been a highly sought-after objective. However, due to analytical barriers, comprehensive site-specific glycoprofiling is difficult to perform. To develop a platform to detect easily quantifiable, site-specific, disease-associated glycan alterations for clinical applications, we have adapted the multiple reaction monitoring mass spectrometry method for use in glycan biomarker research. The adaptations allow for highly precise site-specific glycan monitoring with minimum sample prep. Using this technique, we successfully mapped out the relative abundances of the most common 159 glycopeptides in the plasma of 97 healthy volunteers. This plasma glycome map revealed 796 significant (FDR < 0.05) site-specific inter-protein and intra-protein glycan associations, of which the vast majority were previously unknown. Since age and gender are relevant covariants in biomarker research, these variables were also characterized. 13 glycopeptides were found to be associated with gender and 41 to be associated with age. Using just five age-associated glycopeptides, a highly accurate age prediction model was constructed and validated (r 2 = 0.62 \u00b1 0.12). Subject terms Glycobiology Glycomics http://dx.doi.org/10.13039/100000011 Howard Hughes Medical Institute Physician-Scientist Early Career Award Maverakis Emanual http://dx.doi.org/10.13039/100000861 Burroughs Wellcome Fund Career Awards for Medical Scientists (CAMS) Maverakis Emanual Martin and Dorothy Charitable Spatz Foundation Cutaneous T Cell Lymphoma Pilot Award Maverakis Emanual http://dx.doi.org/10.13039/100000002 National Institutes of Health DP2OD008752 Maverakis Emanual issue-copyright-statement \u00a9 The Author(s) 2020 Introduction Glycans (oligosaccharides) are one of the four fundamental molecules that make up all living systems 1 . Traditionally, proteins are considered the end-product of the information stored in a cell\u2019s genome. However, in order to function appropriately, many proteins require post-translational modifications, and these are commonly glycans. As modifiers, glycans can function as protein \u201con and off\u201d switches or as \u201canalog regulators\u201d to fine-tune protein function 2 . The process that synthesizes and enzymatically attaches glycans to organic molecules is called glycosylation and it can produce thousands of unique glycan structures by linking together a finite set of sugar monomers 3 . However, unlike DNA, RNA and protein synthesis, there is no template to guide the production of glycans. The process is thus immensely complex and impossible to predict from gene expression profiles alone. In fact, when one considers the massive 3-dimensional structural diversity of glycans combined with their variation in attachment sites, the complexity of the glycome parallels that of the genome 2 . As part of their glycoscience \u201cRoadmap\u201d 2 , the National Research Council of the U.S. National Academies highlighted the importance of developing a site-specific map of the serum glycome, which would aid in the development of glycans as biomarkers of human diseases. One reason for the excitement around the use of glycans as disease-specific biomarkers is that glycosylation is a process influenced by a variety of factors including: the type of cell and its activation state; environmental factors, such as the presence of available metabolites; the age of the cell, as glycan moieties can be lost over time; and inflammatory mediators, such as cytokines and chemokines. All these factors can be altered in the setting of human diseases, making the glycome an expression of the overall health status of an individual. Furthermore, it has been hypothesized that glycans not only become altered in the setting of human disease but that they actually play a major role in the etiology of all human diseases 2 . It is therefore not surprising that alterations in the glycome have already been linked to a variety of human diseases, especially cancer and autoimmunity 4 \u2013 16 . Most of these prior studies used labor-intensive methodologies to characterize glycans released from purified proteins and perhaps for this reason, detailed analyses have only been conducted on a relatively small number of patients. Lower resolution techniques, which yield limited structural information or no site-specific information, have been used to characterize larger patient cohorts, but such analyses are not ideally suited for biomarker discovery research. As a result, the sensitivity and specificity of site-specific glycosylations as disease-specific multi-analyte classifiers of autoimmunity is currently unknown. In comparison to the advances made in the fields of genomics and proteomics, glycoscience remains relatively understudied, which is due to a lack of the analytical tools needed to drive the field forward 2 . In this regard, glycoscience is similar to where the field of genetics was during the initial stages of the human genome project 2 . Mass spectrometry (MS)-based technologies remain very appealing for glycan biomarker research because glycans are ionizable molecules. Also, the potential to accurately profile and quantitate thousands of glycan structures from a relatively small amount of starting material (e.g. 2 \u00b5l of serum) makes glycans superior to other molecules traditionally used as biomarkers of human diseases. For example, a site-specific glycoprofiling method could theoretically increase the accuracy of a serum protein biomarker by subdividing it into its different glycoforms. With the goal of deploying glycan biomarkers clinically, we have developed Multiple Reaction Monitoring (MRM) to site-specifically characterize the human glycome in a rapid and reproducible fashion 17 . Although MRM MS is mainly used in the fields of metabolomics and proteomics 18 \u2013 21 , its high sensitivity and linear response over a wide dynamic range makes it especially suited for glycan detection 22 . Herein, we employ MRM MS to construct a detailed site-specific structural map of the human plasma glycome of healthy individuals and to characterize the glycans\u2019 inter- and intra-molecular correlations. Glycan alterations associated with age and gender (common covariants in biomarker research and discovery) were also identified and multi-analyte classifiers capable of predicting age were constructed and validated.",
+    "document_source_id": "33060657",
+    "analysis_date": "2025-12-09",
+    "extracted_data": {
+      "document_summary": "This study developed and applied a novel site-specific Multiple Reaction Monitoring Mass Spectrometry (MRM MS) method to map the human plasma glycome in 97 healthy volunteers (ages 21 to 84 years old). The research characterized 159 common glycopeptides, revealing 796 significant inter- and intra-protein glycan associations, many of which were previously unknown. The investigation further identified 13 glycopeptides associated with gender and 41 glycopeptides associated with age, including specific pro-inflammatory glycans and general IgM levels. A highly accurate age prediction model was successfully constructed and validated using a subset of five age-associated glycopeptides, demonstrating the potential for glycan biomarkers in clinical applications.",
+      "treatment_details": {
+        "therapy_type": "Glycan Profiling Method Development and Observational Study",
+        "dose_specificity": "This observational study involved the development and application of Multiple Reaction Monitoring (MRM) mass spectrometry for highly precise site-specific glycan monitoring from plasma samples of 97 healthy volunteers (ages 21 to 84 years). No therapeutic intervention or specific dose was applied, as the focus was on characterizing the human glycome and developing biomarker and age prediction models."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "13 unspecified glycopeptides",
+          "measured_tissue_or_fluid": "Human Plasma",
+          "activity_type": "Relative Abundance (determined by site-specific glycoprofiling via MRM MS)",
+          "measured_effect": {
+            "direction_of_change": "Associated",
+            "magnitude_quantification": "13 glycopeptides found to be significantly associated with gender (FDR < 0.05)"
+          },
+          "core_biological_function": "Glycans are post-translational modifiers of proteins, functioning as 'on and off' switches or 'analog regulators' to fine-tune protein function, and reflect overall health status.",
+          "relevant_activity_context": "Characterization of gender-associated alterations in the human plasma glycome of healthy volunteers.",
+          "performance_or_health_indicator": "Indicates gender-specific differences in the glycome, crucial for understanding biological variations and for robust biomarker research and discovery."
+        },
+        {
+          "biomarker_name": "41 unspecified glycopeptides",
+          "measured_tissue_or_fluid": "Human Plasma",
+          "activity_type": "Glycopeptide relative abundance / Site-specific glycosylation",
+          "measured_effect": {
+            "direction_of_change": "Varied (positively or negatively correlated with age)",
+            "magnitude_quantification": "41 glycopeptides found to be significantly associated with age (FDR < 0.05) and either positively or negatively correlated with age (Table S4)."
+          },
+          "core_biological_function": "Glycosylation patterns on various proteins, influencing protein function, stability, and half-life; involved in complex biological processes. They act as post-translational modifiers, fine-tuning protein function and reflecting overall health status.",
+          "relevant_activity_context": "Human aging process (analyzed in healthy individuals ages 21-84); characterization of age-associated alterations in the human plasma glycome of healthy volunteers.",
+          "performance_or_health_indicator": "Indicate glycan alterations associated with aging, serving as potential biomarkers for biological age and critical for enabling the development of age prediction models."
+        },
+        {
+          "biomarker_name": "5 age-associated glycopeptides (including IgM-209-5411, IgM-J-5412, Haptoglobin (Hp)-241-7602)",
+          "measured_tissue_or_fluid": "Human Plasma",
+          "activity_type": "Relative Abundance (determined by site-specific glycoprofiling via MRM MS) / Glycopeptide intensity",
+          "measured_effect": {
+            "direction_of_change": "Associated",
+            "magnitude_quantification": "A subset of 5 glycopeptides used to construct an age prediction model with an accuracy of r^2 = 0.62 \t 0.12, showing a PPMCC of 0.81 for the model."
+          },
+          "core_biological_function": "Glycosylation patterns, influencing protein function and stability, acting as key predictors in biological age estimation.",
+          "relevant_activity_context": "Application of age-associated glycopeptides in constructing and validating a highly accurate age prediction model in healthy volunteers.",
+          "performance_or_health_indicator": "Serves as a highly accurate predictor of chronological age, demonstrating clinical utility for age estimation and indicating the potential of glycan biomarkers in diagnostic applications."
+        },
+        {
+          "biomarker_name": "Glycan 5402 (on Alpha-2-HS-glycoprotein)",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Relative abundance of glycopeptide",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Positively correlated (PPMCC 0.974, P < 2E-16) between site 156 and site 176 of Alpha-2-HS-glycoprotein (A2HSG)."
+          },
+          "core_biological_function": "Glycosylation pattern, involved in intra-protein glycan relationships.",
+          "relevant_activity_context": "Healthy human plasma glycome mapping; intra-protein glycan correlation within A2HSG.",
+          "performance_or_health_indicator": "Indicates a tendency for structurally similar glycans to occur at different sites within the same protein."
+        },
+        {
+          "biomarker_name": "Glycan 6513 (on alpha-1-acid glycoprotein (AGP1))",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Relative abundance of glycopeptide",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Positively correlated (PPMCC 0.827, P < 2E-16) between site 93 and site 103 of AGP1. Also positively correlated between Glycan 6513 at site 93 (PPMCC 0.810) and site 103 (PPMCC 0.874) with Glycan 6512 at site 33 of AGP1 (all P < 2E-16)."
+          },
+          "core_biological_function": "Glycosylation pattern, involved in inter- and intra-protein glycan relationships.",
+          "relevant_activity_context": "Healthy human plasma glycome mapping; intra-protein glycan correlation within AGP1.",
+          "performance_or_health_indicator": "Indicates a tendency for structurally similar glycans to occur at different sites within the same protein."
+        },
+        {
+          "biomarker_name": "Glycan 6512 (on alpha-1-acid glycoprotein (AGP1))",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Relative abundance of glycopeptide",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Positively correlated (PPMCC 0.810) with glycan 6513 at site 93 of AGP1 (P < 2E-16) and positively correlated (PPMCC 0.874) with glycan 6513 at site 103 of AGP1 (P < 2E-16)."
+          },
+          "core_biological_function": "Glycosylation pattern, involved in inter- and intra-protein glycan relationships.",
+          "relevant_activity_context": "Healthy human plasma glycome mapping; intra-protein glycan correlation within AGP1 at site 33.",
+          "performance_or_health_indicator": "Indicates a tendency for structurally similar glycans to occur at different sites within the same protein."
+        },
+        {
+          "biomarker_name": "Glycan 5411 and Glycan 5410 (on IgG1)",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Relative abundance of glycopeptide",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Strongly correlated (PPMCC 0.908, P < 2E-16) with each other at the same site of IgG1."
+          },
+          "core_biological_function": "Glycosylation pattern, involved in intra-protein glycan relationships.",
+          "relevant_activity_context": "Healthy human plasma glycome mapping; same-site glycan correlation within IgG1.",
+          "performance_or_health_indicator": "Indicates a tendency for structurally similar glycans to occupy the same glycosylation site, driven by cellular glycosylation machinery."
+        },
+        {
+          "biomarker_name": "Glycan 5402 (on Alpha-2-macroglobulin (A2MG))",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Relative abundance of glycopeptide",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Negatively correlated (PPMCC -0.463, P = 1.84E-06) between site 55 and site 1424 of A2MG."
+          },
+          "core_biological_function": "Glycosylation pattern, involved in intra-protein glycan relationships.",
+          "relevant_activity_context": "Healthy human plasma glycome mapping; intra-protein glycan correlation within A2MG.",
+          "performance_or_health_indicator": "Indicates that the cell regulates glycan presentation to specific sites rather than multiple sites in some cases."
+        },
+        {
+          "biomarker_name": "Glycan 5402 and Glycan 7600 (on Alpha-2-HS-glycoprotein (A2HSG) at site 176)",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Relative abundance of glycopeptide",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Positively correlated (PPMCC 0.900, P < 2E-16) with each other at the same site (position 176) of A2HSG."
+          },
+          "core_biological_function": "Glycosylation pattern, involved in same-site glycan relationships.",
+          "relevant_activity_context": "Healthy human plasma glycome mapping; intra-protein correlation of structurally distinct glycans at A2HSG site 176.",
+          "performance_or_health_indicator": "Indicates that structurally distinct glycans can positively correlate when residing at the same site."
+        },
+        {
+          "biomarker_name": "Glycan modifiers on IgG1 and IgG2",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Abundance of glycan modifiers",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Abundance of glycan modifiers on IgG1 correlated with their identical counterparts on IgG2."
+          },
+          "core_biological_function": "Glycosylation pattern, immune system regulation.",
+          "relevant_activity_context": "Healthy human plasma glycome mapping; inter-protein glycan correlation between immunoglobulin subclasses.",
+          "performance_or_health_indicator": "Suggests that different B cell populations (synthesizing IgG1 and IgG2) can be influenced to employ similar glycan modifications."
+        },
+        {
+          "biomarker_name": "Glycan 5412 (on Alpha-1 Antitrypsin (A1AT) and Transferrin (TF))",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Relative abundance of glycopeptide",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Positively correlated (PPMCC 0.733, P < 2E-16) between A1AT at position 70 and TF at position 630."
+          },
+          "core_biological_function": "Glycosylation pattern, involved in inter-protein glycan relationships.",
+          "relevant_activity_context": "Healthy human plasma glycome mapping; inter-protein glycan correlation across structurally dissimilar proteins.",
+          "performance_or_health_indicator": "Indicates correlations between glycans on different, structurally dissimilar proteins."
+        },
+        {
+          "biomarker_name": "Glycan 5402 (on Alpha-1 Antitrypsin (A1AT))",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Relative abundance of glycopeptide",
+          "measured_effect": {
+            "direction_of_change": "varied",
+            "magnitude_quantification": "Site 70 showed a small positive correlation (PPMCC 0.28, P = 0.006) with A1AT serum concentration, while site 271 showed a strong negative correlation (PPMCC -0.81, P < 2E-16) with A1AT serum concentration."
+          },
+          "core_biological_function": "Glycosylation pattern, protein-glycan relationship.",
+          "relevant_activity_context": "Healthy human plasma glycome mapping; correlation between site-specific glycan abundance and overall protein serum concentration on A1AT.",
+          "performance_or_health_indicator": "Indicates complex relationships between site-specific glycan abundance and overall protein serum concentration."
+        },
+        {
+          "biomarker_name": "Non-sialylated N-glycan 7600 and O-glycan 2200 (on Alpha-2-HS-glycoprotein (A2HSG))",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Relative abundance of glycopeptide",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Non-sialylated N-glycan 7600 at site 176 showed a strong negative correlation (PPMCC -0.87, P < 2E-16), and O-glycan 2200 at site 346 showed a strong negative correlation (PPMCC -0.98, P < 2E-16) with A2HSG serum concentration."
+          },
+          "core_biological_function": "Glycosylation pattern, protein-glycan relationship.",
+          "relevant_activity_context": "Healthy human plasma glycome mapping; correlation between site-specific glycan abundance and overall protein serum concentration on A2HSG.",
+          "performance_or_health_indicator": "Indicates a relationship between site-specific glycan abundance and overall protein serum concentration."
+        },
+        {
+          "biomarker_name": "IgM",
+          "measured_tissue_or_fluid": "Plasma/Serum",
+          "activity_type": "Plasma/Protein Level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Modest decline with increasing age (PPMCC -0.33); Males showed lower plasma levels (0.49 mg/mL [SD 0.2]) than females (0.87 mg/mL [SD 0.6]) (FDR = 0.01)."
+          },
+          "core_biological_function": "Immunoglobulin involved in early immune response, a component of the adaptive immune system and antibody production.",
+          "relevant_activity_context": "Healthy volunteers, age and gender effects on serum proteins; Human aging process (analyzed in individuals ages 21-84).",
+          "performance_or_health_indicator": "Reflects age and gender-related alterations in immune system components, potentially indicating changes in immune system function with age."
+        },
+        {
+          "biomarker_name": "Non-galactosylated 3510 Fc glycan (on IgG1 and IgG2 subclasses)",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Glycan modification intensity",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Positively correlated with age (PPMCC 0.43 for IgG1; PPMCC 0.49 for IgG2)."
+          },
+          "core_biological_function": "Glycosylation pattern, immune system regulation, involved in Fc region function.",
+          "relevant_activity_context": "Healthy volunteers, age-glycan associations, IgG1 and IgG2 subclasses.",
+          "performance_or_health_indicator": "Indicates an age-related increase in non-galactosylated IgG Fc glycans."
+        },
+        {
+          "biomarker_name": "Fully galactosylated 5411 (on IgG1 and IgG2 subclasses)",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Glycan modification intensity",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Negatively correlated with age (PPMCC -0.47 for IgG1; PPMCC -0.37 for IgG2)."
+          },
+          "core_biological_function": "Glycosylation pattern, immune system regulation, involved in Fc region function.",
+          "relevant_activity_context": "Healthy volunteers, age-glycan associations, IgG1 and IgG2 subclasses.",
+          "performance_or_health_indicator": "Indicates an age-related decrease in fully galactosylated IgG glycans."
+        },
+        {
+          "biomarker_name": "Non-sialylated IgG1 5410",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Glycan modification intensity",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Negatively correlated with age (PPMCC -0.55, P = 5.5e-09)."
+          },
+          "core_biological_function": "Glycosylation pattern, immune system regulation.",
+          "relevant_activity_context": "Healthy volunteers, age-glycan associations, IgG1 subclass.",
+          "performance_or_health_indicator": "Indicates an age-related decrease in non-sialylated IgG1 glycans, suggesting complex age-glycan relationships beyond just sialylation."
+        },
+        {
+          "biomarker_name": "Alpha-2-HS-glycoprotein (A2HSG)",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Protein Concentration",
+          "measured_effect": {
+            "direction_of_change": "altered",
+            "magnitude_quantification": "Significantly altered by gender (FDR < 0.05)."
+          },
+          "core_biological_function": "Protein concentration, various physiological roles.",
+          "relevant_activity_context": "Healthy volunteers, gender-specific alterations in serum proteins.",
+          "performance_or_health_indicator": "Reflects gender-specific differences in serum protein concentrations."
+        },
+        {
+          "biomarker_name": "Alpha-2-macroglobulin (A2MG)",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Protein Concentration",
+          "measured_effect": {
+            "direction_of_change": "altered",
+            "magnitude_quantification": "Significantly altered by gender (FDR < 0.05)."
+          },
+          "core_biological_function": "Protein concentration, protease inhibition, transport.",
+          "relevant_activity_context": "Healthy volunteers, gender-specific alterations in serum proteins.",
+          "performance_or_health_indicator": "Reflects gender-specific differences in serum protein concentrations."
+        },
+        {
+          "biomarker_name": "Pro-inflammatory glycans (less sialylated and more G0 glycans)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Glycan structure/abundance",
+          "measured_effect": {
+            "direction_of_change": "Higher",
+            "magnitude_quantification": "Positive association between age and pro-inflammatory glycans (less sialylated glycans and more G0 glycans); G0 glycans did not uniformly increase with age, and some non-G0 glycans also increased."
+          },
+          "core_biological_function": "Mediate inflammation, influence protein function and cellular recognition; sialylation is critical for immune regulation.",
+          "relevant_activity_context": "Human aging process.",
+          "performance_or_health_indicator": "Associated with increased systemic inflammation and the biological aging process, potentially indicating age-related inflammatory states."
+        }
+      ]
+    }
+  }
+]

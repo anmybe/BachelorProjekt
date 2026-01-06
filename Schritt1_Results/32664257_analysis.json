@@ -1,0 +1,160 @@
+[
+  {
+    "title": "Nutrients Nutrients nutrients Nutrients 2072-6643 MDPI 7400952 10.3390/nu12072048 nutrients-12-02048 Article Vitamin D Metabolites and Binding Protein Predict Preeclampsia in Women with Type 1 Diabetes Kelly Clare B. 1 2 https://orcid.org/0000-0003-2764-6533 Wagner Carol L. 3 Shary Judith R. 3 Leyva Misti J. 1 Yu Jeremy Y. 1 Jenkins Alicia J. 1 4 Nankervis Alison J. 5 Hanssen Kristian F. 6 Garg Satish K. 7 Scardo James A. 8 https://orcid.org/0000-0002-1313-2542 Hammad Samar M. 9 Aston Christopher E. 10 Lyons Timothy J. 1 11 * 1 Division of Endocrinology, Medical University of South Carolina, Charleston, SC 29425, USA; clare.kelly@kcl.ac.uk (C.B.K.); leyva@musc.edu (M.J.L.); yuje@musc.edu (J.Y.Y.); alicia.jenkins@ctc.usyd.edu.au (A.J.J.) 2 Department of Women and Children\u2019s Health, King\u2019s College London, London SE1 7EH, UK 3 Division of Neonatology, Medical University of South Carolina, Charleston, SC 29425, USA; wagnercl@musc.edu (C.L.W.); sharyj@musc.edu (J.R.S.) 4 University of Sydney, NHMRC Clinical Trials Centre, Camperdown, Sydney, NSW 1450, Australia 5 Royal Women\u2019s Hospital, Melbourne, VIC 3052, Australia; alison.nankervis@mh.org.au 6 Department of Endocrinology, Oslo University Hospital and Institute of Clinical Medicine, University of Oslo, 0424 Oslo, Norway; k.f.hanssen@medisin.uio.no 7 Barbara Davis Center for Childhood Diabetes, University of Colorado, Denver, CO 80045, USA; satish.garg@ucdenver.edu 8 Spartanburg Regional Medical Center, Spartanburg, SC 29303, USA; scardo@charter.net 9 Department of Regenerative Medicine and Cell Biology, Medical University of South Carolina, Charleston, SC 29425, USA; hammadsm@musc.edu 10 The Department of Pediatrics, University of Oklahoma Health Sciences Center, Oklahoma City, OK 73104, USA; chris-aston@ouhsc.edu 11 Wellcome-Wolfson Institute for Experimental Medicine, Queen\u2019s University Belfast, Belfast BT9 7BL, UK * Correspondence: lyonstj@musc.edu ; Tel.: +1-843-792-2529 10 7 2020 7 2020 12 7 2048 28 5 2020 08 7 2020 \u00a9 2020 by the authors. 2020 Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license ( http://creativecommons.org/licenses/by/4.0/ ). The risk for preeclampsia (PE) is enhanced ~4-fold by the presence of maternal type 1 diabetes (T1DM). Vitamin D is essential for healthy pregnancy. We assessed the total, bioavailable, and free concentrations of plasma 25-hydroxyvitamin D (25(OH)D), 1,25-dihydroxyvitamin D (1,25(OH) 2 D), and vitamin D binding protein (VDBP) at ~12, ~22, and ~32 weeks\u2019 gestation (\u201cVisits\u201d (V) 1, 2, and 3, respectively) in 23 T1DM women who developed PE, 24 who remained normotensive, and 19 non-diabetic, normotensive women (reference controls). 25(OH)D deficiency was more frequent in diabetic than non-diabetic women (69% vs. 22%, p < 0.05), but no measure of 25(OH)D predicted PE. By contrast, higher 1,25(OH) 2 D concentrations at V2 (total, bioavailable, and free: p < 0.01) and V3 (bioavailable: p < 0.05; free: p < 0.01), lower concentrations of VDBP at V3 ( p < 0.05), and elevated ratios of 1,25(OH) 2 D/VDBP (V2, V3: p < 0.01) and 1,25(OH) 2 D/25(OH)D (V3, p < 0.05) were all associated with PE, and significance persisted in multivariate analyses. In summary, in women with T1DM, concentrations of 1,25(OH) 2 D were higher, and VDBP lower, in the second and third trimesters in women who later developed PE than in those who did not. 1,25(OH) 2 D may serve as a new marker for PE risk and could be implicated in pathogenesis. preeclampsia pregnancy type 1 diabetes vitamin D vitamin D binding protein 25-hydroxyvitamin D 1,25-dihydroxyvitamin D 1. Introduction Adequate levels of vitamin D are essential for bone health, immune function, proliferation and differentiation of cells, inflammation, insulin secretion and action, and vascular health [ 1 ]. Vitamin D deficiency is common worldwide, involving genetic, lifestyle and geographical factors [ 1 , 2 ]. Vitamin D metabolism is markedly altered during pregnancy. Specifically, for reasons not fully understood, the plasma concentrations of the active metabolite 1,25-dihydroxyvitamin D (1,25(OH) 2 D) increase 2\u20133 fold during the first trimester, reaching concentrations that would normally be toxic, and continue to increase as pregnancy advances [ 3 , 4 , 5 ]. Associations of 1,25(OH) 2 D levels with preeclampsia (PE) in the presence of maternal diabetes have not been investigated. Of interest, in a rat model, treatment with 1,25(OH) 2 D was shown to ameliorate preeclampsia [ 6 ]. In the general population, the plasma concentration of 25-hydroxyvitamin D (25(OH)D), the prohormone and precursor of 1,25(OH) 2 D, is considered the principal metric for assessing vitamin D status: deficiency and insufficiency are defined as <20 and <32 ng/mL (<50 and <80 nmol/L), respectively [ 7 ]. Vitamin D deficiency is associated with poor pregnancy outcomes for both mother and child [ 2 , 8 , 9 , 10 , 11 , 12 , 13 , 14 , 15 , 16 , 17 , 18 , 19 , 20 , 21 ]. Both 25(OH)D and 1,25(OH) 2 D can be measured in plasma as total, bioavailable, and free forms; both metabolites are highly lipophilic and, in plasma, are almost entirely protein-bound. Vitamin D binding protein (VDBP) is the principal carrier of both 25(OH)D and 1,25(OH) 2 D (85\u201390% of the total); a smaller amount of each metabolite (10\u201315%) is bound to albumin (a lower affinity carrier), and \u22641% exists unbound in the \u201cfree\u201d form [ 22 , 23 ]. \u201cBioavailable\u201d vitamin D is the sum of unbound (free) and albumin-bound forms: it is considered physiologically relevant because the affinity of vitamin D for albumin is so low [ 22 , 23 , 24 , 25 , 26 ]. PE is a multisystem disorder defined by hypertension and proteinuria or other end-organ dysfunction, with onset after 20 weeks\u2019 gestation in a previously normotensive woman [ 27 ]. Women with type 1 diabetes (T1DM) have a markedly increased risk for PE (~20% vs. ~5% in the general population) [ 28 ]. Vitamin D deficiency is associated with abnormal placentation, altered angiogenesis, immune dysfunction, abnormal insulin secretion and action, adverse lipid profiles, and inflammation: problems that are also associated with diabetes [ 2 , 4 , 11 , 13 , 14 , 15 , 16 , 17 , 19 , 29 ]. Vitamin D deficiency may also be implicated in PE [ 9 , 13 ]. We previously reported associations between PE and the concentrations of fat-soluble vitamins and antioxidant pro-vitamins in women with T1DM [ 30 ]. In that study, we used only one measure of vitamin D status, 25(OH)D, measured by HPLC. Women with T1DM were more likely to be vitamin D deficient than those without diabetes: indeed almost all the diabetic women were deficient, and the concentrations did not differ significantly according to subsequent PE status [ 30 ]. Extending that work, we now investigate whether total, bioavailable, or free forms of 25(OH)D; its active metabolite 1,25(OH) 2 D; VDBP concentrations; and relevant ratios are associated with the risk for subsequent PE in women with T1DM. As before, we include a group of healthy, normotensive, non-diabetic pregnant women to obtain normal reference values.",
+    "document_source_id": "32664257",
+    "analysis_date": "2025-12-09",
+    "extracted_data": {
+      "document_summary": "This longitudinal, prospective observational study investigated whether vitamin D metabolites (25-hydroxyvitamin D, 1,25-dihydroxyvitamin D) and Vitamin D Binding Protein (VDBP), along with their ratios, could predict preeclampsia (PE) in women with Type 1 Diabetes (T1DM). The study found that higher concentrations of 1,25(OH)2D, lower concentrations of VDBP, and elevated 1,25(OH)2D/VDBP ratios in the second and third trimesters were significantly associated with and predictive of subsequent PE, while 25(OH)D, the standard metric for vitamin D status, did not predict PE.",
+      "treatment_details": {
+        "therapy_type": "Longitudinal Prospective Observational Study on Preeclampsia Prediction",
+        "dose_specificity": "This was an observational study with no therapeutic interventions or dose comparisons. Biomarker concentrations and clinical data were collected at three gestational visits: V1 (~12 weeks), V2 (~22 weeks), and V3 (~32 weeks). The study enrolled 151 women with Type 1 Diabetes (T1DM) and 24 non-diabetic controls, rigorously phenotyped and free of proteinuria and hypertension at enrolment. The primary analysis compared 23 T1DM women who developed preeclampsia (PE) with 24 matched T1DM women who remained normotensive. A secondary analysis compared normotensive T1DM women with non-diabetic controls. The cohort was largely vitamin D insufficient or deficient."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "25-hydroxyvitamin D (25(OH)D)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Hormone Concentration",
+          "measured_effect": {
+            "direction_of_change": "Higher frequency of deficiency/insufficiency in diabetic women, no predictive change for PE",
+            "magnitude_quantification": "Higher frequency of deficiency/insufficiency in diabetic women (65-73% vs. 22% in non-diabetics, p < 0.05). Total 25(OH)D was lower in normotensive T1DM women than non-diabetics at V1 (p=0.020) and V2 (p=0.034). Bioavailable and free 25(OH)D did not differ by diabetes status at any visit. No measure of 25(OH)D (total, bioavailable, or free) predicted subsequent preeclampsia. However, total, bioavailable, and free 25(OH)D were negatively correlated with eGFR (all p < 0.05) in T1DM women who developed PE at the first trimester. Deficiency defined as <20 ng/mL (<50 nmol/L) and insufficiency as <32 ng/mL (<80 nmol/L)."
+          },
+          "core_biological_function": "Prohormone and precursor of 1,25-dihydroxyvitamin D, considered the principal metric for assessing overall vitamin D status. Essential for bone health, immune function, cell proliferation and differentiation, inflammation, insulin secretion and action, and vascular health.",
+          "relevant_activity_context": "Preeclampsia risk prediction in women with Type 1 Diabetes during pregnancy (assessed at ~12, ~22, and ~32 weeks' gestation). Also, early pregnancy in DM+PE+ women in relation to renal function.",
+          "performance_or_health_indicator": "Indicates overall vitamin D status. Deficiency is common in diabetic pregnant women. While not a direct predictor of preeclampsia in this study, lower levels are associated with poor pregnancy outcomes, and a negative correlation with eGFR suggests an association with subtle, early renal abnormalities that confer PE risk."
+        },
+        {
+          "biomarker_name": "1,25-dihydroxyvitamin D (1,25(OH)2D)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Hormone Concentration",
+          "measured_effect": {
+            "direction_of_change": "Higher",
+            "magnitude_quantification": "Significantly higher concentrations (total, bioavailable, and free) observed in T1DM women who developed PE (DM+PE+) compared to normotensive T1DM women (DM+PE\u2212) at V2 (~22 weeks, all p < 0.01) and V3 (~32 weeks for bioavailable and free, p < 0.05 and p < 0.01 respectively). Lower concentrations were noted in DM+PE\u2212 vs. non-diabetic controls at V2 (total p=0.002, bioavailable p=0.004, free p=0.018). In DM+PE+ women, total and free 1,25(OH)2D at V2 were positively correlated with uNGALcc (p < 0.05). At V2, every 1 pg/mL increase in total 1,25(OH)2D increased PE odds by 3% (OR: 1.03, p=0.012); for bioavailable 1,25(OH)2D, every 1 pg/mL increase raised odds by 28% at V2 (OR: 1.28, p=0.010) and 18% at V3 (OR: 1.18, p=0.047). Significance persisted in multivariate analyses."
+          },
+          "core_biological_function": "The active hormonal form of vitamin D, primarily responsible for regulating calcium and phosphate homeostasis and promoting intestinal absorption of calcium. It increases 2-3 fold during pregnancy, reflecting the calcium needs of the developing fetus and up-regulating trans-placental transport. It also has protective functions, inhibiting inflammatory cytokines and inducing anti-microbial peptide synthesis.",
+          "relevant_activity_context": "Preeclampsia risk prediction in women with Type 1 Diabetes during the second (~22 weeks) and third (~32 weeks) trimesters of pregnancy. Also in relation to early subclinical renal dysfunction (uNGALcc).",
+          "performance_or_health_indicator": "May serve as a new marker for preeclampsia risk and could be implicated in its pathogenesis in women with Type 1 Diabetes. Elevated levels predict subsequent preeclampsia and may reflect early subclinical renal or placental dysfunction. Conversely, lower levels in non-diabetic PE may suggest a defeat of protective responses."
+        },
+        {
+          "biomarker_name": "Vitamin D Binding Protein (VDBP)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Lower",
+            "magnitude_quantification": "Significantly lower concentrations at V3 (~32 weeks' gestation) in T1DM women who developed PE (DM+PE+) compared to normotensive T1DM women (DM+PE\u2212) (p < 0.05). VDBP significantly increased throughout pregnancy in all groups (p < 0.001). For T1DM women, every 1 mg/dL increase in VDBP at V3 decreased the odds of developing PE by 8% (OR: 0.92, p < 0.05). Significance persisted in multivariate analyses."
+          },
+          "core_biological_function": "The principal carrier protein for both 25-hydroxyvitamin D and 1,25-dihydroxyvitamin D in plasma, binding 85-90% of total metabolites and regulating their bioavailability and half-life. It is filtered through the glomerulus and reabsorbed by the proximal tubules.",
+          "relevant_activity_context": "Preeclampsia risk prediction in women with Type 1 Diabetes during the third trimester (~32 weeks) of pregnancy, and general pregnancy progression.",
+          "performance_or_health_indicator": "Lower levels are associated with increased odds of developing preeclampsia in women with Type 1 Diabetes. Changes may reflect altered glomerular and tubular processing due to renal insult during or before pregnancy."
+        },
+        {
+          "biomarker_name": "1,25(OH)2D/VDBP ratio",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Ratio of concentrations",
+          "measured_effect": {
+            "direction_of_change": "Elevated",
+            "magnitude_quantification": "Significantly higher ratios were observed at V2 (~22 weeks) and V3 (~32 weeks) in T1DM women who developed PE (DM+PE+) compared to normotensive T1DM women (DM+PE\u2212) (all p < 0.01). The ratio was lower in DM+PE\u2212 vs. non-diabetic controls at V2 (p=0.025). At V2, every unit increase in the ratio increased the odds of developing PE by almost three-fold (OR: 2.71, p=0.009); at V3, similar odds increase (OR: 2.53, p=0.013). Significance persisted in multivariate analyses."
+          },
+          "core_biological_function": "Reflects the balance between active vitamin D and its binding protein, indicating the amount of bioavailable or free 1,25(OH)2D readily active at target tissues. It also indicates the interplay of these two molecules.",
+          "relevant_activity_context": "Preeclampsia risk prediction in women with Type 1 Diabetes during the second (~22 weeks) and third (~32 weeks) trimesters of pregnancy.",
+          "performance_or_health_indicator": "A strong predictor of preeclampsia in the late second and third trimesters in women with Type 1 Diabetes. Its value as a predictor compared to 1,25(OH)2D alone requires further study."
+        },
+        {
+          "biomarker_name": "1,25(OH)2D/25(OH)D ratio",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Ratio of concentrations",
+          "measured_effect": {
+            "direction_of_change": "Elevated",
+            "magnitude_quantification": "Significantly higher ratios observed at V3 (~32 weeks' gestation) in T1DM women who developed PE (DM+PE+) compared to normotensive T1DM women (DM+PE\u2212) (p < 0.05). For T1DM women at V3, every unit increase increased PE odds by 17% (OR: 1.17, p=0.037), but this significance did not persist after covariate adjustment. No significant differences between normotensive T1DM women and non-diabetic controls."
+          },
+          "core_biological_function": "Reflects the metabolic conversion efficiency of the vitamin D prohormone (25(OH)D) to its active form (1,25(OH)2D), potentially indicating renal 1-alpha hydroxylase activity or underlying metabolic/regulatory processes.",
+          "relevant_activity_context": "Preeclampsia risk prediction in women with Type 1 Diabetes during the third trimester (~32 weeks) of pregnancy.",
+          "performance_or_health_indicator": "Potentially associated with increased odds of developing preeclampsia, but this association is not robust after covariate adjustment, suggesting it might be a weaker predictor than 1,25(OH)2D or 1,25(OH)2D/VDBP ratio."
+        },
+        {
+          "biomarker_name": "HbA1c",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Concentration",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly higher in T1DM women with PE (DM+PE+) than in normotensive T1DM women (DM+PE\u2212) at the initial study visit; also higher in T1DM women (DM+PE\u2212) vs. non-diabetic controls (DM\u2212) at V1."
+          },
+          "core_biological_function": "Indicator of average blood glucose levels over the past 2-3 months, reflecting long-term glycemic control.",
+          "relevant_activity_context": "Initial study visit in pregnant women with Type 1 Diabetes (T1DM), associated with preeclampsia (PE) risk.",
+          "performance_or_health_indicator": "Indicates glycemic control and is a factor in assessing risk for preeclampsia in diabetic pregnancy."
+        },
+        {
+          "biomarker_name": "Body Mass Index (BMI)",
+          "measured_tissue_or_fluid": "Physical Measurement",
+          "activity_type": "Anthropometric measurement",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly higher in T1DM women with PE (DM+PE+) than in normotensive T1DM women (DM+PE\u2212) at the initial study visit."
+          },
+          "core_biological_function": "A measure of body fat based on height and weight, used to classify individuals into weight categories.",
+          "relevant_activity_context": "Initial study visit in pregnant women with Type 1 Diabetes (T1DM), associated with preeclampsia (PE) risk.",
+          "performance_or_health_indicator": "Indicator of obesity, which is a risk factor for preeclampsia."
+        },
+        {
+          "biomarker_name": "Total Daily Insulin Dose",
+          "measured_tissue_or_fluid": "Medication Dosage",
+          "activity_type": "Dosage measurement",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly higher in T1DM women with PE (DM+PE+) than in normotensive T1DM women (DM+PE\u2212) at the initial study visit."
+          },
+          "core_biological_function": "Exogenous insulin administered to regulate blood glucose levels in individuals with Type 1 Diabetes.",
+          "relevant_activity_context": "Initial study visit in pregnant women with Type 1 Diabetes (T1DM), associated with preeclampsia (PE) risk.",
+          "performance_or_health_indicator": "Indicates insulin requirement, potentially reflecting insulin resistance or disease severity, and is a factor in assessing preeclampsia risk."
+        },
+        {
+          "biomarker_name": "HDL cholesterol",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Concentration",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Significantly lower in T1DM women with PE (DM+PE+) than in normotensive T1DM women (DM+PE\u2212) at the initial study visit."
+          },
+          "core_biological_function": "Involved in reverse cholesterol transport, removing cholesterol from arteries and transporting it to the liver for excretion.",
+          "relevant_activity_context": "Initial study visit in pregnant women with Type 1 Diabetes (T1DM), associated with preeclampsia (PE) risk.",
+          "performance_or_health_indicator": "Indicator of cardiovascular health; lower levels are associated with increased risk for preeclampsia."
+        },
+        {
+          "biomarker_name": "Albumin",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein level",
+          "measured_effect": {
+            "direction_of_change": "Not explicitly reported for PE prediction",
+            "magnitude_quantification": "Circulating levels were measured and used for calculating free and bioavailable vitamin D concentrations. No specific effect on PE status was reported."
+          },
+          "core_biological_function": "General transport protein, contributes to maintaining oncotic pressure, and binds various substances including vitamin D metabolites. It's a lower affinity carrier for vitamin D metabolites (10-15%).",
+          "relevant_activity_context": "Longitudinal prospective pregnancy study in women with Type 1 Diabetes and/or Preeclampsia, primarily used for calculating free and bioavailable vitamin D forms.",
+          "performance_or_health_indicator": "Potential modulator of vitamin D bioavailability and a factor in preeclampsia pathophysiology, primarily relevant for calculations of free/bioavailable vitamin D."
+        },
+        {
+          "biomarker_name": "uNGALcc (Urinary neutrophil-gelatinase associated lipocalin (creatinine corrected))",
+          "measured_tissue_or_fluid": "Urine",
+          "activity_type": "Protein Concentration",
+          "measured_effect": {
+            "direction_of_change": "increased",
+            "magnitude_quantification": "Increased first trimester urinary neutrophil-gelatinase associated lipocalin (creatinine corrected) was observed. Total and free 1,25(OH)2D at V2 were positively correlated with uNGALcc (p < 0.05)."
+          },
+          "core_biological_function": "Biomarker of renal injury.",
+          "relevant_activity_context": "First trimester of pregnancy in T1DM women developing PE (MAMPED cohort), correlated with 1,25(OH)2D levels at V2.",
+          "performance_or_health_indicator": "Indicates subtle, early renal abnormalities that confer PE risk."
+        },
+        {
+          "biomarker_name": "eGFR (estimated Glomerular Filtration Rates)",
+          "measured_tissue_or_fluid": "Kidney Function (estimated from blood/urine)",
+          "activity_type": "Calculated Rate",
+          "measured_effect": {
+            "direction_of_change": "elevated",
+            "magnitude_quantification": "Elevated estimated glomerular filtration rates were observed in the first trimester. Total, bioavailable, and free 25(OH)D were negatively correlated with eGFR (all p < 0.05) in DM+PE+ women at the first trimester."
+          },
+          "core_biological_function": "Measures kidney filtration capacity.",
+          "relevant_activity_context": "First trimester of pregnancy in T1DM women developing PE (MAMPED cohort), negatively correlated with 25(OH)D levels.",
+          "performance_or_health_indicator": "Indicates subtle, early renal abnormalities that confer PE risk; associated with PE risk."
+        }
+      ]
+    }
+  }
+]

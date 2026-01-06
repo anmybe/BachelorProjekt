@@ -1,0 +1,376 @@
+[
+  {
+    "title": "pmc Int J Mol Sci Int J Mol Sci ijms International Journal of Molecular Sciences 1422-0067 MDPI 11594464 10.3390/ijms252212203 ijms-25-12203 Article Endothelial Dysfunction with Aging: Does Sex Matter? https://orcid.org/0009-0007-0019-0798 Wojtacha Jakub Jozue Conceptualization Formal analysis Writing \u2013 review & editing 1 https://orcid.org/0000-0002-5874-1886 Morawin Barbara Methodology Formal analysis Writing \u2013 review & editing Project administration 1 https://orcid.org/0000-0001-5135-5782 Wawrzyniak-Gramacka Edyta Methodology Software Formal analysis Writing \u2013 review & editing 1 Tylutka Anna Methodology Software Formal analysis Writing \u2013 review & editing 1 https://orcid.org/0000-0002-6351-4995 de Freitas Ana Karyn Ehrenfried Writing \u2013 review & editing Supervision 2 3 https://orcid.org/0000-0001-7596-9850 Zembron-Lacny Agnieszka Conceptualization Formal analysis Writing \u2013 review & editing Supervision 1 * Carmela Nacci Academic Editor 1 Department of Applied and Clinical Physiology, University of Zielona Gora, 28 Zyty Str., 65-417 Zielona Gora, Poland; jakubwojtacha1@gmail.com (J.J.W.); b.morawin@cm.uz.zgora.pl (B.M.); e.gramacka@cm.uz.zgora.pl (E.W.-G.); a.tylutka@cm.uz.zgora.pl (A.T.) 2 School of Health Science, Positivo University, 5300 Professor Pedro Viriato Parigot de Souza Street, Campo Comprido, Curitiba 81280-330, PR, Brazil; akarynfreitas@gmail.com 3 Department of Cardiology, Hospital da Cruz Vermelha Brasileira Filial do Paran\u00e1, Av. Vicente Machado, 1280, R. Cap. Souza Franco, 50-Batel, Curitiba 80420-011, PR, Brazil * Correspondence: a.zembron-lacny@cm.uz.zgora.pl ; Tel.: +48-502-674-130 13 11 2024 11 2024 25 22 12203 19 9 2024 31 10 2024 10 11 2024 \u00a9 2024 by the authors. 2024 https://creativecommons.org/licenses/by/4.0/ Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license ( https://creativecommons.org/licenses/by/4.0/ ). Oxidative stress and inflammation accompany endothelial dysfunction that results from the excessive or uncontrolled production of reactive oxygen and nitrogen species (RONS) in older adults. This study was designed to assess the usefulness of serum oxi-inflammatory component combinations in vascular disease prediction and prevention with regard to sex. Women ( n = 145) and men ( n = 50) aged 72.2 \u00b1 7.8 years participated in this project. The females demonstrated the elevated production of hydrogen peroxide (H 2 O 2) and nitric oxide (NO) responsible for intravascular low-density lipoprotein oxidation. NO generation was enhanced in the women, but its bioavailability was reduced, which was expressed by a high 3-nitrotyrosine (3-NitroT) concentration. The relation of NO/3-NitroT (r s = 0.811, p < 0.001) in the women and NO/3-NitroT (r s = \u22120.611, p < 0.001) in the men showed that sex determines endothelial dysfunction. RONS generation in the women simultaneously promoted endothelial regeneration, as demonstrated by a ~1.5-fold increase in circulating progenitor cells. Inflammation-specific variables, such as the neutrophil-to-lymphocyte ratio, the systemic immune inflammation index, and the neutrophil-to-high-density lipoprotein (HDL) ratio, were reduced in the women and showed their diagnostic utility for clinical prognosis in vascular dysfunction, especially the C-reactive-protein-to-HDL ratio (AUC = 0.980, specificity 94.7%, sensitivity 93.3%, OR = 252, 95% CI 65\u2013967, p < 0.001). This study is the first to have revealed sex-specific changes in the oxi-inflammatory response, which can generate the risk of cardiovascular events at an older age. blood cell count endothelial progenitor cells nitric oxide 3-nitrotyrosine systemic inflammatory index older adults University of Zielona Gora 2022/2023 This work was supported by funds from the University of Zielona Gora (2022/2023 Ministry of Education and Science, Poland). 1. Introduction Endothelial dysfunction is a crucial factor preceding the development of cardiovascular diseases (CVDs). It is generally complicated by simultaneous oxidative stress and inflammation in the senescence of vascular cells [ 1 ]. The risk factors of augmented cardiovascular aging, such as a low physical activity level and a high visceral fat content, can induce changes in endothelium morphology and metabolism, which contributes to arterial stiffness, hypertension, atherosclerosis, stroke, and coronary artery disease in older adults [ 2 , 3 , 4 ]. In this regard, aging is a major risk factor and represents a crucial health challenge in the pathogenesis of CVDs [ 5 ]. According to the American Heart Association Report on Heart Disease and Stroke Statistics in 2024, the incidence of CVD was typically 35\u201340% in people aged between 40 and 60 years, 77\u201380% in patients between 60 and 80 years of age, and over 85% in patients over the age of 80. CVDs have been considered the true diseases of aging [ 6 , 7 ]. In Europe, more than 4 million people die from cardiovascular CVDs each year [ 8 ]. The incidence of CVDs in Poland is also on the rise. At present, CVDs account for 38% of all deaths, with ischemic heart disease being the principal cause [ 9 ]. The Polish population is aging, as indicated by a life expectancy of 73 years in men and 81 years in women [ 10 ]. The disparity between sexes is among the highest in Europe and may be related to men\u2019s six-fold higher incidence of accidental death, 10% less use of medical services, and greater exposure to modifiable risks [ 9 ]. In several studies on the impact of aging, the parameters obtained from direct measurements of the heart and vascular structures or functions have been used as either specific factors for association analysis, or collective predictors of future CVD risk [ 4 ]. Aging research includes analyses of numerous cardiac and vascular functional or structural parameters, such as coronary artery calcification, the arterial intima-media thickness of carotid arteries, pulse wave velocity, and flow-mediated vasodilation. The rationale behind their selection is that these parameters can serve as more quantifiable phenotypes to measure the aging process for the cardiovascular system, and it is also governed by underlying aging [ 7 ]. However, there is a lack of integrated markers and scores to measure cardiovascular age based on an aging-specific profile and functional measurements that can be applied in clinical practice. Cardiovascular markers are often deployed without assessing gender-specific cut-off values. It is now becoming apparent that the use of such cut-off values can improve prognostication and discrimination in some clinical situations [ 11 ]. Regular blood tests to evaluate the inflammatory process status are useful in the early diagnosis of several diseases, as well as in the clinical prognosis of CVDs. In particular, the complete blood count profile is readily available, inexpensive, and provides information regarding various cell types, i.e., leucocytes, neutrophils, monocytes, lymphocytes, and platelets. Recently, some studies have found that the combination of oxi-inflammatory factors and lipoproteins, such as the neutrophil-to-lymphocyte ratio (NLR), the lymphocyte-to-monocyte ratio (LMR), the platelet-to-lymphocyte ratio (PLR), the systemic immune inflammation index (SII), and the C-reactive-protein-to-high-density-lipoprotein ratio (CHR) are applicable prognostic markers in patients with a variety of cancers [ 12 , 13 , 14 ], infectious diseases [ 15 , 16 ], obesity [ 17 , 18 ], and diabetes [ 19 ], as well as coronary artery disease [ 20 , 21 , 22 , 23 ] and acute ischemic stroke [ 24 , 25 ]. These easily measured parameters are routinely calculated in daily practice as a part of the complete blood count report and basic biochemical analysis [ 26 ]. Inflammation has been implicated in age-associated endothelial dysfunction and the worsening of large artery stiffness. Age-related inflammation, called inflammaging, is characterized by increased levels of circulating C-reactive protein (CRP), as well as pro-inflammatory cytokines, including interleukin (IL)-1, IL-2, IL-6, IL-8, IL-12, IL-13, IL-15, IL-18, IL-22, IL-23, tumor necrosis factor (TNF\u03b1), and interferon (IFN\u03b3) [ 27 ]. These circulating markers of inflammation, CRP in particular, have been positively related to aortic stiffness and inversely related to endothelium-dependent dilation in older adults [ 28 ]. Although some inflammatory mediators are derived from vascular cells per se, immune cells infiltrating the arterial adventitia have also been indicated as an important source of both inflammatory cytokines and reactive and nitrogen species (RONS), such as hydrogen peroxide (H 2 O 2 ) and nitric oxide (NO). This is supported by data that show the increased accumulation of neutrophiles and lymphocytes T in the adventitia of aged arteries and the role of adventitial-derived RONS in arterial inflammation in the setting of CVDs [ 7 , 29 , 30 ]. Our earlier study demonstrated that aging is associated with profound changes in the immune risk profile expressed as the lymphocyte CD4-to-CD8 ratio, also pointing to an interplay between the immune cells and the endothelial cells in older age [ 30 ]. However, it did not demonstrate sex-related changes for inflammatory or endothelium-specific variables. On the basis of the assembled data on oxidative stress and inflammation and their complications, including the changes in endothelium metabolism from subclinical dysfunction to revealed disease, this study was designed to assess the prognostic values of serum oxi-inflammatory factors in endothelium metabolism depending on sex.",
+    "document_source_id": "39596269",
+    "analysis_date": "2025-12-10",
+    "extracted_data": {
+      "document_summary": "This observational study investigated sex-specific differences in oxi-inflammatory responses, body composition, and cardiovascular health in older adults. It aimed to assess the usefulness of serum oxi-inflammatory markers for vascular disease prediction and prevention, revealing that postmenopausal women exhibit elevated production of reactive oxygen and nitrogen species (RONS) leading to increased oxidative stress (oxLDLs, 3-NitroT) but also enhanced endothelial regeneration (EPCs, HMGB1). The study identified sex-specific patterns in various inflammatory (NLR, SII, NHR) and lipid markers, notably highlighting the C-reactive-protein-to-HDL ratio (CHR) as a strong predictor of endothelial dysfunction and cardiovascular disease risk, with women generally showing reduced levels of these inflammatory indices.",
+      "treatment_details": {
+        "therapy_type": "Observational Study",
+        "dose_specificity": "Cross-sectional assessment of physiological, hematological, lipid, and inflammatory markers in women (n=145) and men (n=50) aged 72.2 \b1 7.8 years; no intervention or dose comparison was reported, focusing on sex-specific differences."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "Hydrogen peroxide (H2O2)",
+          "measured_tissue_or_fluid": "Serum/Blood",
+          "activity_type": "Production Level/Concentration",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Elevated production in older women, responsible for intravascular low-density lipoprotein oxidation; correlated with oxLDL (r s = 0.71, p < 0.001) in women."
+          },
+          "core_biological_function": "Reactive oxygen species, mediating oxidative stress and contributing to endothelial dysfunction by promoting inflammation in endothelial and smooth muscle cells.",
+          "relevant_activity_context": "Aging, specifically observed in older women, linked to increased RONS production and correlation with oxLDL, leading to endothelial dysfunction.",
+          "performance_or_health_indicator": "Indicates increased oxidative stress and contributes to endothelial dysfunction and heightened cardiovascular event risk, endorsing atherogenesis in older women."
+        },
+        {
+          "biomarker_name": "Nitric oxide (NO)",
+          "measured_tissue_or_fluid": "Serum/Blood (Systemic)",
+          "activity_type": "Generation and Bioavailability",
+          "measured_effect": {
+            "direction_of_change": "enhanced generation, reduced bioavailability",
+            "magnitude_quantification": "Enhanced generation in older women (282 \b1 52 \b5mol/L with low-grade inflammation, 216 \b1 197 \b5mol/L with high-grade), but reduced bioavailability expressed by high 3-nitrotyrosine concentration. Correlated with oxLDL (r s = 0.49, p < 0.001) in women. The relation of NO/3-NitroT (r s = 0.811, p < 0.001) in women and (r s = -0.611, p < 0.001) in men showed sex determines endothelial dysfunction."
+          },
+          "core_biological_function": "Reactive nitrogen species, crucial for vasodilation and endothelial function; involved in oxidative stress. Reduced bioavailability impairs endothelial function and promotes arterial remodeling.",
+          "relevant_activity_context": "Aging, particularly in older women where enhanced generation is observed but functional availability is compromised due to inflammatory status and interaction with RONS.",
+          "performance_or_health_indicator": "Contributes to endothelial dysfunction and increased cardiovascular event risk in older women due to reduced bioavailability despite enhanced generation, with sex-specific patterns determining its role in endothelial dysfunction."
+        },
+        {
+          "biomarker_name": "3-Nitrotyrosine (3-NitroT)",
+          "measured_tissue_or_fluid": "Serum/Blood Plasma",
+          "activity_type": "Concentration/Protein Nitration",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "High concentration in older women, demonstrating reduced NO bioavailability. Correlated with oxLDL (r s = 0.55, p < 0.001) in men. The relation of NO/3-NitroT was r s = 0.811 (p < 0.001) in women and r s = -0.611 (p < 0.001) in men."
+          },
+          "core_biological_function": "A stable marker of peroxynitrite formation and protein nitration, indicating nitrosative stress and reduced nitric oxide bioavailability.",
+          "relevant_activity_context": "Aging, particularly in older women where it signifies compromised NO bioavailability, and in men, indicating oxidative stress and sex-specific mechanisms of endothelial dysfunction.",
+          "performance_or_health_indicator": "Indicates reduced nitric oxide bioavailability and endothelial dysfunction, contributing to cardiovascular risk and associated with atherosclerotic endothelial dysfunction; its relationship with NO varies by sex."
+        },
+        {
+          "biomarker_name": "Endothelial Progenitor Cells (EPCs)",
+          "measured_tissue_or_fluid": "Blood/Serum",
+          "activity_type": "Cell Count/Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "~1.5-fold higher in older women compared to men, demonstrating promoted endothelial regeneration."
+          },
+          "core_biological_function": "Involved in endothelial repair and regeneration, maintaining appropriate endothelial function by proliferating, differentiating, and maturing into endothelial cells.",
+          "relevant_activity_context": "Aging, observed in older women in response to RONS generation, and reflecting sex differences in endothelial repair mechanisms and inflammaging.",
+          "performance_or_health_indicator": "Indicates a promoted endothelial regeneration process, potentially as a compensatory mechanism against RONS-induced damage, and can be used to assess both endothelial damage and regeneration in inflammaging, especially in the female population."
+        },
+        {
+          "biomarker_name": "Neutrophil-to-lymphocyte ratio (NLR)",
+          "measured_tissue_or_fluid": "Blood (calculated ratio)",
+          "activity_type": "Ratio",
+          "measured_effect": {
+            "direction_of_change": "lower in women, higher in men",
+            "magnitude_quantification": "Reduced in older women (2.29 \b1 2.03) compared to men (2.93 \b1 2.24). Values were 2.44 \b1 2.01 for CRP < 3 mg/L and 3.23 \b1 2.44 for CRP \b3 3 mg/L. Optimal threshold: 1.67 (AUC = 0.655, specificity 77.2%, sensitivity 53.3%, OR = 3.87)."
+          },
+          "core_biological_function": "An indicator of systemic inflammatory status, reflecting the balance between pro-inflammatory (neutrophils) and anti-inflammatory (lymphocytes) components of the immune system.",
+          "relevant_activity_context": "Aging, specifically in older adults with chronic inflammation, demonstrating sex-specific differences in inflammatory profiles.",
+          "performance_or_health_indicator": "Shows average diagnostic utility for clinical prognosis in vascular dysfunction and cardiovascular diseases in older patients with chronic inflammation, and is independently associated with increased arterial stiffness in adult males."
+        },
+        {
+          "biomarker_name": "Systemic Immune-Inflammation Index (SII)",
+          "measured_tissue_or_fluid": "Blood (calculated index)",
+          "activity_type": "Index/Ratio",
+          "measured_effect": {
+            "direction_of_change": "lower in women, higher in men",
+            "magnitude_quantification": "Reduced in older women (602 \b1 537) compared to men (776 \b1 454). Values were 523 \b1 410 for CRP < 3 mg/L and 660 \b1 445 for CRP \b3 3 mg/L. Optimal threshold: 350 (AUC = 0.627, specificity 86.0%, sensitivity 34.1%, OR = 3.17)."
+          },
+          "core_biological_function": "A composite inflammatory biomarker reflecting systemic immune and inflammatory responses and the balance of immune cells.",
+          "relevant_activity_context": "Aging, specifically in older adults with chronic inflammation, demonstrating sex-specific differences in inflammatory profiles.",
+          "performance_or_health_indicator": "Shows average diagnostic potential for clinical prognosis in vascular dysfunction and cardiovascular diseases in older patients with chronic inflammation."
+        },
+        {
+          "biomarker_name": "Neutrophil-to-HDL ratio (NHR)",
+          "measured_tissue_or_fluid": "Blood (calculated ratio)",
+          "activity_type": "Ratio",
+          "measured_effect": {
+            "direction_of_change": "lower in women, higher in men",
+            "magnitude_quantification": "Reduced in older women (0.055 \b1 0.030) compared to men (0.090 \b1 0.047), indicating a two-fold lower ratio in women. Values were 0.55 \b1 0.026 for CRP < 3 mg/L and 0.074 \b1 0.048 for CRP \b3 3 mg/L. Optimal threshold: 0.064 (AUC = 0.636, specificity 52.6%, sensitivity 77.6%, OR = 3.82)."
+          },
+          "core_biological_function": "A composite biomarker indicating systemic inflammatory status by combining inflammatory (neutrophils) and lipid (HDL) markers.",
+          "relevant_activity_context": "Aging, specifically in older adults with chronic inflammation, demonstrating sex-specific differences in inflammatory and lipid profiles.",
+          "performance_or_health_indicator": "Shows average diagnostic potential for clinical prognosis in vascular dysfunction and cardiovascular diseases in older patients with chronic inflammation."
+        },
+        {
+          "biomarker_name": "C-reactive-protein-to-HDL ratio (CHR)",
+          "measured_tissue_or_fluid": "Blood/Serum (calculated ratio)",
+          "activity_type": "Ratio",
+          "measured_effect": {
+            "direction_of_change": "lower in women, higher in men",
+            "magnitude_quantification": "Reduced in older women (0.031 \b1 0.028) compared to men (0.052 \b1 0.052). Shows very high diagnostic potential with AUC = 0.980, specificity 94.7%, sensitivity 93.3%, OR = 252 (OR = 289 beyond cut-off 0.037), p < 0.001. Optimal threshold: 0.038. Values > 1.65 for women and > 2.75 for men are highly predictive of a first coronary event."
+          },
+          "core_biological_function": "A composite biomarker reflecting both systemic inflammatory (CRP) and lipid (HDL) status, providing an integrated view of cardiovascular risk.",
+          "relevant_activity_context": "Aging, chronic inflammation, dyslipidemia, and cardiovascular risk assessment, demonstrating sex-specific differences in older adults.",
+          "performance_or_health_indicator": "Possesses very high diagnostic utility for clinical prognosis in vascular dysfunction and cardiovascular disease risk, including atherosclerosis, with better performance than NLR. A significant risk factor for cardiovascular events, stroke, and heart disease, indicating a very high probability of endothelial dysfunction."
+        },
+        {
+          "biomarker_name": "C-reactive protein (CRP)",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher in high-grade inflammation, lower in women",
+            "magnitude_quantification": "Levels tended to be lower in women (2.25 \b1 1.88 mg/L) than in men (2.92 \b1 2.32 mg/L). Low-grade inflammation is CRP < 3 mg/L (associated with VFC 10.7 \b1 3.4), while high-grade inflammation is CRP \b3 3 mg/L (associated with VFC 12.5 \b1 3.7). High levels are associated with enhanced systemic inflammatory response."
+          },
+          "core_biological_function": "A key acute phase reactant and conventional marker of systemic inflammation and cardiovascular diseases.",
+          "relevant_activity_context": "Systemic inflammatory status in seniors, chronic inflammation, and association with visceral fat content, used for classifying inflammation grades.",
+          "performance_or_health_indicator": "Indicates the presence and severity of systemic inflammation and cardiovascular disease risk, and is associated with visceral fat content."
+        },
+        {
+          "biomarker_name": "Neutrophils",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Cell Count",
+          "measured_effect": {
+            "direction_of_change": "lower in women",
+            "magnitude_quantification": "Significantly fewer neutrophils were observed in women compared to men."
+          },
+          "core_biological_function": "Primary immune cells involved in acute inflammation, mediating immune response and secreting inflammatory mediators.",
+          "relevant_activity_context": "Sex differences in seniors, contributing to various inflammatory indices (NLR, SII, NHR), and reflecting inflammatory response and immunoaging.",
+          "performance_or_health_indicator": "Indicates inflammation development; a high number promotes inflammation and neutrophilia inhibits immune response."
+        },
+        {
+          "biomarker_name": "Lymphocytes",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Cell Count",
+          "measured_effect": {
+            "direction_of_change": "higher in women",
+            "magnitude_quantification": "Tended toward higher values in women compared to men."
+          },
+          "core_biological_function": "Mediates immune response.",
+          "relevant_activity_context": "Sex differences in seniors, contributing to inflammatory indices (NLR, SII).",
+          "performance_or_health_indicator": "Contributes to changes in inflammatory indices (NLR, SII)."
+        },
+        {
+          "biomarker_name": "Monocytes",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Cell Count",
+          "measured_effect": {
+            "direction_of_change": "higher in women",
+            "magnitude_quantification": "Tended toward higher values in women compared to men."
+          },
+          "core_biological_function": "Mediates immune response and inflammation.",
+          "relevant_activity_context": "Sex differences in seniors, contributing to inflammatory indices (NLR, SII).",
+          "performance_or_health_indicator": "Contributes to changes in inflammatory indices (NLR, SII)."
+        },
+        {
+          "biomarker_name": "Platelets",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Cell Count",
+          "measured_effect": {
+            "direction_of_change": "higher in women",
+            "magnitude_quantification": "Tended toward higher values in women compared to men."
+          },
+          "core_biological_function": "Involved in blood clotting and inflammation.",
+          "relevant_activity_context": "Sex differences in seniors, contributing to inflammatory indices (NLR, SII).",
+          "performance_or_health_indicator": "Contributes to changes in inflammatory indices (NLR, SII)."
+        },
+        {
+          "biomarker_name": "Hemoglobin (Hb)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "lower than optimal",
+            "magnitude_quantification": "Hb < 13 g/dL in 20% of women (optimal: 13.0-15.0 g/dL) and Hb < 14 g/dL in 60% of men (optimal: 14.0-17.0 g/dL)."
+          },
+          "core_biological_function": "Oxygen transport in blood.",
+          "relevant_activity_context": "Aging population.",
+          "performance_or_health_indicator": "Indicates anemia in old age and is associated with increased hospitalization and mortality risk."
+        },
+        {
+          "biomarker_name": "Total Cholesterol (TC)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Concentration",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "High levels (> 200 mg/dL) found in 72% of the sample, with levels ~20% higher in women compared to men."
+          },
+          "core_biological_function": "Component of cell membranes and a precursor for steroids and bile acids.",
+          "relevant_activity_context": "Vascular aging.",
+          "performance_or_health_indicator": "Strongest biomarker of vascular aging; high levels are a significant risk factor for cardiovascular disease."
+        },
+        {
+          "biomarker_name": "Triglycerides (TG)",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Concentration/Lipid Level",
+          "measured_effect": {
+            "direction_of_change": "higher in women",
+            "magnitude_quantification": "High levels (> 150 mg/dL) found in 36% of the sample, with levels significantly more elevated (by ~20%) in women compared to men in this study."
+          },
+          "core_biological_function": "Primary form of fat storage in the body, used for energy.",
+          "relevant_activity_context": "Vascular aging, lipid metabolism, and sex-specific differences in cardiovascular health.",
+          "performance_or_health_indicator": "High levels are a risk factor for cardiovascular disease and indicate a higher risk of cardiovascular events."
+        },
+        {
+          "biomarker_name": "non-HDL",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Concentration",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "High levels (> 130 mg/dL) found in 72% of the sample, with significant sex differences observed."
+          },
+          "core_biological_function": "Represents all atherogenic lipoproteins.",
+          "relevant_activity_context": "Vascular aging.",
+          "performance_or_health_indicator": "High levels are a risk factor for cardiovascular disease."
+        },
+        {
+          "biomarker_name": "Low-density lipoprotein (LDL)",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Concentration/Protein Level",
+          "measured_effect": {
+            "direction_of_change": "lower in women",
+            "magnitude_quantification": "Tended to lower values in women compared to men."
+          },
+          "core_biological_function": "Transports cholesterol from the liver to cells throughout the body.",
+          "relevant_activity_context": "Sex differences in lipid metabolism and cardiovascular health.",
+          "performance_or_health_indicator": "High levels are a risk factor for cardiovascular disease, increased risk of cardiovascular events, and atherosclerosis."
+        },
+        {
+          "biomarker_name": "Oxidized low-density lipoprotein (oxLDL)",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Concentration/Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher in women",
+            "magnitude_quantification": "Two-fold higher in women than in men, with elevated production due to RONS. Highly correlated with H2O2 (r s = 0.71, p < 0.001) and NO (r s = 0.49, p < 0.001) in women, and with 3-NitroT (r s = 0.55, p < 0.001) in men. Elevated in patients with CRP \b3 3 mg/L."
+          },
+          "core_biological_function": "A key mediator of endothelial dysfunction, oxidative stress, and lipid modification, central to atherosclerosis pathogenesis by promoting foam-cell formation and activating pro-inflammatory pathways.",
+          "relevant_activity_context": "Sex-specific changes in old age, particularly in postmenopausal women, chronic inflammatory conditions, and correlation with RONS production and other endothelium-specific variables.",
+          "performance_or_health_indicator": "Indicates endothelial dysfunction, vascular aging, and accelerated atherosclerosis risk (17% increase per 1 \b5mol/L lipid peroxide increase). A valuable early marker for pathological processes in the vascular endothelium and for diagnosis and monitoring of CVDs."
+        },
+        {
+          "biomarker_name": "Triglycerides-to-HDL ratio (TG/HDL ratio)",
+          "measured_tissue_or_fluid": "Blood (calculated ratio)",
+          "activity_type": "Ratio",
+          "measured_effect": {
+            "direction_of_change": "higher risk associated with higher values",
+            "magnitude_quantification": "Reached a value close to two in both sexes (1.82 \b1 0.99 for CRP < 3 mg/L; 2.24 \b1 1.30 for CRP \b3 3 mg/L). Values < 2 are good, \b3 3 is linked to higher-risk CVDs. Values > 1.65 for women and > 2.75 for men are highly predictive of a first coronary event, with a high ratio increasing the risk of a first coronary event by 50%."
+          },
+          "core_biological_function": "An indicator of insulin resistance, metabolic syndrome, lipid metabolism balance, and overall cardiovascular risk.",
+          "relevant_activity_context": "Association with inflammaging (low-grade vs. high-grade inflammation) and cardiovascular risk assessment, demonstrating sex-specific thresholds in older adults.",
+          "performance_or_health_indicator": "Indicates a higher risk of cardiovascular events, particularly in women, and is predictive of a first coronary event and higher-risk CVDs."
+        },
+        {
+          "biomarker_name": "High Mobility Group Box 1 (HMGB1)",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher in women",
+            "magnitude_quantification": "Mean serum levels were 50.77 \b1 19.15 ng/mL in women and 39.58 \b1 9.84 ng/mL in men, indicating ~1.5-fold higher levels in women. These levels were lower than those causing vascular barrier damage (\b35 \b5g/mL)."
+          },
+          "core_biological_function": "Participates in the inflammatory response, attracts progenitor cells, promotes endothelial regeneration, and is abundantly expressed during atherogenesis, although high levels can promote endothelial dysfunction.",
+          "relevant_activity_context": "Sex differences in older adults, particularly in postmenopausal women in response to RONS generation, and during inflammatory response, atherogenesis, and inflammaging.",
+          "performance_or_health_indicator": "Can be used to assess endothelial regeneration and the extent of damage in inflammaging, especially when jointly tested with EPCs. Highly related to the development of atherosclerosis and associated diseases (diabetes, ischemic stroke, hypertension)."
+        },
+        {
+          "biomarker_name": "Visceral Fat Content (VFC)",
+          "measured_tissue_or_fluid": "Body Composition (Visceral Fat)",
+          "activity_type": "Content",
+          "measured_effect": {
+            "direction_of_change": "higher in high-grade inflammation",
+            "magnitude_quantification": "Mean VFC was 12.5 \b1 3.7 in individuals with high-grade inflammation (CRP \b3 3 mg/L) compared to 10.7 \b1 3.4 in those with low-grade inflammation (CRP < 3 mg/L). Excessive VFC was observed in 80% of men."
+          },
+          "core_biological_function": "A component of body fat distribution closely linked to inflammatory processes.",
+          "relevant_activity_context": "Sex-specific fat distribution, chronic inflammation, and older age.",
+          "performance_or_health_indicator": "Excessive VFC, particularly in men, is associated with increased inflammation and chronic inflammatory status."
+        },
+        {
+          "biomarker_name": "Fat Mass (FM)",
+          "measured_tissue_or_fluid": "Whole Body",
+          "activity_type": "Body Composition Measurement",
+          "measured_effect": {
+            "direction_of_change": "higher in women",
+            "magnitude_quantification": "Women had a higher fat mass than men."
+          },
+          "core_biological_function": "A component of body composition serving primarily as energy storage.",
+          "relevant_activity_context": "Sex differences in body composition observed in the study.",
+          "performance_or_health_indicator": "Associated with sex differences influencing cardiovascular disease risk."
+        },
+        {
+          "biomarker_name": "Fat-Free Mass (FFM)",
+          "measured_tissue_or_fluid": "Whole Body",
+          "activity_type": "Body Composition Measurement",
+          "measured_effect": {
+            "direction_of_change": "higher in men",
+            "magnitude_quantification": "Men had a higher fat-free mass than women."
+          },
+          "core_biological_function": "A component of body composition representing muscle, bone, and water content.",
+          "relevant_activity_context": "Sex differences in body composition observed in the study.",
+          "performance_or_health_indicator": "Associated with sex differences influencing cardiovascular disease risk."
+        },
+        {
+          "biomarker_name": "Body Fat Percentage",
+          "measured_tissue_or_fluid": "Whole Body",
+          "activity_type": "Body Composition Measurement",
+          "measured_effect": {
+            "direction_of_change": "higher in women",
+            "magnitude_quantification": "Remained higher in women than in men as BMI increased in both sexes."
+          },
+          "core_biological_function": "Proportion of total body weight composed of fat, indicating overall adiposity.",
+          "relevant_activity_context": "Sex differences in body composition, with increasing BMI in both sexes.",
+          "performance_or_health_indicator": "Associated with sex differences influencing cardiovascular disease risk, suggesting differing fat distribution and risk profiles."
+        },
+        {
+          "biomarker_name": "Age",
+          "measured_tissue_or_fluid": "N/A",
+          "activity_type": "Demographic Factor",
+          "measured_effect": {
+            "direction_of_change": "risk factor",
+            "magnitude_quantification": "Regarded as an unmodifiable cardiovascular disease risk factor at both individual and population levels."
+          },
+          "core_biological_function": "Chronological duration influencing physiological processes, disease susceptibility, and overall health.",
+          "relevant_activity_context": "Cardiovascular disease risk assessment and prevention guidelines, specifically regarding aging-related CVD risk.",
+          "performance_or_health_indicator": "Identified as an essential and unmodifiable risk factor for CVD, with a noted lack of specific recommendations for lowering aging-related CVD risk in prevention guidelines."
+        },
+        {
+          "biomarker_name": "High-density lipoprotein (HDL)",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher in women",
+            "magnitude_quantification": "Significantly more elevated in women compared to men in this study (cited studies report mean HDL levels 23% higher in postmenopausal women)."
+          },
+          "core_biological_function": "Involved in reverse cholesterol transport, removing cholesterol from peripheral tissues and transporting it to the liver for excretion.",
+          "relevant_activity_context": "Lipid metabolism, sex-specific differences, and cardiovascular health.",
+          "performance_or_health_indicator": "Generally, higher levels are associated with a reduced risk of cardiovascular diseases."
+        },
+        {
+          "biomarker_name": "Lectin-like oxLDL receptor (LOX-1)",
+          "measured_tissue_or_fluid": "Endothelial Cells (Expression)",
+          "activity_type": "Protein Expression",
+          "measured_effect": {
+            "direction_of_change": "upregulated",
+            "magnitude_quantification": "Expression is typically very low but promptly induced and upregulated in chronic inflammatory conditions and cardiovascular diseases, including atherosclerosis."
+          },
+          "core_biological_function": "Major receptor for oxLDL, mediating pro-atherogenic signaling.",
+          "relevant_activity_context": "Binding of oxLDL, cardiovascular diseases, chronic inflammatory conditions, and atherosclerosis.",
+          "performance_or_health_indicator": "Upregulation promotes endothelial dysfunction and induces pro-atherogenic signaling, leading to atherosclerosis."
+        },
+        {
+          "biomarker_name": "CD4+/CD8 ratio",
+          "measured_tissue_or_fluid": "Blood (Lymphocyte Subpopulations)",
+          "activity_type": "Ratio",
+          "measured_effect": {
+            "direction_of_change": "lower in men",
+            "magnitude_quantification": "A CD4/CD8 ratio < 1 was found in 25% of men, whereas a ratio \b3 1 or \b2 2.5 dominated in women."
+          },
+          "core_biological_function": "Reflects the balance of helper T cells and cytotoxic T cells, indicative of immune system status.",
+          "relevant_activity_context": "Immunosenescence, chronic inflammatory diseases, and sex-specific differences.",
+          "performance_or_health_indicator": "A CD4/CD8 ratio < 1 is regarded as an immune risk phenotype and can be associated with immunosenescence and chronic inflammatory diseases."
+        },
+        {
+          "biomarker_name": "CD4+-na\b5ve T lymphocytes",
+          "measured_tissue_or_fluid": "Blood (Lymphocyte Subpopulations)",
+          "activity_type": "Cell Population",
+          "measured_effect": {
+            "direction_of_change": "significant difference between sexes",
+            "magnitude_quantification": "A statistically significant difference was observed between older women and older men in this population."
+          },
+          "core_biological_function": "A subset of T lymphocytes that have not yet encountered their specific antigen, important for immune response.",
+          "relevant_activity_context": "Immunoaging and sex-specific differences in older age.",
+          "performance_or_health_indicator": "Differences indicate sex-dependent progression of immunoaging."
+        }
+      ]
+    }
+  }
+]

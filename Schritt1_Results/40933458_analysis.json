@@ -1,0 +1,124 @@
+[
+  {
+    "title": "pmc World J Gastroenterol World J Gastroenterol WJG World Journal of Gastroenterology 1007-9327 2219-2840 Baishideng Publishing Group Inc 12418004 jWJG.v31.i33.eid108369 10.3748/wjg.v31.i33.108369 108369 Retrospective Study Early postnatal characteristics and differential diagnosis of choledochal cyst and cystic biliary atresia Tian Y et al . Early CC-CBA MLP diagnosis Tian Yu Department of Pediatric Surgery, Capital Center for Children\u2019s Health, Capital Medical University, Capital Institute of Pediatrics, Beijing 100020, China Department of Pediatric Surgery, Capital Institute of Pediatrics-Peking University Teaching Hospital, Beijing 100020, China Precision Regenerative Medicine Research Centre, Medical Science Division, and State Key Laboratory of Quality Research in Chinese Medicine, Macau University of Science and Technology, Macau 999078, China Chen Shuai Department of Neonatal Surgery, Children\u2019s Hospital Affiliated to Shandong University (Jinan Children\u2019s Hospital), Jinan 250022, Shandong Province, China Ji Can Department of Pediatric Surgery, Capital Institute of Pediatrics-Peking University Teaching Hospital, Beijing 100020, China Wang Xin-Ping Department of Pediatric Surgery, Capital Institute of Pediatrics-Peking University Teaching Hospital, Beijing 100020, China Ye Mao Department of Pediatric Surgery, Capital Center for Children\u2019s Health, Capital Medical University, Capital Institute of Pediatrics, Beijing 100020, China Chen Xin-Yuan Department of Pediatric Surgery, Capital Center for Children\u2019s Health, Capital Medical University, Capital Institute of Pediatrics, Beijing 100020, China Luo Jian-Feng Department of Pediatric Surgery, Capital Center for Children\u2019s Health, Capital Medical University, Capital Institute of Pediatrics, Beijing 100020, China Li Xu Department of Pediatric Surgery, Capital Center for Children\u2019s Health, Capital Medical University, Capital Institute of Pediatrics, Beijing 100020, China Research Unit of Minimally Invasive Pediatric Surgery on Diagnosis and Treatment, Chinese Academy of Medical Sciences, Beijing 100020, China Li Long Department of Pediatric Surgery, Capital Center for Children\u2019s Health, Capital Medical University, Capital Institute of Pediatrics, Beijing 100020, China Research Unit of Minimally Invasive Pediatric Surgery on Diagnosis and Treatment, Chinese Academy of Medical Sciences, Beijing 100020, China Department of Pediatric Surgery, Beijing Tsinghua Changgung Hospital, Beijing 102218, China. lilong23@126.com Co-first authors: Yu Tian and Shuai Chen. Co-corresponding authors: Xu Li and Long Li. Author contributions: Tian Y and Chen S contributed equally to this work as co-first authors; Tian Y and Chen S designed the research, collected the data, and wrote the original draft; Ji C and Wang XP performed the data analysis and interpretation; Ye M and Chen XY contributed to methodology and validation; Luo JF conducted statistical analysis; Li X and Li L contributed equally to this work as co-corresponding authors, and were responsible for study conception, supervision, and critical revision of the manuscript; All authors have read and approved the final manuscript to be published and agree to be accountable for all aspects of the work. Supported by the Beijing Municipal Science and Technology Commission, No. Z191100006619002; Haiyou Health High-Caliber Talent Project, No. 202412; and the Research Unit of Minimally Invasive Pediatric Surgery on Diagnosis and Treatment, Chinese Academy of Medical Sciences, No. 2021RU015. Corresponding author: Long Li, Chief, Chief Physician, Professor, Department of Pediatric Surgery, Capital Center for Children\u2019s Health, Capital Medical University, Capital Institute of Pediatrics, No. 2 Ya Bao Road, Beijing 100020, China. lilong23@126.com 7 9 2025 7 9 2025 31 33 108369 14 4 2025 14 6 2025 5 8 2025 \u00a9The Author(s) 2025. Published by Baishideng Publishing Group Inc. All rights reserved. 2025 https://creativecommons.org/licenses/by-nc/4.0/ This article is an open-access article that was selected by an in-house editor and fully peer-reviewed by external reviewers. It is distributed in accordance with the Creative Commons Attribution NonCommercial (CC BY-NC 4.0) license, which permits others to distribute, remix, adapt, build upon this work non-commercially, and license their derivative works on different terms, provided the original work is properly cited and the use is non-commercial. See: https://creativecommons.org/Licenses/by-nc/4.0/ BACKGROUND Choledochal cysts (CC) and cystic biliary atresia (CBA) present similarly in early infancy but require different treatment approaches. While CC surgery can be delayed until 3-6 months of age in asymptomatic patients, CBA requires intervention within 60 days to prevent cirrhosis. AIM To develop a diagnostic model for early differentiation between these conditions. METHODS A total of 319 patients with hepatic hilar cysts (< 60 days old at surgery) were retrospectively analyzed; these patients were treated at three hospitals between 2011 and 2022. Clinical features including biochemical markers and ultrasonographic measurements were compared between CC ( n = 274) and CBA ( n = 45) groups. Least absolute shrinkage and selection operator regression identified key diagnostic features, and 11 machine learning models were developed and compared. RESULTS The CBA group showed higher levels of total bile acid, total bilirubin, \u03b3-glutamyl transferase, aspartate aminotransferase, and alanine aminotransferase, and direct bilirubin, while longitudinal diameter of the cysts and transverse diameter of the cysts were larger in the CC group. The multilayer perceptron model demonstrated optimal performance with 95.8% accuracy, 92.9% sensitivity, 96.3% specificity, and an area under the curve of 0.990. Decision curve analysis confirmed its clinical utility. Based on the model, we developed user-friendly diagnostic software for clinical implementation. CONCLUSION Our machine learning approach differentiates CC from CBA in early infancy using routinely available clinical parameters. Early accurate diagnosis facilitates timely surgical intervention for CBA cases, potentially improving patient outcomes. Cystic biliary atresia Choledochal cyst Combined diagnosis Ultrasound Early diagnosis Core Tip: This study developed a multilayer perceptron diagnostic model for early postnatal differentiation between choledochal cysts and cystic biliary atresia (CBA). The model, incorporating selected biochemical markers and ultrasonographic features, demonstrates exceptional diagnostic accuracy (95.8%), an area under the curve of 99.0%, and significant clinical utility. We transformed this model into user-friendly diagnostic software for convenient clinical application, facilitating rapid decision-making that helps prevent delayed surgery in CBA patients. This approach potentially improves long-term outcomes by enabling timely intervention during the critical early postnatal period when distinguishing between these conditions is most challenging but therapeutically crucial. INTRODUCTION Choledochal cysts (CC) and cystic biliary atresia (CBA) are both common congenital biliary malformations. Although their pathogenesis, treatment, and prognosis vary significantly, their clinical manifestations and imaging characteristics in the early postnatal period are similar, posing significant challenges for differential diagnosis[ 1 - 3 ]. CC, characterized by the localized or diffuse dilation of the common bile duct or its branches, is a congenital biliary dilation which shows a higher incidence in Asian populations, occurring in approximately 1 in 1000 individuals, compared to 1 in 100000-150000 in Western populations[ 4 , 5 ]. If CC is diagnosed, surgery can be appropriately postponed[ 6 ]. Biliary atresia (BA) has an incidence of approximately 1.1:10000 to 1.48:10000 in Taiwan and Japan[ 7 ]. CBA, a subtype of BA with extrahepatic cysts, accounts for approximately 10% of BA cases[ 1 , 8 ], and is characterized by fibrous occlusive obstruction of the extrahepatic bile duct system, which invades the intrahepatic bile duct, leading to cholestasis, progressive liver fibrosis, and cirrhosis[ 6 ]. Studies have shown that age at the time of surgery is closely related to the prognosis of CBA, with surgery performed within the first 60 days after birth associated with a better prognosis[ 9 ]. However, the optimal timing for surgery for CC remains controversial. Most scholars believe that surgery can be postponed until 3-6 months after birth in asymptomatic patients. As such, misdiagnosis of CBA as CC can delay the optimal time for surgery, potentially leading to progression of cholestatic cirrhosis. This study aims to compare the clinical features of CC and CBA in early infancy and utilizes ultrasound features and biochemical markers to develop multiple machine learning models to attempt early differentiation between these conditions, with the goal of improving diagnosis and prognosis.",
+    "document_source_id": "40933458",
+    "analysis_date": "2025-12-10",
+    "extracted_data": {
+      "document_summary": "This study developed and validated a multilayer perceptron (MLP) machine learning model for the early postnatal differential diagnosis of choledochal cysts (CC) and cystic biliary atresia (CBA). The model utilized routinely available clinical parameters, including biochemical markers (Total bile acid, Total bilirubin, \u03b3-glutamyl transferase, Aspartate aminotransferase, Alanine aminotransferase, Direct bilirubin, and Taurodeoxycholate) and ultrasonographic measurements (Longitudinal and Transverse diameters of cysts), from a retrospective cohort of 319 patients. The MLP model achieved high diagnostic performance (95.8% accuracy, 92.9% sensitivity, 96.3% specificity, and AUC of 0.990 for differentiating CBA from CC), aiming to facilitate timely surgical intervention for CBA and improve patient outcomes.",
+      "treatment_details": {
+        "therapy_type": "Diagnostic Model Development (Machine Learning)",
+        "dose_specificity": "This retrospective study involved the analysis of clinical features from 319 patients (< 60 days old at surgery) with hepatic hilar cysts (274 CC, 45 CBA) treated between 2011 and 2022. It focused on developing a diagnostic model rather than a therapeutic intervention. Biochemical markers and ultrasonographic measurements were compared, and key diagnostic features were identified using least absolute shrinkage and selection operator regression. Eleven machine learning models were developed and compared, with a multilayer perceptron (MLP) model showing optimal performance: 95.8% accuracy, 92.9% sensitivity, 96.3% specificity, and an Area Under the Curve (AUC) of 0.990. The model utilized seven routine clinical parameters (GGT, TBA, DBIL, TBIL, ALT, LDC, and TDC) as input variables. No therapeutic dose-response comparisons were reported."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "Total bile acid (TBA)",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Concentration Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly higher in the congenital biliary atresia (CBA) group than in the choledochal cysts (CC) group. Tanaka et al. reported that when patients with hilar cysts have a TBA > 111 mol/L, the diagnosis of CBA over CC should be considered. Contributes positively toward CBA diagnosis in the LASSO model, demonstrating the highest absolute coefficient magnitude among positive contributors."
+          },
+          "core_biological_function": "Reflects bile flow and liver cholestasis; involved in fat digestion and absorption. Elevated levels are indicative of cholestasis or biliary obstruction.",
+          "relevant_activity_context": "Differential diagnosis of Cystic Biliary Atresia (CBA) vs. Choledochal Cysts (CC) in early infancy; preoperative assessment for patients with hepatic hilar cysts.",
+          "performance_or_health_indicator": "Key discriminatory marker for CBA, indicating severe cholestasis due to complete biliary obstruction and poor development of intrahepatic bile ducts. Serves as a distinguishing factor for CBA."
+        },
+        {
+          "biomarker_name": "Total bilirubin (TBIL)",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Concentration Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly higher in the congenital biliary atresia (CBA) group than in the choledochal cysts (CC) group. Contributes positively toward CBA diagnosis in the LASSO model. Higher bilirubin levels are characteristic of BA."
+          },
+          "core_biological_function": "Overall marker of bilirubin metabolism and cholestasis; byproduct of heme catabolism; elevated levels indicate impaired liver function or biliary obstruction.",
+          "relevant_activity_context": "Differential diagnosis of Cystic Biliary Atresia (CBA) vs. Choledochal Cysts (CC) in early infancy; preoperative assessment for patients with hepatic hilar cysts.",
+          "performance_or_health_indicator": "Indicates presence of cholestasis or impaired bilirubin metabolism, serving as a distinguishing factor for CBA. Reflects complete obstruction of bile flow in CBA, leading to more pronounced cholestasis compared to partial obstruction often seen in CC."
+        },
+        {
+          "biomarker_name": "\u03b3-glutamyl transferase (GGT)",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Enzyme Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly higher in the congenital biliary atresia (CBA) group than in the choledochal cysts (CC) group. Contributes positively toward CBA diagnosis in the LASSO model."
+          },
+          "core_biological_function": "Enzyme primarily found in the liver; elevated levels typically indicate liver or bile duct damage/cholestasis. Indicator of cholestasis and bile duct damage.",
+          "relevant_activity_context": "Differential diagnosis of Cystic Biliary Atresia (CBA) vs. Choledochal Cysts (CC) in early infancy; preoperative assessment for patients with hepatic hilar cysts.",
+          "performance_or_health_indicator": "Indicates liver or bile duct injury/cholestasis, serving as a distinguishing factor for CBA. Aligns with the more severe cholestatic pattern typically observed in CBA due to complete obstruction of bile flow."
+        },
+        {
+          "biomarker_name": "Aspartate aminotransferase (AST)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Enzyme Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly higher in the congenital biliary atresia (CBA) group than in the choledochal cysts (CC) group."
+          },
+          "core_biological_function": "Enzyme found in the liver, heart, muscle, and kidney; elevated levels often indicate liver cell damage. Indicator of hepatocellular injury or damage.",
+          "relevant_activity_context": "Differential diagnosis of Cystic Biliary Atresia (CBA) vs. Choledochal Cysts (CC) in early infancy; preoperative assessment for patients with hepatic hilar cysts.",
+          "performance_or_health_indicator": "Indicates liver cell damage, contributing to the differentiation of CBA from CC."
+        },
+        {
+          "biomarker_name": "Alanine aminotransferase (ALT)",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Enzyme Level",
+          "measured_effect": {
+            "direction_of_change": "higher in CBA, but paradoxically negative coefficient in multivariate model",
+            "magnitude_quantification": "Univariate analysis indicates that ALT levels in the CBA group are higher than those in the CC group. Exhibits a negative coefficient in the multivariate LASSO model, suggesting its role as an indicator to distinguish different patterns of liver injury after controlling for other strong cholestatic predictors."
+          },
+          "core_biological_function": "Enzyme primarily found in the liver; elevated levels are a sensitive indicator of liver cell damage. Indicator of hepatocellular injury or damage, more specific to the liver than AST.",
+          "relevant_activity_context": "Differential diagnosis of Cystic Biliary Atresia (CBA) vs. Choledochal Cysts (CC) in early infancy; preoperative assessment for patients with hepatic hilar cysts.",
+          "performance_or_health_indicator": "Indicates liver cell damage, contributing to the differentiation of CBA from CC. Helps differentiate CBA (severe cholestasis with coordinated elevation of all markers) from CC (mild cholestasis despite potentially similar ALT levels)."
+        },
+        {
+          "biomarker_name": "Direct bilirubin (DBIL)",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Concentration Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly higher in the congenital biliary atresia (CBA) group than in the choledochal cysts (CC) group. Contributes positively toward CBA diagnosis in the LASSO model. Higher bilirubin levels, particularly DBIL, are characteristic of BA."
+          },
+          "core_biological_function": "Conjugated bilirubin; elevated levels are specific indicators of biliary obstruction or impaired bile excretion. Marker of conjugated bilirubin excretion and cholestasis.",
+          "relevant_activity_context": "Differential diagnosis of Cystic Biliary Atresia (CBA) vs. Choledochal Cysts (CC) in early infancy; preoperative assessment for patients with hepatic hilar cysts.",
+          "performance_or_health_indicator": "Indicates direct biliary obstruction or dysfunction, serving as a key distinguishing factor for CBA. Reflects complete obstruction of bile flow in CBA, leading to more pronounced cholestasis compared to partial obstruction often seen in CC."
+        },
+        {
+          "biomarker_name": "Longitudinal diameter of the cysts (LDC)",
+          "measured_tissue_or_fluid": "Hepatic hilar cysts (measured from ultrasound images)",
+          "activity_type": "Ultrasonographic Measurement",
+          "measured_effect": {
+            "direction_of_change": "higher in CC than CBA",
+            "magnitude_quantification": "Larger in the CC group compared to the CBA group. Significantly lower in the congenital biliary atresia (CBA) group. CC cysts are already larger than CBA cysts within the first 60 days of life. Tanaka et al. suggested cyst diameters < 2.1 cm as indicative of CBA. Shin et al. proposed postnatal cyst diameter \u2264 2.2 cm without a visible distal common bile duct to differentiate CC from CBA. Guan et al. found an initial postnatal ultrasound and first prenatal ultrasound difference < 7.5 mm suggests a higher likelihood of CBA diagnosis. Demonstrated the highest absolute coefficient magnitude among negative contributors in the LASSO model."
+          },
+          "core_biological_function": "Physical dimension of the cyst, indicating its size and morphology. Indicator of anatomical changes in bile ducts due to cholestasis or malformation.",
+          "relevant_activity_context": "Differential diagnosis of Cystic Biliary Atresia (CBA) vs. Choledochal Cysts (CC) in early infancy; preoperative ultrasound assessment for patients with hepatic hilar cysts.",
+          "performance_or_health_indicator": "A morphological indicator used in differentiating choledochal cysts from cystic biliary atresia. Identified as the most critical feature for differential diagnosis; larger cysts typically associated with CC, smaller with CBA (within specific thresholds), though size difference can be less pronounced in early postnatal period."
+        },
+        {
+          "biomarker_name": "Transverse diameter of the cysts (TDC)",
+          "measured_tissue_or_fluid": "Hepatic hilar cysts (measured from ultrasound images)",
+          "activity_type": "Ultrasonographic Measurement",
+          "measured_effect": {
+            "direction_of_change": "higher in CC than CBA",
+            "magnitude_quantification": "Larger in the CC group compared to the CBA group. Significantly lower in the congenital biliary atresia (CBA) group."
+          },
+          "core_biological_function": "Physical dimension of the cyst, indicating its size and morphology.",
+          "relevant_activity_context": "Differential diagnosis of Cystic Biliary Atresia (CBA) vs. Choledochal Cysts (CC) in early infancy; preoperative ultrasound assessment for patients with hepatic hilar cysts.",
+          "performance_or_health_indicator": "A morphological indicator used in differentiating choledochal cysts from cystic biliary atresia. Included as a critical feature in a machine learning diagnostic model."
+        },
+        {
+          "biomarker_name": "Taurodeoxycholate",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Biochemical Concentration",
+          "measured_effect": {
+            "direction_of_change": "Higher in CC group, but corresponds to a positive coefficient in the multivariate model, indicating a complex relationship for CBA diagnosis.",
+            "magnitude_quantification": "Higher levels are observed in the CC group; corresponds to a positive coefficient in the LASSO model."
+          },
+          "core_biological_function": "A bile acid; levels can indicate cholestasis or biliary dysfunction.",
+          "relevant_activity_context": "Differential diagnosis of Cholestatic Biliary Atresia (CBA) and Choledochal Cyst (CC).",
+          "performance_or_health_indicator": "Its bidirectional discrepancy across univariate and multivariate analysis highlights the advantage of multivariate analysis in capturing complex biomarker interactions and identifying diagnostic patterns not detectable through univariate analysis alone. Included as a critical feature in a machine learning diagnostic model."
+        }
+      ]
+    }
+  }
+]

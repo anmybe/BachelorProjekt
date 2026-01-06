@@ -1,0 +1,736 @@
+[
+  {
+    "title": "pmc Cell Rep Med Cell Rep Med Cell Reports Medicine 2666-3791 Elsevier 10121104 S2666-3791(23)00148-9 10.1016/j.xcrm.2023.101034 101034 Article Nucleic acid biomarkers of immune response and cell and tissue damage in children with COVID-19 and MIS-C Loy Conor J. 1 12 15 Sotomayor-Gonzalez Alicia 2 15 Servellita Venice 2 15 Nguyen Jenny 2 Lenz Joan 1 Bhattacharya Sanchita 4 Williams Meagan E. 5 Cheng Alexandre P. 1 Bliss Andrew 1 Saldhi Prachi 2 Brazer Noah 2 Streithorst Jessica 2 Suslovic William 5 Hsieh Charlotte J. 3 Bahar Burak 5 Wood Nathan 11 Foresythe Abiodun 2 Gliwa Amelia 2 Bhakta Kushmita 6 7 Perez Maria A. 6 7 Hussaini Laila 6 7 Anderson Evan J. 6 7 8 Chahroudi Ann 6 7 Delaney Meghan 5 9 Butte Atul J. 4 DeBiasi Roberta L. 5 9 Rostad Christina A. 6 7 De Vlaminck Iwijn id93@cornell.edu 1 13 15 \u2217 Chiu Charles Y. charles.chiu@ucsf.edu 2 10 14 15 16 \u2217\u2217 1 Meinig School of Biomedical Engineering, Cornell University, Ithaca, NY 14850, USA 2 Department of Laboratory Medicine, University of California, San Francisco, San Francisco, CA 94143, USA 3 Division of Pediatric Infectious Diseases and Global Health, Department of Pediatrics, University of California San Francisco, Oakland, CA 94609 4 Bakar Computational Health Sciences Institute, University of California, San Francisco, San Francisco, CA 94143, USA 5 Children\u2019s National Hospital, Washington, DC 20010, USA 6 Department of Pediatrics, Emory University School of Medicine, Atlanta, GA, 30322, USA 7 Children\u2019s Healthcare of Atlanta, Atlanta, GA, 30322, USA 8 Department of Medicine, Emory University School of Medicine, Atlanta, GA 30307, USA 9 The George Washington University School of Medicine, Washington, DC 20052, USA 10 Division of Infectious Diseases, Department of Medicine, University of California, San Francisco, San Francisco, CA 94158, USA 11 UCSF Benioff Children's Hospital, Oakland, CA 94609, USA \u2217 Corresponding author id93@cornell.edu \u2217\u2217 Corresponding author charles.chiu@ucsf.edu 12 Twitter: @LoyConor 13 Twitter: @IwijnDeVlaminck 14 Twitter: @cychiu98 , @ChiuLab_UCSF 15 These authors contributed equally 16 Lead contact 21 4 2023 20 6 2023 21 4 2023 4 6 101034 15 7 2022 28 11 2022 11 4 2023 \u00a9 2023 The Authors 2023 https://creativecommons.org/licenses/by-nc-nd/4.0/ This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/). Summary Differential host responses in coronavirus disease 2019 (COVID-19) and multisystem inflammatory syndrome in children (MIS-C) remain poorly characterized. Here, we use next-generation sequencing to longitudinally analyze blood samples from pediatric patients with COVID-19 or MIS-C across three hospitals. Profiling of plasma cell-free nucleic acids uncovers distinct signatures of cell injury and death between COVID-19 and MIS-C, with increased multiorgan involvement in MIS-C encompassing diverse cell types, including endothelial and neuronal cells, and an enrichment of pyroptosis-related genes. Whole-blood RNA profiling reveals upregulation of similar pro-inflammatory pathways in COVID-19 and MIS-C but also MIS-C-specific downregulation of T cell-associated pathways. Profiling of plasma cell-free RNA and whole-blood RNA in paired samples yields different but complementary signatures for each disease state. Our work provides a systems-level view of immune responses and tissue damage in COVID-19 and MIS-C and informs future development of new disease biomarkers. Graphical abstract Highlights \u2022 Patients with MIS-C and COVID-19 have distinct cell injury and host response profiles \u2022 Patients with MIS-C and COVID-19 have elevated solid-organ-derived cell-free DNA \u2022 Patients with MIS-C have increased endothelium- and neuron-derived cell-free RNA \u2022 Cell-free and whole-blood RNA provide complementary measurements of patient health Loy et al. use cell-free RNA, whole-blood RNA, and cell-free DNA sequencing to characterize distinct host response and cellular injury profiles in pediatric patients with MIS-C and/or COVID-19. This study highlights the complementary information from cell-free and whole-blood RNA analyses, with broad implications for future liquid biopsy applications. Keywords SARS-CoV-2 coronavirus disease 2019 cell-free DNA cell-free RNA whole-blood RNA RNA sequencing RNA-seq clinical severity multisystem inflammatory syndrome in children nucleic acid sequencing DNA damage cell damage tissue damage host response signaling pathways disease biomarkers immune response systems biology bisulfite sequencing pediatric Published: April 21, 2023 Introduction At the onset of the coronavirus disease 2019 (COVID-19) pandemic, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) was thought to only cause mild or asymptomatic infection in children. Large-scale surveillance studies have since revealed pediatric cases of severe COVID-19-associated pneumonia occurring throughout the pandemic, especially in children with underlying comorbidities. 1 , 2 Children also are at risk for the post-infectious multisystem inflammatory syndrome in children (MIS-C) associated with COVID-19, which can manifest as severe disease with systemic hyperinflammation and multiorgan involvement. 3 Diagnosis of MIS-C currently relies on clinical symptoms, and the pathogenesis of MIS-C is incompletely understood. Many MIS-C cases were initially misdiagnosed as Kawasaki disease (KD), 4 another systemic inflammatory syndrome, because of overlapping clinical features, including fever, hyperinflammation, mucocutaneous involvement, and vascular endothelial dysfunction. Subsequent studies have demonstrated distinct clinical 5 and immunological 6 phenotypes associated with MIS-C compared with KD. Thus, a better understanding of the pathogenesis of MIS-C is critical to improve clinical diagnosis and inform targeted interventions. Initial characterization by proteomics and RNA sequencing revealed that MIS-C has an inflammatory profile similar to KD and severe COVID-19 but with key differences, including specific increases in interferon \u03b3 (IFN\u03b3), interleukin-6 (IL-6), IL-17, IL-10, alarmin-related proteins, and other pro-inflammatory factors. 7 , 8 , 9 Autoantibody profiling revealed a unique autoantigen profile targeting organs often injured during MIS-C, but the organ and tissue damage has not yet been quantified on a system-wide level. 8 Immune cell profiling showed that MIS-C is associated with an expansion of specific subsets of natural killer (NK) cells, T cells, and B cells, 8 , 10 and gene expression profiling showed that a high fraction (\u223c24%) of T cells in patients with MIS-C are T cell receptor beta variable 11-2 (TRBV11-2) positive. 10 , 11 , 12 T cell receptor repertoire analyses have led to the hypothesis that the SARS-CoV-2 spike protein has a superantigen effect, causing T cell dysregulation that contributes to the development of MIS-C. 12 Finally, flow cytometry analyses have demonstrated that children with MIS-C have reduced virus-specific CD4 + and CD8 + T cells compared with children with COVID-19 and controls. 13 Despite these prior studies, much remains unclear about the pathogenesis of MIS-C, and there is a lack of biomarkers that could be leveraged to develop diagnostic and prognostic assays. Here we performed unbiased profiling of whole-blood cellular RNA (wbRNA), plasma cell-free RNA (cfRNA), and methylated plasma cell-free DNA (cfDNA) from 205 pediatric patients diagnosed with COVID-19 or MIS-C and 23 controls from 3 pediatric hospital systems in the United States. Longitudinal sampling of these blood analytes enables a complementary and systems-level view of immune responses and cell/tissue damage associated with MIS-C and COVID-19.",
+    "document_source_id": "37279751",
+    "analysis_date": "2025-12-10",
+    "extracted_data": {
+      "document_summary": "This longitudinal study systematically investigated distinct host responses, cellular injury, and tissue damage in pediatric COVID-19 and Multisystem Inflammatory Syndrome in Children (MIS-C) through next-generation sequencing of plasma cell-free RNA (cfRNA), cell-free DNA (cfDNA), and whole-blood RNA (wbRNA) from 228 patients. It revealed unique molecular signatures distinguishing MIS-C from COVID-19, including increased multiorgan involvement and pyroptosis-related gene enrichment in MIS-C, alongside shared and distinct pro-inflammatory pathways. The analysis highlighted the complementary insights provided by cfRNA and wbRNA profiling, demonstrating varying biomarker trajectories, such as persistent immune dysregulation in COVID-19 compared to MIS-C resolution.",
+      "treatment_details": {
+        "therapy_type": "Observational study characterizing and differentiating disease states of pediatric COVID-19 and Multisystem Inflammatory Syndrome in Children (MIS-C) through comprehensive molecular profiling.",
+        "dose_specificity": "This study involved longitudinal analysis of 402 blood samples from 228 pediatric patients (MIS-C, COVID-19) and controls, utilizing next-generation sequencing of plasma cell-free RNA (cfRNA), cell-free DNA (cfDNA), and whole-blood RNA (wbRNA). Samples were collected at acute, 1-month, and 3-month post-hospitalization time points. While some patients received intravenous immunoglobulin (IVIg), it was not a tested intervention, and its administration was found not to significantly confound observed molecular differences. No therapeutic interventions or dose-response comparisons were conducted or reported."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "Plasma cell-free nucleic acids (signatures of cell injury and death)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Next-generation sequencing",
+          "measured_effect": {
+            "direction_of_change": "Increased",
+            "magnitude_quantification": "Distinct signatures of cell injury and death between COVID-19 and MIS-C, with increased multiorgan involvement in MIS-C encompassing diverse cell types."
+          },
+          "core_biological_function": "Indicators of cell injury and death, reflecting tissue damage and multiorgan involvement.",
+          "relevant_activity_context": "Pediatric patients with MIS-C compared to COVID-19.",
+          "performance_or_health_indicator": "Differentiates cell injury and death profiles between MIS-C and COVID-19, indicating heightened severity and multiorgan involvement in MIS-C."
+        },
+        {
+          "biomarker_name": "Pro-inflammatory pathways",
+          "measured_tissue_or_fluid": "Whole blood",
+          "activity_type": "RNA profiling",
+          "measured_effect": {
+            "direction_of_change": "Upregulation",
+            "magnitude_quantification": "Upregulation of similar pro-inflammatory pathways in COVID-19 and MIS-C."
+          },
+          "core_biological_function": "Mediates immune response and inflammation.",
+          "relevant_activity_context": "Pediatric patients with COVID-19 and MIS-C.",
+          "performance_or_health_indicator": "Indicates systemic inflammatory response present in both COVID-19 and MIS-C."
+        },
+        {
+          "biomarker_name": "T cell-associated pathways",
+          "measured_tissue_or_fluid": "Whole blood",
+          "activity_type": "RNA profiling",
+          "measured_effect": {
+            "direction_of_change": "Downregulation",
+            "magnitude_quantification": "MIS-C-specific downregulation of T cell-associated pathways."
+          },
+          "core_biological_function": "Involved in T cell mediated immunity and immune regulation.",
+          "relevant_activity_context": "Pediatric patients with MIS-C.",
+          "performance_or_health_indicator": "Suggests specific T cell dysregulation or suppression characteristic of MIS-C."
+        },
+        {
+          "biomarker_name": "Pyroptosis-related genes",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Gene expression profiling (via cell-free nucleic acids) and Gene Transcript (Enrichment)",
+          "measured_effect": {
+            "direction_of_change": "Enrichment",
+            "magnitude_quantification": "An enrichment of pyroptosis-related genes observed in MIS-C."
+          },
+          "core_biological_function": "Associated with programmed lytic cell death (pyroptosis).",
+          "relevant_activity_context": "Pediatric patients with MIS-C; MIS-C disease state.",
+          "performance_or_health_indicator": "Suggests a specific cell death mechanism contributing to the pathophysiology and multiorgan involvement in MIS-C; Supports a critical role of pyroptosis and endothelial cells in MIS-C pathogenesis, explaining clinical overlap with conditions like Kawasaki disease."
+        },
+        {
+          "biomarker_name": "Solid-organ-derived cell-free DNA",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Quantification and Concentration",
+          "measured_effect": {
+            "direction_of_change": "Elevated",
+            "magnitude_quantification": "Elevated in patients with MIS-C and COVID-19; significantly elevated in pediatric acute MIS-C and pediatric moderate to severe COVID-19 compared with controls; increased in acute MIS-C relative to acute moderate to severe COVID-19 (p = 0.12, not significant)."
+          },
+          "core_biological_function": "Indicates cell damage and death originating from solid organs; indicates organ-specific tissue damage and cell death.",
+          "relevant_activity_context": "Pediatric patients with MIS-C and COVID-19; pediatric acute MIS-C and pediatric moderate to severe COVID-19.",
+          "performance_or_health_indicator": "Signifies the presence and level of solid organ damage in both MIS-C and COVID-19; useful for identifying tissue damage and suggests increased solid organ involvement in MIS-C."
+        },
+        {
+          "biomarker_name": "Endothelium-derived cell-free RNA",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Quantification and Concentration",
+          "measured_effect": {
+            "direction_of_change": "Increased/Elevated",
+            "magnitude_quantification": "Patients with MIS-C have increased endothelium- and neuron-derived cell-free RNA. Elevated levels observed in the high-CRP patient group (CRP > 18 mg/L)."
+          },
+          "core_biological_function": "Indicates damage or activity of endothelial cells; indicates endothelial cell injury or death.",
+          "relevant_activity_context": "Pediatric patients with MIS-C; patients with high C-reactive protein (CRP) levels.",
+          "performance_or_health_indicator": "Points to specific endothelial damage in MIS-C, contributing to multiorgan involvement and vascular dysfunction; consistent with corresponding tissue of origin for CRP, indicating endothelial cell damage in inflammatory states."
+        },
+        {
+          "biomarker_name": "Neuron-derived cell-free RNA",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Quantification",
+          "measured_effect": {
+            "direction_of_change": "Increased",
+            "magnitude_quantification": "Patients with MIS-C have increased endothelium- and neuron-derived cell-free RNA."
+          },
+          "core_biological_function": "Indicates damage or activity of neuronal cells.",
+          "relevant_activity_context": "Pediatric patients with MIS-C.",
+          "performance_or_health_indicator": "Indicates specific neuronal damage in MIS-C, suggesting neurological involvement."
+        },
+        {
+          "biomarker_name": "cfRNA from neutrophils, kidney epithelial cells, thymocytes, and solid-organ-derived cell types",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Gene Transcript",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly increased (p < 0.05 by Mann-Whitney U test) in moderate to severe COVID-19 compared with controls, with further increased contributions in MIS-C."
+          },
+          "core_biological_function": "Indicates cell-of-origin contribution to circulating cell-free RNA, reflecting tissue damage or active cellular processes in various organs.",
+          "relevant_activity_context": "Moderate to severe COVID-19 and Multisystem Inflammatory Syndrome in Children (MIS-C).",
+          "performance_or_health_indicator": "Suggests widespread cellular damage or altered cellular processes in multiple organ systems in both moderate to severe COVID-19 and MIS-C."
+        },
+        {
+          "biomarker_name": "cfRNA from endothelial cells and neuronal schwann cells",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Gene Transcript",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significant increases (p < 0.05 by Mann-Whitney U test) specifically in children with MIS-C."
+          },
+          "core_biological_function": "Indicates cell-of-origin contribution to circulating cell-free RNA, reflecting damage or active cellular processes in endothelial and neuronal tissues.",
+          "relevant_activity_context": "Multisystem Inflammatory Syndrome in Children (MIS-C).",
+          "performance_or_health_indicator": "Highlights specific endothelial and neuronal involvement or damage unique to MIS-C."
+        },
+        {
+          "biomarker_name": "Platelet cfRNA",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Gene Transcript",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Decreased in MIS-C and moderate to severe COVID-19 compared with donor controls."
+          },
+          "core_biological_function": "Indicates the contribution of platelets to circulating cell-free RNA, reflecting platelet activity, consumption, or altered hemostasis.",
+          "relevant_activity_context": "Multisystem Inflammatory Syndrome in Children (MIS-C) and moderate to severe COVID-19.",
+          "performance_or_health_indicator": "Suggests altered platelet activity, consumption, or integrity in both MIS-C and moderate to severe COVID-19."
+        },
+        {
+          "biomarker_name": "Intestinal secretory cell-derived cfRNA",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Gene Transcript",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly higher in samples from patients with MIS-C versus controls."
+          },
+          "core_biological_function": "Indicates the contribution of intestinal secretory cells to circulating cell-free RNA, reflecting intestinal damage or active processes.",
+          "relevant_activity_context": "Multisystem Inflammatory Syndrome in Children (MIS-C).",
+          "performance_or_health_indicator": "Suggests specific intestinal involvement, damage, or dysregulation in MIS-C patients."
+        },
+        {
+          "biomarker_name": "cfRNA Cell Type of Origin (CTO) diversity (Simpson's index)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Quantitative Index and Biomarker measurement (cfRNA analysis)",
+          "measured_effect": {
+            "direction_of_change": "higher, persisted then returned to baseline",
+            "magnitude_quantification": "Significantly greater (p < 0.05 by Mann-Whitney U test) in acute MIS-C versus convalescent MIS-C (>=1 month post hospitalization) or controls. Persisted at 1 month but returned to baseline 3 months post hospitalization or later."
+          },
+          "core_biological_function": "Reflects the breadth and variety of cell types contributing to circulating cell-free RNA, serving as an indicator of multi-organ involvement or widespread tissue damage.",
+          "relevant_activity_context": "Acute Multisystem Inflammatory Syndrome in Children (MIS-C); longitudinal sampling in MIS-C and COVID-19 patients at 1 month and 3 months post hospitalization.",
+          "performance_or_health_indicator": "Higher diversity in acute MIS-C indicates more extensive or multi-systemic cellular damage or dysregulation compared to convalescent stages or healthy controls; consistent with generally accepted time frames of recovery after MIS-C, indicating resolution of specific cellular activity/damage."
+        },
+        {
+          "biomarker_name": "cfRNA Cell Type of Origin (CTO) Bray-Curtis dissimilarity",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Quantitative Index",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Within controls: mean dissimilarity = 0.19. Between controls and acute MIS-C: mean dissimilarity = 0.56 (p < 0.05). Between controls and acute moderate to severe COVID-19: mean dissimilarity = 0.38 (p < 0.05)."
+          },
+          "core_biological_function": "Measures the compositional dissimilarity of cell type contributions to cfRNA between groups, indicating how distinct the cfRNA profiles are.",
+          "relevant_activity_context": "Acute Multisystem Inflammatory Syndrome in Children (MIS-C) and acute moderate to severe COVID-19 compared to controls.",
+          "performance_or_health_indicator": "Higher dissimilarity values indicate a significant divergence of cfRNA profiles from healthy controls, reflecting disease-specific cellular changes and damage. The higher dissimilarity in MIS-C (0.56) compared to COVID-19 (0.38) suggests more profound or distinct cellular involvement in MIS-C."
+        },
+        {
+          "biomarker_name": "AKAP12, CNN3, FZD4 (endothelial cell markers)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Gene Transcript (Differentially Abundant Gene)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Elevated levels, identified using an absolute log2 fold change cutoff of 1.5 and a Benjamini-Hochberg adjusted p-value of less than 0.01."
+          },
+          "core_biological_function": "Markers for endothelial cells, involved in cell signaling, adhesion, and vascular integrity.",
+          "relevant_activity_context": "Acute Multisystem Inflammatory Syndrome in Children (MIS-C).",
+          "performance_or_health_indicator": "Indicates endothelial damage or dysfunction, contributing to the vasculitis and microvascular pathology characteristic of acute MIS-C."
+        },
+        {
+          "biomarker_name": "GAS7, FEZ1, VAT1 (neuronal markers)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Gene Transcript (Differentially Abundant Gene)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Elevated levels, identified using an absolute log2 fold change cutoff of 1.5 and a Benjamini-Hochberg adjusted p-value of less than 0.01."
+          },
+          "core_biological_function": "Markers for neuronal cells, involved in processes like neuronal differentiation, growth, and synaptic function.",
+          "relevant_activity_context": "Acute Multisystem Inflammatory Syndrome in Children (MIS-C).",
+          "performance_or_health_indicator": "Suggests neuronal involvement or damage in acute MIS-C, potentially contributing to neurological manifestations."
+        },
+        {
+          "biomarker_name": "FSCN1, AFAP1L1, ITGA9 (actin-related genes)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Gene Transcript (Differentially Abundant Gene)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Elevated levels, identified using an absolute log2 fold change cutoff of 1.5 and a Benjamini-Hochberg adjusted p-value of less than 0.01."
+          },
+          "core_biological_function": "Genes involved in actin cytoskeleton organization and dynamics, essential for cell shape, motility, and adhesion.",
+          "relevant_activity_context": "Acute Multisystem Inflammatory Syndrome in Children (MIS-C).",
+          "performance_or_health_indicator": "Indicates active cellular remodeling, migration, or damage processes involving the actin cytoskeleton, characteristic of acute MIS-C."
+        },
+        {
+          "biomarker_name": "TGM2 (autoantigen)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Gene Transcript (Differentially Abundant Gene)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Elevated levels, identified using an absolute log2 fold change cutoff of 1.5 and a Benjamini-Hochberg adjusted p-value of less than 0.01."
+          },
+          "core_biological_function": "Transglutaminase 2, a multifunctional enzyme involved in protein cross-linking and an autoantigen implicated in celiac disease.",
+          "relevant_activity_context": "Acute Multisystem Inflammatory Syndrome in Children (MIS-C).",
+          "performance_or_health_indicator": "Suggests altered protein cross-linking processes and potential autoantibody responses in acute MIS-C, indicating an autoimmune component."
+        },
+        {
+          "biomarker_name": "IFI6, IFIT1, IFI44L, IFI27, IFITM1 (IFN genes)",
+          "measured_tissue_or_fluid": "Plasma and Whole Blood",
+          "activity_type": "Gene Transcript (Differentially Abundant Gene) and Gene Transcript (Differential Expression)",
+          "measured_effect": {
+            "direction_of_change": "higher / overlapping differential expression",
+            "magnitude_quantification": "Elevated levels in plasma, identified using an absolute log2 fold change cutoff of 1.5 and a Benjamini-Hochberg adjusted p-value of less than 0.01. IFI6, IFI44L, IFI27 are top upregulated in COVID-19 compared with MIS-C (wbRNA). IFI6, IFI44L are among 29 differentially expressed genes/pathways that overlapped between wbRNA and cfRNA when comparing MIS-C with moderate to severe COVID-19."
+          },
+          "core_biological_function": "Interferon-stimulated genes, key components of the innate antiviral immune response; associated with antiviral type 1 IFN response pathway; associated with COVID-19 pathogenesis.",
+          "relevant_activity_context": "Acute moderate to severe COVID-19; COVID-19 disease state compared with MIS-C; comparison of MIS-C and moderate to severe COVID-19.",
+          "performance_or_health_indicator": "Indicates a strong interferon-driven antiviral response, distinguishing COVID-19 pathogenesis; potential target biomarker to discriminate among MIS-C, COVID-19, and other hyperinflammatory conditions; provides insights into differential pathogenesis and potential diagnostic markers for MIS-C and COVID-19."
+        },
+        {
+          "biomarker_name": "RSAD2, MX1, CMPK2, LY6E (antiviral genes)",
+          "measured_tissue_or_fluid": "Plasma and Whole Blood",
+          "activity_type": "Gene Transcript (Differentially Abundant Gene) and Gene Transcript (Differential Expression)",
+          "measured_effect": {
+            "direction_of_change": "higher / overlapping differential expression",
+            "magnitude_quantification": "Elevated levels in plasma, identified using an absolute log2 fold change cutoff of 1.5 and a Benjamini-Hochberg adjusted p-value of less than 0.01. RSAD2, LY6E, MX1 are among 29 differentially expressed genes/pathways that overlapped between wbRNA and cfRNA when comparing MIS-C with moderate to severe COVID-19."
+          },
+          "core_biological_function": "Genes involved in direct antiviral defense mechanisms within cells; associated with COVID-19 pathogenesis.",
+          "relevant_activity_context": "Acute moderate to severe COVID-19; comparison of MIS-C and moderate to severe COVID-19.",
+          "performance_or_health_indicator": "Signifies an active and robust host antiviral response in COVID-19 patients; provides insights into differential pathogenesis and potential diagnostic markers for MIS-C and COVID-19."
+        },
+        {
+          "biomarker_name": "CXCL5, CXCL3 (chemokine genes)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Gene Transcript (Differentially Abundant Gene)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Elevated levels, identified using an absolute log2 fold change cutoff of 1.5 and a Benjamini-Hochberg adjusted p-value of less than 0.01."
+          },
+          "core_biological_function": "Chemokines involved in attracting and activating immune cells, particularly neutrophils, to sites of inflammation and infection.",
+          "relevant_activity_context": "Acute moderate to severe COVID-19.",
+          "performance_or_health_indicator": "Indicates heightened inflammatory signaling and immune cell recruitment, consistent with the immune dysregulation in COVID-19."
+        },
+        {
+          "biomarker_name": "OR2B6, ENKUR (ciliated olfactory cell markers)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Gene Transcript (Differentially Abundant Gene)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Elevated levels, identified using an absolute log2 fold change cutoff of 1.5 and a Benjamini-Hochberg adjusted p-value of less than 0.01."
+          },
+          "core_biological_function": "Markers for ciliated olfactory cells, involved in smell perception and epithelial functions.",
+          "relevant_activity_context": "Acute moderate to severe COVID-19.",
+          "performance_or_health_indicator": "Suggests damage or involvement of ciliated olfactory cells, correlating with anosmia and other olfactory dysfunctions common in COVID-19."
+        },
+        {
+          "biomarker_name": "Endothelial cell migration (Gene Ontology group CPM score)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Gene Set Enrichment Score",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Cumulative CPM score significantly increased in acute MIS-C (p < 0.05 by Mann-Whitney U test) compared to controls."
+          },
+          "core_biological_function": "Represents the collective activity of genes involved in the movement and remodeling of endothelial cells, crucial for angiogenesis and vascular repair/pathology.",
+          "relevant_activity_context": "Acute Multisystem Inflammatory Syndrome in Children (MIS-C).",
+          "performance_or_health_indicator": "Suggests active endothelial cell pathology, possibly indicating vascular inflammation, damage, or dysregulated repair mechanisms in MIS-C."
+        },
+        {
+          "biomarker_name": "Myeloid cell differentiation (Gene Ontology group CPM score)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Gene Set Enrichment Score",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Scores increased in acute MIS-C and moderate to severe COVID-19 (p < 0.05 by Mann-Whitney U test) compared to controls."
+          },
+          "core_biological_function": "Represents the collective activity of genes involved in the development and maturation of myeloid immune cells (e.g., neutrophils, monocytes), central to innate immunity and inflammation.",
+          "relevant_activity_context": "Acute Multisystem Inflammatory Syndrome in Children (MIS-C) and moderate to severe COVID-19.",
+          "performance_or_health_indicator": "Indicates active myeloid cell involvement and dysregulation, contributing to inflammation and immune response in both conditions."
+        },
+        {
+          "biomarker_name": "ADAMTS2",
+          "measured_tissue_or_fluid": "Whole Blood",
+          "activity_type": "Gene Transcript (Differentially Expressed Gene), Gene Transcript (Persistence), Gene transcript level (wbRNA via RNA-Seq)",
+          "measured_effect": {
+            "direction_of_change": "higher / persistence of expression / returned to baseline in MIS-C; remained elevated in COVID-19",
+            "magnitude_quantification": "Elevated levels as a top shared differentially expressed gene (DESeq2, Benjamini-Hochberg-corrected p < 0.01, |Log2FoldChange| > 1.5). Levels were elevated during the post-acute stage of MIS-C and COVID-19, returning to baseline in MIS-C after 1 month but remaining elevated in COVID-19 at 1 month post hospitalization. Exhibits persistence of gene expression."
+          },
+          "core_biological_function": "A metalloprotease involved in the processing of procollagen and extracellular matrix remodeling; reflects cellular activity.",
+          "relevant_activity_context": "Post-acute Multisystem Inflammatory Syndrome in Children (MIS-C) and COVID-19; longitudinal sampling in MIS-C and COVID-19 patients at 1 month post hospitalization.",
+          "performance_or_health_indicator": "Implicated in severe COVID-19, suggests ongoing extracellular matrix dysregulation or tissue remodeling in both conditions, with persistent elevation in COVID-19 indicating prolonged pathology compared to MIS-C; may indicate persistent immune dysregulation and post-acute sequelae of SARS-CoV-2 infection (\"long COVID\") in COVID-19 patients, distinguishing them from MIS-C recovery; may be a useful target biomarker to discriminate among MIS-C, COVID-19, and other hyperinflammatory conditions due to persistence of expression."
+        },
+        {
+          "biomarker_name": "CD177",
+          "measured_tissue_or_fluid": "Whole Blood",
+          "activity_type": "Gene Transcript (Differentially Expressed Gene)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Elevated levels as a top shared differentially expressed gene (DESeq2, Benjamini-Hochberg-corrected p < 0.01, |Log2FoldChange| > 1.5). Reported to be upregulated in MIS-C and COVID-19 patients. Top upregulated in MIS-C compared with COVID-19."
+          },
+          "core_biological_function": "A neutrophil activator, associated with neutrophil function and inflammation; related to multiple pathways, including cell-to-cell communication.",
+          "relevant_activity_context": "Multisystem Inflammatory Syndrome in Children (MIS-C) and COVID-19; MIS-C disease state, compared with COVID-19.",
+          "performance_or_health_indicator": "Indicates heightened neutrophil activation or involvement in both MIS-C and COVID-19, contributing to systemic inflammation; provides insights into differential pathogenesis of MIS-C."
+        },
+        {
+          "biomarker_name": "ISG15, SIGLEC1",
+          "measured_tissue_or_fluid": "Whole Blood",
+          "activity_type": "Gene Transcript (Differentially Expressed Gene)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly upregulated in COVID-19 compared to controls (DESeq2, Benjamini-Hochberg-corrected p < 0.01, |Log2FoldChange| > 1.5), but not significantly upregulated in MIS-C versus controls. Top upregulated in COVID-19 compared with MIS-C. Shows differences in levels of gene expression between conditions."
+          },
+          "core_biological_function": "ISG15 (Interferon-stimulated gene 15) is involved in antiviral responses. SIGLEC1 (Sialic acid-binding Ig-like lectin 1) is a macrophage-associated protein involved in viral recognition and antigen presentation; related to antiviral type 1 IFN response pathway.",
+          "relevant_activity_context": "COVID-19 versus controls, distinct from MIS-C; COVID-19 disease state, compared with MIS-C.",
+          "performance_or_health_indicator": "Indicates a distinct and strong interferon-driven antiviral and macrophage activation signature specific to COVID-19, serving as a differentiator from MIS-C; potential target biomarker to discriminate among MIS-C, COVID-19, and other hyperinflammatory conditions."
+        },
+        {
+          "biomarker_name": "TRBV11-2",
+          "measured_tissue_or_fluid": "Whole Blood",
+          "activity_type": "Gene Transcript (Differentially Expressed Gene)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "More highly expressed in MIS-C than in COVID-19 versus controls (DESeq2, Benjamini-Hochberg-corrected p < 0.01, |Log2FoldChange| > 1.5). Differences observed at the post-acute time point, but not at 1 month or 3 months or later. Upregulated in MIS-C compared to COVID-19 or controls at post-acute time point. No significant differences observed at 1 month or 3 months post-acute time point."
+          },
+          "core_biological_function": "A T-cell receptor beta variable gene, indicating specific T-cell clonal expansion or activation in the immune response; T-cell receptor gene, indicating T-cell activity and immune response.",
+          "relevant_activity_context": "Multisystem Inflammatory Syndrome in Children (MIS-C) versus COVID-19 or controls, particularly at the post-acute stage; MIS-C disease state compared with COVID-19 and controls, at post-acute time points.",
+          "performance_or_health_indicator": "Highly expressed in T cells of most MIS-C patients but not COVID-19, suggesting a distinct T-cell mediated immunopathology specific to MIS-C; potential target biomarker to discriminate between MIS-C and other hyperinflammatory conditions."
+        },
+        {
+          "biomarker_name": "KLRF1",
+          "measured_tissue_or_fluid": "Whole Blood (wbRNA)",
+          "activity_type": "Gene Transcript",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Significantly decreased in COVID-19 and MIS-C compared with controls. Observed at post-acute time point; returned to baseline in MIS-C 1 month post-hospitalization but remained decreased in COVID-19."
+          },
+          "core_biological_function": "NK cell surface receptor, involved in immune response.",
+          "relevant_activity_context": "COVID-19 and MIS-C disease states compared with controls, longitudinally post-hospitalization.",
+          "performance_or_health_indicator": "Consistent with lower expression reported in severe COVID-19. Potential target biomarker to discriminate between MIS-C, COVID-19, and other hyperinflammatory conditions."
+        },
+        {
+          "biomarker_name": "KLRB1",
+          "measured_tissue_or_fluid": "Whole Blood",
+          "activity_type": "Gene Transcript, Gene Transcript (Persistence), Gene transcript level (wbRNA via RNA-Seq)",
+          "measured_effect": {
+            "direction_of_change": "lower / persistence of expression / returned to baseline in MIS-C; remained decreased in COVID-19",
+            "magnitude_quantification": "Significantly decreased in COVID-19 and MIS-C compared with controls. Observed at post-acute time point; returned to baseline in MIS-C 1 month post-hospitalization but remained decreased in COVID-19. Exhibits persistence of gene expression. Elevated wbRNA levels returned to baseline in MIS-C at 1 month post hospitalization but not in COVID-19 at 1 month post hospitalization."
+          },
+          "core_biological_function": "NK cell surface receptor, involved in immune response; reflects cellular activity.",
+          "relevant_activity_context": "COVID-19 and MIS-C disease states compared with controls, longitudinally post-hospitalization; longitudinal sampling in MIS-C and COVID-19 patients at 1 month post hospitalization.",
+          "performance_or_health_indicator": "Consistent with lower expression reported in severe COVID-19. Potential target biomarker to discriminate between MIS-C, COVID-19, and other hyperinflammatory conditions; may indicate persistent immune dysregulation and post-acute sequelae of SARS-CoV-2 infection (\"long COVID\") in COVID-19 patients, distinguishing them from MIS-C recovery; may be a useful target biomarker to discriminate among MIS-C, COVID-19, and other hyperinflammatory conditions due to persistence of expression."
+        },
+        {
+          "biomarker_name": "IFIT2",
+          "measured_tissue_or_fluid": "Whole Blood (wbRNA)",
+          "activity_type": "Gene Transcript",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Top upregulated in COVID-19 compared with MIS-C."
+          },
+          "core_biological_function": "Related to antiviral type 1 IFN response pathway.",
+          "relevant_activity_context": "COVID-19 disease state, compared with MIS-C.",
+          "performance_or_health_indicator": "Potential target biomarker to discriminate among MIS-C, COVID-19, and other hyperinflammatory conditions."
+        },
+        {
+          "biomarker_name": "IFIT3",
+          "measured_tissue_or_fluid": "Whole Blood (wbRNA)",
+          "activity_type": "Gene Transcript",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Top upregulated in COVID-19 compared with MIS-C."
+          },
+          "core_biological_function": "Related to antiviral type 1 IFN response pathway.",
+          "relevant_activity_context": "COVID-19 disease state, compared with MIS-C.",
+          "performance_or_health_indicator": "Potential target biomarker to discriminate among MIS-C, COVID-19, and other hyperinflammatory conditions."
+        },
+        {
+          "biomarker_name": "ITGA7",
+          "measured_tissue_or_fluid": "Whole Blood (wbRNA)",
+          "activity_type": "Gene Transcript",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Top upregulated in MIS-C compared with COVID-19."
+          },
+          "core_biological_function": "Related to multiple pathways, including cell-to-cell communication.",
+          "relevant_activity_context": "MIS-C disease state, compared with COVID-19.",
+          "performance_or_health_indicator": "Provides insights into differential pathogenesis of MIS-C."
+        },
+        {
+          "biomarker_name": "CDHR1",
+          "measured_tissue_or_fluid": "Whole Blood (wbRNA)",
+          "activity_type": "Gene Transcript",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Top upregulated in MIS-C compared with COVID-19."
+          },
+          "core_biological_function": "Related to multiple pathways, including cell-to-cell communication.",
+          "relevant_activity_context": "MIS-C disease state, compared with COVID-19.",
+          "performance_or_health_indicator": "Provides insights into differential pathogenesis of MIS-C."
+        },
+        {
+          "biomarker_name": "PGF",
+          "measured_tissue_or_fluid": "Whole Blood (wbRNA)",
+          "activity_type": "Gene Transcript",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Top upregulated in MIS-C compared with COVID-19."
+          },
+          "core_biological_function": "Related to multiple pathways, including cell-to-cell communication.",
+          "relevant_activity_context": "MIS-C disease state, compared with COVID-19.",
+          "performance_or_health_indicator": "Provides insights into differential pathogenesis of MIS-C."
+        },
+        {
+          "biomarker_name": "ERFE",
+          "measured_tissue_or_fluid": "Whole Blood (wbRNA)",
+          "activity_type": "Gene Transcript",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Top upregulated in MIS-C compared with COVID-19."
+          },
+          "core_biological_function": "Related to multiple pathways, including cell-to-cell communication.",
+          "relevant_activity_context": "MIS-C disease state, compared with COVID-19.",
+          "performance_or_health_indicator": "Provides insights into differential pathogenesis of MIS-C."
+        },
+        {
+          "biomarker_name": "MMP8",
+          "measured_tissue_or_fluid": "Whole Blood (wbRNA)",
+          "activity_type": "Gene Transcript",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Top upregulated in MIS-C compared with COVID-19."
+          },
+          "core_biological_function": "Related to multiple pathways, including cell-to-cell communication.",
+          "relevant_activity_context": "MIS-C disease state, compared with COVID-19.",
+          "performance_or_health_indicator": "Provides insights into differential pathogenesis of MIS-C."
+        },
+        {
+          "biomarker_name": "Total cfDNA",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Concentration and DNA concentration",
+          "measured_effect": {
+            "direction_of_change": "higher / correlated",
+            "magnitude_quantification": "Highest mean levels found in children with MIS-C (4.12 ng/\u00b5L, p < 0.03 by Mann-Whitney U test) compared with pediatric COVID-19, adult COVID-19, or controls. Subset of MIS-C patients (n=3) showed >10 ng/\u00b5L. Significantly higher mean levels in more severe pediatric and adult COVID-19 cases compared to nonsevere cases and controls (p < 0.05 by Mann-Whitney U test). Significant positive correlation with C-reactive protein (CRP) levels in the blood (Pearson correlation; R = 0.29, p = 0.049)."
+          },
+          "core_biological_function": "General indicator of cell death and tissue injury.",
+          "relevant_activity_context": "Children with MIS-C, pediatric and adult COVID-19 (severe vs. nonsevere), and controls; patients with MIS-C/COVID-19.",
+          "performance_or_health_indicator": "Indicates widespread tissue injury, useful for monitoring and quantification of tissue injury and cell death; mirrors systemic inflammation markers, indicating utility for evaluating general tissue injury."
+        },
+        {
+          "biomarker_name": "Innate immune cell types cfDNA",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Concentration",
+          "measured_effect": {
+            "direction_of_change": "elevated",
+            "magnitude_quantification": "Elevated levels in acute MIS-C and moderate to severe pediatric COVID-19 compared to all other groups, but difference was not significant."
+          },
+          "core_biological_function": "Indicates cellular turnover or death of innate immune cells.",
+          "relevant_activity_context": "Acute MIS-C and moderate to severe pediatric COVID-19.",
+          "performance_or_health_indicator": "Potentially indicates immune cell damage or turnover, but requires further significant findings."
+        },
+        {
+          "biomarker_name": "Eosinophil-derived cfDNA",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Concentration",
+          "measured_effect": {
+            "direction_of_change": "elevated",
+            "magnitude_quantification": "Elevated levels observed as part of extensive heterogeneity in TOO profiles in moderate to severe MIS-C cohort."
+          },
+          "core_biological_function": "Indicates eosinophil cell death or injury.",
+          "relevant_activity_context": "Moderate to severe MIS-C cohort.",
+          "performance_or_health_indicator": "Consistent with systemic inflammation and multi-organ involvement in MIS-C."
+        },
+        {
+          "biomarker_name": "Neutrophil-derived cfDNA",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Concentration",
+          "measured_effect": {
+            "direction_of_change": "elevated",
+            "magnitude_quantification": "Elevated levels observed as part of extensive heterogeneity in TOO profiles in moderate to severe MIS-C cohort."
+          },
+          "core_biological_function": "Indicates neutrophil cell death or injury.",
+          "relevant_activity_context": "Moderate to severe MIS-C cohort.",
+          "performance_or_health_indicator": "Consistent with systemic inflammation and multi-organ involvement in MIS-C."
+        },
+        {
+          "biomarker_name": "Erythroblast-derived cfDNA",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Concentration",
+          "measured_effect": {
+            "direction_of_change": "elevated",
+            "magnitude_quantification": "Elevated levels observed as part of extensive heterogeneity in TOO profiles in moderate to severe MIS-C cohort."
+          },
+          "core_biological_function": "Indicates erythroblast cell death or injury.",
+          "relevant_activity_context": "Moderate to severe MIS-C cohort.",
+          "performance_or_health_indicator": "Consistent with systemic inflammation and multi-organ involvement in MIS-C."
+        },
+        {
+          "biomarker_name": "Liver-derived cfDNA",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Concentration",
+          "measured_effect": {
+            "direction_of_change": "elevated / correlated",
+            "magnitude_quantification": "Elevated levels observed as part of extensive heterogeneity in TOO profiles in moderate to severe MIS-C cohort. Significant positive correlation with alanine transaminase (ALT) levels (Pearson correlation; R = 0.303, p = 0.036)."
+          },
+          "core_biological_function": "Indicates liver cell death or injury; reflects liver cell turnover and injury.",
+          "relevant_activity_context": "Moderate to severe MIS-C cohort; patients with MIS-C/COVID-19.",
+          "performance_or_health_indicator": "Consistent with systemic inflammation and multi-organ involvement in MIS-C; mirrors organ-specific clinical laboratory parameters, indicating utility for evaluating liver tissue injury."
+        },
+        {
+          "biomarker_name": "Heart-derived cfDNA",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Concentration",
+          "measured_effect": {
+            "direction_of_change": "elevated",
+            "magnitude_quantification": "Elevated levels observed as part of extensive heterogeneity in TOO profiles in moderate to severe MIS-C cohort."
+          },
+          "core_biological_function": "Indicates heart cell death or injury.",
+          "relevant_activity_context": "Moderate to severe MIS-C cohort.",
+          "performance_or_health_indicator": "Consistent with systemic inflammation and multi-organ involvement in MIS-C."
+        },
+        {
+          "biomarker_name": "Kidney-derived cfDNA",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Concentration",
+          "measured_effect": {
+            "direction_of_change": "elevated / correlated",
+            "magnitude_quantification": "Elevated levels observed as part of extensive heterogeneity in TOO profiles in moderate to severe MIS-C cohort. Significant positive correlation with creatinine levels (Pearson correlation; R = 0.40, p = 0.004)."
+          },
+          "core_biological_function": "Indicates kidney cell death or injury; reflects kidney cell turnover and injury.",
+          "relevant_activity_context": "Moderate to severe MIS-C cohort; patients with MIS-C/COVID-19.",
+          "performance_or_health_indicator": "Consistent with systemic inflammation and multi-organ involvement in MIS-C; mirrors organ-specific clinical laboratory parameters, indicating utility for evaluating kidney tissue injury."
+        },
+        {
+          "biomarker_name": "Lung-derived cfDNA",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Concentration",
+          "measured_effect": {
+            "direction_of_change": "elevated",
+            "magnitude_quantification": "Elevated levels observed as part of extensive heterogeneity in TOO profiles in moderate to severe MIS-C cohort."
+          },
+          "core_biological_function": "Indicates lung cell death or injury.",
+          "relevant_activity_context": "Moderate to severe MIS-C cohort.",
+          "performance_or_health_indicator": "Consistent with systemic inflammation and multi-organ involvement in MIS-C."
+        },
+        {
+          "biomarker_name": "Spleen-derived cfDNA",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Concentration",
+          "measured_effect": {
+            "direction_of_change": "elevated",
+            "magnitude_quantification": "Elevated levels observed as part of extensive heterogeneity in TOO profiles in moderate to severe MIS-C cohort."
+          },
+          "core_biological_function": "Indicates spleen cell death or injury.",
+          "relevant_activity_context": "Moderate to severe MIS-C cohort.",
+          "performance_or_health_indicator": "Consistent with systemic inflammation and multi-organ involvement in MIS-C."
+        },
+        {
+          "biomarker_name": "Colon-derived cfDNA",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Concentration",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "No observed differences between COVID-19 and MIS-C."
+          },
+          "core_biological_function": "Indicates colon cell death or injury.",
+          "relevant_activity_context": "Comparison between COVID-19 and MIS-C.",
+          "performance_or_health_indicator": "Lack of significant difference suggests no specific colon involvement differentiating these diseases in this context."
+        },
+        {
+          "biomarker_name": "Mitochondrial cfDNA",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Concentration and DNA measurement (sequencing-based estimates of short mitochondrial DNA molecules)",
+          "measured_effect": {
+            "direction_of_change": "lower / significant reduction / decrease",
+            "magnitude_quantification": "Significant reduction observed in pediatric patients with MIS-C and COVID-19 (p < 0.04 by Mann-Whitney U test). Decrease in moderate to severe MIS-C or COVID-19, in contrast to qPCR findings."
+          },
+          "core_biological_function": "Indicates mitochondrial damage, dysfunction, or cell death; cell-free DNA derived from mitochondria, indicative of cellular processes like death or damage. Mitochondria are involved in cellular energy.",
+          "relevant_activity_context": "Pediatric patients with MIS-C and COVID-19; moderate to severe MIS-C or COVID-19, compared to controls.",
+          "performance_or_health_indicator": "Suggests mitochondrial involvement in the pathogenesis of MIS-C and COVID-19; potential marker for systemic inflammation and multi-organ involvement typically associated with MIS-C."
+        },
+        {
+          "biomarker_name": "BNIP3L",
+          "measured_tissue_or_fluid": "Plasma (cfRNA) and Whole Blood (wbRNA)",
+          "activity_type": "Gene Transcript (Correlation)",
+          "measured_effect": {
+            "direction_of_change": "positively correlated",
+            "magnitude_quantification": "Identified among 890 (99%) of 900 genes with significant positive correlations (Pearson coefficient, Benjamini-Hochberg-adjusted p < 0.05) between cfRNA and wbRNA."
+          },
+          "core_biological_function": "Associated with myeloid cell transcription.",
+          "relevant_activity_context": "Comparison of cfRNA and wbRNA profiles in patients with MIS-C, moderate to severe COVID-19, or controls.",
+          "performance_or_health_indicator": "Demonstrates complementary information between cfRNA and wbRNA, providing a more complete picture of host response and cell dynamics."
+        },
+        {
+          "biomarker_name": "HEMGN",
+          "measured_tissue_or_fluid": "Plasma (cfRNA) and Whole Blood (wbRNA)",
+          "activity_type": "Gene Transcript (Correlation)",
+          "measured_effect": {
+            "direction_of_change": "positively correlated",
+            "magnitude_quantification": "Identified among 890 (99%) of 900 genes with significant positive correlations (Pearson coefficient, Benjamini-Hochberg-adjusted p < 0.05) between cfRNA and wbRNA."
+          },
+          "core_biological_function": "Associated with myeloid cell transcription.",
+          "relevant_activity_context": "Comparison of cfRNA and wbRNA profiles in patients with MIS-C, moderate to severe COVID-19, or controls.",
+          "performance_or_health_indicator": "Demonstrates complementary information between cfRNA and wbRNA, providing a more complete picture of host response and cell dynamics."
+        },
+        {
+          "biomarker_name": "NFKBIA",
+          "measured_tissue_or_fluid": "Plasma (cfRNA) and Whole Blood (wbRNA)",
+          "activity_type": "Gene Transcript (Correlation)",
+          "measured_effect": {
+            "direction_of_change": "positively correlated",
+            "magnitude_quantification": "Identified among 890 (99%) of 900 genes with significant positive correlations (Pearson coefficient, Benjamini-Hochberg-adjusted p < 0.05) between cfRNA and wbRNA."
+          },
+          "core_biological_function": "Associated with myeloid cell transcription.",
+          "relevant_activity_context": "Comparison of cfRNA and wbRNA profiles in patients with MIS-C, moderate to severe COVID-19, or controls.",
+          "performance_or_health_indicator": "Demonstrates complementary information between cfRNA and wbRNA, providing a more complete picture of host response and cell dynamics."
+        },
+        {
+          "biomarker_name": "EPSTI1",
+          "measured_tissue_or_fluid": "Whole Blood (wbRNA) and Plasma (cfRNA)",
+          "activity_type": "Gene Transcript (Differential Expression)",
+          "measured_effect": {
+            "direction_of_change": "overlapping differential expression",
+            "magnitude_quantification": "One of 29 differentially expressed genes/pathways (DEGs/DAGs) that overlapped between wbRNA and cfRNA when comparing MIS-C with moderate to severe COVID-19."
+          },
+          "core_biological_function": "Associated with COVID-19 pathogenesis (previously reported).",
+          "relevant_activity_context": "Comparison of MIS-C and moderate to severe COVID-19.",
+          "performance_or_health_indicator": "Provides insights into differential pathogenesis and potential diagnostic markers for MIS-C and COVID-19."
+        },
+        {
+          "biomarker_name": "XAF1",
+          "measured_tissue_or_fluid": "Whole Blood (wbRNA) and Plasma (cfRNA)",
+          "activity_type": "Gene Transcript (Differential Expression)",
+          "measured_effect": {
+            "direction_of_change": "overlapping differential expression",
+            "magnitude_quantification": "One of 29 differentially expressed genes/pathways (DEGs/DAGs) that overlapped between wbRNA and cfRNA when comparing MIS-C with moderate to severe COVID-19."
+          },
+          "core_biological_function": "Associated with COVID-19 pathogenesis (previously reported).",
+          "relevant_activity_context": "Comparison of MIS-C and moderate to severe COVID-19.",
+          "performance_or_health_indicator": "Provides insights into differential pathogenesis and potential diagnostic markers for MIS-C and COVID-19."
+        },
+        {
+          "biomarker_name": "Platelet-derived wbRNA",
+          "measured_tissue_or_fluid": "Whole Blood",
+          "activity_type": "Proportion of cell type in wbRNA profile",
+          "measured_effect": {
+            "direction_of_change": "decreased",
+            "magnitude_quantification": "Decreased levels observed in the high-WBC patient group (WBC > 11 x 10^9 /L)."
+          },
+          "core_biological_function": "Reflects platelet activity or cell turnover within the whole blood RNA profile.",
+          "relevant_activity_context": "Patients with high white blood cell (WBC) count.",
+          "performance_or_health_indicator": "Consistent with corresponding tissue of origin for WBC count, potentially indicating altered platelet dynamics in high inflammation."
+        },
+        {
+          "biomarker_name": "Intrahepatic cholangiocyte-derived cfRNA",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Concentration",
+          "measured_effect": {
+            "direction_of_change": "increased",
+            "magnitude_quantification": "Increased levels observed in the high-ALT patient group (ALT > 36 U/L)."
+          },
+          "core_biological_function": "Indicates cholangiocyte (liver cell) injury or death.",
+          "relevant_activity_context": "Patients with high alanine transaminase (ALT) levels.",
+          "performance_or_health_indicator": "Consistent with corresponding tissue of origin for ALT, indicating liver injury."
+        },
+        {
+          "biomarker_name": "Kidney epithelium-derived cfRNA",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Concentration",
+          "measured_effect": {
+            "direction_of_change": "decreased",
+            "magnitude_quantification": "Decreased levels observed in the low-ALB patient group (ALB < 3.4 g/dL)."
+          },
+          "core_biological_function": "Indicates kidney epithelial cell injury or death.",
+          "relevant_activity_context": "Patients with low albumin (ALB) levels.",
+          "performance_or_health_indicator": "Consistent with corresponding tissue of origin for ALB, indicating kidney injury."
+        },
+        {
+          "biomarker_name": "Neuronal genes associated with synaptogenesis",
+          "measured_tissue_or_fluid": "Plasma (cfRNA)",
+          "activity_type": "Gene Transcript (Enrichment)",
+          "measured_effect": {
+            "direction_of_change": "enrichment",
+            "magnitude_quantification": "Enrichment of these genes observed in MIS-C."
+          },
+          "core_biological_function": "Synaptogenesis and neuronal development/function.",
+          "relevant_activity_context": "MIS-C disease state.",
+          "performance_or_health_indicator": "Suggests that peripheral nervous system damage may be a common feature of MIS-C, indicating potential neuronal damage."
+        },
+        {
+          "biomarker_name": "Schwann cells (cfRNA burden from)",
+          "measured_tissue_or_fluid": "Plasma (cfRNA)",
+          "activity_type": "Cell-free RNA burden",
+          "measured_effect": {
+            "direction_of_change": "increased",
+            "magnitude_quantification": "Increased cfRNA burden observed from Schwann cells in MIS-C."
+          },
+          "core_biological_function": "Schwann cells are involved in peripheral nervous system myelination and support. Increased burden indicates PNS cell death.",
+          "relevant_activity_context": "MIS-C disease state.",
+          "performance_or_health_indicator": "Suggests that peripheral nervous system damage may be a common feature of MIS-C."
+        },
+        {
+          "biomarker_name": "Gene module scores",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Biomarker measurement (cfRNA analysis)",
+          "measured_effect": {
+            "direction_of_change": "persisted then returned to baseline",
+            "magnitude_quantification": "Persisted at 1 month but returned to baseline 3 months post hospitalization or later."
+          },
+          "core_biological_function": "Reflects the activity of specific biological pathways or processes based on gene expression patterns in cell-free RNA.",
+          "relevant_activity_context": "Longitudinal sampling in MIS-C and COVID-19 patients at 1 month and 3 months post hospitalization.",
+          "performance_or_health_indicator": "Consistent with generally accepted time frames of recovery after MIS-C, indicating resolution of specific pathway activity."
+        },
+        {
+          "biomarker_name": "RNA Integrity Number (RIN)",
+          "measured_tissue_or_fluid": "Whole Blood",
+          "activity_type": "Quality Metric Assessment",
+          "measured_effect": {
+            "direction_of_change": "partially degraded",
+            "magnitude_quantification": "RIN values between 2 and 5"
+          },
+          "core_biological_function": "Indicates the level of degradation or intactness of RNA molecules, which is crucial for the reliability of downstream RNA sequencing and gene expression analysis.",
+          "relevant_activity_context": "Assessment of whole blood RNA samples during processing for sequencing.",
+          "performance_or_health_indicator": "Serves as an indicator of RNA sample quality; low RIN values (as observed) suggest partial degradation, which can impact the accuracy and interpretation of gene expression profiles."
+        }
+      ]
+    }
+  }
+]

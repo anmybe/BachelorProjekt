@@ -1,0 +1,184 @@
+[
+  {
+    "title": "pmc 9812598 21089 J Sci Med Sport J Sci Med Sport Journal of science and medicine in sport 1440-2440 1878-1861 11870208 36841706 10.1016/j.jsams.2023.01.010 nihpa2054680 Article Efforts toward the continuous monitoring of molecular markers of performance Flatebo Charlotte a Conkright William R. b Beckner Meaghan E. c Batchelor Robert H. d Kippin Tod E. e Heikenfeld Jason f Plaxco Kevin W. a g * a Institute for Collaborative Biotechnologies, University of California Santa Barbara, USA b Nutrition Care Division, Madigan Army Medical Center, USA c Oak Ridge Institute of Science and Education, USA d Nutromics Pty Ltd, Australia e Neuroscience Research Institute, Department of Psychological and Brain Sciences, University of California Santa Barbara, USA f Biomedical, Electrical, and Chemical Engineering, Director Novel Devices Laboratory, University of Cincinnati, USA g Department of Chemistry and Biochemistry, Biological Engineering Graduate Program, University of California Santa Barbara, USA * Corresponding author. kwp@ucsb.edu (K.W. Plaxco). 21 2 2025 6 2023 03 2 2023 28 2 2025 26 Suppl 1 S46 S53 https://creativecommons.org/licenses/by-nc-nd/4.0/ This is an open access article under the CC BY-NC-ND license ( http://creativecommons.org/licenses/by-nc-nd/4.0/ ). Objectives: Technologies supporting the continuous, real-time measurement of blood oxygen saturation and plasma glucose levels have improved our ability to monitor performance status. Our ability to monitor other molecular markers of performance, however, including the hormones known to indicate overtraining and general health, has lagged. That is, although a number of other molecular markers of performance status have been identified, we have struggled to develop viable technologies supporting their real-time monitoring in the body. Here we review biosensor approaches that may support such measurements, as well as the molecules potentially of greatest interest to monitor. Design: Narrative literature review. Method: Literature review. Results: Significant effort has been made to harness the specificity, affinity, and generalizability of biomolecular recognition in a platform technology supporting continuous in vivo molecular measurements. Most biosensor approaches, however, are either not generalizable to most targets, or fail when challenged in the complex environments found in vivo. Electrochemical aptamer-based sensors, in contrast, are the first technology to simultaneously achieve both of these critical attributes. In an effort to illustrate the potential of this platform technology, we both critically review the literature describing it and briefly survey some of the molecular performance markers we believe will prove advantageous to monitor using it. Conclusions: Electrochemical aptamer-based sensors may be the first truly generalizable technology for monitoring specific molecules in situ in the body and how adaptation of the platform to subcutaneous microneedles will enable the real-time monitoring of performance markers via a wearable, minimally invasive device Wearable electronic devices Electrochemistry Technology Aptamers Pharmacokinetics Health monitoring 1. Introduction Although few in number, the technologies supporting real-time molecular measurements in the body have significantly impacted our ability to monitor human performance status. The pulse oximeter, for example, which reports changes in blood oxygen levels in real-time, has rapidly expanded from a specialty surgical technology to a ubiquitous clinical and performance-monitoring tool. 1 By providing real-time information on blood sugar levels, wearable continuous glucose monitors have similarly revolutionized the treatment of diabetes, and are making rapid inroads into performance monitoring. 2 , 3 Beyond oxygen and glucose, however, our ability to monitor specific molecules in the body in real time remains limited. For example, while in January 2022, medical device provider Abbott Laboratories announced their wearable biosensor Lingo product line to continuously monitor ketones, lactate, alcohol, and glucose, these devices are not yet commercially available. 4 Beyond this, until recently, only a handful of other molecules have been measured in real-time in vivo, even just as laboratory demonstrations (e.g., glutamate, acetylcholine). 5 \u2013 7 The glucose monitor and the pulse oximeter are biosensors, a class of technologies that has long been promised to be general, but that has yet to realize this vision in in vivo applications. The problem is, like all previous approaches to in vivo molecular monitoring, the glucose monitor and the pulse oximeter rely critically on the chemical reactivity of their targets. Specifically, glucose sensors use glucose oxidase to convert its target into an easily measurable product (hydrogen peroxide), and the pulse oximeter monitors the color change that occurs when oxygen binds to hemoglobin. 1 , 8 And, although we can now generate proteins and nucleic acids that will recognize almost any water-soluble target, 9 we cannot generate peroxide-producing enzymes or color-changing receptors at will, thus greatly limiting the extent to which sensing approaches analogous to the glucose meter or the pulse oximeter can be expanded to new targets. In short, achieving the goal of a generalizable ability to monitor specific molecules in the body will require the development of technologies that are independent of the chemical reactivity of their targets. For many years, the primary focus of efforts to build biosensor \u201cplatforms\u201d that are independent of the reactivity of their targets has been \u201cadsorption-based\u201d biosensors that rely on target detection via changes in mass, charge, steric bulk or optical properties associated with the adsorption of the target to a biomolecular receptor attached to a surface. Examples of this include sensors based on surface plasmon resonance, field effect transistors, quartz crystal microbalances, and microcantilevers. 10 , 11 Unfortunately, however, when challenged in bodily fluids these approaches are overwhelmed by the non-specific adsorption of proteins, which produces signals that are indistinguishable from those produced by authentic target binding. 12 , 13 In contrast to most biosensor architectures, the chemoperception systems found in nature are both selective enough to work in vivo and independent of the chemical reactivity of their targets. 14 To achieve both of these attributes simultaneously, evolution designed the relevant receptors such that they undergo a large-scale conformational change upon target binding. 15 This, in turn, generates an output that is not mimicked by non-specific adsorption. Inspired by this naturally occurring phenomenon, a new class of artificial biosensors, termed electrochemical, aptamer-based (EAB) sensors, has recently achieved the breakthrough milestone of monitoring molecules in vivo without relying on their reactivity ( Fig. 1 ). 16 \u2013 22 In this review, we first describe EAB sensors before then surveying in vivo EAB sensor literature. Finally, we close by discussing the adaptation of EAB sensors to performance monitoring.",
+    "document_source_id": "36841706",
+    "analysis_date": "2025-12-10",
+    "extracted_data": {
+      "document_summary": "This narrative literature review investigates biosensor approaches for continuous, real-time in vivo monitoring of molecular markers relevant to performance and health status. It highlights the limitations of current technologies and proposes electrochemical aptamer-based (EAB) sensors as a generalizable, minimally invasive solution. The review details the development, validation, and attributes (generalizability, selectivity, reversibility, stability) of EAB sensors for detecting diverse targets (drugs, metabolites, hormones, proteins) in complex biological fluids and tissues. It also addresses the technological hurdles for subcutaneous placement, the correlation between interstitial fluid and systemic concentrations, and their potential for monitoring stress indicators (e.g., cortisol) and HPA/HPG axis hormones to assess overtraining syndromes.",
+      "treatment_details": {
+        "therapy_type": "Electrochemical Aptamer-Based (EAB) Sensor Technology for Real-time In Vivo Molecular Monitoring",
+        "dose_specificity": "This narrative literature review discusses the development and application of Electrochemical Aptamer-Based (EAB) sensors for continuous, real-time in vivo molecular monitoring, without an applied 'dose' in the traditional sense as it is a review of technology. EAB sensors, including 75-\u00b5m-diameter, 3-mm-long versions, have been tested in live rats for plasma monitoring (jugular vein) for up to 12 hours with few-second to sub-second resolution and clinically relevant precision. They are also adapted for minimally invasive subcutaneous placements (microneedles, indwelling needles) for interstitial fluid monitoring (e.g., brain, tumor, dermal ISF). The review highlights the importance of seconds-resolved time resolution and nanomolar limits of detection for hormones (achieved for LH and NGAL, micromolar for others). Time delays between subcutaneous ISF and plasma concentrations (e.g., 5-12 min for glucose, ~17 min for vancomycin) and correlations (strong for cortisol, <6% error for glucose) are noted, influenced by target properties. No dose-response comparisons for sensor parameters or monitoring duration were explicitly reported."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "Cortisol",
+          "measured_tissue_or_fluid": "Saliva, Blood, Circulation",
+          "activity_type": "Hormone Concentration",
+          "measured_effect": {
+            "direction_of_change": "Increased secretion during stress; exhibits complex temporal patterns, including ultradian, circadian, and stress-induced oscillations, with high variability.",
+            "magnitude_quantification": "Levels in saliva and blood are strongly correlated. Typically rises ~3-5 min after HPA axis activation, peaking ~30 min later. Ultradian (every 60 min), circadian (decreases during day), and stress-induced (within minutes) oscillations are observed. Social and emotional experiences can account for over 70% of variation."
+          },
+          "core_biological_function": "Primary end product of the HPA axis; mediates stress response, energy mobilization, increased arousal and vigilance, inhibition of nonessential anabolic activity, and regulation of various physiological functions.",
+          "relevant_activity_context": "Stress, HPA (hypothalamic\u2013pituitary\u2013adrenal) axis activity, acute response to stress, social and emotional experiences, monitoring of cumulative stress and insufficient recovery.",
+          "performance_or_health_indicator": "Indicator of stress and HPA axis function; dysregulation associated with overtraining, functional over-reaching, and non-functional overreaching syndromes; contributes to adaptations during acute stress; relevant for monitoring cumulative stress and insufficient recovery and performance status."
+        },
+        {
+          "biomarker_name": "Glucose",
+          "measured_tissue_or_fluid": "Subcutaneous ISF, Plasma, Blood",
+          "activity_type": "Molecular Concentration",
+          "measured_effect": {
+            "direction_of_change": "Levels in subcutaneous ISF parallel plasma levels with a time delay.",
+            "magnitude_quantification": "Subcutaneous glucose levels parallel plasma glucose levels with a time delay of 5 to 12 min and an error of less than 6%."
+          },
+          "core_biological_function": "Energy metabolism regulation; primary energy source for the body.",
+          "relevant_activity_context": "Continuous glucose monitoring; comparison between subcutaneous ISF and plasma levels; general health and performance monitoring.",
+          "performance_or_health_indicator": "Indicator of health and performance status; commercially available sensor for continuous monitoring."
+        },
+        {
+          "biomarker_name": "Vancomycin",
+          "measured_tissue_or_fluid": "Extracted ISF, Plasma",
+          "activity_type": "Molecular Concentration",
+          "measured_effect": {
+            "direction_of_change": "Peaks later in ISF, overall concentrations do not differ significantly",
+            "magnitude_quantification": "Vancomycin levels measured in extracted ISF peak ~ 17 min later than plasma levels, but the overall concentrations do not differ significantly."
+          },
+          "core_biological_function": "Not described in the provided text (exogenous compound monitoring).",
+          "relevant_activity_context": "Comparison between extracted ISF and plasma levels.",
+          "performance_or_health_indicator": "Indicator of health (implied by its inclusion in discussion of biomarkers for health and performance)."
+        },
+        {
+          "biomarker_name": "CRH",
+          "measured_tissue_or_fluid": "Circulation",
+          "activity_type": "Hormone Concentration",
+          "measured_effect": {
+            "direction_of_change": "Not measurable in circulation",
+            "magnitude_quantification": "Released in such small quantities that it is unable to be measured in circulation."
+          },
+          "core_biological_function": "Part of HPA axis cascade; stimulates secretion of ACTH from the anterior pituitary gland.",
+          "relevant_activity_context": "HPA axis activation.",
+          "performance_or_health_indicator": "Molecular marker of HPA axis function; challenging to measure due to low circulating quantities."
+        },
+        {
+          "biomarker_name": "ACTH",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Hormone Concentration",
+          "measured_effect": {
+            "direction_of_change": "Rapid turnover",
+            "magnitude_quantification": "Plasma half-life on the order of ~4.5 min."
+          },
+          "core_biological_function": "Stimulates the fasciculata of the adrenal cortex to secrete cortisol.",
+          "relevant_activity_context": "HPA axis activation.",
+          "performance_or_health_indicator": "Molecular marker of HPA axis function; rapid turnover emphasizes the need for highly time-resolved measurements."
+        },
+        {
+          "biomarker_name": "GnRH",
+          "measured_tissue_or_fluid": "Hypothalamus (released from), impacting systemic hormone levels",
+          "activity_type": "Hormone Concentration, Pulse Amplitude and Frequency",
+          "measured_effect": {
+            "direction_of_change": "Varies in pulse amplitude and frequency",
+            "magnitude_quantification": "High pulse frequencies (every 60 min or less) stimulate LH synthesis and secretion; low pulse frequencies (every 3 h) stimulate FSH synthesis and secretion."
+          },
+          "core_biological_function": "Released from the hypothalamus to stimulate the release of luteinizing hormone (LH) and follicle stimulating hormone (FSH) from the anterior pituitary gland.",
+          "relevant_activity_context": "HPG axis function.",
+          "performance_or_health_indicator": "Governs the synthesis and secretion of LH and FSH; indicator of HPG axis function and integrity."
+        },
+        {
+          "biomarker_name": "LH",
+          "measured_tissue_or_fluid": "Anterior pituitary (released from), circulating blood",
+          "activity_type": "Hormone Concentration, Pulsatility",
+          "measured_effect": {
+            "direction_of_change": "Stimulated by high GnRH pulse frequencies; pulsatility varies significantly",
+            "magnitude_quantification": "Stimulated at high GnRH pulse frequencies (every 60 min or less). Pulsatility varies throughout the menstrual cycle: every 1 to 2 h during follicular phase, every 4 h during luteal phase, and peaks just before ovulation. In menopause or hypothalamic amenorrhea, pulsatility becomes rapid (~50 min) but can be disordered, suppressed, or non-existent. EAB sensors achieve nanomolar limits of detection."
+          },
+          "core_biological_function": "Targets the ovaries and testes to produce estrogens and testosterone.",
+          "relevant_activity_context": "HPG axis function, menstrual cycle, menopause, hypothalamic amenorrhea, training and exercise recovery.",
+          "performance_or_health_indicator": "Monitoring can help tailor training and inform exercise and recovery intervals; indicator of HPG axis function and integrity; dysregulation contributes to overtraining syndromes."
+        },
+        {
+          "biomarker_name": "FSH",
+          "measured_tissue_or_fluid": "Anterior pituitary (released from)",
+          "activity_type": "Hormone Concentration",
+          "measured_effect": {
+            "direction_of_change": "Stimulated by low GnRH pulse frequencies",
+            "magnitude_quantification": "Stimulated at low GnRH pulse frequencies (every 3 h)."
+          },
+          "core_biological_function": "Part of HPG axis cascade; involved in reproductive functions (implied, released with LH).",
+          "relevant_activity_context": "HPG axis function.",
+          "performance_or_health_indicator": "Indicator of HPG axis function and integrity."
+        },
+        {
+          "biomarker_name": "Estrogen",
+          "measured_tissue_or_fluid": "Circulation",
+          "activity_type": "Hormone Concentration",
+          "measured_effect": {
+            "direction_of_change": "Increases lipolysis, fat oxidation, and bone strength; declines with chronic low energy availability",
+            "magnitude_quantification": "Chronic low energy availability causes estrogen to decline."
+          },
+          "core_biological_function": "Exerts system-wide effects including red blood cell production, glycogen replenishment, bone metabolism, and muscle protein synthesis. Directly influences energy metabolism and bone mineral density, increasing lipolysis, fat oxidation, and bone strength.",
+          "relevant_activity_context": "HPG axis function (in females), chronic low energy availability.",
+          "performance_or_health_indicator": "Important for energy metabolism, bone mineral density, and overall health. Decline induces metabolic disturbances and increased risk of stress fracture."
+        },
+        {
+          "biomarker_name": "Testosterone",
+          "measured_tissue_or_fluid": "Circulation",
+          "activity_type": "Hormone Concentration",
+          "measured_effect": {
+            "direction_of_change": "Declines over the course of the day",
+            "magnitude_quantification": "Declines 20 to 25% in young males, but only ~10% in older males over the course of the day. Plasma half-life is less than 20 min."
+          },
+          "core_biological_function": "Exerts system-wide effects including red blood cell production, glycogen replenishment, bone metabolism, and muscle protein synthesis.",
+          "relevant_activity_context": "HPG axis function (in males), age (young vs. older males), training and exercise recovery.",
+          "performance_or_health_indicator": "Monitoring muscle status can help tailor training and inform exercise and recovery intervals; dysregulation contributes to overtraining syndromes."
+        },
+        {
+          "biomarker_name": "Progesterone",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Hormone Concentration",
+          "measured_effect": {
+            "direction_of_change": "Rapid turnover",
+            "magnitude_quantification": "Plasma half-life is approximately 5 min."
+          },
+          "core_biological_function": "Part of HPG axis (implied).",
+          "relevant_activity_context": "HPG axis function.",
+          "performance_or_health_indicator": "Indicator of HPG axis function; requires frequent sampling to capture recurrent, transient changes due to short half-life."
+        },
+        {
+          "biomarker_name": "Estradiol",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Hormone Concentration",
+          "measured_effect": {
+            "direction_of_change": "Rapid turnover",
+            "magnitude_quantification": "Plasma half-life is less than 20 min."
+          },
+          "core_biological_function": "A form of estrogen, influences energy metabolism and bone mineral density.",
+          "relevant_activity_context": "HPG axis function.",
+          "performance_or_health_indicator": "Indicator of HPG axis function; requires frequent sampling to capture recurrent, transient changes due to short half-life."
+        },
+        {
+          "biomarker_name": "Blood Oxygenation",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Level/Saturation",
+          "measured_effect": {
+            "direction_of_change": "Not specified",
+            "magnitude_quantification": "Not specified."
+          },
+          "core_biological_function": "Reflects oxygen transport capacity.",
+          "relevant_activity_context": "General health and performance monitoring.",
+          "performance_or_health_indicator": "Indicates health and performance status; commercially available sensor."
+        },
+        {
+          "biomarker_name": "Neutrophil gelatinase-associated lipocalin",
+          "measured_tissue_or_fluid": "Circulation (implied)",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Not specified (context is detection limit)",
+            "magnitude_quantification": "EAB sensor achieves nanomolar limits of detection."
+          },
+          "core_biological_function": "Important molecular target (specific function not detailed in text).",
+          "relevant_activity_context": "EAB sensor development for in vivo monitoring.",
+          "performance_or_health_indicator": "Important target for monitoring health and performance status; nanomolar detection achieved by some EAB sensors indicates potential for meaningful monitoring."
+        }
+      ]
+    }
+  }
+]

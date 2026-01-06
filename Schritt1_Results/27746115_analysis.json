@@ -1,0 +1,352 @@
+[
+  {
+    "title": "Summary The transition from hemogenic endothelial cells (HECs) to hematopoietic stem/progenitor cells (HS/PCs), or endothelial to hematopoietic transition (EHT), is a critical step during hematopoiesis. However, little is known about the molecular determinants of HECs due to the challenge in defining HECs. We report here the generation of GATA2 w / eGFP reporter in human embryonic stem cells (hESCs) to mark cells expressing GATA2 , a critical gene for EHT. We show that during differentiation, functional HECs are almost exclusively GATA2/eGFP + . We then constructed a regulatory network for HEC determination and also identified a panel of positive or negative surface markers for discriminating HECs from non-hemogenic ECs. Among them, ITGB3 (CD61) precisely labeled HECs both in hESC differentiation and embryonic day 10 mouse embryos. These results not only identify a reliable marker for defining HECs, but also establish a robust platform for dissecting hematopoiesis in vitro, which might lead to the generation of HSCs in vitro. Highlights \u2022 Generation of GATA2 w / eGFP reporter in human ESCs \u2022 GATA2/eGFP expression defines HECs and HPCs in hESC differentiation \u2022 CD61 marks HECs and HPCs in hPSC differentiation \u2022 CD61 defines HECs in YS and AGM E10 mouse embryo Pan and colleagues generated GATA2 w / eGFP reporter in hESCs, and found that GATA2/eGFP expression defines HECs and HPCs in hESC differentiation. In addition, they showed that CD61 marks HECs and HPCs in hPSC differentiation. Moreover, they revealed that CD61 also marks a small portion of bio-potent HECs in both YS and AGM in E10 mouse embryo. Published: October 13, 2016 Introduction Differentiation of functional hematopoietic stem and progenitor cells (HS/PCs) from human pluripotent stem cells (hPSCs) provides a unique source of therapeutic cells for blood diseases and thus generates wide research interests in the field ( Daley and Lux, 2014 , Liu et al., 2015 , Singbrant et al., 2015 ). Indeed, significant progress have been made on how to drive hPSC differentiation toward different blood lineages ( Doulatov et al., 2013 , Kennedy et al., 2012 , Vodyanik et al., 2005 , Wang et al., 2012 , Woods et al., 2011 ). However, HS/PCs derived from hPSCs through current differentiation protocols showed very limited engraftment and hematopoietic reconstitution in vivo ( Doulatov et al., 2013 , Wang et al., 2005 , Woods et al., 2011 ). These findings indicate that the in vitro conditions for driving blood differentiation do not fully recapitulate the mechanisms of hematopoiesis in vivo. During development, numerous studies using different models such as zebrafish and mouse embryos have shown that hematopoietic stem cells (HSCs) emerge directly from a unique endothelial population, the hemogenic endothelial cells (HECs), through a special process called endothelial to hematopoietic transition (EHT) ( Bertrand et al., 2010 , Boisset et al., 2010 , Tavian et al., 2010 ). During EHT, cells with endothelium phenotype gradually acquire hematopoietic morphology and characteristics. The EHT process has also been detected during the in vitro blood differentiation of human PSCs ( Eilken et al., 2009 , Rafii et al., 2013 ). Therefore, systematic analysis and comparison of the EHT process in vivo and in vitro at the molecular level might aid the generation of functional HS/PCs from hPSCs. To date, a number of key transcription factors (TFs) and signaling pathways that control EHT have been identified in mouse and zebrafish ( Chanda et al., 2013 , Clements and Traver, 2013 , Kissa and Herbomel, 2010 , Wang et al., 2013 , Wei et al., 2014 ). For instance, in mouse embryo, Runx1 is highly expressed in both HECs and HSCs and plays essential roles in EHT ( Chen et al., 2009 ). GATA2 is another factor that is known to be critical for hematopoiesis ( Rodrigues et al., 2012 , Vicente et al., 2012 ). Mouse embryo lacking Gata2 died at an early stage due to the severe anemia ( Gao et al., 2013 , Lim et al., 2012 , Ling et al., 2004 , Tsai et al., 1994 ). Notably, mouse HECs without Gata2 failed to produce long-term repopulating HSCs due to an impaired EHT ( de Pater et al., 2013 ). We have also demonstrated that human embryonic stem cells (hESCs) with GATA2 deficiency exhibited a reduced EHT during blood differentiation ( Huang et al., 2015 ). These reports suggest that the critical role of GATA2 in regulating EHT is conserved in different species and systems. In addition to the EHT process, TFs also play essential roles in determining the normal function of HS/PCs. For example, overexpression of Hoxb4 could enhance the engraftment of hematopoietic progenitor cells (HPCs) derived from mouse ESCs ( Kyba et al., 2002 ). However, HOXB4 did not show a similar function in hESC-derived HPCs ( Wang et al., 2005 ), indicating that different TFs need be identified for human cells. Indeed, many other factors such as HOXA9 ERG, RORA, SOX4, and MYB have been tested for promoting engraftment of HS/PCs generated in vitro. However, none of these factors were able to mediate long-term engraftment of these in vitro generated human HS/PCs ( Doulatov et al., 2013 , Ramos-Mejia et al., 2014 , Vanhee et al., 2015 ). Another approach to generate HS/PCs in vitro is through direct specification of functional HECs into HS/PCs. Indeed, it has been shown that endothelial cells isolated from the aorta gonad mesonephros (AGM) region at embryonic day 10.5 (E10.5) to E11.5 mouse embryos efficiently generated HPCs in vitro ( Li et al., 2013 ). However, how to precisely discriminate the functional HECs from non-hemogenic ECs remains challenging. The inaccessibility of HECs largely hampers the further understanding of their molecular determinants during hematopoiesis. To further investigate the molecular program involved in HEC determination during human hematopoiesis, we generated a GATA2 / eGFP reporter in H1 hESCs through gene targeting, referred as GATA2 w / eGFP hESCs. Based on an hPSC blood differentiation protocol in co-culturing with OP9 ( Vodyanik et al., 2005 ), we show that GATA2/eGFP expression almost exclusively marks the functional HECs with the potential to produce CD34 + CD43 + HPCs. We then separated HECs from non-hemogenic ECs in hESC differentiation by cell sorting based on GATA2/eGFP expression. Through further comparative analysis of whole-transcriptome data on GATA2/eGFP + HECs and GATA2/eGFP \u2212 non-hemogenic ECs, we constructed a regulatory network positive or negative for hemogenic endothelial (HE) determination. Moreover, we identified a list of differentially expressed cell-surface markers between GATA2/eGFP + HECs and GATA2/eGFP \u2212 ECs. Among them, CD61 precisely labeled functional HECs not only in hESC differentiation but also in yolk sac (YS) or AGM region at E10.0 in mouse embryos. The identification of CD61 provides a reliable marker for accessing and enriching HECs, which might greatly facilitate the understanding of HEC determination both in vivo and in vitro.",
+    "document_source_id": "27746115",
+    "analysis_date": "2025-12-09",
+    "extracted_data": {
+      "document_summary": "This study investigates the molecular determinants of hemogenic endothelial cells (HECs) and hematopoietic progenitor cells (HPCs) by generating a GATA2w/eGFP reporter in human embryonic stem cells (hESCs). The reporter accurately marks endogenous GATA2 expression, which is critical for endothelial-to-hematopoietic transition (EHT). A key finding is the identification of ITGB3 (CD61) as a reliable novel positive surface marker that precisely labels functional HECs with superior hemogenic potential, both in hESC/hPSC differentiation in vitro and in embryonic day 10 mouse embryos in vivo. The research provides a robust platform for dissecting hematopoiesis and facilitates the generation of functional hematopoietic stem cells in vitro.",
+      "treatment_details": {
+        "therapy_type": "Gene targeting using TALENs, in vitro human pluripotent stem cell (hPSC) differentiation, and in vivo mouse embryo analysis.",
+        "dose_specificity": "GATA2w/eGFP reporter was generated in H1 hESCs via gene editing (TALENs, electroporation of 1 \u03bcg linearized vector and 2.5 \u03bcg of each TALEN plasmid into 1 \u00d7 10^6 H1 cells, puromycin selection at 0.5 \u03bcg/mL, and Cre recombinase (400 ng per 1 \u00d7 10^6 cells) for cassette removal). In vitro differentiation involved hPSC blood differentiation protocols using co-culturing with OP9 stromal cells or AGM-S3 co-culture. Bone morphogenetic protein 4 (BMP4) treatment was applied for 5 days. Cell seeding used Y-27632 (10 \u03bcM). CFU assay medium contained 100 ng/mL recombinant murine stem cell factor, 10 ng/mL recombinant murine interleukin-3, 10 ng/mL recombinant human interleukin-6, and 3 U/mL human erythropoietin, with endothelial cell assays using 100 ng/mL vascular endothelial growth factor. In vivo analysis included mouse embryos at E10.0, E11, E12, E14, with fractionation of endothelial cells based on CD61 expression (CD61 high, CD61 low, and CD61 \u2212 subpopulations). No specific dose-response comparisons for differentiation conditions or therapeutic interventions were reported beyond qualitative observations of effect."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "GATA2 / eGFP reporter",
+          "measured_tissue_or_fluid": "Human embryonic stem cells (hESCs) undergoing differentiation, specifically hemogenic endothelial cells (HECs) and hematopoietic stem/progenitor cells (HS/PCs); H1-GATA2 w/eGFP hESCs; OP9 co-culture cells; BMP4-treated cells; hESC GATA2 w/eGFP reporter cell line.",
+          "activity_type": "Gene expression (reporter); Protein Level; Gene Transcript (real-time qPCR, western blot); Defining cell population.",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Almost exclusively present in functional HECs and GATA2/eGFP expression almost exclusively marks functional HECs with potential to produce CD34+CD43+ HPCs. A significant cell population expressed eGFP at day 10 of co-culture; eGFP+ cells showed a much higher level of GATA2 expression, while eGFP- cells were GATA2 negative, confirming a strict correlation between eGFP and GATA2 expression. BMP4 treatment induced GATA2 expression. Both HECs capable of producing HPCs and the generated HPCs are almost exclusively GATA2/eGFP+. Almost all CD34+CD43+ HPCs generated by OP9 co-culture were double positive for GATA2/eGFP and CD61. GATA2 deficiency in hESCs exhibited a significant defect in EHT and subsequent HPC generation; GATA2\u2212/\u2212 hPSC-derived HPCs can still produce a certain number of CFUs in vitro."
+          },
+          "core_biological_function": "Critical gene/transcription factor for endothelial to hematopoietic transition (EHT) and essential for hematopoiesis; regulates HSC development and HPC generation. eGFP serves as a fluorescent reporter for GATA2 activity.",
+          "relevant_activity_context": "hESC/hPSC differentiation towards hematopoietic lineages, specifically during the transition from hemogenic endothelial cells to hematopoietic stem/progenitor cells (EHT); H1-GATA2 w/eGFP hESCs during OP9 co-culture for blood differentiation and BMP4-induced differentiation.",
+          "performance_or_health_indicator": "Defines functional HECs and HPCs; identifies functional HECs; critical for generating functional HS/PCs; a reliable marker for dissecting hematopoiesis in vitro; accurately marks endogenous GATA2 expression; can discriminate HECs from non-hemogenic ECs; its deficiency leads to significant defects in EHT and HPC generation."
+        },
+        {
+          "biomarker_name": "ITGB3 (CD61)",
+          "measured_tissue_or_fluid": "Human embryonic stem cell (hESC) differentiation; human pluripotent stem cell (hPSC) differentiation; yolk sac (YS) and aorta gonad mesonephros (AGM) region of embryonic day 10 (E10) mouse embryos; hPSC-derived HECs and HPCs; EC population (CD31+CD41\u2212CD45\u2212Ter119\u2212) from mouse embryo YS and AGM regions (E10.0); CFU-Mix cells in YS of E10 mouse embryo; HSCs in E11 AGM, E11 placenta, E12 YS, E14 fetal liver; GATA2/eGFP+ HECs and GATA2/eGFP- ECs; WT hESCs and hiPSCs (H1, H9, UH1).",
+          "activity_type": "Cell surface marker expression; Protein Level (FACS).",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Precisely labeled functional HECs in hESC differentiation; marks HECs and HPCs in hPSC differentiation; marks a small portion of bio-potent HECs in both YS and AGM in E10 mouse embryo. Almost all CD34+CD43+ HPCs from hPSC GATA2 w/eGFP and WT hPSC lines were CD61+. CD61+ cell populations generated significant CFUs while CD61\u2212 cells failed. Mouse embryo ECs were fractionated into CD61 high, CD61 low, and CD61\u2212 subpopulations; only the CD61 low population from YS or AGM efficiently produced typical hemogenic colonies (up to 6.6 \u00b1 2.4 per embryo equivalent), showed robust cell expansion and generation of CD45+ hematopoietic cells. CD61 almost exclusively marked the small portion of HECs capable of producing HPCs in hPSC differentiation. Almost all HPCs generated from hPSC-derived HECs are also CD61+. CFU-Mix cells were restricted in the CD61 low cells in YS of E10 mouse embryo. HSCs with transplantation potential were restricted in the CD61 low fraction in E11 AGM and E11 placenta, while in E12 YS and E14 fetal liver, HSCs were found in both CD61\u2212 and CD61 low fractions. The percentage of HECs labeled by CD61 from YS or AGM was very low (2% to 10% of previously recognized ECs). CD61 was highly expressed in GATA2/eGFP+ HECs, and the CD61+ population was almost entirely GATA2/eGFP+. GATA2/eGFP+ CD61+ ECs produced significantly more CD34+CD43+ HPCs than GATA2/eGFP+ CD61- cells. CD61- cells could transit into CD61+. CD61+ cells from WT H1, H9, or UH1 gave rise to a significant number of CD34+CD43+ HPCs, while CD61- cells generated very few."
+          },
+          "core_biological_function": "Cell surface adhesion molecule and integrin; critical marker for defining functional hemogenic endothelial cells (HECs) and hematopoietic progenitor cells (HPCs) during embryonic development and in vitro differentiation. Involved in cell adhesion, survival, and migration. Enriched in adult HSCs with long-term repopulating potential in mice.",
+          "relevant_activity_context": "hESC/hPSC blood differentiation; defining HECs in vitro and in vivo (E10 mouse embryo YS and AGM); hematopoietic differentiation of hPSCs in vitro; hematopoiesis in early mouse embryo (E8, E10, E11, E12, E14); HECs and HPCs during hESC/hiPSC blood differentiation (OP9 co-culture).",
+          "performance_or_health_indicator": "Reliable marker for defining HECs; facilitates understanding of HEC determination; provides a tool for accessing and enriching HECs; might greatly facilitate the generation of functional HS/PCs in vitro. Defines functional, bipotent HECs capable of producing HPCs and vascular structures; identifies HPCs with CFU-forming potential; enables significant enrichment (up to a dozen-fold) of functional HECs, facilitating further research into hematopoietic mechanisms and HSC generation. Positive marker for HECs, marks a subset of HECs with superior hemogenic potential, and defines a subset population with hemogenic potential in previously identified CD34+CD31+CD43- endothelium during hPSC blood differentiation."
+        },
+        {
+          "biomarker_name": "CD31",
+          "measured_tissue_or_fluid": "hESC differentiation cultures (OP9 co-culture).",
+          "activity_type": "Cell surface protein expression.",
+          "measured_effect": {
+            "direction_of_change": "present",
+            "magnitude_quantification": "Detected at the time when GATA2/eGFP+ cells appeared."
+          },
+          "core_biological_function": "Cell surface marker for endothelial cells and early hematopoietic cells (HECs).",
+          "relevant_activity_context": "Early stage of hESC blood differentiation (in CD34+CD31+CD43- HEC population).",
+          "performance_or_health_indicator": "Used in combination with other markers to identify HECs."
+        },
+        {
+          "biomarker_name": "CD43",
+          "measured_tissue_or_fluid": "hESC differentiation cultures (OP9 co-culture); Human pluripotent stem cell (hPSC)-derived hematopoietic progenitor cells (HPCs).",
+          "activity_type": "Cell surface protein expression.",
+          "measured_effect": {
+            "direction_of_change": "present",
+            "magnitude_quantification": "Formation of CD43+ population preceded by CD31+ and GATA2/eGFP+ cells. CD43 has been identified as a marker for hPSC-derived HPCs with the potential to form CFUs."
+          },
+          "core_biological_function": "Cell surface marker for hematopoietic progenitor cells (HPCs); used to identify specific cell populations in hematopoiesis.",
+          "relevant_activity_context": "hESC blood differentiation, identifying the HPC population; in vitro hematopoietic differentiation of hPSCs, specifically for isolating HPCs.",
+          "performance_or_health_indicator": "Used in combination with other markers to identify HPCs; marker for hPSC-derived HPCs with colony-forming unit (CFU) potential; facilitates isolation of HPCs in vitro."
+        },
+        {
+          "biomarker_name": "CD34",
+          "measured_tissue_or_fluid": "hESC differentiation cultures (OP9 co-culture).",
+          "activity_type": "Cell surface protein expression.",
+          "measured_effect": {
+            "direction_of_change": "present",
+            "magnitude_quantification": "CD34+CD31+CD43- HECs contained both GATA2/eGFP+ and GATA2/eGFP- populations. Only the GATA2/eGFP+ population could give rise to CD34+CD43+ HPCs. Almost all CD34+CD43+ HPCs derived from HECs are also GATA2/eGFP+."
+          },
+          "core_biological_function": "Common cell surface marker for hematopoietic stem and progenitor cells and endothelial cells.",
+          "relevant_activity_context": "hESC blood differentiation, identifying HECs (CD34+CD31+CD43-) and HPCs (CD34+CD43+).",
+          "performance_or_health_indicator": "Used to delineate HECs and HPCs, and its co-expression with GATA2/eGFP indicates hemogenic potential."
+        },
+        {
+          "biomarker_name": "ALDH1A1",
+          "measured_tissue_or_fluid": "GATA2/eGFP+ HECs (sorted from hESC blood differentiation at day 8).",
+          "activity_type": "Gene transcript (RNA sequencing).",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Enriched in the eGFP+ cells."
+          },
+          "core_biological_function": "Critical gene for normal function of hematopoietic stem cells (HSC) or HSC niche.",
+          "relevant_activity_context": "Transcriptome analysis of GATA2/eGFP+ HECs during hESC blood differentiation.",
+          "performance_or_health_indicator": "Its enrichment indicates a functional hematopoietic stem cell characteristic in GATA2/eGFP+ HECs."
+        },
+        {
+          "biomarker_name": "GFI1",
+          "measured_tissue_or_fluid": "GATA2/eGFP+ HECs (sorted from hESC blood differentiation at day 8).",
+          "activity_type": "Gene transcript (RNA sequencing); Transcription Factor activity.",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Enriched in the eGFP+ cells and highly expressed in GATA2/eGFP+ HECs."
+          },
+          "core_biological_function": "Critical transcription factor for EHT (endothelial-to-hematopoietic transition) or HPC function.",
+          "relevant_activity_context": "Transcriptome analysis of GATA2/eGFP+ HECs during hESC blood differentiation.",
+          "performance_or_health_indicator": "Indicates active EHT and HPC function in GATA2/eGFP+ HECs."
+        },
+        {
+          "biomarker_name": "MYB",
+          "measured_tissue_or_fluid": "GATA2/eGFP+ HECs (sorted from hESC blood differentiation at day 8).",
+          "activity_type": "Gene transcript (RNA sequencing); Transcription Factor activity.",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Enriched in the eGFP+ cells and highly expressed in GATA2/eGFP+ HECs."
+          },
+          "core_biological_function": "Critical transcription factor for normal function of HSC or HSC niche, and for EHT or HPC function.",
+          "relevant_activity_context": "Transcriptome analysis of GATA2/eGFP+ HECs during hESC blood differentiation.",
+          "performance_or_health_indicator": "Indicates active EHT, HPC function, and HSC niche characteristics in GATA2/eGFP+ HECs."
+        },
+        {
+          "biomarker_name": "SOX17",
+          "measured_tissue_or_fluid": "GATA2/eGFP+ HECs (sorted from hESC blood differentiation at day 8).",
+          "activity_type": "Gene transcript (RNA sequencing).",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Downregulated in the eGFP+ cells."
+          },
+          "core_biological_function": "Vital endothelium gene.",
+          "relevant_activity_context": "Transcriptome analysis of GATA2/eGFP+ HECs during hESC blood differentiation.",
+          "performance_or_health_indicator": "Its downregulation in HECs (GATA2/eGFP+ cells) suggests a transition away from a pure endothelial identity towards a hemogenic one."
+        },
+        {
+          "biomarker_name": "NT5E (CD73)",
+          "measured_tissue_or_fluid": "GATA2/eGFP+ HECs and GATA2/eGFP- ECs (sorted from hESC blood differentiation at day 8).",
+          "activity_type": "Gene transcript (RNA sequencing); Cell surface protein expression.",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Downregulated in the eGFP+ cells, but upregulated in the GATA2/eGFP- ECs."
+          },
+          "core_biological_function": "Vital endothelium gene.",
+          "relevant_activity_context": "Transcriptome analysis of GATA2/eGFP+ HECs and GATA2/eGFP- ECs during hESC blood differentiation.",
+          "performance_or_health_indicator": "Its downregulation in HECs (GATA2/eGFP+ cells) and upregulation in non-hemogenic ECs (GATA2/eGFP- cells) is consistent with differentiating endothelial populations."
+        },
+        {
+          "biomarker_name": "CD309",
+          "measured_tissue_or_fluid": "GATA2/eGFP+ and GATA2/eGFP- cells during blood differentiation.",
+          "activity_type": "Cell surface protein expression.",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Highly expressed in both GATA2/eGFP+ and GATA2/eGFP- cells."
+          },
+          "core_biological_function": "Typical endothelial marker.",
+          "relevant_activity_context": "Early stage of hESC blood differentiation, both hemogenic and non-hemogenic endothelial populations.",
+          "performance_or_health_indicator": "Indicates an endothelial phenotype for both GATA2/eGFP+ and GATA2/eGFP- cells at an early stage."
+        },
+        {
+          "biomarker_name": "CD144",
+          "measured_tissue_or_fluid": "GATA2/eGFP+ and GATA2/eGFP- cells during blood differentiation.",
+          "activity_type": "Cell surface protein expression.",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Highly expressed in both GATA2/eGFP+ and GATA2/eGFP- cells."
+          },
+          "core_biological_function": "Typical endothelial marker.",
+          "relevant_activity_context": "Early stage of hESC blood differentiation, both hemogenic and non-hemogenic endothelial populations.",
+          "performance_or_health_indicator": "Indicates an endothelial phenotype for both GATA2/eGFP+ and GATA2/eGFP- cells at an early stage."
+        },
+        {
+          "biomarker_name": "TBX3",
+          "measured_tissue_or_fluid": "GATA2-positive cells (hESC blood differentiation).",
+          "activity_type": "Gene transcript (RNA sequencing).",
+          "measured_effect": {
+            "direction_of_change": "present",
+            "magnitude_quantification": "Expressed by GATA2-positive cells."
+          },
+          "core_biological_function": "Related to heart development.",
+          "relevant_activity_context": "Transcriptome analysis of GATA2-positive cells during hESC blood differentiation.",
+          "performance_or_health_indicator": "Suggests potential involvement in cardiac system development, possibly regulated by GATA2 during hematopoiesis."
+        },
+        {
+          "biomarker_name": "TBX18",
+          "measured_tissue_or_fluid": "GATA2-positive cells (hESC blood differentiation).",
+          "activity_type": "Gene transcript (RNA sequencing).",
+          "measured_effect": {
+            "direction_of_change": "present",
+            "magnitude_quantification": "Expressed by GATA2-positive cells."
+          },
+          "core_biological_function": "Related to heart development.",
+          "relevant_activity_context": "Transcriptome analysis of GATA2-positive cells during hESC blood differentiation.",
+          "performance_or_health_indicator": "Suggests potential involvement in cardiac system development, possibly regulated by GATA2 during hematopoiesis."
+        },
+        {
+          "biomarker_name": "GATA6",
+          "measured_tissue_or_fluid": "GATA2/eGFP+ population (hESC blood differentiation).",
+          "activity_type": "Gene transcript (RNA sequencing).",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Elevated expression level in the GATA2/eGFP+ population."
+          },
+          "core_biological_function": "Involved and important in cardiac system development.",
+          "relevant_activity_context": "Transcriptome analysis of GATA2/eGFP+ population during hESC blood differentiation.",
+          "performance_or_health_indicator": "Its elevated expression in GATA2/eGFP+ cells might contribute to the expression of cardiac development-related genes."
+        },
+        {
+          "biomarker_name": "RUNX1",
+          "measured_tissue_or_fluid": "GATA2/eGFP+ HECs (hESC blood differentiation).",
+          "activity_type": "Gene transcript (RNA sequencing); Transcription Factor activity.",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Highly expressed in GATA2/eGFP+ HECs."
+          },
+          "core_biological_function": "Critical transcription factor for EHT or HPC function.",
+          "relevant_activity_context": "Transcriptome analysis of GATA2/eGFP+ HECs during hESC blood differentiation.",
+          "performance_or_health_indicator": "Indicates its important role in promoting EHT and HPC function within GATA2/eGFP+ HECs."
+        },
+        {
+          "biomarker_name": "SPI1",
+          "measured_tissue_or_fluid": "GATA2/eGFP+ HECs (hESC blood differentiation).",
+          "activity_type": "Gene transcript (RNA sequencing); Transcription Factor activity.",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Highly expressed in GATA2/eGFP+ HECs."
+          },
+          "core_biological_function": "Critical transcription factor for EHT or HPC function.",
+          "relevant_activity_context": "Transcriptome analysis of GATA2/eGFP+ HECs during hESC blood differentiation.",
+          "performance_or_health_indicator": "Indicates its important role in promoting EHT and HPC function within GATA2/eGFP+ HECs."
+        },
+        {
+          "biomarker_name": "CD62P (SELP)",
+          "measured_tissue_or_fluid": "GATA2/eGFP+ HECs (hESC blood differentiation).",
+          "activity_type": "Gene transcript (RNA sequencing); Cell surface protein expression.",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Upregulated in GATA2/eGFP+ HECs."
+          },
+          "core_biological_function": "Hematopoietic marker.",
+          "relevant_activity_context": "Transcriptome analysis of GATA2/eGFP+ HECs during hESC blood differentiation.",
+          "performance_or_health_indicator": "Its upregulation marks the hematopoietic potential of GATA2/eGFP+ HECs."
+        },
+        {
+          "biomarker_name": "CD41 (ITGA2B)",
+          "measured_tissue_or_fluid": "GATA2/eGFP+ HECs (hESC blood differentiation); Hematopoietic cells isolated from E8 or E10 mouse embryo; Hematopoietic cells differentiated from hPSCs in vitro; Mouse HECs.",
+          "activity_type": "Gene transcript (RNA sequencing); Cell surface protein expression.",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Upregulated and increased in GATA2/eGFP+ HECs. Not consistent with or independent of CD61 expression. Mouse HECs were defined as CD41\u2212 (CD31+CD41\u2212CD45\u2212Ter119\u2212); hematopoietic cells isolated from E8 or E10 mouse embryo exhibited significant differential expression of CD61 and CD41. Expressions of CD41 and CD61 are not consistent in hematopoietic cells differentiated from hPSCs in vitro."
+          },
+          "core_biological_function": "Hematopoietic marker; cell surface integrin involved in cell adhesion; known marker to identify hematopoietic progenitor cells (HPCs) from mouse embryo.",
+          "relevant_activity_context": "Transcriptome analysis of GATA2/eGFP+ HECs during hESC blood differentiation; hematopoiesis in vitro (hPSC differentiation) and in vivo (mouse embryo).",
+          "performance_or_health_indicator": "Its upregulation marks the hematopoietic potential of GATA2/eGFP+ HECs. Known marker for HPCs from mouse embryo; its expression can be independent of CD61 in HECs at early stages of hematopoiesis; requires further investigation to determine exact roles and timing."
+        },
+        {
+          "biomarker_name": "CD226",
+          "measured_tissue_or_fluid": "GATA2/eGFP+ HECs and GATA2/eGFP- ECs (hESC blood differentiation).",
+          "activity_type": "Cell surface protein expression (FACS).",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Highly expressed in GATA2/eGFP+ HECs."
+          },
+          "core_biological_function": "Cell surface marker.",
+          "relevant_activity_context": "Validation of differentially expressed surface markers in hESC blood differentiation.",
+          "performance_or_health_indicator": "Identified as a potential marker to enrich HEC populations."
+        },
+        {
+          "biomarker_name": "CD200",
+          "measured_tissue_or_fluid": "GATA2/eGFP+ HECs and GATA2/eGFP- ECs (hESC blood differentiation).",
+          "activity_type": "Cell surface protein expression (FACS).",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Preferably marked GATA2/eGFP- ECs."
+          },
+          "core_biological_function": "Cell surface marker.",
+          "relevant_activity_context": "Validation of differentially expressed surface markers in hESC blood differentiation.",
+          "performance_or_health_indicator": "Identified as a potential marker for non-hemogenic ECs, aiding in their discrimination from HECs."
+        },
+        {
+          "biomarker_name": "HBE (Embryonic globin)",
+          "measured_tissue_or_fluid": "CFU-erythrocyte derived from GATA2/eGFP+ HECs and HPCs.",
+          "activity_type": "Gene expression.",
+          "measured_effect": {
+            "direction_of_change": "present",
+            "magnitude_quantification": "Expressed in CFU-erythrocyte."
+          },
+          "core_biological_function": "Embryonic hemoglobin component.",
+          "relevant_activity_context": "Erythroid differentiation from GATA2/eGFP+ HECs and HPCs during hPSC blood differentiation.",
+          "performance_or_health_indicator": "Indicates that GATA2/eGFP+ HECs could give rise to HPCs representing primitive hematopoietic systems."
+        },
+        {
+          "biomarker_name": "HBG1 (Adult globin)",
+          "measured_tissue_or_fluid": "CFU-erythrocyte derived from GATA2/eGFP+ HECs and HPCs.",
+          "activity_type": "Gene expression.",
+          "measured_effect": {
+            "direction_of_change": "present",
+            "magnitude_quantification": "Expressed in CFU-erythrocyte."
+          },
+          "core_biological_function": "Adult hemoglobin component (gamma-globin).",
+          "relevant_activity_context": "Erythroid differentiation from GATA2/eGFP+ HECs and HPCs during hPSC blood differentiation.",
+          "performance_or_health_indicator": "Indicates that GATA2/eGFP+ HECs could give rise to HPCs representing definitive hematopoietic systems."
+        },
+        {
+          "biomarker_name": "HBB (Adult globin)",
+          "measured_tissue_or_fluid": "CFU-erythrocyte derived from GATA2/eGFP+ HECs and HPCs.",
+          "activity_type": "Gene expression.",
+          "measured_effect": {
+            "direction_of_change": "present",
+            "magnitude_quantification": "Expressed in CFU-erythrocyte."
+          },
+          "core_biological_function": "Adult hemoglobin component (beta-globin).",
+          "relevant_activity_context": "Erythroid differentiation from GATA2/eGFP+ HECs and HPCs during hPSC blood differentiation.",
+          "performance_or_health_indicator": "Indicates that GATA2/eGFP+ HECs could give rise to HPCs representing definitive hematopoietic systems."
+        },
+        {
+          "biomarker_name": "2.50-kb PCR product",
+          "measured_tissue_or_fluid": "Genomic DNA from H1 cells.",
+          "activity_type": "DNA amplification (PCR).",
+          "measured_effect": {
+            "direction_of_change": "Present",
+            "magnitude_quantification": "A 2.50-kb product was obtained from cell line with the loxP flanked PGK-puromycin cassette."
+          },
+          "core_biological_function": "Verification of genomic DNA modification, specifically the presence of the selection cassette.",
+          "relevant_activity_context": "Successful TALEN targeting of GATA2 locus and integration of loxP-flanked PGK-puromycin cassette in H1 ESCs.",
+          "performance_or_health_indicator": "Confirms successful integration of the donor cassette containing the selection marker at the GATA2 locus."
+        },
+        {
+          "biomarker_name": "1.10-kb PCR product",
+          "measured_tissue_or_fluid": "Genomic DNA from H1 cells.",
+          "activity_type": "DNA amplification (PCR).",
+          "measured_effect": {
+            "direction_of_change": "Present",
+            "magnitude_quantification": "After removal of the cassette, a 1.10-kb product was produced."
+          },
+          "core_biological_function": "Verification of genomic DNA modification, specifically the removal of the selection cassette.",
+          "relevant_activity_context": "Cre recombinase-mediated removal of the loxP-flanked PGK-puromycin cassette from TALEN-targeted H1 ESCs.",
+          "performance_or_health_indicator": "Confirms successful Cre recombinase activity and removal of the PGK-puromycin selection cassette, leaving the desired gene modification."
+        },
+        {
+          "biomarker_name": "eGFP integration",
+          "measured_tissue_or_fluid": "Genomic DNA from H1 cells.",
+          "activity_type": "DNA detection (Southern blot).",
+          "measured_effect": {
+            "direction_of_change": "Verified",
+            "magnitude_quantification": "eGFP probe (probe 1) was used to verify the integration of a single copy of eGFP sequence in the genome."
+          },
+          "core_biological_function": "Marker for successful gene targeting, confirming copy number.",
+          "relevant_activity_context": "Verification of TALEN-mediated GATA2 knockin and eGFP cassette integration in H1 ESCs.",
+          "performance_or_health_indicator": "Confirms successful and single-copy integration of the eGFP reporter in the genome as part of the GATA2 knockin."
+        },
+        {
+          "biomarker_name": "Specific insertion at TALEN cutting site",
+          "measured_tissue_or_fluid": "Genomic DNA from H1 cells.",
+          "activity_type": "DNA detection (Southern blot).",
+          "measured_effect": {
+            "direction_of_change": "Identified",
+            "magnitude_quantification": "The 3\u2032 external probe (probe 2) was used to identify the insertion in the TALEN cutting site as designed."
+          },
+          "core_biological_function": "Verification of precise genomic DNA modification.",
+          "relevant_activity_context": "Verification of TALEN-mediated GATA2 knockin in H1 ESCs.",
+          "performance_or_health_indicator": "Confirms the precise insertion of the donor cassette at the intended TALEN cutting site within the GATA2 locus."
+        }
+      ]
+    }
+  }
+]
