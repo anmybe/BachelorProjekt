@@ -1,0 +1,88 @@
+[
+  {
+    "title": "PLoS One PLoS ONE plos plosone PLoS ONE 1932-6203 Public Library of Science San Francisco, CA USA 5519174 10.1371/journal.pone.0181623 PONE-D-16-20000 Research Article Research and Analysis Methods Immunologic Techniques Immunoassays Enzyme-Linked Immunoassays Biology and Life Sciences Anatomy Body Fluids Urine Medicine and Health Sciences Anatomy Body Fluids Urine Biology and Life Sciences Physiology Body Fluids Urine Medicine and Health Sciences Physiology Body Fluids Urine Biology and Life Sciences Biochemistry Proteins Muscle Proteins Biology and Life Sciences Anatomy Musculoskeletal System Muscles Skeletal Muscles Medicine and Health Sciences Anatomy Musculoskeletal System Muscles Skeletal Muscles Biology and Life Sciences Physiology Physiological Processes Excretion Medicine and Health Sciences Physiology Physiological Processes Excretion Biology and Life Sciences Biochemistry Proteins Structural Proteins Biology and Life Sciences Biochemistry Biomarkers Medicine and Health Sciences Public and Occupational Health Physical Activity Physical Fitness Exercise Strength Training Medicine and Health Sciences Sports and Exercise Medicine Exercise Strength Training Detection of titin fragments in urine in response to exercise-induced muscle damage Urinary titin and muscle damage Kanda Kazue Formal analysis Investigation Validation Writing \u2013 original draft Writing \u2013 review & editing 1 Sakuma Jun Investigation Methodology Writing \u2013 original draft Writing \u2013 review & editing 2 Akimoto Takayuki Conceptualization Investigation Methodology Validation Writing \u2013 review & editing 3 4 Kawakami Yasuo Investigation Methodology Supervision Writing \u2013 review & editing 4 Suzuki Katsuhiko Conceptualization Data curation Funding acquisition Investigation Project administration Resources Supervision Validation Visualization Writing \u2013 review & editing 1 4 * 1 Institute for Nanoscience & Nanotechnology, Waseda University, Shinjyuku, Tokyo, Japan 2 Department of Health Science, Musashigaoka Junior College, Yoshimityo, Saitama, Japan 3 Division of Regenerative Medical Engineering, Centre for Disease Biology and Integrative Medicine, Graduate School of Medicine, The University of Tokyo, Bunkyo, Tokyo, Japan 4 Faculty of Sport Sciences, Waseda University, Tokorozawa, Saitama, Japan Vlahou Antonia Editor Biomedical Research Foundation, Academy of Athens, GREECE Competing Interests: The authors have declared that no competing interests exist. * E-mail: katsu.suzu@waseda.jp 20 7 2017 2017 12 7 e0181623 17 5 2016 5 7 2017 \u00a9 2017 Kanda et al 2017 Kanda et al This is an open access article distributed under the terms of the Creative Commons Attribution License , which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited. Many studies have attempted to determine the associations between blood biomarkers and exercise-induced muscle damage. However, poor correlations between the changes in biomarker levels and the magnitude of muscle symptoms have been reported. Recent advances in proteomic tools offer a strategy for the comprehensive analysis of protein expression, which can be used to identify biomarkers. Here, we used a proteomic analysis to identify urinary proteins that appear in response to a calf-raise exercise, including repetitive eccentric muscle contractions, and found that a titin (also known as connectin) N-terminal fragment molecule appears in the urine after eccentric exercise. We measured the titin fragment in urine samples from nine individuals before and after eccentric exercise using a newly-established enzyme-linked immunosorbent assay and found that the titin fragment excretion rate increased 96 h after the exercise (5.1 to 77.6 pg/min, p <0.01). The changes in the titin fragment excretion rate were correlated strongly with blood markers of muscle damage and with muscle symptoms. These findings suggest that the urinary titin fragment is potentially a noninvasive biomarker of muscle damage. http://dx.doi.org/10.13039/501100001700 Ministry of Education, Culture, Sports, Science, and Technology 23240097, 15H0183 Suzuki Katsuhiko http://dx.doi.org/10.13039/501100001700 Ministry of Education, Culture, Sports, Science, and Technology Strategic Research Foundation at Private Universities This study was supported by the Grant-in Aid for Scientific Research (A) (23240097, 15H0183) and the Strategic Research Foundation at Private Universities from the Ministry of Education, Culture, Sports, Science, and Technology, Japan. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript. Data Availability All relevant data are within the paper and its Supporting Information files. Data Availability All relevant data are within the paper and its Supporting Information files. Introduction Muscle damage is readily induced by eccentric exercise [ 1 , 2 ], causing skeletal myofiber disruption, inflammatory cell infiltration, and muscle soreness [ 3 , 4 ], similar to the pathology of myopathy. The direct assessment of muscle damage involves a morphological evaluation of the skeletal muscle [ 5 , 6 , 7 ]. However, it is sometimes difficult to find the disrupted tissue because eccentric muscle contraction induces sporadic muscle disruption. Moreover, researchers generally hesitate to take muscle biopsy due to its invasiveness, so that researchers have been searching for noninvasive ways to assess muscle disruption for use in both the clinical and laboratory contexts. The activities of muscle-derived enzymes in the blood, such as creatine kinase (CK), lactate dehydrogenase (LDH), and the myocellular protein myoglobin (Mb), which leak into the circulation from damaged muscle, have been used as indirect markers of muscle damage [ 8 , 9 , 10 ]. Delayed-onset muscle soreness (DOMS) and changes in the range of motion (ROM) have also been used as indicators of muscle damage [ 1 , 11 ]. However, poor correlations have been reported between the changes in the concentrations of muscle damage markers and the magnitude of muscle symptoms after eccentric exercise [ 12 ]. It has also been reported that the serum levels of these biomarkers depend on sex, muscle mass, and the intensity and duration of exercise [ 2 ]. There is also remarkable interindividual variation in the degree to which serum enzyme activities increase with exercise [ 2 , 13 ]. Therefore, there are very few noninvasive and sensitive biomarkers that accurately reflect exercise-induced muscle damage. Recent advances in proteomic tools offer a strategy for the comprehensive analysis of protein expression, which can be applied to the search for biomarkers. In fact, many proteomic studies have already been used to identify biomarkers among serum, urinary, and salivary proteins for the early diagnosis of various diseases, including cancer [ 14 ] and Alzheimer\u2019s disease [ 15 ]. In the context of exercise-induced muscle damage, Malm et al. reported that the expression of several Z-band-related proteins was detected in the serum after eccentric exercise [ 16 ]. Sietsema et al. reported that alpha 1-antichymotrypsin and C-1 protease inhibitor peptides increased earlier than CK after exercise, and suggested these proteins as new biomarkers of muscle injury [ 17 ]. However, to date, no study has used proteomics to analyze urinary proteins after eccentric exercise. In this study, we performed a comprehensive proteomic analysis to identify urinary proteins that are responsive to acute eccentric exercise. We found that an N-terminal fragment of titin (also known as connectin) is detectable in urine after eccentric exercise. We then established a quantitative enzyme-linked immunosorbent assay (ELISA) to measure the urinary titin fragment, and evaluated the utility of the urinary titin fragment as a biomarker of exercise-induced muscle damage.",
+    "document_source_id": "28727760",
+    "analysis_date": "2025-12-09",
+    "extracted_data": {
+      "document_summary": "This study investigated urinary proteins responsive to acute eccentric calf-raise exercise in healthy males, identifying an N-terminal fragment of titin. The urinary titin fragment significantly increased 96 hours post-exercise and correlated strongly with established blood biomarkers of muscle damage (CK, Mb, LDH, ALD) and muscle symptoms (DOMS, reduced muscle strength, and range of motion), proposing its potential as a non-invasive biomarker for exercise-induced muscle damage.",
+      "treatment_details": {
+        "therapy_type": "Eccentric Calf-Raise Exercise",
+        "dose_specificity": "Acute, single-leg calf-raise exercise (right leg) involving repetitive eccentric muscle contractions. The protocol consisted of 10 sets of 40 repetitions (total 400 repetitions) with 3-minute rest between sets, performed at 60 counts/min. Ankle joint range of motion was maintained between 20\u00b0 dorsiflexion and 15\u00b0 plantar flexion, with an exercise load approximately half the subject's body weight. Samples were collected before and up to 96 hours post-exercise. No dose-response comparisons were reported."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "Titin N-terminal fragment",
+          "measured_tissue_or_fluid": "Urine",
+          "activity_type": "Protein Excretion Rate",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Excretion rates were 5.1 \b1 2.3 pg/min (Pre) and increased significantly to 77.6 \b1 23.0 pg/min 96 hours after eccentric exercise (p < 0.01). Other time points include 2.2 \b1 0.6 pg/min (2h), 4.2 \b1 1.5 pg/min (4h), 4.0 \b1 1.4 pg/min (24h), 12.9 \b1 8.6 pg/min (48h), and 56.9 \b1 22.0 pg/min (72h)."
+          },
+          "core_biological_function": "Structural sarcomere protein of striated muscle, essential for passive and active contractility and myofibril elasticity, linking the Z-line to the M-line. Released into circulation upon skeletal myofiber disruption.",
+          "relevant_activity_context": "Acute eccentric calf-raise exercise involving repetitive contractions, leading to exercise-induced muscle damage.",
+          "performance_or_health_indicator": "Potential non-invasive biomarker of muscle damage, reflecting and correlating strongly with established serum markers of muscle damage (CK, Mb, LDH, ALD) and muscle symptoms (DOMS, reduced muscle strength, and range of motion)."
+        },
+        {
+          "biomarker_name": "Ankle joint torque",
+          "measured_tissue_or_fluid": "Ankle joint (functional assessment)",
+          "activity_type": "Functional measurement",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "decreased significantly after eccentric exercise (p < 0.01 and p < 0.05)"
+          },
+          "core_biological_function": "Represents the force-producing capacity of the calf muscles.",
+          "relevant_activity_context": "Post-eccentric calf-raise exercise.",
+          "performance_or_health_indicator": "Indicates muscle fatigue, temporary strength loss, and/or muscle damage."
+        },
+        {
+          "biomarker_name": "CK (Creatine Kinase)",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Enzyme Activity",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Increased on and after 48 h after exercise. Positive correlations with urinary titin fragment percentage change at 48 h (r = 0.98, p < 0.01) and 72 h (r = 0.79, p < 0.05; r = 0.81, p < 0.01). CK activities at 48 h correlated with DOMS at 48 h (r = 0.93, p < 0.01) and 72 h (r = 0.80, p < 0.05). Negative correlation between percentage changes in CK activity at 72 h and torque post exercise (r = -0.74, p < 0.05)."
+          },
+          "core_biological_function": "An established marker of muscle damage, indicating muscle cell injury or integrity.",
+          "relevant_activity_context": "After eccentric exercise; exercise-induced muscle damage.",
+          "performance_or_health_indicator": "Indicates muscle damage level; correlated with DOMS and reduced muscle strength."
+        },
+        {
+          "biomarker_name": "Mb (Myoglobin)",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Increased on and after 48 h after exercise. Positive correlations with urinary titin fragment percentage change at 48 h (r = 0.98, p < 0.01) and 72 h (r = 0.67, p < 0.05). Titin fragment at 48 h correlated with Mb at 72 h (r = 0.88, p < 0.01). Mb at 48 h correlated with DOMS at 48 h (r = 0.94, p < 0.01) and 72 h (r = 0.82, p < 0.05). Mb at 72 h correlated with DOMS at 48 h (r = 0.72, p < 0.05). Negative correlation between percentage changes in Mb at 72 h and torque post exercise (r = -0.75, p < 0.05)."
+          },
+          "core_biological_function": "An established marker of muscle damage, indicating muscle cell injury or integrity.",
+          "relevant_activity_context": "After eccentric exercise; exercise-induced muscle damage.",
+          "performance_or_health_indicator": "Indicates muscle damage level; correlated with DOMS and reduced muscle strength."
+        },
+        {
+          "biomarker_name": "LDH (Lactate Dehydrogenase)",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Enzyme Activity",
+          "measured_effect": {
+            "direction_of_change": "correlated with changes in",
+            "magnitude_quantification": "Significant correlations between changes in urinary titin fragment concentrations and changes in serum LDH after acute eccentric exercise. Positive correlation between titin fragment at 48 h and LDH at 72 h (r = 0.91, p < 0.01)."
+          },
+          "core_biological_function": "An established marker of muscle damage, indicating muscle cell injury.",
+          "relevant_activity_context": "After acute eccentric exercise; exercise-induced muscle damage.",
+          "performance_or_health_indicator": "Indicates muscle damage level."
+        },
+        {
+          "biomarker_name": "ALD (Aldolase)",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Enzyme Activity",
+          "measured_effect": {
+            "direction_of_change": "correlated with changes in",
+            "magnitude_quantification": "Significant correlations between changes in urinary titin fragment concentrations and changes in serum ALD after acute eccentric exercise. Positive correlation between titin fragment and ALD at 48 h (r = 0.98, p < 0.01), and titin fragment at 48 h and ALD at 72 h (r = 0.94, p < 0.01)."
+          },
+          "core_biological_function": "An established marker of muscle damage, indicating muscle cell injury.",
+          "relevant_activity_context": "After acute eccentric exercise; exercise-induced muscle damage.",
+          "performance_or_health_indicator": "Indicates muscle damage level."
+        }
+      ]
+    }
+  }
+]

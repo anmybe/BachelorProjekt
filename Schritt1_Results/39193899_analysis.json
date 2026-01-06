@@ -1,0 +1,340 @@
+[
+  {
+    "title": "pmc Alzheimers Dement Alzheimers Dement 10.1002/(ISSN)1552-5279 ALZ Alzheimer's & Dementia 1552-5260 1552-5279 John Wiley and Sons Inc. Hoboken 11633365 39193899 10.1002/alz.14061 ALZ14061 Research Article Research Article Blood\u2010based multivariate methylation risk score for cognitive impairment and dementia KOETSIER et al. Koetsier Jarno 1 2 Cavill Rachel 3 Reijnders Rick 1 Harvey Joshua 4 Homann Jan 5 Kouhsar Morteza 4 Deckers Kay 1 K\u00f6hler Sebastian 1 Eijssen Lars M. T. 1 6 van den Hove Daniel L. A. 1 7 Demuth Ilja 8 9 D\u00fczel Sandra 10 for the Alzheimer's Disease Neuroimaging Initiative Smith Rebecca G. 4 Smith Adam R. 4 Burrage Joe 4 Walker Emma M. 4 Shireby Gemma 4 Hannon Eilis 4 Dempster Emma 4 Frayling Tim 4 Mill Jonathan 4 Dobricic Valerija 11 Johannsen Peter 12 Wittig Michael 13 Franke Andre 13 Vandenberghe Rik 14 Schaeverbeke Jolien 14 Freund\u2010Levi Yvonne 15 16 17 Fr\u00f6lich Lutz 18 Scheltens Philip 19 Teunissen Charlotte E. 20 Frisoni Giovanni 21 Blin Olivier 22 Richardson Jill C. 23 Bordet R\u00e9gis 24 Engelborghs Sebastiaan 25 26 de Roeck Ellen 25 Martinez\u2010Lage Pablo 27 Tainta Mikel 27 Lle\u00f3 Alberto 28 Sala Isabel 28 Popp Julius 29 Peyratout Gwendoline 30 Verhey Frans 1 Tsolaki Magda 31 Andreasson Ulf 32 Blennow Kaj 32 33 34 35 Zetterberg Henrik 32 36 37 38 39 Streffer Johannes 40 Vos Stephanie J. B. 1 Lovestone Simon 41 Visser Pieter\u2010Jelle 1 17 Lill Christina M. 5 42 Bertram Lars 11 Lunnon Katie 4 Pishva Ehsan https://orcid.org/0000-0002-8964-0682 1 4 e.pishva@maastrichtuniversity.nl 1 Department of Psychiatry and Neuropsychology School for Mental Health and Neuroscience (MHeNs), Faculty of Health, Medicine and Life Sciences (FHML), Maastricht University Maastricht The Netherlands 2 Department of Biochemistry Cardiovascular Research Institute Maastricht (CARIM), Faculty of Health, Medicine and Life Sciences (FHML), Maastricht University Maastricht The Netherlands 3 Department of Advanced Computing Sciences (DACS) Faculty of Science and Engineering (FSE) Maastricht University Maastricht The Netherlands 4 Medical School Faculty of Health and Life Sciences University of Exeter Exeter UK 5 Institute of Epidemiology and Social Medicine University of M\u00fcnster M\u00fcnster Germany 6 Department of Bioinformatics \u2010 BiGCaT Research Institute of Nutrition and Translational Research in Metabolism (NUTRIM) Faculty of Health Medicine and Life Sciences (FHML), Maastricht University Maastricht The Netherlands 7 Department of Psychiatry Psychosomatics and Psychotherapy, University of Wuerzburg, Dr. Manuel Nagel W\u00fcrzburg Germany 8 Department of Endocrinology and Metabolic Diseases (including Division of Lipid Metabolism) Charit\u00e9 \u2013 Universit\u00e4tsmedizin Berlin corporate member of Freie Universit\u00e4t Berlin and Humboldt\u2010Universit\u00e4t zu Berlin Berlin Germany 9 BCRT \u2010 Berlin Institute of Health Center for Regenerative Therapies Berlin Institute of Health at Charit\u00e9 \u2013 Universit\u00e4tsmedizin Berlin Berlin Germany 10 Center for Lifespan Psychology, Max Planck Institute for Human Development Berlin Germany 11 L\u00fcbeck Interdisciplinary Platform for Genome Analytics (LIGA), University of L\u00fcbeck L\u00fcbeck Germany 12 Danish Dementia Research Centre, Rigshospitalet Copenhagen Denmark 13 Institute of Clinical Molecular Biology, Christian\u2010Albrechts\u2010University of Kiel Kiel Germany 14 Laboratory for Cognitive Neurology, KU Leuven Leuven Belgium 15 Department of Clinical Science and Education S\u00f6dersjukhuset, Karolinska Institutet Stockholm Sweden 16 School of Medical Sciences \u00d6rebro University \u00d6rebro Sweden 17 Department of Geriatrics S\u00f6dert\u00e4lje Hospital S\u00f6dert\u00e4lje Sweden 18 Department of Geriatric Psychiatry Central Institute of Mental Health; Medical Faculty Mannheim/Heidelberg University Mannheim Germany 19 Department of Neurology Alzheimer Center Amsterdam Amsterdam Neuroscience, Vrije Universiteit Amsterdam, Amsterdam UMC Amsterdam The Netherlands 20 Neurochemistry Laboratory Department of Laboratory Medicine Amsterdam Neuroscience, Vrije Universiteit Amsterdam, Amsterdam UMC Amsterdam The Netherlands 21 Memory Center Geneva University and University Hospitals; on behalf of the AMYPAD Consortium Gen\u00e8ve Switzerland 22 Aix\u2010Marseille University\u2010CNRS Marseille France 23 Neuroscience Therapeutic Area, GlaxoSmithKline R&D Stevenage Hertfordshire UK 24 Universit\u00e9 de Lille Lille Cedex France 25 Department of Biomedical Sciences University of Antwerp Antwerpen Belgium 26 Neuroprotection & Neuromodulation (NEUR) Research Group, Center for Neurosciences (C4N), Vrije Universiteit Brussel (VUB) Jette, Brussels Belgium 27 Center for Research and Advanced Therapies CITA\u2010Alzheimer Foundation Gipuzkoa Spain 28 Neurology Department Centro de Investigaci\u00f3n en Red en enfermedades neurodegenerativas (CIBERNED), Hospital Sant Pau, Sant Antoni Maria Claret Barcelona Spain 29 University Hospital of Psychiatry Z\u00fcrich University of Z\u00fcrich Z\u00fcrich Switzerland 30 Department of Psychiatry University Hospital of Lausanne (CHUV) Lausanne Switzerland 31 1st Department of Neurology School of Medicine `Laboratory of Neurodegenerative Diseases Center for Interdisciplinary Research and Innovation Aristotle University of Thessaloniki, and Alzheimer Hellas, Macedonia, Balkan Center Thessaloniki Greece 32 Institute of Neuroscience and Physiology Department of Psychiatry and Neurochemistry The Sahlgrenska Academy at University of Gothenburg G\u00f6teborg Sweden 33 Clinical Neurochemistry Lab Sahlgrenska University Hospital G\u00f6teborg Sweden 34 Paris Brain Institute ICM, Piti\u00e9\u2010Salp\u00eatri\u00e8re Hospital Sorbonne University Paris France 35 Neurodegenerative Disorder Research Center Division of Life Sciences and Medicine and Department of Neurology Institute on Aging and Brain Disorders University of Science and Technology of China and First Affiliated Hospital of USTC Hefei P.R. China 36 Department of Neurodegenerative Disease UCL Institute of Neurology, Queen Square London UK 37 UK Dementia Research Institute at UCL, Maple House London UK 38 Hong Kong Center for Neurodegenerative Diseases Clear Water Bay Shatin, N.T. Hong Kong China 39 Wisconsin Alzheimer's Disease Research Center University of Wisconsin School of Medicine and Public Health University of Wisconsin\u2010Madison Madison Wisconsin USA 40 AC Immune SA, formerly Janssen R&D, LLC. Beerse, Belgium at the time of study conduct Lausanne Switzerland 41 University of Oxford Oxford, United Kingdom; Currently at Johnson & Johnson Innovative Medicines Beerse Belgium 42 Ageing Epidemiology Research Unit, School of Public Health, Imperial College, South Kensington Campus London UK * Correspondence Ehsan Pishva, Department of Psychiatry and Neuropsychology, Mental Health and Neuroscience Research Institute (MHeNs), Faculty of Health, Medicine and Life Sciences (FHML), Maastricht University, 6200 MD Maastricht, The Netherlands. Email: e.pishva@maastrichtuniversity.nl 28 8 2024 10 2024 20 10 10.1002/alz.v20.10 6682 6698 03 5 2024 06 12 2023 06 5 2024 \u00a9 2024 The Author(s). Alzheimer's & Dementia published by Wiley Periodicals LLC on behalf of Alzheimer's Association. https://creativecommons.org/licenses/by-nc-nd/4.0/ This is an open access article under the terms of the http://creativecommons.org/licenses/by-nc-nd/4.0/ License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non\u2010commercial and no modifications or adaptations are made. Abstract INTRODUCTION The established link between DNA methylation and pathophysiology of dementia, along with its potential role as a molecular mediator of lifestyle and environmental influences, positions blood\u2010derived DNA methylation as a promising tool for early dementia risk detection. METHODS In conjunction with an extensive array of machine learning techniques, we employed whole blood genome\u2010wide DNA methylation data as a surrogate for 14 modifiable and non\u2010modifiable factors in the assessment of dementia risk in independent dementia cohorts. RESULTS We established a multivariate methylation risk score (MMRS) for identifying mild cognitive impairment cross\u2010sectionally, independent of age and sex ( P = 2.0 \u00d7 10 \u22123 ). This score significantly predicted the prospective development of cognitive impairments in independent studies of Alzheimer's disease (hazard ratio for Rey's Auditory Verbal Learning Test (RAVLT)\u2010Learning = 2.47) and Parkinson's disease (hazard ratio for MCI/dementia = 2.59). DISCUSSION Our work shows the potential of employing blood\u2010derived DNA methylation data in the assessment of dementia risk. Highlights We used whole blood DNA methylation as a surrogate for 14 dementia risk factors. Created a multivariate methylation risk score for predicting cognitive impairment. Emphasized the role of machine learning and omics data in predicting dementia. The score predicts cognitive impairment development at the population level. aging Alzheimer's disease dementia DNA methylation epigenetics machine learning mild cognitive impairments Parkinson's disease risk prediction ZonMw Memorabel/Alzheimer Nederland 733050516 Innovative Medicines Initiative Joint Undertaking 115372 European Union's Seventh Framework Program FP7/2007\u20102013 National Institute for Health and Care Research 10.13039/501100000272 Biomedical research Centre Heisenberg grant of the German Research Foundation LI 2654/4\u20131 EU Joint Programme \u2013 Neurodegenerative Disease Research 2021\u2033 JPND2021 EPIC4ND Cure Alzheimer's Fund 10.13039/100007625 EPIC4AD European Union's Horizon Europe research and innovation programme 101053962 Swedish State Support for Clinical Research #ALFGBG\u201071320 Alzheimer Drug Discovery Foundation (ADDF), USA #201809\u20102016862 AD Strategic Fund and the Alzheimer's Association #ADSF\u201021\u2010831376\u2010C #ADSF\u201021\u2010831381\u2010C #ADSF\u201021\u2010831377\u2010C Bluefield Project Olav Thon Foundation Familjen Erling\u2010Perssons Stiftelse Stiftelsen f\u00f6r Gamla Tj\u00e4narinnor 10.13039/100010815 Marie Sk\u0142odowska\u2010Curie 860197 European Union Joint Programme \u2013 Neurodegenerative Disease Research JPND2021\u201000694 National Institute for Health and Care Research University College London Hospitals Biomedical Research Centre UK Dementia Research Institute 10.13039/501100017510 Swedish Alzheimer Foundation #AF\u2010930351 #AF\u2010939721 #AF\u2010968270 Hj\u00e4rnfonden, Sweden #FO2022\u20100270 #FO2017\u20100243 #ALZ2022\u20100006 ALF\u2010agreement #ALFGBG\u2010715986 #ALFGBG\u2010965240 European Union Joint Program for Neurodegenerative Disorders JPND2019\u2010466\u2010236 Alzheimer's Association 2021 Zenith Award ZEN\u201021\u2010848495 SG\u201023\u20101038904 QC Alzheimer's Society UK AS\u2010PG\u201014\u2010038 Medical Research Council 10.13039/501100000265 National Institute of Aging (NIA) National Institutes of Health (NIH) R01AG067015 Alzheimer's Disease Neuroimaging Initiative (ADNI) (National Institutes of Health U01 AG024904 DOD ADNI (Department of Defense award W81XWH\u201012\u20102\u20100012 National Institute on Aging 10.13039/100000049 National Institute of Biomedical Imaging and Bioengineering 10.13039/100000070 Swedish Research Council 10.13039/501100004359 #2022\u201001018 #2019\u201002397 #2017\u201000915 #2022\u201000732 source-schema-version-number 2.0 cover-date October 2024 details-of-publishers-convertor Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.1 mode:remove_FC converted:11.12.2024 Koetsier J , Cavill R , Reijnders R , et al. Blood\u2010based multivariate methylation risk score for cognitive impairment and dementia . Alzheimer's Dement . 2024 ; 20 : 6682 \u2013 6698 . 10.1002/alz.14061 39193899",
+    "document_source_id": "39193899",
+    "analysis_date": "2025-12-10",
+    "extracted_data": {
+      "document_summary": "This study developed and validated blood-derived DNA methylation-based prediction models, including epigenetic scores (epi-LIBRA, epi-CAIDE) and a Multivariate Methylation Risk Score (MMRS), to assess and predict cognitive impairment and dementia (including AD and MCI) in various independent cohorts. The MMRS showed notable predictive capacity for MCI and prospective cognitive decline in AD and Parkinson's disease, and enhanced prediction when combined with traditional biomarkers, though individual epi-CAIDE and epi-LIBRA models performed poorly for AD and MCI status prediction. The study also detailed data preprocessing for various dementia risk factors, CSF biomarkers (amyloid-\b, tau, p-tau), whole blood DNA methylation profiling, and polygenic scores, aiming to investigate cognitive status and dementia.",
+      "treatment_details": {
+        "therapy_type": "Diagnostic/Prognostic Model Development and Validation using Epigenetic Markers",
+        "dose_specificity": "This observational study involved the development and validation of DNA methylation-based predictive models (including MMRS, epi-CAIDE, epi-LIBRA) for cognitive impairment and dementia. Whole blood genome-wide DNA methylation data, genotyping, and CSF biomarkers were utilized from various cohorts (EXTEND, EMIF-AD MBD, PPMI, ADNI, BASE-II) with different age ranges (40-75, \b60 years). Models were constructed using machine learning techniques (e.g., ElasticNet, Random Forest, sPLS-DA, RF-RFE) with hyperparameter optimization via cross-validation. The study focused on predictive modeling and model performance comparisons, rather than therapeutic interventions or traditional dose-response relationships."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "Multivariate Methylation Risk Score (MMRS)",
+          "measured_tissue_or_fluid": "Whole Blood",
+          "activity_type": "Molecular Risk Score (derived from genome-wide DNA methylation data)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Associated with identifying mild cognitive impairment cross-sectionally (P = 2.0 \b 10\b3), independent of age and sex. Predicted prospective development of cognitive impairments in Alzheimer's disease (hazard ratio for Rey's Auditory Verbal Learning Test (RAVLT)\bLearning = 2.47) and Parkinson's disease (hazard ratio for MCI/dementia = 2.59). Achieved an AUROC score of 0.68 for MCI status prediction, which indicates limited accuracy for individual-level predictions but is comparable to other scores (e.g., LIBRA score AUROC 0.65). It enhanced cross-sectional MCI predictions compared to traditional genetic and/or CSF biomarkers. Could not significantly predict AD status."
+          },
+          "core_biological_function": "Functions as a composite molecular indicator of dementia risk, reflecting the established link between DNA methylation and dementia pathophysiology, and potentially mediating lifestyle and environmental influences on risk. Components (MPSs) linked to cardiovascular-related risk factors.",
+          "relevant_activity_context": "Assessment of dementia risk, identification of mild cognitive impairment, and prediction of prospective cognitive impairment development in Alzheimer's disease and Parkinson's disease cohorts. Population-based prediction of Mild Cognitive Impairment (MCI) and cognitive impairment in newly diagnosed Parkinson's Disease (PD) using whole-blood DNA methylation data, validated across EMIF-AD MBD, PPMI, ADNI, and BASE-II cohorts.",
+          "performance_or_health_indicator": "Serves as a promising tool for early dementia risk detection and prediction of future cognitive decline and dementia. Demonstrates utility in population-based prediction of cognitive impairment and dementia, particularly MCI. Offers a more objective assessment of dementia risk using blood samples compared to questionnaire-based scores. Has the potential to enable targeted intervention strategies by identifying modifiable risk factors."
+        },
+        {
+          "biomarker_name": "DNA Methylation",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Epigenetic Modification",
+          "measured_effect": {
+            "direction_of_change": "Specific patterns are associated with increased risk of cognitive impairment and dementia",
+            "magnitude_quantification": "Models were developed to be objective and precise for predicting LIBRA and CAIDE scores, and AD dementia/MCI. Predictive performance was validated across independent cohorts, but specific quantitative metrics (e.g., AUC, sensitivity, specificity) for model accuracy are not provided in this chunk."
+          },
+          "core_biological_function": "Key epigenetic mechanism involved in the molecular pathology of dementia; mediates the impact of lifestyle and environmental factors on the genome by regulating gene expression.",
+          "relevant_activity_context": "Development of DNA methylation-based prediction models for 'LIfestyle for BRAin Health' (LIBRA) and 'Cardiovascular Risk Factors, Aging, and Dementia' (CAIDE) scores, and a multivariate methylation risk score (MMRS) for prediction of AD dementia and MCI in midlife and elderly cohorts.",
+          "performance_or_health_indicator": "Potential to capture both genetic and environmental information at the individual level; used to identify people at risk of developing dementia and cognitive decline; associated with the current status and future onset of cognitive impairments."
+        },
+        {
+          "biomarker_name": "APOE \b4 genotype",
+          "measured_tissue_or_fluid": "Blood-derived DNA",
+          "activity_type": "Genetic variation/Genotype status",
+          "measured_effect": {
+            "direction_of_change": "Presence of APOE \b4 allele is associated with increased risk of dementia and cognitive decline",
+            "magnitude_quantification": "Methylation profile scores (MPSs) were established for individual dementia risk factors, including APOE \b4 genotype, to contribute to overall multivariate methylation risk scores. Specific quantitative effects of the genotype or its MPS are not detailed in this chunk."
+          },
+          "core_biological_function": "A well-established non-modifiable genetic risk factor for cognitive decline and dementia.",
+          "relevant_activity_context": "Included as an individual dementia risk factor in the development of methylation profile scores (MPSs) that contribute to the overall multivariate methylation risk scores for LIBRA and CAIDE.",
+          "performance_or_health_indicator": "Predictor of cognitive decline and dementia risk; its influence on methylation patterns is integrated into multivariate methylation risk scores for enhanced predictive performance."
+        },
+        {
+          "biomarker_name": "Amyloid-\b (A\b)",
+          "measured_tissue_or_fluid": "Cerebral Spinal Fluid (CSF)",
+          "activity_type": "Z-scores (standardized scores) for amyloid pathology",
+          "measured_effect": {
+            "direction_of_change": "Defined as standardized scores; no directional change from an intervention is reported in this context.",
+            "magnitude_quantification": "Standardized within-assay according to the mean and standard deviation of the control group, based on the CSF A\b42/40 ratio from central analyses, local CSF-A\b42, and the standardized uptake value ratio (SUVR) on an amyloid PET scan."
+          },
+          "core_biological_function": "Associated with amyloid pathology",
+          "relevant_activity_context": "EMIF-AD MBD study and ADNI cohort, used for assessing cognitive status and dementia.",
+          "performance_or_health_indicator": "Indicator of amyloid pathology, relevant for Alzheimer's disease diagnosis and cognitive impairment."
+        },
+        {
+          "biomarker_name": "Phosphorylated Tau (p-tau181p)",
+          "measured_tissue_or_fluid": "Cerebral Spinal Fluid (CSF)",
+          "activity_type": "Z-scores (standardized scores) for local p-tau levels; Protein Level / Biomarker concentration",
+          "measured_effect": {
+            "direction_of_change": "associated in anticipated direction",
+            "magnitude_quantification": "Defined as standardized scores; no directional change from an intervention is reported in this context. Defined by local p-tau levels as measured by center-specific enzyme-linked immunosorbent assays (ELISAs), standardized within assay according to the mean and standard deviation of the healthy controls. Associated in anticipated direction (FDR-adjusted P = 0.02)."
+          },
+          "core_biological_function": "Associated with tau pathology; a specific indicator of Alzheimer's pathology.",
+          "relevant_activity_context": "EMIF-AD MBD study and ADNI cohort, used for assessing cognitive status and dementia. Association with MMRS-MCI (RF-RFE) risk score at baseline in the ADNI cohort.",
+          "performance_or_health_indicator": "Indicator of tau pathology, relevant for Alzheimer's disease diagnosis and cognitive impairment. Significant association with the MMRS-MCI model, underscoring model robustness in capturing biomarker variations relevant to Alzheimer's pathology."
+        },
+        {
+          "biomarker_name": "Total Tau (t-tau)",
+          "measured_tissue_or_fluid": "Cerebral Spinal Fluid (CSF)",
+          "activity_type": "Z-scores (standardized scores) for local t-tau levels; Protein Level / Biomarker concentration",
+          "measured_effect": {
+            "direction_of_change": "associated in anticipated direction",
+            "magnitude_quantification": "Defined as standardized scores; no directional change from an intervention is reported in this context. Defined by local t-tau levels as measured by center-specific enzyme-linked immunosorbent assays (ELISAs), standardized within assay according to the mean and standard deviation of the healthy controls. Associated in anticipated direction (FDR-adjusted P = 0.02)."
+          },
+          "core_biological_function": "Associated with tau pathology; structural protein in neurons, elevated levels indicate neuronal damage.",
+          "relevant_activity_context": "EMIF-AD MBD study and ADNI cohort, used for assessing cognitive status and dementia. Association with MMRS-MCI (RF-RFE) risk score at baseline in the ADNI cohort.",
+          "performance_or_health_indicator": "Indicator of tau pathology, relevant for Alzheimer's disease diagnosis and cognitive impairment. Significant association with the MMRS-MCI model, underscoring model robustness in capturing biomarker variations relevant to neurodegeneration."
+        },
+        {
+          "biomarker_name": "epi-CAIDE score",
+          "measured_tissue_or_fluid": "Derived from blood-derived DNA methylation data",
+          "activity_type": "Prediction score based on DNA methylation patterns; Predictive score",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Cross-validation R^2 = 0.47 for CAIDE score prediction; R^2 = 0.45 with chronological age; R^2 = 0.55 with epigenetic age. AUROC <= 0.61; Demonstrated poor predictive performance for AD and MCI statuses within the EMIF-AD MBD cohort, indicating it is a poor estimator of MCI and AD status, despite robust correlation with chronological and epigenetic age."
+          },
+          "core_biological_function": "Computational integration of epigenetic markers to estimate Alzheimer's disease risk based on the CAIDE index factors; Epigenetic risk assessment for cognitive decline.",
+          "relevant_activity_context": "Prediction of dementia risk (CAIDE score) and correlation with chronological and epigenetic age. Prediction of MCI and AD status in the EMIF-AD MBD study using random Forest models. Prediction of AD and MCI status based on whole-blood DNA methylation data in a midlife general population and validated in the EMIF-AD MBD cohort.",
+          "performance_or_health_indicator": "Potential indicator of dementia risk; shows a robust association with chronological and epigenetic age, underscoring age's predominant influence on this score. However, it has limited utility for individual-level prediction of AD and MCI, possibly due to issues in weighting risk factors or capturing discrepancies in total scores."
+        },
+        {
+          "biomarker_name": "epi-LIBRA score",
+          "measured_tissue_or_fluid": "Derived from blood-derived DNA methylation data",
+          "activity_type": "Prediction score based on DNA methylation patterns; Predictive score",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Maximal cross-validation R^2 = 0.04. AUROC <= 0.61; Demonstrated poor predictive performance for AD and MCI statuses within the EMIF-AD MBD cohort, indicating it is a poor estimator of MCI and AD status."
+          },
+          "core_biological_function": "Computational integration of epigenetic markers to estimate Alzheimer's disease risk based on the LIBRA index factors; Epigenetic risk assessment for cognitive decline.",
+          "relevant_activity_context": "Prediction of dementia risk (LIBRA score). Prediction of MCI and AD status in the EMIF-AD MBD study using random Forest models. Prediction of AD and MCI status based on whole-blood DNA methylation data in a midlife general population and validated in the EMIF-AD MBD cohort.",
+          "performance_or_health_indicator": "Indicates poor predictive performance and limited utility for individual-level prediction of AD and MCI, possibly due to issues in weighting risk factors or capturing discrepancies in total scores."
+        },
+        {
+          "biomarker_name": "Age (as a predicted risk factor)",
+          "measured_tissue_or_fluid": "Blood-derived DNA methylation data",
+          "activity_type": "Predictive capability from DNA methylation data",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "R^2 = 0.92 (EXTEND cohorts); R^2 = 0.87 (EMIF-AD MBD study)."
+          },
+          "core_biological_function": "Fundamental demographic factor influencing cognitive health and epigenetic markers.",
+          "relevant_activity_context": "Prediction by blood-derived DNA methylation data in EXTEND and EMIF-AD MBD cohorts.",
+          "performance_or_health_indicator": "Identified as the best-predicted dementia risk factor, indicating strong epigenetic association."
+        },
+        {
+          "biomarker_name": "Sex (as a predicted risk factor)",
+          "measured_tissue_or_fluid": "Blood-derived DNA methylation data",
+          "activity_type": "Predictive capability from DNA methylation data",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "AUROC = 1 (EXTEND cohorts); AUROC = 1 (EMIF-AD MBD study)."
+          },
+          "core_biological_function": "Fundamental demographic factor influencing cognitive health and epigenetic markers.",
+          "relevant_activity_context": "Prediction by blood-derived DNA methylation data in EXTEND and EMIF-AD MBD cohorts.",
+          "performance_or_health_indicator": "Identified as a best-predicted dementia risk factor, indicating strong epigenetic association."
+        },
+        {
+          "biomarker_name": "Smoking status (as a predicted risk factor)",
+          "measured_tissue_or_fluid": "Blood-derived DNA methylation data",
+          "activity_type": "Predictive capability from DNA methylation data",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "AUROC = 0.91 (EXTEND cohorts); AUROC = 0.80 (EMIF-AD MBD study)."
+          },
+          "core_biological_function": "Lifestyle factor influencing health and epigenetic markers.",
+          "relevant_activity_context": "Prediction by blood-derived DNA methylation data in EXTEND and EMIF-AD MBD cohorts.",
+          "performance_or_health_indicator": "Identified as a well-predicted dementia risk factor, indicating epigenetic association."
+        },
+        {
+          "biomarker_name": "Type II diabetes status (as a predicted risk factor)",
+          "measured_tissue_or_fluid": "Blood-derived DNA methylation data",
+          "activity_type": "Predictive capability from DNA methylation data",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "AUROC = 0.89 (EXTEND cohorts)."
+          },
+          "core_biological_function": "Metabolic health factor influencing disease risk.",
+          "relevant_activity_context": "Prediction by blood-derived DNA methylation data in EXTEND cohorts.",
+          "performance_or_health_indicator": "Identified as a well-predicted dementia risk factor, indicating epigenetic association."
+        },
+        {
+          "biomarker_name": "Heart disease status (as a predicted risk factor)",
+          "measured_tissue_or_fluid": "Blood-derived DNA methylation data",
+          "activity_type": "Predictive capability from DNA methylation data",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "AUROC \b 0.80 (EXTEND cohorts); AUROC = 0.67 (EMIF-AD MBD study)."
+          },
+          "core_biological_function": "Cardiovascular health factor influencing disease risk.",
+          "relevant_activity_context": "Prediction by blood-derived DNA methylation data in EXTEND and EMIF-AD MBD cohorts.",
+          "performance_or_health_indicator": "Identified as a well-predicted dementia risk factor, indicating epigenetic association."
+        },
+        {
+          "biomarker_name": "MMRS-AD models (Multi-Marker Risk Score for AD)",
+          "measured_tissue_or_fluid": "Blood-derived DNA methylation data",
+          "activity_type": "Predictive model performance",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "AUROC <= 0.60; No significant predictive capability for AD status."
+          },
+          "core_biological_function": "Integrative risk assessment for Alzheimer's Disease using epigenetic markers.",
+          "relevant_activity_context": "Prediction of AD status in the independent EMIF-AD MBD test set, incorporating 14 methylation-based polygenic scores (MPSs).",
+          "performance_or_health_indicator": "Indicates poor predictive value for AD status, suggesting limited utility for AD diagnosis using this specific model."
+        },
+        {
+          "biomarker_name": "MMRS-MCI model (RF-RFE)",
+          "measured_tissue_or_fluid": "Blood-derived DNA methylation data",
+          "activity_type": "Predictive model performance",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "AUROC = 0.68 (P = 2.0 \b 10^-3 for linear regression adjusted for age and sex), significantly surpassed epigenetic age (DeLong's P = 8.0 \b 10^-3). In PPMI, HR = 2.59 (Cox regression P = 0.036) for high-risk vs low-risk conversion to cognitive impairment. In ADNI, HR = 2.27 (P = 0.01) for RAVLT-learning, HR = 1.73 (P = 0.045) for RAVLT-percent forgetting. Consistent direction (HR > 1) across all nine cognitive tests (permutation P = 0.048)."
+          },
+          "core_biological_function": "Integrative risk assessment for Mild Cognitive Impairment using epigenetic markers.",
+          "relevant_activity_context": "Prediction and validation of MCI status in EMIF-AD MBD, PPMI, ADNI, and BASE-II cohorts.",
+          "performance_or_health_indicator": "Demonstrates notable ability to predict MCI status, indicating its utility as a prognostic tool for cognitive impairments."
+        },
+        {
+          "biomarker_name": "ADAS-Q4",
+          "measured_tissue_or_fluid": "Cognitive Assessment",
+          "activity_type": "Cognitive outcome measure",
+          "measured_effect": {
+            "direction_of_change": "associated in anticipated direction",
+            "magnitude_quantification": "FDR-adjusted P = 0.03."
+          },
+          "core_biological_function": "Assessment of cognitive function related to Alzheimer's Disease.",
+          "relevant_activity_context": "Association with MMRS-MCI (RF-RFE) risk score at baseline in the ADNI cohort.",
+          "performance_or_health_indicator": "Significant association with the MMRS-MCI model, underscoring model robustness in capturing cognitive variations."
+        },
+        {
+          "biomarker_name": "TMT (Trail Making Test)",
+          "measured_tissue_or_fluid": "Cognitive Assessment",
+          "activity_type": "Cognitive outcome measure",
+          "measured_effect": {
+            "direction_of_change": "associated in anticipated direction",
+            "magnitude_quantification": "FDR-adjusted P = 0.03."
+          },
+          "core_biological_function": "Assessment of cognitive function, executive function, and processing speed.",
+          "relevant_activity_context": "Association with MMRS-MCI (RF-RFE) risk score at baseline in the ADNI cohort.",
+          "performance_or_health_indicator": "Significant association with the MMRS-MCI model, underscoring model robustness in capturing cognitive variations."
+        },
+        {
+          "biomarker_name": "RAVLT \b learning (Rey Auditory Verbal Learning Test)",
+          "measured_tissue_or_fluid": "Cognitive Assessment",
+          "activity_type": "Cognitive outcome measure",
+          "measured_effect": {
+            "direction_of_change": "higher incidence of conversion to cognitive impairment",
+            "magnitude_quantification": "HR = 2.27, P = 0.01."
+          },
+          "core_biological_function": "Assessment of verbal learning and memory.",
+          "relevant_activity_context": "Conversion to cognitive impairments across risk categories based on MMRS-MCI (RF-RFE) scores in the ADNI cohort.",
+          "performance_or_health_indicator": "Significant indicator of cognitive impairment progression, predicted by the MMRS-MCI model."
+        },
+        {
+          "biomarker_name": "RAVLT \b percent forgetting (Rey Auditory Verbal Learning Test)",
+          "measured_tissue_or_fluid": "Cognitive Assessment",
+          "activity_type": "Cognitive outcome measure",
+          "measured_effect": {
+            "direction_of_change": "higher incidence of conversion to cognitive impairment",
+            "magnitude_quantification": "HR = 1.73, P = 0.045."
+          },
+          "core_biological_function": "Assessment of verbal memory retention.",
+          "relevant_activity_context": "Conversion to cognitive impairments across risk categories based on MMRS-MCI (RF-RFE) scores in the ADNI cohort.",
+          "performance_or_health_indicator": "Significant indicator of cognitive impairment progression, predicted by the MMRS-MCI model."
+        },
+        {
+          "biomarker_name": "Face-Profession Task score (Episodic/Associative Memory)",
+          "measured_tissue_or_fluid": "Cognitive Assessment",
+          "activity_type": "Cognitive outcome measure (episodic memory)",
+          "measured_effect": {
+            "direction_of_change": "statistically significant association",
+            "magnitude_quantification": "FDR-adjusted P = 2.0e-3 (longitudinal). No association with any of the other cognitive scores analyzed."
+          },
+          "core_biological_function": "Measurement of episodic (associative) memory.",
+          "relevant_activity_context": "Longitudinal association with MMRS-MCI (RF-RFE) in the BASE-II cohort.",
+          "performance_or_health_indicator": "Highlights a notable and specific link between MMRS-MCI model and episodic memory performance."
+        },
+        {
+          "biomarker_name": "Depression MPS (Methylation-based Polygenic Score)",
+          "measured_tissue_or_fluid": "Blood-derived DNA methylation data",
+          "activity_type": "Methylation-based polygenic score",
+          "measured_effect": {
+            "direction_of_change": "predominantly drives the MMRS-MCI model",
+            "magnitude_quantification": "Identified by mean absolute SHAP values as a predominant driver (rank among top 4)."
+          },
+          "core_biological_function": "Epigenetic marker contributing to depression risk, influencing cognitive impairment.",
+          "relevant_activity_context": "Factor predominantly driving the best-performing MMRS-MCI (RF-RFE) model.",
+          "performance_or_health_indicator": "Indicates a significant epigenetic contribution to MCI prediction, reflecting mental health's role."
+        },
+        {
+          "biomarker_name": "HDL cholesterol MPS (Methylation-based Polygenic Score)",
+          "measured_tissue_or_fluid": "Blood-derived DNA methylation data",
+          "activity_type": "Methylation-based polygenic score",
+          "measured_effect": {
+            "direction_of_change": "predominantly drives the MMRS-MCI model",
+            "magnitude_quantification": "Identified by mean absolute SHAP values as a predominant driver (rank among top 4)."
+          },
+          "core_biological_function": "Epigenetic marker contributing to HDL cholesterol levels, influencing cardiovascular and cognitive health.",
+          "relevant_activity_context": "Factor predominantly driving the best-performing MMRS-MCI (RF-RFE) model.",
+          "performance_or_health_indicator": "Indicates a significant epigenetic contribution to MCI prediction, reflecting metabolic health's role."
+        },
+        {
+          "biomarker_name": "Physical inactivity MPS (Methylation-based Polygenic Score)",
+          "measured_tissue_or_fluid": "Blood-derived DNA methylation data",
+          "activity_type": "Methylation-based polygenic score",
+          "measured_effect": {
+            "direction_of_change": "predominantly drives the MMRS-MCI model",
+            "magnitude_quantification": "Identified by mean absolute SHAP values as a predominant driver (rank among top 4)."
+          },
+          "core_biological_function": "Epigenetic marker contributing to physical inactivity, influencing overall health and cognitive decline.",
+          "relevant_activity_context": "Factor predominantly driving the best-performing MMRS-MCI (RF-RFE) model.",
+          "performance_or_health_indicator": "Indicates a significant epigenetic contribution to MCI prediction, reflecting lifestyle's role."
+        },
+        {
+          "biomarker_name": "Low education MPS (Methylation-based Polygenic Score)",
+          "measured_tissue_or_fluid": "Blood-derived DNA methylation data",
+          "activity_type": "Methylation-based polygenic score",
+          "measured_effect": {
+            "direction_of_change": "predominantly drives the MMRS-MCI model",
+            "magnitude_quantification": "Identified by mean absolute SHAP values as a predominant driver (rank among top 4)."
+          },
+          "core_biological_function": "Epigenetic marker reflecting socioeconomic factors, influencing cognitive reserve and decline.",
+          "relevant_activity_context": "Factor predominantly driving the best-performing MMRS-MCI (RF-RFE) model.",
+          "performance_or_health_indicator": "Indicates a significant epigenetic contribution to MCI prediction, reflecting socioeconomic factors' role."
+        },
+        {
+          "biomarker_name": "CpGs/Genes associated with AMPA glutamate receptor clustering",
+          "measured_tissue_or_fluid": "Whole-blood (derived from DNA methylation data); Gene Ontology Analysis",
+          "activity_type": "Gene Ontology term enrichment; DNA Methylation sites contributing to molecular scores",
+          "measured_effect": {
+            "direction_of_change": "most overrepresented",
+            "magnitude_quantification": "Most overrepresented (Unadjusted P = 4.2e-4). Genes associated with CpGs contributing to the best-performing MMRS model were significantly overrepresented in the 'AMPA glutamate receptor clustering (GO:0097113)' GO term and include known dementia-related genes (e.g., APOE, DLG1, NLGN1, SHANK3, SHISA6, SHISA7, SSH1)."
+          },
+          "core_biological_function": "Synaptic plasticity, learning, and memory. Dysregulation can contribute to neurodegenerative diseases. AMPA glutamate receptors are crucial for synaptic transmission; their increased removal from the post-synaptic membrane is associated with AD pathology. Methylation changes at these sites, even when measured in the blood, may resemble alterations that occur in the AD-affected brain.",
+          "relevant_activity_context": "Most overrepresented GO term by the union of CpGs used in 10 risk factor models contributing to MMRS-MCI. Key contributors to the MMRS model, providing biological meaning to the model's predictive capacity for cognitive impairment and dementia. Associated with molecular changes relevant to AD pathology.",
+          "performance_or_health_indicator": "Suggests a crucial molecular pathway implicated in MCI prediction by the MMRS model, potentially linked to synaptic dysfunction. Their involvement suggests the MMRS model captures biologically relevant mechanisms of dementia pathophysiology (e.g., synaptic dysfunction), enhancing the model's interpretability and potential for targeted intervention strategies."
+        },
+        {
+          "biomarker_name": "Polygenic Score (PGSs)",
+          "measured_tissue_or_fluid": "Genomic DNA",
+          "activity_type": "Predictive model performance",
+          "measured_effect": {
+            "direction_of_change": "poor predictive performance / increased predictive value when combined",
+            "magnitude_quantification": "R^2 values of 0.1 or lower with corresponding dementia risk factors. AUROC increased from 0.64 (PGSs alone) to 0.69 (with MPSs) for MCI in EMIF-AD MBD."
+          },
+          "core_biological_function": "Genetic risk assessment for complex traits and diseases.",
+          "relevant_activity_context": "Prediction of MCI in the EMIF-AD MBD test set, both alone and in combination with MPSs.",
+          "performance_or_health_indicator": "Alone, they are poor predictors of dementia risk factors, but they contribute to enhanced MCI prediction when combined with MPSs."
+        },
+        {
+          "biomarker_name": "MMRS + CSF biomarkers",
+          "measured_tissue_or_fluid": "Cerebrospinal Fluid (CSF) and Blood-derived DNA methylation data",
+          "activity_type": "Combined predictive model performance",
+          "measured_effect": {
+            "direction_of_change": "enhanced predictive performance",
+            "magnitude_quantification": "AUROC increased from 0.76 (CSF biomarkers alone) to 0.88 for MCI prediction."
+          },
+          "core_biological_function": "Integrative risk assessment for MCI combining epigenetic and fluid biomarkers.",
+          "relevant_activity_context": "MCI prediction enhancement when incorporating MPSs into CSF biomarker models.",
+          "performance_or_health_indicator": "Represents the highest predictive performance for MCI, suggesting a powerful combined diagnostic tool."
+        }
+      ]
+    }
+  }
+]

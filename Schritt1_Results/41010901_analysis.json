@@ -1,0 +1,220 @@
+[
+  {
+    "title": "pmc Medicina (Kaunas) Medicina (Kaunas) medicina Medicina 1010-660X 1648-9144 MDPI 12471504 10.3390/medicina61091510 medicina-61-01510 Article Sex-Specific Longitudinal Changes in Metabolic, Endocrine, Renal, Cardiovascular, and Inflammatory Biomarkers of Vaccinated COVID-19 Survivors: 30-Month Follow-Up Study https://orcid.org/0000-0003-0554-6718 Gur Ceren Conceptualization Methodology Software Validation Formal analysis Investigation Resources Data curation Writing \u2013 original draft Writing \u2013 review & editing Visualization Supervision Project administration Funding acquisition 1 * Solak Sezen Kumas Conceptualization Methodology Software Validation Investigation Data curation Writing \u2013 original draft Writing \u2013 review & editing Project administration Funding acquisition 2 Gundogan Erdal Conceptualization Methodology Formal analysis Investigation Writing \u2013 original draft Writing \u2013 review & editing Visualization Project administration 3 Pektas Fatih Conceptualization Methodology Software Investigation Data curation Writing \u2013 original draft Writing \u2013 review & editing Project administration Funding acquisition 3 https://orcid.org/0000-0002-1347-8498 Uzun Hafize Conceptualization Methodology Formal analysis Writing \u2013 original draft Writing \u2013 review & editing Visualization Supervision Project administration Funding acquisition 4 Ferrara Pietro Academic Editor 1 Department of Internal Medicine, Ba\u011fc\u0131lar Training and Research Hospital, University of Health Sciences, 34100 Istanbul, T\u00fcrkiye 2 Department of Anesthesiology and Reanimation, Ba\u011fc\u0131lar Training and Research Hospital, University of Health Sciences, 34100 Istanbul, T\u00fcrkiye; sezenkumassolak@gmail.com 3 Department of Internal Medicine, Faculty of Medicine, Istanbul Atlas University, 34403 Istanbul, T\u00fcrkiye; erdal.gundogan@atlas.edu.tr (E.G.); fatif.pektas@atlas.edu.tr (F.P.) 4 Department of Medical Biochemistry, Faculty of Medicine, Istanbul Atlas University, 34403 Istanbul, T\u00fcrkiye; huzun59@hotmail.com * Correspondence: cerencalti@yahoo.com ; Tel.: +90-5069290728 22 8 2025 9 2025 61 9 1510 27 7 2025 17 8 2025 20 8 2025 \u00a9 2025 by the authors. 2025 https://creativecommons.org/licenses/by/4.0/ Published by MDPI on behalf of the Lithuanian University of Health Sciences. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license ( https://creativecommons.org/licenses/by/4.0/ ). Objectives : Sex-based disparities in COVID-19 outcomes are well-documented, with men experiencing greater acute severity and women showing increased vulnerability to post-viral syndromes. However, longitudinal immunometabolic trajectories in vaccinated individuals remain underexplored. In this study, sex-based differences in long-term metabolic, endocrine, renal, cardiovascular, and inflammatory responses were investigated among vaccinated individuals recovering from SARS-CoV-2 infection. Methods: This retrospective single-center cohort study included 426 adults (199 females, 227 males) with PCR-confirmed symptomatic COVID-19 and at least two vaccine doses. Serial assessments were conducted at baseline, 18-, 24-, and 30-month post-infection. Parameters included fasting glucose, HbA1c, lipid profile, thyroid function, renal markers, CRP, D-dimer, fibrinogen, troponin, and hematologic indices. Statistical analyses assessed longitudinal changes and sex-stratified correlations. Results : Fasting glucose and HbA1c levels significantly declined over time, more prominently in males. Glucose correlated with age and BMI only in females. Lipid levels remained largely unchanged, although males had higher baseline triglycerides. Females showed rising TSH levels and persistently lower free T3; males exhibited higher creatinine, urea, and troponin levels throughout. Inflammatory markers declined significantly in both sexes, with males displaying higher CRP and troponin, and females showing sustained fibrinogen elevation and a temporary lymphocyte surge. D-dimer was elevated in females at the 30-month point. Conclusions : Sex-specific physiological recovery patterns were evident among vaccinated COVID-19 survivors. Males exhibited earlier metabolic and cardiac alterations, while females had more persistent endocrine and inflammatory shifts. These findings underscore the need for sex-tailored long-term monitoring strategies prioritizing early metabolic and cardiac screening in men and prolonged immunoendocrine surveillance in women. COVID-19 sex differences inflammation metabolism thyroid function vaccination This research received no external funding. 1. Introduction The COVID-19 pandemic, caused by SARS-CoV-2, has prompted extensive investigation into its long-term effects, particularly in vaccinated populations. Although vaccination reduces acute disease severity, emerging evidence suggests persistent alterations in metabolic, endocrine, and inflammatory pathways [ 1 , 2 , 3 ]. These changes may impact long-term health and quality of life. Biological sex is a key determinant of immune responses, influencing susceptibility, disease course, and recovery following SARS-CoV-2 infection and vaccination [ 4 , 5 ]. Research indicates that men tend to experience more severe outcomes from COVID-19, with higher rates of hospitalization, thromboinflammatory complications, and mortality [ 1 , 6 , 7 , 8 ]. These outcomes are often attributed to sex-based differences in immunological responses, including elevated levels of pro-inflammatory cytokines, impaired T cell responses, and variations in the expression of ACE2 and TMPRSS2 receptors. Conversely, women generally exhibit stronger innate and adaptive immune responses but paradoxically are more susceptible to post-viral syndromes, autoimmune sequelae, and adverse reactions related to vaccines or infections [ 5 , 9 ]. The long-term effects of SARS-CoV-2, known as long COVID complications, which are more common in women than men, are also linked to depression, reduced physical activity, and poor lifestyle habits [ 10 ]. Notably, long COVID frequently involves cardiometabolic and endocrine abnormalities, especially among women. This underscores the importance of considering sex-specific risk stratification [ 11 ]. Additionally, SARS-CoV-2-mediated damage and/or vaccination may influence post-infection immunometabolism, affecting inflammation, glucose levels, lipid metabolism, renal function, and thyroid regulation in the post-pandemic era [ 12 , 13 , 14 , 15 ]. With widespread COVID-19 vaccination, most individuals now experience infection post-vaccination, which may alter disease progression and recovery. However, data on long-term outcomes in vaccinated populations remain limited. This study focuses on vaccinated patients to better understand sex-specific metabolic and inflammatory changes after COVID-19, providing relevant insights for current clinical management and follow-up. This retrospective cohort study explores sex-based differences in metabolic, endocrine, and inflammatory responses to SARS-CoV-2 infection in vaccinated individuals. Serial blood samples were collected over 30 months. Baseline and follow-up assessments included markers of glucose metabolism, thyroid function, inflammation, coagulation, and cardiac status. The study aims to clarify the role of biological sex in post-infection immunometabolic dynamics to support personalized recovery strategies.",
+    "document_source_id": "41010901",
+    "analysis_date": "2025-12-09",
+    "extracted_data": {
+      "document_summary": "This retrospective single-center cohort study investigated sex-specific long-term alterations in metabolic, endocrine, renal, cardiovascular, and inflammatory biomarkers among 426 vaccinated COVID-19 survivors (PCR-confirmed, symptomatic, at least two vaccine doses) over a 30-month follow-up period. The study revealed distinct physiological recovery patterns, with males exhibiting earlier metabolic and cardiac alterations and females showing more persistent endocrine and inflammatory shifts, underscoring the need for sex-tailored monitoring strategies.",
+      "treatment_details": {
+        "therapy_type": "Longitudinal observational study on post-COVID-19 recovery in vaccinated individuals",
+        "dose_specificity": "The study included 426 adults with PCR-confirmed symptomatic COVID-19 who received at least two doses of SARS-CoV-2 vaccines (mRNA BNT162b2 or inactivated CoronaVac). Participants recovered from moderate COVID-19 infection, requiring hospitalization but not ICU admission. Serial assessments were conducted at baseline, 18-, 24-, and 30-month post-infection. No specific therapeutic intervention doses or dose-response comparisons were reported, as the study focused on long-term physiological changes after vaccination and infection, not vaccine efficacy or specific therapeutic effects."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "Fasting glucose",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Metabolite Concentration",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Significantly declined over time in the overall cohort (from 126.00 to 113.60 mg/dL, p=0.017), with a more prominent reduction in males (p=0.033) but not in females (p=0.197). Baseline levels were higher in males (p=0.033). Glucose correlated positively with age and BMI, particularly in females."
+          },
+          "core_biological_function": "Regulation of energy metabolism; primary energy source for cells.",
+          "relevant_activity_context": "Longitudinal assessment over 30 months in vaccinated COVID-19 survivors.",
+          "performance_or_health_indicator": "Indicates metabolic recovery, with males showing earlier and more significant improvements in glycemic control. Correlations with age and BMI in females suggest interplay with adiposity and hormonal environment."
+        },
+        {
+          "biomarker_name": "HbA1c",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Glycated protein level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Decreased significantly in the total cohort from 7.26% to 6.43% (p < 0.001), with a more pronounced reduction in males. Baseline values were higher in males (p = 0.023), and levels remained consistently higher in males throughout the study, despite significant reductions in both sexes over time."
+          },
+          "core_biological_function": "Reflects average blood glucose levels over the past 2-3 months, indicating long-term glycemic control.",
+          "relevant_activity_context": "Longitudinal assessment over 30 months in vaccinated COVID-19 survivors.",
+          "performance_or_health_indicator": "Indicates improved long-term glycemic control post-vaccination, with males consistently having higher levels and showing more significant reductions, reflecting pronounced acute physiological burden."
+        },
+        {
+          "biomarker_name": "Triglycerides",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Lipid Concentration",
+          "measured_effect": {
+            "direction_of_change": "fluctuated; initial higher levels in males, then decline; sustained increase in females by 30 months",
+            "magnitude_quantification": "Overall, levels fluctuated without significant within-group variation (p = 0.5726). Males had significantly higher baseline levels (p = 0.0264) which gradually declined, while females showed a sustained and progressive increase by the 30-month (T3) timepoint. Modest positive correlations with glucose were observed in both sexes (females: r=0.23, p=0.001; males: r=0.20, p=0.021)."
+          },
+          "core_biological_function": "Involved in lipid metabolism and energy storage; main form of fat storage in the body.",
+          "relevant_activity_context": "Longitudinal assessment over 30 months in vaccinated COVID-19 survivors.",
+          "performance_or_health_indicator": "Reflects the stability or alterations in lipid metabolism post-COVID-19, suggesting differential metabolic recovery or lingering inflammatory responses between sexes. May reflect shared metabolic pathways such as insulin resistance."
+        },
+        {
+          "biomarker_name": "TSH",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Hormone Concentration",
+          "measured_effect": {
+            "direction_of_change": "higher in females; stable in males",
+            "magnitude_quantification": "Females showed a significant and marked increase from baseline (2.18 \u00b1 0.13 \u03bcU/mL) to 30 months (T3: 3.26 \u00b1 0.58 \u03bcU/mL, p = 0.043). Levels in males remained stable (p = 0.081). All levels remained within reference ranges."
+          },
+          "core_biological_function": "Thyroid stimulating hormone, crucial for regulating thyroid gland function and hormone production.",
+          "relevant_activity_context": "Longitudinal assessment over 30 months in vaccinated COVID-19 survivors.",
+          "performance_or_health_indicator": "Indicates differential modulation of the hypothalamic-pituitary-thyroid axis, possibly driven by immune-endocrine interactions; suggests persistent changes in thyroid profiles in women."
+        },
+        {
+          "biomarker_name": "Free T3",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Hormone Concentration",
+          "measured_effect": {
+            "direction_of_change": "consistently higher in males; stable overall",
+            "magnitude_quantification": "Mean levels remained relatively stable overall (p = 0.507) and within reference ranges. However, levels were consistently higher in males (e.g., T0: males 3.18 \u00b1 0.05 ng/L vs. females 2.95 \u00b1 0.06 ng/L, p = 0.0006), a pattern maintained throughout the 30-month follow-up (p < 0.0001 for T2 and T3)."
+          },
+          "core_biological_function": "Active form of thyroid hormone, essential for regulating metabolism, growth, and development.",
+          "relevant_activity_context": "Longitudinal assessment over 30 months in vaccinated COVID-19 survivors.",
+          "performance_or_health_indicator": "Reflects differences in deiodinase activity or peripheral hormone conversion; indicates sex-specific endocrine responses. Higher baseline in males reflects pronounced acute physiological burden."
+        },
+        {
+          "biomarker_name": "Creatinine",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Renal marker concentration",
+          "measured_effect": {
+            "direction_of_change": "increased significantly in both sexes; consistently higher in males",
+            "magnitude_quantification": "Levels increased significantly from baseline to 30 months in both sexes (females: p=0.009; males: p=0.001). Males consistently exhibited higher baseline values and higher levels throughout the study (p < 0.001). Age correlated positively with creatinine levels in both males and females (p < 0.001)."
+          },
+          "core_biological_function": "Waste product from muscle metabolism, used as an indicator of kidney function.",
+          "relevant_activity_context": "Longitudinal assessment over 30 months in vaccinated COVID-19 survivors.",
+          "performance_or_health_indicator": "Indicates renal function, suggesting subtle sex-based differences in renal adaptation post-infection/vaccination. Consistent with known sex-based physiological differences (muscle mass, glomerular filtration dynamics), with higher baseline in males reflecting pronounced acute physiological burden and earlier alterations in renal parameters."
+        },
+        {
+          "biomarker_name": "Urea",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Renal marker concentration",
+          "measured_effect": {
+            "direction_of_change": "stable; consistently higher in males",
+            "magnitude_quantification": "Levels remained stable in the overall cohort (p=0.898) and within each sex. Females consistently exhibited lower levels than males at all time points (p<0.01). Baseline levels were higher in males compared to females. Moderate positive associations between age and urea were observed in both males and females (p < 0.001)."
+          },
+          "core_biological_function": "Waste product of protein metabolism, used as an indicator of kidney function.",
+          "relevant_activity_context": "Longitudinal assessment over 30 months in vaccinated COVID-19 survivors.",
+          "performance_or_health_indicator": "Suggests subtle sex-based differences in renal adaptation post-infection/vaccination, with females consistently having lower levels. Higher baseline in males reflects pronounced acute physiological burden."
+        },
+        {
+          "biomarker_name": "Troponin",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Cardiac marker / Protein level",
+          "measured_effect": {
+            "direction_of_change": "decreased significantly in both sexes; consistently higher in males during early follow-up",
+            "magnitude_quantification": "Levels decreased significantly in both sexes (females: p=0.001; males: p=0.003). Males consistently exhibited higher concentrations, particularly during early follow-up, though this difference diminished by 30 months (T3, p=0.176)."
+          },
+          "core_biological_function": "Regulatory protein found in cardiac muscle, elevated levels indicate myocardial injury.",
+          "relevant_activity_context": "Longitudinal assessment over 30 months in vaccinated COVID-19 survivors.",
+          "performance_or_health_indicator": "Indicates cardiac alterations or subclinical cardiac stress; more pronounced and persistent in males during early follow-up post-COVID-19."
+        },
+        {
+          "biomarker_name": "CRP",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Inflammatory marker / Protein level",
+          "measured_effect": {
+            "direction_of_change": "declined overall; persistently higher in males",
+            "magnitude_quantification": "Inflammatory markers declined significantly overall (p=0.001). Males displayed consistently higher mean concentrations and higher levels than females at 24 (T2, p=0.016) and 30 (T3, p=0.001) months."
+          },
+          "core_biological_function": "Acute phase reactant, a non-specific indicator of inflammation and tissue damage.",
+          "relevant_activity_context": "Longitudinal assessment over 30 months in vaccinated COVID-19 survivors.",
+          "performance_or_health_indicator": "Indicates systemic inflammation; its decline suggests resolution of inflammation, though kinetics may differ by sex. Correlated with vascular and myocardial stress in males."
+        },
+        {
+          "biomarker_name": "Fibrinogen",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Coagulation and inflammatory marker / Protein level",
+          "measured_effect": {
+            "direction_of_change": "declined overall; remained consistently higher in females",
+            "magnitude_quantification": "Declined significantly overall (p < 0.001), but remained consistently higher in females across all timepoints (p < 0.05), indicating a sustained elevation in females."
+          },
+          "core_biological_function": "Key protein in the blood clotting cascade and an acute phase reactant in inflammation.",
+          "relevant_activity_context": "Longitudinal assessment over 30 months in vaccinated COVID-19 survivors.",
+          "performance_or_health_indicator": "Indicates coagulation and inflammatory status. In females, it is associated with persistent inflammatory shifts and prolonged coagulative resolution post-COVID-19."
+        },
+        {
+          "biomarker_name": "Lymphocyte",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Hematologic index / Cell count",
+          "measured_effect": {
+            "direction_of_change": "higher (temporary) in females",
+            "magnitude_quantification": "Females showed a modest but significant temporary lymphocyte surge at 24 months (T2, p=0.006). Specific quantitative values for magnitude were not provided beyond statistical significance."
+          },
+          "core_biological_function": "Type of white blood cell crucial for adaptive immunity and immune response modulation.",
+          "relevant_activity_context": "Longitudinal assessment over 30 months in vaccinated COVID-19 survivors.",
+          "performance_or_health_indicator": "Indicates alterations in immune response, particularly a transient sex-related difference in adaptive immunity in females post-COVID-19."
+        },
+        {
+          "biomarker_name": "D-dimer",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Coagulation marker / Protein level",
+          "measured_effect": {
+            "direction_of_change": "stable overall; elevated in females at 30 months",
+            "magnitude_quantification": "Levels remained stable over time in the overall cohort (p=0.905). However, females showed significantly higher values than males at the 30-month (T3) endpoint (p=0.024), with lower values recorded in males at endpoint."
+          },
+          "core_biological_function": "Fibrin degradation product, indicating activation of coagulation and fibrinolysis, often associated with thrombotic events.",
+          "relevant_activity_context": "Longitudinal assessment over 30 months in vaccinated COVID-19 survivors.",
+          "performance_or_health_indicator": "Indicates coagulation status and thrombotic risk, suggesting distinct sex-specific patterns in thrombo-inflammatory response, with females showing delayed coagulative resolution and males potentially faster recovery."
+        },
+        {
+          "biomarker_name": "Free T4",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Hormone Concentration",
+          "measured_effect": {
+            "direction_of_change": "stable overall; slight increase in males",
+            "magnitude_quantification": "Remained stable in the overall cohort, with a slight increase in the total population over time (p=0.010). Males showed a significant rise from baseline (1.15 \u00b1 0.02 ng/dL) to 30 months (T3: 1.21 \u00b1 0.02 ng/dL, p=0.021). Levels were not significantly different between males and females."
+          },
+          "core_biological_function": "Primary hormone secreted by the thyroid gland, converted to T3; regulates metabolism.",
+          "relevant_activity_context": "Longitudinal assessment over 30 months in vaccinated COVID-19 survivors.",
+          "performance_or_health_indicator": "Indicates thyroid gland function, with males showing a slight increase over time, and overall stability between sexes, suggesting mild sex-specific changes in thyroid function."
+        },
+        {
+          "biomarker_name": "Total Cholesterol",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Lipid Concentration",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "No significant intra-group changes from baseline to 30 months (p > 0.500). No statistically significant sex differences were observed at endpoint, and no significant associations with glucose were found."
+          },
+          "core_biological_function": "Essential component of cell membranes, precursor to steroid hormones and bile acids.",
+          "relevant_activity_context": "Longitudinal assessment over 30 months in vaccinated COVID-19 survivors.",
+          "performance_or_health_indicator": "Indicates stable lipid metabolism post-COVID-19 vaccination, suggesting no significant overall changes or sex differences in total cholesterol."
+        },
+        {
+          "biomarker_name": "LDL",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Lipid Concentration",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "No significant intra-group changes from baseline to 30 months (p > 0.500). No statistically significant sex differences were observed at endpoint, and no significant associations with glucose were found."
+          },
+          "core_biological_function": "Transports cholesterol from the liver to cells; high levels contribute to plaque formation.",
+          "relevant_activity_context": "Longitudinal assessment over 30 months in vaccinated COVID-19 survivors.",
+          "performance_or_health_indicator": "Indicates stable LDL cholesterol levels post-COVID-19 vaccination, suggesting no significant overall changes or sex differences in LDL metabolism."
+        },
+        {
+          "biomarker_name": "WBC",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Cell Count",
+          "measured_effect": {
+            "direction_of_change": "stable; consistently higher in males",
+            "magnitude_quantification": "Did not change significantly over time (p = 0.422). Males consistently had higher values, particularly at 18 months (T1, p = 0.001)."
+          },
+          "core_biological_function": "Primary components of the immune system, involved in defending against infection and disease.",
+          "relevant_activity_context": "Longitudinal assessment over 30 months in vaccinated COVID-19 survivors.",
+          "performance_or_health_indicator": "Suggests stable innate immune dynamics with sex-specific baseline differences."
+        },
+        {
+          "biomarker_name": "Neutrophils",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Cell Count (Differential)",
+          "measured_effect": {
+            "direction_of_change": "comparable across sexes and timepoints",
+            "magnitude_quantification": "Comparable across sexes and timepoints (p = 0.194), indicating no significant sex-specific changes."
+          },
+          "core_biological_function": "Type of white blood cell, crucial for innate immunity, primarily targeting bacterial and fungal infections.",
+          "relevant_activity_context": "Longitudinal assessment over 30 months in vaccinated COVID-19 survivors.",
+          "performance_or_health_indicator": "Suggests stable innate immune dynamics with no significant sex-specific alterations."
+        }
+      ]
+    }
+  }
+]

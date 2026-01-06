@@ -1,0 +1,100 @@
+[
+  {
+    "title": "Int J Mol Sci Int J Mol Sci ijms International Journal of Molecular Sciences 1422-0067 MDPI 5751235 10.3390/ijms18122632 ijms-18-02632 Article Aberrant N -Glycosylation Profile of Serum Immunoglobulins is a Diagnostic Biomarker of Urothelial Carcinomas Tanaka Toshikazu 1 https://orcid.org/0000-0002-1098-407X Yoneyama Tohru 2 * https://orcid.org/0000-0002-7104-0945 Noro Daisuke 1 Imanishi Kengo 1 Kojima Yuta 1 Hatakeyama Shingo 1 Tobisawa Yuki 1 Mori Kazuyuki 1 Yamamoto Hayato 1 Imai Atsushi 1 Yoneyama Takahiro 1 Hashimoto Yasuhiro 2 Koie Takuya 1 Tanaka Masakazu 3 Nishimura Shin-Ichiro 3 Kurauchi Shizuka 4 Takahashi Ippei 4 Ohyama Chikara 1 2 1 Department of Urology, Hirosaki University Graduate School of Medicine, Hirosaki 036-8562, Japan; yosage1205@yahoo.co.jp (T.T.); noro.daisuke@camel.plala.or.jp (D.N.); born_2b_snower@yahoo.co.jp (K.I.); y_kojima0319@yahoo.co.jp (Y.K.); shingoh@hirosaki-u.ac.jp (S.H.); tobisawa@hirosaki-u.ac.jp (Y.T.); moribio@hirosaki-u.ac.jp (K.M.); yamahaya10@yahoo.co.jp (H.Y.); tsushi.imai@gmail.com (A.I.); uroyone@hirosaki-u.ac.jp (T.Y.); goodwin@hirosaki-u.ac.jp (T.K.); coyama@hirosaki-u.ac.jp (C.O.) 2 Department of Advanced Transplant and Regenerative Medicine, Hirosaki University Graduate School of Medicine, Hirosaki 036-8562, Japan; bikkuri@opal.plala.or.jp 3 Graduate School of Life Science, Frontier Research Centre for Advanced Material and Life Science, Hokkaido University, Sapporo 060-0810, Japan; tanaka@soyaku.co.jp (M.T.); shin@sci.hokudai.ac.jp (S.-I.N.) 4 Department of Social Medicine, Hirosaki University Graduate School of Medicine, Hirosaki 036-8562, Japan; k-shizu@hirosaki-u.ac.jp (S.K.); ippei@hirosaki-u.ac.jp (I.T.) * Correspondence: tohruyon@hirosaki-u.ac.jp ; Tel.: +81-172-39-5091 06 12 2017 12 2017 18 12 2632 21 11 2017 02 12 2017 \u00a9 2017 by the authors. 2017 Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license ( http://creativecommons.org/licenses/by/4.0/ ). The aim of this study to determine whether the aberrant N -glycosylated serum immunoglobulins (Igs) can be applied as a diagnostic marker of urothelial carcinoma (UC). Between 2009 and 2016, we randomly obtained serum available from 237 UC and also 96 prostate cancer as other cancer controls from our serum bank and also obtained\u2014from 339 healthy volunteers (HV)\u2014controls obtained from community-dwelling volunteers in Iwaki Health Promotion Project. A total of 32 types of N -glycan levels on Igs were determined by high-throughput N -glycomics and analyzed by multivariable discriminant analysis. We found five UC-associated aberrant N -glycans changes on Igs and also found that asialo-bisecting GlcNAc type N -glycan on Igs were significantly accumulated in UC patients. The diagnostic N -glycan Score (d N GScore) established by combination of five N -glycans on Igs discriminated UC patients from HV and prostate cancer (PC) patients with 92.8% sensitivity and 97.2% specificity. The area under the curve (AUC) for of the d N GScore was 0.969 for UC detection that was much superior to that of urine cytology (AUC, 0.707) and hematuria (AUC, 0.892). Furthermore, d N GScore can detect hematuria and urine cytology negative patients. The d N Gscore based on aberrant N -glycosylation signatures of Igs were found to be promising diagnostic biomarkers of UCs. diagnostic biomarker urothelial carcinoma of the bladder upper urinary tract urothelial carcinoma N -glycomics immunogloburins aberrant N -glycosylation 1. Introduction Urothelial carcinomas (UCs) are the eighth-most lethal cancer in men in the United States [ 1 ]. The majority of UCs originate from bladder, called UC of the bladder (UCB), and between 5% and 10% of UCs originate from the ureter or renal pelvis [ 2 , 3 ], which are collectively called upper urinary tract UCs (UTUCs), with a worse prognosis than that of UCB. The most common symptom is visible- or non-visible hematuria (70\u201380%) [ 4 , 5 ] and then the standard examinations are performed, involving urine cytology, urinary tract imaging and cystoscopy, which are powerful diagnostic tools for UCs. However, 60% of UTUCs are invasive at time of diagnosis [ 6 , 7 ]. Urine cytology is not reliable in patients with early stage UCs, including UTUC, and it is difficult to visualise small tumors via imaging modalities, such as ultrasound or computed tomography. Several diagnostic urine-based biomarkers are reported such as bladder tumor antigen (BTA), nuclear matrix protein number 22 (NMP22) and UroVysion [ 8 , 9 , 10 ]. Although sensitivities can be better for BTA (50\u201380%), NMP22 (68.5\u201388.5%) and UroVysion (58\u201396%) over urine cytology (50\u201367%), the specificities are quite low. Because those tests are soluble antigen test or cellular assay depending on the amount of tumor cells, they are not suitable for the detection of low-grade and low-stage tumors. Furthermore, the prevalence of urinary markers of only about 30% is not enough to complement urine cytology and other invasive tests. Thus, more sensitive and non-invasive biomarkers, such as serum-based biomarkers, to avoid under-detection in patients at high risk of UCs is required. Glycosylation is a common post-translational modification that has an important role in various biological functions. Previously, our group demonstrated that high-throughput, comprehensive and quantitative N -glycomics based on the glycoblotting method combined with mass spectrometry is a promising way to screen glycans for use as diagnostic and prognostic markers of several cancer [ 11 , 12 , 13 , 14 , 15 ]. Recently, the evaluation of glycosylation profile is an innovative topic in different cancer types, especially in immunotherapeutic targets, as like as PD-L1 [ 16 , 17 , 18 ]. Most recently, our group reported that a combination of several serum N -glycans ( N -glycan score, N GScore) is a novel serum marker for UCs including UTUC that detected 93% of UC patients and is therefore far more specific than classic urine cytology [ 19 ]. We hypothesized that these serum aberrant N -glycan change is derived from serum major N -glycosylated proteins, such as immunoglobulins (Igs). Although differences in Ig glycosylation are mainly described in immune system-related diseases [ 20 , 21 , 22 , 23 ], there are several papers describing aberrant glycosylation of IgG in cancer such as prostate cancer, gastric cancer and colorectal cancer [ 24 , 25 , 26 , 27 ]. In addition, aberrant N -glycosylation of immunoglobulins in UC has not been reported elsewhere. Thus, in the present study, we performed N -glycomics of serum Igs fractions between healthy volunteers (HVs), prostate cancer (PC) and UCs patients to identify the UC-specific aberrant N -glycosylated Igs. Furthermore, for clinical applications, we established a diagnostic N GScore (d N GScore) based on a combination of five N -glycans of Igs associated with detection of UCs. 2. Results 2.1. Downregulation of Asialo Biantennary Type N-Glycans and Accumulation of Asialo-Bisecting GlcNAc with Core Fucosylated N-Glycan on Igs May Occur as a UC-Associated Aberrant N-Glycosylation of Igs SDS-PAGE analysis between whole serum ( Figure A1 b, lanes 1\u20134) and Igs fractions ( Figure A1 b, lanes 5\u20138) revealed that non-Igs proteins were effectively eliminated from whole serum by Melon Gel chromatography. N -glycomics of the Igs fraction ( Figure A1 a\u2013e) identified 32 types of BOA-labelled N -glycans on Igs ( Table A1 , Figure A1 f). Patient characteristics in the non-UC (HV and PC) and UC groups are shown in Table 1 . There were no statistically significant differences in age, history of smoking, benign prostatic hyperplasia (BPH) and stone former between both non-UC group and UC group. To detect UC, we performed multivariable discriminant analysis by inputting UCs event as an explanatory variable and the N -glycan level of Igs as objective variables and selected candidate N -glycans (complex biantennary type: m / z 1606, 1769, 2074; core fucosylated bisecting GlcNAc type: m / z 2118, 2423) that formed the most sensitive and specific combination for detection of UCs ( Figure 1 a\u2013c and Table 2 ). The asialo biantennary type N -glycans ( m / z 1606 and 2074) on Igs were significantly downregulated in the UC group compared with the levels in the HV and PC groups ( p = 0.0001). Only the asialo biantennary type N -glycan ( m / z 1769) on Igs was significantly downregulated in the PC group compared with the level in the UC and HV groups ( p = 0.0001). The monosialyl bisecting GlcNAc with core fucosylated bisecting GlcNAc N -glycan ( m / z 2423) was not significantly changed between UC and HV group, but significantly decreased in PC and UTUC group ( p = 0.0001). Especially the asialo bisecting GlcNAc with core fucosylated N -glycan ( m / z 2118) on Igs was significantly upregulated in UC group ( p = 0.0001) but not detectable in HV and PC groups. However, total Igs level in UC patients was significantly lower than HV and PC patients ( Figure 2 a\u2013d). According to the synthetic pathway of N -glycans shown in Figure 1 b and the above results, a downregulation of asialo biantennary type N -glycans and accumulation of asialo-bisecting GlcNAc with core fucosylated N -glycan on Igs may occur as a UC-associated aberrant N -glycosylation of Igs.",
+    "document_source_id": "29210993",
+    "analysis_date": "2025-12-09",
+    "extracted_data": {
+      "document_summary": "This study investigated the diagnostic potential of aberrant N-glycosylation profiles of serum immunoglobulins (Igs) for urothelial carcinoma (UC), including bladder cancer (UCB) and upper tract urothelial carcinoma (UTUC). It identified five UC-associated aberrant N-glycan changes, notably the accumulation of asialo-bisecting GlcNAc type N-glycans in UC patients. A novel diagnostic N-glycan Score (dNGScore), derived from a combination of these five N-glycans, demonstrated high diagnostic accuracy (92.8% sensitivity, 97.2% specificity, AUC 0.969) for discriminating UC patients from healthy volunteers and prostate cancer patients, outperforming traditional diagnostic methods like urine cytology and hematuria. The dNGScore also showed utility in detecting urine cytology-negative cases and was associated with UCB invasiveness.",
+      "treatment_details": {
+        "therapy_type": "Diagnostic Biomarker Identification (N-glycomics analysis)",
+        "dose_specificity": "The study focused on diagnostic biomarker discovery, not therapeutic doses. High-throughput N-glycomics was used to quantify 32 types of N-glycan levels on serum immunoglobulins from 10-\u03bcL aliquots of purified Ig fractions. A diagnostic N-glycan Score (dNGScore) was established using a specific formula involving five N-glycans (m/z 1606, 1769, 2074, 2118, 2423) and a cut-off of -0.0955 points. No therapeutic dose comparisons were reported."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "Asialo biantennary type N-glycan (m/z 1606)",
+          "measured_tissue_or_fluid": "Serum (Igs fractions)",
+          "activity_type": "Protein N-glycosylation profile (N-glycan level)",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Significantly downregulated in the UC group compared with the levels in the healthy volunteer (HV) and prostate cancer (PC) groups (p = 0.0001). Contributes to the dNGScore formula with a positive coefficient (0.1925)."
+          },
+          "core_biological_function": "N-glycosylation profile on immunoglobulins, modulating their structure and potentially their biological activity. Its aberrant level may indicate altered glycan processing, possibly transformed to asialo bisecting type N-glycan.",
+          "relevant_activity_context": "Serum N-glycan profiling for urothelial carcinoma (UC) diagnosis.",
+          "performance_or_health_indicator": "Indicates the presence of urothelial carcinoma, showing decreased levels in UC patients compared to healthy individuals and prostate cancer patients. Contributes to the overall diagnostic accuracy of the dNGScore."
+        },
+        {
+          "biomarker_name": "Asialo biantennary type N-glycan (m/z 2074)",
+          "measured_tissue_or_fluid": "Serum (Igs fractions)",
+          "activity_type": "Protein N-glycosylation profile (N-glycan level)",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Significantly downregulated in the UC group compared with the levels in the healthy volunteer (HV) and prostate cancer (PC) groups (p = 0.0001). Upregulation observed in Prostate Cancer (PC) patients. Contributes to the dNGScore formula with a positive coefficient (0.4941)."
+          },
+          "core_biological_function": "N-glycosylation profile on immunoglobulins, modulating their structure and potentially their biological activity. Its aberrant level may indicate altered glycan processing due to disease.",
+          "relevant_activity_context": "Serum N-glycan profiling for urothelial carcinoma (UC) detection and Prostate Cancer (PC) diagnosis.",
+          "performance_or_health_indicator": "Associated with UC detection (decreased levels) and potentially a candidate for prostate cancer detection (upregulated levels). Contributes to the overall diagnostic accuracy of the dNGScore."
+        },
+        {
+          "biomarker_name": "Asialo biantennary type N-glycan (m/z 1769)",
+          "measured_tissue_or_fluid": "Serum (Igs fractions)",
+          "activity_type": "Protein N-glycosylation profile (N-glycan level)",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Significantly downregulated in the prostate cancer (PC) group compared with the level in the urothelial carcinoma (UC) and healthy volunteer (HV) groups (p = 0.0001). Contributes to the dNGScore formula with a positive coefficient (0.4932)."
+          },
+          "core_biological_function": "N-glycosylation profile on immunoglobulins, modulating their structure and potentially their biological activity. Its aberrant level may indicate altered glycan processing.",
+          "relevant_activity_context": "Serum N-glycan profiling for prostate cancer (PC) diagnosis and for discriminating UC.",
+          "performance_or_health_indicator": "Potential diagnostic marker for prostate cancer, differentiating it from urothelial carcinoma and healthy individuals. Contributes to the overall diagnostic accuracy of the dNGScore for UC."
+        },
+        {
+          "biomarker_name": "Monosialyl bisecting GlcNAc with core fucosylated N-glycan (m/z 2423)",
+          "measured_tissue_or_fluid": "Serum (Igs fractions)",
+          "activity_type": "Protein N-glycosylation profile (N-glycan level)",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Not significantly changed between urothelial carcinoma (UC) and healthy volunteer (HV) groups, but significantly decreased in prostate cancer (PC) and upper urinary tract urothelial carcinoma (UTUC) groups (p = 0.0001). The level in UTUC was significantly lower than in the UCB group. Contributes to the dNGScore formula with a positive coefficient (0.6179)."
+          },
+          "core_biological_function": "N-glycosylation profile on immunoglobulins; involved in N-glycan biosynthetic pathways. Its aberrant level may indicate altered glycan processing, possibly due to less sialyltransferase activity in UC.",
+          "relevant_activity_context": "Serum N-glycan profiling for prostate cancer (PC) and upper urinary tract urothelial carcinoma (UTUC) diagnosis, and potential differentiation of UTUC from UCB.",
+          "performance_or_health_indicator": "Potential diagnostic marker for prostate cancer and UTUC due to significantly decreased levels in these conditions. Contributes to the overall diagnostic accuracy of the dNGScore for UC."
+        },
+        {
+          "biomarker_name": "Asialo bisecting GlcNAc with core fucosylated N-glycan (m/z 2118)",
+          "measured_tissue_or_fluid": "Serum (Igs fractions)",
+          "activity_type": "Protein N-glycosylation profile (N-glycan level)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly upregulated in the urothelial carcinoma (UC) group (p = 0.0001), but not detectable in healthy volunteer (HV) and prostate cancer (PC) groups. Accumulation was more of a UTUC-specific phenomenon than UCB. Contributes to the dNGScore formula with a negative coefficient (-3.2460)."
+          },
+          "core_biological_function": "N-glycosylation profile on immunoglobulins, hypothesized to be formed by \u03b21,4-N-acetylglucosaminyltransferase (GnT-III) activity in UC patients. Its aberrant level indicates altered glycan processing.",
+          "relevant_activity_context": "Serum N-glycan profiling for urothelial carcinoma (UC) detection, particularly for distinguishing UTUC from UCB.",
+          "performance_or_health_indicator": "Strong diagnostic indicator for urothelial carcinoma, as its presence and upregulation are specific to UC patients and undetectable in controls. Potentially an indicator for UTUC-specific characteristics. Contributes significantly to the dNGScore."
+        },
+        {
+          "biomarker_name": "Diagnostic N-glycan Score (dNGScore)",
+          "measured_tissue_or_fluid": "Serum (derived from immunoglobulin N-glycan profiles)",
+          "activity_type": "Composite Diagnostic Score (N-glycan profile)",
+          "measured_effect": {
+            "direction_of_change": "Diagnostic capability; generally lower in UC patients",
+            "magnitude_quantification": "Discriminated UC patients from HV and PC patients with 92.8% sensitivity and 97.2% specificity. The AUC for dNGScore was 0.969 for UC detection, superior to urine cytology (AUC 0.707) and hematuria (AUC 0.892). Significantly lower in UC patients (UCB and UTUC) than in the non-UC group (HVs and PC) (p = 0.0001). At -0.0955 points cut-off, negative predictive value was 96.1%. Associated with invasiveness of UCB."
+          },
+          "core_biological_function": "A combined diagnostic indicator reflecting aberrant N-glycosylation patterns on immunoglobulins in urothelial carcinoma, reflecting disease-associated immunoreactions and altered glycan biosynthetic pathways.",
+          "relevant_activity_context": "Detection of Urothelial Carcinoma (UC), including UCB and UTUC, using a composite serum biomarker.",
+          "performance_or_health_indicator": "Highly sensitive and specific diagnostic biomarker for urothelial carcinomas, outperforming traditional diagnostic methods and capable of detecting patients negative for hematuria and urine cytology. Useful for early diagnosis of UCB and for identifying urine cytology-negative UC cases, and associated with UCB invasiveness."
+        },
+        {
+          "biomarker_name": "Total Immunoglobulins (Igs)",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Significantly lower in urothelial carcinoma (UC) patients compared to healthy volunteer (HV) and prostate cancer (PC) patients."
+          },
+          "core_biological_function": "Mediates immune responses and provides antibody protection.",
+          "relevant_activity_context": "Presence of Urothelial Carcinoma (UC).",
+          "performance_or_health_indicator": "Associated with urothelial carcinoma, showing decreased levels in UC patients."
+        }
+      ]
+    }
+  }
+]

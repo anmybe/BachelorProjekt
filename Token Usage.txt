@@ -1,0 +1,79 @@
+Token Usage
+
+
+multi-api-consolidation-pipeline.py
+
+aus 6 Files:
+
+--- TOKEN USAGE SUMMARY ---
+Provider: GEMINI (gemini-2.5-flash)
+Input Tokens (Prompt/Data): 34349
+Output Tokens (Response): 11989
+Total Tokens Used: 50377
+---------------------------
+
+nochmal das gleiche gerunnt:
+
+--- TOKEN USAGE SUMMARY ---
+Provider: GEMINI (gemini-2.5-flash)
+Input Tokens (Prompt/Data): 68698
+Output Tokens (Response): 54100
+Total Tokens Used: 164762
+---------------------------
+
+
+##########################################################
+
+
+multi-api-pipeline.py
+
+Pro Chunk File:
+
+--- TOKEN USAGE SUMMARY FOR DOCUMENT ---
+Provider: GEMINI (gemini-2.5-flash)
+Total API Calls: 4
+Input Tokens (Prompt/Data): 15653
+Output Tokens (Response): 5187
+Total Tokens Used: 34237
+----------------------------------------
+
+--- TOKEN USAGE SUMMARY FOR DOCUMENT ---
+Provider: GEMINI (gemini-2.5-flash)
+Total API Calls: 5
+Input Tokens (Prompt/Data): 16243
+Output Tokens (Response): 8849
+Total Tokens Used: 41194
+----------------------------------------
+
+
+
+
+
+=========================================================
+✅ SUCCESS: Biomarker Standardization abgeschlossen.
+  Verarbeitete Batches: 1 von 1
+  Gesamtzahl der standardisierten Einträge: 117
+  Ergebnisse gespeichert in 'standardized_biomarkers1.json'
+
+--- GESAMTE TOKEN-NUTZUNG FÜR PHASE 3 ---
+Provider: GEMINI (gemini-2.5-flash)
+Total API Calls: 1
+Input Tokens (Prompt/Data): 4732
+Output Tokens (Response): 6479
+Total Tokens Used: 14284
+=========================================================
+
+
+=========================================================
+✅ SUCCESS: Biomarker Standardization & Fusion abgeschlossen.
+  Verarbeitete Batches (API-Calls): 1 von 1
+  Gesamtzahl der eindeutigen Biomarker (nach Fusion): 72
+  Ergebnisse gespeichert in 'standardized_biomarkers3.json'
+
+--- GESAMTE TOKEN-NUTZUNG FÜR PHASE 3 ---
+Provider: GEMINI (gemini-2.5-flash)
+Total API Calls: 1
+Input Tokens (Prompt/Data): 4732
+Output Tokens (Response): 6622
+Total Tokens Used: 24131
+=========================================================

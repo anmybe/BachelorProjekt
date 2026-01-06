@@ -1,0 +1,436 @@
+[
+  {
+    "title": "pmc Nutrients Nutrients nutrients Nutrients 2072-6643 MDPI 12030204 10.3390/nu17081384 nutrients-17-01384 Article Selective Influence of Hemp Fiber Ingestion on Post-Exercise Gut Permeability: A Metabolomics-Based Analysis https://orcid.org/0000-0002-8305-1860 Nieman David C. 1 * https://orcid.org/0000-0002-7550-564X Sakaguchi Camila A. 1 Williams James C. 1 https://orcid.org/0000-0002-5199-5744 Pathmasiri Wimal 2 3 https://orcid.org/0000-0002-8662-3270 Rushing Blake R. 2 3 McRitchie Susan 3 Sumner Susan J. 2 3 Bell Christopher Academic Editor 1 Human Performance Laboratory, Appalachian State University, North Carolina Research Campus (NCRC), Kannapolis, NC 28081, USA; olsonca1@appstate.edu (C.A.S.); williamsjc12@appstate.edu (J.C.W.) 2 Department of Nutrition, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA; wimal_pathmasiri@unc.edu (W.P.); blake_rushing@unc.edu (B.R.R.); susan_sumner@unc.edu (S.J.S.) 3 Nutrition Research Institute, University of North Carolina at Chapel Hill, North Carolina Research Campus (NCRC), Kannapolis, NC 28081, USA; susan_mcritchie@unc.edu * Correspondence: niemandc@appstate.edu 19 4 2025 4 2025 17 8 1384 21 3 2025 02 4 2025 17 4 2025 \u00a9 2025 by the authors. 2025 https://creativecommons.org/licenses/by/4.0/ Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license ( https://creativecommons.org/licenses/by/4.0/ ). Objectives: This study investigated the effects of 2-week ingestion of hemp fiber (high and low doses) versus placebo bars on gut permeability and plasma metabolite shifts during recovery from 2.25 h intensive cycling. Hemp hull powder is a rich source of two bioactive compounds, N-trans-caffeoyl tyramine (NCT) and N-trans-feruloyl tyramine (NFT), with potential gut health benefits. Methods: The study participants included 23 male and female cyclists. A three-arm randomized, placebo-controlled, double-blind, crossover design was used with two 2-week supplementation periods and 2-week washout periods. Supplement bars provided 20, 5, or 0 g/d of hemp hull powder. Participants engaged in an intensive 2.25 h cycling bout at the end of each of the three supplementation periods. Five blood samples were collected before and after supplementation (overnight fasted state), and at 0 h-, 1.5 h-, and 3 h-post-exercise. Five-hour urine samples were collected pre-supplementation and post-2.25 h cycling after ingesting a sugar solution containing 5 g of lactulose, 100 mg of 13 C mannitol, and 1.9 g of mannitol in 450 mL of water. An increase in the post-exercise lactulose/ 13 C mannitol ratio (L: 13 CM) was used as the primary indicator of altered gut permeability. Other outcome measures included muscle damage biomarkers (serum creatine kinase, myoglobin), serum cortisol, complete blood cell counts, and shifts in plasma metabolites using untargeted metabolomics. Results: No trial differences were found for L: 13 CM, cortisol, blood cell counts, and muscle damage biomarkers. Orthogonal partial least-squares discriminant analysis (OPLSDA) showed distinct trial differences when comparing high- and low-dose hemp fiber compared to placebo supplementation (R2Y = 0.987 and 0.995, respectively). Variable Importance in Projection (VIP) scores identified several relevant metabolites, including 3-hydroxy-4-methoxybenzoic acid (VIP = 1.9), serotonin (VIP = 1.5), 5-hydroxytryptophan (VIP = 1.4), and 4-methoxycinnamic acid (VIP = 1.4). Mummichog analysis showed significant effects of hemp fiber intake on multiple metabolic pathways, including alpha-linolenic acid, porphyrin, sphingolipid, arginine and proline, tryptophan, and primary bile acid metabolism. Conclusions: Hemp fiber intake during a 2-week supplementation period did not have a significant effect on post-exercise gut permeability in cyclists (2.25 h cycling bout) using urine sugar data. On the contrary, untargeted metabolomics showed that the combination of consuming nutrient-rich hemp fiber bars and exercising for 135 min increased levels of beneficial metabolites, including those derived from the gut in healthy cyclists. hemp fiber exercise gut permeability metabolomics Brightseed, Inc., San Francisco, CA, USA This research was funded by Brightseed, Inc., San Francisco, CA, USA. 1. Introduction Long-distance runners and cyclists have a high incidence of gastrointestinal-related symptoms, and this may be related in part to transient, exercise-induced changes in gastrointestinal integrity and function [ 1 , 2 ]. Bouts of strenuous and intensive cycling and running may alter intestinal permeability, but this varies widely between individuals. Underlying mechanisms for exercise-induced changes in intestinal permeability include reductions in splanchnic blood flow, an increase in sympathetic system activation, hyperthermia, changes in intestinal transporter activity, and selective changes in the tight junctions between intestinal epithelial cells [ 2 ]. Nutrition-based strategies may influence exercise-induced changes in gut permeability, including beverage ingestion, to maintain hydration status, ingestion of easily digested carbohydrate-rich foods pre- and post-exercise, and the use of bovine colostrum, glutamine, and probiotic supplements [ 3 , 4 , 5 ]. Emerging evidence supports that moderate and intensive exercise increases the translocation of gut-derived phenolics from the intestinal tract to the circulatory system following the ingestion of flavonoid-rich supplements and foods [ 6 , 7 , 8 ]. This may be due, in part, to exercise-induced increases in gut permeability, but other potential underlying mechanisms include changes in gastrointestinal motility and gut transporter function, as well as flavonoid-induced changes in the gut microbial composition [ 7 ]. Dietary fibers include nutrients and bioactive compounds that may add to their health benefits. Hemp hull fiber derived from the outer seed coat of hemp is rich in bioactive and insoluble fibers [ 9 , 10 ]. The hull from hemp seeds contains 30\u201340% fiber, phenolic compounds such as flavones, flavonols, and terpenes, and hydroxycinnamic acid amides with potential gut health benefits, including N-trans-caffeoyl tyramine (NCT) and N-trans-feruloyl tyramine (NFT) [ 9 , 10 , 11 ]. Few human trials with hemp fiber supplements have been conducted [ 10 ]. Cell culture and animal studies indicate some positive influences of NCT and NFT on gut barrier function and gut microbiome composition [ 9 , 10 , 11 , 12 ]. Hepatocyte nuclear factor 4\u03b1 (HNF4\u03b1) is a signaling compound and nuclear transcription factor with multiple functions, including the regulation of intestinal permeability, gut barrier function, mucin production, and expression of tight junction proteins. NCT and NFT are agonists of HNF4\u03b1 [ 12 ]. The hypothesis for this investigation was that ingestion of a hemp fiber bar containing NCT and NFT would influence exercise-induced alterations in gut permeability and shifts in related plasma metabolites. This study examined the efficacy of 2-week ingestion of a hemp fiber bar (high and low doses) in altering exercise-induced gut permeability using a randomized crossover design. Exercise-induced alterations in gut permeability were measured using changes in the urine lactulose-to- 13 C mannitol (L: 13 CM) ratio, and plasma metabolites via untargeted metabolomics.",
+    "document_source_id": "40284247",
+    "analysis_date": "2025-12-10",
+    "extracted_data": {
+      "document_summary": "This study investigated the effects of 2-week hemp fiber (high and low doses) or placebo supplementation on post-exercise gut permeability and plasma metabolite shifts in healthy male and female cyclists after intensive cycling. While hemp fiber did not significantly alter post-exercise gut permeability (measured by urine sugar data), untargeted metabolomics revealed that the combination of hemp fiber intake and vigorous exercise increased beneficial gut-derived metabolites and influenced pathways related to tryptophan, primary bile acid, steroid, sphingolipid, alpha-linolenic acid, arginine and proline, lipid, and amino acid metabolism.",
+      "treatment_details": {
+        "therapy_type": "Dietary supplementation with hemp fiber (hemp hull powder) combined with intensive cycling exercise.",
+        "dose_specificity": "Participants received daily supplementation for 2 weeks with either a high dose (20 g/d) or low dose (5 g/d) of hemp hull powder, or a placebo (0 g/d). Each supplementation period concluded with a 2.25-hour intensive cycling bout performed at approximately 70% VO2max. While distinct metabolomic shifts were observed between the hemp fiber and placebo groups (R2Y = 0.987 and 0.995), no significant dose-response for gut permeability was reported."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "Lactulose/13C Mannitol ratio (L:13CM)",
+          "measured_tissue_or_fluid": "Urine",
+          "activity_type": "Ratio of ingested sugars (permeability marker)",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "No trial differences were found; did not differ significantly between the three supplementation trials, despite detection limits for individual sugars: 0.3 mg/mL for 12C-mannitol, 0.5 mg/mL for 13C-mannitol, 0.3 mg/mL for lactulose."
+          },
+          "core_biological_function": "Indicator of intestinal permeability, reflecting the integrity of the gut barrier.",
+          "relevant_activity_context": "Post-2.25 h intensive cycling, following 2-week hemp fiber (high/low dose) or placebo supplementation.",
+          "performance_or_health_indicator": "Primary indicator of altered gut permeability; unchanged levels suggest no significant impact of hemp fiber on exercise-induced gut permeability."
+        },
+        {
+          "biomarker_name": "Creatine Kinase (CK)",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Protein/Enzyme Level",
+          "measured_effect": {
+            "direction_of_change": "higher (post-exercise)",
+            "magnitude_quantification": "Increased post-exercise in all groups (p < 0.001), but no significant trial differences were found between supplementation groups."
+          },
+          "core_biological_function": "Enzyme involved in muscle energy metabolism and cellular energy; elevated levels typically indicate muscle damage.",
+          "relevant_activity_context": "Post-2.25 h intensive cycling, following 2-week hemp fiber (high/low dose) or placebo supplementation.",
+          "performance_or_health_indicator": "Indicator of muscle damage level; the increase reflects exercise-induced muscle damage, but hemp fiber had no effect on post-exercise muscle damage differences."
+        },
+        {
+          "biomarker_name": "Myoglobin",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher (post-exercise)",
+            "magnitude_quantification": "Increased post-exercise in all groups (p < 0.001), but no significant trial differences were found between supplementation groups."
+          },
+          "core_biological_function": "Oxygen-binding protein found in muscle tissue; released into the bloodstream upon muscle injury.",
+          "relevant_activity_context": "Post-2.25 h intensive cycling, following 2-week hemp fiber (high/low dose) or placebo supplementation.",
+          "performance_or_health_indicator": "Indicator of muscle damage level; the increase reflects exercise-induced muscle damage, but hemp fiber had no effect on post-exercise muscle damage differences."
+        },
+        {
+          "biomarker_name": "Cortisol",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Hormone Concentration",
+          "measured_effect": {
+            "direction_of_change": "higher (post-exercise)",
+            "magnitude_quantification": "Increased post-exercise in all groups (p < 0.001), but no significant trial differences were found between supplementation groups."
+          },
+          "core_biological_function": "Stress hormone involved in the regulation of metabolism, immune response, and physiological stress.",
+          "relevant_activity_context": "Post-2.25 h intensive cycling, following 2-week hemp fiber (high/low dose) or placebo supplementation.",
+          "performance_or_health_indicator": "Indicator of physiological stress response; the increase reflects exercise-induced stress, but hemp fiber had no effect on the acute stress response differences to exercise."
+        },
+        {
+          "biomarker_name": "3-hydroxy-4-methoxybenzoic acid (Isovanillic acid)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Increased (VIP = 1.9), contributing to overall increased levels of beneficial metabolites; identified as a plant metabolite with antibacterial properties."
+          },
+          "core_biological_function": "Metabolite potentially derived from gut microbial metabolism or phenolic compound breakdown; a plant metabolite with antibacterial properties.",
+          "relevant_activity_context": "Post-2.25 h intensive cycling, after 2-week hemp fiber (high/low dose) supplementation, combined with exercise.",
+          "performance_or_health_indicator": "Part of a shift towards beneficial metabolite profiles, suggesting positive effects on gut health and overall metabolism when hemp fiber is combined with exercise, potentially due to antibacterial properties."
+        },
+        {
+          "biomarker_name": "Serotonin",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Increased (VIP = 1.5), part of overall beneficial metabolites and a key significant hit within the tryptophan pathway (pathway significantly influenced by hemp fiber supplementation, p < 0.05)."
+          },
+          "core_biological_function": "Neurotransmitter involved in the regulation of mood, sleep, appetite, and gut motility; also functions as a peripheral hormone; produced from tryptophan.",
+          "relevant_activity_context": "Post-2.25 h intensive cycling, after 2-week hemp fiber (high/low dose) supplementation, combined with exercise; high-dose hemp fiber supplementation for pathway effect.",
+          "performance_or_health_indicator": "Part of a shift towards beneficial metabolite profiles, potentially indicating improved gut-brain axis communication or gut health benefits through modulation of neurotransmitter balance."
+        },
+        {
+          "biomarker_name": "5-hydroxytryptophan (5-HTP)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Increased (VIP = 1.4), part of overall beneficial metabolites and a key significant hit within the tryptophan pathway (pathway significantly influenced by hemp fiber supplementation, p < 0.05)."
+          },
+          "core_biological_function": "Precursor to serotonin; intermediate in serotonin synthesis from tryptophan; involved in the tryptophan metabolic pathway.",
+          "relevant_activity_context": "Post-2.25 h intensive cycling, after 2-week hemp fiber (high/low dose) supplementation, combined with exercise; high-dose hemp fiber supplementation for pathway effect.",
+          "performance_or_health_indicator": "Part of a shift towards beneficial metabolite profiles, potentially indicating improved gut health or enhanced serotonin synthesis pathway activity."
+        },
+        {
+          "biomarker_name": "4-methoxycinnamic acid",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Increased (VIP = 1.4), part of overall beneficial metabolites; identified as a methyl derivative of ferulic acid found in hemp fibers."
+          },
+          "core_biological_function": "Phenolic acid, possibly derived from dietary sources like hemp fiber or gut microbial activity; plant-derived phenolic compound metabolite.",
+          "relevant_activity_context": "Post-2.25 h intensive cycling, after 2-week hemp fiber (high/low dose) supplementation, combined with exercise; hemp fiber supplementation.",
+          "performance_or_health_indicator": "Part of a shift towards beneficial metabolite profiles, suggesting positive effects on gut health and overall metabolism; indicates systemic bioavailability of hemp fiber-derived phenolic compounds, potentially contributing to antioxidant or anti-inflammatory effects."
+        },
+        {
+          "biomarker_name": "Lactulose/12C Mannitol ratio (L:12CM)",
+          "measured_tissue_or_fluid": "Urine",
+          "activity_type": "Ratio (Permeability marker)",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "Did not differ significantly between the three supplementation trials."
+          },
+          "core_biological_function": "Biomarker used to assess intestinal permeability and gut barrier integrity.",
+          "relevant_activity_context": "Response to 2-week hemp fiber supplementation and intensive cycling bout; no significant effect of supplementation on post-exercise changes.",
+          "performance_or_health_indicator": "No impact of hemp fiber supplementation on exercise-induced gut permeability."
+        },
+        {
+          "biomarker_name": "Plasma disaccharides (sucrose, lactose, maltose)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Metabolite Level (untargeted metabolomics)",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "No increases post-exercise (time effect, p = 0.434) or trial differences (interaction effect, p = 0.459)."
+          },
+          "core_biological_function": "Carbohydrate metabolites; their plasma levels reflect absorption and metabolism, potentially related to gut integrity.",
+          "relevant_activity_context": "Post-intensive cycling and 2-week hemp fiber supplementation; no significant changes observed.",
+          "performance_or_health_indicator": "No significant impact of exercise or hemp fiber supplementation on these specific plasma carbohydrate levels."
+        },
+        {
+          "biomarker_name": "Neutrophil/lymphocyte ratio",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Ratio",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Increased post-exercise in the three arms of the study (all-time effects p < 0.001)."
+          },
+          "core_biological_function": "Indicator of systemic inflammation and physiological stress response.",
+          "relevant_activity_context": "Post-intensive 2.25-hour cycling bout, irrespective of hemp fiber supplementation.",
+          "performance_or_health_indicator": "Indicates increased physiological stress and inflammation following vigorous exercise."
+        },
+        {
+          "biomarker_name": "Tryptophan metabolism pathway",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Pathway activity/Metabolite levels",
+          "measured_effect": {
+            "direction_of_change": "influenced/modulated",
+            "magnitude_quantification": "Significantly influenced by hemp fiber supplementation (interaction effects, each p < 0.05)."
+          },
+          "core_biological_function": "Regulates the breakdown and synthesis of tryptophan, impacting neurotransmitter production, immune responses, and gut health.",
+          "relevant_activity_context": "High-dose hemp fiber supplementation, showing a significant interaction effect on pathway activity.",
+          "performance_or_health_indicator": "Indicates modulation of a crucial metabolic pathway with implications for gut-brain axis, inflammation, and overall physiological function."
+        },
+        {
+          "biomarker_name": "Primary bile acid biosynthesis pathway",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Pathway activity/Metabolite levels",
+          "measured_effect": {
+            "direction_of_change": "influenced/modulated",
+            "magnitude_quantification": "Significantly influenced by hemp fiber supplementation (interaction effects, each p < 0.05)."
+          },
+          "core_biological_function": "Involved in cholesterol homeostasis, fat digestion, and signaling between the gut microbiota and host.",
+          "relevant_activity_context": "High-dose hemp fiber supplementation, showing a significant interaction effect on pathway activity.",
+          "performance_or_health_indicator": "Suggests an impact on lipid metabolism, gut-liver axis communication, and cholesterol regulation."
+        },
+        {
+          "biomarker_name": "Steroid biosynthesis pathway",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Pathway activity/Metabolite levels",
+          "measured_effect": {
+            "direction_of_change": "influenced/modulated",
+            "magnitude_quantification": "Significantly influenced by hemp fiber supplementation (interaction effects, each p < 0.05)."
+          },
+          "core_biological_function": "Synthesis of various steroids, including hormones and vitamin D precursors.",
+          "relevant_activity_context": "High-dose hemp fiber supplementation, showing a significant interaction effect on pathway activity.",
+          "performance_or_health_indicator": "Indicates modulation of hormone synthesis and vitamin D metabolism, potentially affecting various physiological processes."
+        },
+        {
+          "biomarker_name": "Sphingolipid metabolism pathway",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Pathway activity/Metabolite levels",
+          "measured_effect": {
+            "direction_of_change": "influenced/modulated",
+            "magnitude_quantification": "Significantly influenced by hemp fiber supplementation (interaction effects, each p < 0.05)."
+          },
+          "core_biological_function": "Involved in cell membrane structure, cell signaling, growth, differentiation, and apoptosis.",
+          "relevant_activity_context": "High-dose hemp fiber supplementation, showing a significant interaction effect on pathway activity.",
+          "performance_or_health_indicator": "Suggests an impact on cellular function, membrane integrity, and cell signaling pathways."
+        },
+        {
+          "biomarker_name": "Alpha-linolenic acid metabolism pathway",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Pathway activity/Metabolite levels",
+          "measured_effect": {
+            "direction_of_change": "enriched/influenced",
+            "magnitude_quantification": "Multiple metabolic pathways were enriched with hemp fiber intake."
+          },
+          "core_biological_function": "Metabolism of an essential omega-3 fatty acid, involved in inflammatory responses and cardiovascular health.",
+          "relevant_activity_context": "Hemp fiber intake, leading to enrichment of this pathway.",
+          "performance_or_health_indicator": "Indicates modulation of essential fatty acid metabolism, potentially influencing inflammatory processes and overall health."
+        },
+        {
+          "biomarker_name": "Porphyrin metabolism pathway",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Pathway activity/Metabolite levels",
+          "measured_effect": {
+            "direction_of_change": "enriched/influenced",
+            "magnitude_quantification": "Multiple metabolic pathways were enriched with hemp fiber intake."
+          },
+          "core_biological_function": "Synthesis and degradation of porphyrins, crucial for heme production and oxygen transport.",
+          "relevant_activity_context": "Hemp fiber intake, leading to enrichment of this pathway.",
+          "performance_or_health_indicator": "Suggests an impact on heme synthesis and related processes, potentially affecting oxygen delivery and cellular respiration."
+        },
+        {
+          "biomarker_name": "Arginine and proline metabolism pathway",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Pathway activity/Metabolite levels",
+          "measured_effect": {
+            "direction_of_change": "enriched/influenced",
+            "magnitude_quantification": "Multiple metabolic pathways were enriched with hemp fiber intake."
+          },
+          "core_biological_function": "Amino acid metabolism involved in protein synthesis, nitric oxide production, and tissue repair.",
+          "relevant_activity_context": "Hemp fiber intake, leading to enrichment of this pathway.",
+          "performance_or_health_indicator": "Suggests an impact on amino acid availability, nitric oxide synthesis, and processes related to growth and repair."
+        },
+        {
+          "biomarker_name": "Tryptophan",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "changed",
+            "magnitude_quantification": "Key and significant metabolite hits within the tryptophan pathway (pathway significantly influenced by hemp fiber supplementation, p < 0.05)."
+          },
+          "core_biological_function": "Essential amino acid, precursor to serotonin and other neuroactive compounds, involved in protein synthesis and immune regulation.",
+          "relevant_activity_context": "High-dose hemp fiber supplementation.",
+          "performance_or_health_indicator": "Indicates modulation of central amino acid metabolism, potentially affecting mood, sleep, and immune function."
+        },
+        {
+          "biomarker_name": "5-hydroxyindoleacetic acid",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "changed",
+            "magnitude_quantification": "Key and significant metabolite hits within the tryptophan pathway (pathway significantly influenced by hemp fiber supplementation, p < 0.05)."
+          },
+          "core_biological_function": "Main metabolite of serotonin, often used as an indicator of serotonin turnover.",
+          "relevant_activity_context": "High-dose hemp fiber supplementation.",
+          "performance_or_health_indicator": "Reflects altered serotonin metabolism and activity."
+        },
+        {
+          "biomarker_name": "Kynurenine",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "changed",
+            "magnitude_quantification": "Key and significant metabolite hits within the tryptophan pathway (pathway significantly influenced by hemp fiber supplementation, p < 0.05)."
+          },
+          "core_biological_function": "Metabolite in the kynurenine pathway of tryptophan degradation, involved in immune response and neuroprotection.",
+          "relevant_activity_context": "High-dose hemp fiber supplementation.",
+          "performance_or_health_indicator": "Indicates modulation of the kynurenine pathway, which can influence immune and neurological functions."
+        },
+        {
+          "biomarker_name": "Indoleacetic acid",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "changed",
+            "magnitude_quantification": "Key and significant metabolite hits within the tryptophan pathway (pathway significantly influenced by hemp fiber supplementation, p < 0.05)."
+          },
+          "core_biological_function": "Gut-derived metabolite of tryptophan, with diverse biological activities.",
+          "relevant_activity_context": "High-dose hemp fiber supplementation.",
+          "performance_or_health_indicator": "Suggests altered gut microbiota activity and host metabolism of tryptophan."
+        },
+        {
+          "biomarker_name": "Indolelactic acid",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "detected/changed",
+            "magnitude_quantification": "High-VIP metabolite; functions as an anti-inflammatory molecule."
+          },
+          "core_biological_function": "Gut-derived metabolite from tryptophan metabolism, known for its anti-inflammatory properties.",
+          "relevant_activity_context": "Hemp fiber supplementation.",
+          "performance_or_health_indicator": "Suggests potential anti-inflammatory effects mediated by gut microbiota and hemp fiber components."
+        },
+        {
+          "biomarker_name": "27-hydroxycholesterol",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "changed",
+            "magnitude_quantification": "Numerous metabolites with significant hits within the primary bile acid biosynthesis pathway (pathway significantly influenced by hemp fiber supplementation, p < 0.05)."
+          },
+          "core_biological_function": "Oxysterol, involved in cholesterol transport and metabolism, and a precursor in bile acid synthesis.",
+          "relevant_activity_context": "High-dose hemp fiber supplementation.",
+          "performance_or_health_indicator": "Indicates modulation of cholesterol and bile acid metabolism."
+        },
+        {
+          "biomarker_name": "7\u03b1-hydroxycholesterol",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "changed",
+            "magnitude_quantification": "Numerous metabolites with significant hits within the primary bile acid biosynthesis pathway (pathway significantly influenced by hemp fiber supplementation, p < 0.05)."
+          },
+          "core_biological_function": "Key intermediate in the classical pathway of bile acid synthesis from cholesterol.",
+          "relevant_activity_context": "High-dose hemp fiber supplementation.",
+          "performance_or_health_indicator": "Reflects altered bile acid synthesis and cholesterol catabolism."
+        },
+        {
+          "biomarker_name": "Chenodeoxycholic acid",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "changed",
+            "magnitude_quantification": "Numerous metabolites with significant hits within the primary bile acid biosynthesis pathway (pathway significantly influenced by hemp fiber supplementation, p < 0.05)."
+          },
+          "core_biological_function": "Primary bile acid involved in fat digestion and absorption, and a signaling molecule.",
+          "relevant_activity_context": "High-dose hemp fiber supplementation.",
+          "performance_or_health_indicator": "Indicates modulation of bile acid pool and related metabolic functions."
+        },
+        {
+          "biomarker_name": "Cholic acid",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "changed",
+            "magnitude_quantification": "Numerous metabolites with significant hits within the primary bile acid biosynthesis pathway (pathway significantly influenced by hemp fiber supplementation, p < 0.05)."
+          },
+          "core_biological_function": "Primary bile acid involved in fat digestion and absorption, and a signaling molecule.",
+          "relevant_activity_context": "High-dose hemp fiber supplementation.",
+          "performance_or_health_indicator": "Indicates modulation of bile acid pool and related metabolic functions."
+        },
+        {
+          "biomarker_name": "Glycocholic acid",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "changed",
+            "magnitude_quantification": "Numerous metabolites with significant hits within the primary bile acid biosynthesis pathway (pathway significantly influenced by hemp fiber supplementation, p < 0.05)."
+          },
+          "core_biological_function": "Conjugated bile acid, important for fat emulsification and absorption.",
+          "relevant_activity_context": "High-dose hemp fiber supplementation.",
+          "performance_or_health_indicator": "Indicates modulation of conjugated bile acid profiles, affecting lipid digestion."
+        },
+        {
+          "biomarker_name": "Vitamin D3",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "changed",
+            "magnitude_quantification": "Significant metabolite hits within the steroid biosynthesis pathway (pathway significantly influenced by hemp fiber supplementation, p < 0.05)."
+          },
+          "core_biological_function": "Precursor to active vitamin D, crucial for calcium homeostasis, bone health, and immune function.",
+          "relevant_activity_context": "High-dose hemp fiber supplementation.",
+          "performance_or_health_indicator": "Indicates modulation of vitamin D metabolism, potentially affecting bone and immune health."
+        },
+        {
+          "biomarker_name": "Calcidiol",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "changed",
+            "magnitude_quantification": "Significant metabolite hits within the steroid biosynthesis pathway (pathway significantly influenced by hemp fiber supplementation, p < 0.05)."
+          },
+          "core_biological_function": "Storage form of vitamin D, typically measured to assess vitamin D status.",
+          "relevant_activity_context": "High-dose hemp fiber supplementation.",
+          "performance_or_health_indicator": "Indicates modulation of vitamin D status."
+        },
+        {
+          "biomarker_name": "7-dehydrocholesterol",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "changed",
+            "magnitude_quantification": "Significant metabolite hits within the steroid biosynthesis pathway (pathway significantly influenced by hemp fiber supplementation, p < 0.05)."
+          },
+          "core_biological_function": "Precursor to cholesterol and vitamin D3.",
+          "relevant_activity_context": "High-dose hemp fiber supplementation.",
+          "performance_or_health_indicator": "Indicates modulation of cholesterol and vitamin D synthesis pathways."
+        },
+        {
+          "biomarker_name": "Calcitriol",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "changed",
+            "magnitude_quantification": "Significant metabolite hits within the steroid biosynthesis pathway (pathway significantly influenced by hemp fiber supplementation, p < 0.05)."
+          },
+          "core_biological_function": "Active form of vitamin D, a hormone regulating calcium and phosphate metabolism.",
+          "relevant_activity_context": "High-dose hemp fiber supplementation.",
+          "performance_or_health_indicator": "Indicates modulation of active vitamin D levels, affecting calcium homeostasis."
+        },
+        {
+          "biomarker_name": "Delayed onset of muscle soreness (DOMS)",
+          "measured_tissue_or_fluid": "Participant self-report",
+          "activity_type": "Rating scale (1-10)",
+          "measured_effect": {
+            "direction_of_change": "Not reported",
+            "magnitude_quantification": "Data not reported in context chunks."
+          },
+          "core_biological_function": "Subjective indicator of muscle damage and recovery status.",
+          "relevant_activity_context": "Post-exercise (after 2.25 h cycling at 70% VO2max) following 2-week supplementation with high- or low-dose hemp fiber bars or placebo.",
+          "performance_or_health_indicator": "Indicates muscle damage level and perceived recovery from exercise."
+        },
+        {
+          "biomarker_name": "Profile of Moods State (POMS)",
+          "measured_tissue_or_fluid": "Participant self-report",
+          "activity_type": "Rating scale (0-4 for items, summed for subscales, Total Mood Disturbance calculated)",
+          "measured_effect": {
+            "direction_of_change": "Not reported",
+            "magnitude_quantification": "Data not reported in context chunks."
+          },
+          "core_biological_function": "Assessment of psychological states, including tension, depression, anger, fatigue, confusion, vigor, and esteem-related affect.",
+          "relevant_activity_context": "Post-exercise (after 2.25 h cycling at 70% VO2max) following 2-week supplementation with high- or low-dose hemp fiber bars or placebo.",
+          "performance_or_health_indicator": "Indicates psychological well-being, stress levels, and recovery status, potentially predicting overtraining risk."
+        },
+        {
+          "biomarker_name": "Complete blood counts (CBCs)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Cell counts (e.g., erythrocytes, leukocytes, platelets and their subtypes)",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "No trial differences were found for blood cell counts between supplementation groups."
+          },
+          "core_biological_function": "Provides a broad overview of health and detects a wide range of disorders, including anemia, infection, and inflammation.",
+          "relevant_activity_context": "Post-2.25 h intensive cycling, following 2-week hemp fiber (high/low dose) or placebo supplementation.",
+          "performance_or_health_indicator": "Indicates immune function, inflammation, and general health status."
+        }
+      ]
+    }
+  }
+]

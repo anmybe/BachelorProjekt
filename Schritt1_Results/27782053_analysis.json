@@ -1,0 +1,436 @@
+[
+  {
+    "title": "Int J Mol Sci Int J Mol Sci ijms International Journal of Molecular Sciences 1422-0067 MDPI 5085619 10.3390/ijms17101553 ijms-17-01553 Review Circulating MicroRNAs as Potential Biomarkers of Exercise Response Polakovi\u010dov\u00e1 M\u00e1ja 1 * Musil Peter 2 Laczo Eugen 3 Hamar Du\u0161an 4 Kyselovi\u010d J\u00e1n 2 Taguchi Y-h. Academic Editor 1 Hamar Institute for Human Performance, Faculty of Physical Education and Sports, Comenius University Bratislava, N\u00e1br. Arm. Gen. L. Svobodu 9, Bratislava 814 69, Slovakia 2 Department of Pharmacology and Toxicology, Faculty of Pharmacy, Comenius University Bratislava, Odboj\u00e1rov 10, Bratislava 832 32, Slovakia; peter.musil@uniba.sk (P.M.); kyselovic@uniba.sk (J.K.) 3 Department of Track & Field, Faculty of Physical Education and Sports, Comenius University Bratislava, N\u00e1br. Arm. Gen. L. Svobodu 9, Bratislava 814 69, Slovakia; eugen.laczo@uniba.sk 4 Department of Sport Kinanthropology, Faculty of Physical Education and Sports, Comenius University Bratislava, N\u00e1br. Arm. Gen. L. Svobodu 9, Bratislava 814 69, Slovakia; dusan.hamar@uniba.sk * Correspondence: maja.polakovicova@uniba.sk ; Tel.: +421-905498969; Fax: +421-220669951 05 10 2016 10 2016 17 10 1553 06 7 2016 06 9 2016 \u00a9 2016 by the authors; licensee MDPI, Basel, Switzerland. 2016 This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC-BY) license ( http://creativecommons.org/licenses/by/4.0/ ). Systematic physical activity increases physical fitness and exercise capacity that lead to the improvement of health status and athletic performance. Considerable effort is devoted to identifying new biomarkers capable of evaluating exercise performance capacity and progress in training, early detection of overtraining, and monitoring health-related adaptation changes. Recent advances in OMICS technologies have opened new opportunities in the detection of genetic, epigenetic and transcriptomic biomarkers. Very promising are mainly small non-coding microRNAs (miRNAs). miRNAs post-transcriptionally regulate gene expression by binding to mRNA and causing its degradation or inhibiting translation. A growing body of evidence suggests that miRNAs affect many processes and play a crucial role not only in cell differentiation, proliferation and apoptosis, but also affect extracellular matrix composition and maintaining processes of homeostasis. A number of studies have shown changes in distribution profiles of circulating miRNAs (c-miRNAs) associated with various diseases and disorders as well as in samples taken under physiological conditions such as pregnancy or physical exercise. This overview aims to summarize the current knowledge related to the response of blood c-miRNAs profiles to different modes of exercise and to highlight their potential application as a novel class of biomarkers of physical performance capacity and training adaptation. circulating microRNA biomarker physical exercise skeletal muscle 1. Introduction Athletic performance depends on a number of physiological, mental and environmental factors closely related to the training level, nutritional status and genetic predisposition of an athlete. Physical activity and exercise training induce changes in extracellular and intracellular signaling that influence the expression of genes controlling inflammation, angiogenesis, mitochondrial synthesis, myocardial and skeletal muscle metabolism, regeneration and remodeling [ 1 , 2 , 3 , 4 ]. Gene transcription and translation are the starting phases of the human body\u2019s adaptation to exercise which determine changes in levels and activity of many proteins and hormones associated with the physical performance [ 5 ]. In the early state of the research, RNA has been viewed as a simple working copy of the genomic DNA, transporting information from the genome into the proteins. Since the turn of the millennium numerous studies changed this rather simple concept and revealed that a large fraction of the genome sequences increases RNA transcripts that do not code proteins, called non-coding RNAs (ncRNAs) [ 6 ]. In recent years, it has become increasingly apparent that ncRNAs, although located in the non-protein coding parts of the genome called genomic wastelands, are of crucial importance for the normal development and function of the human organism [ 7 ]. Among ncRNAs, the identification of microRNAs (miRNAs) in the early 1990s opened a new level of complexity in transcriptional and translational regulation [ 8 ]. Mammalian miRNAs have been identified as regulators of gene expression by repressing specific target genes at the post-transcriptional level. miRNAs have proven to be critical mediators of the response to cellular stress related to disease and environmental stimuli [ 9 ]. In mammals, highly conserved miRNAs are predicted to regulate, by post-transcriptional or translational mechanisms, the expression of about 50% of the protein-coding genes [ 10 ]. The precise mechanism of miRNAs targeting, as well as its activity, is still not fully understood. A single gene can be regulated by multiple miRNAs, and likewise, a single miRNA may regulate more target genes that are often grouped in a specific biological pathway [ 11 ]. To date, over 2500 miRNAs have already been identified in humans [ 12 ]. Similar to other regulatory molecules, the expression of miRNAs frequently changes due to a disease. Most of the miRNAs identified to date have been associated with cancer, cardiovascular diseases, diabetes, inflammation, and neurological disorders [ 13 , 14 , 15 , 16 , 17 ]. Important roles of miRNAs have emerged in the control of metabolic pathways involved in lipid and glucose metabolism [ 18 ], energy homeostasis and nutrition [ 19 ]. Evidence is also growing that miRNAs play a role in governing cell senescence and a panel of aging-associated miRNAs was identified [ 20 ]. miRNAs genes have the ability to control cell proliferation and apoptosis and are located at fragile sites in the genome regions. Their deregulation may significantly contribute to proliferative diseases such as cancer [ 21 , 22 ]. Due to the pivotal role of miRNAs in disease development, they have been subjects of intensive research either as drug targets or diagnostic markers. Some of them have already achieved an application in clinics. MRX34 (Mirna Therapeutics Inc., Austin, TX, USA), miRNA-34 tumor suppressor entered clinical testing in 2013 and it is now in open-label phase I clinical trial in liver cancer patients [ 23 ]. The first human miRNA-based therapeutic, Miravirsen (Santaris Pharma-Roche Innovation Center Copenhagen, Copenhagen, Denmark), inhibitor of miRNA-122 biogenesis has initiated the phase III of clinical testing for hepatitis C virus infection treatment [ 24 ]. In the area of cancer clinical diagnostics several tests using miRNAs as biomarkers are already available. miRNA expression profiles can be used to precisely classify various types of cancers, and are superior in the classification of poorly differentiated tumors. Molecular diagnostics company Rosetta Genomics Ltd. (Rehovot, Israel). offers a miRNA panel to identify unknown primary origin of metastatic cancers [ 25 , 26 ]. miRNAs\u2019 diagnostic assay from Prometheus Laboratories Inc. (San Diego, CA, USA) allows to identify the origin of metastatic cancer with further classification of 25 particular tumor types [ 27 ]. An interesting feature of miRNA activity is that while miRNAs are often moderate regulators under homeostatic conditions, their function becomes more amplified in response to injury or excessive stress [ 28 ]. miRNAs have been identified as intracellular modulators of mitochondrial metabolism, inflammation, muscle recovery and hypertrophy. These findings attracted the attention of sports scientists and started the research on miRNAs regulation in exercise physiology [ 29 ]. The identification of miRNAs expression pattern characterizing physical exercise could be applied for monitoring of physical fatigue and recovery and even to evaluate physical performance capacity [ 30 ]. Moreover, as circulating miRNAs (c-miRNAs) are of tissue or cellular origin, some studies investigated miRNAs as potential markers of doping manipulations. Recently, a panel of distinct plasma miRNAs for the detection of autologous blood transfusion doping has been successfully specified and is currently considered to be used as auxiliary parameters in World Anti-Doping Agency (WADA) Athlete Biological Passport concept [ 31 ]. 2. MicroRNA Biogenesis and Function The biogenesis of miRNAs ( Figure 1 ) is a multistep process beginning in the cell nucleus, where miRNA encoding genes are transcribed and generate precursors. miRNA genes are evolutionary conserved and are located within the introns or exons of protein coding genes, as well as in intergenic areas. They are transcribed in the same way as protein coding genes [ 32 ]. Initially, a primary miRNA (pri-miRNA) double-stranded transcript with several hundred base pairs is formed in the nucleus, usually by the enzyme endoribonuclease (RNase) II. Afterwards, pri-miRNA is processed by nuclear RNase III enzyme Drosha and its cofactor DiGeorge Syndrome Critical Region 8 (DGCR8), called Pasha, into a 60\u201370 nucleotide long precursor miRNA (pre-miRNA) hairpin [ 33 ]. Pre-miRNA is then exported to the cytoplasm by Exportin 5 protein where it is subsequently processed by the Dicer, RNase III into the 19\u201324 nucleotide long mature miRNA duplex [ 34 ]. Finally, the double-stranded mature miRNA is unwound and the single active strand, also known as a guide strand, is loaded into the RNA-induced silencing complex (RISC) containing endonuclease Argonaute-2 along with other proteins and causing the degradation of mRNA [ 35 ]. The second passenger strand is usually degraded, although there are some reports emerging that the passenger strand could be active in gene regulation as well. However, miRNA biogenesis also involves other mechanisms via non-canonical Dicer or the Argonaute-independent pathway [ 36 ]. Depending on the recognition site, the binding of RISC to the target site in mRNA can have different effects. In the case that the target site is perfectly complementary to the miRNA, the target mRNA is cleaved by RISC [ 34 ]. Binding to partially complementary sites in mRNA is typical in mammals and results in repression of translation or degradation of the target transcript [ 37 , 38 ]. Nucleotides 2\u20138 of the miRNA are particularly important for pairing with the target mRNA. This sequence motif is referred to as the miRNA seed sequence and is often a primary determinant for target recognition. Since most target sites on mRNA have only partial base complementarity with their matching miRNAs, individual miRNAs may target as many as 100 different mRNAs [ 11 ]. Likewise, individual mRNA may comprise multiple binding sites for different miRNAs resulting in a complex regulatory network. Considering this mode of action, it is possible that the vast majority of cellular and extracellular functions are regulated by miRNAs either directly or indirectly [ 39 ]. Individual miRNA species are assigned a numeric name in sequential order according to the date of discovery and classification. Orthologous or identical miRNA sequences found in multiple species are assigned the same numeric value with a species-specific prefix. Many miRNAs are clustered into the families based on the similarities of the sequence in the seed region capable of targeting the common sets of genes [ 40 ]. Although some miRNAs are tissue-specific, most miRNAs show a broader tissue distribution. Tissue-specific miRNAs are defined as mature miRNAs which are expressed 20-fold higher in a specific tissue than the mean levels in all other tissues [ 21 ]. Up to now, no tissue or organ lacking miRNAs expression has been identified. miRNAs fine-tune gene expression and have a big impact on gene regulation nodes.",
+    "document_source_id": "27782053",
+    "analysis_date": "2025-12-09",
+    "extracted_data": {
+      "document_summary": "This comprehensive review examines the current understanding of circulating microRNAs (c-miRNAs), including muscle-specific myomiRs, as potential biomarkers for assessing physical performance capacity, training adaptation, early detection of overtraining, and monitoring health-related changes. It summarizes how various exercise modalities and inactivity modulate miRNA expression, highlights their roles in muscle development, differentiation, hypertrophy, regeneration, and their deregulation in muscular disorders, and discusses their utility in diagnosing disease and monitoring overall athlete status.",
+      "treatment_details": {
+        "therapy_type": "Physical Exercise, including acute bouts (endurance, cycling, cardiorespiratory, sprint interval, resistance, eccentric, treadmill running) and chronic training programs (endurance, resistance, strength, aerobic, high-volume cycling), and conditions of inactivity (bed rest).",
+        "dose_specificity": "The review discusses a wide range of exercise durations and intensities, from acute bouts (e.g., 30 min treadmill running at 80% VO2max, acute cycling ergometer, marathon running, sprint interval training, acute eccentric exercise) to chronic training programs lasting weeks or months (e.g., 10-day endurance, 12-week endurance, 12-week resistance (5 days/week), 12-week strength, 5 months of resistance). Inactivity (7 days bed rest) was also considered. While many studies explored differential miRNA responses to varied loads and training types (endurance vs. strength, acute vs. chronic), the document consistently notes that specific dose-response comparisons within single studies are often not reported or are inconsistent, often due to methodological heterogeneity and small sample sizes."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "miR-1",
+          "measured_tissue_or_fluid": "Skeletal muscle (Vastus lateralis), Satellite cells, Tissues (Rhabdomyosarcoma tumors), Blood (Plasma, Serum), Circulating (blood/plasma/serum)",
+          "activity_type": "miRNA Expression Level",
+          "measured_effect": {
+            "direction_of_change": "higher, lower",
+            "magnitude_quantification": "Significantly increased level (Nielsen et al.); upregulated (Russel et al.); upregulated after injury (affecting Pax 7); downregulated after 12-week endurance training (resting period); downregulation after 7 days of bed rest; downregulation in rhabdomyosarcoma tumors; downregulation after 12 weeks of strength training in elderly participants; upregulated in all of the studies (with exceptions for detection threshold or inclusion)"
+          },
+          "core_biological_function": "Promotes myoblast differentiation; promotes muscle regeneration; involved in muscle development and function; MyomiR.",
+          "relevant_activity_context": "Acute bout of endurance exercise; acute endurance cycling exercise; after muscle injury; Resting period after 12-week endurance training; 7 days of bed rest; rhabdomyosarcoma tumors; 12 weeks of strength training in elderly; Exercise (general, especially endurance).",
+          "performance_or_health_indicator": "Discriminates Duchenne/Becker's muscular dystrophy from healthy controls; reduced levels correlated with worsened muscle function in COPD; Marker of muscle function and exercise adaptation."
+        },
+        {
+          "biomarker_name": "miR-133a",
+          "measured_tissue_or_fluid": "Skeletal muscle (Vastus lateralis), Tissues (Rhabdomyosarcoma tumors), Blood (Plasma, Serum)",
+          "activity_type": "miRNA Expression Level",
+          "measured_effect": {
+            "direction_of_change": "higher, lower",
+            "magnitude_quantification": "Enhanced myoblast proliferation; upregulated after acute endurance cycling exercise; downregulated after 12-week endurance training (resting period); downregulation after 7 days of bed rest; downregulation in rhabdomyosarcoma tumors"
+          },
+          "core_biological_function": "Enhances myoblast proliferation; involved in muscle development and function.",
+          "relevant_activity_context": "Muscle cell differentiation; acute endurance cycling exercise; Resting period after 12-week endurance training; 7 days of bed rest; rhabdomyosarcoma tumors.",
+          "performance_or_health_indicator": "Discriminates Duchenne/Becker's muscular dystrophy from healthy controls."
+        },
+        {
+          "biomarker_name": "miR-133b",
+          "measured_tissue_or_fluid": "Skeletal muscle (Vastus lateralis), Tissues (Rhabdomyosarcoma tumors), Blood (Plasma, Serum)",
+          "activity_type": "miRNA Expression Level",
+          "measured_effect": {
+            "direction_of_change": "higher, lower",
+            "magnitude_quantification": "Upregulated after acute endurance cycling exercise; downregulated after 12-week endurance training (resting period); downregulation after 10 days of endurance training; downregulation in rhabdomyosarcoma tumors"
+          },
+          "core_biological_function": "Involved in muscle development and function.",
+          "relevant_activity_context": "Acute endurance cycling exercise; Resting period after 12-week endurance training; 10 days of endurance training; rhabdomyosarcoma tumors.",
+          "performance_or_health_indicator": "Discriminates Duchenne/Becker's muscular dystrophy from healthy controls."
+        },
+        {
+          "biomarker_name": "miR-133",
+          "measured_tissue_or_fluid": "Circulating (blood/plasma/serum)",
+          "activity_type": "miRNA Expression Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "upregulated in all of the studies (with exceptions for detection threshold or inclusion)"
+          },
+          "core_biological_function": "MyomiR, involved in muscle function.",
+          "relevant_activity_context": "Exercise (general, especially endurance).",
+          "performance_or_health_indicator": "Marker of muscle function and exercise adaptation."
+        },
+        {
+          "biomarker_name": "miR-206",
+          "measured_tissue_or_fluid": "Skeletal muscle, Satellite cells, Tissues (Rhabdomyosarcoma tumors), Blood (Plasma, Serum), Circulating (blood/plasma/serum)",
+          "activity_type": "miRNA Expression Level",
+          "measured_effect": {
+            "direction_of_change": "higher, lower",
+            "magnitude_quantification": "Promotes myoblast differentiation; increased levels correlated with Beta-myosine heavy chain gene expression; enriched distribution level linked with regeneration; upregulated in satellite cells after injury; upregulation coincides with the progression of amyotrophic lateral sclerosis; upregulated in all of the studies (with exceptions for detection threshold or inclusion); downregulated after 12-week endurance training (resting period); downregulation in rhabdomyosarcoma tumors"
+          },
+          "core_biological_function": "Skeletal muscle-specific; promotes myoblast differentiation; regulates retrograde signaling for nerve-muscle interactions; promotes muscle regeneration; MyomiR, involved in muscle function.",
+          "relevant_activity_context": "Muscle cell differentiation; slow-twitch type I muscle fiber development; muscle fiber regeneration; after muscle injury; progression of amyotrophic lateral sclerosis; Resting period after 12-week endurance training; rhabdomyosarcoma tumors; Exercise (general, especially endurance).",
+          "performance_or_health_indicator": "May help distinguish fast-twitch/slow-twitch skeletal muscle phenotypes; indicator of motor innervation; discriminates Duchenne/Becker's muscular dystrophy from healthy controls; associated with progression of amyotrophic lateral sclerosis; Marker of muscle function and exercise adaptation."
+        },
+        {
+          "biomarker_name": "miR-208a",
+          "measured_tissue_or_fluid": "Cardiac muscle, Blood (Plasma, Serum), Circulation",
+          "activity_type": "miRNA Expression Level",
+          "measured_effect": {
+            "direction_of_change": "unchanged, higher",
+            "magnitude_quantification": "Not explicitly stated, but described as cardio-specific, implying presence; upregulation observed"
+          },
+          "core_biological_function": "Cardio-specific; operates as modulator of cardiac muscle proliferation, differentiation, metabolism, and hypertrophy; Heart-specific miRNA; component of metabolic regulation; generally minimally affected by non-cardiac tissue injury; MyomiR, involved in muscle function.",
+          "relevant_activity_context": "Cardiac muscle tissue; Marathon run; strenuous endurance type of exercise; extremely demanding physical load; Endurance aerobic exercise.",
+          "performance_or_health_indicator": "Implies its importance in cardiac health; Indicates the heart system's involvement in regulating systemic metabolism under extremely demanding physical load, rather than non-cardiac tissue injury; Marker of muscle function and exercise adaptation."
+        },
+        {
+          "biomarker_name": "miR-208b",
+          "measured_tissue_or_fluid": "Skeletal muscle, Heart, Blood (Plasma, Serum), Circulation",
+          "activity_type": "miRNA Expression Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Increased levels correlated with Beta-myosine heavy chain gene expression; Increased; Upregulated"
+          },
+          "core_biological_function": "Operates as modulator of skeletal and cardiac muscle proliferation, differentiation, metabolism, and hypertrophy; MyomiR family member; implicated in physiological adaptation; MyomiR, involved in muscle function.",
+          "relevant_activity_context": "Slow-twitch type I muscle fiber development; Strenuous exercise; acute eccentric exercise; Endurance aerobic exercise.",
+          "performance_or_health_indicator": "May help distinguish fast-twitch/slow-twitch skeletal muscle phenotypes; Reflects physiological adaptation to strenuous and acute eccentric exercise; Marker of muscle function and exercise adaptation."
+        },
+        {
+          "biomarker_name": "miR-208a,b (cluster)",
+          "measured_tissue_or_fluid": "Circulating (blood/plasma/serum), Circulation",
+          "activity_type": "miRNA Expression Level, miRNA Expression",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "upregulated"
+          },
+          "core_biological_function": "MyomiR, involved in muscle function; MyomiR family cluster; implicated in gene targeting and physiological adaptation.",
+          "relevant_activity_context": "Endurance aerobic exercise.",
+          "performance_or_health_indicator": "Marker of muscle function and exercise adaptation; Reflects physiological adaptation to endurance aerobic exercise."
+        },
+        {
+          "biomarker_name": "miR-486",
+          "measured_tissue_or_fluid": "Skeletal muscle, Blood (Plasma, Serum), Blood (circulating)",
+          "activity_type": "miRNA Expression Level",
+          "measured_effect": {
+            "direction_of_change": "higher, decreased",
+            "magnitude_quantification": "Promotes myoblast differentiation; Significantly decreased after acute bout and chronic aerobic exercise; negatively correlated with VO2max"
+          },
+          "core_biological_function": "Operates as modulator of skeletal muscle proliferation, differentiation, metabolism, and hypertrophy; promotes myoblast differentiation; Associated with aerobic capacity.",
+          "relevant_activity_context": "Muscle cell differentiation; Acute bout and chronic aerobic exercise.",
+          "performance_or_health_indicator": "Implied role in muscle development and function; Potential indicator of aerobic capacity and response to aerobic exercise; negatively correlated with VO2max."
+        },
+        {
+          "biomarker_name": "miR-499",
+          "measured_tissue_or_fluid": "Skeletal muscle, Heart, Blood (Plasma, Serum), Plasma, Muscle tissue, Circulation, Circulating (blood/plasma/serum)",
+          "activity_type": "miRNA Expression Level, Abundance, miRNA Expression",
+          "measured_effect": {
+            "direction_of_change": "higher, sensitive marker of increase",
+            "magnitude_quantification": "Increased levels correlated with Beta-myosine heavy chain gene expression; Identified as the most sensitive marker of the increase in knee extensor strength with resistance training; upregulated in three studies"
+          },
+          "core_biological_function": "Operates as modulator of skeletal and cardiac muscle proliferation, differentiation, metabolism, and hypertrophy; Associated with muscle strength and hypertrophy; MyomiR family member; implied role in physiological adaptation to exercise; MyomiR, involved in muscle function.",
+          "relevant_activity_context": "Slow-twitch type I muscle fiber development; 5 months of resistance training in older adults; Chronic resistance training; marathon runs.",
+          "performance_or_health_indicator": "May help distinguish fast-twitch/slow-twitch skeletal muscle phenotypes; Highly sensitive marker for gains in muscle strength due to resistance training; Reflects physiological adaptation to exercise, particularly chronic resistance training and marathon runs; Marker of muscle function and exercise adaptation."
+        },
+        {
+          "biomarker_name": "miR-26a",
+          "measured_tissue_or_fluid": "Vastus lateralis muscle biopsies",
+          "activity_type": "miRNA Expression Level",
+          "measured_effect": {
+            "direction_of_change": "related to change",
+            "magnitude_quantification": "Distribution patterns related to changes in functional hypertrophy."
+          },
+          "core_biological_function": "Not explicitly detailed, but involved in muscle regulation.",
+          "relevant_activity_context": "12-week resistance training program.",
+          "performance_or_health_indicator": "Able to distinguish between low and high responders to resistance training, indicating potential for predicting training adaptation."
+        },
+        {
+          "biomarker_name": "miR-29a",
+          "measured_tissue_or_fluid": "Vastus lateralis muscle biopsies",
+          "activity_type": "miRNA Expression Level",
+          "measured_effect": {
+            "direction_of_change": "related to change",
+            "magnitude_quantification": "Distribution patterns related to changes in functional hypertrophy."
+          },
+          "core_biological_function": "Not explicitly detailed, but involved in muscle regulation.",
+          "relevant_activity_context": "12-week resistance training program.",
+          "performance_or_health_indicator": "Able to distinguish between low and high responders to resistance training, indicating potential for predicting training adaptation."
+        },
+        {
+          "biomarker_name": "miR-378",
+          "measured_tissue_or_fluid": "Vastus lateralis muscle biopsies",
+          "activity_type": "miRNA Expression Level",
+          "measured_effect": {
+            "direction_of_change": "related to change",
+            "magnitude_quantification": "Distribution patterns related to changes in functional hypertrophy."
+          },
+          "core_biological_function": "Not explicitly detailed, but involved in muscle regulation.",
+          "relevant_activity_context": "12-week resistance training program.",
+          "performance_or_health_indicator": "Able to distinguish between low and high responders to resistance training, indicating potential for predicting training adaptation."
+        },
+        {
+          "biomarker_name": "miR-451",
+          "measured_tissue_or_fluid": "Vastus lateralis muscle biopsies",
+          "activity_type": "miRNA Expression Level",
+          "measured_effect": {
+            "direction_of_change": "related to change",
+            "magnitude_quantification": "Distribution patterns related to changes in functional hypertrophy."
+          },
+          "core_biological_function": "Not explicitly detailed, but involved in muscle regulation.",
+          "relevant_activity_context": "12-week resistance training program.",
+          "performance_or_health_indicator": "Able to distinguish between low and high responders to resistance training, indicating potential for predicting training adaptation."
+        },
+        {
+          "biomarker_name": "c-miRNAs (general)",
+          "measured_tissue_or_fluid": "Plasma, Serum, Whole Blood",
+          "activity_type": "Expression Profile",
+          "measured_effect": {
+            "direction_of_change": "altered",
+            "magnitude_quantification": "Multiple changes identified; specific changes vary significantly depending on study design, type, and duration of exercise, with some findings being contradictory."
+          },
+          "core_biological_function": "Cell-to-cell communication, by-products of cellular activity or damage, fine-tuning of gene transcription, regulation of physiological alterations in cardiovascular system, angiogenesis, cell metabolism, inflammation, and muscle remodeling.",
+          "relevant_activity_context": "Physical exercise and training stimuli, various physiological or pathological states.",
+          "performance_or_health_indicator": "Potential biomarkers of physical fitness, performance potential, training adaptation, and indicators of specific physiological or pathological states."
+        },
+        {
+          "biomarker_name": "miR-146",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Expression Level",
+          "measured_effect": {
+            "direction_of_change": "linearly correlated",
+            "magnitude_quantification": "Linear correlation observed with the aerobic performance parameter VO2max."
+          },
+          "core_biological_function": "Mediates innate immune response and adaptive immune response by targeting TRAF6, IRAK1, and IL-8 mRNAs; targets KLF4 in vascular smooth muscle cells; targets CXCR4 in leukemic cell lines and normal megakaryocytes.",
+          "relevant_activity_context": "Acute exhaustive cycling exercise in competitive male rowers, aerobic training, endurance training vs. strength training.",
+          "performance_or_health_indicator": "Potential indicator of aerobic performance; involved in immune regulation."
+        },
+        {
+          "biomarker_name": "miR-146a",
+          "measured_tissue_or_fluid": "Plasma, Serum, Whole Blood",
+          "activity_type": "Expression Level, miRNA Expression",
+          "measured_effect": {
+            "direction_of_change": "downregulated, higher, differential expression",
+            "magnitude_quantification": "Downregulation observed after acute exercise in chronic kidney disease patients only; significantly higher in endurance athletes than in strength athletes; differential expression depending on various modes of exercise"
+          },
+          "core_biological_function": "Plays a key role in innate and adaptive immune response; targets TRAF6, IRAK1, IL-8, KLF4, and CXCR4; Regulate a broad spectrum of genes and key pathways in angiogenesis and inflammation.",
+          "relevant_activity_context": "Acute exercise in chronic kidney disease patients, comparison between endurance-trained and strength-trained elite male athletes; Various modes of exercise, including endurance versus strength training and acute versus chronic stimulation.",
+          "performance_or_health_indicator": "Potential indicator of immune response modulation by exercise, potentially distinguishing between different training adaptations; May reflect adaptation to specific exercise regimes; well-suited to monitor the overall status of an athlete and the organism's adaptation to exercise."
+        },
+        {
+          "biomarker_name": "MyomiRs",
+          "measured_tissue_or_fluid": "Blood Serum, Plasma, Muscle tissue",
+          "activity_type": "Expression Profile",
+          "measured_effect": {
+            "direction_of_change": "upregulated, altered",
+            "magnitude_quantification": "Upregulated in response to marathon running in most studies (except one focused on inflammatory c-miRNAs); increase hypothesized to be due to selective secretion; altered profiles observed in muscle tissue and blood plasma after 5 months of resistance training."
+          },
+          "core_biological_function": "Regulates muscle-specific processes, potentially involved in muscle damage or selective secretion.",
+          "relevant_activity_context": "Marathon running, acute endurance training, 5 months of resistance training in older adults.",
+          "performance_or_health_indicator": "Indicates muscle activity, potential muscle damage, or adaptive responses to endurance and resistance training."
+        },
+        {
+          "biomarker_name": "miR-210",
+          "measured_tissue_or_fluid": "Serum, Plasma, Whole blood leukocytes",
+          "activity_type": "Expression Profile, miRNA Expression Level",
+          "measured_effect": {
+            "direction_of_change": "distinguish between low and high responders, downregulated",
+            "magnitude_quantification": "Levels could be used to distinguish between low and high VO2max responders; downregulation observed after acute exercise bout in chronic kidney disease patients group only after 12 weeks of home-based aerobic training; downregulation"
+          },
+          "core_biological_function": "Associated with aerobic fitness.",
+          "relevant_activity_context": "Treadmill test for aerobic fitness, 12 weeks of home-based aerobic training in chronic kidney disease patients; Sprint interval training.",
+          "performance_or_health_indicator": "Potential biomarker of aerobic fitness, distinguishing high vs. low VO2max responders."
+        },
+        {
+          "biomarker_name": "miR-21",
+          "measured_tissue_or_fluid": "Serum, Plasma, Whole blood leukocytes, Whole Blood",
+          "activity_type": "Expression Profile, miRNA Expression Level",
+          "measured_effect": {
+            "direction_of_change": "distinguish between low and high responders, higher, lower, differential expression",
+            "magnitude_quantification": "Levels could be used to distinguish between low and high VO2max responders; significantly higher plasma levels in endurance athletes than in strength athletes; downregulation; Differential expression depending on various modes of exercise"
+          },
+          "core_biological_function": "Affects tumor-developing pathways (sustained proliferation, impaired apoptosis); associated with immunity and pathogenesis of autoimmune diseases; regulates adipogenic differentiation; promotes renal fibrosis in diabetic nephropathy; Regulate a broad spectrum of genes and key pathways in angiogenesis and inflammation.",
+          "relevant_activity_context": "Treadmill test for aerobic fitness, comparison between endurance-trained and strength-trained elite male athletes; Sprint interval training; Various modes of exercise, including endurance versus strength training and acute versus chronic stimulation.",
+          "performance_or_health_indicator": "Potential biomarker of aerobic fitness, distinguishing high vs. low VO2max responders; indicates differential response to exercise modes; known oncomiR, involved in immunity, adipogenesis, and renal health; May reflect adaptation to specific exercise regimes; well-suited to monitor the overall status of an athlete and the organism's adaptation to exercise."
+        },
+        {
+          "biomarker_name": "miR-222",
+          "measured_tissue_or_fluid": "Serum, Plasma, Whole Blood",
+          "activity_type": "Expression Profile, miRNA Expression",
+          "measured_effect": {
+            "direction_of_change": "distinguish between low and high responders, higher, differential expression",
+            "magnitude_quantification": "Levels could be used to distinguish between low and high VO2max responders; significantly higher plasma levels in endurance athletes than in strength athletes; Differential expression depending on various modes of exercise"
+          },
+          "core_biological_function": "Targets various genes and molecular pathways, plays a remarkable role in vascular biology and pathology; activates regenerative processes in muscle lineage cells; negative regulator of adipocyte insulin sensitivity; Regulate a broad spectrum of genes and key pathways in angiogenesis and inflammation.",
+          "relevant_activity_context": "Treadmill test for aerobic fitness, comparison between endurance-trained and strength-trained elite male athletes; Various modes of exercise, including endurance versus strength training and acute versus chronic stimulation.",
+          "performance_or_health_indicator": "Potential biomarker of aerobic fitness, distinguishing high vs. low VO2max responders; indicates differential response to exercise modes; significant role in vascular health, muscle regeneration, and metabolic diseases; May reflect adaptation to specific exercise regimes; well-suited to monitor the overall status of an athlete and the organism's adaptation to exercise."
+        },
+        {
+          "biomarker_name": "miR-221",
+          "measured_tissue_or_fluid": "Plasma, Whole Blood",
+          "activity_type": "Expression Level, miRNA Expression",
+          "measured_effect": {
+            "direction_of_change": "higher, differential expression",
+            "magnitude_quantification": "Significantly higher plasma levels in endurance athletes than in strength athletes; Differential expression depending on various modes of exercise"
+          },
+          "core_biological_function": "Targets various genes and molecular pathways; plays a remarkable role in vascular biology and pathology; activates regenerative processes in muscle lineage cells through targeting key cell cycle regulators p27 and p57; Regulate a broad spectrum of genes and key pathways in angiogenesis and inflammation.",
+          "relevant_activity_context": "Comparison between endurance-trained and strength-trained elite male athletes; Various modes of exercise, including endurance versus strength training and acute versus chronic stimulation.",
+          "performance_or_health_indicator": "Indicates differential response to exercise modes; significant role in vascular health and muscle regeneration; May reflect adaptation to specific exercise regimes; well-suited to monitor the overall status of an athlete and the organism's adaptation to exercise."
+        },
+        {
+          "biomarker_name": "miR-125b",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Expression Level",
+          "measured_effect": {
+            "direction_of_change": "upregulated",
+            "magnitude_quantification": "Upregulated after acute cycle-ergometer exercise in chronic kidney disease patients only."
+          },
+          "core_biological_function": "Responsive to acute exercise in specific patient populations.",
+          "relevant_activity_context": "Acute cycle-ergometer exercise in chronic kidney disease patients.",
+          "performance_or_health_indicator": "Potential biomarker for exercise response specific to chronic kidney disease patients."
+        },
+        {
+          "biomarker_name": "miR-150",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Expression Level",
+          "measured_effect": {
+            "direction_of_change": "upregulated",
+            "magnitude_quantification": "Upregulated after acute cycle-ergometer exercise in both chronic kidney disease patients and a healthy control group."
+          },
+          "core_biological_function": "Responsive to acute exercise.",
+          "relevant_activity_context": "Acute cycle-ergometer exercise in chronic kidney disease patients and healthy controls.",
+          "performance_or_health_indicator": "Potential biomarker for general exercise response, not specific to disease state in this context."
+        },
+        {
+          "biomarker_name": "miR-148/152 family members",
+          "measured_tissue_or_fluid": "Circulation",
+          "activity_type": "Expression Profile",
+          "measured_effect": {
+            "direction_of_change": "differentially expressed",
+            "magnitude_quantification": "Indicate differential expression pattern depending on type and duration of exercise (specific quantification not provided in text)."
+          },
+          "core_biological_function": "Associated with cell motility and/or cell growth.",
+          "relevant_activity_context": "Various exercise types and durations.",
+          "performance_or_health_indicator": "Indicates cell motility and growth changes in response to exercise."
+        },
+        {
+          "biomarker_name": "miR-148a",
+          "measured_tissue_or_fluid": "Circulation, Serum, Plasma, or Whole Blood",
+          "activity_type": "Expression Profile, miRNA Expression",
+          "measured_effect": {
+            "direction_of_change": "differentially expressed",
+            "magnitude_quantification": "Indicates differential expression pattern depending on type and duration of exercise (specific quantification not provided in text); differential expression depending on various modes of exercise"
+          },
+          "core_biological_function": "Targets PXR, CAND1, HLA-C, ACVR1, IGF-IR, IRS-1, CCK2R, and PTEN; associated with cell motility and/or cell growth; Regulate a broad spectrum of genes and key pathways in angiogenesis and inflammation.",
+          "relevant_activity_context": "Various exercise types and durations; Various modes of exercise, including endurance versus strength training and acute versus chronic stimulation.",
+          "performance_or_health_indicator": "Indicates cell motility and growth changes in response to exercise; May reflect adaptation to specific exercise regimes; well-suited to monitor the overall status of an athlete and the organism's adaptation to exercise."
+        },
+        {
+          "biomarker_name": "let-7d",
+          "measured_tissue_or_fluid": "Circulation, Serum, Plasma, or Whole Blood",
+          "activity_type": "Expression, miRNA Expression",
+          "measured_effect": {
+            "direction_of_change": "sensitive expression, differential expression",
+            "magnitude_quantification": "Exhibited sensitive expression to mode of exercise (specific quantification not provided in text); differential expression depending on various modes of exercise"
+          },
+          "core_biological_function": "Involved in developmental processes; involved in the regulation of glucose metabolism by targeting INSR and IRS-2 in skeletal muscle; regulates CDC25A, CDK6, C-MYC, KRAS, HMGA2, and IMP-1; Regulate a broad spectrum of genes and key pathways in angiogenesis and inflammation.",
+          "relevant_activity_context": "Mode of exercise; Various modes of exercise, including endurance versus strength training and acute versus chronic stimulation.",
+          "performance_or_health_indicator": "Potential biomarker of metabolic diseases and glucose metabolism regulation, sensitive to exercise mode; May reflect adaptation to specific exercise regimes; well-suited to monitor the overall status of an athlete and the organism's adaptation to exercise."
+        },
+        {
+          "biomarker_name": "Disease-associated miRNAs (category)",
+          "measured_tissue_or_fluid": "Peripheral blood",
+          "activity_type": "miRNA Expression Level",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "insignificant changes in 24 different miRNAs profiles"
+          },
+          "core_biological_function": "Associated with various human diseases.",
+          "relevant_activity_context": "Exhaustive stepwise exercise test in elite endurance athletes and moderately active controls.",
+          "performance_or_health_indicator": "Useful as disease biomarkers because they are not readily altered by physiological exercise."
+        },
+        {
+          "biomarker_name": "miR-16",
+          "measured_tissue_or_fluid": "Circulating (whole blood/plasma/serum)",
+          "activity_type": "miRNA Expression Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "increased levels"
+          },
+          "core_biological_function": "Associated with angiogenesis.",
+          "relevant_activity_context": "High-volume cycling exercise in children.",
+          "performance_or_health_indicator": "Indicates modulation of angiogenesis."
+        },
+        {
+          "biomarker_name": "miR-126",
+          "measured_tissue_or_fluid": "Circulating (whole blood/plasma/serum), Circulation",
+          "activity_type": "miRNA Expression Level, miRNA Expression",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "increased levels; upregulation associated with four aerobic exercises"
+          },
+          "core_biological_function": "Associated with angiogenesis; Angiogenic miRNA.",
+          "relevant_activity_context": "High-volume cycling exercise in children; Four aerobic exercises with different intensities and duration.",
+          "performance_or_health_indicator": "Indicates modulation of angiogenesis; indicates physiological adaptation related to angiogenesis in response to aerobic exercises."
+        },
+        {
+          "biomarker_name": "Studied miRNAs (angiogenesis associated)",
+          "measured_tissue_or_fluid": "Circulating (whole blood/plasma/serum)",
+          "activity_type": "miRNA Expression Level",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "no influence on circulating levels"
+          },
+          "core_biological_function": "Associated with angiogenesis.",
+          "relevant_activity_context": "High-intensity cycling exercise in children.",
+          "performance_or_health_indicator": "Suggests high-intensity cycling does not impact angiogenesis-associated miRNAs."
+        },
+        {
+          "biomarker_name": "miR-186",
+          "measured_tissue_or_fluid": "White blood cells",
+          "activity_type": "miRNA Expression Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "significantly upregulated 60 min after the exercise"
+          },
+          "core_biological_function": "Potential targets are telomeric genes.",
+          "relevant_activity_context": "Acute treadmill running exercise.",
+          "performance_or_health_indicator": "Associated with telomeric gene regulation post-exercise."
+        },
+        {
+          "biomarker_name": "miR-181",
+          "measured_tissue_or_fluid": "White blood cells",
+          "activity_type": "miRNA Expression Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "significantly upregulated 60 min after the exercise"
+          },
+          "core_biological_function": "Potential targets are telomeric genes.",
+          "relevant_activity_context": "Acute treadmill running exercise.",
+          "performance_or_health_indicator": "Associated with telomeric gene regulation post-exercise."
+        },
+        {
+          "biomarker_name": "miR-15a",
+          "measured_tissue_or_fluid": "White blood cells",
+          "activity_type": "miRNA Expression Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "significantly upregulated 60 min after the exercise"
+          },
+          "core_biological_function": "Potential targets are telomeric genes.",
+          "relevant_activity_context": "Acute treadmill running exercise.",
+          "performance_or_health_indicator": "Associated with telomeric gene regulation post-exercise."
+        },
+        {
+          "biomarker_name": "miR-96",
+          "measured_tissue_or_fluid": "White blood cells",
+          "activity_type": "miRNA Expression Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "significantly upregulated 60 min after the exercise"
+          },
+          "core_biological_function": "Potential targets are telomeric genes.",
+          "relevant_activity_context": "Acute treadmill running exercise.",
+          "performance_or_health_indicator": "Associated with telomeric gene regulation post-exercise."
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,328 @@
+[
+  {
+    "title": "Aging Cell Aging Cell 10.1111/(ISSN)1474-9726 ACEL Aging Cell 1474-9718 1474-9726 John Wiley and Sons Inc. Hoboken 8208788 34050697 10.1111/acel.13366 ACEL13366 Original Article Original Articles Clonal hematopoiesis associated with epigenetic aging and clinical outcomes NACHUN et al. Nachun Daniel https://orcid.org/0000-0002-0271-1135 1 Lu Ake T. 2 Bick Alexander G. 3 Natarajan Pradeep 4 5 Weinstock Joshua 6 Szeto Mindy D. 7 Kathiresan Sekar 4 5 Abecasis Goncalo 6 Taylor Kent D. 8 Guo Xiuqing 8 Tracy Russ 9 Durda Peter 9 Liu Yongmei 10 Johnson Craig 11 Rich Stephen S. 12 Van Den Berg David 13 Laurie Cecilia 11 Blackwell Tom 6 Papanicolaou George J. 14 Correa Adolfo 15 Raffield Laura M. 16 Johnson Andrew D. https://orcid.org/0000-0001-6369-5178 17 Murabito Joanne 18 Manson JoAnn E. 19 Desai Pinkal 20 Kooperberg Charles 21 Assimes Themistocles L. 22 Levy Daniel 17 Rotter Jerome I. 8 Reiner Alex P. 23 Whitsel Eric A. 24 25 Wilson James G. 26 27 Horvath Steve https://orcid.org/0000-0002-4110-3589 2 Jaiswal Siddhartha 1 28 sjaiswal@stanford.edu the NHLBI Trans\u2010Omics for Precision Medicine (TOPMed) Consortium 1 Department of Pathology Stanford University School of Medicine Stanford CA USA 2 Department of Human Genetics David Geffen School of Medicine University of California Los Angeles Los Angeles CA USA 3 Department of Medicine Vanderbilt University School of Medicine Nashville TN USA 4 Department of Medicine Massachusetts General Hospital Boston MA USA 5 Broad Institute Cambridge MA USA 6 Department of Biostatistics University of Michigan School of Public Health Ann Arbor MI USA 7 Division of Biomedical Informatics and Personalized Medicine Department of Medicine University of Colorado Anschutz Medical Campus Aurora CO USA 8 Department of Pediatrics The Institute for Translational Genomics and Population Sciences The Lundquist Institute for Biomedical Innovation at Harbor\u2010UCLA Medical Center Torrance CA USA 9 Department of Pathology and Laboratory Medicine Larner College of Medicine University of Vermont Burlington VT USA 10 Department of Medicine Duke University Medical Center Durham NC USA 11 Department of Biostatistics School of Public Health University of Washington Seattle WA USA 12 Center for Public Health Genomics University of Virginia Charlottesville VA USA 13 Department of Clinical Preventative Medicine Keck School of Medicine University of Southern California Los Angeles CA USA 14 Division of Cardiovascular Sciences National Heart, Lung, and Blood Institute Bethesda MD USA 15 Department of Medicine University of Mississippi Medical Center Jackson MS USA 16 Department of Genetics University of North Carolina School of Medicine Chapel Hill NC USA 17 National Heart Lung and Blood Institute Framingham MA USA 18 Department of Medicine Boston University School of Medicine Boston MA USA 19 Department of Medicine Brigham and Women's Hospital Harvard Medical School Boston MA USA 20 Department of Hematology/Oncology Joan & Sanford I. Weill Medical College of Cornell University New York NY USA 21 Public Health Sciences Division Fred Hutchinson Cancer Research Center Seattle WA USA 22 Department of Medicine Stanford University School of Medicine Stanford CA USA 23 Department of Epidemiology School of Public Health University of Washington Seattle WA USA 24 Department of Medicine University of North Carolina Chapel Hill NC USA 25 Department of Epidemiology Gillings School of Global Public Health Chapel Hill NC USA 26 Department of Cardiology Beth Israel Deaconess Medical Center Boston MA USA 27 Department of Physiology and Biophysics University of Mississippi Medical Center Jackson MS USA 28 Institute for Stem Cell Biology and Regenerative Medicine Stanford University School of Medicine Stanford CA USA * Correspondence Siddhartha Jaiswal, Department of Pathology, Stanford University School of Medicine, Stanford, CA 94305, USA. Email: sjaiswal@stanford.edu 29 5 2021 6 2021 20 6 10.1111/acel.v20.6 e13366 11 3 2021 09 12 2020 27 3 2021 \u00a9 2021 The Authors. Aging Cell published by the Anatomical Society and John Wiley & Sons Ltd. https://creativecommons.org/licenses/by/4.0/ This is an open access article under the terms of the http://creativecommons.org/licenses/by/4.0/ License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited. Abstract Clonal hematopoiesis of indeterminate potential (CHIP) is a common precursor state for blood cancers that most frequently occurs due to mutations in the DNA\u2010methylation modifying enzymes DNMT3A or TET2 . We used DNA\u2010methylation array and whole\u2010genome sequencing data from four cohorts together comprising 5522 persons to study the association between CHIP, epigenetic clocks, and health outcomes. CHIP was strongly associated with epigenetic age acceleration, defined as the residual after regressing epigenetic clock age on chronological age, in several clocks, ranging from 1.31 years (GrimAge, p < 8.6 \u00d7 10 \u22127 ) to 3.08 years (EEAA, p < 3.7 \u00d7 10 \u221218 ). Mutations in most CHIP genes except DNA\u2010damage response genes were associated with increases in several measures of age acceleration. CHIP carriers with mutations in multiple genes had the largest increases in age acceleration and decrease in estimated telomere length. Finally, we found that ~40% of CHIP carriers had acceleration >0 in both Hannum and GrimAge (referred to as AgeAccelHG+). This group was at high risk of all\u2010cause mortality (hazard ratio 2.90, p < 4.1 \u00d7 10 \u22128 ) and coronary heart disease (CHD) (hazard ratio 3.24, p < 9.3 \u00d7 10 \u22126 ) compared to those who were CHIP\u2212/AgeAccelHG\u2212. In contrast, the other ~60% of CHIP carriers who were AgeAccelHG\u2212 were not at increased risk of these outcomes. In summary, CHIP is strongly linked to age acceleration in multiple clocks, and the combination of CHIP and epigenetic aging may be used to identify a population at high risk for adverse outcomes and who may be a target for clinical interventions. Clonal hematopoiesis of indeterminate potential (CHIP) and epigenetic age acceleration are the two important aging phenomenon associated with adverse clinical outcomes. We found that mutations in most CHIP genes were associated with increased age acceleration in multiple epigenetic clocks. Individuals with CHIP and age acceleration had a greatly increased risk of mortality and coronary heart disease compared to individuals with only CHIP or age acceleration. clonal hematopoiesis epigenomics heart disease National Institute on Aging 10.13039/100000049 1T32AG047126\u201001 source-schema-version-number 2.0 cover-date June 2021 details-of-publishers-convertor Converter:WILEY_ML3GV2_TO_JATSPMC version:6.0.2 mode:remove_FC converted:16.06.2021 Abbreviations BMI body mass index CHD coronary heart disease CHIP clonal hematopoiesis of indeterminate potential DDR DNA damage response EEAA extrinsic epigenetic age acceleration FHS Framingham Heart Study HDL high density lipoprotein HSC hematopoietic stem cell hsCRP high\u2010sensitivity C\u2010reactive protein IEAA intrinsic epigenetic age acceleration JHS Jackson Heart Study LDL low density lipoprotein LTL leukocyte telomere length MESA Multi\u2010ethnic Study of Atherosclerosis SNP single nucleotide polymorphism TOPMed Trans\u2010omics for Precision Medicine VAF variant allele fraction WGS whole genome sequencing WHI Women's Health Initiative",
+    "document_source_id": "34050697",
+    "analysis_date": "2025-12-09",
+    "extracted_data": {
+      "document_summary": "This large-scale observational study (5522 individuals across four cohorts) investigated the association and synergistic interaction between Clonal Hematopoiesis of Indeterminate Potential (CHIP) and epigenetic age acceleration, measured by multiple epigenetic clocks (e.g., Horvath, Hannum, GrimAge, PhenoAge, EEAA, IEAA), with clinical outcomes including all-cause mortality and coronary heart disease (CHD). The study found that CHIP is strongly linked to epigenetic age acceleration and reduced methylation-estimated telomere length. Critically, the combination of CHIP and significant epigenetic age acceleration (particularly AgeAccelHG, a composite of Hannum and GrimAge) identifies a high-risk population for all-cause mortality and CHD, with specific gene mutations (e.g., TET2, DNMT3A, JAK2) showing differential impacts on age acceleration and risk. While general inflammatory markers like hs-CRP and IL6R genotype were also explored, AgeAccelHG proved a superior risk discriminator in CHIP carriers.",
+      "treatment_details": {
+        "therapy_type": "Observational study investigating genetic and epigenetic associations.",
+        "dose_specificity": "This was a large-scale observational study across four cohorts (FHS, JHS, WHI, MESA) involving 5522 individuals. No therapeutic intervention or dose was administered. The study identified Clonal Hematopoiesis of Indeterminate Potential (CHIP) through Whole Genome Sequencing (WGS) for somatic mutations (e.g., in DNMT3A, TET2, JAK2, ASXL1, DDR genes) from whole blood DNA. Epigenetic age acceleration was quantified using DNA methylation arrays, calculating residuals from various epigenetic clocks including Horvath, Hannum, PhenoAge, SkinBloodClock, GrimAge, IEAA, and EEAA, and methylation-based telomere length (DNAmTL). A composite measure, AgeAccelHG (Hannum and GrimAge acceleration >0), was used for advanced risk stratification. The study analyzed quantitative associations between CHIP status, specific mutations, epigenetic aging metrics, and clinical outcomes."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "Clonal Hematopoiesis of Indeterminate Potential (CHIP)",
+          "measured_tissue_or_fluid": "Blood (whole blood DNA from hematopoietic cells via DNA-methylation array and whole-genome sequencing)",
+          "activity_type": "Presence/Absence of cancer-associated somatic mutations in hematopoietic stem cells (e.g., DNMT3A, TET2, JAK2, ASXL1, DDR genes)",
+          "measured_effect": {
+            "direction_of_change": "higher (prevalence, age acceleration, risk), reduced (DNAmTL)",
+            "magnitude_quantification": "Prevalence >20% in those over 80 years. CHIP carriers were significantly older (+7.23 \t 0.61 years, p < 1.13 \t 10-31). Associated with epigenetic age acceleration ranging from 1.31 years (GrimAge, p < 8.6 \t 10-7) to 3.08 years (EEAA, p < 3.7 \t 10-18). Specifically: Horvath (3.01 years, p < 3.0 \t 10-25), IEAA (2.92 years, p < 9.3 \t 10-26), Hannum (2.71 years, p < 1.8 \t 10-23), PhenoAge (2.21 years, p < 1.0 \t 10-8), SkinBloodClock (1.58 years, p < 2.5 \t 10-13). Associated with reduced predicted age-adjusted DNAmTL (-0.06, p < 1.2 \t 10-8); increasing number of mutations (2 mut. vs. 1: -0.174, p < 8.0 \t 10-7; >2 mut. vs. 2: -0.404, p < 1.1 \t 10-5) led to further decrease. Individually associated with all-cause mortality (HR 1.27, p < 0.077). CHIP/AgeAccelHG interaction pooled: coefficient = 0.80, p < 3.7 \t 10-3; fixed-effects meta-analysis: coefficient = 0.85, p < 2.4 \t 10-3."
+          },
+          "core_biological_function": "A pre-malignant condition characterized by clonal expansion of hematopoietic stem cells that have acquired cancer-associated somatic mutations (e.g., in epigenetic factors), contributing to accelerated aging and increased immune cell dysfunction.",
+          "relevant_activity_context": "Aging and genetic predisposition, assessed in a large multi-cohort observational study (5522 individuals across FHS, JHS, WHI, MESA cohorts) for association with epigenetic age acceleration and clinical outcomes (all-cause mortality, CHD).",
+          "performance_or_health_indicator": "A significant predictor of increased risk for developing blood cancers, all-cause mortality, and coronary heart disease (CHD). When combined with epigenetic age acceleration (AgeAccelHG+), it identifies a very high-risk subgroup for all-cause mortality (HR 2.90, p < 4.1 \t 10-8) and CHD (HR 3.24, p < 9.3 \t 10-6). Also associated with enhanced inflammatory gene expression in mutant macrophages and reduced telomere length."
+        },
+        {
+          "biomarker_name": "Epigenetic Age Acceleration (Composite/General)",
+          "measured_tissue_or_fluid": "Blood (derived from DNA methylation data)",
+          "activity_type": "Calculated residual after regressing epigenetic clock age on chronological age; DNA methylation state at CpGs",
+          "measured_effect": {
+            "direction_of_change": "Higher (accelerated aging)",
+            "magnitude_quantification": "CHIP was strongly associated with epigenetic age acceleration, ranging from 1.31 years (GrimAge, p < 8.6 \t 10-7) to 3.08 years (EEAA, p < 3.7 \t 10-18). Specific clocks' acceleration with CHIP: Horvath (3.01 years, p < 3.0 \t 10-25), IEAA (2.92 years, p < 9.3 \t 10-26), Hannum (2.71 years, p < 1.8 \t 10-23), EEAA (3.08 years, p < 3.7 \t 10-18), PhenoAge (2.21 years, p < 1.0 \t 10-8), SkinBloodClock (1.58 years, p < 2.5 \t 10-13), GrimAge (1.31 years, p < 8.6 \t 10-7). High age acceleration (AgeAccelHG) defined as being greater than 0 for both AgeAccelHannum and AgeAccelGrim."
+          },
+          "core_biological_function": "An indicator of biological aging that is independent of chronological age, reflecting deviations from expected age-related epigenetic changes. It reflects biological aging processes, either intrinsic (independent of cell type) or extrinsic (associated with changes in blood cell type composition and environmental factors), and indicates cellular senescence and increased susceptibility to age-related diseases.",
+          "relevant_activity_context": "Association with Clonal Hematopoiesis of Indeterminate Potential (CHIP) mutations and the overall aging process in multi-cohort epidemiological studies.",
+          "performance_or_health_indicator": "Associated with adverse clinical outcomes; when combined with CHIP, it identifies a population at high risk for all-cause mortality and coronary heart disease (CHD), and is a stronger predictor than CHIP alone."
+        },
+        {
+          "biomarker_name": "AgeAccelHG (Age Acceleration based on Hannum and GrimAge clocks)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Epigenetic age acceleration residual, composite measure",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Individually associated with all-cause mortality (HR 1.84, p < 4.0 \t 10-14). In combination with CHIP+, significantly higher risk for all-cause mortality (HR 2.90, p < 4.1 \t 10-8) and CHD (HR 3.24, p < 9.3 \t 10-6) compared to CHIP\t/AgeAccelHG\t. CHIP\t/AgeAccelHG+ showed modest increase in risk (HR 1.66, p < 3.1 \t 10-9 for mortality; HR 1.39, p < 0.012 for CHD). CHIP/AgeAccelHG interaction pooled: coefficient = 0.80, p < 3.7 \t 10-3; fixed-effects meta-analysis: coefficient = 0.85, p < 2.4 \t 10-3."
+          },
+          "core_biological_function": "Composite measure of biological aging reflecting different aspects of health and lifespan, beyond chronological age, by combining information from Hannum and GrimAge epigenetic clocks.",
+          "relevant_activity_context": "Stratification of risk for all-cause mortality and coronary heart disease in individuals with or without CHIP.",
+          "performance_or_health_indicator": "A significant predictor of all-cause mortality and CHD, showing synergistic effects with CHIP for identifying very high-risk individuals. It is superior to hs-CRP and IL6R genotype for risk discrimination in CHIP carriers."
+        },
+        {
+          "biomarker_name": "GrimAge clock",
+          "measured_tissue_or_fluid": "Blood (derived from DNA methylation data)",
+          "activity_type": "Epigenetic clock used to calculate age acceleration; methylation age estimate",
+          "measured_effect": {
+            "direction_of_change": "higher (accelerated aging), predictive",
+            "magnitude_quantification": "CHIP was associated with 1.31 years of age acceleration (p < 8.6 \t 10-7) as measured by GrimAge. Predictive of time to death or CHD in previous studies. Interaction with CHIP was significant, though not Bonferroni-corrected significant. Incorporated into AgeAccelHG for better stratification."
+          },
+          "core_biological_function": "An epigenetic clock that predicts biological age and various health outcomes based on specific DNA methylation patterns, trained on time to death, contributing orthogonal information to Hannum in assessing biological aging and mortality risk.",
+          "relevant_activity_context": "Used to assess epigenetic age acceleration in individuals with Clonal Hematopoiesis of Indeterminate Potential (CHIP), and as a component of the AgeAccelHG composite measure for risk stratification.",
+          "performance_or_health_indicator": "Indicator of biological age and risk of mortality/CHD; its acceleration contributes to increased risk, especially as part of AgeAccelHG. When combined with Hannum (AgeAccelHG+), it identifies CHIP carriers at high risk for all-cause mortality (hazard ratio 2.90, p < 4.1 \t 10-8) and coronary heart disease (hazard ratio 3.24, p < 9.3 \t 10-6)."
+        },
+        {
+          "biomarker_name": "Hannum (Epigenetic Clock)",
+          "measured_tissue_or_fluid": "Blood (derived from DNA methylation data)",
+          "activity_type": "Epigenetic clock used to calculate age acceleration; methylation age estimate",
+          "measured_effect": {
+            "direction_of_change": "higher (accelerated aging), predictive",
+            "magnitude_quantification": "Approximately 40% of CHIP carriers showed age acceleration >0 in Hannum when combined with GrimAge (AgeAccelHG+). Predictive of time to death or CHD in previous studies. Interaction with CHIP was significant, though not Bonferroni-corrected significant. Incorporated into AgeAccelHG for better stratification."
+          },
+          "core_biological_function": "An epigenetic clock that estimates biological age based on DNA methylation patterns, trained on chronological age, contributing orthogonal information to GrimAge in assessing biological aging.",
+          "relevant_activity_context": "Used to assess epigenetic age acceleration in individuals with Clonal Hematopoiesis of Indeterminate Potential (CHIP), and as a component of the AgeAccelHG composite measure for risk stratification.",
+          "performance_or_health_indicator": "Indicator of biological age; its acceleration contributes to increased risk of mortality and CHD, especially as part of AgeAccelHG. When combined with GrimAge (AgeAccelHG+), it identifies CHIP carriers at high risk for all-cause mortality (hazard ratio 2.90, p < 4.1 \t 10-8) and coronary heart disease (hazard ratio 3.24, p < 9.3 \t 10-6)."
+        },
+        {
+          "biomarker_name": "EEAA (Extrinsic Epigenetic Age Acceleration)",
+          "measured_tissue_or_fluid": "Blood (derived from DNA methylation data)",
+          "activity_type": "Epigenetic clock used to calculate age acceleration; methylation age acceleration estimate",
+          "measured_effect": {
+            "direction_of_change": "Higher (accelerated aging)",
+            "magnitude_quantification": "CHIP was associated with 3.08 years of age acceleration (p < 3.7 \t 10-18) as measured by EEAA. Significantly greater than DNMT3A mutations for EEAA (2.32 years, p < 0.0063)."
+          },
+          "core_biological_function": "An epigenetic clock that estimates biological age acceleration, potentially reflecting the impact of extrinsic factors (e.g., changes in immune cell composition) on aging.",
+          "relevant_activity_context": "Used to assess epigenetic age acceleration in individuals with Clonal Hematopoiesis of Indeterminate Potential (CHIP).",
+          "performance_or_health_indicator": "Indicates a measure of accelerated biological aging associated with CHIP, suggesting increased biological vulnerability and influencing disease risk more significantly than DNMT3A mutations."
+        },
+        {
+          "biomarker_name": "IEAA (Intrinsic Epigenetic Age Acceleration)",
+          "measured_tissue_or_fluid": "Whole blood",
+          "activity_type": "Methylation age acceleration estimate",
+          "measured_effect": {
+            "direction_of_change": "Higher (accelerated aging)",
+            "magnitude_quantification": "CHIP was associated with 2.92 years of age acceleration (p < 9.3 \t 10-26) as measured by IEAA."
+          },
+          "core_biological_function": "A measure of biological age acceleration independent of cell composition, partly driven by cell division.",
+          "relevant_activity_context": "Analysis of epidemiological cohort data for associations with CHIP and clinical outcomes.",
+          "performance_or_health_indicator": "Serves as an indicator of biological aging and is used to predict clinical outcomes; its acceleration is strongly associated with CHIP."
+        },
+        {
+          "biomarker_name": "PhenoAge",
+          "measured_tissue_or_fluid": "Whole blood",
+          "activity_type": "Methylation age estimate",
+          "measured_effect": {
+            "direction_of_change": "Higher (accelerated aging)",
+            "magnitude_quantification": "CHIP was associated with 2.21 years of age acceleration (p < 1.0 \t 10-8) as measured by PhenoAge. JAK2 mutations showed an exceptionally strong association with PhenoAge acceleration (10.01 years, p < 9.7 \t 10-6)."
+          },
+          "core_biological_function": "An epigenetic clock used for estimating biological age, which integrates chronological age and clinical biomarkers, thus predicting health outcomes.",
+          "relevant_activity_context": "Analysis of epidemiological cohort data for associations with CHIP and clinical outcomes, particularly sensitive to specific CHIP mutations like JAK2.",
+          "performance_or_health_indicator": "Serves as an indicator of biological aging and is used to predict clinical outcomes; its acceleration is a predictor of mortality risk, especially strongly influenced by JAK2 mutations, suggesting a link to myeloproliferative neoplasm and related hematological abnormalities."
+        },
+        {
+          "biomarker_name": "Horvath (Epigenetic Clock)",
+          "measured_tissue_or_fluid": "Whole blood DNA",
+          "activity_type": "Methylation age estimate",
+          "measured_effect": {
+            "direction_of_change": "Higher (accelerated aging)",
+            "magnitude_quantification": "CHIP was associated with 3.01 years of age acceleration (p < 3.0 \t 10-25) as measured by the Horvath clock."
+          },
+          "core_biological_function": "An epigenetic clock that uses DNA methylation patterns across the genome to estimate biological age.",
+          "relevant_activity_context": "Analysis of epidemiological cohort data for associations with CHIP and clinical outcomes.",
+          "performance_or_health_indicator": "Serves as a robust indicator of biological aging, with its acceleration strongly associated with CHIP and predicting adverse clinical outcomes."
+        },
+        {
+          "biomarker_name": "SkinBloodClock",
+          "measured_tissue_or_fluid": "Whole blood",
+          "activity_type": "Methylation age estimate",
+          "measured_effect": {
+            "direction_of_change": "Higher (accelerated aging)",
+            "magnitude_quantification": "CHIP was associated with 1.58 years of age acceleration (p < 2.5 \t 10-13) as measured by SkinBloodClock."
+          },
+          "core_biological_function": "An epigenetic clock used for estimating biological age, designed to be applicable across different tissue types including blood and skin.",
+          "relevant_activity_context": "Analysis of epidemiological cohort data for associations with CHIP and clinical outcomes.",
+          "performance_or_health_indicator": "Serves as an indicator of biological aging and is used to predict clinical outcomes; its acceleration is associated with CHIP."
+        },
+        {
+          "biomarker_name": "Estimated Telomere Length (LTL) / DNAmTL",
+          "measured_tissue_or_fluid": "Leukocytes (estimated from DNA methylation data)",
+          "activity_type": "Length measurement; methylation-based estimate of leukocyte telomere length (LTL)",
+          "measured_effect": {
+            "direction_of_change": "Lower/Decrease (reduced)",
+            "magnitude_quantification": "CHIP carriers with mutations in multiple genes showed a decrease in estimated telomere length. CHIP overall associated with reduced predicted age-adjusted DNAmTL (-0.06, p < 1.2 \t 10-8). Increasing number of mutations associated with a decrease in predicted DNAmTL (2 mut. vs. 1: -0.174, p < 8.0 \t 10-7; >2 mut. vs. 2: -0.404, p < 1.1 \t 10-5)."
+          },
+          "core_biological_function": "Protects chromosome ends from degradation; its shortening is a hallmark of cellular aging and genomic instability. Surrogate marker for leukocyte telomere length, which is a key indicator of cellular aging and genomic stability.",
+          "relevant_activity_context": "Associated with Clonal Hematopoiesis of Indeterminate Potential (CHIP), especially in carriers with multiple gene mutations. Estimated as part of DNAmGrimAge clock software output.",
+          "performance_or_health_indicator": "Indicates advanced cellular aging and genomic instability, potentially contributing to the adverse clinical outcomes associated with CHIP. Reduced telomere length in CHIP carriers is generally associated with biological aging and increased risk of age-related diseases."
+        },
+        {
+          "biomarker_name": "DNMT3A mutations",
+          "measured_tissue_or_fluid": "Whole blood DNA",
+          "activity_type": "Genetic mutation detection / DNA methylation enzyme activity",
+          "measured_effect": {
+            "direction_of_change": "Increased (age acceleration), Primarily hypomethylation (at clock CpGs), higher (risk)",
+            "magnitude_quantification": "Association with age acceleration in the same direction as TET2 mutations, but significantly lower than TET2 mutations for Hannum (2.10 years, p < 0.0012) and EEAA (2.32 years, p < 0.0063). Primarily resulted in hypomethylation at clock CpGs. DNMT3A mutated+/AgeAccelHG+ increased risk of composite outcome (mortality/CHD) with HR = 1.99 (p < 0.028) relative to CHIP\t/AgeAccelHG\t. DNMT3A mutated+/AgeAccelHG\t: HR = 0.68 (p < 0.079). P for interaction < 0.11. This increase was to a lesser degree than for TET2 mutations."
+          },
+          "core_biological_function": "Codes for DNA methylation-altering enzymes; mutations contribute to clonal hematopoiesis and alter epigenetic regulation.",
+          "relevant_activity_context": "CHIP-related epigenetic age acceleration and interaction with AgeAccelHG for modifying risk of mortality and CHD composite outcome in CHIP carriers.",
+          "performance_or_health_indicator": "Contributes to epigenetic age acceleration in CHIP carriers, with a comparatively less pronounced effect on Hannum and EEAA clocks than TET2 mutations. Particularly in combination with AgeAccelHG+, indicates an increased risk for all-cause mortality and CHD, though less pronounced than TET2 mutations."
+        },
+        {
+          "biomarker_name": "TET2 mutations",
+          "measured_tissue_or_fluid": "Whole blood DNA",
+          "activity_type": "Genetic mutation detection / DNA methylation enzyme activity",
+          "measured_effect": {
+            "direction_of_change": "Increased (age acceleration), Primarily hypomethylation (at clock CpGs), higher (risk)",
+            "magnitude_quantification": "Association with age acceleration in the same direction as DNMT3A mutations, but significantly greater than DNMT3A mutations for Hannum (2.10 years, p < 0.0012) and EEAA (2.32 years, p < 0.0063). Primarily resulted in hypomethylation at clock CpGs, with a small number showing hypermethylation. TET2 mutated+/AgeAccelHG+ increased risk of composite outcome (mortality/CHD) with HR = 3.88 (p < 1.6 \t 10-6) relative to CHIP\t/AgeAccelHG\t. TET2 mutated+/AgeAccelHG\t: HR = 1.14 (p < 0.66). P for interaction < 0.065."
+          },
+          "core_biological_function": "Codes for DNA methylation-altering enzymes; mutations contribute to clonal hematopoiesis and alter epigenetic regulation.",
+          "relevant_activity_context": "CHIP-related epigenetic age acceleration and interaction with AgeAccelHG for modifying risk of mortality and CHD composite outcome in CHIP carriers.",
+          "performance_or_health_indicator": "Contributes to epigenetic age acceleration in CHIP carriers, with a more pronounced effect on Hannum and EEAA clocks than DNMT3A mutations. Particularly in combination with AgeAccelHG+, indicates a higher risk for all-cause mortality and CHD, a risk further exacerbated in the absence of IL6R alternate alleles."
+        },
+        {
+          "biomarker_name": "JAK2 mutations",
+          "measured_tissue_or_fluid": "Whole blood DNA",
+          "activity_type": "Genetic mutation detection",
+          "measured_effect": {
+            "direction_of_change": "Increased (age acceleration)",
+            "magnitude_quantification": "Exceptionally strong association for a single mutation in several clocks, most extreme being PhenoAge (10.01 years, p < 9.7 \t 10-6)."
+          },
+          "core_biological_function": "Involved in cell signaling pathways; mutations are strongly associated with myeloproliferative neoplasms and contribute to clonal hematopoiesis.",
+          "relevant_activity_context": "CHIP-related epigenetic age acceleration, specifically showing a very strong association with PhenoAge clock acceleration.",
+          "performance_or_health_indicator": "Strong association with increased PhenoAge acceleration, which is a predictor of mortality risk incorporating hematological variables, suggesting a link to myeloproliferative neoplasm and related hematological abnormalities."
+        },
+        {
+          "biomarker_name": "ASXL1 mutations",
+          "measured_tissue_or_fluid": "Whole blood DNA",
+          "activity_type": "Genetic mutation detection",
+          "measured_effect": {
+            "direction_of_change": "Higher (estimated pack years of smoking)",
+            "magnitude_quantification": "Significantly associated with estimated pack years of smoking (7.54 pack years, p < 0.002)."
+          },
+          "core_biological_function": "Involved in epigenetic regulation and chromatin modification; mutations contribute to clonal hematopoiesis.",
+          "relevant_activity_context": "CHIP-related associations, specifically correlating with lifestyle factors.",
+          "performance_or_health_indicator": "Association with higher estimated smoking pack years, indicating a genetic predisposition that correlates with a known significant risk factor for various diseases."
+        },
+        {
+          "biomarker_name": "DDR genes (TP53, PPM1D, BRCC3) mutations",
+          "measured_tissue_or_fluid": "Whole blood DNA",
+          "activity_type": "Genetic mutation detection",
+          "measured_effect": {
+            "direction_of_change": "Unchanged (age acceleration)",
+            "magnitude_quantification": "No increase in age acceleration was observed."
+          },
+          "core_biological_function": "DNA-damage response genes; mutations can lead to clonal hematopoiesis but may have distinct impacts on cellular aging pathways.",
+          "relevant_activity_context": "CHIP-related epigenetic age acceleration.",
+          "performance_or_health_indicator": "Unlike other CHIP mutations, these do not appear to contribute to epigenetic age acceleration, suggesting a potentially different or absent role in this aspect of aging and disease risk."
+        },
+        {
+          "biomarker_name": "hs-CRP (high-sensitivity C-reactive protein)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein level",
+          "measured_effect": {
+            "direction_of_change": "associated with higher risk (main effect), but no interaction with CHIP or AgeAccelHG",
+            "magnitude_quantification": "Main effect on risk for all-cause mortality (coefficient = 0.09, p < 1.01 \t 10-3). No interaction with CHIP for all-cause mortality (coefficient = 0.076, p < 0.29) or CHD (coefficient = -0.3, p < 0.82). Stratifying by hs-CRP levels (>2 mg/L) did not distinguish risk in CHIP+/AgeAccelHG+ individuals."
+          },
+          "core_biological_function": "Acute phase reactant, a systemic marker of inflammation.",
+          "relevant_activity_context": "Assessment of its role as an inflammation marker in relation to CHIP, epigenetic aging, and cardiovascular/mortality outcomes.",
+          "performance_or_health_indicator": "While a general marker of inflammation and associated with mortality, it is a poor discriminator of risk in CHIP carriers compared to AgeAccelHG."
+        },
+        {
+          "biomarker_name": "IL6R (rs2228145 single nucleotide polymorphism)",
+          "measured_tissue_or_fluid": "Blood (genomic DNA)",
+          "activity_type": "Gene polymorphism (alternate allele count)",
+          "measured_effect": {
+            "direction_of_change": "No significant interaction with CHIP or CHIP/AgeAccelHG for overall mortality/CHD; however, alternate alleles were associated with lower risk in TET2-CHIP+/AgeAccelHG+ individuals.",
+            "magnitude_quantification": "No significant interaction between CHIP status and alternate allele count at rs2228145 for all-cause mortality (p < 0.82) or CHD (p < 0.36). No significant interactions with the combined CHIP/AgeAccelHG variable. However, TET2-CHIP+/AgeAccelHG+ with IL6R WT had HR = 11.3 (p < 2.4 \t 10-29) for composite outcome, while TET2-CHIP+/AgeAccelHG+ with IL6R Mut had HR = 1.91 (p < 0.066) compared to CHIP\t/AgeAccelHG\t/IL6R WT (coefficient for interaction = \t1.12 per alternate allele, p for interaction < 9.6 \t 10-7)."
+          },
+          "core_biological_function": "Codes for the Interleukin-6 receptor, involved in inflammatory signaling; the rs2228145 variant affects IL-6R expression.",
+          "relevant_activity_context": "Investigation of genetic modification of CHIP/AgeAccelHG-associated risk for mortality and CHD, particularly in the context of specific CHIP-driving mutations.",
+          "performance_or_health_indicator": "Generally a poor discriminator of risk in CHIP carriers alone. However, the alternate allele of rs2228145 significantly attenuates the extremely high risk associated with TET2-CHIP+/AgeAccelHG+ status."
+        },
+        {
+          "biomarker_name": "MADM/NRBP1",
+          "measured_tissue_or_fluid": "Whole blood",
+          "activity_type": "Blood protein expression (surrogate biomarker generated by DNAmGrimAge clock)",
+          "measured_effect": {
+            "direction_of_change": "Not reported",
+            "magnitude_quantification": "No specific quantitative data reported."
+          },
+          "core_biological_function": "Surrogate biomarker for blood protein expression, contributing to the DNAmGrimAge clock's predictive power.",
+          "relevant_activity_context": "Analysis of epidemiological cohort data as part of DNAmGrimAge clock output.",
+          "performance_or_health_indicator": "Part of a panel of biomarkers used by the DNAmGrimAge clock to predict health and clinical outcomes."
+        },
+        {
+          "biomarker_name": "B2M (Beta-2 microglobulin)",
+          "measured_tissue_or_fluid": "Whole blood",
+          "activity_type": "Blood protein expression (surrogate biomarker generated by DNAmGrimAge clock)",
+          "measured_effect": {
+            "direction_of_change": "Not reported",
+            "magnitude_quantification": "No specific quantitative data reported."
+          },
+          "core_biological_function": "Surrogate biomarker for blood protein expression, contributing to the DNAmGrimAge clock's predictive power.",
+          "relevant_activity_context": "Analysis of epidemiological cohort data as part of DNAmGrimAge clock output.",
+          "performance_or_health_indicator": "Part of a panel of biomarkers used by the DNAmGrimAge clock to predict health and clinical outcomes."
+        },
+        {
+          "biomarker_name": "CST3 (Cystatin C)",
+          "measured_tissue_or_fluid": "Whole blood",
+          "activity_type": "Blood protein expression (surrogate biomarker generated by DNAmGrimAge clock)",
+          "measured_effect": {
+            "direction_of_change": "Not reported",
+            "magnitude_quantification": "No specific quantitative data reported."
+          },
+          "core_biological_function": "Surrogate biomarker for blood protein expression, contributing to the DNAmGrimAge clock's predictive power.",
+          "relevant_activity_context": "Analysis of epidemiological cohort data as part of DNAmGrimAge clock output.",
+          "performance_or_health_indicator": "Part of a panel of biomarkers used by the DNAmGrimAge clock to predict health and clinical outcomes."
+        },
+        {
+          "biomarker_name": "GDF15",
+          "measured_tissue_or_fluid": "Whole blood",
+          "activity_type": "Blood protein expression (surrogate biomarker generated by DNAmGrimAge clock)",
+          "measured_effect": {
+            "direction_of_change": "Not reported",
+            "magnitude_quantification": "No specific quantitative data reported."
+          },
+          "core_biological_function": "Surrogate biomarker for blood protein expression, contributing to the DNAmGrimAge clock's predictive power.",
+          "relevant_activity_context": "Analysis of epidemiological cohort data as part of DNAmGrimAge clock output.",
+          "performance_or_health_indicator": "Part of a panel of biomarkers used by the DNAmGrimAge clock to predict health and clinical outcomes."
+        },
+        {
+          "biomarker_name": "LEP (Leptin)",
+          "measured_tissue_or_fluid": "Whole blood",
+          "activity_type": "Blood protein expression (surrogate biomarker generated by DNAmGrimAge clock)",
+          "measured_effect": {
+            "direction_of_change": "Not reported",
+            "magnitude_quantification": "No specific quantitative data reported."
+          },
+          "core_biological_function": "Surrogate biomarker for blood protein expression, contributing to the DNAmGrimAge clock's predictive power.",
+          "relevant_activity_context": "Analysis of epidemiological cohort data as part of DNAmGrimAge clock output.",
+          "performance_or_health_indicator": "Part of a panel of biomarkers used by the DNAmGrimAge clock to predict health and clinical outcomes."
+        },
+        {
+          "biomarker_name": "SERPINE1/PAI1",
+          "measured_tissue_or_fluid": "Whole blood",
+          "activity_type": "Blood protein expression (surrogate biomarker generated by DNAmGrimAge clock)",
+          "measured_effect": {
+            "direction_of_change": "Not reported",
+            "magnitude_quantification": "No specific quantitative data reported."
+          },
+          "core_biological_function": "Surrogate biomarker for blood protein expression, contributing to the DNAmGrimAge clock's predictive power.",
+          "relevant_activity_context": "Analysis of epidemiological cohort data as part of DNAmGrimAge clock output.",
+          "performance_or_health_indicator": "Part of a panel of biomarkers used by the DNAmGrimAge clock to predict health and clinical outcomes."
+        },
+        {
+          "biomarker_name": "TIMP1",
+          "measured_tissue_or_fluid": "Whole blood",
+          "activity_type": "Blood protein expression (surrogate biomarker generated by DNAmGrimAge clock)",
+          "measured_effect": {
+            "direction_of_change": "Not reported",
+            "magnitude_quantification": "No specific quantitative data reported."
+          },
+          "core_biological_function": "Surrogate biomarker for blood protein expression, contributing to the DNAmGrimAge clock's predictive power.",
+          "relevant_activity_context": "Analysis of epidemiological cohort data as part of DNAmGrimAge clock output.",
+          "performance_or_health_indicator": "Part of a panel of biomarkers used by the DNAmGrimAge clock to predict health and clinical outcomes."
+        },
+        {
+          "biomarker_name": "Cell composition",
+          "measured_tissue_or_fluid": "Whole blood",
+          "activity_type": "Estimated proportion of cell types (by clock software using a published model)",
+          "measured_effect": {
+            "direction_of_change": "Not reported",
+            "magnitude_quantification": "No specific quantitative data reported."
+          },
+          "core_biological_function": "Reflects the distribution of different cell types in blood, which can influence methylation analyses and epigenetic age estimations.",
+          "relevant_activity_context": "Analysis of epidemiological cohort data, used for adjustment or as a covariate in methylation studies.",
+          "performance_or_health_indicator": "Influences epigenetic age estimation and can reflect underlying immune status or health conditions, potentially impacting disease risk."
+        }
+      ]
+    }
+  }
+]

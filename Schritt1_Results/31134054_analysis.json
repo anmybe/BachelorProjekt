@@ -1,0 +1,196 @@
+[
+  {
+    "title": "Front Immunol Front Immunol Front. Immunol. Frontiers in Immunology 1664-3224 Frontiers Media S.A. 6511813 10.3389/fimmu.2019.00907 Immunology Original Research Molecular Pathways Mediating Immunosuppression in Response to Prolonged Intensive Physical Training, Low-Energy Availability, and Intensive Weight Loss Sarin Heikki V. 1 2 * Gudelj Ivan 3 Honkanen Jarno 2 4 Ihalainen Johanna K. 5 6 Vuorela Arja 4 Lee Joseph H. 7 Jin Zhenzhen 8 Terwilliger Joseph D. 9 Isola Ville 5 Ahtiainen Juha P. 5 H\u00e4kkinen Keijo 5 Juri\u0107 Julija 3 Lauc Gordan 3 10 Kristiansson Kati 1 2 \u2020 Hulmi Juha J. 5 11 \u2020 Perola Markus 1 2 \u2020 1 Genomics and Biomarkers Unit, National Institute for Health and Welfare , Helsinki , Finland 2 Research Program for Clinical and Molecular Metabolism, Faculty of Medicine, University of Helsinki , Helsinki , Finland 3 Genos Glycoscience Research Laboratory , Zagreb , Croatia 4 Pedia Laboratory, Clinicum, University of Helsinki , Helsinki , Finland 5 Faculty of Sport and Health Sciences, Neuromuscular Research Center, Biology of Physical Activity, University of Jyv\u00e4skyl\u00e4 , Jyv\u00e4skyl\u00e4 , Finland 6 Department of Health Sciences, Swedish Winter Sports Research Centre, Mid Sweden University , \u00d6stersund , Sweden 7 Sergievsky Center, Taub Institute and Departments of Epidemiology and Neurology, Columbia University , New York, NY , United States 8 Department of Biostatistics, Columbia University , New York, NY , United States 9 Division of Medical Genetics, Departments of Psychiatry, Genetics & Development, Sergievsky Center, New York State Psychiatric Institute, Columbia University , New York, NY , United States 10 Department of Biochemistry and Molecular Biology, Faculty of Pharmacy and Biochemistry, University of Zagreb , Zagreb , Croatia 11 Department of Physiology, Faculty of Medicine, University of Helsinki , Helsinki , Finland Edited by: Ursula Grohmann, University of Perugia, Italy Reviewed by: Livio Luzi, University of Milan, Italy; Laura Elizabeth Layland-Heni, Universit\u00e4tsklinikum Bonn, Germany *Correspondence: Heikki V. Sarin heikki.sarin@helsinki.fi This article was submitted to Immunological Tolerance and Regulation, a section of the journal Frontiers in Immunology \u2020These authors have contributed equally to this work 03 5 2019 2019 10 907 11 2 2019 09 4 2019 Copyright \u00a9 2019 Sarin, Gudelj, Honkanen, Ihalainen, Vuorela, Lee, Jin, Terwilliger, Isola, Ahtiainen, H\u00e4kkinen, Juri\u0107, Lauc, Kristiansson, Hulmi and Perola. 2019 Sarin, Gudelj, Honkanen, Ihalainen, Vuorela, Lee, Jin, Terwilliger, Isola, Ahtiainen, H\u00e4kkinen, Juri\u0107, Lauc, Kristiansson, Hulmi and Perola This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms. Exercise and exercise-induced weight loss have a beneficial effect on overall health, including positive effects on molecular pathways associated with immune function, especially in overweight individuals. The main aim of our study was to assess how energy deprivation (i.e., \u201csemi-starvation\u201d) leading to substantial fat mass loss affects the immune system and immunosuppression in previously normal weight individuals. Thus, to address this hypothesis, we applied a high-throughput systems biology approach to better characterize potential key pathways associated with immune system modulation during intensive weight loss and subsequent weight regain. We examined 42 healthy female physique athletes (age 27.5 \u00b1 4.0 years, body mass index 23.4 \u00b1 1.7 kg/m 2 ) volunteered into either a diet group ( n = 25) or a control group ( n = 17). For the diet group, the energy intake was reduced and exercise levels were increased to induce loss of fat mass that was subsequently regained during a recovery period. The control group was instructed to maintain their typical lifestyle, exercise levels, and energy intake at a constant level. For quantification of systems biology markers, fasting blood samples were drawn at three time points: baseline ( PRE ), at the end of the weight loss period ( MID 21.1 \u00b1 3.1 weeks after PRE ), and at the end of the weight regain period ( POST 18.4 \u00b1 2.9 weeks after MID ). In contrast to the control group, the diet group showed significant (false discovery rate <0.05) alteration of all measured immune function parameters\u2014white blood cells (WBCs), immunoglobulin G glycome, leukocyte transcriptome, and cytokine profile. Integrative omics suggested effects on multiple levels of immune system as dysregulated hematopoiesis, suppressed immune cell proliferation, attenuated systemic inflammation, and loss of immune cell function by reduced antibody and chemokine secretion was implied after intense weight loss. During the weight regain period, the majority of the measured immune system parameters returned back to the baseline. In summary, this study elucidated a number of molecular pathways presumably explaining immunosuppression in individuals going through prolonged periods of intense training with low-energy availability. Our findings also reinforce the perception that the way in which weight loss is achieved (i.e., dietary restriction, exercise, or both) has a distinct effect on how the immune system is modulated. immunosuppression low energy availability physical training bioinformatics weight loss Introduction Obesity and weight gain are associated with immune system dysfunction including impaired cell-mediated response, an increase in leukocyte counts, and induced low-grade systemic inflammation ( 1 \u2013 5 ). Especially in overweight individuals, it has been demonstrated that exercise and exercise-induced weight loss alter overall health in numerous beneficial ways such as having positive effects on immune function related molecular pathways ( 5 \u2013 7 ). Despite the undisputed evidence of the positive health benefits of weight loss with exercise and reduced energy intake in overweight individuals, the effect of intentional weight loss beyond normal levels of fat mass on immune system modulation related omics is still unknown. Some studies have suggested that rigorous prolonged exercise training combined with low-energy availability (i.e., undernutrition) in normal weight individuals may suppress immune system function ( 8 \u2013 11 ). Prolonged periods of intense exercise and energy deficit leading to weight loss are common in many sports, especially in aesthetic sports such as fitness and physique sports ( 12 ). These individuals, after years of training with ad libitum energy intake, go through intensive weight reduction periods (>10 weeks) preceding competitions to improve their muscular definition and aesthetic appearance by reducing body fat mass. Intensive weight reduction is typically accomplished by an exceptionally high volume of both resistance and endurance training and a low-energy intake ( 12 ). In these situations, alterations in immune function have also been suggested, but not thoroughly studied ( 13 , 14 ). To date, little is known about how prolonged intensive exercise training induced weight loss and altered adiposity modulates immune function, and only a few studies have applied multiple omics approaches to explain these complex system biological relations ( 15 \u2013 18 ). In the present study, we aimed to further elucidate potential biological mechanisms underlying weight loss induced modulation of immunity in order to uncover mediators of immunosuppression. This was done by studying and incorporating data from the leukocyte transcriptome, immunoglobulin G (IgG) glycome, along with white blood cell (WBC) distribution, and cytokine/chemokine profile in normal weight female individuals, before ( PRE ) and after long-term (>15 weeks) intensive training and low-energy availability leading to intensive weight loss ( MID ) and then again following the subsequent voluntary weight regain ( POST ). In general, we focus our discussion on hematopoiesis, WBC proliferation and responses, along with associated antibody and cytokine/chemokine mediated signaling in reference to adaptive and innate immune functions.",
+    "document_source_id": "31134054",
+    "analysis_date": "2025-12-09",
+    "extracted_data": {
+      "document_summary": "This study utilized a multi-omics approach to investigate molecular pathways mediating immunosuppression in healthy female physique athletes undergoing prolonged intensive physical training and low-energy availability for substantial fat mass loss, followed by weight regain. The findings revealed significant alterations across various immune parameters, including dysregulated hematopoiesis, suppressed immune cell proliferation (both T- and B-lymphocytes), attenuated systemic inflammation, reduced antibody-mediated function (decreased total IgG levels and altered IgG glycosylation towards pro-inflammatory activity and reduced affinity), and suppressed IgE-dependent immune reactions. Most immune system parameters, including blood cell distribution and cytokine/chemokine profiles, showed significant changes during weight loss and largely reverted to baseline during the weight regain period, highlighting that the method of weight loss distinctly modulates the immune system.",
+      "treatment_details": {
+        "therapy_type": "Intensive physical training combined with a physique competition diet leading to substantial weight loss and subsequent weight regain",
+        "dose_specificity": "The intervention involved 25 healthy female physique athletes undergoing a vigorous 2- to 5-month progressive competition diet routine. This entailed a weight loss period averaging 21.1 \n\n\u00b1 3.1 weeks, achieved through approximately 18% decreased energy intake and 15% increased exercise (METh/wk), resulting in about 29% decreased energy availability. This was followed by a weight regain period averaging 18.4 \n\n\u00b1 2.9 weeks, during which exercise decreased and energy intake increased. Measurements were taken at baseline (PRE), immediately after weight loss (MID), and after weight regain (POST). No explicit dose-response comparisons were reported."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "White Blood Cells (WBCs)",
+          "measured_tissue_or_fluid": "Fasting blood samples / Circulating blood",
+          "activity_type": "Immune function parameter (distribution/counts) / Cell count",
+          "measured_effect": {
+            "direction_of_change": "altered/higher",
+            "magnitude_quantification": "Significant (false discovery rate <0.05) alteration after intense weight loss, showing a significant increase in total count (P < 0.05) in the diet group. Numbers recovered to baseline during weight regain."
+          },
+          "core_biological_function": "Key components of the immune system involved in defending against infection and disease; essential for immune responses and hematopoiesis.",
+          "relevant_activity_context": "Prolonged intensive physical training, low-energy availability, and intensive weight loss in healthy female physique athletes.",
+          "performance_or_health_indicator": "Indicates immune system modulation and potential immunosuppression through dysregulated hematopoiesis; suggests leukocyte-skewed augmentation in HSC proliferation."
+        },
+        {
+          "biomarker_name": "Neutrophils",
+          "measured_tissue_or_fluid": "Circulating blood",
+          "activity_type": "Cell count",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significant (P < 0.05) increase in the diet group during the weight loss period, accounting for most of the increase in WBCs. Augmented neutrophil numbers were observed after the diet. Numbers recovered to baseline during the weight regain period."
+          },
+          "core_biological_function": "Primary immune cell of the innate immune system, involved in combating infection and acute inflammation.",
+          "relevant_activity_context": "Weight loss period (prolonged energy deprivation and intense exercise).",
+          "performance_or_health_indicator": "Indicates altered blood cell distribution and potential immune system response to physiological stress; may contribute to immunosuppression or HSC aging phenotype."
+        },
+        {
+          "biomarker_name": "Lymphocytes (percentage)",
+          "measured_tissue_or_fluid": "Circulating blood",
+          "activity_type": "Cell percentage",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Relative decrease (\n\n\u03b2 = \u22125.10 \n\n\u00b1 2.31, P = 0.03) in the diet group during the weight loss period, primarily due to increased neutrophil numbers. Percentage recovered to baseline during the weight regain period."
+          },
+          "core_biological_function": "Key immune cells of the adaptive immune system, crucial for specific immune responses.",
+          "relevant_activity_context": "Weight loss period (prolonged energy deprivation and intense exercise).",
+          "performance_or_health_indicator": "Indicates altered blood cell distribution and suggests T-lymphocyte mediated immunosuppression and potential immunodeficiency."
+        },
+        {
+          "biomarker_name": "Erythrocyte counts",
+          "measured_tissue_or_fluid": "Circulating blood",
+          "activity_type": "Cell count",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Reduced counts observed during the weight loss period. Counts recovered back to baseline during the weight regain period."
+          },
+          "core_biological_function": "Responsible for oxygen transport throughout the body.",
+          "relevant_activity_context": "Weight loss period (prolonged energy deprivation and intense exercise).",
+          "performance_or_health_indicator": "Suggests a wider effect on blood cell proliferation and hematopoiesis, potentially indicating reduced oxygen carrying capacity."
+        },
+        {
+          "biomarker_name": "Platelet counts",
+          "measured_tissue_or_fluid": "Circulating blood",
+          "activity_type": "Cell count",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Reduced counts observed during the weight loss period. Counts recovered back to baseline during the weight regain period."
+          },
+          "core_biological_function": "Essential for blood clotting and wound healing.",
+          "relevant_activity_context": "Weight loss period (prolonged energy deprivation and intense exercise).",
+          "performance_or_health_indicator": "Suggests a wider effect on blood cell proliferation and hematopoiesis."
+        },
+        {
+          "biomarker_name": "Hematopoietic Stem Cell (HSC) proliferation and associated gene regulators (e.g., TAL1, RUNX1, CREB1, SPI1, GATA1, ACKR1, ALAS2, FOXO3, BCL2L1)",
+          "measured_tissue_or_fluid": "Bone Marrow (and mobilization to circulation) / Leukocytes",
+          "activity_type": "Cell proliferation / Gene Transcript",
+          "measured_effect": {
+            "direction_of_change": "altered",
+            "magnitude_quantification": "Leukocyte-skewed augmentation in HSC proliferation from bone marrow. Differential expression for various gene transcripts: TAL1, RUNX1, CREB1, leukocyte producing HSC regulators (altered); SPI1 (higher); GATA1, ACKR1, hemoglobin production genes, FOXO transcription factors, anti-apoptotic transcription factors (lower). All recovered to baseline during weight regain."
+          },
+          "core_biological_function": "Regulates the generation and differentiation of all blood cell types, including immune cells, by controlling HSC proliferation, survival, and lineage commitment.",
+          "relevant_activity_context": "Intense weight loss period (prolonged energy deprivation and intense exercise).",
+          "performance_or_health_indicator": "Suggests dysregulated hematopoiesis, suppressed differentiation in the erythroid lineage, induced activity of myeloid and lymphoid progenitor cell lines, increased metabolic stress on HSCs, augmented ROS-induced apoptosis, and potential acceleration of HSC aging, all contributing to immune system dysregulation."
+        },
+        {
+          "biomarker_name": "Adaptive immunity pathway and antigen presentation",
+          "measured_tissue_or_fluid": "Leukocytes",
+          "activity_type": "Transcriptomic analysis (pathway activity) / Gene expression",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Significant downregulation (q-value < 0.05) observed in adaptive immunity, Class I MHC mediated antigen processing and presentation, and antigen pathway associated with ubiquitination and proteasome degradation during the intense weight loss period."
+          },
+          "core_biological_function": "Overall host immune response involving specific recognition of pathogens, antigen processing, and presentation to T-lymphocytes.",
+          "relevant_activity_context": "Prolonged energy deprivation and intense exercise.",
+          "performance_or_health_indicator": "Indicates T-lymphocyte mediated immunosuppression, potential immunodeficiency, and suppressed cytotoxic CD8 T-lymphocyte lineage fate."
+        },
+        {
+          "biomarker_name": "T-lymphocyte differentiation and proliferation regulators (e.g., GATA3, ZBTB7B, RUNX3, TBX21, STAT4, MYB, TOX)",
+          "measured_tissue_or_fluid": "Leukocytes",
+          "activity_type": "Gene Transcript / RNA expression",
+          "measured_effect": {
+            "direction_of_change": "altered",
+            "magnitude_quantification": "GATA3, RUNX3, STAT4, and T-lymphocyte proliferation markers showed downregulation. ZBTB7B showed upregulation. TBX21 was differentially expressed, suggesting a predominant T H 2 response. These changes were observed after intense weight loss and largely normalized upon weight regain."
+          },
+          "core_biological_function": "Regulates T-lymphocyte differentiation (e.g., CD4, CD8, T H 1, T H 2) and proliferation, crucial for adaptive immune responses.",
+          "relevant_activity_context": "Intense weight loss period, low-energy availability.",
+          "performance_or_health_indicator": "Suggests inhibition of helper/cytotoxic T-lymphocyte proliferation, suppressed CD8 and T H 1 lineage fate, and a predominant T H 2 helper cell response, indicating T-lymphocyte mediated immunosuppression and immunodeficiency."
+        },
+        {
+          "biomarker_name": "B-lymphocyte maturation and proliferation regulators (e.g., BCL6, CD22, BLIMP, XBP1, CD19, CD27, NOTCH-1/2)",
+          "measured_tissue_or_fluid": "Leukocytes (transcriptome) / Not explicitly stated for maturation",
+          "activity_type": "Cellular Process/Development / Gene Transcript / Pathway activity",
+          "measured_effect": {
+            "direction_of_change": "altered",
+            "magnitude_quantification": "Reduced B-lymphocyte maturation to antibody secreting plasma cells (reduced BLIMP, XBP1, CD27, CD38 expression). Suppressed B-lymphocyte proliferation implied by increased inhibitory BCR signaling mediators and BCR signaling pathway upregulation. Promoted germinal center B-lymphocyte development and non-circulating B-lymphocyte pool (BCL6, CD19, CD79a, NOTCH-1/2, E2A, memory B-lymphocyte promoters altered/upregulated). All changes observed during intense weight loss."
+          },
+          "core_biological_function": "Regulation of B-lymphocyte development, proliferation, differentiation into plasma cells, and memory B-cell formation, crucial for humoral immunity and antibody production.",
+          "relevant_activity_context": "Intense weight loss period (prolonged energy deprivation and intense exercise).",
+          "performance_or_health_indicator": "Indicates inhibited B-lymphocyte proliferation and maturation, reduced production of mature plasma cells, leading to suppressed antibody-mediated immunity and overall immunosuppression."
+        },
+        {
+          "biomarker_name": "Immunoglobulin G (IgG) N-glycan profile and total levels",
+          "measured_tissue_or_fluid": "Isolated IgG from human circulation (blood/serum) / Leukocytes (for gene transcripts)",
+          "activity_type": "Protein Level / Protein Glycosylation Profile / Gene Transcript",
+          "measured_effect": {
+            "direction_of_change": "altered",
+            "magnitude_quantification": "Total isolated IgG significantly reduced (\n\n\u03b2 = \u22120.04 \n\n\u00b1 0.01, FDR = 4.85 \n\n\u00d7 10\u22123). Digalactosylated, sialylated, and derived G2/S IgG N-glycans significantly decreased (FDR < 0.05). Agalactosylated, monogalactosylated, bisecting GlcNAc, FA2G1S1, and M5 IgG glycans significantly increased (FDR < 0.05). Genes coding transcription factors and glyco-/galactosyltransferases (e.g., ST6GAL1, B4GALT1, MGAT3, RUNX3) were differentially expressed (FDR < 0.05). Changes generally returned to baseline during weight regain."
+          },
+          "core_biological_function": "IgG is the most common antibody in circulation, mediating adaptive immune responses; its N-glycosylation modulates anti- and pro-inflammatory activity and affects binding affinity to B-cell receptors.",
+          "relevant_activity_context": "Prolonged energy deprivation and intense exercise (weight loss period).",
+          "performance_or_health_indicator": "Indicates suppressed antibody-mediated immunity, altered IgG glycosylation status towards increased pro-inflammatory activity (lower galactosylation/sialylation, higher agalactosylation/bisecting GlcNAc), and reduced IgG affinity with specific BCRs, contributing to immunosuppression and immune dysregulation."
+        },
+        {
+          "biomarker_name": "Innate immunity pathway and IgE-mediated signaling",
+          "measured_tissue_or_fluid": "Transcriptomic analysis / Immune Cells",
+          "activity_type": "Pathway Activity (signaling / transcriptomic analysis)",
+          "measured_effect": {
+            "direction_of_change": "lower/altered",
+            "magnitude_quantification": "Significant downregulation (q-value < 0.05) in both innate immunity pathway and Fc epsilon receptor (FceRI) signaling pathway, indicating altered IgE mediated signaling."
+          },
+          "core_biological_function": "Innate immunity provides general defense, while IgE-mediated signaling is crucial for allergic responses and parasite defense.",
+          "relevant_activity_context": "Prolonged energy deprivation and intense exercise.",
+          "performance_or_health_indicator": "Indicates suppression of innate immunity responses and IgE antibody-dependent immune reactions, suggesting immune system dysregulation and potential immunodeficiency related to allergic hypersensitivity."
+        },
+        {
+          "biomarker_name": "Cytokine and Chemokine Profile (e.g., TNF-\u03b1, IP10, MCP-1, MDC, GRO, Eotaxin, CXCR1)",
+          "measured_tissue_or_fluid": "Fasting blood samples / Circulating blood / Leukocytes (for gene transcripts)",
+          "activity_type": "Protein Level (levels/secretion) / Gene Transcript (profile of multiple signaling molecules)",
+          "measured_effect": {
+            "direction_of_change": "altered",
+            "magnitude_quantification": "Significant alteration in the overall profile. TNF-\u03b1 and IP10 showed significant reduction after weight reduction (TNF-\u03b1: \n\n\u03b2 = \u22121.74 \n\n\u00b1 0.53, FDR = 1.26 \n\n\u00d7 10\u22122; IP10: \n\n\u03b2 = \u221286.10 \n\n\u00b1 28.96, FDR = 2.80 \n\n\u00d7 10\u22122). MCP-1, MDC, GRO, and Eotaxin showed higher circulating levels (Eotaxin: \n\n\u03b2 = 28.95 \n\n\u00b1 5.69, FDR = 1.36 \n\n\u00d7 10\u22125). Chemokine receptor genes (e.g., CXCR1, CXCR2) were differentially expressed. Most changes returned to baseline during weight regain, except TNF-\u03b1 which remained lower."
+          },
+          "core_biological_function": "Mediates intercellular communication in the immune system, regulating inflammation, immune cell recruitment, and various immune responses.",
+          "relevant_activity_context": "Prolonged low-energy availability and intense exercise (weight loss period).",
+          "performance_or_health_indicator": "Indicates attenuated systemic inflammation (lower TNF-\u03b1, IP10), reduced immune cell function, and altered myeloid cell targeted chemotaxis (higher MCP-1, MDC, GRO), contributing to complex modulation of innate immunity responses and immunosuppression; Eotaxin increase supports a predominant T H 2 response."
+        },
+        {
+          "biomarker_name": "Systemic inflammation and metabolic markers (HDL-C, \u03b11-acid glycoprotein, S-hs-CRP)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Metabolomic Marker / Protein Level",
+          "measured_effect": {
+            "direction_of_change": "altered",
+            "magnitude_quantification": "HDL-C increased, while \u03b11-acid glycoprotein and S-hs-CRP decreased. These were previously published results cited in other studies."
+          },
+          "core_biological_function": "Markers related to lipid metabolism and systemic inflammation, indicative of overall physiological stress and immune status.",
+          "relevant_activity_context": "Intense weight loss period due to vigorous physical training and low-energy availability.",
+          "performance_or_health_indicator": "Indicates an attenuated level of systemic inflammation, alleviating doubts of infection, inflammation, or disease-induced leukocytosis; suggests a healthier metabolic profile."
+        },
+        {
+          "biomarker_name": "Overall bone mass / Bone mineral density",
+          "measured_tissue_or_fluid": "Bone",
+          "activity_type": "Mass / Density Measurement",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Loss of overall bone mass, reduction in bone mineral density (e.g., osteopenia) (cited in 12)."
+          },
+          "core_biological_function": "Provides structural support, protection, and mineral storage.",
+          "relevant_activity_context": "Intense weight loss period due to vigorous physical training and low-energy availability.",
+          "performance_or_health_indicator": "Part of the female athlete triad, indicating increased risk of osteopenia."
+        },
+        {
+          "biomarker_name": "Hormone concentrations (Sex hormones, Leptin)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Hormone Concentration",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Reduced levels of sex hormones (previously reported, cited in 12) and leptin observed after the weight loss period (PRE-MID) (previously reported, cited in 12, 60). Leptin levels reverted to normal with weight regain."
+          },
+          "core_biological_function": "Sex hormones regulate reproductive function and bone health. Leptin regulates energy balance and modulates immune function.",
+          "relevant_activity_context": "Intense weight loss period due to vigorous physical training and low-energy availability.",
+          "performance_or_health_indicator": "Associated with menstrual dysfunction and the female athlete triad; reduced leptin mediates immune system defects (e.g., atrophy of lymphoid tissues, reduced T-lymphocyte maturation) and contributes to immunodeficiency."
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,244 @@
+[
+  {
+    "title": "pmc Sci Rep Sci Rep Scientific Reports 2045-2322 Nature Publishing Group UK London 9515157 20085 10.1038/s41598-022-20085-y Article Plasma protein biomarkers for primary graft dysfunction after lung transplantation: a single-center cohort analysis Chacon-Alberty Lourdes 1 Kanchi Rupa S. 2 Ye Shengbin 3 Hochman-Mendez Camila 1 Daoud Daoud 4 Coarfa Cristian 2 5 6 Li Meng 3 Grimm Sandra L. 5 6 Baz Maher 7 Rosas Ivan 7 Loor Gabriel Gabriel.Loor@bcm.edu 4 8 9 1 grid.416986.4 0000 0001 2296 6154 Department of Regenerative Medicine Research, Texas Heart Institute, Houston, TX USA 2 grid.39382.33 0000 0001 2160 926X Dan L Duncan Comprehensive Cancer Center, Baylor College of Medicine, Houston, TX USA 3 grid.21940.3e 0000 0004 1936 8278 Department of Statistics, Rice University, Houston, TX USA 4 grid.39382.33 0000 0001 2160 926X Division of Cardiopulmonary Transplantation and Mechanical Circulatory Support, Michael E DeBakey Department of Surgery, Baylor College of Medicine, Houston, TX USA 5 grid.39382.33 0000 0001 2160 926X Molecular and Cellular Biology Department, Baylor College of Medicine, Houston, TX USA 6 grid.39382.33 0000 0001 2160 926X Center for Precision Environment Health, Baylor College of Medicine, Houston, TX USA 7 grid.39382.33 0000 0001 2160 926X Department of Medicine, Baylor College of Medicine, Houston, TX USA 8 grid.416986.4 0000 0001 2296 6154 Cardiothoracic Surgery, Texas Heart Institute, Houston, TX USA 9 grid.416470.0 0000 0004 4656 4290 Division of Cardiopulmonary Transplantation, CHI St. Luke\u2019s Health\u2014Baylor St. Luke\u2019s Medical Center, 6770 Bertner Avenue, Suite C355, Houston, TX 77030 USA 27 9 2022 27 9 2022 2022 12 16137 15 4 2022 8 9 2022 \u00a9 The Author(s) 2022 https://creativecommons.org/licenses/by/4.0/ Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/ . The clinical use of circulating biomarkers for primary graft dysfunction (PGD) after lung transplantation has been limited. In a prospective single-center cohort, we examined the use of plasma protein biomarkers as indicators of PGD severity and duration after lung transplantation. The study comprised 40 consecutive lung transplant patients who consented to blood sample collection immediately pretransplant and at 6, 24, 48, and 72 h after lung transplant. An expert grader determined the severity and duration of PGD and scored PGD at T0 (6 h after reperfusion), T24, T48, and T72 h post-reperfusion using the 2016 ISHLT consensus guidelines. A bead-based multiplex assay was used to measure 27 plasma proteins including cytokines, growth factors, and chemokines. Enzyme-linked immunoassay was used to measure cell injury markers including M30, M65, soluble receptor of advanced glycation end-products (sRAGE), and plasminogen activator inhibitor-1 (PAI-1). A pairwise comparisons analysis was used to assess differences in protein levels between PGD severity scores (1, 2, and 3) at T0, T24, T48, and T72 h. Sensitivity and temporal analyses were used to explore the association of protein expression patterns and PGD3 at T48\u201372 h (the most severe, persistent form of PGD). We used the Benjamini\u2013Hochberg method to adjust for multiple testing. Of the 40 patients, 22 (55%) had PGD3 at some point post-transplant from T0 to T72 h; 12 (30%) had PGD3 at T48\u201372 h. In the pairwise comparison, we identified a robust plasma protein expression signature for PGD severity. In the sensitivity analysis, using a linear model for microarray data, we found that differential perioperative expression of IP-10, MIP1B, RANTES, IL-8, IL-1Ra, G-CSF, and PDGF-BB correlated with PGD3 development at T48\u201372 h (FDR < 0.1 and p < 0.05). In the temporal analysis, using linear mixed modeling with overlap weighting, we identified unique protein patterns in patients who did or did not develop PGD3 at T48\u201372 h. Our findings suggest that unique inflammatory protein expression patterns may be informative of PGD severity and duration. PGD biomarker panels may improve early detection of PGD, predict its clinical course, and help monitor treatment efficacy in the current era of lung transplantation. Subject terms Cell death and immune response Chemokines Innate immunity Biomarkers Medical research NCI P30CA125123 CPRIT RP200504 NIH/NIEHS P42 ES027725 NIMHD P50MD015496 National Institutes of Health T32CA96520 Ye Shengbin MacDonald Research Fund 20RDM004 Loor Gabriel JLH Foundation Award 55354 Loor Gabriel issue-copyright-statement \u00a9 The Author(s) 2022 Introduction Primary graft dysfunction (PGD) is the main cause of early morbidity and mortality after lung transplantation. Although patients can be successfully treated with supportive care, there is no cure for PGD 1 , 2 . Furthermore, supportive care alone cannot prevent the potential for irreversible harm to the donor allograft or other end organs. Short of identifying a cure, the ability to accurately map a molecular signature for detecting PGD could enhance the overall treatment of patients. The clinical implementation of biomarkers specific to the pathogenesis of PGD would improve early detection, predict the clinical course of PGD, and, importantly, provide an objective metric to gauge the efficacy of interventions 3 \u2013 5 . The pathogenesis of PGD involves ischemia\u2013reperfusion injury leading to inflammation, cell death, and endothelial dysfunction 6 \u2013 13 . Accordingly, several studies have identified byproducts and mediators of these events as potential biomarkers associated with PGD. In a single-center study using enzyme linked immunoassays (ELISA) to detect inflammatory mediators in the plasma, Mathur et al. showed that interleukins 6, 8, and 10 (IL-6, IL-8, IL-10) and tumor necrosis factor (TNF)-\u03b1 were elevated in patients with severe PGD compared with those without severe PGD 14 . In a multicenter study using a multiplex bead based assay to detect inflammatory protein mediators in the plasma, Hoffman and colleagues showed that interferon gamma-induced protein 10 (IP-10) and monocyte chemoattractant protein-1 (MCP-1) levels were higher in patients with severe PGD than in those without PGD 15 . Studies using the Lung Transplant Outcomes Group (LTOG) biorepository have validated several protein biomarkers for PGD including soluble receptor for advanced glycation end products (sRAGE), plasminogen activator inhibitor-1 (PAI-1), and MCP-1 8 , 16 , 17 . Despite the well-founded enthusiasm in the transplant community for discovering biomarkers, they have not been adopted in clinical practice for several reasons. First, there is a lack of consensus regarding the best method for detecting biomarkers in an efficient, reliable, and cost-effective manner. Second, making consequential clinical decisions based on biomarker results is concerning because of the possibility of a false positive or negative. Finally, there is a paucity of recent studies that validate the results previously reported from observational registries, which is not surprising given the expense of collecting and analyzing these rare samples. Thus, the current study was conducted to validate the utility of protein biomarkers for detecting the severity and duration of PGD. We used the most updated PGD grading guidelines, a contemporary cohort of lung transplant recipients, and novel statistical methods to aid in detecting a wide breadth of biomarkers.",
+    "document_source_id": "36167867",
+    "analysis_date": "2025-12-10",
+    "extracted_data": {
+      "document_summary": "This study investigated plasma protein biomarkers (including cytokines, chemokines, growth factors, and cell death markers) to identify unique expression patterns associated with the severity and duration of Primary Graft Dysfunction (PGD) after lung transplantation. It identified several strong biomarker candidates, such as IP-10, MIP-1B, RANTES, M30, M65, IL-1Ra, PDGF-BB, G-CSF, IL-4, MIP-1A, IL-17, IL-9, IL-1B, IL-10, IL-6, TNF-alpha, sRAGE, and PAI-1, which are informative for early detection, predicting clinical course, and monitoring treatment efficacy of PGD.",
+      "treatment_details": {
+        "therapy_type": "Lung transplantation",
+        "dose_specificity": "The study included 40 consecutive lung transplant patients (February 2018 \u2013 May 2019). Blood samples were collected immediately pretransplant (T0) and at 6, 24, 48, and 72 hours post-transplant/reperfusion, with PGD severity scored using 2016 ISHLT guidelines. Biomarker analysis involved a bead-based multiplex assay for 27 plasma proteins (cytokines, growth factors, chemokines) and enzyme-linked immunoassay for cell injury markers (M30, M65, sRAGE, PAI-1). Statistical methods included pairwise comparisons, sensitivity, and temporal analyses. An immunosuppression regimen of basiliximab, solumedrol, and mycophenolate (induction) and tacrolimus, mycophenolate mofetil (maintenance) was used. Intraoperative extracorporeal life support (ECLS), ex vivo lung perfusion (EVLP), and postoperative extracorporeal membrane oxygenation (ECMO) were considered for severe PGD (PGD3). No specific dose-response comparisons for transplantation or immunosuppression were reported."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "IP-10",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Higher",
+            "magnitude_quantification": "Upregulated at 6 h post-reperfusion, correlating with PGD severity in 5 of 12 pairwise comparisons (FDR-adjusted p < 0.25). Differential perioperative expression, including possible delta increases from preoperative downregulation, correlated with PGD3 development at T48\u201372 h (p < 0.05, FDR < 0.1). Changes over time remained significant in the non-overlap weighted cohort. Elevated levels were observed after reperfusion in patients with severe PGD, and correlated with PGD severity in sensitivity and temporal analyses."
+          },
+          "core_biological_function": "Chemokine; mediates inflammation and immune cell trafficking.",
+          "relevant_activity_context": "Perioperative period and post-lung transplant reperfusion (6h, T48\u201372h), associated with PGD severity and duration, particularly PGD3.",
+          "performance_or_health_indicator": "Strong candidate biomarker for PGD severity and duration; indicates increased inflammation. Can aid early detection of PGD, predict its clinical course, monitor progression, and provide mechanistic insight for drug development and therapeutic efficacy."
+        },
+        {
+          "biomarker_name": "MIP-1B",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Varied (lower pre-transplant, higher post-transplant)",
+            "magnitude_quantification": "Lower levels pre-transplant were associated with PGD3 at T48\u201372h (p < 0.05). Differential perioperative expression, which may reflect a delta increase from downregulation, correlated with PGD3 development at T48\u201372 h (FDR < 0.1 and p < 0.05). Significant associations with PGD were also found in paired comparisons and sensitivity analyses, with temporal evolution associated with PGD3."
+          },
+          "core_biological_function": "Chemokine; involved in inflammation and recruitment of immune cells.",
+          "relevant_activity_context": "Pre-transplant and post-lung transplant reperfusion, associated with PGD severity and duration, particularly PGD3 at T48\u201372h.",
+          "performance_or_health_indicator": "Candidate biomarker for PGD severity and duration. Lower pre-transplant levels are associated with higher risk of severe PGD, indicating a potential predictive biomarker, while post-transplant changes are also significant for PGD."
+        },
+        {
+          "biomarker_name": "RANTES",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Varied (lower pre-transplant, higher post-transplant)",
+            "magnitude_quantification": "Lower levels pre-transplant were associated with PGD3 at T48\u201372h (p < 0.05). Differential perioperative expression correlated with PGD3 development at T48\u201372 h (FDR < 0.1 and p < 0.05). Correlated with PGD severity in paired analysis and with the duration of PGD in sensitivity analysis."
+          },
+          "core_biological_function": "Chemokine; mediates inflammation and recruitment of T cells, eosinophils, and basophils.",
+          "relevant_activity_context": "Pre-transplant and post-lung transplant, associated with PGD severity and duration, particularly PGD3 at T48\u201372h.",
+          "performance_or_health_indicator": "Candidate biomarker for PGD severity and duration. Lower pre-transplant levels are associated with a higher risk of developing severe PGD, potentially indicating altered immune readiness."
+        },
+        {
+          "biomarker_name": "IL-8",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Varied (lower pre-transplant, higher perioperative)",
+            "magnitude_quantification": "Lower baseline levels pre-transplant were associated with PGD3 at T48\u201372 h (p < 0.05). Differential perioperative expression correlated with PGD3 development at T48\u201372 h (FDR < 0.1 and p < 0.05). A decrease was generally associated with the severity of PGD."
+          },
+          "core_biological_function": "Cytokine/chemokine; potent chemoattractant for neutrophils and mediator of acute inflammation.",
+          "relevant_activity_context": "Pre-transplant and post-lung transplant, associated with PGD severity, particularly PGD3 at T48\u201372h.",
+          "performance_or_health_indicator": "Indicates an association with PGD severity. Lower pre-transplant levels are associated with a higher risk of developing severe PGD, possibly reflecting a suppressed inflammatory response."
+        },
+        {
+          "biomarker_name": "IL-1Ra",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Varied (lower pre-transplant, higher post-transplant)",
+            "magnitude_quantification": "Downregulated before transplant but upregulated at 6 h post-transplant, associated with PGD3 at T48\u201372h (p < 0.05). Differential perioperative expression correlated with PGD3 development at T48\u201372 h (FDR < 0.1 and p < 0.05). Upregulated at 6 h post-reperfusion in 5 of 12 pairwise comparisons for PGD3 versus PGD1 (FDR-adjusted p < 0.25). Consistent association between increased levels and severity/duration of PGD; elevated after reperfusion in severe PGD."
+          },
+          "core_biological_function": "Cytokine receptor antagonist; modulates inflammatory responses by counteracting IL-1 alpha and beta.",
+          "relevant_activity_context": "Pre-transplant and post-lung transplant reperfusion (6h, T48\u201372h), associated with PGD severity and duration, particularly PGD3.",
+          "performance_or_health_indicator": "Indicates severe primary graft dysfunction (PGD3) and is informative of PGD severity and duration, aiding early detection, prediction of clinical course, and monitoring treatment efficacy. Supports use as a biomarker for PGD."
+        },
+        {
+          "biomarker_name": "G-CSF",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Higher",
+            "magnitude_quantification": "Differential perioperative expression correlated with PGD3 development at T48\u201372 h (FDR < 0.1 and p < 0.05). Upregulated at 72 h post-transplant, associated with PGD3 at T48\u201372h (p < 0.05)."
+          },
+          "core_biological_function": "Growth factor; stimulates production and differentiation of granulocytes and mediates inflammation.",
+          "relevant_activity_context": "Post-lung transplant reperfusion (72h, T48\u201372h), associated with PGD severity, particularly PGD3.",
+          "performance_or_health_indicator": "Indicates severe primary graft dysfunction (PGD3) and is informative of PGD severity and duration. Higher levels post-transplant are associated with severe PGD, potentially indicating a heightened systemic inflammatory or recovery response."
+        },
+        {
+          "biomarker_name": "PDGF-BB",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Varied (lower pre-transplant, higher perioperative)",
+            "magnitude_quantification": "Lower levels pre-transplant were associated with PGD3 at T48\u201372h (p < 0.05). Differential perioperative expression correlated with PGD3 development at T48\u201372 h (FDR < 0.1 and p < 0.05)."
+          },
+          "core_biological_function": "Growth factor; regulates cell proliferation, angiogenesis, tissue repair, and mediates inflammation.",
+          "relevant_activity_context": "Pre-transplant and post-lung transplant, associated with PGD severity and duration, particularly PGD3 at T48\u201372h.",
+          "performance_or_health_indicator": "Indicates severe primary graft dysfunction (PGD3) and is informative of PGD severity and duration. Lower pre-transplant levels are associated with a higher risk of developing severe PGD, suggesting impaired repair or pre-existing conditions."
+        },
+        {
+          "biomarker_name": "M30",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Higher",
+            "magnitude_quantification": "Gradual and late rise associated with PGD3 at T48\u201372 h. Elevated levels also observed at T24\u201348 h post-lung transplant in patients with PGD3 in previous studies. Temporal changes were significantly associated with PGD3 at T48\u201372h (before and after adjusting for multiple testing in the non-overlap weighted cohort)."
+          },
+          "core_biological_function": "Cell death marker; indicates apoptosis (caspase-cleaved cytokeratin 18).",
+          "relevant_activity_context": "Post-lung transplant reperfusion (T24\u201348h, T48\u201372h), associated with PGD3.",
+          "performance_or_health_indicator": "Indicates a phased onset of apoptosis and increased cellular apoptosis/tissue damage associated with severe PGD (PGD3)."
+        },
+        {
+          "biomarker_name": "M65",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Higher",
+            "magnitude_quantification": "Did not correlate with PGD in temporal analysis but paired comparison analysis suggested a delayed association with PGD severity. Elevated levels also observed at T24\u201348 h post-lung transplant in patients with PGD3 in previous studies."
+          },
+          "core_biological_function": "Cell death marker; indicates both apoptosis and necrosis (total cytokeratin 18).",
+          "relevant_activity_context": "Post-lung transplant (T24\u201348h), associated with PGD severity.",
+          "performance_or_health_indicator": "Indicates cell death (apoptosis and necrosis) and has a delayed association with PGD severity."
+        },
+        {
+          "biomarker_name": "IL-4",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Lower",
+            "magnitude_quantification": "Downregulated before transplant, associated with PGD3 at T48\u201372h (FDR-adjusted p < 0.1)."
+          },
+          "core_biological_function": "Cytokine; regulates immune responses, particularly B cell activation and IgE production.",
+          "relevant_activity_context": "Pre-transplant, associated with development of severe PGD (PGD3 at T48\u201372h).",
+          "performance_or_health_indicator": "Lower pre-transplant levels are associated with a higher risk of developing severe PGD, possibly indicating an altered immune regulatory state."
+        },
+        {
+          "biomarker_name": "MIP-1A",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Lower",
+            "magnitude_quantification": "Downregulated before transplant, associated with PGD3 at T48\u201372h (FDR-adjusted p < 0.1)."
+          },
+          "core_biological_function": "Chemokine; involved in acute inflammation and recruitment of monocytes and neutrophils.",
+          "relevant_activity_context": "Pre-transplant, associated with development of severe PGD (PGD3 at T48\u201372h).",
+          "performance_or_health_indicator": "Lower pre-transplant levels are associated with a higher risk of developing severe PGD, indicating a potential predictive biomarker."
+        },
+        {
+          "biomarker_name": "IL-17",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Lower",
+            "magnitude_quantification": "Downregulated at 72 h post-transplant, associated with PGD3 at T48\u201372h (FDR-adjusted p < 0.1)."
+          },
+          "core_biological_function": "Cytokine; critical for host defense against extracellular pathogens and inflammation.",
+          "relevant_activity_context": "Post-lung transplant reperfusion (72h), associated with development of severe PGD (PGD3 at T48\u201372h).",
+          "performance_or_health_indicator": "Lower levels at 72h post-transplant are associated with severe PGD, possibly reflecting an impaired or dysregulated immune response during critical post-transplant period."
+        },
+        {
+          "biomarker_name": "IL-9",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Changed",
+            "magnitude_quantification": "Statistical differences were noted in temporal expression over 72 h post-reperfusion for patients developing PGD3 at T48\u201372h, before adjusting for multiple testing. Relatively weak indirect correlation between IL-9 levels and PGD severity."
+          },
+          "core_biological_function": "Cytokine; promotes growth of T cells, mast cells, and B cells; involved in immune regulation.",
+          "relevant_activity_context": "Post-lung transplant reperfusion (over 72h), associated with severity of PGD, particularly PGD3 at T48\u201372h.",
+          "performance_or_health_indicator": "Weakly indicates PGD severity through an indirect correlation; temporal changes are associated with severe PGD, suggesting its involvement in underlying immune processes."
+        },
+        {
+          "biomarker_name": "IL-1B",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Lower",
+            "magnitude_quantification": "Reduced levels at T24\u201348 h in pairwise analysis (T0 PGD3 vs PGD1); precipitous reduction observed after reperfusion in patients with severe PGD."
+          },
+          "core_biological_function": "Pro-inflammatory cytokine.",
+          "relevant_activity_context": "Post-lung transplant reperfusion (T24\u201348h), associated with severe PGD.",
+          "performance_or_health_indicator": "Reduced levels post-reperfusion are associated with severe PGD, potentially corresponding to IL-1Ra elevation."
+        },
+        {
+          "biomarker_name": "IL-10",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Higher",
+            "magnitude_quantification": "An increase noted at 6 h that was associated with PGD grade 3 rather than 1."
+          },
+          "core_biological_function": "Anti-inflammatory cytokine.",
+          "relevant_activity_context": "At 6 hours post-lung transplant, associated with PGD grade 3.",
+          "performance_or_health_indicator": "Indicates an association with PGD grade 3 severity."
+        },
+        {
+          "biomarker_name": "IL-6",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Lower",
+            "magnitude_quantification": "A decrease associated with the severity of PGD."
+          },
+          "core_biological_function": "Pro-inflammatory cytokine.",
+          "relevant_activity_context": "Post-lung transplant, associated with the severity of PGD.",
+          "performance_or_health_indicator": "Indicates an association with PGD severity."
+        },
+        {
+          "biomarker_name": "TNF-\u03b1",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Lower",
+            "magnitude_quantification": "A decrease associated with the severity of PGD."
+          },
+          "core_biological_function": "Pro-inflammatory cytokine.",
+          "relevant_activity_context": "Post-lung transplant, associated with the severity of PGD.",
+          "performance_or_health_indicator": "Indicates an association with PGD severity."
+        },
+        {
+          "biomarker_name": "sRAGE",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Varied (lower pre-transplant, higher post-transplant)",
+            "magnitude_quantification": "Lower levels in pre-transplant samples in patients with greater PGD severity. Increased in postoperative samples at T24\u201372 h. Correlation between sRAGE levels and PGD severity in one of 12 pairwise comparisons."
+          },
+          "core_biological_function": "Marker of lung epithelial cell injury.",
+          "relevant_activity_context": "Pre-transplant and post-operative (T24\u201372 h) lung transplant, associated with PGD severity.",
+          "performance_or_health_indicator": "Indicates lung epithelial cell injury and correlates with PGD severity, with varied temporal expression across pre- and post-transplant phases."
+        },
+        {
+          "biomarker_name": "PAI-1",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Varied (downregulated/upregulated at T0, no significant post-T0 trends)",
+            "magnitude_quantification": "Levels were different in pairwise comparison only at 6-h time point. Downregulated when comparing PGD2 versus 1 at T0 and upregulated when comparing PGD3 versus 2 at T0. No significant differences in sensitivity or temporal analyses for overall PGD development."
+          },
+          "core_biological_function": "Marker of endothelial dysfunction.",
+          "relevant_activity_context": "Pre-transplant (T0) and 6 hours post-lung transplant, associated with PGD grades.",
+          "performance_or_health_indicator": "Indicates endothelial dysfunction, with inconsistent and time-point specific correlation to PGD severity, not a strong general predictor in this study."
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,220 @@
+[
+  {
+    "title": "pmc Cancer Biol Ther Cancer Biol Ther Cancer Biology & Therapy 1538-4047 1555-8576 Taylor & Francis 11123456 38782896 10.1080/15384047.2024.2355703 2355703 Version of Record Research Article Research Paper eIf3a mediates malignant biological behaviors in colorectal cancer through the PI3K/AKT signaling pathway C. HUO ET AL. CANCER BIOLOGY & THERAPY Huo Chao a * Wu Disheng a * Li Xiaodan b Zhang Yan c Hu Baoguang d Zhang Taoming b Ren Jianwei e f Wang Tianbao g https://orcid.org/0000-0002-3884-6605 Liu Yi h a Department of Anus and Intestines, Shenzhen Nanshan People\u2019s Hospital , Shenzhen, Guangdong , China b Hongshan Community Hospital, People\u2019s Hospital of Longhua District , Shenzhen , Guangdong , China c Guangdong Provincial Key Laboratory of Research and Development of Natural Drugs, School of Pharmacy, Guangdong Medical University , Dongguan, Guangdong , China d Department of Gastrointestinal Surgery, Binzhou Medical University Hospital , Binzhou , Shandong , China e Centre for Regenerative Medicine and Health, Hong Kong Institute of Science and Innovation, Chinese Academy of Sciences , Hong Kong , China f R&D Department, Shenzhen Ritzcon Biological Technology Co., Ltd ., Shenzhen, Guangdong , China g Department of Gastrointestinal Surgery, South China Hospital of Shenzhen University , Shenzhen, Guangdong , China h School of Ocean and Tropical Medicine, Guangdong Medical University , Zhanjiang, Guangdong , China CONTACT Yi Liu plliu78@sina.com School of Ocean and Tropical Medicine, Guangdong Medical University, Zhanjiang , Guangdong 524023 , China * These authors contributed equally to this work. 23 5 2024 2024 23 5 2024 25 1 2355703 Integra 23 5 2024 Integra 23 5 2024 24 11 2023 10 4 2024 09 5 2024 \u00a9 2024 The Author(s). Published with license by Taylor & Francis Group, LLC. 2024 The Author(s) https://creativecommons.org/licenses/by/4.0/ This is an Open Access article distributed under the terms of the Creative Commons Attribution License ( http://creativecommons.org/licenses/by/4.0/ ), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. The terms on which this article has been published allow the posting of the Accepted Manuscript in a repository by the author(s) or with their consent. ABSTRACT Colorectal cancer (CRC) is among the most common gastrointestinal malignancies worldwide. eIF3a is highly expressed in a variety of cancer types, yet its role in CRC remains unclear. We introduced ectopic eIF3a expression in CRC cells to investigate its relevance to various malignant behaviors. Further, we silenced eIF3a to explore its effect on tumor growth in a nude mouse tumor xenograft model. Finally, the molecular mechanisms through which eIF3a regulates malignancy in CRC cells were explored through bioinformatics analysis combined with the use of a specific PI3K inhibitor (LY294002). eIF3a was highly expressed in the peripheral blood and cancer tissue of CRC patients. Malignancy and tumor growth were significantly inhibited by silencing eIF3a, while overexpression promoted malignant behaviors, with a positive correlation between PI3K/AKT activation and eIF3a expression. Taken together, eIF3a plays an oncogenic role in CRC by regulating PI3K/AKT signaling and is a potential biomarker for CRC diagnosis and prognostic monitoring. KEYWORDS Colorectal cancer e3IFa PI3K/AKT tumor growth malignant behaviors not receive any specific grant This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors. 1. Introduction Colorectal cancer (CRC) is associated with the third highest morbidity and second highest mortality among all cancer types worldwide, 1 seriously affecting patient quality of life. While progress in diagnosis and treatment in recent years has greatly improved the prognosis of CRC patients, prevention and disease management remain suboptimal. As the pathogenesis of CRC is still unclear, elucidating the molecular mechanisms driving CRC occurrence and development is of great significance for the discovery of early diagnostic markers and therapeutic targets. Eukaryotic initiation factor 3a (eIF3a), located on human chromosome 10q26, is the largest and most complex subunit of eukaryotic translation initiation factor 3 (eIF3). 2 Initial studies confirmed that eIF3a not only interacts with eIF3d, eIF3b, eIF3f, eIF3g, eIF3h, eIF3i, eIF3j, and eIF3k of the eIF3 family through its specific RNA domain, 3 , 4 but also with cytokeratin 7, \u03b1-tubulin, nerve growth factor receptor tyrosine kinase TrKA, as well as other proteins and transcripts to regulate gene expression at the translational level. 5 Through its various interactions, eIF3a affects multiple major processes, such as the cell cycle, differentiation, as well as DNA replication and repair. 6 , 7 Haybaeck reported that eIF3a was upregulated in CRC tissue, and its expression was related to tumor stage. 8 However, the molecular mechanisms through which eIF3a regulates CRC occurrence and development remain unknown. In this study, we first analyzed the expression levels of eIF3a in patient peripheral blood and tumor tissue as well as from CRC cell line data in online databases (GEO and CCLE). We then determined the effects of eIF3a knockdown on cell proliferation, apoptosis, and EMT of CRC in vitro and in vivo . Finally, we conducted bioinformatics analysis to explore the underlying mechanism of eIF3a. Our findings indicated that silencing eIF3a inhibited CRC malignancy through a suppression of PI3K/AKT signaling.",
+    "document_source_id": "38782896",
+    "analysis_date": "2025-12-10",
+    "extracted_data": {
+      "document_summary": "This study investigated the role of eukaryotic initiation factor 3a (eIF3a) in colorectal cancer (CRC) progression, confirming its oncogenic function. eIF3a was found to be highly expressed in CRC patients and tissues, promoting malignant behaviors, proliferation, and tumor growth through the PI3K/AKT signaling pathway. Silencing eIF3a inhibited these malignant characteristics, including cell proliferation, migration, invasion, and epithelial-to-mesenchymal transition (EMT), while inducing apoptosis and cell cycle arrest, both in vitro and in vivo, with these effects being mediated by the PI3K/AKT pathway.",
+      "treatment_details": {
+        "therapy_type": "Genetic manipulation of eIF3a expression (silencing/knockdown via siRNA or shRNA, and overexpression) and pharmacological inhibition of the PI3K/AKT pathway.",
+        "dose_specificity": "eIF3a silencing was performed using si-eIF3a transfection or stable shRNA transduction in CRC cells (SW620, DLD-1), and in a nude mouse tumor xenograft model. Specific siRNA sequences were 5\u2032-GCGAUCAUCCUGGCGUAAUTT-3\u2032 (sense) and 5\u2032-AUUACGCCAGGAUGAUCGCTT\u22123\u2032 (antisense). eIF3a overexpression used sh-eIF3a/h-eIF3a plasmids in CRC cells. Stable eIF3a knockout cells were selected with puromycin (5 \u00b5g/mL for 7 days, then 1 \u00b5g/mL for 7 days). For xenograft models, 2 \u00d7 10^6 stable eIF3a knockout or control SW620 cells were subcutaneously injected per mouse. A specific PI3K inhibitor, LY294002, was used in combination with eIF3a modifications in CRC cells. No dose-response comparisons for eIF3a modulation were reported, but rather comparisons between manipulated and control groups."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "eIF3a",
+          "measured_tissue_or_fluid": "Peripheral blood, patient colorectal tumor tissues, paracancerous tissues, human colorectal cancer cell lines (HCT116, SW620, HT29, DLD-1), colonic epithelial cells (HcoEpic), and nude mouse xenograft tumor tissues.",
+          "activity_type": "Gene Transcript (mRNA) and Protein Level (expression, IHC staining, western blotting).",
+          "measured_effect": {
+            "direction_of_change": "Higher in CRC patient peripheral blood, tumor tissues, and CRC cell lines compared to normal tissues/cells; Lower after silencing; Higher after overexpression.",
+            "magnitude_quantification": "Highly expressed in peripheral blood (p < 0.01, log FC = 3.03) and significantly upregulated (p < .01) in patient tumor tissues and CRC cell lines (HCT116, SW620, HT29, DLD-1) compared to normal tissues/HcoEpic cells (mRNA fold change > 1.5). mRNA and protein levels significantly decreased (p < .01) after si-eIF3a transfection and in sh-eIF3a mice tumor tissues; overexpression significantly increased mRNA and protein expression (p < .01). Silencing significantly inhibited malignant behaviors and tumor growth, while overexpression promoted them, with a positive correlation between PI3K/AKT activation and eIF3a expression."
+          },
+          "core_biological_function": "Largest subunit of eukaryotic translation initiation factor 3 (eIF3), fundamentally involved in protein synthesis and translational regulation of gene expression. It acts as a proto-oncogene in CRC, affecting the cell cycle, cell differentiation, DNA synthesis and repair, and promoting malignant behaviors and migration through mechanisms involving Cdc42 and RhoA, and regulation of the PI3K/AKT signaling pathway.",
+          "relevant_activity_context": "Colorectal cancer (CRC) occurrence, development, and progression; observed in patient tumor tissues and peripheral blood; manipulation (silencing or overexpression) in CRC cell lines (in vitro) and nude mouse xenograft models (in vivo); interaction with the PI3K/AKT signaling pathway.",
+          "performance_or_health_indicator": "Upregulation is associated with CRC occurrence, development, and malignancy, correlating with tumor metastasis and overall survival. It serves as a potential biomarker for CRC diagnosis and prognostic monitoring. Silencing eIF3a inhibits CRC cell proliferation, induces apoptosis, blocks cell cycle progression, suppresses EMT, and reduces tumor growth in vivo, suggesting its potential as a therapeutic target. Conversely, overexpression enhances these malignant characteristics."
+        },
+        {
+          "biomarker_name": "PI3K/AKT signaling pathway activity",
+          "measured_tissue_or_fluid": "Colorectal cancer (CRC) cells (SW620, DLD-1).",
+          "activity_type": "Pathway Activity (measured by phosphorylation levels of p-PI3K and p-AKT).",
+          "measured_effect": {
+            "direction_of_change": "Positively correlated with eIF3a expression; significantly higher with eIF3a overexpression; significantly lower with eIF3a silencing or PI3K inhibitor LY294002 treatment; eIF3a overexpression reversed LY294002's inhibitory effect.",
+            "magnitude_quantification": "Activation levels of p-PI3K and p-AKT are positively correlated with eIF3a expression. A significant increase (p < .01) in p-PI3K and p-AKT was observed with eIF3a overexpression. Conversely, a significant decrease (p < .01) in p-PI3K and p-AKT occurred with eIF3a silencing or LY294002 treatment. Combined eIF3a silencing and LY294002 treatment showed significantly reduced phosphorylation (p < .01), while eIF3a overexpression reversed the inhibitory impact of LY294002 (p < .01)."
+          },
+          "core_biological_function": "A critical signaling pathway controlling cell growth, proliferation, survival, differentiation, apoptosis, invasion, metastasis, and epithelial-mesenchymal transition (EMT). Its phosphorylation indicates activation, mediating malignant biological behaviors in colorectal cancer and acting as a downstream regulator of eIF3a's oncogenic effects.",
+          "relevant_activity_context": "eIF3a-mediated colorectal cancer (CRC) malignancy, including cell proliferation, apoptosis, migration, and EMT. Its activity is modulated by eIF3a expression (silencing or overexpression) and pharmacological inhibition with LY294002 in CRC cells.",
+          "performance_or_health_indicator": "Dysregulation of this pathway is common in tumors; its activation is strongly associated with increased CRC malignancy, proliferation, and tumor growth. Inhibition of PI3K/AKT activity, either through eIF3a silencing or pharmacological inhibitors like LY294002, suppresses CRC malignant behaviors. The synergistic effects suggest that eIF3a acts primarily through this pathway, making it a crucial target for CRC therapy, and its activity serves as an indicator of CRC progression and therapeutic response."
+        },
+        {
+          "biomarker_name": "Cell growth/proliferation",
+          "measured_tissue_or_fluid": "SW620 and DLD-1 colorectal cancer (CRC) cells (in vitro assays like cell growth and colony formation) and nude mouse xenograft models (tumor volume).",
+          "activity_type": "Cellular proliferation (cell growth assay, colony formation assay) and in vivo tumor growth/volume measurement.",
+          "measured_effect": {
+            "direction_of_change": "Significantly inhibited by eIF3a silencing; significantly enhanced by eIF3a overexpression; further suppressed by combined eIF3a silencing and LY294002; eIF3a overexpression reversed LY294002's inhibitory effect.",
+            "magnitude_quantification": "Significantly inhibited (p < .01) in CRC cells and xenograft models upon eIF3a silencing, leading to significantly slower tumor growth and smaller tumor volume (p < .01). Conversely, eIF3a overexpression significantly enhanced proliferation (p < .01). A more pronounced suppression (p < .01) was observed with combined eIF3a silencing and LY294002, and eIF3a overexpression reversed LY294002's inhibitory effect (p < .01)."
+          },
+          "core_biological_function": "Fundamental cellular process for cell division and growth, which is dysregulated and uncontrolled in cancer, driving tumor expansion.",
+          "relevant_activity_context": "eIF3a silencing or overexpression in CRC cells (in vitro) and xenograft models (in vivo), and in combination with PI3K/AKT inhibitor LY294002.",
+          "performance_or_health_indicator": "This biomarker indicates the rate of cancer progression; inhibition suggests suppressed malignancy and a positive therapeutic outcome, while enhancement indicates promotion of cancer growth. Its modulation by eIF3a, and interaction with the PI3K/AKT pathway, confirms eIF3a's role in driving CRC malignancy."
+        },
+        {
+          "biomarker_name": "Cell cycle progression (G2 phase)",
+          "measured_tissue_or_fluid": "SW620 and DLD-1 CRC cells.",
+          "activity_type": "Cell cycle analysis (flow cytometry).",
+          "measured_effect": {
+            "direction_of_change": "blocked",
+            "magnitude_quantification": "Cells in si-eIF3a group were blocked at the G2 phase (p < .01); prolonged cell cycle duration (p < .01) in stably silenced cells."
+          },
+          "core_biological_function": "Regulates cell division, ensuring proper cell replication. G2 phase arrest inhibits cell division.",
+          "relevant_activity_context": "Silencing eIF3a in CRC cells.",
+          "performance_or_health_indicator": "G2 phase arrest inhibits cancer cell proliferation, suggesting a potential therapeutic mechanism against CRC."
+        },
+        {
+          "biomarker_name": "Cell cycle duration",
+          "measured_tissue_or_fluid": "SW620 and DLD-1 CRC cells.",
+          "activity_type": "Cell cycle analysis.",
+          "measured_effect": {
+            "direction_of_change": "shortened",
+            "magnitude_quantification": "Shortened cell cycle duration (p < .05) upon eIF3a overexpression."
+          },
+          "core_biological_function": "The time required for a cell to complete one round of division.",
+          "relevant_activity_context": "Overexpression of eIF3a in CRC cells.",
+          "performance_or_health_indicator": "Shortened cell cycle duration indicates accelerated cell division, contributing to enhanced cancer cell proliferation."
+        },
+        {
+          "biomarker_name": "Cyclin D1",
+          "measured_tissue_or_fluid": "SW620 and DLD-1 CRC cells.",
+          "activity_type": "Protein expression level.",
+          "measured_effect": {
+            "direction_of_change": "Significantly reduced by eIF3a silencing; significantly increased by eIF3a overexpression.",
+            "magnitude_quantification": "Expression was significantly reduced (p < .01) upon eIF3a silencing and significantly increased (p < .01) upon eIF3a overexpression."
+          },
+          "core_biological_function": "Cell cycle regulator, promotes progression through the G1 phase and entry into the S phase.",
+          "relevant_activity_context": "eIF3a silencing or overexpression in CRC cells.",
+          "performance_or_health_indicator": "Reduction indicates inhibition of cell cycle progression, contributing to suppressed cancer cell proliferation, while an increase promotes it."
+        },
+        {
+          "biomarker_name": "Apoptosis rate",
+          "measured_tissue_or_fluid": "SW620 and DLD-1 CRC cells.",
+          "activity_type": "Cellular apoptosis (flow cytometry, Hoechst-33,342 staining).",
+          "measured_effect": {
+            "direction_of_change": "Significantly higher with eIF3a silencing; significantly lower with eIF3a overexpression.",
+            "magnitude_quantification": "Significantly greater (p < .01) in eIF3a-silenced cells, and significantly lower (p < .05) upon eIF3a overexpression."
+          },
+          "core_biological_function": "Programmed cell death, crucial for removing damaged or cancerous cells.",
+          "relevant_activity_context": "eIF3a silencing or overexpression in CRC cells.",
+          "performance_or_health_indicator": "Increased apoptosis indicates induction of cancer cell death, a desirable therapeutic outcome, while lower apoptosis promotes malignancy."
+        },
+        {
+          "biomarker_name": "Cleaved caspase-3",
+          "measured_tissue_or_fluid": "SW620 and DLD-1 CRC cells.",
+          "activity_type": "Protein expression level.",
+          "measured_effect": {
+            "direction_of_change": "Increased by eIF3a silencing; downregulated by eIF3a overexpression.",
+            "magnitude_quantification": "Expression was increased (p < .01) upon eIF3a silencing and downregulated (p < .01) upon eIF3a overexpression."
+          },
+          "core_biological_function": "An executioner caspase, a key enzyme in the apoptotic pathway, responsible for cell dismantling.",
+          "relevant_activity_context": "eIF3a silencing or overexpression in CRC cells.",
+          "performance_or_health_indicator": "Increased levels indicate activation of the apoptotic cascade and induction of cancer cell death; downregulation indicates inhibition of apoptosis."
+        },
+        {
+          "biomarker_name": "Cleaved caspase-9",
+          "measured_tissue_or_fluid": "SW620 and DLD-1 CRC cells.",
+          "activity_type": "Protein expression level.",
+          "measured_effect": {
+            "direction_of_change": "Increased by eIF3a silencing; downregulated by eIF3a overexpression.",
+            "magnitude_quantification": "Expression was increased (p < .01) upon eIF3a silencing and downregulated (p < .01) upon eIF3a overexpression."
+          },
+          "core_biological_function": "An initiator caspase, a key enzyme in the intrinsic apoptotic pathway.",
+          "relevant_activity_context": "eIF3a silencing or overexpression in CRC cells.",
+          "performance_or_health_indicator": "Increased levels indicate activation of the intrinsic apoptotic cascade and induction of cancer cell death; downregulation indicates inhibition of apoptosis."
+        },
+        {
+          "biomarker_name": "Bax",
+          "measured_tissue_or_fluid": "SW620 and DLD-1 CRC cells.",
+          "activity_type": "Protein expression level.",
+          "measured_effect": {
+            "direction_of_change": "Increased by eIF3a silencing; downregulated by eIF3a overexpression.",
+            "magnitude_quantification": "Expression was increased (p < .01) upon eIF3a silencing and downregulated (p < .01) upon eIF3a overexpression."
+          },
+          "core_biological_function": "Pro-apoptotic protein, promotes apoptosis by inducing mitochondrial outer membrane permeabilization.",
+          "relevant_activity_context": "eIF3a silencing or overexpression in CRC cells.",
+          "performance_or_health_indicator": "Increased levels indicate promotion of apoptosis; downregulation indicates inhibition of apoptosis."
+        },
+        {
+          "biomarker_name": "Bcl-2",
+          "measured_tissue_or_fluid": "SW620 and DLD-1 CRC cells.",
+          "activity_type": "Protein expression level.",
+          "measured_effect": {
+            "direction_of_change": "Decreased by eIF3a silencing; increased by eIF3a overexpression.",
+            "magnitude_quantification": "Expression was decreased (p < .01) upon eIF3a silencing and increased (p < .01) upon eIF3a overexpression."
+          },
+          "core_biological_function": "Anti-apoptotic protein, inhibits apoptosis by preventing the release of pro-apoptotic factors from mitochondria.",
+          "relevant_activity_context": "eIF3a silencing or overexpression in CRC cells.",
+          "performance_or_health_indicator": "Decreased levels contribute to cancer cell death, while increased levels promote cancer cell survival."
+        },
+        {
+          "biomarker_name": "Cellular motility, migration, invasion",
+          "measured_tissue_or_fluid": "SW620 and DLD-1 CRC cells.",
+          "activity_type": "Cellular activity (motility, migration assay, invasion based on basement membrane crossing).",
+          "measured_effect": {
+            "direction_of_change": "Significantly reduced by eIF3a silencing; significantly increased by eIF3a overexpression.",
+            "magnitude_quantification": "Motility, migration, and invasion were significantly reduced (p < .01 or p < .05) upon eIF3a silencing, and significantly increased (p < .01) upon eIF3a overexpression."
+          },
+          "core_biological_function": "Processes involved in tumor cell dissemination and metastasis.",
+          "relevant_activity_context": "eIF3a silencing or overexpression in CRC cells.",
+          "performance_or_health_indicator": "Reduction indicates inhibition of epithelial-to-mesenchymal transition (EMT) and metastatic potential of CRC cells; increase indicates promotion of EMT and enhanced metastatic potential."
+        },
+        {
+          "biomarker_name": "N-cadherin",
+          "measured_tissue_or_fluid": "SW620 and DLD-1 CRC cells.",
+          "activity_type": "Protein expression level.",
+          "measured_effect": {
+            "direction_of_change": "Decreased by eIF3a silencing; increased by eIF3a overexpression.",
+            "magnitude_quantification": "Expression was decreased (p < .01) upon eIF3a silencing and increased (p < .01) upon eIF3a overexpression."
+          },
+          "core_biological_function": "Mesenchymal marker, involved in cell-cell adhesion and a hallmark of EMT.",
+          "relevant_activity_context": "eIF3a silencing or overexpression in CRC cells.",
+          "performance_or_health_indicator": "Decreased levels indicate inhibition of EMT and reduced metastatic potential; increased levels indicate promotion of EMT and enhanced metastatic potential."
+        },
+        {
+          "biomarker_name": "Vimentin",
+          "measured_tissue_or_fluid": "SW620 and DLD-1 CRC cells.",
+          "activity_type": "Protein expression level.",
+          "measured_effect": {
+            "direction_of_change": "Decreased by eIF3a silencing; increased by eIF3a overexpression.",
+            "magnitude_quantification": "Expression was decreased (p < .01) upon eIF3a silencing and increased (p < .01) upon eIF3a overexpression."
+          },
+          "core_biological_function": "Mesenchymal marker, involved in cell structural integrity and a hallmark of EMT.",
+          "relevant_activity_context": "eIF3a silencing or overexpression in CRC cells.",
+          "performance_or_health_indicator": "Decreased levels indicate inhibition of EMT and reduced metastatic potential; increased levels indicate promotion of EMT and enhanced metastatic potential."
+        },
+        {
+          "biomarker_name": "E-cadherin",
+          "measured_tissue_or_fluid": "SW620 and DLD-1 CRC cells.",
+          "activity_type": "Protein expression level.",
+          "measured_effect": {
+            "direction_of_change": "Upregulated by eIF3a silencing; downregulated by eIF3a overexpression.",
+            "magnitude_quantification": "Expression was upregulated (p < .01) upon eIF3a silencing and downregulated (p < .01) upon eIF3a overexpression."
+          },
+          "core_biological_function": "Epithelial marker, involved in cell-cell adhesion. Loss is a characteristic of EMT.",
+          "relevant_activity_context": "eIF3a silencing or overexpression in CRC cells.",
+          "performance_or_health_indicator": "Upregulation indicates inhibition of EMT, maintaining epithelial characteristics and reducing metastatic potential; downregulation indicates promotion of EMT and enhanced metastatic potential."
+        },
+        {
+          "biomarker_name": "Cdc42",
+          "measured_tissue_or_fluid": "CRC cells (implied, at the translational level).",
+          "activity_type": "Protein Expression Level.",
+          "measured_effect": {
+            "direction_of_change": "Higher (upregulated).",
+            "magnitude_quantification": "eIF3a 'can promote the migration of CRC by upregulating Cdc42 expression'. No specific numerical quantification provided."
+          },
+          "core_biological_function": "Mediates cell migration.",
+          "relevant_activity_context": "eIF3a-promoted migration of CRC.",
+          "performance_or_health_indicator": "Associated with promoting CRC migration, as its upregulation by eIF3a contributes to this process."
+        },
+        {
+          "biomarker_name": "RhoA",
+          "measured_tissue_or_fluid": "CRC cells (implied, at the translational level).",
+          "activity_type": "Protein Expression Level.",
+          "measured_effect": {
+            "direction_of_change": "Higher (upregulated).",
+            "magnitude_quantification": "eIF3a 'can promote the migration of CRC by upregulating RhoA expression'. No specific numerical quantification provided."
+          },
+          "core_biological_function": "Mediates cell migration.",
+          "relevant_activity_context": "eIF3a-promoted migration of CRC.",
+          "performance_or_health_indicator": "Associated with promoting CRC migration, as its upregulation by eIF3a contributes to this process."
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,316 @@
+[
+  {
+    "title": "pmc JCI Insight JCI Insight JCI Insight JCI Insight 2379-3708 American Society for Clinical Investigation 11383357 38973610 176383 10.1172/jci.insight.176383 Research Article Protein biomarker signature in patients with spinal and bulbar muscular atrophy Tebbenkamp Andrew T.N. 1 Huggett Spencer B. spencer@nidobio.com 1 Lombardi Vittoria v.lombardi@ucl.ac.uk 2 Zampedri Luca l.zampedri@ucl.ac.uk 2 AlQahtani Abdullah abdullah.alqahtani@nih.gov 3 Kokkinis Angela akokkinis@nih.gov 3 Malaspina Andrea a.malaspina@ucl.ac.uk 2 Rinaldi Carlo rinaldic@ninds.nih.gov 4 Grunseich Christopher christopher.grunseich@nih.gov 3 https://orcid.org/0000-0002-8762-8188 Fratta Pietro p.fratta@ucl.ac.uk 2 Viglietta Vissia Vissia@nidobio.com 1 1 Nido Biosciences, Inc., Boston, Massachusetts, USA. 2 University College London (UCL), London, United Kingdom. 3 Neurogenetics Branch, National Institute of Neurological Disease and Stroke, National Institutes of Health, Bethesda, Maryland, USA. 4 Institute of Developmental and Regenerative Medicine, University of Oxford, Oxford, United Kingdom. Address correspondence to: Vissia Viglietta, 321 Harrison Ave., Boston, Massachusetts 02118, USA. Phone: 617.435.7941; Email: vissia@nidobio.com . Authorship note: ATNT and SBH are co\u2013first authors. 30 5 2024 8 7 2024 30 5 2024 9 13 e176383 \u00a9 2024 Tebbenkamp et al. 2024 Tebbenkamp et al. https://creativecommons.org/licenses/by/4.0/ This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ . This article is available online at https://insight.jci.org/articles/view/176383 Spinal and bulbar muscular atrophy (SBMA) is a slowly progressing disease with limited sensitive biomarkers that support clinical research. We analyzed plasma and serum samples from patients with SBMA and matched healthy controls in multiple cohorts, identifying 40 highly reproducible SBMA-associated proteins out of nearly 3,000 measured. These proteins were robustly enriched in gene sets of skeletal muscle expression and processes related to mitochondria and calcium signaling. Many proteins outperformed currently used clinical laboratory tests (e.g., creatine kinase [CK]) in distinguishing patients from controls and in their correlations with clinical and functional traits in patients. Two of the 40 proteins, Ectodysplasin A2 receptor (EDA2R) and Repulsive guidance molecule A (RGMA), were found to be associated with decreased survival and body weight in a mouse model of SBMA. In summary, we identified what we believe to be a robust and novel set of fluid protein biomarkers in SBMA that are linked with relevant disease features in patients and in a mouse model of disease. Changes in these SBMA-associated proteins could be used as an early predictor of treatment effects in clinical trials. A spinal and bulbar muscular atrophy-associated protein signature correlates with relevant disease features and has potential as an important clinical biomarker of treatment effect. Muscle biology Neuroscience Genetic diseases Neuromuscular disease Proteomics Introduction Spinal and bulbar muscular atrophy (SBMA) is an inherited, slowly progressive neuromuscular disorder with no FDA-approved disease-modifying therapy. Some of its characteristics include muscle weakness and atrophy, loss of motor neurons, metabolic disease, and testicular atrophy ( 1 \u2013 3 ). SBMA is caused by a cytosine-adenine-guanine (CAG) repeat expansion in exon 1 of the androgen receptor gene ( AR ), which is on the X-chromosome. Therefore, SBMA only affects males, while females are carriers ( 4 , 5 ). Healthy individuals have between 9 and 36 CAG repeats, while patients have between 38 and 68 repeats ( 5 , 6 ). Expanded CAG repeats lead to abnormal AR function, involving both gain of toxic functions and loss of function. Mutant AR triggers transcriptional dysregulation, protein aggregation, and other cascading events ( 7 ). With AR expressed in diverse tissues and eliciting multiple toxic mechanisms, disease complexity poses a challenge for identifying fluid biomarkers suitable for tracking disease progression or informing pharmacodynamic effects in clinical settings ( 2 ). The use of biomarkers increases clinical trial success ( 8 ). Sometimes, biomarkers may be the sole reason for FDA approval. For example, the FDA recently granted accelerated approval to the amyotrophic lateral sclerosis therapeutic tofersen (QALSODY), based on its ability to reduce neurofilament light chain (NfL) protein levels in the blood ( 9 ). In SBMA, fluid biomarkers used in clinical studies \u2014 such as CK, creatinine, myoglobin, and liver transaminases ( 10 \u2013 14 ) \u2014 exhibited variability across patient cohorts and inconsistent associations with clinical characteristics and generally failed to track disease progression. Extensive efforts have been made to identify biomarkers to measure disease progression or therapeutic effects in similar complex diseases such as ALS, where the heterogeneity of disease manifestation together with the multiple disease mechanisms involved has hindered the assessment of potential treatments. This has led to the discovery of several promising biomarkers reflecting the different sites of pathology in ALS, such as NfL, which indicates motor neuron degeneration and is currently the biomarker of choice in ALS studies given its abundance and correlation with clinical outcomes ( 15 ). Another biomarker found to be associated with ALS severity was the cardiac troponin T (cTnT), which also prompted investigations in SBMA where this marker was found to be increased in patients with SBMA and correlated with lower limb impairment ( 16 ). The work in ALS and SBMA also highlights the need for more than 1 marker to address the multiple pathophysiological mechanisms of these diseases. The lack of robust biomarkers in SBMA may limit the evaluation of efficacy in interventional trials, and additional studies are needed to identify potential pharmacodynamic biomarkers for interventional trials. This study aimed to uncover novel blood protein biomarkers in SBMA. Protein biomarkers were compared against current clinical laboratory markers and were characterized through gene set analyses, correlations with clinical disease features, and evaluation in a SBMA mouse model. We employed a targeted proteomic approach, harnessing proximity extension assay technology for enhanced multiplexing and sensitivity in protein detection. Our research unveiled proteins with known alterations in SBMA and other neuromuscular diseases, as well as additional proteins that were associated with SBMA, disease characteristics in patients, and a SBMA mouse model.",
+    "document_source_id": "38973610",
+    "analysis_date": "2025-12-10",
+    "extracted_data": {
+      "document_summary": "The study identified a robust signature of 40 novel and reproducible plasma and serum protein biomarkers associated with Spinal and Bulbar Muscular Atrophy (SBMA) in multiple human cohorts and AR113Q mouse models. These proteins, many of which are muscle-enriched, correlated with clinical severity and functional traits, outperformed existing clinical markers like CK, and showed mechanistic links to androgen receptor gene regulation and muscle pathology, indicating their potential as early predictors of treatment effects and for tracking disease progression.",
+      "treatment_details": {
+        "therapy_type": "Biomarker Discovery and Disease Characterization (Observational Study)",
+        "dose_specificity": "This was primarily an observational study focused on biomarker identification and disease characterization in Spinal and Bulbar Muscular Atrophy (SBMA) across human patient cohorts and AR113Q mouse models. No therapeutic interventions or dose comparisons were conducted. Plasma and serum samples were collected from SBMA patients and healthy controls, with protein levels measured using targeted proteomic approaches (Olink platforms). Longitudinal plasma samples were also collected from male AR113Q mice (12-28 weeks of age), and secondary mechanistic analyses included public data from female mice treated with Dihydrotestosterone (DHT) to investigate AR links."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "SBMA-associated protein signature (a set of 40 proteins)",
+          "measured_tissue_or_fluid": "Plasma, Serum",
+          "activity_type": "Protein Level (Abundance)",
+          "measured_effect": {
+            "direction_of_change": "Mixed (many increased, some like RGMA, MSTN, ART3 decreased)",
+            "magnitude_quantification": "40 highly reproducible SBMA-associated proteins identified out of nearly 3,000 measured; robustly enriched in gene sets of skeletal muscle expression, mitochondrial processes, and calcium signaling. The differential abundance was highly correlated across cohorts (r = 0.78, P < 0.0001). Differentiated SBMA patients from controls with an average AUC of 0.94 (SD = 0.06). Many outperformed currently used clinical laboratory tests (e.g., creatine kinase [CK]) in distinguishing patients from controls, with 20 of 40 proteins showing more significant association than CK (P_adj < 4.6 \u00d7 10\u20135) and 31 of 40 proteins showing less variability than CK (coefficient of variation < 49.8%)."
+          },
+          "core_biological_function": "Enriched in gene sets associated with skeletal muscle expression and function, RNA Binding, Mitochondrion, and Calcium Signaling, reflecting disease features in SBMA. Many are enriched in skeletal muscle and tongue tissue expression.",
+          "relevant_activity_context": "Identification in SBMA patients compared to healthy controls (NIH, UCL Discovery, and independent replication cohorts); also investigated in AR113Q preclinical mouse model.",
+          "performance_or_health_indicator": "Potential for use as early predictors of treatment effects in clinical trials and for distinguishing SBMA patients from controls. Correlated with clinical and functional traits in patients, including inverse correlation with 'walking' and 'stairs' subscales of SBMAFRS and 6MWT, indicating higher levels correlate with increased disease severity and lower limb impairment; also correlated with thigh MRI muscle fat fraction (MFF)."
+        },
+        {
+          "biomarker_name": "Ectodysplasin A2 receptor (EDA2R/Eda2r, Xedar, Tnfrsf27)",
+          "measured_tissue_or_fluid": "Plasma (AR113Q mice); Blood (SBMA patients, inferred)",
+          "activity_type": "Protein Level (Abundance)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly increased in AR113Q mice (P = 5.47 \u00d7 10\u20137). Associated with decreased survival and body weight in a mouse model of SBMA."
+          },
+          "core_biological_function": "Single-pass transmembrane receptor of the TNF family, located near AR on the X-chromosome. Involved in skin appendage development, aging, inflammation, and cellular processes leading to muscle atrophy.",
+          "relevant_activity_context": "SBMA patient biomarker, validated in an SBMA mouse model (AR113Q mice) where it was significantly increased.",
+          "performance_or_health_indicator": "Higher levels are associated with reduced body weight and earlier mortality in AR113Q mice, suggesting it is a biomarker for disease severity and progression. May indicate heightened inflammation, muscle atrophy, and accelerated aging in SBMA."
+        },
+        {
+          "biomarker_name": "Repulsive Guidance Molecule A (RGMA/Rgma)",
+          "measured_tissue_or_fluid": "Plasma (AR113Q mice and SBMA patients)",
+          "activity_type": "Protein Level (Abundance)",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Decreased in patients with SBMA compared to healthy controls. Associated with decreased survival and body weight in a mouse model of SBMA. Showed changes over approximately 1 year in longitudinal follow-up, and decreases over time in SBMA patients. Significantly correlated with higher thigh MRI muscle fat fraction (MFF)."
+          },
+          "core_biological_function": "GPI-anchored glycoprotein functioning as a guidance molecule involved in nervous system development and maintenance, myoblast fusion, and myotube hypertrophy, with tissue-dependent roles in cellular adhesion or repulsion. Part of a protein signature linked to SBMA disease features.",
+          "relevant_activity_context": "SBMA patient biomarker, validated in an SBMA mouse model (AR113Q mice), and observed in longitudinal follow-up of SBMA patients.",
+          "performance_or_health_indicator": "Associated with lower body weight and premature death in AR113Q mice. Correlates with muscular fat content in the lower limbs of patients with SBMA, suggesting a role as a valuable biomarker for disease progression and muscle pathology. Dynamic marker over time."
+        },
+        {
+          "biomarker_name": "Creatine kinase (CK)",
+          "measured_tissue_or_fluid": "Plasma, Serum (Fluid from clinical laboratory test)",
+          "activity_type": "Enzyme Activity / Protein Level (Clinical Laboratory Test)",
+          "measured_effect": {
+            "direction_of_change": "higher (but inconsistent)",
+            "magnitude_quantification": "Significantly different between SBMA and controls (P_adj < 0.05). However, exhibited variability across patient cohorts and inconsistent associations with clinical characteristics; generally failed to track disease progression. Did not correlate with any functional readout in patients with SBMA."
+          },
+          "core_biological_function": "Enzyme involved in energy metabolism within muscle cells. Common clinical marker, typically indicative of muscle damage.",
+          "relevant_activity_context": "Existing fluid biomarker used in SBMA clinical studies. Assessed in adult male patients with SBMA compared to age-matched healthy controls (NIH cohort).",
+          "performance_or_health_indicator": "Clinical biomarker for neuromuscular disorders; indicates muscle damage but has lower sensitivity, higher variability, and limited utility for tracking disease progression or correlating with functional outcomes in SBMA compared to novel biomarkers."
+        },
+        {
+          "biomarker_name": "Creatinine",
+          "measured_tissue_or_fluid": "Plasma, Serum (Fluid from clinical laboratory test)",
+          "activity_type": "Metabolite Concentration (Clinical Laboratory Test)",
+          "measured_effect": {
+            "direction_of_change": "decreased",
+            "magnitude_quantification": "Significantly different between SBMA and controls (P_adj < 0.05). Decreased abundance in plasma and significantly correlated with higher thigh MRI muscle fat fraction (MFF). Showed correlations with SBMA muscle MRI and the SBMAFRS."
+          },
+          "core_biological_function": "Waste product from muscle metabolism; typically indicates kidney function but also influenced by muscle mass.",
+          "relevant_activity_context": "Existing fluid biomarker used in SBMA clinical studies. Assessed in adult male patients with SBMA compared to age-matched healthy controls (NIH cohort).",
+          "performance_or_health_indicator": "Indicates muscle atrophy and fat infiltration in SBMA, correlating with disease severity, muscle MRI findings, and functional assessments (SBMAFRS)."
+        },
+        {
+          "biomarker_name": "Myoglobin (MB)",
+          "measured_tissue_or_fluid": "Blood (SBMA patients, inferred plasma/serum)",
+          "activity_type": "Protein Level / Clinical Laboratory Test",
+          "measured_effect": {
+            "direction_of_change": "higher (but inconsistent for tracking)",
+            "magnitude_quantification": "Abnormally high in 100% of patients with SBMA. However, exhibited variability across patient cohorts and inconsistent associations with clinical characteristics; generally failed to track disease progression."
+          },
+          "core_biological_function": "Muscle-enriched protein involved in oxygen storage in muscle tissue. Common clinical marker, typically indicative of muscle damage.",
+          "relevant_activity_context": "Existing fluid biomarker used in SBMA clinical studies. Increased in patients with SBMA, as well as other muscle degenerative disorders like DMD and FSHD.",
+          "performance_or_health_indicator": "A strong indicator of muscle degenerative disorders, specifically distinguishing SBMA (high in 100% of patients) from ALS. However, its utility for tracking disease progression or reliably correlating with clinical characteristics in SBMA is limited."
+        },
+        {
+          "biomarker_name": "Alanine transaminase (ALT)",
+          "measured_tissue_or_fluid": "Plasma, Serum (clinical laboratory test)",
+          "activity_type": "Enzyme Activity",
+          "measured_effect": {
+            "direction_of_change": "different",
+            "magnitude_quantification": "Significantly different between SBMA and controls (P_adj < 0.05)."
+          },
+          "core_biological_function": "Enzyme primarily found in the liver, indicating liver health or damage when elevated.",
+          "relevant_activity_context": "Adult male patients with SBMA compared to age-matched healthy controls (NIH cohort).",
+          "performance_or_health_indicator": "General health indicator; differences linked to SBMA may suggest hepatic involvement or secondary effects of the disease."
+        },
+        {
+          "biomarker_name": "Aspartate transaminase (AST)",
+          "measured_tissue_or_fluid": "Plasma, Serum (clinical laboratory test)",
+          "activity_type": "Enzyme Activity",
+          "measured_effect": {
+            "direction_of_change": "different",
+            "magnitude_quantification": "Significantly different between SBMA and controls (P_adj < 0.05)."
+          },
+          "core_biological_function": "Enzyme found in various tissues including liver, heart, muscle, and kidney; indicates tissue damage when elevated.",
+          "relevant_activity_context": "Adult male patients with SBMA compared to age-matched healthy controls (NIH cohort).",
+          "performance_or_health_indicator": "Indicates tissue damage; differences linked to SBMA may suggest multi-organ involvement or muscle damage."
+        },
+        {
+          "biomarker_name": "Neurofilament light chain (NfL)",
+          "measured_tissue_or_fluid": "Blood (inferred plasma/serum)",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "unchanged (in SBMA)",
+            "magnitude_quantification": "Did not exhibit differences between SBMA versus control (P_adj > 0.05). In contrast, reduction in NfL protein levels in the blood was the basis for FDA accelerated approval of the ALS therapeutic tofersen (QALSODY)."
+          },
+          "core_biological_function": "Indicates motor neuron degeneration.",
+          "relevant_activity_context": "Biomarker of choice in ALS studies for assessing therapeutic efficacy (e.g., tofersen treatment). Comparison between SBMA patients and controls.",
+          "performance_or_health_indicator": "Indicates motor neuron degeneration and correlates with clinical outcomes in ALS. However, it is not a distinguishing biomarker for SBMA versus control, suggesting that muscle biomarkers may be more indicative of SBMA disease status than neuronal biomarkers."
+        },
+        {
+          "biomarker_name": "Cardiac troponin T (cTnT)",
+          "measured_tissue_or_fluid": "Fluid (implied blood/serum)",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "increased",
+            "magnitude_quantification": "Increased in patients with SBMA. No specific quantitative change provided."
+          },
+          "core_biological_function": "Associated with ALS severity and lower limb impairment in SBMA.",
+          "relevant_activity_context": "Associated with ALS severity; increased in patients with SBMA and correlated with lower limb impairment.",
+          "performance_or_health_indicator": "Indicates ALS severity and correlates with lower limb impairment in SBMA, suggesting a role in neuromuscular pathology."
+        },
+        {
+          "biomarker_name": "Glucose",
+          "measured_tissue_or_fluid": "Plasma, Serum (clinical laboratory test)",
+          "activity_type": "Metabolite Concentration",
+          "measured_effect": {
+            "direction_of_change": "different",
+            "magnitude_quantification": "Significantly different between SBMA and controls (P_adj < 0.05)."
+          },
+          "core_biological_function": "Primary energy source for cells.",
+          "relevant_activity_context": "Adult male patients with SBMA compared to age-matched healthy controls (NIH cohort).",
+          "performance_or_health_indicator": "General health indicator; differences linked to SBMA may suggest metabolic alterations associated with the disease."
+        },
+        {
+          "biomarker_name": "Insulin",
+          "measured_tissue_or_fluid": "Plasma, Serum (clinical laboratory test)",
+          "activity_type": "Hormone Concentration",
+          "measured_effect": {
+            "direction_of_change": "different",
+            "magnitude_quantification": "Significantly different between SBMA and controls (P_adj < 0.05)."
+          },
+          "core_biological_function": "Hormone that regulates blood glucose levels by promoting glucose uptake by cells.",
+          "relevant_activity_context": "Adult male patients with SBMA compared to age-matched healthy controls (NIH cohort).",
+          "performance_or_health_indicator": "General health indicator; differences linked to SBMA may suggest impaired glucose metabolism or insulin sensitivity."
+        },
+        {
+          "biomarker_name": "MSTN",
+          "measured_tissue_or_fluid": "Plasma (protein level); Skeletal Muscle (gene transcript)",
+          "activity_type": "Protein Level (Abundance) / Gene Transcript",
+          "measured_effect": {
+            "direction_of_change": "Lower (protein level); Downregulated (gene transcript)",
+            "magnitude_quantification": "Protein decreased in patients with SBMA. Protein significantly correlated with higher thigh MRI muscle fat fraction (MFF). Gene expression altered (downregulated as one of the 5 most affected genes) in Ar-KO mice after DHT administration."
+          },
+          "core_biological_function": "Gene regulated by AR; involved in regulating muscle growth and differentiation.",
+          "relevant_activity_context": "Adult male patients with SBMA compared to age-matched healthy controls (UCL, NIH cohorts); gene expression in skeletal muscle from Ar-KO mice after DHT administration.",
+          "performance_or_health_indicator": "Indicates presence of SBMA and correlates with muscle fat infiltration; potentially directly regulated by AR, linking it to SBMA pathogenesis."
+        },
+        {
+          "biomarker_name": "ART3",
+          "measured_tissue_or_fluid": "Plasma (protein level); Skeletal Muscle (gene transcript); Testis (tissue expression)",
+          "activity_type": "Protein Level (Abundance) / Gene Transcript",
+          "measured_effect": {
+            "direction_of_change": "Lower (protein level); Downregulated (gene transcript)",
+            "magnitude_quantification": "Protein decreased in patients with SBMA. Protein significantly correlated with higher thigh MRI muscle fat fraction (MFF). Gene expression altered (downregulated as one of the 5 most affected genes) in Ar-KO mice after DHT administration."
+          },
+          "core_biological_function": "Expressed in testis; gene regulated by AR.",
+          "relevant_activity_context": "Adult male patients with SBMA compared to age-matched healthy controls (UCL, NIH cohorts); gene expression in skeletal muscle from Ar-KO mice after DHT administration.",
+          "performance_or_health_indicator": "Indicates presence of SBMA and correlates with muscle fat infiltration; potentially directly regulated by AR, linking it to SBMA pathogenesis."
+        },
+        {
+          "biomarker_name": "MEGF10",
+          "measured_tissue_or_fluid": "Plasma (protein level); Spinal Cord (tissue expression)",
+          "activity_type": "Protein Level (Abundance)",
+          "measured_effect": {
+            "direction_of_change": "changes over time",
+            "magnitude_quantification": "Showed changes over approximately 1 year in longitudinal follow-up (direction not specified but implied to be part of the SBMA proteomic signature)."
+          },
+          "core_biological_function": "Expressed in spinal cord.",
+          "relevant_activity_context": "Adult male patients with SBMA (longitudinal follow-up in UCL cohort).",
+          "performance_or_health_indicator": "Dynamic marker over time in SBMA patients, potentially reflecting disease progression or response to activity."
+        },
+        {
+          "biomarker_name": "Dystrobrevin \u03b2 (DTNB)",
+          "measured_tissue_or_fluid": "Skeletal Muscle (inferred from ChIP data)",
+          "activity_type": "Gene Transcript (AR binding)",
+          "measured_effect": {
+            "direction_of_change": "regulated by AR",
+            "magnitude_quantification": "Gene exhibits highest peak values in AR ChIP data, suggesting strong AR occupancy."
+          },
+          "core_biological_function": "Protein whose gene contains androgen response elements (AREs) and is bound by AR.",
+          "relevant_activity_context": "Primary human skeletal muscle myoblasts (AR ChIP coupled with microarrays).",
+          "performance_or_health_indicator": "Likely to have altered levels in the context of SBMA due to AR regulation, relevant to pathogenesis."
+        },
+        {
+          "biomarker_name": "CAPN3",
+          "measured_tissue_or_fluid": "Skeletal Muscle (inferred from ChIP data)",
+          "activity_type": "Gene Transcript (AR binding)",
+          "measured_effect": {
+            "direction_of_change": "regulated by AR",
+            "magnitude_quantification": "Gene exhibits high peak values in AR ChIP data, suggesting strong AR occupancy."
+          },
+          "core_biological_function": "Protein whose gene contains androgen response elements (AREs) and is bound by AR.",
+          "relevant_activity_context": "Primary human skeletal muscle myoblasts (AR ChIP coupled with microarrays).",
+          "performance_or_health_indicator": "Likely to have altered levels in the context of SBMA due to AR regulation, relevant to pathogenesis."
+        },
+        {
+          "biomarker_name": "DMD",
+          "measured_tissue_or_fluid": "Skeletal Muscle",
+          "activity_type": "Gene Transcript (AR binding and differential expression)",
+          "measured_effect": {
+            "direction_of_change": "regulated by AR; downregulated",
+            "magnitude_quantification": "Gene exhibits high peak values in AR ChIP data, suggesting strong AR occupancy. Gene expression altered (downregulated as one of the 5 most affected genes) in Ar-KO mice after DHT administration."
+          },
+          "core_biological_function": "Gene regulated by AR; encodes dystrophin, a structural protein critical for muscle integrity.",
+          "relevant_activity_context": "Primary human skeletal muscle myoblasts (AR ChIP coupled with microarrays); skeletal muscle from WT and Ar-KO mice after DHT administration.",
+          "performance_or_health_indicator": "Potentially directly regulated by AR, linking it to SBMA pathogenesis and muscle pathology."
+        },
+        {
+          "biomarker_name": "NOS1",
+          "measured_tissue_or_fluid": "Skeletal Muscle",
+          "activity_type": "Gene Transcript",
+          "measured_effect": {
+            "direction_of_change": "downregulated",
+            "magnitude_quantification": "Gene expression altered (downregulated as one of the 5 most affected genes) in Ar-KO mice after DHT administration."
+          },
+          "core_biological_function": "Gene regulated by AR; involved in nitric oxide production, which plays roles in muscle function and blood flow.",
+          "relevant_activity_context": "Skeletal muscle from WT and Ar-KO mice after DHT administration.",
+          "performance_or_health_indicator": "Potentially directly regulated by AR, linking it to SBMA pathogenesis and muscle function."
+        },
+        {
+          "biomarker_name": "TTN",
+          "measured_tissue_or_fluid": "Skeletal Muscle",
+          "activity_type": "Gene Transcript",
+          "measured_effect": {
+            "direction_of_change": "altered expression",
+            "magnitude_quantification": "Gene expression altered in Ar-KO mice after DHT administration. Identified in both AR gene regulation analyses (ChIP and RNA-Seq)."
+          },
+          "core_biological_function": "Gene regulated by AR; encodes Titin, a large protein important for muscle elasticity and structure.",
+          "relevant_activity_context": "Skeletal muscle from WT and Ar-KO mice after DHT administration.",
+          "performance_or_health_indicator": "Potentially directly regulated by AR, linking it to SBMA pathogenesis and muscle integrity."
+        },
+        {
+          "biomarker_name": "MYL1",
+          "measured_tissue_or_fluid": "Skeletal Muscle",
+          "activity_type": "Gene Transcript",
+          "measured_effect": {
+            "direction_of_change": "altered expression",
+            "magnitude_quantification": "Gene expression altered in Ar-KO mice after DHT administration. Identified in both AR gene regulation analyses (ChIP and RNA-Seq)."
+          },
+          "core_biological_function": "Gene regulated by AR; encodes Myosin Light Chain 1, a component of the muscle contractile apparatus.",
+          "relevant_activity_context": "Skeletal muscle from WT and Ar-KO mice after DHT administration.",
+          "performance_or_health_indicator": "Potentially directly regulated by AR, linking it to SBMA pathogenesis and muscle contractile function."
+        },
+        {
+          "biomarker_name": "CA3",
+          "measured_tissue_or_fluid": "Blood (SBMA patients, inferred plasma/serum)",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Increased in muscle degenerative disorders such as DMD and FSHD. Implied to be increased in SBMA as part of the SBMA-associated protein panel."
+          },
+          "core_biological_function": "Muscle-enriched protein.",
+          "relevant_activity_context": "Increased in muscle degenerative disorders, including SBMA.",
+          "performance_or_health_indicator": "Indicates muscle degenerative disorders and is a potential SBMA biomarker."
+        },
+        {
+          "biomarker_name": "FABP3",
+          "measured_tissue_or_fluid": "Blood (SBMA patients, inferred plasma/serum)",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Increased in muscle degenerative disorders such as DMD and FSHD. Implied to be increased in SBMA as part of the SBMA-associated protein panel."
+          },
+          "core_biological_function": "Muscle-enriched protein.",
+          "relevant_activity_context": "Increased in muscle degenerative disorders, including SBMA.",
+          "performance_or_health_indicator": "Indicates muscle degenerative disorders and is a potential SBMA biomarker."
+        },
+        {
+          "biomarker_name": "KLHL41",
+          "measured_tissue_or_fluid": "Blood (SBMA patients, inferred plasma/serum)",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "altered",
+            "magnitude_quantification": "Altered in SBMA; mutations are associated with subtypes of nemaline myopathy. No specific quantification for SBMA provided."
+          },
+          "core_biological_function": "Highly expressed in skeletal muscle.",
+          "relevant_activity_context": "Identified as an SBMA-associated protein, with mutations linked to nemaline myopathy.",
+          "performance_or_health_indicator": "Associated with myodegeneration; potential SBMA biomarker connecting to myopathy."
+        },
+        {
+          "biomarker_name": "NEB",
+          "measured_tissue_or_fluid": "Blood (SBMA patients, inferred plasma/serum)",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "altered",
+            "magnitude_quantification": "Altered in SBMA; mutations are associated with subtypes of nemaline myopathy. No specific quantification for SBMA provided."
+          },
+          "core_biological_function": "Highly expressed in skeletal muscle.",
+          "relevant_activity_context": "Identified as an SBMA-associated protein, with mutations linked to nemaline myopathy.",
+          "performance_or_health_indicator": "Associated with myodegeneration; potential SBMA biomarker connecting to myopathy."
+        }
+      ]
+    }
+  }
+]

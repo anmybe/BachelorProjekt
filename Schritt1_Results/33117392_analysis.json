@@ -1,0 +1,148 @@
+[
+  {
+    "title": "Front Immunol Front Immunol Front. Immunol. Frontiers in Immunology 1664-3224 Frontiers Media S.A. 7561365 33117392 10.3389/fimmu.2020.582010 Immunology Original Research Longitudinal Analysis of T and B Cell Receptor Repertoire Transcripts Reveal Dynamic Immune Response in COVID-19 Patients Niu Xuefeng 1 \u2020 Li Song 2 3 \u2020 Li Pingchao 4 Pan Wenjing 3 5 Wang Qian 4 Feng Ying 1 Mo Xiaoneng 6 Yan Qihong 4 Ye Xianmiao 4 Luo Jia 4 Qu Linbing 4 Weber Daniel 3 Byrne-Steele Miranda L. 3 Wang Zhe 2 Yu Fengjia 2 Li Fang 6 Myers Richard M. 5 Lotze Michael T. 7 Zhong Nanshan 1 Han Jian 2 3 5 * Chen Ling 1 4 6 * 1 State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University , Guangzhou , China 2 Jiangsu Industrial Technology Research Institute (JITRI), Applied Adaptome Immunology Institute , Nanjing , China 3 iRepertoire Inc. , Huntsville, AL , United States 4 Guangzhou Regenerative Medicine and Health-Guangdong Laboratory (GRMH-GDL), Guangdong Laboratory of Computational Biomedicine, Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences , Guangzhou , China 5 HudsonAlpha Institute for Biotechnology , Huntsville, AL , United States 6 Guangzhou Eighth People\u2019s Hospital, Guangzhou Medical University , Guangzhou , China 7 Department of Surgery, University of Pittsburgh Medical Center , Pittsburgh, PA , United States Edited by: Lucia Lopalco, San Raffaele Hospital (IRCCS), Italy Reviewed by: Yu Nee Lee, Sheba Medical Center, Israel; James M. Heather, Massachusetts General Hospital and Harvard Medical School, United States *Correspondence: Ling Chen, chen_ling@gibh.ac.cn ; Jian Han, jhan@hudsonalpha.org This article was submitted to Viral Immunology, a section of the journal Frontiers in Immunology \u2020These authors have contributed equally to this work 30 9 2020 2020 30 9 2020 11 582010 10 7 2020 15 9 2020 Copyright \u00a9 2020 Niu, Li, Li, Pan, Wang, Feng, Mo, Yan, Ye, Luo, Qu, Weber, Byrne-Steele, Wang, Yu, Li, Myers, Lotze, Zhong, Han and Chen 2020 Niu, Li, Li, Pan, Wang, Feng, Mo, Yan, Ye, Luo, Qu, Weber, Byrne-Steele, Wang, Yu, Li, Myers, Lotze, Zhong, Han and Chen This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms. Severe COVID-19 is associated with profound lymphopenia and an elevated neutrophil to lymphocyte ratio. We applied a novel dimer avoidance multiplexed polymerase chain reaction next-generation sequencing assay to analyze T (TCR) and B cell receptor (BCR) repertoires. Surprisingly, TCR repertoires were markedly diminished during the early onset of severe disease but recovered during the convalescent stage. Monitoring TCR repertoires could serve as an indicative biomarker to predict disease progression and recovery. Panoramic concurrent assessment of BCR repertoires demonstrated isotype switching and a transient but dramatic early IgA expansion. Dominant B cell clonal expansion with decreased diversity occurred following recovery from infection. Profound changes in T cell homeostasis raise critical questions about the early events in COVID-19 infection and demonstrate that immune repertoire analysis is a promising method for evaluating emergent host immunity to SARS-CoV-2 viral infection, with great implications for assessing vaccination and other immunological therapies. COVID-19 SARS-CoV-2 T cell receptor B cell receptor immune repertoire biomarker National Natural Science Foundation of China-Yunnan Joint Fund 10.13039/501100011002 82041014, 81661148056 Introduction The current outbreak of coronavirus disease (COVID-19) was first reported in Wuhan, China ( 1 , 2 ). The virus, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), is a virus closely related to SARS-CoV, endemic in 2003 ( 3 ). The virus caused low respiratory tract pneumonia, but it also affects multiple organs such as the kidney, liver, brain, gastrointestinal tract, and heart. The virus spreads by respiratory droplets, urine, and feces ( 4 , 5 ). Clinical symptoms of SARS-CoV-2 include fever, cough, shortness of breath, and chest pain. The pneumonia in those with this disease is characterized by bilateral ground-glass opacities identified on chest CT scans ( 4 , 5 ). The majority of COVID-19 patients show mild or moderate symptoms and recover after proper clinical care. However, some COVID-19 patients rapidly develop severe pneumonia, subsequent multi-organ failure, and death ( 6 ). Pathologic examination reveals diffuse alveolar damage, proteinaceous plugs, and a prominent myeloid infiltrate and a paucity of lymphocytes ( 7 \u2013 10 ). Despite global pandemic threats of COVID-19 disease, the host immune response against SARS-CoV-2 infection remains poorly understood. Lymphopenia is common in SARS-CoV-2 infected patients and was found as well as in SARS-CoV and Middle East respiratory syndrome (MERS) patients ( 4 , 6 , 11 ). It has been observed that the counts of total T cells, CD4+ and CD8+ subtype T cells, were dramatically reduced in severe COVID-19 cases with increased expression of programmed death-ligand 1 (PD-1) and T cell immunoglobulin mucin 3 (Tim-3), indicating activation and T cell exhaustion ( 12 ). Monitoring the dynamics of lymphocyte number and phenotype has been suggested as a means to predict the severity of COVID-19 ( 13 ). Older COVID-19 patients with comorbidities are at a particularly high risk of severe pneumonia and death. The diminished T cell repertoire and progressive defects in T cell and B cell function in older patients could limit viral clearance and prolong the innate proinflammatory response ( 14 , 15 ). The human adaptive immune system consists of both na\u00efve and memory cells, which express either cell surface B cell receptors (BCRs) or T cells receptors (TCRs), in aggregate termed the adaptome ( 16 ). Recently, next-generation sequencing (NGS) of BCRs and TCRs have been used widely to evaluate immunity ( 17 \u2013 21 ). Analyzing the full repertoires could provide a better understanding of the immune response to SARS-CoV-2 and other infections. Because all seven of the immune repertoire chains, including IgH (all isotypes), IgK, IgL, TCR-Alpha, Beta chains, and TCR \u2013 Gamma, Delta chains are amplified under the same conditions in one PCR reaction with our method, the expression level of these genes can be directly compared with an inclusive and quantitative pattern ( 16 ). Here, we deeply investigated the peripheral blood repertoire from patients throughout their course of COVID-19 disease, demonstrating dynamic changes over the disease course.",
+    "document_source_id": "33117392",
+    "analysis_date": "2025-12-09",
+    "extracted_data": {
+      "document_summary": "This study longitudinally analyzed T and B cell receptor repertoire transcripts in peripheral blood mononuclear cells (PBMCs) of COVID-19 patients to understand the dynamic immune response across different disease stages compared to healthy controls. Key findings include markedly diminished TCR repertoires (reduced unique TCR reads, TRA, and TRB percentages) during early severe disease, which recovered during convalescence, with TRB expression suggested as a reliable indicator for recovery. BCR repertoires showed increased IgH, IgK, and IgL proportions, isotype switching, a transient but dramatic early IgA expansion, and dominant B cell clonal expansion with decreased diversity following recovery from infection, alongside an early IgM to IgG isotype switch.",
+      "treatment_details": {
+        "therapy_type": "Natural SARS-CoV-2 (COVID-19) infection",
+        "dose_specificity": "The study observed the natural progression of SARS-CoV-2 infection in patients, analyzing peripheral blood mononuclear cell (PBMC) samples at various time points (e.g., D4-7, D8-15, D17-22 after symptom onset) and comparing them to healthy controls. No therapeutic intervention, controlled dose, or dose-response comparisons were administered or investigated; the focus was on the temporal dynamics of the immune response to the infection itself."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "TCR repertoires (including unique TCR reads, TRA, TRB chains)",
+          "measured_tissue_or_fluid": "Peripheral blood mononuclear cells (PBMCs)",
+          "activity_type": "Receptor Repertoire Transcript Analysis (gene transcript expression and diversity)",
+          "measured_effect": {
+            "direction_of_change": "lower, then higher",
+            "magnitude_quantification": "Markedly diminished during the early onset of severe disease but recovered during the convalescent stage. Significantly lower unique TCR reads in COVID-19 patients compared to healthy donors. Dramatically reduced during the early stage of infection (days 4-7) in both moderate and severe cases; recovered during the convalescence stage, with TRB reaching healthy control levels."
+          },
+          "core_biological_function": "Mediate adaptive immune response by recognizing specific antigens; represent the diversity of T cell populations, crucial for T cell-mediated virus clearance.",
+          "relevant_activity_context": "Early onset of severe COVID-19 disease (days 4-7); convalescent stage of COVID-19 infection.",
+          "performance_or_health_indicator": "Serves as an indicative biomarker to predict disease progression and recovery; evaluates emergent host immunity to SARS-CoV-2. Suggests suppression of T cell-mediated immune response during acute COVID-19, with partial but incomplete recovery in convalescence, and TRB expression as a critical indicator for recovery."
+        },
+        {
+          "biomarker_name": "TRA (T-cell receptor alpha chain)",
+          "measured_tissue_or_fluid": "Peripheral blood mononuclear cells (PBMCs)",
+          "activity_type": "Gene Transcript (expression) and percentage in immune repertoire",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Reduced from 28.3% in healthy donors to 4.9% in COVID-19 patients (a 5.8-fold decrease) during early/mid-stage infection (D4-7 and D8-15 groups), increasing in D17-22 group but remaining significantly lower than healthy donors. Initial absence and recovery of expression during convalescence."
+          },
+          "core_biological_function": "A component of the T cell receptor, essential for T cell-mediated immunity and viral clearance.",
+          "relevant_activity_context": "COVID-19 infection (early stage D4-7, mid-stage D8-15, convalescent stage D17-22).",
+          "performance_or_health_indicator": "Suggests suppression of T cell-mediated immune response during acute COVID-19, with partial but incomplete recovery in convalescence. Abnormal expression profile implies T cells undergo acute apoptotic events or leave circulation, contributing to lymphopenia."
+        },
+        {
+          "biomarker_name": "TRB (T-cell receptor beta chain)",
+          "measured_tissue_or_fluid": "Peripheral blood mononuclear cells (PBMCs)",
+          "activity_type": "Gene Transcript (expression) and percentage in immune repertoire",
+          "measured_effect": {
+            "direction_of_change": "reduced then increased (normalized)",
+            "magnitude_quantification": "Reduced from 18.7% in healthy donors to 5.2% in COVID-19 patients (a 3.6-fold decrease) during early/mid-stage infection (D4-7 and D8-15 groups). mRNA expression was low in D4-7 and D8-15 groups, increasing in D17-22 group to levels similar to normal controls, and significantly higher than earlier stages. Extremely low in early disease, gradually increased with improvement, reaching healthy control levels during convalescence."
+          },
+          "core_biological_function": "A component of the T cell receptor, crucial for T cell-mediated immunity and viral clearance.",
+          "relevant_activity_context": "COVID-19 infection (early stage D4-7, mid-stage D8-15, convalescent stage D17-22).",
+          "performance_or_health_indicator": "Indicates suppression of T cell-mediated immune response during acute COVID-19. Its return to normal levels serves as a critical and readily available reference indicator of recovery from SARS-CoV-2 viral infection. Abnormal expression profile implies T cells undergo acute apoptotic events or leave circulation, contributing to lymphopenia."
+        },
+        {
+          "biomarker_name": "CD8+ T cells",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Cell count/level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Decreased in COVID-19 patients, associated with markers of activation and exhaustion."
+          },
+          "core_biological_function": "Cytotoxic T lymphocytes playing a key role in clearing viral infections.",
+          "relevant_activity_context": "COVID-19 infection.",
+          "performance_or_health_indicator": "Early indicator for requiring ICU treatment."
+        },
+        {
+          "biomarker_name": "IgH (Immunoglobulin Heavy chain)",
+          "measured_tissue_or_fluid": "Peripheral blood mononuclear cells (PBMCs)",
+          "activity_type": "Proportion in immune repertoire and clonal expansion",
+          "measured_effect": {
+            "direction_of_change": "higher then reduced (normalized)",
+            "magnitude_quantification": "Higher than healthy donors, rapidly increased as early as day 3 after symptom onset (D4-7 group), maintained higher levels for up to 22 days after infection, gradually reducing as disease diminished. Clonal expansion was evident after two weeks onset of symptoms."
+          },
+          "core_biological_function": "A component of the B cell receptor and antibodies, involved in humoral immunity.",
+          "relevant_activity_context": "COVID-19 infection (early stage, mid-stage, convalescent stage, after two weeks onset of symptoms).",
+          "performance_or_health_indicator": "Indicates an activated B cell immune response during COVID-19 infection, returning to normal levels with disease resolution. Implies a vigorous early B cell response to the novel pathogenic virus."
+        },
+        {
+          "biomarker_name": "IgK (Immunoglobulin Kappa Light chain)",
+          "measured_tissue_or_fluid": "Peripheral blood mononuclear cells (PBMCs)",
+          "activity_type": "Proportion in immune repertoire, gene transcript expression and diversity",
+          "measured_effect": {
+            "direction_of_change": "higher then reduced",
+            "magnitude_quantification": "Higher than healthy donors, showed a slower increase in the D4-7 group, peaked in the D8-15 group, then quickly dropped in the D17-22 group. Diversity was lower than healthy controls, with many dominant clones found, especially in ICU patients in early infection."
+          },
+          "core_biological_function": "A component of the B cell receptor and antibodies, involved in humoral immunity.",
+          "relevant_activity_context": "COVID-19 infection (early stage, mid-stage, convalescent stage), severe disease (ICU patients).",
+          "performance_or_health_indicator": "Indicates B cell activation and potential selection events during COVID-19 infection, with aberrations potentially linked to disease severity. Changes in adaptive immune response, specifically concerning B cell repertoire diversity."
+        },
+        {
+          "biomarker_name": "IgL (Immunoglobulin Lambda Light chain)",
+          "measured_tissue_or_fluid": "Peripheral blood mononuclear cells (PBMCs)",
+          "activity_type": "Proportion in immune repertoire",
+          "measured_effect": {
+            "direction_of_change": "higher then reduced",
+            "magnitude_quantification": "Increased from 8.5% in healthy donors to 23.5% in COVID-19 patients. Rapidly increased as early as day 3 after symptom onset (D4-7 group), maintained for as long as 22 days after infection. Highest on days 4-7 following symptom onset with decreases during the course of the disease."
+          },
+          "core_biological_function": "A component of the B cell receptor and antibodies, involved in humoral immunity.",
+          "relevant_activity_context": "COVID-19 infection (early stage, mid-stage, convalescent stage).",
+          "performance_or_health_indicator": "Indicates B cell activation during COVID-19 infection."
+        },
+        {
+          "biomarker_name": "IgM-expressing B cells / antibodies",
+          "measured_tissue_or_fluid": "Peripheral blood mononuclear cells (PBMCs)",
+          "activity_type": "Percentage, B cell response mobilization, gene transcript levels, antibody titers",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "The median percentage was 19.5% in D4-7 COVID-19 patients and maintained at a lower level throughout the infection, significantly lower than the HD group (43.6%). Expanded transcript levels of IgM expressing-B cells found as early as day 4 in SARS-CoV-2 infection; serologic assessment shows expanded titers appear by days 7-14 following onset."
+          },
+          "core_biological_function": "Primary antibody in the initial immune response, involved in humoral immunity.",
+          "relevant_activity_context": "COVID-19 infection (early stage to recovery stage).",
+          "performance_or_health_indicator": "Indicates an early IgM to IgG isotype switch in response to SARS-CoV-2 infection, crucial for the development of adaptive immunity. IgM helps rapidly diagnose viral infection."
+        },
+        {
+          "biomarker_name": "IgG (Immunoglobulin G) / antibodies",
+          "measured_tissue_or_fluid": "Peripheral blood mononuclear cells (PBMCs)",
+          "activity_type": "Percentage of total IgH expression, B cell response mobilization, gene transcript levels, antibody titers",
+          "measured_effect": {
+            "direction_of_change": "increased",
+            "magnitude_quantification": "Increased by about 10% in early stages of infection (D4-7 group) compared to the HD group, rising to nearly 40% of total IgH expression on the D8-15 group. Serologic assessment shows expanded titers appear by days 7-14 following onset; relative IgG expression levels can be even higher following virus clearance, increasing progressively for more than six months."
+          },
+          "core_biological_function": "Major antibody in the secondary immune response, involved in humoral immunity and long-term protection.",
+          "relevant_activity_context": "COVID-19 infection (early stage, mid-stage) and post-virus clearance.",
+          "performance_or_health_indicator": "Indicates the development of a mature adaptive immune response via an early IgM to IgG isotype switch in response to SARS-CoV-2 infection. IgG indicates persistent affinity maturation within the germinal center after virus clearance."
+        },
+        {
+          "biomarker_name": "IgA (Immunoglobulin A) / IgA expressing B cells / antibodies",
+          "measured_tissue_or_fluid": "Peripheral blood mononuclear cells (PBMCs)",
+          "activity_type": "Receptor Repertoire Transcript Analysis (isotype switching), proportion, B cell expression, antibody levels",
+          "measured_effect": {
+            "direction_of_change": "increased then decreased",
+            "magnitude_quantification": "Increased significantly to 60.1% during early infection (D4-7) compared to 42.6% in the HD group, then significantly decreasing to 43.3% on the D8-15 group. Transient but dramatic early IgA expansion. Predominance of B cells expressing IgA very early following infection; IgA-expressing B cells can be rapidly activated and detectable in the peripheral blood upon infection."
+          },
+          "core_biological_function": "Primary antibody in mucosal immunity and involved in antibody production.",
+          "relevant_activity_context": "Early COVID-19 infection (D4-7, D8-15) and very early following SARS-CoV-2 infection.",
+          "performance_or_health_indicator": "Indicates a transient IgA surge at the early stage of SARS-CoV-2 infection, suggesting rapid mobilization in response to coronavirus, potentially preventing viral-induced pathology. Important for early diagnosis and therapy."
+        },
+        {
+          "biomarker_name": "B cell clonal expansion and diversity",
+          "measured_tissue_or_fluid": "Peripheral blood mononuclear cells (PBMCs)",
+          "activity_type": "Receptor Repertoire Transcript Analysis (clonality and diversity)",
+          "measured_effect": {
+            "direction_of_change": "higher (clonal expansion), lower (diversity)",
+            "magnitude_quantification": "Dominant B cell clonal expansion with decreased diversity occurred following recovery from infection. Many dominant clones and lower diversity compared to healthy controls were found in ICU patients in early infection."
+          },
+          "core_biological_function": "Mediates adaptive immune response by generating diverse antibody-producing cells; indicates the breadth and focus of the B cell response.",
+          "relevant_activity_context": "Following recovery from COVID-19 infection and in ICU patients during early infection.",
+          "performance_or_health_indicator": "Indicates dynamic immune response during COVID-19 recovery; evaluates emergent host immunity to SARS-CoV-2. Changes in adaptive immune response, specifically concerning B cell repertoire diversity."
+        }
+      ]
+    }
+  }
+]
