@@ -1,0 +1,1540 @@
+[
+  {
+    "title": "pmc Biomolecules Biomolecules biomolecules Biomolecules 2218-273X MDPI 10967855 10.3390/biom14030277 biomolecules-14-00277 Review Extracellular Vesicles as Delivery Vehicles for Non-Coding RNAs: Potential Biomarkers for Chronic Liver Diseases Ferro Arianna 1 Saccu Gabriele 1 https://orcid.org/0000-0002-5261-718X Mattivi Simone 1 Gaido Andrea 1 https://orcid.org/0000-0002-5272-6773 Herrera Sanchez Maria Beatriz 2 3 https://orcid.org/0000-0002-2989-121X Haque Shafiul 4 5 6 Silengo Lorenzo 3 https://orcid.org/0000-0002-6238-1860 Altruda Fiorella 3 https://orcid.org/0000-0003-2450-5911 Durazzo Marilena 1 https://orcid.org/0000-0001-6070-6716 Fagoonee Sharmila 7 * Cho William Academic Editor 1 Department of Medical Sciences, University of Turin, 10126 Turin, Italy; arianna.ferro@unito.it (A.F.); gabriele.saccu@unito.it (G.S.); simone.mattivi@unito.it (S.M.); andrea.gaido@unito.it (A.G.); marilena.durazzo@unito.it (M.D.) 2 2i3T, Societ\u00e0 per la Gestione Dell\u2019incubatore di Imprese e per il Trasferimento Tecnologico, University of Torino, 10126 Turin, Italy; maria.herrera@2i3t.it 3 Molecular Biotechnology Centre \u201cGuido Tarone\u201d, 10126 Turin, Italy; lorenzo.silengo@unito.it (L.S.); fiorella.altruda@unito.it (F.A.) 4 Research and Scientific Studies Unit, College of Nursing and Health Sciences, Jazan University, Jazan 45142, Saudi Arabia; shafiul.haque@hotmail.com 5 Centre of Medical and Bio-Allied Health Sciences Research, Ajman University, Ajman 13306, United Arab Emirates 6 Gilbert and Rose-Marie Chagoury School of Medicine, Lebanese American University, Beirut 1102 2801, Lebanon 7 Institute for Biostructure and Bioimaging, National Research Council (CNR), Molecular Biotechnology Centre \u201cGuido Tarone\u201d, 10126 Turin, Italy * Correspondence: sharmila.fagoonee@unito.it ; Tel.: +39-0116706423 26 2 2024 3 2024 14 3 277 20 12 2023 15 2 2024 21 2 2024 \u00a9 2024 by the authors. 2024 https://creativecommons.org/licenses/by/4.0/ Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license ( https://creativecommons.org/licenses/by/4.0/ ). In recent years, EVs have emerged as promising vehicles for coding and non-coding RNAs (ncRNAs), which have demonstrated remarkable potential as biomarkers for various diseases, including chronic liver diseases (CLDs). EVs are small, membrane-bound particles released by cells, carrying an arsenal of ncRNAs, including microRNAs (miRNAs), long non-coding RNAs (lncRNAs), and other ncRNA species, such as piRNAs, circRNAs, and tsRNAs. These ncRNAs act as key regulators of gene expression, splicing, and translation, providing a comprehensive molecular snapshot of the cells of origin. The non-invasive nature of EV sampling, typically via blood or serum collection, makes them highly attractive candidates for clinical biomarker applications. Moreover, EV-encapsulated ncRNAs offer unique advantages over traditional cell-free ncRNAs due to their enhanced stability within the EVs, hence allowing for their detection in circulation for extended periods and enabling more sensitive and reliable biomarker measurements. Numerous studies have investigated the potential of EV-enclosed ncRNAs as biomarkers for CLD. MiRNAs, in particular, have gained significant attention due to their ability to rapidly respond to changes in cellular stress and inflammation, hallmarks of CLD pathogenesis. Elevated levels of specific miRNAs have been consistently associated with various CLD subtypes, including metabolic dysfunction-associated steatotic liver disease (MASLD), metabolic dysfunction-associated steatohepatitis (MASH), and chronic hepatitis B and C. LncRNAs have also emerged as promising biomarkers for CLD. These transcripts are involved in a wide range of cellular processes, including liver regeneration, fibrosis, and cancer progression. Studies have shown that lncRNA expression profiles can distinguish between different CLD subtypes, providing valuable insights into disease progression and therapeutic response. Promising EV-enclosed ncRNA biomarkers for CLD included miR-122 (elevated levels of miR-122 are associated with MASLD progression and liver fibrosis), miR-21 (increased expression of miR-21 is linked to liver inflammation and fibrosis in CLD patients), miR-192 (elevated levels of miR-192 are associated with more advanced stages of CLD, including cirrhosis and HCC), LncRNA HOTAIR (increased HOTAIR expression is associated with MASLD progression and MASH development), and LncRNA H19 (dysregulation of H19 expression is linked to liver fibrosis and HCC progression). In the present review, we focus on the EV-enclosed ncRNAs as promising tools for the diagnosis and monitoring of CLD of various etiologies. chronic liver diseases non-coding RNAs diagnosis extracellular vesicles biomarkers Deputyship for Research & Innovation, Ministry of Education in Saudi Arabia ISP23-101 This work was funded by the Deputyship for Research & Innovation, Ministry of Education in Saudi Arabia, through the project number ISP23-101. 1. Introduction Chronic liver diseases (CLDs) comprise a wide range of conditions characterized by the progressive deterioration of hepatic functions. The initial damage can be due to infections, heavy alcohol consumption, or dysmetabolic or autoimmune mechanisms. Regardless of its origin, damage leads to a continuous process of inflammation, destruction, and regeneration of the liver parenchyma, inducing the formation of fibrotic tissue. Sustained progression of fibrosis may even lead to cirrhosis and hepatocellular carcinoma (HCC) [ 1 ]. CLDs affect around 1.5 billion people worldwide. They primarily include non-alcoholic fatty liver disease (NAFLD) and non-alcoholic steatohepatitis (NASH), recently renamed metabolic dysfunction-associated steatotic liver disease (MASLD) and metabolic-dysfunction-associated steatohepatitis (MASH), respectively, and consequently employed herein, followed by viral hepatitis, alcoholic liver disease (ALD), autoimmune hepatitis (AIH) and cholestatic liver diseases [ 2 ]. Because of its high prevalence, CLD is one of the main causes of mortality and morbidity across the world, especially in developing countries [ 3 ]. In particular, MASLD is the most widespread CLD. It affects 30% of the population, but this rate is expected to increase further [ 4 ]. MASLD-correlated mortality ranges between 0.5% and 9%, with liver complications (e.g., cirrhosis, hepatocellular carcinoma (HCC)) and the augmented risk of cardiovascular diseases greatly contributing to this rate [ 5 ]. On the other hand, ALD prevalence is 4.8% worldwide, and it is more common among males compared to females (2.9% vs. 0.5%, respectively). Alcoholic liver cirrhosis occurs in 32.9% of cases and frequently causes death (23.9%) [ 6 ]. Chronic viral hepatitis, caused by viruses such as hepatitis B virus (HBV) or hepatitis C virus (HCV), induces a chronic inflammatory state of the liver. Although there are many treatment options for HBV and HCV infections, these cause 1.1 million deaths and 3 million new infections every year combined (European Centre for Disease Prevention and Control, https://www.ecdc.europa.eu/en/news-events/world-hepatitis-day-2023-need-scale-efforts-address-hepatitis-b-and-c ; last visited on 13 February 2024). Other chronic liver diseases are quite rare, and their prevalence ranges from 4.8 to 42.9 per 100,000 persons for AIH, from 0 to 31.7 per 100,000 for primary sclerosing cholangitis (PSC), and from 1.91 to 40.2 per 100,000 for primary biliary cholangitis (PBC) [ 7 ]. At the end stage of the disease, complications of cirrhosis such as ascites, gastrointestinal bleeding, and encephalopathy may occur, impairing the patients\u2019 quality of life and progressively leading to liver failure and/or HCC. In these cases, liver transplantation (LT) remains the only therapeutic option [ 8 ]. Therefore, early diagnosis and prompt intervention are challenging to improve the prognosis of the disease. Liver biopsy is currently considered the gold standard for the assessment of liver fibrosis and, hence, for the diagnosis of CLD. However, this procedure is quite invasive and expensive and can cause serious complications, such as bleeding and sampling errors [ 9 ]. Thus, during recent years, the interest in developing alternative less invasive, simple, and cost-effective diagnostic tests, including radiological procedures, biochemical scoring, and serum biomarkers, has risen considerably [ 10 ]. In the present review, we will provide an update on the biomarkers available or under development for the diagnosis and prognosis of CLD, both at clinical and preclinical levels, with special emphasis on non-coding RNA (ncRNA) biomarkers enclosed within circulating extracellular vesicles (EVs).",
+    "document_source_id": "38540698",
+    "analysis_date": "2025-12-10",
+    "extracted_data": {
+      "document_summary": "This comprehensive review investigates the potential of extracellular vesicle (EV)-enclosed non-coding RNAs (ncRNAs), including microRNAs (miRNAs), long non-coding RNAs (lncRNAs), piRNAs, circRNAs, and tsRNAs, along with N6-methyladenosine (m6A) RNA modifications, as stable, non-invasive diagnostic, prognostic, and monitoring biomarkers for a wide range of chronic liver diseases (CLDs). These include metabolic dysfunction-associated steatotic liver disease (MASLD), metabolic-dysfunction-associated steatohepatitis (MASH), Alcoholic Liver Disease (ALD), Autoimmune Hepatitis (AIH), Chronic Viral Hepatitis (HBV/HCV), cholestatic liver diseases, liver fibrosis, and hepatocellular carcinoma (HCC), cholangiocarcinoma (CCA), and gallbladder carcinoma (GBC). The document also touches upon the therapeutic potential of engineered EVs for targeted cargo delivery in preclinical models to modulate inflammation and fibrosis pathways, highlighting their utility and associated challenges in clinical application.",
+      "treatment_details": {
+        "therapy_type": "This document primarily functions as a review investigating biomarkers for the diagnosis, prognosis, and monitoring of chronic liver diseases (CLDs). While the main focus is on biomarker identification, the review also touches upon the therapeutic potential of Extracellular Vesicle (EV) therapy, including engineered EVs for targeted cargo delivery, and mentions pharmacological inhibition of miR-34a as a potential therapeutic strategy.",
+        "dose_specificity": "The study does not report specific therapeutic doses or dose-response comparisons for most interventions, as its primary focus is on biomarker evaluation. However, preclinical models utilized various EV-based interventions, such as native and engineered EVs derived from mesenchymal/stromal stem cells (MSCs) or human liver stem cells in models of liver fibrosis, NASH, and cancer, without detailed quantitative dosing. In biomarker contexts, some observations included a dose-dependent increase in serum miR-122 and miR-192 levels in induced liver injury mouse models. Disease states and exposures examined for biomarker changes included acute and chronic alcohol consumption, autoimmune inflammation, viral infections, cholestasis, CCl4-induced liver fibrosis, lipotoxic palmitic acid treatment of hepatocytes, arsenite-induced liver fibrosis, and various human liver conditions including biliary cholangitis, biliary atresia, liver fibrosis, HCC, CCA, and GBC."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "miRNAs",
+          "measured_tissue_or_fluid": "Extracellular vesicles (EVs) in circulation (blood or serum); Biological fluids",
+          "activity_type": "Non-coding RNA level; Small ncRNA presence",
+          "measured_effect": {
+            "direction_of_change": "higher; Enables detection",
+            "magnitude_quantification": "Elevated levels; Circulating miRNAs show unusual stability, enabling the detection of distinct disease stages"
+          },
+          "core_biological_function": "Key regulators of gene expression, splicing, and translation; rapidly respond to changes in cellular stress and inflammation; Small non-coding RNAs that regulate gene expression by targeting mRNA, often involved in various cellular processes and disease",
+          "relevant_activity_context": "Pathogenesis of various chronic liver disease (CLD) subtypes, including MASLD, MASH, and chronic hepatitis B and C; Disease progression, packaged in EVs or bound to ribonucleoprotein complexes",
+          "performance_or_health_indicator": "Promising non-invasive biomarkers for CLD due to enhanced stability within EVs, indicating CLD pathogenesis; Enables detection of distinct disease stages; promising molecular diagnostic approach due to stability"
+        },
+        {
+          "biomarker_name": "miR-122",
+          "measured_tissue_or_fluid": "Extracellular vesicles (EVs) in circulation; Serum (mouse model); Liver (human); Serum EVs (high-fat-diet-fed mice); Liver-specific EVs (MASH, MASLD, and control patients); Murine serum EVs, EVs from ALD patients, blood of healthy individuals, EVs from ethanol-stimulated Huh7.5 cells, exosomes from alcohol-fed mice, blood of ALD patients, total plasma samples (HBV/HCV); Extracellular Vesicles (EVs)",
+          "activity_type": "Non-coding RNA level; Levels; Expression; Content/Enrichment/Expression level (in EVs); miRNA Level",
+          "measured_effect": {
+            "direction_of_change": "higher; lower; enriched; increased; Induced levels",
+            "magnitude_quantification": "Elevated levels; Dose-dependent increase that anticipated and correlated with the rise in ALT activity (mouse model); gradually decrease with disease progression towards NASH and fibrosis (human studies); increased in simple steatosis versus healthy liver; reduced in NASH compared to simple steatosis; significant increase in miR-122-5p in serum EVs (high-fat-diet-fed mice); enrichment in liver-derived EVs significantly associated with disease severity; Higher content in murine serum EVs (ALD); enriched in EVs from ALD patients; increased levels in healthy individuals after binge drinking; enrichment in EVs released from ethanol-stimulated Huh7.5 cells; upregulated expression in exosomes from alcohol-fed mice; similar findings in blood of ALD patients vs non-alcoholics; enriched in total plasma samples of HBV/HCV patients; Induced levels in EVs."
+          },
+          "core_biological_function": "Regulates gene expression, splicing, and translation; responds to cellular stress and inflammation; Most abundant hepatic miRNA species; involved in liver health and disease progression; Abundant miRNA in hepatocytes; implicated in liver homeostasis and viral replication (HCV); Involved in the progression of steatohepatitis to liver fibrosis by regulating expression of fibrosis-related genes (e.g., \u03b1SMA, col1\u03b11) in hepatic stellate cells.",
+          "relevant_activity_context": "MASLD progression and liver fibrosis; Induced liver injury (mouse model); early development of NAFLD; progression to NASH and fibrosis; simple steatosis; NASH; high-fat-diet-induced MASLD; MASLD/MASH severity; Alcoholic Liver Disease (ALD), binge alcohol drinking, ethanol-stimulated Huh7.5 cells, alcohol-fed mice, chronic HBV/HCV infection; Hepatocytes treated with lipotoxic palmitic acid; progression of steatohepatitis to liver fibrosis.",
+          "performance_or_health_indicator": "Promising EV-enclosed ncRNA biomarker for CLD, associated with MASLD progression and liver fibrosis; Diagnostic capacity in hepatic diseases; first altered miRNA in early NAFLD; associated with heightened bone metastasis risk; potential stage-wise diagnostic and prognostic biomarker for MASLD/MASH severity; Potentially useful biomarker to monitor liver injury in ALD patients; associated with illness diagnosis; implicated in HCV-RNA interaction; Associated with the progression of steatohepatitis to liver fibrosis."
+        },
+        {
+          "biomarker_name": "miR-21",
+          "measured_tissue_or_fluid": "Extracellular vesicles (EVs) in circulation; AIH patients\u2019 serum-derived EVs; EV-enclosed in serum",
+          "activity_type": "Non-coding RNA level; Enrichment (in EVs); ncRNA level",
+          "measured_effect": {
+            "direction_of_change": "higher; enriched; significantly enriched",
+            "magnitude_quantification": "Increased expression; Significantly enriched in AIH patients\u2019 serum-derived EVs compared to non-AIH subjects (AIH vs. NAFLD, AIH vs. healthy controls); Significantly enriched in the EVs of HCC patients with higher mortality and lower disease-free survival with respect to those with lower levels."
+          },
+          "core_biological_function": "Regulates gene expression, splicing, and translation; responds to cellular stress and inflammation; Non-coding RNA involved in gene regulation.",
+          "relevant_activity_context": "Liver inflammation and fibrosis in CLD patients; Autoimmune Hepatitis (AIH); Prognosis of Hepatocellular Carcinoma (HCC)",
+          "performance_or_health_indicator": "Promising EV-enclosed ncRNA biomarker for CLD, linked to liver inflammation and fibrosis; Potential for EV-based RNA signature specific to AIH, aiding in early diagnosis; Associated with higher mortality and lower disease-free survival in HCC patients, highlighting its potential as a prognostic biomarker for HCC outcome."
+        },
+        {
+          "biomarker_name": "miR-192",
+          "measured_tissue_or_fluid": "Extracellular vesicles (EVs) in circulation; Serum (mouse model); Liver-specific EVs (MASH, MASLD, and control patients); Murine serum EVs, EVs from ALD patients, exosomes from alcohol-fed mice; Circulating EVs (HBV/HCV); Extracellular Vesicles (EVs)",
+          "activity_type": "Non-coding RNA level; Levels; Expression; Content/Enrichment/Expression level (in EVs); Expression (in EVs); miRNA Level",
+          "measured_effect": {
+            "direction_of_change": "higher; enriched; upregulated; downregulated; Induced levels",
+            "magnitude_quantification": "Elevated levels; Dose-dependent increase that anticipated and correlated with the rise in ALT activity (mouse model); enrichment in liver-derived EVs significantly associated with disease severity; Higher content in murine serum EVs (ALD); enriched in EVs from ALD patients; upregulated expression in exosomes from alcohol-fed mice; Significantly downregulated in circulating EVs in both HBV and HCV patients (early-stage fibrotic patients); Induced levels in EVs."
+          },
+          "core_biological_function": "Regulates gene expression, splicing, and translation; responds to cellular stress and inflammation; miRNA species; involved in liver disease progression; Involved in the progression of steatohepatitis to liver fibrosis by regulating expression of fibrosis-related genes (e.g., \u03b1SMA, col1\u03b11) in hepatic stellate cells.",
+          "relevant_activity_context": "Advanced stages of CLD, including cirrhosis and HCC; Induced liver injury (mouse model); MASLD/MASH severity; Alcoholic Liver Disease (ALD), alcohol-fed mice, alcoholic hepatitis; Chronic HBV or HCV infection (early-stage fibrosis); Hepatocytes treated with lipotoxic palmitic acid; progression of steatohepatitis to liver fibrosis.",
+          "performance_or_health_indicator": "Promising EV-enclosed ncRNA biomarker for CLD, associated with more advanced stages of CLD (cirrhosis and HCC); Diagnostic capacity in hepatic diseases; potential stage-wise diagnostic and prognostic biomarker for MASLD/MASH severity; Associated with illness diagnosis; potential role as biomarker in alcoholic hepatitis; high specificity to alcohol-induced condition; Potential non-invasive biomarker for detecting early fibrosis; Associated with the progression of steatohepatitis to liver fibrosis."
+        },
+        {
+          "biomarker_name": "LncRNA HOTAIR",
+          "measured_tissue_or_fluid": "Extracellular vesicles (EVs) in circulation",
+          "activity_type": "Non-coding RNA level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Increased expression"
+          },
+          "core_biological_function": "Involved in gene expression regulation, liver regeneration, fibrosis, and cancer progression.",
+          "relevant_activity_context": "MASLD progression and MASH development",
+          "performance_or_health_indicator": "Promising EV-enclosed ncRNA biomarker for CLD, associated with MASLD progression and MASH development."
+        },
+        {
+          "biomarker_name": "LncRNA H19",
+          "measured_tissue_or_fluid": "Extracellular vesicles (EVs) in circulation; EVs released by cholangiocytes, serum exosomes (Mdr2-/- mice), serum (biliary cholangitis and biliary atresia patients); EV-carried lncRNA in Blood Serum",
+          "activity_type": "Non-coding RNA level; Presence/Level (in EVs); lncRNA Level",
+          "measured_effect": {
+            "direction_of_change": "dysregulated; increased, correlated with severity",
+            "magnitude_quantification": "Dysregulation of expression; Gradually increased with disease progression in Mdr2-/- mice serum exosomes; serum level of EV-carried H19 correlated with the severity of fibrotic liver injury in biliary cholangitis and biliary atresia patients; Reported correlation between the severity of fibrotic liver injury and the level of EV-carried lncRNA H19."
+          },
+          "core_biological_function": "Involved in gene expression regulation, liver regeneration, fibrosis, and cancer progression; Exacerbates cholestatic injury; long non-coding RNA; Associated with activation of hepatic stellate cells through DNMT1-mediated epigenetic silencing, which is involved in liver fibrosis.",
+          "relevant_activity_context": "Liver fibrosis and hepatocellular carcinoma (HCC) progression; Cholestatic injury, Mdr2-/- mice, biliary cholangitis, biliary atresia; Subjects with biliary cholangitis and biliary atresia",
+          "performance_or_health_indicator": "Promising EV-enclosed ncRNA biomarker for CLD, linked to liver fibrosis and HCC progression; Can develop into an RNA biomarker for cholestatic injury and its progression into more severe disease; correlates with severity of fibrotic liver injury; Correlates with the severity of fibrotic liver injury, indicating its potential as a biomarker."
+        },
+        {
+          "biomarker_name": "Proton density fat fraction",
+          "measured_tissue_or_fluid": "Liver (via Magnetic Resonance Imaging - MRI)",
+          "activity_type": "Imaging biomarker measurement",
+          "measured_effect": {
+            "direction_of_change": "Indicates presence",
+            "magnitude_quantification": "Used for detection of liver fat and diagnosis of MASLD"
+          },
+          "core_biological_function": "Quantification of fat content within tissue",
+          "relevant_activity_context": "Detection of liver fat, diagnosis of MASLD",
+          "performance_or_health_indicator": "Allows objective measurement of liver fat for diagnosis of MASLD"
+        },
+        {
+          "biomarker_name": "Artificial intelligence-based imaging biomarkers",
+          "measured_tissue_or_fluid": "Liver (via imaging)",
+          "activity_type": "Imaging biomarker analysis",
+          "measured_effect": {
+            "direction_of_change": "Predicts likelihood",
+            "magnitude_quantification": "Used for prognosis of the pejoration of chronic liver diseases into cirrhosis"
+          },
+          "core_biological_function": "Objective measurement of biologic features and response to therapy through image analysis",
+          "relevant_activity_context": "Prognosis of chronic liver diseases (CLD) into cirrhosis",
+          "performance_or_health_indicator": "Prognostic indicator for chronic liver disease progression to cirrhosis"
+        },
+        {
+          "biomarker_name": "CD133",
+          "measured_tissue_or_fluid": "Cells of interest (e.g., liver cancer stem cells)",
+          "activity_type": "Surface marker expression",
+          "measured_effect": {
+            "direction_of_change": "Enables identification",
+            "magnitude_quantification": "Identifies liver cancer stem cells"
+          },
+          "core_biological_function": "Cell surface antigen for identification and characterization of specific cell populations",
+          "relevant_activity_context": "Identification of liver cancer stem cells",
+          "performance_or_health_indicator": "Marker for identifying liver cancer stem cells"
+        },
+        {
+          "biomarker_name": "AST (Aspartate aminotransferase)",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Enzyme level",
+          "measured_effect": {
+            "direction_of_change": "Indicates status",
+            "magnitude_quantification": "Used for assessment of Chronic Liver Disease (CLD) markers"
+          },
+          "core_biological_function": "Enzyme involved in amino acid metabolism, indicative of liver cell damage when elevated",
+          "relevant_activity_context": "Assessment of Chronic Liver Disease (CLD) markers",
+          "performance_or_health_indicator": "Indicator for assessing the status of Chronic Liver Disease (CLD)"
+        },
+        {
+          "biomarker_name": "ALT (Alanine aminotransferase)",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Enzyme level",
+          "measured_effect": {
+            "direction_of_change": "Indicates status",
+            "magnitude_quantification": "Used for assessment of Chronic Liver Disease (CLD) markers"
+          },
+          "core_biological_function": "Enzyme primarily found in the liver, indicative of liver cell damage when elevated",
+          "relevant_activity_context": "Assessment of Chronic Liver Disease (CLD) markers",
+          "performance_or_health_indicator": "Indicator for assessing the status of Chronic Liver Disease (CLD)"
+        },
+        {
+          "biomarker_name": "Platelet count",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Blood cell count",
+          "measured_effect": {
+            "direction_of_change": "Potential indicator",
+            "magnitude_quantification": "May represent the transition from CLD to fibrosis"
+          },
+          "core_biological_function": "Involved in hemostasis and wound healing; count can reflect liver disease status",
+          "relevant_activity_context": "Transition from Chronic Liver Disease (CLD) to fibrosis",
+          "performance_or_health_indicator": "Potential biomarker for the transition from CLD to fibrosis"
+        },
+        {
+          "biomarker_name": "Hyaluronic acid",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Molecular level",
+          "measured_effect": {
+            "direction_of_change": "Potential indicator",
+            "magnitude_quantification": "May represent the transition from CLD to fibrosis"
+          },
+          "core_biological_function": "Component of the extracellular matrix; elevated levels can indicate liver fibrosis",
+          "relevant_activity_context": "Transition from Chronic Liver Disease (CLD) to fibrosis",
+          "performance_or_health_indicator": "Potential biomarker for the transition from CLD to fibrosis"
+        },
+        {
+          "biomarker_name": "Type IV collagen",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Molecular level",
+          "measured_effect": {
+            "direction_of_change": "Potential indicator",
+            "magnitude_quantification": "May represent the transition from CLD to fibrosis"
+          },
+          "core_biological_function": "Major component of basement membranes; elevated levels can indicate liver fibrosis",
+          "relevant_activity_context": "Transition from Chronic Liver Disease (CLD) to fibrosis",
+          "performance_or_health_indicator": "Potential biomarker for the transition from CLD to fibrosis"
+        },
+        {
+          "biomarker_name": "Bilirubin",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Molecular level",
+          "measured_effect": {
+            "direction_of_change": "Potential indicator",
+            "magnitude_quantification": "May represent the transition from CLD to fibrosis"
+          },
+          "core_biological_function": "Product of heme catabolism; elevated levels can indicate impaired liver function or bile duct obstruction",
+          "relevant_activity_context": "Transition from Chronic Liver Disease (CLD) to fibrosis",
+          "performance_or_health_indicator": "Potential biomarker for the transition from CLD to fibrosis"
+        },
+        {
+          "biomarker_name": "Tissue inhibitor of matrix metalloproteinase 1 (TIMP1)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Protein level",
+          "measured_effect": {
+            "direction_of_change": "Potential indicator",
+            "magnitude_quantification": "May represent the transition from CLD to fibrosis"
+          },
+          "core_biological_function": "Inhibits matrix metalloproteinases, which are involved in extracellular matrix degradation and remodeling, thus linked to fibrosis",
+          "relevant_activity_context": "Transition from Chronic Liver Disease (CLD) to fibrosis",
+          "performance_or_health_indicator": "Potential biomarker for the transition from CLD to fibrosis"
+        },
+        {
+          "biomarker_name": "Circulating cell-free DNA (cfDNA)",
+          "measured_tissue_or_fluid": "Bloodstream",
+          "activity_type": "DNA presence",
+          "measured_effect": {
+            "direction_of_change": "Indicates presence",
+            "magnitude_quantification": "Presence in bloodstream may represent a promising marker of end-stage CLD with HCC"
+          },
+          "core_biological_function": "Genetic material released from cells into circulation, indicative of cell death or damage",
+          "relevant_activity_context": "End-stage Chronic Liver Disease (CLD) with Hepatocellular Carcinoma (HCC)",
+          "performance_or_health_indicator": "Novel non-invasive biomarker for end-stage CLD with HCC"
+        },
+        {
+          "biomarker_name": "Extracellular RNA classes",
+          "measured_tissue_or_fluid": "Biological fluids",
+          "activity_type": "RNA presence",
+          "measured_effect": {
+            "direction_of_change": "Indicates severity",
+            "magnitude_quantification": "Release throughout disease progression via diverse mechanisms may serve as a hallmark of disease severity"
+          },
+          "core_biological_function": "Carriers of genetic information and regulators of gene expression, involved in various pathophysiological states",
+          "relevant_activity_context": "Various pathophysiological states, particularly in Chronic Liver Disease (CLD); disease progression",
+          "performance_or_health_indicator": "Potential source of novel biomarkers for disease severity and diagnosis of distinct disease stages"
+        },
+        {
+          "biomarker_name": "Protein-coding RNA (mRNA)",
+          "measured_tissue_or_fluid": "Biological fluids",
+          "activity_type": "Gene transcript level",
+          "measured_effect": {
+            "direction_of_change": "Captures signature",
+            "magnitude_quantification": "Captures the gene signature of a particular cell across both physiological and pathological conditions"
+          },
+          "core_biological_function": "Carries genetic information from DNA to ribosomes for protein synthesis",
+          "relevant_activity_context": "Physiological and pathological conditions",
+          "performance_or_health_indicator": "Captures gene signature of a cell, useful for disease diagnosis"
+        },
+        {
+          "biomarker_name": "Non-coding RNA (ncRNA)",
+          "measured_tissue_or_fluid": "Biological fluids",
+          "activity_type": "RNA presence",
+          "measured_effect": {
+            "direction_of_change": "Regulates processes",
+            "magnitude_quantification": "Undergoes intricate regulatory processes at both transcriptional and post-transcriptional levels; potential biomarker for disease severity"
+          },
+          "core_biological_function": "Regulates gene expression at transcriptional and post-transcriptional levels without coding for proteins",
+          "relevant_activity_context": "Disease progression",
+          "performance_or_health_indicator": "Potential biomarker for disease severity and diagnosis of distinct disease stages"
+        },
+        {
+          "biomarker_name": "PIWI-interaction RNA (piRNA)",
+          "measured_tissue_or_fluid": "Biological fluids",
+          "activity_type": "Small ncRNA presence",
+          "measured_effect": {
+            "direction_of_change": "Potential indicator",
+            "magnitude_quantification": "Recently emerged as a potential biomarker for several pathological conditions"
+          },
+          "core_biological_function": "Interacts with PIWI subclass Argonaute proteins, involved in gene silencing and maintaining genome integrity",
+          "relevant_activity_context": "Several pathological conditions",
+          "performance_or_health_indicator": "Potential biomarker for several pathological conditions"
+        },
+        {
+          "biomarker_name": "Circular RNAs (circRNAs)",
+          "measured_tissue_or_fluid": "Biological fluids",
+          "activity_type": "Long ncRNA presence",
+          "measured_effect": {
+            "direction_of_change": "Potential indicator",
+            "magnitude_quantification": "Recently emerged as a potential biomarker for several pathological conditions"
+          },
+          "core_biological_function": "Long non-coding RNAs that form a closed loop, involved in gene regulation and various biological processes",
+          "relevant_activity_context": "Several pathological conditions",
+          "performance_or_health_indicator": "Potential biomarker for several pathological conditions"
+        },
+        {
+          "biomarker_name": "TGF-\u03b21/Smad signaling pathway activity",
+          "measured_tissue_or_fluid": "Liver (in rodent model)",
+          "activity_type": "Pathway activity level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Decreased liver injury by dampening the transforming growth factor (TGF)-\u03b21/Smad signaling pathway"
+          },
+          "core_biological_function": "Mediates profibrogenic signaling and epithelial-to-mesenchymal transition, key in fibrosis development",
+          "relevant_activity_context": "Carbon tetrachloride-induced rodent model of liver fibrosis, treated with native EVs from human umbilical cord MSCs",
+          "performance_or_health_indicator": "Indicates liver injury and fibrosis progression; dampening indicates therapeutic effect"
+        },
+        {
+          "biomarker_name": "Epithelial-to-mesenchymal transition (EMT)",
+          "measured_tissue_or_fluid": "Liver (in rodent model)",
+          "activity_type": "Cellular process",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Inhibited the epithelial-to-mesenchymal transition"
+          },
+          "core_biological_function": "A cellular process where epithelial cells acquire mesenchymal characteristics, contributing to fibrosis and cancer progression",
+          "relevant_activity_context": "Carbon tetrachloride-induced rodent model of liver fibrosis, treated with native EVs from human umbilical cord MSCs",
+          "performance_or_health_indicator": "Indicates liver fibrosis progression; inhibition indicates therapeutic effect"
+        },
+        {
+          "biomarker_name": "Pro-inflammatory M1 macrophage activation",
+          "measured_tissue_or_fluid": "Liver (in rodent model)",
+          "activity_type": "Cellular activation level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Reduced activation of pro-inflammatory M1 macrophages"
+          },
+          "core_biological_function": "Mediate inflammation in response to injury or disease, contributing to tissue damage",
+          "relevant_activity_context": "Rats fed a high-fat diet (NASH model), treated with amniotic MSC-derived EVs",
+          "performance_or_health_indicator": "Indicates liver inflammation in NASH; reduced activation indicates therapeutic effect"
+        },
+        {
+          "biomarker_name": "TNF-alpha",
+          "measured_tissue_or_fluid": "Liver (in rodent model); Liver tissue (implied)",
+          "activity_type": "Protein expression (cytokine expression); Protein Level / Gene Transcript",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Reduced expression of pro-inflammatory cytokines including TNF-alpha; Reduced expression"
+          },
+          "core_biological_function": "Pro-inflammatory cytokine involved in systemic inflammation and cell death; Pro-inflammatory cytokine, mediates inflammation",
+          "relevant_activity_context": "Rats fed a high-fat diet (NASH model), treated with amniotic MSC-derived EVs; NASH treated with amniotic MSC-derived EVs in rats fed a high-fat diet",
+          "performance_or_health_indicator": "Indicates liver inflammation in NASH; reduced expression indicates therapeutic effect; Indicates reduced inflammation in NASH."
+        },
+        {
+          "biomarker_name": "IL-1-beta",
+          "measured_tissue_or_fluid": "Liver (in rodent model); Liver tissue (implied)",
+          "activity_type": "Protein expression (cytokine expression); Protein Level / Gene Transcript",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Reduced expression of pro-inflammatory cytokines including IL-1-beta; Reduced expression"
+          },
+          "core_biological_function": "Pro-inflammatory cytokine involved in immune responses and inflammation; Pro-inflammatory cytokine, mediates inflammation",
+          "relevant_activity_context": "Rats fed a high-fat diet (NASH model), treated with amniotic MSC-derived EVs; NASH treated with amniotic MSC-derived EVs in rats fed a high-fat diet",
+          "performance_or_health_indicator": "Indicates liver inflammation in NASH; reduced expression indicates therapeutic effect; Indicates reduced inflammation in NASH."
+        },
+        {
+          "biomarker_name": "IL-6",
+          "measured_tissue_or_fluid": "Liver (in rodent model); Liver tissue (implied)",
+          "activity_type": "Protein expression (cytokine expression); Protein Level / Gene Transcript",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Reduced expression of pro-inflammatory cytokines including IL-6; Reduced expression"
+          },
+          "core_biological_function": "Pro-inflammatory cytokine involved in immune responses, inflammation, and liver regeneration; Pro-inflammatory cytokine, mediates inflammation",
+          "relevant_activity_context": "Rats fed a high-fat diet (NASH model), treated with amniotic MSC-derived EVs; NASH treated with amniotic MSC-derived EVs in rats fed a high-fat diet",
+          "performance_or_health_indicator": "Indicates liver inflammation in NASH; reduced expression indicates therapeutic effect; Indicates reduced inflammation in NASH."
+        },
+        {
+          "biomarker_name": "Circulating Extracellular Vesicles (EVs)",
+          "measured_tissue_or_fluid": "Circulating fluids (e.g., blood serum/plasma); ALD samples (blood/plasma); Circulating (blood); Circulating (blood serum/plasma)",
+          "activity_type": "Particle Count / Concentration; Levels; Quantity; Number/Level; Number, Size",
+          "measured_effect": {
+            "direction_of_change": "higher; elevated; increased; more numerous, smaller",
+            "magnitude_quantification": "Significant increase in number with respect to controls; Elevated levels in ALD samples compared to controls; rise correlated to liver damage; cholesterol-treated hepatocytes release large quantities of EVs, confirmed in mice fed with high-fat diets; Elevated levels in ALD samples compared to controls; significant rise in number following binge or chronic alcohol exposure; Significantly more numerous and smaller in AIH patients compared to healthy subjects (did not correlate with liver injury)."
+          },
+          "core_biological_function": "Mediates cell-to-cell communication, reflects physiological state of donor cells; Cell-derived vesicles involved in intercellular communication; transport RNAs; secretion enhanced by lipid accumulation; Mediators of intercellular communication; implicated in cellular damage and liver inflammation; Mediators of intercellular communication between different cell types involved in AIH.",
+          "relevant_activity_context": "Mice undergoing bile duct ligation and other liver pathologies in humans or rodents; Alcoholic Liver Disease (ALD); lipid accumulation leading to inflammation and fibrogenesis; Alcoholic Liver Disease (ALD), binge/chronic alcohol consumption; Autoimmune Hepatitis (AIH).",
+          "performance_or_health_indicator": "Can be indicative of liver damage; Correlated to liver damage; potential biomarker for ALD; Correlated to liver damage (measured by ALT values); potential biomarker to monitor liver injury in ALD patients; Potential for discovery of EV-based RNA signature specific to AIH, aiding in its early diagnosis."
+        },
+        {
+          "biomarker_name": "EV content (molecular composition)",
+          "measured_tissue_or_fluid": "Biological fluids (e.g., plasma, serum, urine, saliva, breast milk, bronchoalveolar lavage fluid, pleural effusion, cerebrospinal fluid, amniotic fluid)",
+          "activity_type": "Molecular composition analysis (nucleic acids, proteins, lipids, metabolites)",
+          "measured_effect": {
+            "direction_of_change": "changes",
+            "magnitude_quantification": "Changes in composition with respect to a healthy condition"
+          },
+          "core_biological_function": "Reflects the molecular landscape of source cells, mediates intercellular communication",
+          "relevant_activity_context": "Disease states inducing changes in EVs compared to healthy conditions",
+          "performance_or_health_indicator": "Serves as a non-invasive biomarker for disease detection and monitoring."
+        },
+        {
+          "biomarker_name": "Supermeres (molecular contents)",
+          "measured_tissue_or_fluid": "Circulating fluids (implied)",
+          "activity_type": "Molecular composition analysis (RNA, DNA, proteins, mainly involved in metabolism)",
+          "measured_effect": {
+            "direction_of_change": "enriched",
+            "magnitude_quantification": "Replete with molecules"
+          },
+          "core_biological_function": "Contains RNA, DNA, and proteins involved in metabolism, serves as a molecular snapshot",
+          "relevant_activity_context": "Chronic liver diseases",
+          "performance_or_health_indicator": "May serve as early disease biomarkers for chronic liver diseases."
+        },
+        {
+          "biomarker_name": "Cytochrome c oxidase subunit 8 (CoxVIII) protein",
+          "measured_tissue_or_fluid": "Inside recipient cells (cytosol to mitochondria)",
+          "activity_type": "Protein localization/translocation",
+          "measured_effect": {
+            "direction_of_change": "switched location",
+            "magnitude_quantification": "Could switch location from the cytosol to mitochondria"
+          },
+          "core_biological_function": "Component of cytochrome c oxidase, involved in mitochondrial respiration",
+          "relevant_activity_context": "EV cargo delivery inside recipient cells",
+          "performance_or_health_indicator": "Demonstrates functional delivery of EV protein cargo to organelles, indicating EV role in cellular processes."
+        },
+        {
+          "biomarker_name": "Histone H2B RNA (EV-enclosed)",
+          "measured_tissue_or_fluid": "Inside recipient cells",
+          "activity_type": "Gene expression/translation",
+          "measured_effect": {
+            "direction_of_change": "translated",
+            "magnitude_quantification": "Can be translated"
+          },
+          "core_biological_function": "Histone component, involved in gene regulation (via translation to protein)",
+          "relevant_activity_context": "EV cargo delivery inside recipient cells",
+          "performance_or_health_indicator": "Demonstrates functional delivery of EV RNA cargo for protein synthesis, indicating EV role in cellular processes."
+        },
+        {
+          "biomarker_name": "EV-enclosed mRNAs",
+          "measured_tissue_or_fluid": "Inside EVs, accessible from biological fluids",
+          "activity_type": "Gene transcript levels",
+          "measured_effect": {
+            "direction_of_change": "reflect",
+            "magnitude_quantification": "Reflect the molecular status of the donor cells"
+          },
+          "core_biological_function": "Carry genetic information to synthesize proteins; reflect donor cell gene expression",
+          "relevant_activity_context": "Released inside EVs in a particular disease state and time (e.g., cancer detection, drug resistance monitoring, Chronic Liver Diseases)",
+          "performance_or_health_indicator": "Useful as biomarkers for cancer detection, drug resistance monitoring, and Chronic Liver Diseases."
+        },
+        {
+          "biomarker_name": "miR-34a",
+          "measured_tissue_or_fluid": "Hepatocytes (C57BL/6 mice); Skeletal muscle (human and experimental NAFLD); Serum (NASH patients)",
+          "activity_type": "Expression; Levels; Pathway activation",
+          "measured_effect": {
+            "direction_of_change": "aggravated; increased",
+            "magnitude_quantification": "Hepatocyte-specific expression aggravated diet-induced NAFL in C57BL/6 mice; pharmacological inhibition reversed diet-induced steatohepatitis; activation of miR-34a/SIRT1:AMPK pathway leads to mitochondrial dynamics dysfunction; increased in serum from patients with NASH compared with NAFLD and positively correlated with histopathological features of the liver."
+          },
+          "core_biological_function": "Regulates lipid absorption, lipogenesis, inflammation, apoptosis, and fatty acid oxidation; leads to mitochondrial dynamics dysfunction via SIRT1:AMPK pathway.",
+          "relevant_activity_context": "Diet-induced NAFL/steatohepatitis; metabolic syndrome; NASH progression from NAFLD.",
+          "performance_or_health_indicator": "Aggravates NAFL; pharmacological target for treatment of metabolic syndrome; quantitative marker for NASH severity, correlated with liver histopathology."
+        },
+        {
+          "biomarker_name": "miR-128-3p",
+          "measured_tissue_or_fluid": "Liver-specific EVs (MASH, MASLD, and control patients)",
+          "activity_type": "Enrichment; Expression",
+          "measured_effect": {
+            "direction_of_change": "enriched",
+            "magnitude_quantification": "Enrichment in liver-derived EVs significantly associated with disease severity."
+          },
+          "core_biological_function": "miRNA species; involved in liver disease progression.",
+          "relevant_activity_context": "MASLD/MASH severity.",
+          "performance_or_health_indicator": "Potential stage-wise diagnostic and prognostic biomarker for MASLD/MASH severity."
+        },
+        {
+          "biomarker_name": "miR-135a-3p",
+          "measured_tissue_or_fluid": "Serum EVs (high-fat-diet-fed mice); MASLD patients",
+          "activity_type": "Levels; Expression pattern",
+          "measured_effect": {
+            "direction_of_change": "decreased",
+            "magnitude_quantification": "Significant decrease in levels in serum EVs of high-fat-diet-fed mice; expression pattern mirrored in MASLD patients."
+          },
+          "core_biological_function": "miRNA species; involved in MASLD pathogenesis.",
+          "relevant_activity_context": "High-fat-diet-induced MASLD; MASLD diagnosis.",
+          "performance_or_health_indicator": "Allows accurate diagnosis of MASLD; potential component of a biomarker panel for detecting MASLD and its progression to MASH."
+        },
+        {
+          "biomarker_name": "miR-129b-5p",
+          "measured_tissue_or_fluid": "Serum EVs (high-fat-diet-fed mice)",
+          "activity_type": "Levels",
+          "measured_effect": {
+            "direction_of_change": "decreased",
+            "magnitude_quantification": "Significant decrease in levels in serum EVs of high-fat-diet-fed mice."
+          },
+          "core_biological_function": "miRNA species; involved in MASLD pathogenesis.",
+          "relevant_activity_context": "High-fat-diet-induced MASLD.",
+          "performance_or_health_indicator": "Implied biomarker for differences in EV content in MASLD settings."
+        },
+        {
+          "biomarker_name": "miR-504-3p",
+          "measured_tissue_or_fluid": "Serum EVs (high-fat-diet-fed mice)",
+          "activity_type": "Levels",
+          "measured_effect": {
+            "direction_of_change": "decreased",
+            "magnitude_quantification": "Significant decrease in levels in serum EVs of high-fat-diet-fed mice."
+          },
+          "core_biological_function": "miRNA species; involved in MASLD pathogenesis.",
+          "relevant_activity_context": "High-fat-diet-induced MASLD.",
+          "performance_or_health_indicator": "Implied biomarker for differences in EV content in MASLD settings."
+        },
+        {
+          "biomarker_name": "lncRNA ASMTL-AS1",
+          "measured_tissue_or_fluid": "Not explicitly specified, but context implies Hepatocellular Carcinoma (HCC) tumor cells/tissue.",
+          "activity_type": "Action/activity",
+          "measured_effect": {
+            "direction_of_change": "sequesters",
+            "magnitude_quantification": "Can sequester miR-342-3p from its target mRNA, c-Myc."
+          },
+          "core_biological_function": "Long non-coding RNA; sponge-like action on miRNAs to regulate gene expression.",
+          "relevant_activity_context": "Promoting malignancy of HCC after insufficient radiofrequency ablation.",
+          "performance_or_health_indicator": "Promotes the malignancy of HCC."
+        },
+        {
+          "biomarker_name": "circRNA-100338",
+          "measured_tissue_or_fluid": "Preclinical models (HCC cells)",
+          "activity_type": "Participation/promotion",
+          "measured_effect": {
+            "direction_of_change": "promotes",
+            "magnitude_quantification": "Found to participate in the dissemination of HCC cells and promote invasiveness and angiogenesis, hence metastasis."
+          },
+          "core_biological_function": "Circular RNA; plays an important role in tumorigenesis.",
+          "relevant_activity_context": "Dissemination, invasiveness, and angiogenesis of HCC cells.",
+          "performance_or_health_indicator": "Predicts cancer patients\u2019 outcomes or evaluates therapeutic efficacy; promotes HCC metastasis."
+        },
+        {
+          "biomarker_name": "NEAT1",
+          "measured_tissue_or_fluid": "Liver tissue (from MASLD patients)",
+          "activity_type": "Expression",
+          "measured_effect": {
+            "direction_of_change": "upregulated",
+            "magnitude_quantification": "Upregulated in patients with MASLD (among 15 lncRNAs); showed great potential as a biomarker."
+          },
+          "core_biological_function": "Long non-coding RNA; involved in gene expression regulation and MASLD pathogenesis.",
+          "relevant_activity_context": "MASLD diagnosis.",
+          "performance_or_health_indicator": "Promising biomarker for MASLD diagnosis."
+        },
+        {
+          "biomarker_name": "lncARSR",
+          "measured_tissue_or_fluid": "Liver tissue (from MASLD patients)",
+          "activity_type": "Expression",
+          "measured_effect": {
+            "direction_of_change": "upregulated",
+            "magnitude_quantification": "Upregulated in patients with MASLD (among 15 lncRNAs)."
+          },
+          "core_biological_function": "Long non-coding RNA; involved in gene expression regulation.",
+          "relevant_activity_context": "MASLD diagnosis.",
+          "performance_or_health_indicator": "Implied biomarker for MASLD diagnosis."
+        },
+        {
+          "biomarker_name": "lncSPARCL1",
+          "measured_tissue_or_fluid": "Liver tissue (from MASLD patients)",
+          "activity_type": "Expression",
+          "measured_effect": {
+            "direction_of_change": "downregulated",
+            "magnitude_quantification": "Downregulated in patients with MASLD (among 6 lncRNAs)."
+          },
+          "core_biological_function": "Long non-coding RNA; involved in gene expression regulation.",
+          "relevant_activity_context": "MASLD diagnosis.",
+          "performance_or_health_indicator": "Implied biomarker for MASLD diagnosis."
+        },
+        {
+          "biomarker_name": "MEG3",
+          "measured_tissue_or_fluid": "Liver tissue (from MASLD samples)",
+          "activity_type": "Expression",
+          "measured_effect": {
+            "direction_of_change": "differentially expressed",
+            "magnitude_quantification": "Showed great potential as a biomarker; part of a group of 535 upregulated and 1200 downregulated lncRNAs."
+          },
+          "core_biological_function": "Long non-coding RNA; intricate regulatory role in MASLD pathogenesis.",
+          "relevant_activity_context": "MASLD diagnosis.",
+          "performance_or_health_indicator": "Promising biomarker for MASLD diagnosis."
+        },
+        {
+          "biomarker_name": "MALAT1",
+          "measured_tissue_or_fluid": "Liver tissue (from MASLD samples)",
+          "activity_type": "Expression",
+          "measured_effect": {
+            "direction_of_change": "differentially expressed",
+            "magnitude_quantification": "Showed great potential as a biomarker; part of a group of 535 upregulated and 1200 downregulated lncRNAs."
+          },
+          "core_biological_function": "Long non-coding RNA; intricate regulatory role in MASLD pathogenesis.",
+          "relevant_activity_context": "MASLD diagnosis.",
+          "performance_or_health_indicator": "Promising biomarker for MASLD diagnosis."
+        },
+        {
+          "biomarker_name": "circRNA_0046367",
+          "measured_tissue_or_fluid": "Patients with MASLD and MASH (implied liver tissue)",
+          "activity_type": "Expression",
+          "measured_effect": {
+            "direction_of_change": "differentially expressed",
+            "magnitude_quantification": "Differentially expressed."
+          },
+          "core_biological_function": "Circular RNA; role in MASLD/MASH pathogenesis.",
+          "relevant_activity_context": "MASLD and MASH.",
+          "performance_or_health_indicator": "Implied biomarker for MASLD/MASH."
+        },
+        {
+          "biomarker_name": "circRNA_0001805",
+          "measured_tissue_or_fluid": "Patients with MASLD and MASH (implied liver tissue)",
+          "activity_type": "Expression",
+          "measured_effect": {
+            "direction_of_change": "differentially expressed",
+            "magnitude_quantification": "Differentially expressed."
+          },
+          "core_biological_function": "Circular RNA; role in MASLD/MASH pathogenesis.",
+          "relevant_activity_context": "MASLD and MASH.",
+          "performance_or_health_indicator": "Implied biomarker for MASLD/MASH."
+        },
+        {
+          "biomarker_name": "SCAR",
+          "measured_tissue_or_fluid": "Patients with MASLD and MASH (implied liver tissue)",
+          "activity_type": "Expression",
+          "measured_effect": {
+            "direction_of_change": "differentially expressed",
+            "magnitude_quantification": "Differentially expressed."
+          },
+          "core_biological_function": "Circular RNA; role in MASLD/MASH pathogenesis.",
+          "relevant_activity_context": "MASLD and MASH.",
+          "performance_or_health_indicator": "Implied biomarker for MASLD/MASH."
+        },
+        {
+          "biomarker_name": "miR-30a",
+          "measured_tissue_or_fluid": "Murine serum EVs, EVs from ALD patients, exosomes from alcohol-fed mice",
+          "activity_type": "Content/Enrichment/Expression level (in EVs)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Higher content in murine serum EVs (ALD); enriched in EVs from ALD patients; upregulated expression in exosomes from alcohol-fed mice."
+          },
+          "core_biological_function": "Not explicitly detailed in the provided text.",
+          "relevant_activity_context": "Alcoholic Liver Disease (ALD), alcohol-fed mice, alcoholic hepatitis.",
+          "performance_or_health_indicator": "Associated with illness diagnosis; potential role as biomarker in alcoholic hepatitis; high specificity to alcohol-induced condition."
+        },
+        {
+          "biomarker_name": "miR-744",
+          "measured_tissue_or_fluid": "Murine serum EVs",
+          "activity_type": "Content (in EVs)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Higher content in murine serum EVs (ALD)."
+          },
+          "core_biological_function": "Not explicitly detailed in the provided text.",
+          "relevant_activity_context": "Alcoholic Liver Disease (murine model).",
+          "performance_or_health_indicator": "Not explicitly detailed in the provided text."
+        },
+        {
+          "biomarker_name": "miR-1246",
+          "measured_tissue_or_fluid": "Murine serum EVs",
+          "activity_type": "Content (in EVs)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Higher content in murine serum EVs (ALD)."
+          },
+          "core_biological_function": "Not explicitly detailed in the provided text.",
+          "relevant_activity_context": "Alcoholic Liver Disease (murine model).",
+          "performance_or_health_indicator": "Not explicitly detailed in the provided text."
+        },
+        {
+          "biomarker_name": "miR-30b",
+          "measured_tissue_or_fluid": "Murine serum EVs",
+          "activity_type": "Content (in EVs)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Higher content in murine serum EVs (ALD)."
+          },
+          "core_biological_function": "Not explicitly detailed in the provided text.",
+          "relevant_activity_context": "Alcoholic Liver Disease (murine model).",
+          "performance_or_health_indicator": "Not explicitly detailed in the provided text."
+        },
+        {
+          "biomarker_name": "miR-29a",
+          "measured_tissue_or_fluid": "Murine serum EVs, EVs released from hepatocytes into the blood (mice)",
+          "activity_type": "Content/Enrichment (in EVs)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Higher content in murine serum EVs (ALD); enriched in EVs released from hepatocytes into the blood under mild alcoholic steatohepatitis (ASH)."
+          },
+          "core_biological_function": "Not explicitly detailed in the provided text.",
+          "relevant_activity_context": "Alcoholic Liver Disease (murine model), mild alcoholic steatohepatitis (ASH).",
+          "performance_or_health_indicator": "Potentially useful biomarker for early detection of pathological alterations in ALD patients."
+        },
+        {
+          "biomarker_name": "let-7f",
+          "measured_tissue_or_fluid": "Murine serum EVs, EVs released from hepatocytes into the blood (mice)",
+          "activity_type": "Content/Enrichment (in EVs)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Higher content in murine serum EVs (ALD); enriched in EVs released from hepatocytes into the blood under mild alcoholic steatohepatitis (ASH)."
+          },
+          "core_biological_function": "Not explicitly detailed in the provided text.",
+          "relevant_activity_context": "Alcoholic Liver Disease (murine model), mild alcoholic steatohepatitis (ASH).",
+          "performance_or_health_indicator": "Not explicitly detailed in the provided text."
+        },
+        {
+          "biomarker_name": "miR-155",
+          "measured_tissue_or_fluid": "Murine serum EVs, blood of healthy individuals; Extracellular Vesicles (EVs)",
+          "activity_type": "Content/Level (in EVs or blood); miRNA Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Higher content in murine serum EVs (ALD); increased levels observed in healthy individuals after binge drinking; Increased levels correlated with the degree of hepatic necrosis and liver fibrosis."
+          },
+          "core_biological_function": "Not explicitly detailed in the provided text; Implied role in fibrosis progression",
+          "relevant_activity_context": "Alcoholic Liver Disease (murine model), binge alcohol drinking; Carbon tetrachloride (CCl4)-induced liver fibrosis in preclinical models",
+          "performance_or_health_indicator": "Not explicitly detailed in the provided text; Potential biomarker for diagnosing liver fibrosis; diagnostic accuracy increased when combined with circulating protein levels (e.g., AST)."
+        },
+        {
+          "biomarker_name": "Rab27b",
+          "measured_tissue_or_fluid": "Ethanol-stimulated Huh7.5 cells (in vitro)",
+          "activity_type": "Expression",
+          "measured_effect": {
+            "direction_of_change": "increased",
+            "magnitude_quantification": "Increased expression in ethanol-stimulated Huh7.5 cells."
+          },
+          "core_biological_function": "Critical in controlling exosome biogenesis pathways.",
+          "relevant_activity_context": "Ethanol stimulation of Huh7.5 cells (in vitro).",
+          "performance_or_health_indicator": "Implicated in increased EV release and enrichment of miR-122, highlighting a mechanism for biomarker release."
+        },
+        {
+          "biomarker_name": "miR-27a",
+          "measured_tissue_or_fluid": "EVs obtained from the plasma of patients affected by alcoholic hepatitis",
+          "activity_type": "Level/Content (in EVs)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "High levels in EVs from alcoholic hepatitis patients compared to healthy controls."
+          },
+          "core_biological_function": "Programs naive monocytes to polarize into M2 macrophages, resulting in augmented expression of M2 macrophage surface markers (CD206, CD163) and secretion of IL-10, TGF\u03b2, and increased phagocytic activity.",
+          "relevant_activity_context": "Alcoholic hepatitis.",
+          "performance_or_health_indicator": "Potentially useful biomarker for early detection of pathological alterations in ALD patients; indicates M2 macrophage polarization."
+        },
+        {
+          "biomarker_name": "miR-340",
+          "measured_tissue_or_fluid": "EVs released from hepatocytes into the blood (mice)",
+          "activity_type": "Enrichment (in EVs)",
+          "measured_effect": {
+            "direction_of_change": "enriched",
+            "magnitude_quantification": "Enriched in EVs released from hepatocytes into the blood under mild alcoholic steatohepatitis (ASH)."
+          },
+          "core_biological_function": "Not explicitly detailed in the provided text.",
+          "relevant_activity_context": "Mild alcoholic steatohepatitis (ASH).",
+          "performance_or_health_indicator": "Not explicitly detailed in the provided text."
+        },
+        {
+          "biomarker_name": "miR-142-3p",
+          "measured_tissue_or_fluid": "EV-enclosed (from AIH subjects)",
+          "activity_type": "Expression (in EVs)",
+          "measured_effect": {
+            "direction_of_change": "upregulated",
+            "magnitude_quantification": "Significantly upregulated in AIH subjects compared to healthy donors."
+          },
+          "core_biological_function": "Not explicitly detailed in the provided text.",
+          "relevant_activity_context": "Autoimmune Hepatitis (AIH).",
+          "performance_or_health_indicator": "Potential for EV-based RNA signature specific to AIH, aiding in early diagnosis."
+        },
+        {
+          "biomarker_name": "miR-10a",
+          "measured_tissue_or_fluid": "EV-enclosed (from AIH subjects)",
+          "activity_type": "Expression (in EVs)",
+          "measured_effect": {
+            "direction_of_change": "upregulated",
+            "magnitude_quantification": "Significantly upregulated in AIH subjects compared to healthy donors."
+          },
+          "core_biological_function": "Not explicitly detailed in the provided text.",
+          "relevant_activity_context": "Autoimmune Hepatitis (AIH).",
+          "performance_or_health_indicator": "Potential for EV-based RNA signature specific to AIH, aiding in early diagnosis."
+        },
+        {
+          "biomarker_name": "miR-223",
+          "measured_tissue_or_fluid": "EV-enclosed (from AIH subjects), miR-223-rich EVs released from neutrophils (NAFLD model), miR-223-containing exosomes (experimental AIH model).",
+          "activity_type": "Expression/Content (in EVs), Protective effect",
+          "measured_effect": {
+            "direction_of_change": "upregulated, protective",
+            "magnitude_quantification": "Significantly upregulated in AIH subjects compared to healthy donors. Use of miR-223-containing exosomes protected against liver injury through a reduction in pro-inflammatory cytokines in an experimentally induced AIH model."
+          },
+          "core_biological_function": "Plays an essential role in liver homeostasis and chronic liver diseases; protective against liver injury through reduction of pro-inflammatory cytokines.",
+          "relevant_activity_context": "Autoimmune Hepatitis (AIH), NAFLD, experimentally induced AIH.",
+          "performance_or_health_indicator": "Potential for EV-based RNA signature specific to AIH, aiding in early diagnosis; protective against liver injury; warrants further study as a biomarker."
+        },
+        {
+          "biomarker_name": "miR-150",
+          "measured_tissue_or_fluid": "AIH patients\u2019 serum-derived EVs; Circulating EVs (HBV/HCV)",
+          "activity_type": "Enrichment (in EVs); Expression (in EVs)",
+          "measured_effect": {
+            "direction_of_change": "enriched; downregulated",
+            "magnitude_quantification": "Significantly enriched in AIH patients\u2019 serum-derived EVs compared to non-AIH subjects (AIH vs. NAFLD, AIH vs. healthy controls); Significantly downregulated in circulating EVs in both HBV and HCV patients (early-stage fibrotic patients)."
+          },
+          "core_biological_function": "Not explicitly detailed in the provided text.",
+          "relevant_activity_context": "Autoimmune Hepatitis (AIH); Chronic HBV or HCV infection (early-stage fibrosis).",
+          "performance_or_health_indicator": "Potential for EV-based RNA signature specific to AIH, aiding in early diagnosis; Potential non-invasive biomarker for detecting early fibrosis."
+        },
+        {
+          "biomarker_name": "miR-15a",
+          "measured_tissue_or_fluid": "AIH patients\u2019 serum-derived EVs",
+          "activity_type": "Enrichment (in EVs)",
+          "measured_effect": {
+            "direction_of_change": "enriched",
+            "magnitude_quantification": "Significantly enriched in AIH patients\u2019 serum-derived EVs compared to non-AIH subjects (AIH vs. NAFLD, AIH vs. healthy controls)."
+          },
+          "core_biological_function": "Not explicitly detailed in the provided text.",
+          "relevant_activity_context": "Autoimmune Hepatitis (AIH).",
+          "performance_or_health_indicator": "Potential for EV-based RNA signature specific to AIH, aiding in early diagnosis."
+        },
+        {
+          "biomarker_name": "miR-7855-5p",
+          "measured_tissue_or_fluid": "Circulating EVs (AIH patients)",
+          "activity_type": "Encapsulated (in EVs)",
+          "measured_effect": {
+            "direction_of_change": "differentially expressed",
+            "magnitude_quantification": "Could discriminate AIH patients from healthy controls."
+          },
+          "core_biological_function": "Not explicitly detailed in the provided text.",
+          "relevant_activity_context": "Autoimmune Hepatitis (AIH).",
+          "performance_or_health_indicator": "Aids in discriminating AIH patients from healthy controls, indicating diagnostic potential."
+        },
+        {
+          "biomarker_name": "miR-6806-5p",
+          "measured_tissue_or_fluid": "Circulating EVs (AIH patients)",
+          "activity_type": "Encapsulated (in EVs)",
+          "measured_effect": {
+            "direction_of_change": "differentially expressed",
+            "magnitude_quantification": "Could discriminate AIH patients from healthy controls."
+          },
+          "core_biological_function": "Not explicitly detailed in the provided text.",
+          "relevant_activity_context": "Autoimmune Hepatitis (AIH).",
+          "performance_or_health_indicator": "Aids in discriminating AIH patients from healthy controls, indicating diagnostic potential."
+        },
+        {
+          "biomarker_name": "miR-557",
+          "measured_tissue_or_fluid": "Circulating EVs (AIH patients)",
+          "activity_type": "Encapsulated (in EVs), Level",
+          "measured_effect": {
+            "direction_of_change": "high, associated with higher risk",
+            "magnitude_quantification": "Showed significantly high specificity as a diagnostic or relapse marker in AIH versus NASH, Primary Biliary Cirrhosis, or healthy controls. An EV level > 7.69 copies/\u00b5L was associated with a higher risk of relapse."
+          },
+          "core_biological_function": "Not explicitly detailed in the provided text.",
+          "relevant_activity_context": "Autoimmune Hepatitis (AIH).",
+          "performance_or_health_indicator": "Highly specific diagnostic or relapse marker for AIH; helps in predicting disease relapses."
+        },
+        {
+          "biomarker_name": "miR-19a",
+          "measured_tissue_or_fluid": "Serum EVs of chronic HCV patients with fibrosis",
+          "activity_type": "Level (in EVs)",
+          "measured_effect": {
+            "direction_of_change": "increased",
+            "magnitude_quantification": "Levels in serum EVs of chronic HCV patients with fibrosis were notably increased compared to those of healthy subjects."
+          },
+          "core_biological_function": "Not explicitly detailed in the provided text.",
+          "relevant_activity_context": "Chronic HCV infection with fibrosis.",
+          "performance_or_health_indicator": "Potential biomarker for progression of viral hepatitis."
+        },
+        {
+          "biomarker_name": "miR-200b",
+          "measured_tissue_or_fluid": "Circulating EVs (HBV/HCV), total plasma samples (HBV/HCV)",
+          "activity_type": "Expression (in EVs), Enrichment (in total plasma)",
+          "measured_effect": {
+            "direction_of_change": "downregulated (in EVs), enriched (in total plasma)",
+            "magnitude_quantification": "Significantly downregulated in circulating EVs in both HBV and HCV patients (early-stage fibrotic patients); significantly enriched in total plasma samples under both conditions."
+          },
+          "core_biological_function": "Not explicitly detailed in the provided text.",
+          "relevant_activity_context": "Chronic HBV or HCV infection (early-stage fibrosis).",
+          "performance_or_health_indicator": "Potential non-invasive biomarker for detecting early fibrosis; highlights importance of liquid biopsy type."
+        },
+        {
+          "biomarker_name": "miR-92a",
+          "measured_tissue_or_fluid": "Circulating EVs (HBV/HCV)",
+          "activity_type": "Expression (in EVs)",
+          "measured_effect": {
+            "direction_of_change": "downregulated",
+            "magnitude_quantification": "Significantly downregulated in circulating EVs in both HBV and HCV patients (early-stage fibrotic patients)."
+          },
+          "core_biological_function": "Not explicitly detailed in the provided text.",
+          "relevant_activity_context": "Chronic HBV or HCV infection (early-stage fibrosis).",
+          "performance_or_health_indicator": "Potential non-invasive biomarker for detecting early fibrosis."
+        },
+        {
+          "biomarker_name": "lncRNA-HEIH",
+          "measured_tissue_or_fluid": "EVs of HCV-related HCC patients",
+          "activity_type": "Enrichment (in EVs)",
+          "measured_effect": {
+            "direction_of_change": "enriched",
+            "magnitude_quantification": "Enriched in the EVs of HCV-related HCC patients versus control subjects."
+          },
+          "core_biological_function": "Long non-coding RNA.",
+          "relevant_activity_context": "HCV-related Hepatocellular Carcinoma (HCC).",
+          "performance_or_health_indicator": "Allowed differential diagnosis of HCV-related HCC with respect to chronic hepatitis B and liver cirrhosis."
+        },
+        {
+          "biomarker_name": "miR-192-5p",
+          "measured_tissue_or_fluid": "Circulating EVs of cholestatic mice",
+          "activity_type": "Enrichment (in EVs)",
+          "measured_effect": {
+            "direction_of_change": "significantly enriched",
+            "magnitude_quantification": "Significantly enriched in the circulating EVs of cholestatic mice with respect to non-cholestatic ones."
+          },
+          "core_biological_function": "Not explicitly detailed in the provided text.",
+          "relevant_activity_context": "Cholestasis-induced liver fibrosis (murine model).",
+          "performance_or_health_indicator": "Correlated with the development of cholestasis-induced liver fibrosis; potential biomarker for detecting early fibrosis."
+        },
+        {
+          "biomarker_name": "miR-194-5p",
+          "measured_tissue_or_fluid": "Circulating EVs of cholestatic mice",
+          "activity_type": "Enrichment (in EVs)",
+          "measured_effect": {
+            "direction_of_change": "significantly enriched",
+            "magnitude_quantification": "Significantly enriched in the circulating EVs of cholestatic mice with respect to non-cholestatic ones."
+          },
+          "core_biological_function": "Not explicitly detailed in the provided text.",
+          "relevant_activity_context": "Cholestasis-induced liver fibrosis (murine model).",
+          "performance_or_health_indicator": "Correlated with the development of cholestasis-induced liver fibrosis; potential biomarker for detecting early fibrosis."
+        },
+        {
+          "biomarker_name": "miR-22-3p",
+          "measured_tissue_or_fluid": "Circulating EVs of cholestatic mice",
+          "activity_type": "Enrichment (in EVs)",
+          "measured_effect": {
+            "direction_of_change": "significantly enriched",
+            "magnitude_quantification": "Significantly enriched in the circulating EVs of cholestatic mice with respect to non-cholestatic ones."
+          },
+          "core_biological_function": "Not explicitly detailed in the provided text.",
+          "relevant_activity_context": "Cholestasis-induced liver fibrosis (murine model).",
+          "performance_or_health_indicator": "Correlated with the development of cholestasis-induced liver fibrosis; potential biomarker for detecting early fibrosis."
+        },
+        {
+          "biomarker_name": "miR-29a-3p",
+          "measured_tissue_or_fluid": "Circulating EVs of cholestatic mice",
+          "activity_type": "Enrichment (in EVs)",
+          "measured_effect": {
+            "direction_of_change": "significantly enriched",
+            "magnitude_quantification": "Significantly enriched in the circulating EVs of cholestatic mice with respect to non-cholestatic ones."
+          },
+          "core_biological_function": "Not explicitly detailed in the provided text.",
+          "relevant_activity_context": "Cholestasis-induced liver fibrosis (murine model).",
+          "performance_or_health_indicator": "Correlated with the development of cholestasis-induced liver fibrosis; potential biomarker for detecting early fibrosis."
+        },
+        {
+          "biomarker_name": "Hp mRNA",
+          "measured_tissue_or_fluid": "Circulating EVs of cholestatic mice",
+          "activity_type": "Enrichment (in EVs)",
+          "measured_effect": {
+            "direction_of_change": "significantly enriched",
+            "magnitude_quantification": "Significantly enriched in the circulating EVs of cholestatic mice with respect to non-cholestatic ones."
+          },
+          "core_biological_function": "Not explicitly detailed beyond mRNA.",
+          "relevant_activity_context": "Cholestasis-induced liver fibrosis (murine model).",
+          "performance_or_health_indicator": "Correlated with the development of cholestasis-induced liver fibrosis; potential biomarker for detecting early fibrosis."
+        },
+        {
+          "biomarker_name": "RFFL mRNA (ring finger and FYVE-like domain containing E3 ubiquitin protein ligase mRNA)",
+          "measured_tissue_or_fluid": "Serum EV-derived RNA (CCA patients)",
+          "activity_type": "Content",
+          "measured_effect": {
+            "direction_of_change": "differentially present",
+            "magnitude_quantification": "RNA candidate revealed in comparison of CCA patients\u2019 and healthy individuals\u2019 EV-derived RNA."
+          },
+          "core_biological_function": "E3 ubiquitin protein ligase.",
+          "relevant_activity_context": "Cholangiocarcinoma (CCA) development.",
+          "performance_or_health_indicator": "Promising biomarker candidate for diagnosis of CCA."
+        },
+        {
+          "biomarker_name": "OR4F3 mRNA (olfactory receptor family 4 subfamily F member 3 mRNA)",
+          "measured_tissue_or_fluid": "Serum EV-derived RNA (CCA patients)",
+          "activity_type": "Content",
+          "measured_effect": {
+            "direction_of_change": "differentially present",
+            "magnitude_quantification": "RNA candidate revealed in comparison of CCA patients\u2019 and healthy individuals\u2019 EV-derived RNA."
+          },
+          "core_biological_function": "Olfactory receptor.",
+          "relevant_activity_context": "Cholangiocarcinoma (CCA) development.",
+          "performance_or_health_indicator": "Promising biomarker candidate for diagnosis of CCA."
+        },
+        {
+          "biomarker_name": "FAM107B mRNA (family with sequence similarity 107 member B mRNA)",
+          "measured_tissue_or_fluid": "Serum EV-derived RNA (CCA patients)",
+          "activity_type": "Content",
+          "measured_effect": {
+            "direction_of_change": "differentially present",
+            "magnitude_quantification": "RNA candidate revealed in comparison of CCA patients\u2019 and healthy individuals\u2019 EV-derived RNA."
+          },
+          "core_biological_function": "Not explicitly detailed in the provided text.",
+          "relevant_activity_context": "Cholangiocarcinoma (CCA) development.",
+          "performance_or_health_indicator": "Promising biomarker candidate for diagnosis of CCA."
+        },
+        {
+          "biomarker_name": "PMS2L4 ncRNA (PMS1 homolog 2 mismatch repair system component pseudogene 4 ncRNA)",
+          "measured_tissue_or_fluid": "Serum EV-derived RNA (CCA patients)",
+          "activity_type": "Content",
+          "measured_effect": {
+            "direction_of_change": "differentially present",
+            "magnitude_quantification": "ncRNA candidate revealed in comparison of CCA patients\u2019 and healthy individuals\u2019 EV-derived RNA."
+          },
+          "core_biological_function": "Mismatch repair system component pseudogene.",
+          "relevant_activity_context": "Cholangiocarcinoma (CCA) development.",
+          "performance_or_health_indicator": "Promising biomarker candidate for diagnosis of CCA."
+        },
+        {
+          "biomarker_name": "miR-604",
+          "measured_tissue_or_fluid": "Serum EV-derived RNA (CCA patients)",
+          "activity_type": "Content",
+          "measured_effect": {
+            "direction_of_change": "differentially present",
+            "magnitude_quantification": "ncRNA candidate revealed in comparison of CCA patients\u2019 and healthy individuals\u2019 EV-derived RNA."
+          },
+          "core_biological_function": "Not explicitly detailed in the provided text.",
+          "relevant_activity_context": "Cholangiocarcinoma (CCA) development.",
+          "performance_or_health_indicator": "Promising biomarker candidate for diagnosis of CCA."
+        },
+        {
+          "biomarker_name": "SNORA58 (small nucleolar RNA)",
+          "measured_tissue_or_fluid": "Serum EV-derived RNA (CCA patients)",
+          "activity_type": "Content",
+          "measured_effect": {
+            "direction_of_change": "differentially present",
+            "magnitude_quantification": "ncRNA candidate revealed in comparison of CCA patients\u2019 and healthy individuals\u2019 EV-derived RNA."
+          },
+          "core_biological_function": "Small nucleolar RNA.",
+          "relevant_activity_context": "Cholangiocarcinoma (CCA) development.",
+          "performance_or_health_indicator": "Promising biomarker candidate for diagnosis of CCA."
+        },
+        {
+          "biomarker_name": "PON1 mRNA (paraoxonase 1 mRNA)",
+          "measured_tissue_or_fluid": "Serum EV-derived RNA (CCA vs PSC patients)",
+          "activity_type": "Content",
+          "measured_effect": {
+            "direction_of_change": "differentially present",
+            "magnitude_quantification": "Differentially present in EVs derived from CCA versus PSC."
+          },
+          "core_biological_function": "Not explicitly detailed in the provided text.",
+          "relevant_activity_context": "Cholangiocarcinoma (CCA) vs Primary Sclerosing Cholangitis (PSC) differential diagnosis.",
+          "performance_or_health_indicator": "Promising biomarker candidate for differential diagnosis between CCA and PSC."
+        },
+        {
+          "biomarker_name": "ATF4 mRNA (activating transcription factor 4 mRNA)",
+          "measured_tissue_or_fluid": "Serum EV-derived RNA (CCA vs PSC patients)",
+          "activity_type": "Content",
+          "measured_effect": {
+            "direction_of_change": "differentially present",
+            "magnitude_quantification": "Differentially present in EVs derived from CCA versus PSC."
+          },
+          "core_biological_function": "Activating transcription factor.",
+          "relevant_activity_context": "Cholangiocarcinoma (CCA) vs Primary Sclerosing Cholangitis (PSC) differential diagnosis.",
+          "performance_or_health_indicator": "Promising biomarker candidate for differential diagnosis between CCA and PSC."
+        },
+        {
+          "biomarker_name": "PHGDH mRNA (phosphoglycerate dehydrogenase mRNA)",
+          "measured_tissue_or_fluid": "Serum EV-derived RNA (CCA vs PSC patients)",
+          "activity_type": "Content",
+          "measured_effect": {
+            "direction_of_change": "differentially present",
+            "magnitude_quantification": "Differentially present in EVs derived from CCA versus PSC."
+          },
+          "core_biological_function": "Phosphoglycerate dehydrogenase.",
+          "relevant_activity_context": "Cholangiocarcinoma (CCA) vs Primary Sclerosing Cholangitis (PSC) differential diagnosis.",
+          "performance_or_health_indicator": "Promising biomarker candidate for differential diagnosis between CCA and PSC."
+        },
+        {
+          "biomarker_name": "MALAT1 lncRNA (metastasis-associated lung adenocarcinoma transcript 1 lncRNA)",
+          "measured_tissue_or_fluid": "Serum EV-derived RNA (CCA vs PSC patients)",
+          "activity_type": "Content",
+          "measured_effect": {
+            "direction_of_change": "differentially present",
+            "magnitude_quantification": "Differentially present in EVs derived from CCA versus PSC."
+          },
+          "core_biological_function": "Long non-coding RNA associated with metastasis.",
+          "relevant_activity_context": "Cholangiocarcinoma (CCA) vs Primary Sclerosing Cholangitis (PSC) differential diagnosis.",
+          "performance_or_health_indicator": "Promising biomarker candidate for differential diagnosis between CCA and PSC."
+        },
+        {
+          "biomarker_name": "LOC100190986 lncRNA",
+          "measured_tissue_or_fluid": "Serum EV-derived RNA (CCA vs PSC patients)",
+          "activity_type": "Content",
+          "measured_effect": {
+            "direction_of_change": "differentially present",
+            "magnitude_quantification": "Differentially present in EVs derived from CCA versus PSC."
+          },
+          "core_biological_function": "Long non-coding RNA.",
+          "relevant_activity_context": "Cholangiocarcinoma (CCA) vs Primary Sclerosing Cholangitis (PSC) differential diagnosis.",
+          "performance_or_health_indicator": "Promising biomarker candidate for differential diagnosis between CCA and PSC."
+        },
+        {
+          "biomarker_name": "SNORA11B snoRNA (small nucleolar RNA)",
+          "measured_tissue_or_fluid": "Serum EV-derived RNA (CCA vs PSC patients)",
+          "activity_type": "Content",
+          "measured_effect": {
+            "direction_of_change": "differentially present",
+            "magnitude_quantification": "Differentially present in EVs derived from CCA versus PSC."
+          },
+          "core_biological_function": "Small nucleolar RNA.",
+          "relevant_activity_context": "Cholangiocarcinoma (CCA) vs Primary Sclerosing Cholangitis (PSC) differential diagnosis.",
+          "performance_or_health_indicator": "Promising biomarker candidate for differential diagnosis between CCA and PSC."
+        },
+        {
+          "biomarker_name": "MAP6D1 mRNA (MAP6 domain containing 1 mRNA)",
+          "measured_tissue_or_fluid": "Urine-derived EVs (CCA patients)",
+          "activity_type": "Content",
+          "measured_effect": {
+            "direction_of_change": "differentially present",
+            "magnitude_quantification": "Differentially present in urine-derived EVs in CCA patients compared to healthy individuals."
+          },
+          "core_biological_function": "Not explicitly detailed in the provided text.",
+          "relevant_activity_context": "Cholangiocarcinoma (CCA) diagnosis.",
+          "performance_or_health_indicator": "Promising biomarker candidate for diagnosis of CCA."
+        },
+        {
+          "biomarker_name": "RRAGD mRNA (Ras-related GTP-binding D mRNA)",
+          "measured_tissue_or_fluid": "Urine-derived EVs (CCA patients)",
+          "activity_type": "Content",
+          "measured_effect": {
+            "direction_of_change": "differentially present",
+            "magnitude_quantification": "Differentially present in urine-derived EVs in CCA patients compared to healthy individuals."
+          },
+          "core_biological_function": "Ras-related GTP-binding protein.",
+          "relevant_activity_context": "Cholangiocarcinoma (CCA) diagnosis.",
+          "performance_or_health_indicator": "Promising biomarker candidate for diagnosis of CCA."
+        },
+        {
+          "biomarker_name": "HCG4 lncRNA (HLA complex group 4 lncRNA)",
+          "measured_tissue_or_fluid": "Urine-derived EVs (CCA patients)",
+          "activity_type": "Content",
+          "measured_effect": {
+            "direction_of_change": "differentially present",
+            "magnitude_quantification": "Differentially present in urine-derived EVs in CCA patients compared to healthy individuals."
+          },
+          "core_biological_function": "Long non-coding RNA.",
+          "relevant_activity_context": "Cholangiocarcinoma (CCA) diagnosis.",
+          "performance_or_health_indicator": "Promising biomarker candidate for diagnosis of CCA."
+        },
+        {
+          "biomarker_name": "LOC100134868 lncRNA",
+          "measured_tissue_or_fluid": "Urine-derived EVs (CCA patients)",
+          "activity_type": "Content",
+          "measured_effect": {
+            "direction_of_change": "differentially present",
+            "magnitude_quantification": "Differentially present in urine-derived EVs in CCA patients compared to healthy individuals."
+          },
+          "core_biological_function": "Long non-coding RNA.",
+          "relevant_activity_context": "Cholangiocarcinoma (CCA) diagnosis.",
+          "performance_or_health_indicator": "Promising biomarker candidate for diagnosis of CCA."
+        },
+        {
+          "biomarker_name": "miR-214",
+          "measured_tissue_or_fluid": "Circulating Exosomes",
+          "activity_type": "miRNA Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Increased levels versus control mice, correlated with fibrosis severity."
+          },
+          "core_biological_function": "Implied role in fibrosis progression",
+          "relevant_activity_context": "CCl4 treatment in rodent models (mice)",
+          "performance_or_health_indicator": "Potential biomarker for fibrosis diagnosis and grading, especially as part of a panel with Twist1 and CCN2."
+        },
+        {
+          "biomarker_name": "Twist1",
+          "measured_tissue_or_fluid": "Circulating Exosomes",
+          "activity_type": "Gene Transcript/Protein Level (implied, as part of a biomarker panel)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Increased levels versus control mice, correlated with fibrosis severity."
+          },
+          "core_biological_function": "Implied role in fibrosis progression",
+          "relevant_activity_context": "CCl4 treatment in rodent models (mice)",
+          "performance_or_health_indicator": "Potential biomarker for fibrosis diagnosis and grading, especially as part of a panel with miR-214 and CCN2."
+        },
+        {
+          "biomarker_name": "CCN2 (connective tissue growth factor)",
+          "measured_tissue_or_fluid": "Circulating Exosomes",
+          "activity_type": "Protein Level (implied, as part of a biomarker panel)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Increased levels versus control mice, correlated with fibrosis severity."
+          },
+          "core_biological_function": "Implied role in fibrosis progression",
+          "relevant_activity_context": "CCl4 treatment in rodent models (mice)",
+          "performance_or_health_indicator": "Potential biomarker for fibrosis diagnosis and grading, especially as part of a panel with miR-214 and Twist1."
+        },
+        {
+          "biomarker_name": "miR-34c",
+          "measured_tissue_or_fluid": "Extracellular Vesicles (EVs)",
+          "activity_type": "miRNA Level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Significantly lower in EVs compared to respective controls."
+          },
+          "core_biological_function": "Implied role in fibrosis progression",
+          "relevant_activity_context": "Fibrotic mice (CCl4-induced) and hepatic fibrosis patients",
+          "performance_or_health_indicator": "Potential biomarker for liver fibrosis."
+        },
+        {
+          "biomarker_name": "miR-151-3p",
+          "measured_tissue_or_fluid": "Extracellular Vesicles (EVs)",
+          "activity_type": "miRNA Level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Significantly lower in EVs compared to respective controls."
+          },
+          "core_biological_function": "Implied role in fibrosis progression",
+          "relevant_activity_context": "Fibrotic mice (CCl4-induced) and hepatic fibrosis patients",
+          "performance_or_health_indicator": "Potential biomarker for liver fibrosis."
+        },
+        {
+          "biomarker_name": "miR-483-5p",
+          "measured_tissue_or_fluid": "Extracellular Vesicles (EVs)",
+          "activity_type": "miRNA Level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Significantly lower in EVs compared to respective controls."
+          },
+          "core_biological_function": "Implied role in fibrosis progression",
+          "relevant_activity_context": "Fibrotic mice (CCl4-induced) and hepatic fibrosis patients",
+          "performance_or_health_indicator": "Potential biomarker for liver fibrosis."
+        },
+        {
+          "biomarker_name": "miR-532-5p",
+          "measured_tissue_or_fluid": "Extracellular Vesicles (EVs)",
+          "activity_type": "miRNA Level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Significantly lower in EVs compared to respective controls."
+          },
+          "core_biological_function": "Implied role in fibrosis progression",
+          "relevant_activity_context": "Fibrotic mice (CCl4-induced) and hepatic fibrosis patients",
+          "performance_or_health_indicator": "Potential biomarker for liver fibrosis."
+        },
+        {
+          "biomarker_name": "lncRNA-MALAT1",
+          "measured_tissue_or_fluid": "Extracellular Vesicles (EVs)",
+          "activity_type": "lncRNA Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Increased levels in EVs of arsenite-treated mice compared to controls; higher in arsenic-exposed individuals compared to healthy volunteers."
+          },
+          "core_biological_function": "Implied role in liver fibrosis induced by oxidative stress and hepatic stellate cell activation.",
+          "relevant_activity_context": "Arsenite-induced liver fibrosis mouse model; arsenic-exposed individuals",
+          "performance_or_health_indicator": "Potential biomarker for liver fibrosis, particularly in cases linked to arsenic exposure."
+        },
+        {
+          "biomarker_name": "EV-MALAT1",
+          "measured_tissue_or_fluid": "Serum Extracellular Vesicles (EVs)",
+          "activity_type": "lncRNA Level",
+          "measured_effect": {
+            "direction_of_change": "detected",
+            "magnitude_quantification": "Detected in serum EVs."
+          },
+          "core_biological_function": "HCC-driver oncogenic lncRNA candidate.",
+          "relevant_activity_context": "Diagnosis of hepatocellular carcinoma (HCC)",
+          "performance_or_health_indicator": "Promising biomarker for HCC diagnosis; superior sensitivity compared to Alpha-fetoprotein (AFP); able to detect early stages of HCC."
+        },
+        {
+          "biomarker_name": "EV-DLEU2",
+          "measured_tissue_or_fluid": "Serum Extracellular Vesicles (EVs)",
+          "activity_type": "lncRNA Level",
+          "measured_effect": {
+            "direction_of_change": "detected",
+            "magnitude_quantification": "Detected in serum EVs."
+          },
+          "core_biological_function": "HCC-driver oncogenic lncRNA candidate.",
+          "relevant_activity_context": "Diagnosis of hepatocellular carcinoma (HCC)",
+          "performance_or_health_indicator": "Promising biomarker for HCC diagnosis; superior sensitivity compared to Alpha-fetoprotein (AFP)."
+        },
+        {
+          "biomarker_name": "EV-HOTTIP",
+          "measured_tissue_or_fluid": "Serum Extracellular Vesicles (EVs)",
+          "activity_type": "lncRNA Level",
+          "measured_effect": {
+            "direction_of_change": "detected",
+            "magnitude_quantification": "Detected in serum EVs."
+          },
+          "core_biological_function": "HCC-driver oncogenic lncRNA candidate.",
+          "relevant_activity_context": "Diagnosis of hepatocellular carcinoma (HCC)",
+          "performance_or_health_indicator": "Promising biomarker for HCC diagnosis; superior sensitivity compared to Alpha-fetoprotein (AFP)."
+        },
+        {
+          "biomarker_name": "EV-SNHG1",
+          "measured_tissue_or_fluid": "Serum Extracellular Vesicles (EVs)",
+          "activity_type": "lncRNA Level",
+          "measured_effect": {
+            "direction_of_change": "detected",
+            "magnitude_quantification": "Detected in serum EVs."
+          },
+          "core_biological_function": "HCC-driver oncogenic lncRNA candidate.",
+          "relevant_activity_context": "Diagnosis of hepatocellular carcinoma (HCC)",
+          "performance_or_health_indicator": "Promising biomarker for HCC diagnosis; superior sensitivity compared to Alpha-fetoprotein (AFP); able to detect early stages of HCC."
+        },
+        {
+          "biomarker_name": "hsa-miRNA-1298",
+          "measured_tissue_or_fluid": "Extracellular Vesicles (EVs) isolated from Blood Serum; Extracellular Vesicles (EVs)",
+          "activity_type": "ncRNA Level; ncRNA level",
+          "measured_effect": {
+            "direction_of_change": "presence; higher",
+            "magnitude_quantification": "Presence in EVs; Demonstrated better sensitivity and specificity in detecting HCC with respect to AFP; Demonstrated better sensitivity and specificity in detecting HCC with respect to AFP."
+          },
+          "core_biological_function": "Involved in HCC pathogenesis (implied by selection in study); Non-coding RNA with gene regulatory potential.",
+          "relevant_activity_context": "Detection of HCC in patients compared to non-HCC controls; Detection of Hepatocellular Carcinoma (HCC)",
+          "performance_or_health_indicator": "Showed better sensitivity and specificity in detecting HCC compared to Alpha-fetoprotein (AFP), particularly as part of a panel with lncRNA-RP11-583F2.2; Indicates diagnostic potential for HCC, surpassing AFP in sensitivity and specificity."
+        },
+        {
+          "biomarker_name": "lncRNA-RP11-583F2.2",
+          "measured_tissue_or_fluid": "Extracellular Vesicles (EVs) isolated from Blood Serum; Extracellular Vesicles (EVs)",
+          "activity_type": "ncRNA Level; ncRNA level",
+          "measured_effect": {
+            "direction_of_change": "presence; higher",
+            "magnitude_quantification": "Presence in EVs; Demonstrated better sensitivity and specificity in detecting HCC with respect to AFP; Demonstrated better sensitivity and specificity in detecting HCC with respect to AFP."
+          },
+          "core_biological_function": "Involved in HCC pathogenesis (implied by selection in study); Non-coding RNA with gene regulatory potential.",
+          "relevant_activity_context": "Detection of HCC in patients compared to non-HCC controls; Detection of Hepatocellular Carcinoma (HCC)",
+          "performance_or_health_indicator": "Showed better sensitivity and specificity in detecting HCC compared to Alpha-fetoprotein (AFP), particularly as part of a panel with hsa-miRNA-1298; Indicates diagnostic potential for HCC, surpassing AFP in sensitivity and specificity."
+        },
+        {
+          "biomarker_name": "lncRNA-AT",
+          "measured_tissue_or_fluid": "EV-enclosed in serum",
+          "activity_type": "ncRNA level",
+          "measured_effect": {
+            "direction_of_change": "significantly enriched",
+            "magnitude_quantification": "Significantly enriched in the EVs of HCC patients with higher mortality and lower disease-free survival with respect to those with lower levels."
+          },
+          "core_biological_function": "Non-coding RNA involved in gene regulation.",
+          "relevant_activity_context": "Prognosis of Hepatocellular Carcinoma (HCC)",
+          "performance_or_health_indicator": "Associated with higher mortality and lower disease-free survival in HCC patients, highlighting its potential as a prognostic biomarker for HCC outcome."
+        },
+        {
+          "biomarker_name": "N6-methyladenosine (m6A)",
+          "measured_tissue_or_fluid": "RNA (post-transcriptional modification)",
+          "activity_type": "Post-transcriptional modification level",
+          "measured_effect": {
+            "direction_of_change": "dysregulated/pivotal role",
+            "magnitude_quantification": "Dysregulated m6A RNA and enzyme profiles observed in HCC; notably fosters MASLD development through adipogenesis, lipid metabolism, inflammation, and insulin resistance; plays a crucial role in hepatitis B virus (HBV) replication and immunity, thereby contributing to HBV-induced HCC pathogenesis. Analogous mechanisms implicated in hepatitis C virus (HCV) infection and m6A-mediated immune system suppression."
+          },
+          "core_biological_function": "Post-transcriptional RNA modification, affecting gene expression, regulating adipogenesis, lipid metabolism, inflammation, insulin resistance, viral replication, and immune response.",
+          "relevant_activity_context": "MASLD development, HBV replication, HBV-induced HCC pathogenesis, HCV infection, m6A-mediated immune system suppression, chronic hepatitis, HCC progression.",
+          "performance_or_health_indicator": "Pivotal in MASLD development and HBV/HCV-induced HCC pathogenesis; dysregulation correlates with HCC progression, indicating potential for CLD diagnoses and therapeutic interventions."
+        },
+        {
+          "biomarker_name": "m6A-circCCAR1",
+          "measured_tissue_or_fluid": "Plasma-derived exosome-encapsulated",
+          "activity_type": "circRNA with m6A modification level",
+          "measured_effect": {
+            "direction_of_change": "promotes",
+            "magnitude_quantification": "Promotes CD8+ T-cell dysfunction and anti-PD1 resistance in HCC."
+          },
+          "core_biological_function": "Circular RNA with m6A modification, influencing immune response and therapeutic resistance.",
+          "relevant_activity_context": "Hepatocellular Carcinoma (HCC) and anti-PD1 resistance.",
+          "performance_or_health_indicator": "Indicates a role in promoting CD8+ T-cell dysfunction and anti-PD1 resistance in HCC, suggesting a potential target for therapeutic interventions and diagnostic value for treatment response."
+        },
+        {
+          "biomarker_name": "piR-15254",
+          "measured_tissue_or_fluid": "Serum EVs (exosomes)",
+          "activity_type": "piRNA level",
+          "measured_effect": {
+            "direction_of_change": "significantly higher",
+            "magnitude_quantification": "Present at significantly higher levels in HCC samples compared to non-tumor controls. When combined with other piRNAs, it presented a superior AUROC for HCC detection."
+          },
+          "core_biological_function": "Non-coding RNA, likely involved in gene regulation.",
+          "relevant_activity_context": "Diagnosis of Hepatocellular Carcinoma (HCC).",
+          "performance_or_health_indicator": "Diagnostic biomarker for HCC, especially useful for detecting HCC with low tumor burden, with improved performance when used in combination."
+        },
+        {
+          "biomarker_name": "piR-1029",
+          "measured_tissue_or_fluid": "Serum EVs (exosomes)",
+          "activity_type": "piRNA level",
+          "measured_effect": {
+            "direction_of_change": "significantly higher",
+            "magnitude_quantification": "Present at significantly higher levels in HCC samples compared to non-tumor controls. When combined with other piRNAs, it presented a superior AUROC for HCC detection."
+          },
+          "core_biological_function": "Non-coding RNA, likely involved in gene regulation.",
+          "relevant_activity_context": "Diagnosis of Hepatocellular Carcinoma (HCC).",
+          "performance_or_health_indicator": "Diagnostic biomarker for HCC, especially useful for detecting HCC with low tumor burden, with improved performance when used in combination."
+        },
+        {
+          "biomarker_name": "piR-35395",
+          "measured_tissue_or_fluid": "Serum EVs (exosomes)",
+          "activity_type": "piRNA level",
+          "measured_effect": {
+            "direction_of_change": "significantly higher",
+            "magnitude_quantification": "Present at significantly higher levels in HCC samples compared to non-tumor controls. When combined with other piRNAs, it presented a superior AUROC for HCC detection."
+          },
+          "core_biological_function": "Non-coding RNA, likely involved in gene regulation.",
+          "relevant_activity_context": "Diagnosis of Hepatocellular Carcinoma (HCC).",
+          "performance_or_health_indicator": "Diagnostic biomarker for HCC, especially useful for detecting HCC with low tumor burden, with improved performance when used in combination."
+        },
+        {
+          "biomarker_name": "novel-piR-32132",
+          "measured_tissue_or_fluid": "Serum EVs (exosomes)",
+          "activity_type": "piRNA level",
+          "measured_effect": {
+            "direction_of_change": "significantly higher",
+            "magnitude_quantification": "Present at significantly higher levels in HCC samples compared to non-tumor controls. When combined with other piRNAs, it presented a superior AUROC for HCC detection."
+          },
+          "core_biological_function": "Non-coding RNA, likely involved in gene regulation.",
+          "relevant_activity_context": "Diagnosis of Hepatocellular Carcinoma (HCC).",
+          "performance_or_health_indicator": "Diagnostic biomarker for HCC, especially useful for detecting HCC with low tumor burden, with improved performance when used in combination."
+        },
+        {
+          "biomarker_name": "novel-piR-43597",
+          "measured_tissue_or_fluid": "Serum EVs (exosomes)",
+          "activity_type": "piRNA level",
+          "measured_effect": {
+            "direction_of_change": "significantly higher",
+            "magnitude_quantification": "Present at significantly higher levels in HCC samples compared to non-tumor controls. When combined with other piRNAs, it presented a superior AUROC for HCC detection."
+          },
+          "core_biological_function": "Non-coding RNA, likely involved in gene regulation.",
+          "relevant_activity_context": "Diagnosis of Hepatocellular Carcinoma (HCC).",
+          "performance_or_health_indicator": "Diagnostic biomarker for HCC, especially useful for detecting HCC with low tumor burden, with improved performance when used in combination."
+        },
+        {
+          "biomarker_name": "piR-2660989",
+          "measured_tissue_or_fluid": "EVs isolated from blood samples",
+          "activity_type": "piRNA level",
+          "measured_effect": {
+            "direction_of_change": "upregulated/decreased",
+            "magnitude_quantification": "Differentially expressed in CCA and GBC patients versus healthy controls; levels significantly decreased in circulating EVs of CCA and GBC patients 1 week after surgeries."
+          },
+          "core_biological_function": "Non-coding RNA, likely involved in gene regulation.",
+          "relevant_activity_context": "Diagnosis and post-surgical monitoring of Cholangiocarcinoma (CCA) and Gallbladder Carcinoma (GBC).",
+          "performance_or_health_indicator": "Promising candidate biomarker for diagnosing CCA and GBC, and for monitoring the efficacy of surgical intervention."
+        },
+        {
+          "biomarker_name": "piR-10506469",
+          "measured_tissue_or_fluid": "EVs isolated from blood samples",
+          "activity_type": "piRNA level",
+          "measured_effect": {
+            "direction_of_change": "upregulated/significantly decreased",
+            "magnitude_quantification": "Differentially expressed in CCA and GBC patients versus healthy controls; levels significantly decreased in circulating EVs of CCA and GBC patients 1 week after surgeries."
+          },
+          "core_biological_function": "Non-coding RNA, likely involved in gene regulation.",
+          "relevant_activity_context": "Diagnosis and post-surgical monitoring of Cholangiocarcinoma (CCA) and Gallbladder Carcinoma (GBC).",
+          "performance_or_health_indicator": "Promising candidate biomarker for diagnosing CCA and GBC, and for monitoring the efficacy of surgical intervention."
+        },
+        {
+          "biomarker_name": "piR-20548188",
+          "measured_tissue_or_fluid": "EVs isolated from blood samples",
+          "activity_type": "piRNA level",
+          "measured_effect": {
+            "direction_of_change": "upregulated/significantly decreased",
+            "magnitude_quantification": "Differentially expressed in CCA and GBC patients versus healthy controls; levels significantly decreased in circulating EVs of CCA and GBC patients 1 week after surgeries."
+          },
+          "core_biological_function": "Non-coding RNA, likely involved in gene regulation.",
+          "relevant_activity_context": "Diagnosis and post-surgical monitoring of Cholangiocarcinoma (CCA) and Gallbladder Carcinoma (GBC).",
+          "performance_or_health_indicator": "Promising candidate biomarker for diagnosing CCA and GBC, and for monitoring the efficacy of surgical intervention."
+        },
+        {
+          "biomarker_name": "piR-10822895",
+          "measured_tissue_or_fluid": "EVs isolated from blood samples",
+          "activity_type": "piRNA level",
+          "measured_effect": {
+            "direction_of_change": "upregulated/decreased",
+            "magnitude_quantification": "Differentially expressed in CCA and GBC patients versus healthy controls; levels significantly decreased in circulating EVs of CCA and GBC patients 1 week after surgeries."
+          },
+          "core_biological_function": "Non-coding RNA, likely involved in gene regulation.",
+          "relevant_activity_context": "Diagnosis and post-surgical monitoring of Cholangiocarcinoma (CCA) and Gallbladder Carcinoma (GBC).",
+          "performance_or_health_indicator": "Promising candidate biomarker for diagnosing CCA and GBC, and for monitoring the efficacy of surgical intervention."
+        },
+        {
+          "biomarker_name": "piR-hsa-23209",
+          "measured_tissue_or_fluid": "EVs isolated from blood samples",
+          "activity_type": "piRNA level",
+          "measured_effect": {
+            "direction_of_change": "upregulated/decreased",
+            "magnitude_quantification": "Differentially expressed in CCA and GBC patients versus healthy controls; levels significantly decreased in circulating EVs of CCA and GBC patients 1 week after surgeries."
+          },
+          "core_biological_function": "Non-coding RNA, likely involved in gene regulation.",
+          "relevant_activity_context": "Diagnosis and post-surgical monitoring of Cholangiocarcinoma (CCA) and Gallbladder Carcinoma (GBC).",
+          "performance_or_health_indicator": "Promising candidate biomarker for diagnosing CCA and GBC, and for monitoring the efficacy of surgical intervention."
+        },
+        {
+          "biomarker_name": "piR-18044111",
+          "measured_tissue_or_fluid": "EVs isolated from blood samples",
+          "activity_type": "piRNA level",
+          "measured_effect": {
+            "direction_of_change": "upregulated/decreased",
+            "magnitude_quantification": "Differentially expressed in CCA and GBC patients versus healthy controls; levels significantly decreased in circulating EVs of CCA and GBC patients 1 week after surgeries."
+          },
+          "core_biological_function": "Non-coding RNA, likely involved in gene regulation.",
+          "relevant_activity_context": "Diagnosis and post-surgical monitoring of Cholangiocarcinoma (CCA) and Gallbladder Carcinoma (GBC).",
+          "performance_or_health_indicator": "Promising candidate biomarker for diagnosing CCA and GBC, and for monitoring the efficacy of surgical intervention."
+        },
+        {
+          "biomarker_name": "hsa_circ_0004001",
+          "measured_tissue_or_fluid": "Circulating EVs",
+          "activity_type": "circRNA level",
+          "measured_effect": {
+            "direction_of_change": "differentially expressed (implied)",
+            "magnitude_quantification": "Combined analysis with hsa_circ_0004123 and hsa_circ_0075792 significantly improved the diagnosis of HCC."
+          },
+          "core_biological_function": "Non-coding RNA, likely involved in gene regulation.",
+          "relevant_activity_context": "Diagnosis of Hepatocellular Carcinoma (HCC).",
+          "performance_or_health_indicator": "Improved diagnostic potential for HCC when analyzed in combination with other circRNAs."
+        },
+        {
+          "biomarker_name": "hsa_circ_0004123",
+          "measured_tissue_or_fluid": "Circulating EVs",
+          "activity_type": "circRNA level",
+          "measured_effect": {
+            "direction_of_change": "differentially expressed (implied)",
+            "magnitude_quantification": "Combined analysis with hsa_circ_0004001 and hsa_circ_0075792 significantly improved the diagnosis of HCC."
+          },
+          "core_biological_function": "Non-coding RNA, likely involved in gene regulation.",
+          "relevant_activity_context": "Diagnosis of Hepatocellular Carcinoma (HCC).",
+          "performance_or_health_indicator": "Improved diagnostic potential for HCC when analyzed in combination with other circRNAs."
+        },
+        {
+          "biomarker_name": "hsa_circ_0075792",
+          "measured_tissue_or_fluid": "Circulating EVs",
+          "activity_type": "circRNA level",
+          "measured_effect": {
+            "direction_of_change": "differentially expressed (implied)",
+            "magnitude_quantification": "Combined analysis with hsa_circ_0004001 and hsa_circ_0004123 significantly improved the diagnosis of HCC."
+          },
+          "core_biological_function": "Non-coding RNA, likely involved in gene regulation.",
+          "relevant_activity_context": "Diagnosis of Hepatocellular Carcinoma (HCC).",
+          "performance_or_health_indicator": "Improved diagnostic potential for HCC when analyzed in combination with other circRNAs."
+        },
+        {
+          "biomarker_name": "tRNA-ValTAC-3",
+          "measured_tissue_or_fluid": "Plasma-derived EVs",
+          "activity_type": "tsRNA level",
+          "measured_effect": {
+            "direction_of_change": "differentially enriched",
+            "magnitude_quantification": "Differentially enriched in the plasma-derived EVs of HCC patients with respect to healthy donors."
+          },
+          "core_biological_function": "Non-coding RNA (tRNA-derived small RNA), likely involved in gene regulation.",
+          "relevant_activity_context": "Diagnosis of Hepatocellular Carcinoma (HCC).",
+          "performance_or_health_indicator": "Potential new diagnostic biomarker for HCC."
+        },
+        {
+          "biomarker_name": "tRNA-GlyTCC-5",
+          "measured_tissue_or_fluid": "Plasma-derived EVs",
+          "activity_type": "tsRNA level",
+          "measured_effect": {
+            "direction_of_change": "differentially enriched",
+            "magnitude_quantification": "Differentially enriched in the plasma-derived EVs of HCC patients with respect to healthy donors."
+          },
+          "core_biological_function": "Non-coding RNA (tRNA-derived small RNA), likely involved in gene regulation.",
+          "relevant_activity_context": "Diagnosis of Hepatocellular Carcinoma (HCC).",
+          "performance_or_health_indicator": "Potential new diagnostic biomarker for HCC."
+        },
+        {
+          "biomarker_name": "tRNA-ValAAC-5",
+          "measured_tissue_or_fluid": "Plasma-derived EVs",
+          "activity_type": "tsRNA level",
+          "measured_effect": {
+            "direction_of_change": "differentially enriched",
+            "magnitude_quantification": "Differentially enriched in the plasma-derived EVs of HCC patients with respect to healthy donors."
+          },
+          "core_biological_function": "Non-coding RNA (tRNA-derived small RNA), likely involved in gene regulation.",
+          "relevant_activity_context": "Diagnosis of Hepatocellular Carcinoma (HCC).",
+          "performance_or_health_indicator": "Potential new diagnostic biomarker for HCC."
+        },
+        {
+          "biomarker_name": "tRNA-GluCTC-5",
+          "measured_tissue_or_fluid": "Plasma-derived EVs",
+          "activity_type": "tsRNA level",
+          "measured_effect": {
+            "direction_of_change": "differentially enriched",
+            "magnitude_quantification": "Differentially enriched in the plasma-derived EVs of HCC patients with respect to healthy donors."
+          },
+          "core_biological_function": "Non-coding RNA (tRNA-derived small RNA), likely involved in gene regulation.",
+          "relevant_activity_context": "Diagnosis of Hepatocellular Carcinoma (HCC).",
+          "performance_or_health_indicator": "Potential new diagnostic biomarker for HCC."
+        }
+      ]
+    }
+  }
+]

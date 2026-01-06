@@ -1,0 +1,640 @@
+[
+  {
+    "title": "pmc Nutrients Nutrients nutrients Nutrients 2072-6643 MDPI 11597302 10.3390/nu16223943 nutrients-16-03943 Review Towards Precision Sports Nutrition for Endurance Athletes: A Scoping Review of Application of Omics and Wearables Technologies Bedra\u010d Leon 1 * Deutsch Leon 1 Terzi\u0107 Sanja 1 \u010cervek Matej 1 \u0160elb Julij 1 2 A\u0161i\u010d Ur\u0161ka 1 Verstraeten Laure M. G. 1 3 Ku\u0161\u010der Enej 1 Cvetko Filip 1 Nieman David C. Academic Editor Driss Tarak Academic Editor 1 The NU B.V., J.H. Oortweg 21, 2333 CH Leiden, The Netherlands; leon.deutsch@thenu.com (L.D.); sanja.terzic@thenu.com (S.T.); matej.cervek@thenu.com (M.\u010c.); julij.selb@thenu.com (J.\u0160.); urska.asic@thenu.com (U.A.); laure.verstraeten@thenu.com (L.M.G.V.); enej.kuscer@thenu.com (E.K.); filip.cvetko@thenu.com (F.C.) 2 University Clinic of Respiratory and Allergic Diseases Golnik, Golnik 36, 4204 Golnik, Slovenia 3 Department of Human Movement Sciences, @AgeAmsterdam, Faculty of Behavioural and Movement Sciences Amsterdam Movement Sciences, Vrije Universiteit Amsterdam, 1081 HV Amsterdam, The Netherlands * Correspondence: leon.bedrac@thenu.com 19 11 2024 11 2024 16 22 3943 08 10 2024 14 11 2024 16 11 2024 \u00a9 2024 by the authors. 2024 https://creativecommons.org/licenses/by/4.0/ Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license ( https://creativecommons.org/licenses/by/4.0/ ). Background: Endurance athletes require tailored nutrition strategies to optimize performance, recovery, and training adaptations. While traditional sports nutrition guidelines provide a foundational framework, individual variability in metabolic responses underscores the need for precision nutrition, informed by genetic, biological, and environmental factors. This scoping review evaluates the application of systems biology-driven sports nutrition for endurance athletes, focusing on \u2018omics\u2019 and wearable technologies. Methods: A scoping review of the literature was conducted in PubMed, Scopus, and Web of Science in accordance with the PRISMA-ScR checklist. Research questions, search strategies, and eligibility criteria were guided by the Population\u2013Concept\u2013Context framework with the following inclusion criteria: original research in English, involving endurance athletes, systems biology approaches, and nutritional interventions or continuous glucose monitoring (CGM). Results: Fifty-two studies were included, with distance runners as the most studied cohort. Eleven studies used metagenomics, eleven CGM, ten nutrigenetics, ten metabolomics, seven multi-omics, one proteomics, one epigenomics, and one lipidomics. Over half ( n = 31; 60%) were randomized controlled trials (RCTs) with generally high methodological quality. Conclusions: Most studies were proof-of-concept investigations aimed at assessing biomarkers; however, the evidence linking these biomarkers to performance, recovery, and long-term health outcomes in endurance athletes remains insufficient. Future research should focus on well-powered replicated crossover RCTs, multivariate N-of-1 clinical trials, 360-degree systems-wide approaches, and the validation of genetic impacts on nutritional interventions to refine dietary guidelines. systems biology nutrigenomics endurance athletes multi-omics nutrition continuous glucose monitoring metagenomics There was no funding for this research project. 1. Introduction Endurance athletes, such as triathletes, long-distance runners, race walkers, cyclists, swimmers, rowers, and cross-country skiers, represent the pinnacle of human athletic performance, characterized by a remarkable capacity for sustained physical exertion and exceptional metabolic efficiency [ 1 ]. Nutrition serves as a cornerstone of athletic success, fueling performance, promoting recovery, and facilitating adaptations to training demands [ 2 ]. Optimizing sports performance requires a tailored nutrition plan that considers individual athletes\u2019 goals, needs, and physiological characteristics [ 3 ]. This is particularly important for endurance athletes, as the timing of nutrient intake, hydration, the digestibility of foods, and the absorptive capacity of nutrients are key factors for enhanced performance and recovery, in addition to body composition management [ 4 ]. Endurance athletes require different levels of carbohydrates, proteins, fats, and fluids based on body size, type of endurance sport, exercise intensity, and duration. Moreover, they have increased requirements for certain vitamins and minerals, particularly iron, calcium, and vitamin D. These needs, along with the necessity for antioxidants to mitigate oxidative stress from prolonged exercise, are sports-specific and vary upon the training goals [ 3 , 4 ]. While macronutrient-based dietary recommendations provide a foundational level of personalization, the substantial individual variability in the responses to exercise and nutrition highlights the need for a deeper understanding of metabolic heterogeneity and the physiological functions of nutrients [ 5 , 6 ]. Unlike most sports nutrition guidelines that rely on group averages and expert consensus, precision sports nutrition seeks to personalize nutritional practices for athletes to optimize performance and long-term health. To derive such recommendations, it is imperative to consider the multifaceted interactions between genetics, biological processes, nutrients, and environmental factors. A multimodal systems-wide approach is essential for integrating these complex relationships [ 5 , 6 ]. Systems biology integrates various high-throughput omics technologies and wearable sensor technologies to generate extensive datasets. By integrating these datasets through computational methods, researchers can construct predictive models that facilitate a deep understanding of individual responses to various interventions, including training and diet, on health, performance, and recovery [ 5 , 6 ]. While there is a lack of agreement on the definition of systems biology [ 7 ], for the purpose of this review, it is defined as an approach that incorporates at least one of the following \u2018omics\u2019 platforms or a combination thereof: genomics, transcriptomics, epigenomics, proteomics, metabolomics, and lipidomics for athlete characterization, along with metagenomics for microbiome analysis. Additionally, the inclusion of wearable sensor technology enhances this approach, as the integration of smart sensors and wearables represents a significant advancement in data collection methodologies by enabling the real-time continuous monitoring of physiological parameters [ 8 ]. Nutrigenomics and nutrigenetics examine the impact of genetic variations on individual metabolic responses to nutrients and the effect of dietary components on gene expression, utilizing genomic data and advanced genetic testing [ 9 ]. Transcriptomics investigates gene expression at the RNA level, providing insights into gene structure and function, which helps to elucidate molecular mechanisms governing biological processes [ 10 ]. Epigenomics, on the other hand, examines chemical modifications in chromatin, including folding, nuclear matrix attachment, nucleosome packaging, histone tail modifications, and DNA methylation, which influence gene expression without altering the DNA sequence [ 11 ]. Proteomics involves the large-scale analysis of protein structures, functions, and interactions, enabling the identification of biomarkers for health, disease processes, and therapeutic responses [ 12 ]. Metabolomics provides the ultimate molecular fingerprint of human physiology by comprehensively assessing small molecule metabolites within biological samples, thereby offering a robust framework for identifying metabolic shifts in response to diet, lifestyle, and environmental factors [ 13 , 14 ]. Lipidomics, a subfield of metabolomics, involves the analysis of cellular lipids using advanced mass spectrometry techniques to elucidate lipid metabolism and its biochemical pathways, providing insights into systemic metabolic perturbations [ 15 ]. Lastly, microbial metagenomics examines the role and modulation of the gut microbiome in the host\u2019s nutrient uptake and energy metabolism [ 16 ]. Moreover, wearable technologies and real-time sensors, such as continuous glucose monitors, facilitate a more detailed understanding of how biological systems respond to various stimuli, thereby providing actionable data to inform training and nutrition strategies in real-time [ 17 , 18 ]. To harness the full benefits of these new technologies, it is essential to integrate systems biology data into biomedical models capable of generating actionable strategies. The goal is to identify \u2018the right diet for the right person at the right time,\u2019 rather than relying on a \u2018one-diet-fits-all\u2019 approach proposed by the general guidelines [ 5 , 19 ]. Despite the growing interest in precision sports nutrition [ 20 ], to our knowledge, no comprehensive review has synthesized the current application of omics and wearable sensor technologies in this field. The aim of this scoping review is to systematically evaluate the utility and applicability of systems biology-driven sports nutrition specifically focusing on endurance athletes. The primary objectives are to: Map the existing literature; Summarize key findings and insights; Identify research gaps to guide the field.",
+    "document_source_id": "39599728",
+    "analysis_date": "2025-12-10",
+    "extracted_data": {
+      "document_summary": "This scoping review systematically evaluates the application of systems biology-driven precision sports nutrition, incorporating 'omics' platforms (e.g., nutrigenetics, metabolomics, metagenomics, proteomics, epigenomics, lipidomics, multi-omics) and wearable technologies, particularly Continuous Glucose Monitoring (CGM), for endurance athletes. It maps existing literature, summarizes key findings, identifies research gaps, and investigates the impact of various nutritional interventions (e.g., polyphenols, astaxanthin, nitrates, carbohydrate-protein blends, probiotics) on immune function, inflammation, metabolism, gut microbiome composition, and glycemic responses during and after exercise. The review concludes that while these technologies offer insights into individual variability and physiological responses, current evidence is often insufficient to robustly link identified biomarkers to enhanced performance, recovery, and long-term health outcomes, noting methodological limitations.",
+      "treatment_details": {
+        "therapy_type": "This scoping review investigates precision sports nutrition strategies for endurance athletes, focusing on systems biology approaches (including various 'omics' platforms and wearable technologies like Continuous Glucose Monitoring) and a wide range of nutritional interventions. These interventions include specific foods (e.g., banana, blueberry, mango), supplements (e.g., soy protein, astaxanthin, beet-based nitrates, cranberry beverage, prebiotics, probiotics, cocoa flavanols), macronutrient manipulations (e.g., carbohydrate-protein blends, oligopeptides, specific protein amounts, dietary fat, low-carbohydrate high-fat diets, low/high FODMAP diets), and their interactions with diverse exercise regimens (e.g., cycling trials, marathons, ultra-endurance events, submaximal and prolonged exercise, exercise under heat stress).",
+        "dose_specificity": "This scoping review synthesizes findings from various studies on nutritional interventions, which include specific food consumptions (e.g., banana, mango) often compared against controls or other carbohydrate sources, and supplementations (e.g., astaxanthin, beet-based nitrates, cranberry beverage, specific probiotics) with durations ranging from acute intake to 2-week periods. It also examines the effects of different macronutrient strategies (e.g., low-carbohydrate high-fat diets, carbohydrate-protein blends) and genetic variations on caffeine metabolism. The review notes that while specific interventions are detailed, it generally reports on rather than conducts dose-response comparisons, highlighting that existing studies often compare interventions against controls. A key emphasis is on the need for tailored, individual-specific strategies, robust randomized controlled trials, and better reporting of training status, dose-response relationships, and demographic stratifications in future research, as current evidence often lacks detailed dose-response comparisons."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "Genetic variations (MnSOD, CAT, GPX1) in antioxidant systems",
+          "measured_tissue_or_fluid": "Genetic material (DNA)",
+          "activity_type": "Genetic Variation",
+          "measured_effect": {
+            "direction_of_change": "associated with response",
+            "magnitude_quantification": "Significant associations reported between genetic variations (MnSOD, CAT, GPX1) and responses to pequi oil supplementation; however, these findings require validation due to methodological limitations."
+          },
+          "core_biological_function": "Part of endogenous antioxidant defense system, mediating protection against oxidative stress.",
+          "relevant_activity_context": "Pequi oil supplementation in recreational runners; also broadly in sports nutrition for endurance athletes.",
+          "performance_or_health_indicator": "Potentially indicates personalized response to antioxidant supplementation for health and performance by influencing the mitigation of exercise-induced oxidative stress and cellular damage, but needs robust validation."
+        },
+        {
+          "biomarker_name": "CYP1A2 -163A>C (rs762551) SNP",
+          "measured_tissue_or_fluid": "Genetic material (DNA)",
+          "activity_type": "Genetic Variation / Genotype",
+          "measured_effect": {
+            "direction_of_change": "Influences enzyme activity, enabling stratification of individuals; AA genotype 'fast' metabolizer, AC or CC 'slow' metabolizer. Caffeine supplementation enhanced performance in 'fast' (AA) metabolizers; similar ergogenic effect observed in trained male cyclists; improved cognitive performance in psychomotor vigilance test.",
+            "magnitude_quantification": "AA genotype classifies individuals as 'fast' caffeine metabolizers; AC or CC genotypes classify as 'slow' caffeine metabolizers. Over 95% of caffeine is metabolized by the CYP1A2 enzyme. Caffeine supplementation enhanced performance in 'fast' (AA) metabolizers, improving cognitive performance."
+          },
+          "core_biological_function": "Enzymatic metabolism of caffeine.",
+          "relevant_activity_context": "Nutrigenetics and individual response to caffeine supplementation in endurance athletes (cyclists) and during psychomotor vigilance tests.",
+          "performance_or_health_indicator": "Stratifies individuals for personalized caffeine dosing to optimize sports performance and cognitive function, indicating potential ergogenic benefits or their absence; enhanced exercise performance and improved cognitive performance with caffeine supplementation."
+        },
+        {
+          "biomarker_name": "HTR2A CC genotype",
+          "measured_tissue_or_fluid": "Genetic material (implied)",
+          "activity_type": "Genetic Variation / Genotype",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Athletes with the HTR2A CC genotype within the CYP1A2 rs762551 'fast' (AA) metabolizer subgroup experienced the greatest ergogenic benefit from caffeine."
+          },
+          "core_biological_function": "Function not explicitly stated, but related to physiological response to caffeine.",
+          "relevant_activity_context": "Caffeine supplementation, specifically in CYP1A2 rs762551 'fast' (AA) metabolizers.",
+          "performance_or_health_indicator": "Associated with the greatest ergogenic benefit from caffeine supplementation."
+        },
+        {
+          "biomarker_name": "ADORA2A rs5751876 SNP",
+          "measured_tissue_or_fluid": "Genetic material (DNA)",
+          "activity_type": "Genetic Variation / Genotype",
+          "measured_effect": {
+            "direction_of_change": "Categorizes individuals based on caffeine sensitivity; TT genotype 'high' sensitive, CT or CC 'low' sensitive; had no effect on cognitive or exercise performance.",
+            "magnitude_quantification": "TT genotype classifies individuals as \u2018high\u2019 caffeine sensitive; CT or CC genotypes classify as \u2018low\u2019 caffeine sensitive. Neither influenced exercise performance nor cognitive performance."
+          },
+          "core_biological_function": "Involved in caffeine response through adenosine receptor modulation.",
+          "relevant_activity_context": "Nutrigenetics and individual response to caffeine supplementation in endurance athletes, impacting cognitive and exercise performance.",
+          "performance_or_health_indicator": "Predicts individual caffeine sensitivity, guiding personalized caffeine intake strategies; indicates no impact on cognitive or exercise performance in response to caffeine supplementation for this SNP."
+        },
+        {
+          "biomarker_name": "Oxylipins",
+          "measured_tissue_or_fluid": "Plasma / Body fluids (implied)",
+          "activity_type": "Metabolite Level / Production level",
+          "measured_effect": {
+            "direction_of_change": "Elevated post-exercise; attenuated/reduced by carbohydrate and polyphenol intake; some were unchanged by specific interventions.",
+            "magnitude_quantification": "Pro-inflammatory oxylipins (e.g., exercise-induced increases) were attenuated following blueberry and banana consumption in cyclists. Exercise-induced oxylipin elevations were not suppressed by astaxanthin supplementation, nor reduced by 2-week nitrate supplementation. Higher responders to blueberry-derived metabolites exhibited lower post-exercise plasma oxylipin levels (up to a 14-fold difference noted). Elevated by intense exercise; attenuated by acute carbohydrate intake and chronic polyphenol consumption."
+          },
+          "core_biological_function": "Mediates inflammation and oxidative stress, influencing immune regulation.",
+          "relevant_activity_context": "Post-exercise inflammation and oxidative stress during endurance exercise (e.g., cycling); modulated by acute carbohydrate, chronic polyphenol, astaxanthin, and nitrate intake.",
+          "performance_or_health_indicator": "Indicator of inflammation and oxidative stress, influencing recovery and long-term health. Lower levels are associated with better recovery and reduced adverse effects of exercise; variability suggests personalized responses to dietary interventions."
+        },
+        {
+          "biomarker_name": "Gut-derived phenolic metabolites",
+          "measured_tissue_or_fluid": "Body (implied)",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "significant inter-individual variability"
+          },
+          "core_biological_function": "Metabolites derived from polyphenols by gut bacteria, influencing host health",
+          "relevant_activity_context": "Blueberry and banana consumption in cyclists",
+          "performance_or_health_indicator": "Variability suggests personalized responses to polyphenol intake and its impact on health."
+        },
+        {
+          "biomarker_name": "Phenolic metabolite profiles",
+          "measured_tissue_or_fluid": "Body (implied)",
+          "activity_type": "Metabolite Profile",
+          "measured_effect": {
+            "direction_of_change": "distinct",
+            "magnitude_quantification": "distinct phenolic metabolite profiles"
+          },
+          "core_biological_function": "Patterns of polyphenol-derived metabolites, reflecting dietary intake and metabolism",
+          "relevant_activity_context": "Runners following polyphenol-rich soy protein supplementation",
+          "performance_or_health_indicator": "Distinct profiles suggest metabolic responses to supplementation, though no attenuation of traditional inflammation markers was observed."
+        },
+        {
+          "biomarker_name": "Traditional inflammation markers",
+          "measured_tissue_or_fluid": "Body (implied, likely plasma/serum)",
+          "activity_type": "Protein/Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "no attenuation"
+          },
+          "core_biological_function": "Indicators of systemic inflammatory response",
+          "relevant_activity_context": "Runners following polyphenol-rich soy protein supplementation",
+          "performance_or_health_indicator": "Lack of attenuation indicates no anti-inflammatory benefit from this specific intervention."
+        },
+        {
+          "biomarker_name": "Post-exercise inflammatory response",
+          "measured_tissue_or_fluid": "Body (implied)",
+          "activity_type": "Physiological Response",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "did not reduce"
+          },
+          "core_biological_function": "The body's reactive inflammatory processes following physical exertion",
+          "relevant_activity_context": "2-week mango fruit supplementation compared to water ingestion",
+          "performance_or_health_indicator": "No reduction suggests mango supplementation did not mitigate exercise-induced inflammation in this context."
+        },
+        {
+          "biomarker_name": "Anti-inflammatory responses",
+          "measured_tissue_or_fluid": "Body (implied)",
+          "activity_type": "Physiological Response",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "enhanced"
+          },
+          "core_biological_function": "The body's processes to reduce inflammation",
+          "relevant_activity_context": "Banana consumption compared to carbohydrate-only ingestion",
+          "performance_or_health_indicator": "Enhancement suggests a positive impact on inflammation management and recovery."
+        },
+        {
+          "biomarker_name": "Monocyte metabolism",
+          "measured_tissue_or_fluid": "Monocytes (blood immune cells)",
+          "activity_type": "Metabolic Activity",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "improved"
+          },
+          "core_biological_function": "The metabolic processes within monocytes, critical for immune function",
+          "relevant_activity_context": "Banana consumption compared to carbohydrate-only ingestion",
+          "performance_or_health_indicator": "Improved metabolism in monocytes indicates enhanced immune cell function and potentially better recovery."
+        },
+        {
+          "biomarker_name": "Exercise-induced cytokine elevations",
+          "measured_tissue_or_fluid": "Body (implied, likely plasma/serum)",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "failed to suppress elevations"
+          },
+          "core_biological_function": "Signaling proteins that mediate immune responses and inflammation",
+          "relevant_activity_context": "Astaxanthin supplementation post-exercise",
+          "performance_or_health_indicator": "Lack of suppression suggests astaxanthin did not directly reduce these inflammatory markers."
+        },
+        {
+          "biomarker_name": "Plasma immunoglobulins",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "countered reductions"
+          },
+          "core_biological_function": "Antibodies that play a critical role in the adaptive immune system",
+          "relevant_activity_context": "Astaxanthin supplementation post-exercise",
+          "performance_or_health_indicator": "Countering reductions suggests an immune-normalizing effect, beneficial for immune function and reducing post-exercise immune suppression."
+        },
+        {
+          "biomarker_name": "Anti-inflammatory oxylipins",
+          "measured_tissue_or_fluid": "Body (implied)",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "increases"
+          },
+          "core_biological_function": "Lipid mediators that actively resolve inflammation",
+          "relevant_activity_context": "2-week nitrate supplementation from beet-based products",
+          "performance_or_health_indicator": "Increases suggest a positive anti-inflammatory effect, contributing to improved recovery."
+        },
+        {
+          "biomarker_name": "Complement activation",
+          "measured_tissue_or_fluid": "Body (implied)",
+          "activity_type": "Protein Activation",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "reduced"
+          },
+          "core_biological_function": "Part of the innate immune system involved in inflammation and pathogen clearance",
+          "relevant_activity_context": "2-week nitrate supplementation from beet-based products",
+          "performance_or_health_indicator": "Reduction indicates a beneficial immune-modulating effect, potentially mitigating excessive inflammation."
+        },
+        {
+          "biomarker_name": "Innate immune system proteins",
+          "measured_tissue_or_fluid": "Body (implied, likely plasma/serum)",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "upregulation"
+          },
+          "core_biological_function": "Proteins involved in the body's first line of defense against pathogens",
+          "relevant_activity_context": "Cranberry beverage supplementation in cyclists",
+          "performance_or_health_indicator": "Upregulation suggests enhanced innate immune function, which could be beneficial or indicate immune activation."
+        },
+        {
+          "biomarker_name": "Gut microbiome diversity (Alpha diversity)",
+          "measured_tissue_or_fluid": "Gut / Stool samples",
+          "activity_type": "Microbiome Diversity Index / Composition (Metagenomics)",
+          "measured_effect": {
+            "direction_of_change": "Varied: mostly unchanged, decreased, or increased depending on intervention.",
+            "magnitude_quantification": "Without alteration following cranberry beverage supplementation. Mostly non-significant differences following nutritional/probiotic interventions or physical activity. Significant decrease following prebiotic supplementation with dietary fibers. Increased bacterial diversity associated with exercise and dietary fiber consumption."
+          },
+          "core_biological_function": "The variety of microbial species in the gut, crucial for gut health, overall well-being, metabolic functions, and immune modulation.",
+          "relevant_activity_context": "Response to cranberry beverage, nutritional/probiotic interventions, physical activity, prebiotic supplementation with dietary fibers, and exercise in endurance athletes.",
+          "performance_or_health_indicator": "Indicates overall gut ecosystem health and potential for immune modulation. While mostly unchanged with some interventions, significant decreases highlight complex responses. Higher diversity is generally associated with a healthier gut microbiome, potentially mitigating gut perturbations and supporting overall health in athletes."
+        },
+        {
+          "biomarker_name": "Metabolic recovery",
+          "measured_tissue_or_fluid": "Whole body (implied)",
+          "activity_type": "Physiological Process",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "improved"
+          },
+          "core_biological_function": "Restoration of metabolic homeostasis after physical exertion",
+          "relevant_activity_context": "Post-exercise carbohydrate\u2013protein blends and oligopeptides",
+          "performance_or_health_indicator": "Improvement indicates faster and more efficient recovery processes."
+        },
+        {
+          "biomarker_name": "Lipid metabolism",
+          "measured_tissue_or_fluid": "Whole body (implied)",
+          "activity_type": "Physiological Process",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "improved"
+          },
+          "core_biological_function": "The biochemical processes involved in the breakdown, synthesis, and transport of lipids",
+          "relevant_activity_context": "Post-exercise carbohydrate\u2013protein blends and oligopeptides",
+          "performance_or_health_indicator": "Improvement suggests better utilization and processing of fats, contributing to metabolic health."
+        },
+        {
+          "biomarker_name": "Sulfur amino acid metabolism",
+          "measured_tissue_or_fluid": "Whole body (implied)",
+          "activity_type": "Metabolic Process",
+          "measured_effect": {
+            "direction_of_change": "mitigated disruptions",
+            "magnitude_quantification": "mitigate disruptions"
+          },
+          "core_biological_function": "Metabolism of sulfur-containing amino acids, essential for protein synthesis and antioxidant defense",
+          "relevant_activity_context": "Post-exercise protein supplementation",
+          "performance_or_health_indicator": "Mitigation of disruptions suggests better metabolic regulation and recovery, supporting muscle repair and antioxidant capacity."
+        },
+        {
+          "biomarker_name": "Performance",
+          "measured_tissue_or_fluid": "Whole body",
+          "activity_type": "Physiological Outcome",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "impairs performance"
+          },
+          "core_biological_function": "Physical capacity and output during athletic activity",
+          "relevant_activity_context": "Low energy availability (LEA) in female endurance athletes",
+          "performance_or_health_indicator": "Impairment indicates a negative impact on athletic capacity and training adaptation."
+        },
+        {
+          "biomarker_name": "Immune function",
+          "measured_tissue_or_fluid": "Whole body",
+          "activity_type": "Physiological Outcome",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "impairs immune function"
+          },
+          "core_biological_function": "The body's ability to defend against pathogens and maintain health",
+          "relevant_activity_context": "Low energy availability (LEA) in female endurance athletes",
+          "performance_or_health_indicator": "Impairment indicates increased susceptibility to illness and compromised health."
+        },
+        {
+          "biomarker_name": "Muscle DNA methylation",
+          "measured_tissue_or_fluid": "Muscle",
+          "activity_type": "DNA Modification (Epigenomics)",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "significant hypomethylation in CpG islands"
+          },
+          "core_biological_function": "An epigenetic mechanism that regulates gene expression in muscle tissue",
+          "relevant_activity_context": "Dietary fat and exercise",
+          "performance_or_health_indicator": "Modulation indicates that diet and exercise can influence gene regulation in muscle, potentially impacting adaptation and function."
+        },
+        {
+          "biomarker_name": "Bacteroides abundances",
+          "measured_tissue_or_fluid": "Gut",
+          "activity_type": "Microbial Abundance (Metagenomics)",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "negative correlations with performance measures"
+          },
+          "core_biological_function": "A genus of bacteria commonly found in the gut microbiome, with diverse roles",
+          "relevant_activity_context": "Consumption of a low-carbohydrate high-fat (LCHF) diet in elite race walkers",
+          "performance_or_health_indicator": "Negative correlation with performance suggests a potentially detrimental impact on athletic output under an LCHF diet."
+        },
+        {
+          "biomarker_name": "Dorea abundances",
+          "measured_tissue_or_fluid": "Gut",
+          "activity_type": "Microbial Abundance (Metagenomics)",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "negative correlations with performance measures"
+          },
+          "core_biological_function": "A genus of bacteria found in the gut microbiome",
+          "relevant_activity_context": "Consumption of a low-carbohydrate high-fat (LCHF) diet in elite race walkers",
+          "performance_or_health_indicator": "Negative correlation with performance suggests a potentially detrimental impact on athletic output under an LCHF diet."
+        },
+        {
+          "biomarker_name": "Relative abundance of Haemophilus",
+          "measured_tissue_or_fluid": "Oral microbiome",
+          "activity_type": "Microbial Abundance (Metagenomics)",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "reducing the relative abundance"
+          },
+          "core_biological_function": "A genus of bacteria commonly found in the oral cavity",
+          "relevant_activity_context": "Low-carbohydrate high-fat (LCHF) diet in elite race walkers",
+          "performance_or_health_indicator": "Reduction indicates a shift in oral microbiome composition influenced by dietary strategy."
+        },
+        {
+          "biomarker_name": "Relative abundance of Neisseria",
+          "measured_tissue_or_fluid": "Oral microbiome",
+          "activity_type": "Microbial Abundance (Metagenomics)",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "reducing the relative abundance"
+          },
+          "core_biological_function": "A genus of bacteria commonly found in the oral cavity",
+          "relevant_activity_context": "Low-carbohydrate high-fat (LCHF) diet in elite race walkers",
+          "performance_or_health_indicator": "Reduction indicates a shift in oral microbiome composition influenced by dietary strategy."
+        },
+        {
+          "biomarker_name": "Relative abundance of Prevotella",
+          "measured_tissue_or_fluid": "Oral microbiome",
+          "activity_type": "Microbial Abundance (Metagenomics)",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "reducing the relative abundance"
+          },
+          "core_biological_function": "A genus of bacteria commonly found in the oral cavity",
+          "relevant_activity_context": "Low-carbohydrate high-fat (LCHF) diet in elite race walkers",
+          "performance_or_health_indicator": "Reduction indicates a shift in oral microbiome composition influenced by dietary strategy."
+        },
+        {
+          "biomarker_name": "Nitrate/nitrite-reducing activity",
+          "measured_tissue_or_fluid": "Oral microbiome",
+          "activity_type": "Enzymatic Activity (Metagenomics)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "linked to increased nitrate/nitrite-reducing activity"
+          },
+          "core_biological_function": "Microbial metabolic pathway that converts nitrate to nitrite, impacting nitric oxide production",
+          "relevant_activity_context": "Low-carbohydrate high-fat (LCHF) diet in elite race walkers",
+          "performance_or_health_indicator": "Increased activity suggests enhanced potential for nitric oxide generation, which can influence cardiovascular function and performance."
+        },
+        {
+          "biomarker_name": "Nitric oxide generation",
+          "measured_tissue_or_fluid": "Oral microbiome",
+          "activity_type": "Metabolic Product (Metagenomics)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "linked to increased nitric oxide generation"
+          },
+          "core_biological_function": "A signaling molecule and vasodilator, important for blood flow, oxygen delivery, and muscle function",
+          "relevant_activity_context": "Low-carbohydrate high-fat (LCHF) diet in elite race walkers",
+          "performance_or_health_indicator": "Increased generation implies potential benefits for cardiovascular health and exercise performance."
+        },
+        {
+          "biomarker_name": "Endurance performance",
+          "measured_tissue_or_fluid": "Whole body",
+          "activity_type": "Physiological Outcome",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "positive impact"
+          },
+          "core_biological_function": "The capacity to sustain prolonged physical activity",
+          "relevant_activity_context": "Probiotic supplementation (Bifidobacterium longum subsp. longum OLP-01, Veillonella atypica FB0054, Lactobacillus plantarum PS128, Bifidobacterium animalis subsp. lactis BL-99) in various endurance athletes",
+          "performance_or_health_indicator": "Positive impact indicates an ergogenic benefit for athletes."
+        },
+        {
+          "biomarker_name": "Muscle mass",
+          "measured_tissue_or_fluid": "Muscle",
+          "activity_type": "Physiological Outcome",
+          "measured_effect": {
+            "direction_of_change": "protected against reduction",
+            "magnitude_quantification": "protected against muscle mass reduction"
+          },
+          "core_biological_function": "The total amount of muscle tissue in the body, essential for strength and function",
+          "relevant_activity_context": "Bifidobacterium longum subsp. longum OLP-01 supplementation",
+          "performance_or_health_indicator": "Protection against reduction indicates a beneficial effect on muscle preservation, supporting recovery and physical health."
+        },
+        {
+          "biomarker_name": "Lipid metabolism",
+          "measured_tissue_or_fluid": "Whole body (implied)",
+          "activity_type": "Physiological Process",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "improved lipid metabolism"
+          },
+          "core_biological_function": "The biochemical processes involved in the breakdown, synthesis, and transport of lipids",
+          "relevant_activity_context": "Bifidobacterium animalis subsp. lactis BL-99 supplementation",
+          "performance_or_health_indicator": "Improvement suggests better management of fats, contributing to metabolic and cardiovascular health."
+        },
+        {
+          "biomarker_name": "Triglycerides",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "reductions"
+          },
+          "core_biological_function": "A type of fat found in the blood, serving as an energy source and storage molecule",
+          "relevant_activity_context": "Bifidobacterium animalis subsp. lactis BL-99 supplementation",
+          "performance_or_health_indicator": "Reductions suggest improved cardiovascular health."
+        },
+        {
+          "biomarker_name": "Low-density lipoprotein cholesterol (LDL-C)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "reductions"
+          },
+          "core_biological_function": "A type of cholesterol that can contribute to arterial plaque buildup ('bad' cholesterol)",
+          "relevant_activity_context": "Bifidobacterium animalis subsp. lactis BL-99 supplementation",
+          "performance_or_health_indicator": "Reductions suggest improved cardiovascular health."
+        },
+        {
+          "biomarker_name": "Gut microbiome composition (shift from acetate- to butyrate-producing bacteria)",
+          "measured_tissue_or_fluid": "Gut",
+          "activity_type": "Microbial Community Composition (Metagenomics)",
+          "measured_effect": {
+            "direction_of_change": "shifted",
+            "magnitude_quantification": "induced a shift from acetate- to butyrate-producing bacteria"
+          },
+          "core_biological_function": "Changes in the types of bacteria dominating the gut, influencing host metabolism and gut health",
+          "relevant_activity_context": "Prebiotic supplementation with dietary fibers",
+          "performance_or_health_indicator": "Promoting beneficial gut microbiome modulation, as butyrate is a key beneficial short-chain fatty acid for gut health."
+        },
+        {
+          "biomarker_name": "Gut microbiome modulation",
+          "measured_tissue_or_fluid": "Gut",
+          "activity_type": "Microbial Community Composition (Metagenomics)",
+          "measured_effect": {
+            "direction_of_change": "beneficial",
+            "magnitude_quantification": "promoting beneficial gut microbiome modulation"
+          },
+          "core_biological_function": "Alteration of the gut microbial community to favor beneficial microorganisms and their functions",
+          "relevant_activity_context": "Prebiotic supplementation with dietary fibers",
+          "performance_or_health_indicator": "Indicates a positive effect on gut health and potentially broader systemic benefits."
+        },
+        {
+          "biomarker_name": "Intestinal permeability ('leaky gut')",
+          "measured_tissue_or_fluid": "Serum/Plasma",
+          "activity_type": "Physiological Condition",
+          "measured_effect": {
+            "direction_of_change": "higher (post-exercise), unchanged (with intervention)",
+            "magnitude_quantification": "increased in response to exercise; however, no significant changes were observed between or within groups, regardless of the nutritional intervention (cocoa flavanols, FODMAP diet)"
+          },
+          "core_biological_function": "The integrity of the intestinal barrier, which prevents the passage of harmful substances into the bloodstream",
+          "relevant_activity_context": "Prolonged exercise under heat stress, with cocoa flavanols or low/high FODMAP diets",
+          "performance_or_health_indicator": "Increased permeability is generally undesirable, indicating potential for systemic inflammation or immune activation. Lack of change with intervention suggests no mitigating effect of cocoa flavanols or FODMAP diets on exercise-induced permeability."
+        },
+        {
+          "biomarker_name": "Intestinal fatty acid-binding protein (I-FABP)",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Protein Level (Serum Marker)",
+          "measured_effect": {
+            "direction_of_change": "higher (implied post-exercise)",
+            "magnitude_quantification": "measured as a serum marker of intestinal permeability"
+          },
+          "core_biological_function": "A protein released from damaged enterocytes, serving as a marker for intestinal epithelial injury and permeability",
+          "relevant_activity_context": "Prolonged exercise under heat stress (used in cocoa flavanols study)",
+          "performance_or_health_indicator": "Indicates intestinal epithelial damage and increased permeability, which can compromise gut barrier function."
+        },
+        {
+          "biomarker_name": "Lipopolysaccharides (LPS)",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Metabolite Level (Serum Marker)",
+          "measured_effect": {
+            "direction_of_change": "higher (implied post-exercise)",
+            "magnitude_quantification": "measured as a serum marker of intestinal permeability"
+          },
+          "core_biological_function": "Bacterial endotoxin from gram-negative bacteria, serving as a marker for bacterial translocation and increased intestinal permeability",
+          "relevant_activity_context": "Prolonged exercise under heat stress (used in cocoa flavanols study)",
+          "performance_or_health_indicator": "Indicates bacterial translocation from the gut and increased permeability, potentially triggering systemic inflammation."
+        },
+        {
+          "biomarker_name": "Plasma microbial DNA levels",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "DNA Level (Plasma Marker)",
+          "measured_effect": {
+            "direction_of_change": "higher (implied post-exercise)",
+            "magnitude_quantification": "assessed as a marker of intestinal permeability"
+          },
+          "core_biological_function": "DNA fragments from gut microbes found in the bloodstream, indicating a compromised intestinal barrier",
+          "relevant_activity_context": "Prolonged exercise under heat stress (used in FODMAP diet study)",
+          "performance_or_health_indicator": "Indicates increased intestinal permeability and bacterial translocation, potentially leading to systemic inflammation."
+        },
+        {
+          "biomarker_name": "Short chain fatty acids (SCFA)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Metabolite Level (Plasma Marker)",
+          "measured_effect": {
+            "direction_of_change": "varied (implied post-exercise)",
+            "magnitude_quantification": "assessed as a marker in response to low- and high-FODMAP diets during prolonged exercise under heat stress"
+          },
+          "core_biological_function": "Metabolites produced by gut bacteria that influence host metabolism and gut health",
+          "relevant_activity_context": "Prolonged exercise under heat stress with low- and high-FODMAP diets",
+          "performance_or_health_indicator": "Changes in SCFA levels can reflect gut microbial activity and its impact on energy metabolism and intestinal integrity."
+        },
+        {
+          "biomarker_name": "Glucose concentration",
+          "measured_tissue_or_fluid": "Blood / Interstitial fluid (via Continuous Glucose Monitoring, CGM), also referenced with capillary and venous blood measurements.",
+          "activity_type": "Concentration Level (real-time monitoring) / Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "Varied: moderate increases, decline, risk of hypoglycemia, hyperglycemia.",
+            "magnitude_quantification": "Exhibits significant inter-individual variability; levels are influenced by diet and exercise. Positive correlation between moderate glucose increases and running speeds was found in one study. Levels are comparable to the general population in elite race walkers, with males higher than females. Decline throughout a cycling race in T1D, followed by hyperglycemia post-race. Increased risk of hypoglycemia at peak exertion in ultra-endurance runners. Increased hyperglycemia in 48h following cycling/ultra-endurance events in healthy athletes, particularly after carbohydrate intake, with elevated basal levels persisting for up to five days. Monitored for dynamic responses during exercise and recovery using CGM technology."
+          },
+          "core_biological_function": "Primary energy source, critical for energy metabolism and fueling cellular activity, key indicator of energy availability.",
+          "relevant_activity_context": "Energy availability management for endurance athletes; responses to food intake, daily training, and fueling for endurance athletes; during and after various endurance events (cycling, ultra-endurance trail, race walking) in healthy individuals and those with Type 1 Diabetes (T1D); during exercise and recovery.",
+          "performance_or_health_indicator": "Crucial for athletic performance and recovery, indicates energy availability and metabolic responses to interventions. Personalized monitoring can optimize fueling strategies, identify risks of hypo/hyperglycemia, and reflect metabolic control challenges."
+        },
+        {
+          "biomarker_name": "Glucose oxidation",
+          "measured_tissue_or_fluid": "Whole body (implied)",
+          "activity_type": "Metabolic Process",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "impaired"
+          },
+          "core_biological_function": "The metabolic process of breaking down glucose to produce energy",
+          "relevant_activity_context": "During submaximal exercise in overreached athletes",
+          "performance_or_health_indicator": "Impairment indicates reduced energy efficiency and potential overtraining, impacting exercise performance and recovery."
+        },
+        {
+          "biomarker_name": "Transcripts",
+          "measured_tissue_or_fluid": "Biological fluids, cells, and tissues",
+          "activity_type": "Gene Transcript",
+          "measured_effect": {
+            "direction_of_change": "Altered",
+            "magnitude_quantification": "Approximately 15,000 transcripts altered"
+          },
+          "core_biological_function": "Regulation of gene expression, mediating cellular responses",
+          "relevant_activity_context": "Acute vigorous exercise",
+          "performance_or_health_indicator": "Indicates broad cellular responses to intense exercise, relevant for understanding physiological adaptations and stress"
+        },
+        {
+          "biomarker_name": "Proteins",
+          "measured_tissue_or_fluid": "Biological fluids, cells, and tissues",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Altered",
+            "magnitude_quantification": "Over 300 proteins altered"
+          },
+          "core_biological_function": "Diverse cellular functions including structural support, enzymatic activity, signaling, and transport",
+          "relevant_activity_context": "Acute vigorous exercise",
+          "performance_or_health_indicator": "Reflects physiological adaptations, muscle damage, and immune responses to intense exercise"
+        },
+        {
+          "biomarker_name": "Metabolites",
+          "measured_tissue_or_fluid": "Biological fluids, cells, and tissues",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "Altered",
+            "magnitude_quantification": "More than 700 metabolites altered"
+          },
+          "core_biological_function": "Intermediates and products of metabolism, reflecting the metabolic state of an organism",
+          "relevant_activity_context": "Acute vigorous exercise",
+          "performance_or_health_indicator": "Indicates metabolic shifts, energy utilization, and stress responses during and after intense exercise"
+        },
+        {
+          "biomarker_name": "Lipids",
+          "measured_tissue_or_fluid": "Biological fluids, cells, and tissues",
+          "activity_type": "Lipid Level",
+          "measured_effect": {
+            "direction_of_change": "Altered",
+            "magnitude_quantification": "More than 700 lipids altered"
+          },
+          "core_biological_function": "Energy storage, cell membrane structure, and signaling molecules",
+          "relevant_activity_context": "Acute vigorous exercise",
+          "performance_or_health_indicator": "Reflects energy metabolism, cell membrane integrity, and inflammatory signaling in response to intense exercise"
+        },
+        {
+          "biomarker_name": "Lipid mobilization",
+          "measured_tissue_or_fluid": "Systemic",
+          "activity_type": "Metabolic process level",
+          "measured_effect": {
+            "direction_of_change": "Elevated post-exercise; reduced by carbohydrate intake",
+            "magnitude_quantification": "Elevated by intense exercise; effectively reduced by peri-workout carbohydrate intake."
+          },
+          "core_biological_function": "Energy supply for muscle contraction and transport of fatty acids",
+          "relevant_activity_context": "Post-exercise inflammation and oxidative stress; peri-workout carbohydrate intake during prolonged exercise",
+          "performance_or_health_indicator": "Reflects energy substrate utilization and contributes to post-exercise inflammation. Its modulation can aid recovery"
+        },
+        {
+          "biomarker_name": "Stress hormones",
+          "measured_tissue_or_fluid": "Blood plasma",
+          "activity_type": "Hormone concentration",
+          "measured_effect": {
+            "direction_of_change": "Reduced",
+            "magnitude_quantification": "Effectively reduced by peri-workout carbohydrate intake."
+          },
+          "core_biological_function": "Mediate physiological stress response and catabolism",
+          "relevant_activity_context": "Post-exercise recovery; peri-workout carbohydrate intake during prolonged exercise",
+          "performance_or_health_indicator": "Indicates physiological stress level. Lower levels suggest improved recovery and reduced catabolic stress, aiding performance"
+        },
+        {
+          "biomarker_name": "SCFA-producing bacterial species",
+          "measured_tissue_or_fluid": "Stool samples",
+          "activity_type": "Bacterial presence/abundance",
+          "measured_effect": {
+            "direction_of_change": "Increased",
+            "magnitude_quantification": "Associated with exercise and dietary fiber consumption."
+          },
+          "core_biological_function": "Produce short-chain fatty acids (SCFAs) that are crucial for gut health and possess anti-inflammatory properties",
+          "relevant_activity_context": "Exercise and dietary fiber consumption in endurance athletes",
+          "performance_or_health_indicator": "Increased presence indicates a healthier gut microbiome, potentially crucial for mitigating mucosal inflammation (leaky gut) and supporting colonocyte health"
+        },
+        {
+          "biomarker_name": "Butyrate",
+          "measured_tissue_or_fluid": "Colon/Gut",
+          "activity_type": "Concentration/Production",
+          "measured_effect": {
+            "direction_of_change": "Increased production",
+            "magnitude_quantification": "Increased production associated with exercise and dietary fiber consumption."
+          },
+          "core_biological_function": "Primary energy source for colonocytes, possesses anti-inflammatory properties",
+          "relevant_activity_context": "Mitigating mucosal inflammation (leaky gut) in endurance athletes; influenced by exercise and dietary fiber consumption",
+          "performance_or_health_indicator": "Crucial for mitigating mucosal inflammation (leaky gut), supports gut barrier function and overall gut health, important for endurance athletes experiencing gastrointestinal stress"
+        }
+      ]
+    }
+  }
+]

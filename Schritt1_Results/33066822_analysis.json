@@ -1,0 +1,196 @@
+[
+  {
+    "title": "Cancer Imaging Cancer Imaging Cancer Imaging 1740-5025 1470-7330 BioMed Central London 7565338 355 10.1186/s40644-020-00355-6 Research Article Network-level functional connectivity alterations in chemotherapy treated breast cancer patients: a longitudinal resting state functional MRI study Feng Yun 1 2 Wang Yun Fei 3 Zheng Li Juan 3 Shi Zhao 3 Huang Wei 2 Zhang Long Jiang kevinzhlj@163.com 1 3 4 1 grid.89957.3a 0000 0000 9255 8984 Department of Medical Imaging, Jinling Clinical Hospital, Nanjing Medical University, 305 Zhongshan East Road, Xuanwu District, Nanjing, 210002 Jiangsu China 2 grid.89957.3a 0000 0000 9255 8984 Department of Medical Imaging, Medical Imaging Center, The Affiliated Huai\u2019an No.1 People\u2019s Hospital of Nanjing Medical University, Huai\u2019an, 223300 Jiangsu China 3 Department of Medical Imaging, Jinling Hospital, Medical School of Nanjing University, 305 Zhongshan East Road, Xuanwu District, Nanjing, 210002 Jiangsu China 4 grid.284723.8 0000 0000 8877 7471 Department of Medical Imaging, Jinling Clinical Hospital, Southern Medical University, 305 Zhongshan East Road, Xuanwu District, Nanjing, 210002 Jiangsu China 16 10 2020 16 10 2020 2020 20 73 12 6 2020 7 10 2020 \u00a9 The Author(s) 2020 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/ . The Creative Commons Public Domain Dedication waiver ( http://creativecommons.org/publicdomain/zero/1.0/ ) applies to the data made available in this article, unless otherwise stated in a credit line to the data. Background Previous studies have found abnormal structural and functional brain alterations in breast cancer survivors undergoing chemotherapy. However, the network-level brain changes following chemotherapy remain unknown. The purpose of this study was to investigate the dynamic changes of large-scale within- and between-network functional connectivity in chemotherapy-treated breast cancer patients. Methods Seventeen breast cancer patients were evaluated with resting state functional MRI (rs-fMRI), neuropsychological tests and blood examination before postoperative chemotherapy (t0), one week after completing chemotherapy (t1) and six months after completing chemotherapy (t2). Nineteen age- and education level-matched healthy controls (HC) were also recruited. Independent components analysis (ICA) was performed to assess network component using rs-fMRI data. The functional network changes were then correlated with cognitive assessment scores and blood biochemical indexes. Results One-way repeated measures ANOVA revealed significantly changed within-network functional connectivity in the anterior and posterior default mode network (ADMN and PDMN), left and right frontoparietal network (LFPN and RFPN), visual network and self-referential network. Post-hoc test showed that decreased within-network functional connectivity in ADMN, PDMN, LFPN, RFPN, SRN and central network one week after chemotherapy and increased six months after chemotherapy (all P < 0.05). As for the between-network functional connectivity, the PDMN- sensorimotor network connectivity showed the same tendency. Most of these within- and between-network functional connectivity changes were negatively associated with blood biochemical indexes and cognitive assessment scores (all P < 0.05). Conclusions These results indicated that chemotherapy may induce widespread abnormalities in resting state networks, which may serve as a potential biomarker of chemotherapy related cognitive impairment, providing insights for further functional recovery treatment. Keywords Breast cancer Chemotherapy Cognitive impairment Functional connectivity Resting-state functional magnetic resonance imaging the Natural Scientific Foundation of China 81322020 81230032 8180071661 Zhang Long Jiang issue-copyright-statement \u00a9 The Author(s) 2020 Background Chemotherapy-related cognitive impairments (CRCI) are common in non-central nervous system cancers which show multiple-domain cognitive deficits such as attention, executive function, learning ability, memory and information processing speed during or after chemotherapy [ 1 , 2 ]. Although accumulating research had focused on these cognitive problems, the neural mechanism remains largely unclear. Cross-sectional [ 3 \u2013 5 ] and longitudinal neuroimaging studies [ 6 \u2013 9 ] have shown structural and functional alterations during or after chemotherapy, thereby providing neural substrates for CRCI. Brain activation and connectivity studies also showed that breast cancer survivors had abnormal brain activity and decreased neural network transfer efficiency from large-scale perspectives [ 10 \u2013 12 ]. These damaged brain structural and functional areas partially overlapped, mostly located in the frontal and temporal lobes. This indicates that chemotherapy induced common cognitive deficits may be related to the large-scale abnormal brain activity/connectivity. Human cognitive activity is the result of the synergetic action of multiple functional neural networks in the brain, not only from the activities within the network, but also from the synergetic activities between the networks [ 13 , 14 ]. Resting-state functional MRI (rs-fMRI) evaluates the resting state brain functional connectivity and makes it possible to describe the interaction of sub-networks, which are spatially distinct regions [ 15 ], and facilitates the understanding of the cooperative relationship of different brain regions at a large scale. Studies have found about 7 common resting state networks (RSNs) in healthy adults [ 16 ]. Alterations in RSNs have been observed in many neuropsychiatric diseases such as Parkinson\u2019s disease, mild cognitive impairment and dementia [ 17 \u2013 19 ]. Default mode network (DMN) is the most commonly investigated RSN in breast cancer survivors for its preferential vulnerability and sensitivity to tumor chemotherapeutics [ 20 ]. Decreased functional connectivity of DMN has been reported particularly in the medial prefrontal cortex, posterior cingulate cortex and the medial temporal cortex [ 15 , 21 ]. Our previous study found abnormal hippocampal connectivity in superior/middle temporal gyrus, insula and frontal gyrus, most are parts of the RSNs [ 22 ]. These altered functional connectivities were involved in the regulation of executive, memory and emotion, supporting chemotherapy induced widespread cognitive networks disruption. Most of the previous CRCI-related rs-fMRI researches focused on a specific RSN alteration in breast cancer patients [ 23 , 24 ]. To the best of our knowledge, no studies have reported the dynamic changes of RSN functional connectivity in breast cancer survivors from a large-scale network perspective. Therefore, the purpose of this study was to investigate the dynamic changes of within- and between- network functional connectivity in chemotherapy-treated breast cancer survivors. We hypothesized that chemotherapeutic agents not only induced extensive RSNs abnormality, but also disrupted the connections between these RSNs. The correlations between changes in RSNs and potential risk factors such as anxiety, depression, hemoglobin and blood lipids, as well as cognitive assessment scores were also analyzed.",
+    "document_source_id": "33066822",
+    "analysis_date": "2025-12-09",
+    "extracted_data": {
+      "document_summary": "This longitudinal study investigated the dynamic changes of large-scale within- and between-network functional connectivity in chemotherapy-treated breast cancer patients using resting state functional MRI. It also examined changes in cognitive function (attention, executive function, memory, visual ability, fine motor skills, reaction), psychological scores (anxiety, depression), and various blood biochemical markers (Estradiol, prolactin, FSH, LH, total cholesterol, triglyceride, high sensitivity C-reactive protein, hemoglobin). The study compared patients before, one week after, and six months after completing chemotherapy to healthy controls. Key findings revealed widespread chemotherapy-induced abnormalities in resting state networks, which partly recovered by six months post-chemotherapy. These altered functional connectivities were correlated with cognitive assessment scores and blood biochemical indexes, suggesting RSNs as potential biomarkers for chemotherapy-related cognitive impairment and for guiding rehabilitation. Baseline analyses also showed higher metabolic markers and psychological/cognitive scores in patients compared to controls, along with a high incidence of chemotherapy-induced amenorrhea.",
+      "treatment_details": {
+        "therapy_type": "Chemotherapy (for breast cancer patients, some also received endocrine therapy)",
+        "dose_specificity": "Postoperative chemotherapy was administered to breast cancer patients, typically in six to eight courses. While specific drug names or dosages were not detailed, follow-up assessments were consistently conducted before (baseline), one week after completing, and six months after completing chemotherapy. Some patients (35.3%) also received endocrine therapy after chemotherapy, but no concurrent radiotherapy or endocrine therapy was given during chemotherapy. No dose-response comparisons were reported."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "Functional Connectivity (within-network)",
+          "measured_tissue_or_fluid": "Brain (measured via resting state functional MRI)",
+          "activity_type": "Network-level functional connectivity",
+          "measured_effect": {
+            "direction_of_change": "Decreased (one week post-chemotherapy), Increased (six months post-chemotherapy), Changed",
+            "magnitude_quantification": "Significantly decreased in ADMN, PDMN, LFPN, RFPN, SRN, and Central Network one week after chemotherapy, with significant increases six months after chemotherapy (all P < 0.05). The Visual Network also showed significant changes (P < 0.05). Most within-network connectives tended to recover to baseline levels at six months. Changes were negatively associated with blood biochemical indexes and cognitive assessment scores."
+          },
+          "core_biological_function": "Reflects the synergetic action and communication within specific neural networks, essential for human cognitive activity and information processing.",
+          "relevant_activity_context": "Postoperative chemotherapy for breast cancer patients, affecting various Resting State Networks (ADMN, PDMN, LFPN, RFPN, SRN, Central Network, Visual Network).",
+          "performance_or_health_indicator": "Indicates chemotherapy-induced widespread abnormalities in brain networks, potentially serving as a biomarker of chemotherapy-related cognitive impairment. These changes were negatively associated with blood biochemical indexes and cognitive assessment scores."
+        },
+        {
+          "biomarker_name": "Functional Connectivity (between-network)",
+          "measured_tissue_or_fluid": "Brain (measured via resting state functional MRI)",
+          "activity_type": "Network-level functional connectivity",
+          "measured_effect": {
+            "direction_of_change": "Decreased (one week post-chemotherapy), Increased (six months post-chemotherapy), Partial recovery",
+            "magnitude_quantification": "Connectivity between the Posterior Default Mode Network (PDMN) and Sensorimotor Network showed a decrease one week after chemotherapy and an increase six months after chemotherapy (P < 0.05). Overall, between-network connectives showed partial recovery six months after chemotherapy. Changes were negatively associated with blood biochemical indexes and cognitive assessment scores."
+          },
+          "core_biological_function": "Reflects the synergetic action and communication between large-scale neural networks, essential for complex cognitive and motor functions.",
+          "relevant_activity_context": "Postoperative chemotherapy for breast cancer patients, specifically affecting connectivity between networks like PDMN and Sensorimotor Network.",
+          "performance_or_health_indicator": "Indicates chemotherapy-induced abnormalities in brain networks, potentially serving as a biomarker of chemotherapy-related cognitive impairment. These changes were negatively associated with blood biochemical indexes and cognitive assessment scores."
+        },
+        {
+          "biomarker_name": "Menstrual status",
+          "measured_tissue_or_fluid": "Clinical observation",
+          "activity_type": "Clinical observation",
+          "measured_effect": {
+            "direction_of_change": "unchanged, lower, higher",
+            "magnitude_quantification": "No significant difference between breast cancer patients and healthy controls at baseline (P > 0.05). Following chemotherapy, 10 out of 11 premenopausal women (90.9%) developed amenorrhea at one week post-chemotherapy (t1), with 6 out of 17 patients (35.3%) recovering menstruation at six months post-chemotherapy (t2)."
+          },
+          "core_biological_function": "Indicates reproductive health, ovarian function, and hormonal balance.",
+          "relevant_activity_context": "Baseline assessment and longitudinal observation following chemotherapy in premenopausal breast cancer patients.",
+          "performance_or_health_indicator": "Indicator of baseline reproductive health status and chemotherapy-induced ovarian dysfunction or potential infertility, with some recovery noted."
+        },
+        {
+          "biomarker_name": "Estradiol (E2)",
+          "measured_tissue_or_fluid": "Blood plasma/serum",
+          "activity_type": "Hormone concentration",
+          "measured_effect": {
+            "direction_of_change": "unchanged, decreased, rising trend, increased",
+            "magnitude_quantification": "No significant difference between breast cancer patients and healthy controls at baseline (P > 0.05). Significantly decreased from baseline (t0) to one week post-chemotherapy (t1, P = 0.041), followed by a rising trend at six months post-chemotherapy (t2). At six months, levels were still in the abnormal range compared to the Healthy Control group. Increased changes were negatively correlated with decreased functional connectivity between SMN and VN."
+          },
+          "core_biological_function": "Primary female sex hormone, crucial for reproductive and bone health, and can alter metabolic levels of the frontotemporal lobe affecting brain structure and function, including attention and memory.",
+          "relevant_activity_context": "Baseline assessment, and changes after chemotherapy in breast cancer patients, with correlations to between-network functional connectivity.",
+          "performance_or_health_indicator": "Indicator of reproductive hormone balance and ovarian function. Increased changes in blood estrogen levels were negatively correlated with decreased functional connectivity between SMN and VN, suggesting a link to chemotherapy-related cognitive deficits. Higher levels at six months are speculated to positively impact cognitive improvement post-chemotherapy."
+        },
+        {
+          "biomarker_name": "Luteinizing Hormone (LH)",
+          "measured_tissue_or_fluid": "Blood plasma/serum",
+          "activity_type": "Hormone concentration",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "No significant difference between breast cancer patients and healthy controls at baseline (P > 0.05)."
+          },
+          "core_biological_function": "Regulates reproductive function, including ovulation and sex hormone production.",
+          "relevant_activity_context": "Baseline assessment in breast cancer patients compared to healthy controls.",
+          "performance_or_health_indicator": "Indicator of reproductive hormone balance and pituitary function."
+        },
+        {
+          "biomarker_name": "Follicle-Stimulating Hormone (FSH)",
+          "measured_tissue_or_fluid": "Blood plasma/serum",
+          "activity_type": "Hormone concentration",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "No significant difference between breast cancer patients and healthy controls at baseline (P > 0.05)."
+          },
+          "core_biological_function": "Stimulates ovarian follicle growth and estrogen production in women.",
+          "relevant_activity_context": "Baseline assessment in breast cancer patients compared to healthy controls.",
+          "performance_or_health_indicator": "Indicator of reproductive hormone balance and ovarian reserve."
+        },
+        {
+          "biomarker_name": "Anxiety scores",
+          "measured_tissue_or_fluid": "Psychological assessment",
+          "activity_type": "Psychological assessment score",
+          "measured_effect": {
+            "direction_of_change": "higher, decreased",
+            "magnitude_quantification": "Significantly higher in the breast cancer group than in the healthy control group at baseline (P = 0.012), although these scores were within the normal range. Scores continued to increase one week after chemotherapy but decreased over time after the end of chemotherapy."
+          },
+          "core_biological_function": "Reflects psychological distress and emotional state, with suggested competitive interactions with cognition.",
+          "relevant_activity_context": "Baseline assessment and post-chemotherapy emotional changes and recovery in breast cancer patients.",
+          "performance_or_health_indicator": "Indicator of mental health status and psychological burden. Initial high scores indicate distress, and subsequent decrease is speculated to benefit cognitive function recovery."
+        },
+        {
+          "biomarker_name": "Depression scores",
+          "measured_tissue_or_fluid": "Psychological assessment",
+          "activity_type": "Psychological assessment score",
+          "measured_effect": {
+            "direction_of_change": "higher, decreased",
+            "magnitude_quantification": "Significantly higher in the breast cancer group than in the healthy control group at baseline (P = 0.002), although these scores were within the normal range. Scores continued to increase one week after chemotherapy but decreased over time after the end of chemotherapy."
+          },
+          "core_biological_function": "Reflects psychological distress and emotional state, with suggested competitive interactions with cognition.",
+          "relevant_activity_context": "Baseline assessment and post-chemotherapy emotional changes and recovery in breast cancer patients.",
+          "performance_or_health_indicator": "Indicator of mental health status and psychological burden. Initial high scores indicate distress, and subsequent decrease is speculated to benefit cognitive function recovery."
+        },
+        {
+          "biomarker_name": "Total cholesterol",
+          "measured_tissue_or_fluid": "Blood plasma/serum",
+          "activity_type": "Concentration",
+          "measured_effect": {
+            "direction_of_change": "higher, increased changes, improved",
+            "magnitude_quantification": "Significantly higher in the breast cancer group than in the healthy control group at baseline (P < 0.05). Increased changes after chemotherapy were negatively correlated with decreased within-network connectivity in the supplementary motor area for Central Network (r = -0.484, P = 0.049). Improved cholesterol metabolism was observed six months later, but the levels were still in the abnormal range compared to the Healthy Control group."
+          },
+          "core_biological_function": "Essential lipid for cell membrane structure and steroid hormone synthesis; high levels are a risk factor for cardiovascular disease. Cholesterol metabolism is vital for vascular health and cognitive function.",
+          "relevant_activity_context": "Baseline assessment and post-chemotherapy changes in breast cancer patients, correlated with within-network functional connectivity.",
+          "performance_or_health_indicator": "Indicator of metabolic health and cardiovascular risk. Elevated baseline levels are associated with breast cancer. Changes after chemotherapy are linked to brain functional connectivity changes, suggesting a contribution to chemotherapy-related cognitive dysfunction. Lower lipid levels are speculated to positively impact cognitive improvement and reduce the risk of vascular-related cognitive impairment."
+        },
+        {
+          "biomarker_name": "Triglyceride",
+          "measured_tissue_or_fluid": "Blood plasma/serum",
+          "activity_type": "Concentration",
+          "measured_effect": {
+            "direction_of_change": "higher, increased, decreased, improved",
+            "magnitude_quantification": "Significantly higher in the breast cancer group than in the healthy control group at baseline (P < 0.05). Significantly increased from baseline (t0) to one week post-chemotherapy (t1, P = 0.041), and decreased at six months post-chemotherapy (t2) without statistical significance. Decreased lipid levels were observed six months later, but the levels were still in the abnormal range compared to the Healthy Control group."
+          },
+          "core_biological_function": "Primary form of fat storage in the body, serving as an energy source; high levels are a risk factor for cardiovascular disease.",
+          "relevant_activity_context": "Baseline assessment and post-chemotherapy changes in breast cancer patients.",
+          "performance_or_health_indicator": "Indicator of metabolic health and cardiovascular risk. Elevated baseline levels are associated with breast cancer. Post-chemotherapy fluctuations are noted; lower lipid levels are speculated to positively impact cognitive improvement."
+        },
+        {
+          "biomarker_name": "Fasting blood glucose",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Concentration",
+          "measured_effect": {
+            "direction_of_change": "higher, decreased",
+            "magnitude_quantification": "Significantly higher in the breast cancer group than in the healthy control group at baseline (P < 0.05). Decreased changes after chemotherapy were negatively correlated with decreased between-network functional connectivity of ADMN and CN (r = -0.497, P = 0.043), and positively correlated with decreased within-network connectivity changes in the supplementary motor area for Central Network (r = 0.561, P = 0.019). Decreased levels were observed six months later, but the levels were still in the abnormal range compared to the Healthy Control group."
+          },
+          "core_biological_function": "Primary energy source for cells and the brain; its metabolism affects brain function. Abnormalities are linked to neuropsychiatric diseases.",
+          "relevant_activity_context": "Baseline assessment and post-chemotherapy changes in breast cancer patients, correlated with both between-network and within-network functional connectivity.",
+          "performance_or_health_indicator": "Indicator of metabolic health and risk of glucose dysregulation. Elevated baseline levels are associated with breast cancer. Changes after chemotherapy are linked to brain functional connectivity changes, indicating contributions to chemotherapy-related cognitive deficits. Lower levels are speculated to positively impact cognitive improvement post-chemotherapy."
+        },
+        {
+          "biomarker_name": "SDT scores (Symbol Digit Test)",
+          "measured_tissue_or_fluid": "Cognitive assessment",
+          "activity_type": "Cognitive performance score",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly higher in the breast cancer group than in the healthy control group at baseline (P < 0.05)."
+          },
+          "core_biological_function": "Measures processing speed, attention, and working memory.",
+          "relevant_activity_context": "Baseline assessment in breast cancer patients compared to healthy controls.",
+          "performance_or_health_indicator": "Indicator of cognitive function, which can be impacted by cancer or chemotherapy ('chemobrain')."
+        },
+        {
+          "biomarker_name": "WDT scores (Word Discrimination Test)",
+          "measured_tissue_or_fluid": "Cognitive assessment",
+          "activity_type": "Cognitive performance score",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly higher in the breast cancer group than in the healthy control group at baseline (P < 0.05)."
+          },
+          "core_biological_function": "Measures verbal memory and discrimination ability.",
+          "relevant_activity_context": "Baseline assessment in breast cancer patients compared to healthy controls.",
+          "performance_or_health_indicator": "Indicator of cognitive function, which can be impacted by cancer or chemotherapy ('chemobrain')."
+        },
+        {
+          "biomarker_name": "Stroop test scores",
+          "measured_tissue_or_fluid": "Cognitive assessment",
+          "activity_type": "Cognitive performance score",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly higher in the breast cancer group than in the healthy control group at baseline (P < 0.05)."
+          },
+          "core_biological_function": "Measures selective attention, cognitive flexibility, and executive function.",
+          "relevant_activity_context": "Baseline assessment in breast cancer patients compared to healthy controls.",
+          "performance_or_health_indicator": "Indicator of cognitive function, which can be impacted by cancer or chemotherapy ('chemobrain')."
+        },
+        {
+          "biomarker_name": "Hemoglobin (Hb)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "decreased slightly, significantly increased",
+            "magnitude_quantification": "Decreased slightly from baseline (t0) to one week post-chemotherapy (t1), and significantly increased from t1 to t2 (six months post-chemotherapy; P = 0.003)."
+          },
+          "core_biological_function": "Oxygen transport in blood.",
+          "relevant_activity_context": "Changes after chemotherapy in breast cancer patients.",
+          "performance_or_health_indicator": "Indicator of red blood cell count and oxygen-carrying capacity, reflecting general health status and potential chemotherapy-induced effects. No direct correlation to cognitive function outcomes is provided for these specific changes."
+        }
+      ]
+    }
+  }
+]

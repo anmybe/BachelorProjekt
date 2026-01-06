@@ -1,0 +1,647 @@
+Cancer Med
+Cancer Med
+10.1002/(ISSN)2045-7634
+CAM4
+Cancer Medicine
+2045-7634
+John Wiley and Sons Inc.
+Hoboken
+5387168
+10.1002/cam4.1035
+CAM41035
+Original Research
+Clinical Cancer Research
+Original Research
+Clinical implications of serum
+N‐
+glycan profiling as a diagnostic and prognostic biomarker in germ‐cell tumors
+Narita
+Takuma
+1
+Hatakeyama
+Shingo
+http://orcid.org/0000-0002-0026-4079
+shingoh@hirosaki-u.ac.jp
+1
+Yoneyama
+Tohru
+2
+Narita
+Shintaro
+3
+Yamashita
+Shinichi
+4
+Mitsuzuka
+Koji
+4
+Sakurai
+Toshihiko
+5
+Kawamura
+Sadafumi
+6
+Tochigi
+Tatsuo
+6
+Takahashi
+Ippei
+7
+Nakaji
+Shigeyuki
+7
+Tobisawa
+Yuki
+1
+Yamamoto
+Hayato
+1
+Koie
+Takuya
+1
+Tsuchiya
+Norihiko
+5
+Habuchi
+Tomonori
+3
+Arai
+Yoichi
+4
+Ohyama
+Chikara
+1
+2
+1
+Department of Urology
+Hirosaki University Graduate School of Medicine
+Hirosaki
+Japan
+2
+Department of Advanced Transplant and Regenerative Medicine
+Hirosaki University Graduate School of Medicine
+Hirosaki
+Japan
+3
+Department of Urology
+Akita University Graduate School of Medicine
+Akita
+Japan
+4
+Department of Urology
+Tohoku University Graduate School of Medicine
+Sendai
+Japan
+5
+Department of Urology
+Yamagata University Graduate School of Medicine
+Yamagata
+Japan
+6
+Department of Urology
+Miyagi Cancer Center
+Natori
+Japan
+7
+Department of Social Medicine
+Hirosaki University School of Medicine
+Hirosaki
+Japan
+*
+Correspondence
+Shingo Hatakeyama, Department of Urology, Hirosaki University Graduate School of Medicine, 5 Zaifu‐chou, Hirosaki 036‐8562, Japan. Tel: 81 172 39 5091;Fax: 81 172 39 5092; E‐mail:
+shingoh@hirosaki-u.ac.jp
+20
+3
+2017
+4
+2017
+6
+4
+10.1002/cam4.2017.6.issue-4
+739
+748
+06
+11
+2016
+10
+1
+2017
+17
+1
+2017
+© 2017 The Authors.
+Cancer Medicine
+published by John Wiley & Sons Ltd.
+This is an open access article under the terms of the
+Creative Commons Attribution
+License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.
+Abstract
+Serum biomarker monitoring is essential for management of germ‐cell tumors (
+GCT
+). However, not all
+GCT
+are positive for conventional tumor markers. We examined whether serum
+N
+‐glycan‐based biomarkers can be applied for detection and prognosis in patients with
+GCT
+. We performed a comprehensive
+N
+‐glycan structural analysis of sera from 54 untreated
+GCT
+patients and 103 age‐adjusted healthy volunteers using glycoblotting methods and mass spectrometry. Candidate
+N‐
+glycans were selected from those with the highest association; cutoff concentration values were established, and an
+N‐
+glycan score was created based on the number of positive
+N‐
+glycans present. The validity of this score for diagnosis and prognosis was analyzed using a receiver operating characteristic (
+ROC
+) curve. We identified five candidate
+N‐
+glycans significantly associated with
+GCT
+patients. The accuracy of the
+N‐
+glycan score for
+GCT
+was significant with an area‐under‐the‐curve (
+AUC
+) value of 0.87. Diagnostically, the
+N‐
+glycan score detected 10 of 12 (83%) patients with negative conventional tumor markers. Prognostically, the
+N‐
+glycan score comprised four candidate
+N
+‐glycans. The predictive value of the prognostic
+N
+‐glycan score was significant, with an
+AUC
+value of 0.89. A high value prognostic
+N
+‐glycan score was significantly associated with poor prognosis. Finally, to identify a potential carrier protein, immunoglobulin (Ig) fractions of sera were subjected to
+N
+‐glycan analysis and compared to whole sera. Candidate
+N
+‐glycans in Ig‐fractions were significantly decreased; therefore, the carrier protein for candidate
+N
+‐glycans is likely not an immunoglobulin. In summary, our newly developed
+N
+‐glycan score seems to be a practical diagnostic and prognostic method for
+GCT
+.
+Biomarker
+germ‐cell tumors
+glycoblotting
+mass spectrometry
+serum
+N‐
+glycan
+Japan Society for the Promotion of Science
+23791737
+24659708
+22390301
+source-schema-version-number
+2.0
+component-id
+cam41035
+cover-date
+April 2017
+details-of-publishers-convertor
+Converter:WILEY_ML3GV2_TO_NLMPMC version:5.0.9 mode:remove_FC converted:11.04.2017
+Cancer Medicine
+2017
+, 6(4):
+739
+–
+748
+Introduction
+Germ‐cell tumors (GCT) remain the most common solid malignancy in young men
+1
+. Serum tumor markers are important for diagnosis and risk stratification as prognostic predictors. However, conventional tumor markers, including human chorionic gonadotropin (HCG), alpha‐fetoprotein (AFP), and lactate dehydrogenase (LDH), are elevated in <60% of patients
+2
+. Up to 30% of seminomas present with an elevated HCG level. AFP and HCG are increased in 50–70% and in 40–60% of patients with non‐seminomatous GCT (NSGCT), respectively
+3
+. In addition, because cisplatin‐based chemotherapy is highly effective for treating advanced cases, the evaluation of residual retroperitoneal lesions using conventional tumor markers is challenging after conversion to being marker negative. Therefore, novel and sensitive tumor biomarkers are needed.
+Glycosylation is a very common posttranslational modification, and it is estimated to happen >70% in case of proteins
+4
+. Glycans are known to have crucial roles in molecular recognition and cell‐to‐cell interactions, and disorders of the glycan system are related to many diseases, especially cancer
+5
+. Although several glycomics studies have been reported for GCT, these findings were from cell lines or tumor specimens
+6
+,
+7
+. Recently, our group established a chemoselective glycan‐enrichment technology, called glycoblotting, to purify oligosaccharides from a crude glycoprotein mixture
+8
+, and revealed that serum
+N
+‐glycomics has promise to screen for a diagnostic and prognostic marker for both renal‐cell carcinoma and castration‐resistant prostate cancer
+9
+,
+10
+. It also has promise as a prognostic tool in patients undergoing hemodialysis
+11
+. However, glycan‐based serum biomarkers for GCT have not yet been established. In this study, we examined serum
+N
+‐glycans in GCT patients using the glycoblotting method and evaluated whether serum
+N
+‐glycan profiling can be applied for detection and prognosis in patients with GCT.
+Materials and Methods
+This study was performed in accordance with the ethical standards of the Declaration of Helsinki and approved by the institutional ethics committee of Hirosaki University Graduate School of Medicine (authorization number, 2015‐144). Written or verbal informed consent was obtained from all serum donors.
+From April 2012 to September 2016, a total of 54 patients with GCT who were scheduled to undergo orchiectomy or systemic chemotherapy were recruited in a total of five institutions (Tohoku University Hospital, Hirosaki University Hospital, Akita University Hospital, Yamagata University Hospital, and Miyagi Cancer Center). Serum samples were obtained from 42 patients (GCT group) before treatment and stored at −80°C. Control samples obtained from our serum bank comprised 358 volunteers and were stored at −80°C. The patient's characteristics at diagnosis, including age, clinical stage, and conventional tumor markers (HCG, AFP, LDH) were recorded before starting treatment. All tumors were staged according to the 2009 tumor–node–metastasis classification
+12
+and risk stratification was evaluated according to the International Germ‐cell Consensus Classification (IGCCC)
+13
+. Control samples were obtained from community‐dwelling volunteers in Akita University Hospital, Hirosaki University Hospital, and the health maintenance program in the Iwaki Health Promotion Project. Because of the retrospective nature of this study, we included 103 age‐adjusted control subjects (HLT group) in this study. We compared
+N‐
+glycan concentrations (
+μ
+M) between the HLT and the GCT groups to select candidate
+N
+‐glycan moieties for detecting the presence of GCT by area‐under‐the‐curve (AUC) values. Optimal cutoff values were determined by receiver operating characteristic (ROC) curves. Candidate
+N
+‐glycans were defined as a positive when the concentration was higher than the cutoff value. Diagnostic and prognostic N‐glycan scores were created by adding the number of candidate
+N‐
+glycans over the concentration cutoff value. The accuracy of the
+N‐
+glycan scores was evaluated by ROC analysis. The glycan symbol in this study followed the instruction of symbol nomenclature for glycan representation.
+Glycoblotting method and mass spectrometry
+Serum
+N
+‐glycan analysis was performed as described previously using SweetBlot
+TM
+(System Instruments, Hachijo, Japan)
+8
+. Briefly, 10
+μ
+L of serum samples containing 40 pmol of the internal standard disialo‐galactosylated bi‐antennary
+N
+‐glycan, which has amidated sialic acids (A2 amide glycans) (Table
+S2
+), were reduced and alkylated using DTT and iodoacetamide (Wako Pure Chemical Industries, Osaka, Japan), respectively. The resulting mixture was then trypsinized and heat inactivated. After cooling down to room temperature, peptide
+N
+‐glycanase F (New England BioLabs, Ipswich, MA) was added to the mixture to release total serum
+N‐
+glycans. After incubating for 360 min at 37°C, 20
+μ
+L of the resulting mixture, equivalent to 2.5
+μ
+L of serum, was mixed with 500
+μ
+L of BlotGlyco H beads (Sumitomo Bakelite, Co., Tokyo, Japan) to capture glycans via stable hydrazone bonds on MultiScreen Solvinert
+®
+filter plate (MerkMillipore, Billerica, MA). Then, acetyl capping of unreacted hydrazide functional groups on the beads and methyl esterification of sialic acid carboxyl groups, which exist at the terminal ends of the captured glycans, were performed sequentially; serial washes were then performed before each step, as described previously
+9
+,
+10
+,
+11
+,
+14
+. The captured
+N‐
+glycans were labeled with BOA (Sigma–Aldrich, St. Louis, MO) by transiminization and were eluted in 150
+μ
+L of water. The BOA‐labeled glycans were detected using matrix‐assisted laser desorption/ionization‐time of flight (MALDI‐TOF) mass spectrometry (Ultraflex 3 TOF/TOF mass spectrometer, Bruker Daltonics, Bremen, Germany). Compositions and structures of glycans were predicted using GlycoMod Tool (
+http://br.expasy.org/tools/glcomod
+). The quantitative reproducibility test of Sweetblot was performed as described previously
+14
+.
+Purification of Immunoglobulin (Ig) fraction from serum
+To determine the
+N‐
+glycan profile of serum immunoglobulin (Ig), Ig purification was performed using a Zeba
+TM
+Spin Desalting Plate and Melon
+TM
+Gel Spin Purification Kit (Thermo Fisher Scientific, Waltham, MA) according to the manufacturer's instruction. Briefly, the Zeba desalting plate was placed on top of wash plate and centrifuged at 1000
+g
+for 2 min to remove the storage buffer. Then, 250
+μ
+L of PBS was added on top of the Zeba desalting resin, centrifuged at 1000
+g
+for 2 min, and the flow‐through discarded. This step was repeated an additional three times. Then, the desalting plate was stacked on top of the sample collection plate. Serum samples (100
+μ
+L) were applied to the center of the Zeba desalting resin and centrifuged at 1000
+g
+for 2 min. Flow‐through was collected as buffer‐exchanged serums and was stored at −80°C until use. The Melon gel spin plate was placed on top of the wash plate and centrifuged at 1000
+g
+for 2 min to remove the storage buffer. Then, 300
+μ
+L of purification buffer was added on top of the Melon gel resin and centrifuged at 1000
+g
+for 2 min, and the flow‐through discarded. This step was repeated once. Then, the Melon gel plate was stacked on top of the sample collection plate. Buffer‐exchanged serum samples (100
+μ
+L) were applied to the center of the Melon gel resin and centrifuged at 1000
+g
+for 2 min. Flow‐through was collected as a purified Ig‐fraction. An Ig‐fraction of 10
+μ
+L was subjected to our glycoblotting method and mass spectrometry.
+Statistical analysis
+Statistical analyses of clinical data were performed using SPSS v. 22.0 (IBM Corporation, Armonk, NY) and GraphPad Prism v. 5.03 (GraphPad Software, San Diego, CA). Categorical variables were reported as percentages and compared using Fisher's exact test. Quantitative data were expressed as medians with quartiles 1 and 3 (Q1, Q3). Differences between the groups were statistically compared using a Student's
+t
+‐test for data with normal distribution or a Mann–Whitney
+U
+‐test for data exhibiting a non‐normal distribution. The optimal cutoff values of intensity of
+N‐
+glycans for UC detection were calculated using the following formula: (1−sensitivity)
+2
++ (1−specificity)
+2
+with the ROC curve. Independent factors influencing on UC diagnosis were identified by multivariate analyses using a logistic regression model. Odds ratios with 95% confidence intervals (95% CI) were calculated after concurrently adjusting for potential confounders.
+Results
+The backgrounds of the HLT and GCT groups are shown in Table
+1
+. There were no statistically significant differences in age between the groups. Half of the patients (
+n
+= 22, 52%) had NSGCT in pathological findings, and a majority of patients were Stage I (38%) or III (36%) in the GCT group. About metastatic disease, 64% of patients were in the good prognosis group. Twelve patients (29%) were negative for any conventional tumor markers.
+Selection of diagnostic
+N‐
+glycans
+Serum
+N‐
+glycomics performed using the glycoblotting method and mass spectrometry identified 70 types of BOA‐labeled
+N‐
+glycans in all serum samples. After quantitative reproducibility tests, statistical analysis indicated that 36 types of
+N‐
+glycans (Table
+S1
+) had quantitative reproducibility among all samples. Of those, we selected five
+N‐
+glycans (
+m/z
+2379, 2337, 1709, 3865, 3195) with AUC that were >0.75 by ROC curves (Fig.
+1
+A). Unselected
+N‐
+glycans with AUC under 0.70 are shown in Supplemental Figure
+1
+(Fig.
+S1
+).
+N‐
+glycan levels of complex‐type glycans were significantly increased in the GCT group (Figs.
+1
+B, C, D, E, and F). Table
+2
+shows
+N‐
+glycans with AUC values >0.70, and the optimal cutoff values for the five selected
+N‐
+glycans. The sum of the positive number of candidate
+N‐
+glycans for GCT detection, which was defined as a diagnostic
+N‐
+glycan score, was significantly higher in the GCT group than in the HLT group (5.0 vs. 1.0,
+P
+<
+0.001, respectively). The predictive value of diagnostic
+N‐
+glycan score for GCT was significant with the AUC value of 0.87 (95% CI: 0.81–0.94,
+P
+<
+0.001) (Fig.
+2
+A). The optimal cutoff value was identified as 2.5 points with 81% sensitivity and 80% specificity (Tables
+2
+3
+). Bar plotting of the
+N‐
+glycan score in each subject showed that the GCT patients had higher
+N‐
+glycan scores (red bars) than the HLT patients (blue bars) (Fig.
+2
+B). There was no significant difference in diagnostic
+N‐
+glycan score between seminoma and NSGCT (
+P
+=
+0.561) (Fig.
+2
+C). A diagnostic
+N‐
+glycan score detected 10 of 12 (83%) patients with negative tumor markers (Fig.
+2
+D).
+Selection of prognostic
+N‐
+glycans
+We performed ROC analysis to select prognosis‐related
+N‐
+glycans.
+N‐
+glycans of
+m/z
+3560, 3109, 2525, 3865, 2890, and 3195 were selected as advanced disease (intermediate or poor prognosis‐related)
+N‐
+glycans (Fig.
+3
+A).
+N‐
+glycans of
+m/z
+2890, 3195, 3560, and 3865 were selected as relapse‐related
+N‐
+glycans (Fig.
+3
+B). Candidate
+N‐
+glycans with optimal cutoff values are shown in Table
+2
+. A prognostic
+N‐
+glycan score was created utilizing four candidate
+N‐
+glycans (
+m/z
+2890, 3195, 3560, and 3865) that were significantly associated with both advanced disease and tumor progression. Increased prognostic
+N‐
+glycan scores were associated with advanced disease status (Fig.
+3
+C, D, E, and F).
+The predictive value of the prognostic
+N‐
+glycan score was significant with an AUC value of 0.89 (Fig.
+4
+A). A high value prognostic
+N‐
+glycan score is significantly associated with poor prognosis (
+P
+=
+0.0012) (Fig.
+4
+B). Longitudinal follow‐up of the candidate four
+N‐
+glycans in seven patients showed that those
+N‐
+glycans were increased in patients with poor prognosis (**, Figs.
+4
+B, C, D, and E). Representative structures of the candidate
+N‐
+glycans identified in this study are shown in Fig.
+5
+. Terminal sialylated bi‐antennary, tri‐antennary, and tetra‐antennary complex‐type
+N‐
+glycans were selected as GCT‐related
+N‐
+glycans.
+To address the potential carrier protein in serum, whole serum was subjected to an Ig purification assay by Melon Gel. SDS‐PAGE gel assay and Coomassie Brilliant Blue staining confirmed the amount of protein in serum. Representative Ig‐fractions are shown in Fig.
+6
+A. Non‐Ig proteins were eliminated, and Igs were enriched by Melon Gel purification (Lane 1 and 3) compared with whole serum (lane 2 and 4) (Fig.
+6
+A). Whole serum and the Ig‐fraction were subjected to
+N‐
+glycan analysis.
+N‐
+glycans in the Ig‐fractions were significantly decreased as compared with whole sera (Fig.
+6
+B,
+S1
+). Of note, highly branched complex‐typed
+N‐
+glycans (
+m/z
+3109, 3560, 3865) were below the measurement limit in the Ig‐fraction. However, concentrations of bi‐antennary (
+m/z
+1591, 1607, 1753, 1915, 2058) and bisecting (
+m/z
+1794)
+N‐
+glycans, which were not selected as GCT‐related
+N‐
+glycans, were not changed in Ig‐fractions (Fig.
+S2
+).
+Discussion
+Quantitative
+N‐
+glycan analysis is expected to be a useful tool in the diagnosis of diseases
+5
+. However, the crucial bottleneck for structural and functional glycan analysis is a time‐consuming multistep process to purify small amounts of glycans from highly complicated mixtures. Therefore, we used a recently established high‐throughput, quantitative
+N‐
+glycomics technology. The usefulness of this method of
+N‐
+glycan analysis for renal‐cell carcinoma
+11
+, prostate cancer
+10
+,
+15
+, pancreatic cancer
+16
+, bladder cancer
+14
+, and hepatocellular carcinoma
+17
+has been reported. However, no study investigated the use of serum
+N‐
+glycans as a diagnostic and prognostic marker for GCT. To the best of our knowledge, this is the first report to demonstrate the clinical significance of serum
+N‐
+glycan profiling as a biomarker for GCT.
+In this study, we identified that a combination of GCT‐related
+N‐
+glycans (
+N‐
+glycan score) has the potential to be a novel serum biomarker for GCT detection and prognosis. Our results also suggested that it was able to detect conventional tumor marker‐negative patients with a high rate (83%), suggesting a potential of usefulness for follow‐up when conventional tumor markers are negative, or for evaluation in retroperitoneal residual lesion after chemotherapy. On the other hand, histological subtypes of GCT were not related to
+N‐
+glycan score, suggesting that these
+N‐
+glycans are not related to tumor‐producing proteins, such as HCG and/or AFP. Currently, the usefulness of serum
+N‐
+glycans for monitoring tumor relapse in GCT patients is under investigation. Our next study will address these issues.
+Our data showed that tri‐antennary and tetra‐antennary complex glycans with terminal sialylation were increased in GCT patients, which was similar to castration‐resistant prostate cancer. Fucosylated, highly branched, and sialylated
+N‐
+glycans are closely related to renal‐cell carcinoma in cancer detection and prognosis. It remains unclear why modification of
+N‐
+glycans occurs, and what type of carrier proteins are involved in
+N‐
+glycan modifications in sera. Because immunoglobulins are major
+N‐
+glycosylated proteins in serum
+4
+and glycosylation of immunoglobulin has critical role in developing diseases
+18
+,
+19
+, we hypothesized that glycosylation of immunoglobulin may play a key role for anticancer activity. However, our data showed that carrier
+N‐
+glycan concentrations were below the limit of measurement in Ig‐fractions in sera. Concentrations of candidate
+N‐
+glycans in Ig‐fractions were significantly decreased compared to whole sera (Fig.
+S1
+), whereas the amounts of immunoglobulin were not decreased in SDS‐PAGE gel staining (Fig.
+6
+A). In contrast, concentrations of bi‐antennary
+N‐
+glycans (
+m/z
+1591, 1607, 1753, 1794, 1915, 2058) did not differ (Fig.
+S2
+). This result indicates that GCT‐related
+N‐
+glycans are not strongly associated with immunoglobulins.
+Another possibility is free serum
+N‐
+glycans. A recent study demonstrated that levels of di‐sialylated‐free
+N‐
+glycans in sera were increased in patients with hepatocellular carcinoma (
+n
+= 10), as compared with normal controls (
+n
+= 10)
+20
+. From this observation, the authors hypothesized that the origin of the sialylated‐free
+N‐
+glycans might be the liver, because serum glycoproteins are produced by the liver. Their results suggested the possibility that the liver delivered free
+N‐
+glycans may play a role in sera. However, these results showed 100‐fold lower amounts of di‐sialylated‐free
+N‐
+glycans than we observed. This suggests that our high‐throughput
+N‐
+glycan analysis detects not only serum‐free
+N‐
+glycans, but also glycoproteins.
+An additional possible carrier protein is AGP. AGP is a major plasma glycoprotein with a molecular weight of 41–43 kD and highly branched
+N‐
+linked glycans, which is synthesized in and secreted from the liver into plasma
+21
+. AGP has been investigated as an acute‐phase serum glycoprotein that possesses 5
+N‐
+linked complex‐type heteroglycan side chains, which may be present as bi‐antennary, tri‐antennary, and tetra‐antennary structures. Additionally, it been studied in association with inflammation, autoimmune diseases, and cancer
+22
+. Although the origin and clinical implications of serum
+N‐
+glycans remains unclear, our ongoing studies address these issues and demonstrate potential clinical utility.
+The limitations of this study include the relatively small sample size, retrospective nature, selection bias, and nonclinical setting. In addition, patients of testicular disease other than cancer may be better controls than healthy individuals. The usefulness in regular follow‐up for relapses is unclear. Because our understanding of serum
+N‐
+glycans is insufficient, further study is necessary to understand the mechanism of serum
+N‐
+glycan formation. In addition, a large‐scale prospective cohort validation study is necessary. Despite these limitations, the strength of this study is that it is the first report to assess the utility of serum
+N‐
+glycan analysis for prognosis and diagnosis in GCT patients. Using a serum‐based analysis, we were able to demonstrate an independent association between serum
+N‐
+glycans and GCT detection and prognosis. Our findings may identify those who are at high risk of relapse, especially in conventional tumor marker‐negative patients.
+Conclusion
+Although this study is small and preliminary, our results suggest that the serum
+N‐
+glycan profiles acquired by glycoblotting and MALDI‐TOF mass spectrometry have potential utility as a biomarker for the presence of GCT. Future large‐scale prospective validation studies may determine the clinical significance of these carbohydrate biomarkers for GCT.
+Conflicts of Interest
+The authors declare no potential conflicts of interest.
+Supporting information
+Figure S1.
+Comparison of candidate
+N‐
+glycans from Ig‐fractions and whole sera. Whole serum and Ig‐fraction were subjected to
+N‐
+glycan analysis
+Figure S2.
+N‐
+glycans that were not decreased in Ig‐fractions.
+Click here for additional data file.
+Table S1
+. The representative 36 types of
+N
+‐glycans with quantitative reproducibility among all samples.
+Click here for additional data file.
+Acknowledgments
+We thank the Michinoku urological cancer study group, Yukie Nishizawa, and Yuki Fujita for their invaluable help with the data and sample collection.

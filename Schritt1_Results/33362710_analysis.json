@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Front Endocrinol (Lausanne) Front Endocrinol (Lausanne) Front. Endocrinol. Frontiers in Endocrinology 1664-2392 Frontiers Media S.A. 7759614 10.3389/fendo.2020.531926 Endocrinology Original Research Cytokines, Adipokines, and Bone Markers at Rest and in Response to Plyometric Exercise in Obese vs Normal Weight Adolescent Females Kurgan Nigel 1 2 McKee Katherine 1 Calleja Melissa 1 Josse Andrea R. 2 3 Klentrou Panagiota 1 2 * 1 Department of Kinesiology, Brock University , St. Catharines, ON , Canada 2 Centre for Bone and Muscle Health, Brock University , St. Catharines, ON , Canada 3 School of Kinesiology and Health Science, York University , Toronto, ON , Canada Edited by: Katherine Samaras, St Vincent\u2019s Hospital Sydney, Australia Reviewed by: Monique Francois, University of Wollongong, Australia; Reina Villareal, Baylor College of Medicine, United States *Correspondence: Panagiota Klentrou, nklentrou@brocku.ca This article was submitted to Obesity, a section of the journal Frontiers in Endocrinology 11 12 2020 2020 11 531926 01 2 2020 12 11 2020 Copyright \u00a9 2020 Kurgan, McKee, Calleja, Josse and Klentrou 2020 Kurgan, McKee, Calleja, Josse and Klentrou This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms. Background In adults, excess adiposity has been associated with low-grade, chronic inflammation and compromised bone health, but less is known about these linkages in children. The purpose of this study was to compare the circulating levels of inflammatory cytokines, adipokines, osteokines, and bone markers at rest and in response to plyometric exercise between obese and normal weight adolescent females. Methods Ten normal weight (BMI = 21.3 \u00b1 2) and 10 obese (BMI = 32.9 \u00b1 4), postmenarcheal females, aged 13\u201317 years, performed one bout of plyometric exercise (5 circuits; 120 jumps). Blood samples were taken at rest, 5 min, 1 h, and 24 h post-exercise. Tumor necrosis factor alpha (TNF-\u03b1), interleukin 6 (IL-6), insulin, leptin, osteocalcin, carboxy-terminal telopeptide (CTX), sclerostin, and parathyroid hormone (PTH) were measured in serum. Results Cytokines were not different between groups at rest or over time with IL-6 increasing (+31%; p = 0.04) 5 min post-exercise and TNF-\u03b1 decreasing (-9%; p = 0.001) 1 h post-exercise. Insulin and leptin were higher in the obese compared to the normal weight females. In both groups, insulin significantly increased 5 min post-exercise but remained elevated 1 h post-exercise only in the obese group. Leptin did not change in response to exercise. Osteocalcin was lower in the obese group across time and increased (+12%; p = 0.02) 24 h post-exercise in both groups. CTX was similar between groups at rest and decreased (-24%; p < 0.001) 1 h post-exercise. Sclerostin was similar between groups at rest, but there was a significant interaction reflecting a significant increase (+29%; p = 0.04) 5 min post-exercise in the obese group and a non-significant decrease (-13%; p = 0.08) in normal weight controls. PTH increased 5 min post-exercise, dropped 1 h post-exercise to lower than pre-exercise, and returned to baseline 24 h post-exercise in both groups. Conclusion Obese adolescent females from our study had no evidence of resting inflammation or differences in bone resorption but show blunted bone formation when compared to normal weight controls. The direction and temporal changes in inflammatory cytokines, adipokines, and bone turnover markers to exercise were similar in both groups, reflecting an overall bone anabolic response for most biomarkers, except sclerostin, which increased only in the obese females immediately post-exercise, suggesting a different systemic regulation of sclerostin depending on adiposity. exercise adolescent girls obesity inflammation carboxy-terminal telopeptide osteocalcin parathyroid hormone sclerostin Natural Sciences and Engineering Research Council of Canada 10.13039/501100000038 Dairy Farmers of Canada 10.13039/100010710 Brock University 10.13039/501100005156",
+    "document_source_id": "33362710",
+    "analysis_date": "2025-12-09",
+    "extracted_data": {
+      "document_summary": "This study compared inflammatory cytokines, adipokines, and bone markers at rest and in response to plyometric exercise in obese versus normal-weight adolescent females. Key findings indicate that obese adolescents did not show evidence of resting inflammation or differences in bone resorption, but exhibited blunted bone formation (lower osteocalcin) and a differential sclerostin response to exercise compared to normal-weight controls. Acute exercise generally induced an anti-inflammatory and anabolic bone response in both groups, though insulin and sclerostin responses differed with adiposity, suggesting a unique systemic regulation dependent on adiposity.",
+      "treatment_details": {
+        "therapy_type": "Plyometric exercise",
+        "dose_specificity": "A single bout of high-impact plyometric exercise, totaling 120 jumps across 5 circuits (3 sets of 8 repetitions per station with 3 min recovery), lasting 30 minutes. The protocol included box, lunge, tuck jumps, single leg hopping, and jumping jacks. Box jump height was adjusted for body mass (40 cm for normal weight, 25 cm for obese) to ensure safety and sufficient loading. No dose-response comparisons were reported."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "TNF-\u03b1",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "lower post-exercise; unchanged at rest",
+            "magnitude_quantification": "No difference in resting levels between groups. Significantly decreased 1 hour post-plyometric exercise by -9% (p = 0.001) in both groups (-5% for normal weight and -9% for obese) compared to pre-exercise."
+          },
+          "core_biological_function": "Mediates inflammatory response, often involved in low-grade systemic inflammation and bone resorption.",
+          "relevant_activity_context": "At rest and 1 hour post-plyometric exercise in obese vs normal weight adolescent females.",
+          "performance_or_health_indicator": "No evidence of chronic low-grade inflammation in obese adolescents. The post-exercise decrease suggests a transient anti-inflammatory response to exercise, but its small magnitude may not be clinically relevant."
+        },
+        {
+          "biomarker_name": "IL-6",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher post-exercise; unchanged at rest",
+            "magnitude_quantification": "No difference in resting levels between groups. Increased 5 minutes post-plyometric exercise by +31% (p = 0.04) in both groups, then returned to baseline by 24 hours post-exercise."
+          },
+          "core_biological_function": "Mediates inflammation and immune response, often secreted by muscle in response to physical stress and involved in muscle regeneration.",
+          "relevant_activity_context": "At rest and acutely (5 minutes, 24 hours) post-plyometric exercise in obese vs normal weight adolescent females.",
+          "performance_or_health_indicator": "Similar acute inflammatory/metabolic response to exercise between groups, suggesting an intact exercise-induced response regardless of adiposity. Indicates a transient muscle-driven response to activity."
+        },
+        {
+          "biomarker_name": "Insulin",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Hormone Concentration",
+          "measured_effect": {
+            "direction_of_change": "higher in obese; increased post-exercise, more prolonged in obese",
+            "magnitude_quantification": "Obese females had significantly higher levels than normal weight females across all time points (mean difference: 787 pg/ml, 174%, p = 0.03). It significantly increased 5 minutes post-exercise in both groups (normal weight: +108%, obese: +129%). In normal weight females, it returned to baseline by 1 hour, while in obese females, it remained elevated at 1 hour post-exercise and returned to baseline by 24 hours."
+          },
+          "core_biological_function": "Regulates glucose metabolism, energy storage, and postprandial glucose handling, with indirect effects on bone.",
+          "relevant_activity_context": "At rest and 5 minutes/1 hour/24 hours post-plyometric exercise (after a high carbohydrate breakfast) in obese vs normal weight adolescent females.",
+          "performance_or_health_indicator": "Higher resting levels in obese females indicate poorer metabolic health and insulin resistance. The higher and more prolonged post-exercise elevation in obese females suggests impaired metabolic recovery and potential hyperinsulinemia, indicating altered insulin sensitivity."
+        },
+        {
+          "biomarker_name": "Leptin",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Hormone Concentration",
+          "measured_effect": {
+            "direction_of_change": "significantly higher in obese; unchanged by acute exercise",
+            "magnitude_quantification": "Obese females had significantly higher levels than normal weight females at all time points (mean difference: 13,579 pg/ml, +2.6-fold, p = 0.02). Levels did not change significantly in response to acute plyometric exercise in either group."
+          },
+          "core_biological_function": "An adipokine that regulates appetite, energy balance, fat metabolism, and has immune-modulating effects, with links to bone metabolism.",
+          "relevant_activity_context": "Resting levels and response to a single bout of plyometric exercise in obese vs normal weight adolescent females.",
+          "performance_or_health_indicator": "Elevated resting levels in obese females are consistent with greater fat mass, indicating increased adiposity and potential leptin resistance, which can be associated with insulin resistance and potential chronic systemic inflammation."
+        },
+        {
+          "biomarker_name": "Osteocalcin",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "significantly lower in obese at rest; higher post-exercise in both groups",
+            "magnitude_quantification": "Obese females had significantly lower resting levels compared to normal weight females (mean difference: 3,326 pg/ml, -23%, p = 0.04). Both groups showed a progressive increase post-exercise, significantly higher by 24 hours post-exercise (+12%, p = 0.02) compared to pre-exercise."
+          },
+          "core_biological_function": "A marker of bone formation and mineralization, produced by osteoblasts and involved in bone turnover.",
+          "relevant_activity_context": "Resting levels and response 24 hours post-plyometric exercise in obese vs normal weight adolescent females.",
+          "performance_or_health_indicator": "Lower resting levels in obese adolescents suggest blunted bone formation and turnover, potentially hindering normal bone growth. The exercise-induced increase indicates a beneficial anabolic bone response."
+        },
+        {
+          "biomarker_name": "Carboxy-terminal telopeptide (CTX)",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "lower post-exercise; unchanged at rest",
+            "magnitude_quantification": "Similar between groups at rest. Significantly decreased 5 minutes (-19%, p < 0.001) and 1 hour post-exercise (-24%, p < 0.001) in both groups, then returned to baseline by 24 hours post-exercise."
+          },
+          "core_biological_function": "A biochemical marker of bone resorption, reflecting the breakdown of type I collagen in bone.",
+          "relevant_activity_context": "At rest and acutely (5 minutes, 1 hour, 24 hours) post-plyometric exercise in obese vs normal weight adolescent females.",
+          "performance_or_health_indicator": "No difference at rest suggests no resting bone resorption difference between groups. The acute post-exercise decrease indicates a transient reduction in bone resorption, contributing to an overall anabolic bone response."
+        },
+        {
+          "biomarker_name": "Sclerostin",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher post-exercise in obese; unchanged or slightly lower in normal weight; unchanged at rest",
+            "magnitude_quantification": "Similar between groups at rest. In obese females, there was a significant increase 5 minutes post-exercise (+26% to +29%, p = 0.04) that returned to baseline by 1 hour. In normal weight females, there was no significant change (or a non-significant decrease of -13%, p = 0.08) immediately post-exercise."
+          },
+          "core_biological_function": "Osteocyte-secreted factor that inhibits bone formation by inhibiting Wnt signaling, promotes adipogenesis, and plays a role in bone-adipose tissue crosstalk.",
+          "relevant_activity_context": "At rest and acutely (5 minutes, 1 hour) post-plyometric exercise in obese vs normal weight adolescent females.",
+          "performance_or_health_indicator": "The differential exercise-induced response (increase in obese, no change in normal weight) suggests an adiposity-dependent systemic regulation. An increase in sclerostin post-exercise in obese females could potentially blunt bone formation and indicate an unfavorable metabolic response, potentially promoting advanced skeletal maturation."
+        },
+        {
+          "biomarker_name": "Parathyroid hormone (PTH)",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Hormone Concentration",
+          "measured_effect": {
+            "direction_of_change": "transiently increased, then decreased below baseline, then returned to baseline",
+            "magnitude_quantification": "Significantly increased 5 minutes post-exercise (+38%, p = 0.05) compared to pre-exercise. It then dropped 1 hour post-exercise to lower than pre-exercise levels (-36%, p = 0.001) and returned to baseline by 24 hours post-exercise in both groups."
+          },
+          "core_biological_function": "Primarily regulates calcium and phosphate levels in the blood and bone, influencing overall bone metabolism.",
+          "relevant_activity_context": "Acutely (5 minutes, 1 hour, 24 hours) post-plyometric exercise in obese vs normal weight adolescent females.",
+          "performance_or_health_indicator": "Acute fluctuations post-exercise reflect the dynamic physiological regulation of calcium homeostasis in response to physical activity, contributing to overall bone metabolism."
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "biomarker_name": "Fasting glucose",
+    "overall_summary": "A primary metabolic marker showing significant decline post-SARS-CoV-2 infection in vaccinated survivors, more pronounced in males, suggesting sex-specific metabolic recovery patterns and improved glycemic control.",
+    "findings_by_activity": [
+      {
+        "source_document_id": "41010901",
+        "activity_context": "post-SARS-CoV-2 infection in vaccinated survivors",
+        "effect_and_magnitude": "declined: Significant reduction over time in both sexes, more pronounced in males (total cohort decreased from 126.00 to 113.60 mg/dL, p=0.017; males significantly declined, p=0.033).",
+        "clinical_implication": "Sex-tailored long-term monitoring strategies should prioritize early metabolic screening in men, indicating greater subclinical cardiac stress and improved glycemic control post-vaccination. Diagnostic utility for sex-based differences in glycemic control."
+      }
+    ]
+  },
+  {
+    "biomarker_name": "HbA1c",
+    "overall_summary": "A long-term glycemic control indicator, showing significant decline over time post-SARS-CoV-2 infection in vaccinated survivors, more prominently in males, suggesting improved glucose regulation.",
+    "findings_by_activity": [
+      {
+        "source_document_id": "41010901",
+        "activity_context": "post-SARS-CoV-2 infection in vaccinated survivors",
+        "effect_and_magnitude": "declined: Significant reduction over time in both sexes, more pronounced in males (total cohort decreased from 7.26% to 6.43%, p<0.001). Males also exhibited higher baseline levels compared to females.",
+        "clinical_implication": "Sex-tailored long-term monitoring strategies should prioritize early metabolic screening in men, indicating greater subclinical cardiac stress and improved glycemic control post-vaccination. Diagnostic utility for sex-based differences in glycemic control."
+      }
+    ]
+  },
+  {
+    "biomarker_name": "TSH",
+    "overall_summary": "A thyroid-stimulating hormone, found to increase over time in vaccinated female COVID-19 survivors, indicating persistent endocrine shifts in women.",
+    "findings_by_activity": [
+      {
+        "source_document_id": "41010901",
+        "activity_context": "post-SARS-CoV-2 infection in vaccinated survivors",
+        "effect_and_magnitude": "increased: Modest but marked increase over time in females (from 2.18 \".013 \".U/mL to 3.26 \".0.58 \".U/mL, p=0.043); males remained stable.",
+        "clinical_implication": "Sex-tailored long-term monitoring strategies should prioritize prolonged immunoendocrine surveillance in women, due to distinct endocrine shifts. Females demonstrate adverse risk for persistent endocrine shifts (rising TSH, lower free T3)."
+      }
+    ]
+  },
+  {
+    "biomarker_name": "Free T3",
+    "overall_summary": "A thyroid hormone consistently higher in males compared to females throughout follow-up post-COVID-19 vaccination, suggesting sex-specific differences in thyroid regulation.",
+    "findings_by_activity": [
+      {
+        "source_document_id": "41010901",
+        "activity_context": "post-SARS-CoV-2 infection in vaccinated survivors",
+        "effect_and_magnitude": "higher: Consistently higher in males compared to females throughout follow-up (e.g., Males 3.18 \".0.05 ng/L vs Females 2.95 \".0.06 ng/L at T0, p=0.0006).",
+        "clinical_implication": "Sex-tailored long-term monitoring strategies should prioritize prolonged immunoendocrine surveillance in women, due to distinct endocrine shifts. Females demonstrate adverse risk for persistent endocrine shifts (rising TSH, lower free T3)."
+      }
+    ]
+  },
+  {
+    "biomarker_name": "Free T4",
+    "overall_summary": "A thyroid hormone showing a slight overall increase over time in vaccinated COVID-19 survivors, with males experiencing a specific increase, reflecting sex-specific endocrine dynamics.",
+    "findings_by_activity": [
+      {
+        "source_document_id": "41010901",
+        "activity_context": "post-SARS-CoV-2 infection in vaccinated survivors",
+        "effect_and_magnitude": "increased: Slight increase over time in the total population (p=0.010), with males showing an increase from 1.15 \".0.02 ng/dL to 1.21 \".0.02 ng/dL (p=0.021).",
+        "clinical_implication": "Sex-tailored long-term monitoring strategies are needed to evaluate and manage long-term alterations in endocrine parameters. Findings highlight sex-specific physiological recovery patterns."
+      }
+    ]
+  },
+  {
+    "biomarker_name": "Creatinine",
+    "overall_summary": "A renal function marker that increases significantly over time post-COVID-19 in vaccinated survivors, consistently higher in males, indicating sex-specific renal adaptations. It also changed with exercise in older adults, but without adverse effects from protein supplementation.",
+    "findings_by_activity": [
+      {
+        "source_document_id": "41010901",
+        "activity_context": "post-SARS-CoV-2 infection in vaccinated survivors",
+        "effect_and_magnitude": "increased: Increased significantly over time in both sexes (females p=0.009, males p=0.001), and consistently higher in males throughout the follow-up.",
+        "clinical_implication": "Males demonstrate adverse risk for earlier renal alterations, including higher creatinine. Diagnostic utility for sex-based differences in renal adaptation."
+      },
+      {
+        "source_document_id": "30848096",
+        "activity_context": "12 weeks of daily milk protein supplementation in physically active older adults",
+        "effect_and_magnitude": "mixed/no significant change between groups: Creatinine concentrations increased and eGFR decreased in both groups over time (P Time < 0.001), but no significant between-group differences were observed for eGFR or urinary albumin/creatinine ratio, indicating no adverse effect on renal function due to protein supplementation.",
+        "clinical_implication": "Protein supplementation did not lead to adverse risk for renal function in older adults, suggesting it is a safe strategy. Renal function markers generally changed with exercise training in both groups."
+      }
+    ]
+  },
+  {
+    "biomarker_name": "Urea",
+    "overall_summary": "A renal function marker consistently higher in males post-COVID-19 vaccination, indicating sex-specific renal adaptations. It also shows a significant increase with protein supplementation in physically active older adults, reflecting altered protein metabolism.",
+    "findings_by_activity": [
+      {
+        "source_document_id": "41010901",
+        "activity_context": "post-SARS-CoV-2 infection in vaccinated male survivors",
+        "effect_and_magnitude": "higher: Consistently higher in males throughout the follow-up.",
+        "clinical_implication": "Males demonstrate adverse risk for earlier renal alterations, including higher urea. Diagnostic utility for sex-based differences in renal adaptation."
+      },
+      {
+        "source_document_id": "30848096",
+        "activity_context": "12 weeks of daily milk protein supplementation in physically active older adults",
+        "effect_and_magnitude": "increase: Increased significantly in the protein group (P Interaction < 0.001), while no changes were observed in the placebo group.",
+        "clinical_implication": "Increased serum urea indicates altered protein metabolism with supplementation. While observed, it was not accompanied by other adverse renal function changes, suggesting safety."
+      }
+    ]
+  },
+  {
+    "biomarker_name": "Troponin",
+    "overall_summary": "A cardiac injury marker that decreases significantly in both sexes post-COVID-19 vaccination, but consistently remains higher in males, reflecting sex-specific cardiac alterations and subclinical cardiac stress.",
+    "findings_by_activity": [
+      {
+        "source_document_id": "41010901",
+        "activity_context": "post-SARS-CoV-2 infection in vaccinated survivors",
+        "effect_and_magnitude": "decreased: Decreased significantly in both sexes (females p=0.001, males p=0.003). Males consistently exhibited higher values, particularly during early follow-up.",
+        "clinical_implication": "Males demonstrate adverse risk for earlier cardiac alterations, including higher troponin and greater subclinical cardiac stress. Sex-tailored long-term monitoring strategies should prioritize early cardiac screening in men."
+      }
+    ]
+  },
+  {
+    "biomarker_name": "CRP",
+    "overall_summary": "An inflammatory marker showing significant decline post-COVID-19 vaccination, yet consistently higher in males, indicating sex-specific inflammatory responses and interconnected systemic inflammation.",
+    "findings_by_activity": [
+      {
+        "source_document_id": "41010901",
+        "activity_context": "post-SARS-CoV-2 infection in vaccinated survivors",
+        "effect_and_magnitude": "declined: Significant decline over time in both sexes. Males consistently exhibited higher levels than females, particularly at T2 (p=0.016) and T3 (p=0.001).",
+        "clinical_implication": "Males exhibit a more pronounced acute physiological burden and greater subclinical cardiac stress. Sex-tailored long-term monitoring strategies are needed for evaluating and managing inflammatory parameters."
+      }
+    ]
+  },
+  {
+    "biomarker_name": "Fibrinogen",
+    "overall_summary": "A coagulation and inflammatory marker that declines overall post-COVID-19 vaccination but remains consistently higher in females, suggesting sustained inflammatory and coagulative shifts in women.",
+    "findings_by_activity": [
+      {
+        "source_document_id": "41010901",
+        "activity_context": "post-SARS-CoV-2 infection in vaccinated survivors",
+        "effect_and_magnitude": "declined: Declined overall (p<0.001) but remained consistently higher in females compared to males across all timepoints (p<0.05), indicating sustained elevation in females.",
+        "clinical_implication": "Females demonstrate adverse risk for persistent inflammatory changes (sustained fibrinogen elevation) and potential for delayed coagulative resolution. Sex-tailored long-term monitoring strategies should prioritize prolonged inflammatory surveillance in women."
+      }
+    ]
+  },
+  {
+    "biomarker_name": "Lymphocyte",
+    "overall_summary": "An immune cell type showing a modest but significant temporary increase in vaccinated female COVID-19 survivors, reflecting transient adaptive immunity differences.",
+    "findings_by_activity": [
+      {
+        "source_document_id": "41010901",
+        "activity_context": "post-SARS-CoV-2 infection in vaccinated female survivors",
+        "effect_and_magnitude": "increased: Modest but significant temporary increase in females at T2 (p=0.006).",
+        "clinical_implication": "Females demonstrate adverse risk for persistent inflammatory changes, including a temporary lymphocyte surge. This reflects transient adaptive immunity differences in women."
+      }
+    ]
+  },
+  {
+    "biomarker_name": "D-dimer",
+    "overall_summary": "A coagulation marker found to be significantly higher in vaccinated female COVID-19 survivors at the 30-month endpoint, indicating potential for delayed coagulative resolution in women.",
+    "findings_by_activity": [
+      {
+        "source_document_id": "41010901",
+        "activity_context": "post-SARS-CoV-2 infection in vaccinated survivors",
+        "effect_and_magnitude": "elevated: Remained stable overall, but significantly higher in females compared to males at the 30-month (T3) endpoint (p=0.024), with lower values recorded in males at this endpoint.",
+        "clinical_implication": "Females demonstrate adverse risk for persistent inflammatory changes (elevated D-dimer at 30-month) and potential for delayed coagulative resolution. Sex-tailored long-term monitoring strategies should prioritize prolonged inflammatory surveillance in women."
+      }
+    ]
+  },
+  {
+    "biomarker_name": "WBC counts",
+    "overall_summary": "A hematological parameter that did not change significantly post-COVID-19, but males consistently exhibited higher values, suggesting sex-specific hematological baselines.",
+    "findings_by_activity": [
+      {
+        "source_document_id": "41010901",
+        "activity_context": "post-COVID-19 hematological parameters",
+        "effect_and_magnitude": "stable: Did not change significantly over time in the overall cohort (p=0.422), but males consistently had higher values, particularly at T1 (p=0.001).",
+        "clinical_implication": "Sex-tailored long-term monitoring strategies are needed to evaluate and manage long-term alterations in hematological parameters based on sex-specific physiological recovery patterns."
+      }
+    ]
+  },
+  {
+    "biomarker_name": "Triglycerides",
+    "overall_summary": "A lipid marker showing sex-specific fluctuations post-COVID-19 vaccination, with males initially demonstrating higher levels that gradually declined, while females showed a sustained increase.",
+    "findings_by_activity": [
+      {
+        "source_document_id": "41010901",
+        "activity_context": "post-COVID-19 lipid metabolism",
+        "effect_and_magnitude": "fluctuated: Fluctuated slightly; males initially demonstrated higher levels which gradually declined, while females showed a sustained increase by T3.",
+        "clinical_implication": "Sex-tailored long-term monitoring strategies should prioritize metabolic screening based on sex-specific physiological recovery patterns. A specific link between glucose metabolism and triglycerides was also identified."
+      }
+    ]
+  },
+  {
+    "biomarker_name": "Irisin",
+    "overall_summary": "A glycopeptide hormone and key regulator of energy metabolism, found to be downregulated in Hepatocellular Carcinoma (HCC) tissues and decreased in HCC patients. Low preoperative serum levels predict higher postoperative complications and longer hospital stays after hepatectomy, making it a novel diagnostic and prognostic biomarker for HCC.",
+    "findings_by_activity": [
+      {
+        "source_document_id": "31976024",
+        "activity_context": "HCC tissues (TCGA dataset) compared with noncancer tissues",
+        "effect_and_magnitude": "downregulated: P < 0.001",
+        "clinical_implication": "Irisin may be a novel serum biomarker in the diagnosis of HCC, indicating downregulation in HCC tissues."
+      },
+      {
+        "source_document_id": "31976024",
+        "activity_context": "HCC patients compared with healthy controls",
+        "effect_and_magnitude": "decreased: HCC: 2.05 \". 0.83 \".g/ml; Healthy: 3.16 \". 0.86 \".g/ml; P < 0.001",
+        "clinical_implication": "Serum irisin serves as a novel diagnostic biomarker for HCC. Diagnostic utility for HCC."
+      },
+      {
+        "source_document_id": "31976024",
+        "activity_context": "Distinguishing HCC patients from healthy controls",
+        "effect_and_magnitude": "diagnostic utility: AUC = 0.8364 (95% CI 0.7826-0.8902, P < 0.0001)",
+        "clinical_implication": "Serum irisin serves as a novel diagnostic biomarker for HCC with good discriminative performance (AUC 0.8364). Diagnostic utility for HCC."
+      },
+      {
+        "source_document_id": "31976024",
+        "activity_context": "Prediction of postoperative complications after hepatectomy in HCC patients (correlation with CCI scores)",
+        "effect_and_magnitude": "low levels (\".2.62 \".g/ml) significantly correlated with high CCI scores (inverse relationship): P < 0.05",
+        "clinical_implication": "Low preoperative serum irisin levels predict higher postoperative complication index (CCI scores) and longer hospital stays after hepatectomy in HCC patients. Predictive biomarker for adverse surgical outcomes."
+      },
+      {
+        "source_document_id": "31976024",
+        "activity_context": "Hospital stay duration after hepatectomy in HCC patients",
+        "effect_and_magnitude": "associated with longer hospital stay: P < 0.05",
+        "clinical_implication": "Low preoperative serum irisin levels predict longer hospital stays after hepatectomy in HCC patients. Predictive biomarker for adverse surgical outcomes."
+      },
+      {
+        "source_document_id": "31976024",
+        "activity_context": "Association with clinical factors in HCC patients",
+        "effect_and_magnitude": "associated with male sex, history of viral hepatitis, and high AFP level: P < 0.05 for all",
+        "clinical_implication": "Low serum irisin associates with specific clinical risk factors in HCC (male gender, viral hepatitis history, high AFP), indicating diagnostic and predictive utility."
+      }
+    ]
+  },
+  {
+    "biomarker_name": "Polygenic Risk Score (PRS)",
+    "overall_summary": "A cumulative genetic measure used for predicting epithelial ovarian cancer (EOC) risk, which significantly improves risk stratification in both the general population and BRCA1/2 carriers across diverse ancestries. Higher PRS correlates with substantially increased absolute and odds risks, similar to pathogenic variants in some high-risk genes.",
+    "findings_by_activity": [
+      {
+        "source_document_id": "35027648",
+        "activity_context": "non-mucinous EOC risk in women of European ancestries",
+        "effect_and_magnitude": "increased: OR 1.38 (95% CI: 1.28-1.48), AUC: 0.588 per unit standard deviation",
+        "clinical_implication": "Significant diagnostic and predictive utility for risk stratification, identifying individuals at adverse risk for EOC, enhancing risk prediction for prevention strategies. Higher PRS indicates higher EOC risk."
+      },
+      {
+        "source_document_id": "35027648",
+        "activity_context": "non-mucinous EOC risk in women of East Asian ancestries",
+        "effect_and_magnitude": "increased: OR 1.14 (95% CI: 1.08-1.19), AUC: 0.538",
+        "clinical_implication": "Significant diagnostic and predictive utility for risk stratification, identifying individuals at adverse risk for EOC, enhancing risk prediction for prevention strategies. Higher PRS indicates higher EOC risk. Discrimination varies significantly by ancestry, with weaker effects in non-European groups."
+      },
+      {
+        "source_document_id": "35027648",
+        "activity_context": "non-mucinous EOC risk in women of African ancestries",
+        "effect_and_magnitude": "increased: OR 1.38 (95% CI: 1.21-1.58), AUC: 0.593",
+        "clinical_implication": "Significant diagnostic and predictive utility for risk stratification, identifying individuals at adverse risk for EOC, enhancing risk prediction for prevention strategies. Higher PRS indicates higher EOC risk. Discrimination varies significantly by ancestry, with weaker effects in non-European groups."
+      },
+      {
+        "source_document_id": "35027648",
+        "activity_context": "EOC risk in BRCA1 pathogenic variant carriers",
+        "effect_and_magnitude": "increased: HR 1.36 (95% CI: 1.29-1.43), AUC: 0.592",
+        "clinical_implication": "Significant diagnostic and predictive utility for risk stratification, identifying BRCA1 carriers at substantially increased absolute EOC risk, enhancing risk prediction for prevention strategies. Higher PRS indicates higher EOC risk."
+      },
+      {
+        "source_document_id": "35027648",
+        "activity_context": "EOC risk in BRCA2 pathogenic variant carriers",
+        "effect_and_magnitude": "increased: HR 1.49 (95% CI: 1.35-1.64), AUC: 0.624",
+        "clinical_implication": "Significant diagnostic and predictive utility for risk stratification, identifying BRCA2 carriers at substantially increased absolute EOC risk, enhancing risk prediction for prevention strategies. Higher PRS indicates higher EOC risk."
+      },
+      {
+        "source_document_id": "35027648",
+        "activity_context": "Risk of non-mucinous EOC in women of European ancestries",
+        "effect_and_magnitude": "increased: 2.23-fold increased odds (95% CI: 1.64 - 3.02) for women in the top 95th percentile compared to the middle quintile",
+        "clinical_implication": "Polygenic risk scores significantly improve prediction and stratification of EOC risk by identifying individuals with substantially increased odds. Higher PRS indicates higher EOC risk."
+      },
+      {
+        "source_document_id": "35027648",
+        "activity_context": "Cumulative risk of EOC by age 80 in the general population (99th centile)",
+        "effect_and_magnitude": "increased: 2.24% (lasso), 2.18% (elastic net), 2.54% (stepwise), and 2.81% (S4) compared to 0.76% (lasso), 0.78% (elastic net), 0.64% (stepwise), and 0.56% (S4) at the 1st centile",
+        "clinical_implication": "PRSs can identify individuals with a substantially increased absolute risk of developing EOC, enhancing clinical utility for prevention strategies. Higher PRS indicates higher EOC risk."
+      },
+      {
+        "source_document_id": "35027648",
+        "activity_context": "Absolute risk of EOC by age 80 in BRCA1 carriers (99th centile)",
+        "effect_and_magnitude": "increased: 63.2% (lasso), 66.3% (elastic net), 59.0% (stepwise), and 68.4% (S4) compared to 27.7% (lasso), 25.6% (elastic net), 30.8% (stepwise), and 24.2% (S4) at the 1st centile",
+        "clinical_implication": "PRSs can identify BRCA1 carriers with a substantially increased absolute risk of developing EOC, enhancing clinical utility for prevention strategies. Higher PRS indicates higher EOC risk."
+      },
+      {
+        "source_document_id": "35027648",
+        "activity_context": "Absolute risk of EOC by age 80 in BRCA2 carriers (99th centile)",
+        "effect_and_magnitude": "increased: 36.3% (lasso), 36.3% (elastic net), 33.0% (stepwise), and 36.9% (S4) compared to 7.10% (lasso), 7.12% (elastic net), 8.24% (stepwise), and 6.92% (S4) at the 1st centile",
+        "clinical_implication": "PRSs can identify BRCA2 carriers with a substantially increased absolute risk of developing EOC, enhancing clinical utility for prevention strategies. Higher PRS indicates higher EOC risk."
+      },
+      {
+        "source_document_id": "35027648",
+        "activity_context": "Risk of non-mucinous EOC in women of African ancestries (top 5% of PRS)",
+        "effect_and_magnitude": "increased: 2.15-fold increased risk (95% CI: 1.17-3.95) compared to the middle quintile",
+        "clinical_implication": "Risk stratification is improved for individuals at adverse risk of EOC. Higher PRS indicates higher EOC risk. Optimal discriminatory PRS models varied by ancestral population."
+      },
+      {
+        "source_document_id": "35027648",
+        "activity_context": "Risk of non-mucinous EOC in women of East Asian ancestries (top 5% of PRS)",
+        "effect_and_magnitude": "increased: 1.60-fold increased risk (95% CI: 1.28-2.01) compared to the middle quintile",
+        "clinical_implication": "Risk stratification is improved for individuals at adverse risk of EOC. Higher PRS indicates higher EOC risk. Optimal discriminatory PRS models varied by ancestral population."
+      },
+      {
+        "source_document_id": "35027648",
+        "activity_context": "Risk of non-mucinous EOC per unit standard deviation increment in polygenic score",
+        "effect_and_magnitude": "increased: Odds ratio of 1.16 (East Asian ancestries), 1.28 (African ancestries), and 1.37 (European ancestries); p for heterogeneity <0.0001",
+        "clinical_implication": "PRSs improve prediction of EOC risk across different ancestries, with higher odds ratios for increased risk per unit of standard deviation. Higher PRS indicates higher EOC risk."
+      },
+      {
+        "source_document_id": "35027648",
+        "activity_context": "risk of non-mucinous EOC",
+        "effect_and_magnitude": "increased association: stronger evidence of association than previously published PRSs",
+        "clinical_implication": "Polygenic risk models offer significant diagnostic and predictive utility for risk stratification, identifying individuals at adverse risk for EOC."
+      },
+      {
+        "source_document_id": "35027648",
+        "activity_context": "EOC risk prediction in BRCA1 carriers",
+        "effect_and_magnitude": "increased: higher than corresponding PRS HGS estimates (0.604)",
+        "clinical_implication": "Improved EOC risk prediction for BRCA1 carriers. Higher AUC indicates higher predictive power."
+      },
+      {
+        "source_document_id": "35027648",
+        "activity_context": "EOC risk prediction in BRCA2 carriers",
+        "effect_and_magnitude": "increased: slightly better than PRS HGS AUC estimate (0.667)",
+        "clinical_implication": "Improved EOC risk prediction for BRCA2 carriers. Higher AUC indicates higher predictive power."
+      },
+      {
+        "source_document_id": "35027648",
+        "activity_context": "EOC risk prediction in BRCA2 carriers",
+        "effect_and_magnitude": "comparable: comparable to PRS HGS AUC estimate (0.667)",
+        "clinical_implication": "Improved EOC risk prediction for BRCA2 carriers. AUC is comparable to existing estimates."
+      },
+      {
+        "source_document_id": "35027648",
+        "activity_context": "EOC risk prediction in BRCA2 carriers",
+        "effect_and_magnitude": "decreased: slightly worse than PRS HGS AUC estimate (0.667)",
+        "clinical_implication": "This model shows slightly reduced predictive power for EOC risk in BRCA2 carriers compared to existing estimates. Higher PRS indicates higher EOC risk."
+      },
+      {
+        "source_document_id": "35027648",
+        "activity_context": "overall EOC risk in the general population (UK Biobank)",
+        "effect_and_magnitude": "increased: slightly higher than estimates from Jia et al. (AUC = 0.57) and Yang et al. (AUC = 0.58)",
+        "clinical_implication": "Improved overall EOC risk prediction in the general population. Higher AUC indicates higher predictive power."
+      },
+      {
+        "source_document_id": "35027648",
+        "activity_context": "risk of EOC",
+        "effect_and_magnitude": "increased: similar to risk conferred by pathogenic variants in FANCM (RR = 2.1, 95% CI = 1.1-3.9) and PALB2 (RR = 2.91 95% CI = 1.40-6.04)",
+        "clinical_implication": "PRSs can identify individuals at a substantially increased absolute or odds risk of EOC, similar to the risk conferred by pathogenic variants in other genes, underscoring their clinical utility. Higher PRS indicates higher EOC risk."
+      }
+    ]
+  },
+  {
+    "biomarker_name": "Gastrointestinal permeability",
+    "overall_summary": "An indicator of gut barrier function, showing small to moderate improvement with multi-strain probiotic supplementation in male non-elite runners, suggesting a role for probiotics in mitigating exercise-induced gastrointestinal discomfort.",
+    "findings_by_activity": [
+      {
+        "source_document_id": "35897037",
+        "activity_context": "Probiotic supplementation (Lactobacillus, Bifidobacterium, Streptococcus) for 4 weeks in male non-elite runners",
+        "effect_and_magnitude": "Improvement: small to moderate improvement",
+        "clinical_implication": "Probiotic supplementation can lead to improved gastrointestinal functions and reduced gastrointestinal symptoms, enhancing athletes' ability to train at high intensities. Protective benefit for gut health."
+      }
+    ]
+  },
+  {
+    "biomarker_name": "Inflammatory markers",
+    "overall_summary": "General indicators of inflammation, which showed no influence from specific multi-strain probiotic supplementation in male non-elite runners, suggesting limited direct impact on systemic inflammation in this context.",
+    "findings_by_activity": [
+      {
+        "source_document_id": "35897037",
+        "activity_context": "Probiotic supplementation (Lactobacillus, Bifidobacterium, Streptococcus) for 4 weeks in male non-elite runners",
+        "effect_and_magnitude": "No influence: no influence",
+        "clinical_implication": "Probiotic intervention in this context did not yield direct benefits for inflammatory markers. Low health risk/no effect."
+      }
+    ]
+  },
+  {
+    "biomarker_name": "T-cell production of INF-G",
+    "overall_summary": "A measure of T-cell mediated immunity, which was restored to levels seen in healthy athletes after a 4-week Lactobacillus probiotic intervention in fatigued athletes, indicating immunomodulatory benefits.",
+    "findings_by_activity": [
+      {
+        "source_document_id": "35897037",
+        "activity_context": "4-week Lactobacillus probiotic intervention in fatigued athletes",
+        "effect_and_magnitude": "Restored: to levels seen in healthy athletes",
+        "clinical_implication": "Probiotic supplementation can enhance immune function, specifically restoring T-cell production, leading to improved immune activity and reduced risk of respiratory infection. Protective benefit."
+      }
+    ]
+  },
+  {
+    "biomarker_name": "Salivary secretory immunoglobulin A (sIgA)",
+    "overall_summary": "A crucial marker of mucosal immune function, maintained in elite athletes following a 14-week Lactobacillus probiotic intervention, suggesting immune system support during intense training.",
+    "findings_by_activity": [
+      {
+        "source_document_id": "35897037",
+        "activity_context": "14-week Lactobacillus probiotic intervention in elite athletes",
+        "effect_and_magnitude": "Maintained: maintained concentrations",
+        "clinical_implication": "Probiotic supplementation helps maintain immune health, reducing respiratory symptoms and infection risk, enhancing the ability to train. Protective benefit for immune activity."
+      }
+    ]
+  },
+  {
+    "biomarker_name": "Total number of upper respiratory infection days",
+    "overall_summary": "A clinical outcome reflecting immune health, which was reduced in elite athletes after a 14-week Lactobacillus probiotic intervention, highlighting probiotics' role in preventing training-induced illnesses.",
+    "findings_by_activity": [
+      {
+        "source_document_id": "35897037",
+        "activity_context": "14-week Lactobacillus probiotic intervention in elite athletes",
+        "effect_and_magnitude": "Reduced: reduced",
+        "clinical_implication": "Probiotic supplementation can reduce the total number of upper respiratory infection days, leading to decreased intensity of respiratory symptoms and risk of respiratory infection. Protective benefit against cold/flu symptoms."
+      }
+    ]
+  },
+  {
+    "biomarker_name": "Endurance Performance (Time-to-exhaustion)",
+    "overall_summary": "A critical measure of physical endurance, showing dose-dependent improvement with Lactobacillus probiotics in non-elite athletes, but no improvement in elite athletes, suggesting performance benefits are context-dependent and more pronounced in less trained individuals.",
+    "findings_by_activity": [
+      {
+        "source_document_id": "35897037",
+        "activity_context": "Lactobacillus probiotic (30 billion CFU and 90 billion CFU) for 6 weeks in non-elite athletes during treadmill testing",
+        "effect_and_magnitude": "Improvement: dose-dependent improvement",
+        "clinical_implication": "Probiotic supplementation can lead to improved athletic performance and endurance, enhancing athletes' ability to train at high intensities. Performance enhancement for non-elite athletes."
+      },
+      {
+        "source_document_id": "35897037",
+        "activity_context": "Probiotic formulation (Lactobacillus, Bifidobacterium, Streptococcus) for 4 weeks in male non-elite runners during a running protocol",
+        "effect_and_magnitude": "Improved: improved",
+        "clinical_implication": "Probiotic supplementation can lead to improved athletic performance and endurance, enhancing athletes' ability to train at high intensities. Performance enhancement for non-elite athletes."
+      },
+      {
+        "source_document_id": "35897037",
+        "activity_context": "14-week Lactobacillus intervention in elite athletes",
+        "effect_and_magnitude": "No improvement: no improvement",
+        "clinical_implication": "Probiotics may have limited ergogenic effect on endurance in elite athletes who already train at high intensities. Low sensitivity biomarker for elite performance enhancement."
+      }
+    ]
+  },
+  {
+    "biomarker_name": "Lean Body Mass",
+    "overall_summary": "A key component of body composition, significantly increased with daily milk protein supplementation and walking exercise in physically active older adults with low habitual protein intake. This increase helps attenuate age-related muscle loss.",
+    "findings_by_activity": [
+      {
+        "source_document_id": "30848096",
+        "activity_context": "12 weeks of daily milk protein supplementation and walking exercise in physically active older adults with low habitual protein intake",
+        "effect_and_magnitude": "increase: A larger relative increase in whole-body lean body mass was observed in the protein group (\".0.93 \". 1.22%) compared to placebo (\".0.44 \". 1.40%, P Interaction = 0.046). Truncal lean body mass also increased significantly more in the protein group (P Interaction = 0.007).",
+        "clinical_implication": "Protein supplementation effectively improves body composition by increasing lean body mass, delaying age-related muscle loss (sarcopenia) and improving long-term mobility and physical resilience. Protective benefit for muscle mass maintenance."
+      }
+    ]
+  },
+  {
+    "biomarker_name": "Fat Mass",
+    "overall_summary": "A measure of body fat, which significantly decreased with daily milk protein supplementation in physically active older adults with low habitual protein intake, contributing to improved body composition and overall health.",
+    "findings_by_activity": [
+      {
+        "source_document_id": "30848096",
+        "activity_context": "12 weeks of daily milk protein supplementation in physically active older adults with low habitual protein intake",
+        "effect_and_magnitude": "decrease: A larger absolute fat mass decrease was observed in the protein group (\".-0.90 \". 1.22 kg) vs. placebo (\".-0.31 \". 1.28 kg, P Interaction = 0.013), and a larger relative fat mass decrease (\".-0.92 \". 1.19% vs. \".-0.39 \". 1.36%, P Interaction = 0.029). The fat mass/lean body mass ratio was also significantly reduced more in the protein group.",
+        "clinical_implication": "Protein supplementation effectively improves body composition by decreasing fat mass, linked to reduced risks for cardiovascular diseases and metabolic syndrome. Protective benefit for fat mass reduction."
+      }
+    ]
+  },
+  {
+    "biomarker_name": "Physical Performance Markers",
+    "overall_summary": "A collection of functional mobility and fitness measures (Gait speed, Chair-rise ability, Timed Up-and-Go, Estimated VO2max), which improved due to walking exercise in physically active older adults, but showed no additional benefit from protein supplementation in already high-functioning individuals.",
+    "findings_by_activity": [
+      {
+        "source_document_id": "30848096",
+        "activity_context": "Walking exercise training with or without protein supplementation in physically active older adults",
+        "effect_and_magnitude": "improvement: Gait speed, chair-rise ability, Timed Up-and-Go, and estimated VO2max all improved significantly in both groups (P Time < 0.001) due to walking exercise training, but no significant between-group differences were observed with protein supplementation.",
+        "clinical_implication": "Walking exercise training improves physical performance in older adults, but protein supplementation does not offer additional benefits for these measures in already highly active individuals, possibly due to a ceiling effect."
+      }
+    ]
+  },
+  {
+    "biomarker_name": "Renal Function Markers",
+    "overall_summary": "Indicators of kidney health (Creatinine concentrations, eGFR, urinary albumin/creatinine ratio) which showed general changes over time with exercise, but were not adversely affected by 12 weeks of daily milk protein supplementation in physically active older adults.",
+    "findings_by_activity": [
+      {
+        "source_document_id": "30848096",
+        "activity_context": "12 weeks of daily milk protein supplementation in physically active older adults",
+        "effect_and_magnitude": "mixed/no significant change between groups: Creatinine concentrations increased and eGFR decreased in both groups over time (P Time < 0.001), but no significant between-group differences were observed for eGFR or urinary albumin/creatinine ratio, indicating no adverse effect on renal function due to protein supplementation.",
+        "clinical_implication": "Protein supplementation is a safe strategy and does not pose an adverse risk to renal function in older adults with moderate baseline kidney health. No adverse effect on renal function."
+      }
+    ]
+  },
+  {
+    "biomarker_name": "25-hydroxyvitamin D",
+    "overall_summary": "A measure of vitamin D status, found to increase significantly in both protein-supplemented and placebo groups of physically active older adults over a 12-week period, indicating a general improvement independent of protein intake.",
+    "findings_by_activity": [
+      {
+        "source_document_id": "30848096",
+        "activity_context": "12 weeks of daily milk protein supplementation or placebo in physically active older adults",
+        "effect_and_magnitude": "increase: Increased significantly in both groups (P Time = 0.001) over the supplementation period, with no between-group differences.",
+        "clinical_implication": "Vitamin D status improves over time in active older adults, irrespective of protein supplementation, suggesting other factors contribute to its increase during the study period."
+      }
+    ]
+  },
+  {
+    "biomarker_name": "Body Weight",
+    "overall_summary": "Overall body mass, which decreased borderline significantly more in the protein-supplemented group compared to the placebo group in physically active older adults, contributing to improved body composition.",
+    "findings_by_activity": [
+      {
+        "source_document_id": "30848096",
+        "activity_context": "12 weeks of daily milk protein supplementation in physically active older adults",
+        "effect_and_magnitude": "decrease: Decreased borderline significantly more in the protein group compared with the placebo group.",
+        "clinical_implication": "Protein supplementation contributes to a reduction in total body weight, which, in combination with increased lean body mass and decreased fat mass, supports overall health and physical resilience. Protective benefit for body composition."
+      }
+    ]
+  },
+  {
+    "biomarker_name": "Extracellular Vesicles (EVs)",
+    "overall_summary": "Cell-secreted nanoparticles that shuttle microRNAs and encapsulate biomolecules, found to be significantly increased in breast cancer patients (serum and plasma) and correlate with tumor burden in animal models. They hold significant potential as novel diagnostic and prognostic biomarkers for breast cancer and other cancers.",
+    "findings_by_activity": [
+      {
+        "source_document_id": "31936142",
+        "activity_context": "breast cancer",
+        "effect_and_magnitude": "increase: significantly more EVs in patient sera than healthy controls",
+        "clinical_implication": "EVs hold significant potential as novel diagnostic tools for breast cancer, providing an approach that accounts for the number of EVs present in each sample. Diagnostic utility."
+      },
+      {
+        "source_document_id": "31936142",
+        "activity_context": "tumour burden in animals",
+        "effect_and_magnitude": "correlated: correlation observed",
+        "clinical_implication": "EVs hold significant potential for monitoring tumor burden, serving as a prognostic marker for metastatic progression in breast cancer. Diagnostic utility."
+      },
+      {
+        "source_document_id": "31936142",
+        "activity_context": "Her2 amplified subtype (Her2+) and triple negative breast cancer (TNBC) patients",
+        "effect_and_magnitude": "increase: significant increase in both breast cancer groups (Her2+ n=78, TNBC n=40) compared to controls (n=10)",
+        "clinical_implication": "EVs hold significant potential as novel diagnostic tools for breast cancer, including specific subtypes like Her2+ and TNBC. Diagnostic utility."
+      },
+      {
+        "source_document_id": "31936142",
+        "activity_context": "Her2+ vs TNBC breast cancer patients",
+        "effect_and_magnitude": "higher: higher (non-significant) level reported in Her2+ compared to TNBC patients",
+        "clinical_implication": "While higher in Her2+, the non-significant difference suggests more nuanced diagnostic utility for distinguishing between these specific breast cancer subtypes based on EV numbers alone. Diagnostic utility."
+      },
+      {
+        "source_document_id": "31936142",
+        "activity_context": "Breast cancer",
+        "effect_and_magnitude": "Higher: BrCa 1.85 \". 10^10 /mL versus control 1.18 \". 10^10 /mL, p = 0.001",
+        "clinical_implication": "Elevated total EV particles are associated with breast cancer, holding potential as novel diagnostic tools. Diagnostic utility."
+      },
+      {
+        "source_document_id": "31936142",
+        "activity_context": "Breast cancer",
+        "effect_and_magnitude": "Significant increase: BrCa 9.30 \". 10^9 /mL versus control 6.29 \". 10^9 /mL, p = 0.028",
+        "clinical_implication": "Significantly increased small EV particles are associated with breast cancer, holding potential as novel diagnostic tools. Diagnostic utility."
+      },
+      {
+        "source_document_id": "31936142",
+        "activity_context": "Murine breast cancer (tumour burden)",
+        "effect_and_magnitude": "Moderate positive correlation: rho = 0.386, p = 0.047",
+        "clinical_implication": "Circulating EVs show moderate positive correlation with tumor burden in murine models, suggesting utility for monitoring disease progression. Prognostic utility."
+      }
+    ]
+  },
+  {
+    "biomarker_name": "miR-451a",
+    "overall_summary": "A microRNA encapsulated within Extracellular Vesicles (EVs), found to be significantly elevated in breast cancer patient sera (copies/EV). It shows potential as a novel diagnostic biomarker for breast cancer, but its elevation has also been noted in other cancers, indicating broader utility.",
+    "findings_by_activity": [
+      {
+        "source_document_id": "31936142",
+        "activity_context": "BC patient sera",
+        "effect_and_magnitude": "increase: significant increase detected",
+        "clinical_implication": "EV-encapsulated miRNA-451a shows potential as a novel biomarker of breast cancer, providing diagnostic utility."
+      },
+      {
+        "source_document_id": "31936142",
+        "activity_context": "Breast cancer",
+        "effect_and_magnitude": "Significantly greater: BrCa 15.8 copies/EV versus healthy 5.5 copies/EV, p = 0.029",
+        "clinical_implication": "Significantly greater miR-451a copies per EV are associated with breast cancer, holding potential as a novel diagnostic tool. Diagnostic utility."
+      },
+      {
+        "source_document_id": "31936142",
+        "activity_context": "Breast cancer",
+        "effect_and_magnitude": "Significantly greater: BrCa 38.60 copies/EV versus healthy 11.63 copies/EV, p = 0.019",
+        "clinical_implication": "Significantly greater miR-451a copies per exosomal EV are associated with breast cancer, holding potential as a novel diagnostic tool. Diagnostic utility."
+      }
+    ]
+  },
+  {
+    "biomarker_name": "miRNA-101",
+    "overall_summary": "A microRNA found to be elevated in serum-derived Extracellular Vesicles (EVs) of breast cancer patients compared to healthy controls, suggesting its potential as a diagnostic biomarker for breast cancer.",
+    "findings_by_activity": [
+      {
+        "source_document_id": "31936142",
+        "activity_context": "serum-derived EVs of breast cancer patients",
+        "effect_and_magnitude": "elevation: elevated in n=50 breast cancer patients vs n=12 healthy controls",
+        "clinical_implication": "Elevated miRNA-101 in serum EVs suggests its potential as a diagnostic biomarker for breast cancer. Diagnostic utility."
+      }
+    ]
+  },
+  {
+    "biomarker_name": "miRNA-372",
+    "overall_summary": "A microRNA found to be elevated in serum-derived Extracellular Vesicles (EVs) of breast cancer patients compared to healthy controls, suggesting its potential as a diagnostic biomarker for breast cancer.",
+    "findings_by_activity": [
+      {
+        "source_document_id": "31936142",
+        "activity_context": "serum-derived EVs of breast cancer patients",
+        "effect_and_magnitude": "elevation: elevated in n=50 breast cancer patients vs n=12 healthy controls",
+        "clinical_implication": "Elevated miRNA-372 in serum EVs suggests its potential as a diagnostic biomarker for breast cancer. Diagnostic utility."
+      }
+    ]
+  },
+  {
+    "biomarker_name": "miR-105",
+    "overall_summary": "A microRNA elevated in Extracellular Vesicles (EVs) of breast cancer patients who subsequently developed distant metastases, indicating its potential as a prognostic marker for metastatic progression in breast cancer.",
+    "findings_by_activity": [
+      {
+        "source_document_id": "31936142",
+        "activity_context": "metastatic progression in breast cancer patients",
+        "effect_and_magnitude": "elevated: significantly elevated in patients (n=16) who developed distant metastases compared to those (n=22) who did not",
+        "clinical_implication": "Elevated EV-miR-105 suggests its utility as a prognostic marker for metastatic progression in breast cancer. Prognostic utility."
+      }
+    ]
+  },
+  {
+    "biomarker_name": "miR-21",
+    "overall_summary": "A microRNA significantly elevated in plasma Extracellular Vesicles (EVs) of breast cancer patients compared to healthy controls, suggesting its utility as a diagnostic biomarker for breast cancer.",
+    "findings_by_activity": [
+      {
+        "source_document_id": "31936142",
+        "activity_context": "plasma of breast cancer patients",
+        "effect_and_magnitude": "elevated: significantly elevated in breast cancer patients (n=16) compared to healthy controls (n=16)",
+        "clinical_implication": "Significantly elevated EV-miR-21 suggests its utility as a diagnostic biomarker for breast cancer. Diagnostic utility."
+      }
+    ]
+  },
+  {
+    "biomarker_name": "miR-1246",
+    "overall_summary": "A microRNA significantly elevated in the plasma of breast cancer patients compared to healthy controls, indicating its potential as a diagnostic biomarker for breast cancer, with high sensitivity and specificity.",
+    "findings_by_activity": [
+      {
+        "source_document_id": "31936142",
+        "activity_context": "plasma of breast cancer patients",
+        "effect_and_magnitude": "elevated: significantly elevated in breast cancer patients (n=16) compared to healthy controls (n=16)",
+        "clinical_implication": "Significantly elevated miR-1246 suggests its utility as a diagnostic biomarker for breast cancer, showing high sensitivity and specificity. Diagnostic utility."
+      }
+    ]
+  }
+]

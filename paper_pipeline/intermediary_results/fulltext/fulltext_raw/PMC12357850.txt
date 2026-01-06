@@ -1,0 +1,325 @@
+pmc
+Sci Rep
+Sci Rep
+Scientific Reports
+2045-2322
+Nature Publishing Group UK
+London
+12357850
+40819097
+15709
+10.1038/s41598-025-15709-y
+Article
+The relationship between liver stiffness, fat content measured by liver elastography, and coronary artery disease: a study based on the NHANES database
+Li
+Shengnan
+47894878@qq.com
+1
+Li
+Xiaoxue
+2
+Xiao
+Hua
+3
+Dou
+Jingjing
+doujing19860917@163.com
+4
+1
+https://ror.org/021cj6z65
+grid.410645.2
+0000 0001 0455 0905
+Department of Pharmacy,
+the Affiliated Cardiovascular Hospital of Qingdao University,
+Qingdao, Shandong China
+2
+https://ror.org/02jqapy19
+grid.415468.a
+0000 0004 1761 4893
+Outpatient Department,
+Qingdao Central Hospital, University of Health and Rehabilitation Sciences,
+Qingdao, China
+3
+https://ror.org/02jqapy19
+grid.415468.a
+0000 0004 1761 4893
+Department of Occupational Disease,
+Qingdao Central Hospital, University of Health and Rehabilitation Sciences,
+Qingdao, Shandong China
+4
+https://ror.org/021cj6z65
+grid.410645.2
+0000 0001 0455 0905
+Department of Ultrasonography Lab,
+The Affiliated Cardiovascular Hospital of Qingdao University,
+Qingdao, Shandong China
+16
+8
+2025
+16
+8
+2025
+2025
+15
+30010
+4
+3
+2025
+11
+8
+2025
+© The Author(s) 2025
+2025
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+Open Access
+This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+.
+This study aimed to investigate the relationship between liver stiffness measurements (LSM), controlled attenuation parameter (CAP), and coronary heart disease (CHD) using data from the National Health and Nutrition Examination Survey (NHANES). A total of 12,684 American populations who underwent health examinations were included from the NHANES database spanning 2017–2020 (pre-pandemic) and 2021–2023. Logistic regression was employed to analyze the associations between LSM, CAP, and CHD. Restricted cubic spline (RCS) regression was used to evaluate the dose–response relationship between LSM, CAP, and CHD. Stratified analyses were performed according to age, sex, race, education level, income, BMI, blood pressure, hepatitis B surface antibody, and cholesterol to explore potential interactions and identify specific subpopulations at risk. Finally, predictive models were developed using logistic regression, decision trees, XGBoost classifiers, and neural networks to assess the predictive value of LSM and CAP for CHD risk. During the study period, 12,684 participants were included, of whom 539 (4.24%) were diagnosed with CHD. After adjusting for confounders, both LSM and CAP were found to be significantly positively associated with CHD risk in U.S. adults. Subgroup analyses revealed a significant positive association between LSM and CHD incidence in participants stratified by race and blood parameters (interaction
+P
+-value < 0.050). Additionally, sex, age, and lipid profiles showed a significant positive correlation between CAP and CHD risk. Predictive models also indicated a positive relationship between LSM, CAP, and CHD risk. Both LSM and CAP were nonlinearly and positively associated with CHD risk, highlighting the importance of maintaining lower levels of liver stiffness and fat as a potential preventive strategy for CHD.
+Keywords
+Liver stiffness
+Coronary heart disease
+Liver fat
+Liver stiffness measurement
+NHANES
+Subject terms
+Diseases
+Medical research
+issue-copyright-statement
+© Springer Nature Limited 2025
+Introduction
+Coronary heart disease (CHD) remains a leading cause of morbidity and mortality worldwide despite significant advancements in medical treatments and prevention strategies
+1
+. CHD, often referred to as coronary artery disease (CAD), arises from atherosclerosis, the build-up of plaque within the coronary arteries, leading to narrowed or blocked arteries and reduced blood flow to the heart muscle
+2
+. This condition can manifest as myocardial ischemia, angina, or, in severe cases, myocardial infarction and heart failure. According to the World Health Organization (WHO), CHD is the foremost cause of death globally, responsible for millions of fatalities annually
+3
+. This persistent global burden necessitates continued research to identify novel risk factors, improve early detection, and develop effective prevention strategies. Traditional risk factors for CHD, including hypertension, hyperlipidemia, smoking, physical inactivity, obesity, and diabetes mellitus, are well-established and widely studied
+4
+. However, the prevalence of CHD remains high, even with advances in managing these factors. This underscores the need to explore additional or emerging risk factors that may contribute to the disease burden. Identifying non-traditional biomarkers that are easily measurable and closely associated with CHD could enhance early diagnosis and risk stratification, thereby improving patient outcomes.
+In recent years, liver health has emerged as a critical area of interest in cardiovascular disease research. The liver plays a central role in systemic metabolism, including lipid regulation, protein synthesis, detoxification, and energy storage
+5
+. Evidence increasingly suggests that liver dysfunction, including fibrosis and fat accumulation, is intricately linked to cardiovascular risk
+6
+. Liver stiffness, a key marker of fibrosis, can be non-invasively assessed using transient elastography (TE)
+7
+. Elevated liver stiffness, indicative of advanced fibrosis, has been associated with systemic inflammation, endothelial dysfunction, and metabolic dysregulation pathophysiological processes that are also integral to CHD development. Liver fibrosis, often a consequence of chronic liver injury from conditions such as viral hepatitis, alcohol use, or metabolic dysfunction-associated steatotic liver disease (MASLD), is a progressive condition linked to cirrhosis and liver failure
+8
+. Beyond its hepatic implications, liver fibrosis has been associated with increased cardiovascular mortality. However, the precise mechanisms linking liver stiffness and CHD remain unclear. While some studies support a strong association, others suggest that liver stiffness may act as a surrogate marker for metabolic disorders like obesity and insulin resistance, which independently contribute to CHD
+9
+.
+In parallel, liver fat content, another important marker of liver health, has gained attention in cardiovascular research. MASLD, characterized by hepatic fat accumulation in the absence of significant alcohol consumption, is the most prevalent chronic liver condition globally
+10
+. It is strongly associated with metabolic syndrome, obesity, and type 2 diabetes—key risk factors for CHD. Emerging evidence links MASLD to an elevated risk of cardiovascular events, but the specific mechanisms and the dose–response relationship between liver fat and CHD remain underexplored
+11
+. Furthermore, the relationship may not be linear, with varying levels of liver fat potentially exerting different impacts on cardiovascular health. Despite the growing recognition of liver health as a contributor to cardiovascular risk, research in this area is complicated by the interrelated nature of metabolic disorders. Liver stiffness and fat accumulation often coexist, making it challenging to disentangle their individual effects on CHD risk. Moreover, their relationship with CHD may exhibit non-linear patterns, where small changes in liver health markers can disproportionately influence cardiovascular risk. Advanced statistical methodologies are required to elucidate these complex, non-linear relationships.
+Traditional statistical models, such as logistic regression, are frequently employed in epidemiological research but may fail to capture the non-linear associations between predictors and outcomes
+12
+. More flexible approaches, such as restricted cubic splines (RCS), can model dose–response relationships and identify thresholds that linear models might overlook
+13
+. Additionally, machine learning techniques, including decision trees, support vector machines (SVM), and ensemble methods like XGBoost, offer robust tools for analyzing high-dimensional datasets. These methods can uncover intricate patterns and interactions among variables, enabling more accurate prediction of CHD risk based on liver health markers.
+Accumulating evidence suggests that liver stiffness and fat accumulation are not only localized hepatic changes but also have systemic implications. Increased liver stiffness, indicative of fibrosis, triggers chronic inflammation via the activation of Kupffer cells and hepatic stellate cells, leading to the release of pro-inflammatory cytokines such as interleukin-6 (IL-6), tumor necrosis factor-alpha (TNF-α), and C-reactive protein (CRP)
+14
+,
+15
+. These inflammatory mediators can impair endothelial function, reduce nitric oxide bioavailability, and promote vascular adhesion, all of which contribute to atherosclerosis and cardiovascular disease
+16
+. Similarly, excessive hepatic fat accumulation exacerbates insulin resistance and induces oxidative stress, further disrupting glucose and lipid metabolism and promoting endothelial dysfunction and arterial stiffness
+17
+. These biological processes provide a mechanistic link between liver pathology and elevated cardiovascular risk.
+The National Health and Nutrition Examination Survey (NHANES) provides a comprehensive, nationally representative dataset for investigating the relationship between liver health and CHD
+18
+. NHANES includes detailed clinical, demographic, and imaging data, making it an ideal resource for examining liver stiffness and fat content as potential CHD risk factors. By leveraging NHANES data, researchers can evaluate whether these liver health markers independently predict CHD risk and assess their utility in clinical risk stratification. This study aims to utilize NHANES data from 2017–2023 to explore the relationship between liver stiffness and fat content, as measured by transient elastography, and CHD. Specifically, we seek to determine whether these markers serve as independent risk factors for CHD and assess their predictive value using advanced statistical and machine learning methods. By elucidating the connections between liver health and CHD, this research intends to provide novel biomarkers and tools for early detection and risk stratification, thereby informing targeted prevention and intervention strategies for cardiovascular disease.
+Methods and procedures
+Data source
+All data used in this study were extracted from the NHANES database, which is publicly available at
+https://www.cdc.gov/nchs/nhanes/about_nhanes.htm
+. To explore the relationship between liver stiffness and fat values measured by transient elastography and CHD, we extracted demographic information, physical examination data, laboratory results, and survey responses from 27,493 participants in the NHANES database from 2017–2020 (pre-pandemic) and 2021–2023. Participants with the following characteristics were excluded: (1) Missing liver stiffness values (n = 11,093); (2) Missing liver fat values (n = 3); (3) Missing CHD outcome data (n = 2902); (4) Missing educational attainment data (n = 8); (5) Missing antibody data (n = 799). Population weights were applied using NHANES-recommended sampling weights to generate nationally representative estimates.
+Due to the retrospective nature of this study and the absence of personally identifiable sensitive data in the publicly available database, ethical approval was waived for this research.
+Definition of CHD
+CHD diagnosis was determined based on responses to a medical history questionnaire conducted during individual interviews. Participants were classified as having CHD if they responded affirmatively to the question: “Has a doctor or other health professional ever told you that you had CHD?”.
+Data collection
+Demographic and questionnaire data from the NHANES database were used to collect variables such as sex, age, race, education level, and income. Race was categorized as Non-Hispanic White, Mexican American, Non-Hispanic Black, Other Hispanic, or Other Races. Education level was classified as Less Than 9th Grade, 9–11th Grade, High School Graduate, Some College or Associate Degree, and College Graduate or Above. Antibody status was grouped into Indeterminate, Negative, or Positive. Laboratory and measurement modules were used to extract variables including BMI, hepatitis B surface antibody, stiffness (liver stiffness), controlled attenuation parameter (CAP) (liver fat values), and cholesterol (Fig.
+1
+).
+Statistical methods
+Statistical analyses were performed using R software (version 4.4.0). Normality was assessed using the K-S test. Continuous variables with a normal distribution were expressed as mean ± standard deviation (Mean ± SD) and analyzed using one-way ANOVA. Non-normally distributed variables were reported as medians (interquartile ranges) and analyzed using the Wilcoxon rank-sum test. Categorical variables were presented as frequencies and percentages, and comparisons were performed using the chi-squared test.
+A logistic regression model was constructed to evaluate the causal relationship between the exposure variables (liver stiffness [stiffness] and liver fat values [CAP]) and the outcome variable (CHD incidence). This model also aimed to determine whether the exposure factors act as risk factors or protective factors. Since stiffness and CAP are continuous variables, they were categorized into quartiles: Q1 (lowest 25%), Q2 (25–50%), Q3 (50–75%), and Q4 (highest 25%). The model was constructed by directly performing logistic regression analysis on the exposure and outcome factors. Q1 served as the reference group, and the effects of Q2, Q3, and Q4 were compared against Q1.
+Restricted cubic spline (RCS) analysis was used to examine potential nonlinear relationships between liver stiffness, CAP, and CHD risk. Subgroup analyses were conducted to validate the associations between stiffness, CAP, and CHD risk in different populations (e.g., by sex and race). To further assess the predictive value of different thresholds, we performed sensitivity analyses using various cut-off points and combinations for liver stiffness and CAP, calculating sensitivity, specificity, positive predictive value (PPV), negative predictive value (NPV), and AUC for each. Statistical significance was defined as a two-tailed
+P
+-value < 0.05.
+Machine learning model development and evaluation
+Data preprocessing was performed as an initial step. Continuous variables were summarized using mean ± standard deviation (SD) or median and interquartile range (IQR), while categorical variables were ordinally encoded. For the binary classification target variable, One-Hot Encoding was applied to transform the data into a binary format, where 1 represented the presence of the disease and 0 represented its absence. In total, 10 features and 1 target variable were processed. To address the severe imbalance in the target variable within the original dataset, undersampling was applied to the majority class, reducing its sample size to achieve class balance. Pearson correlation coefficients were calculated to assess the relationships between 8 continuous features and the target variable, with a coefficient of 1 indicating a perfect positive correlation, -1 indicating a perfect negative correlation, and 0 indicating no linear relationship.
+The preprocessed data were split into training and testing datasets using the sklearn.model_selection module in Python, ensuring that the distribution of the target variable categories was maintained. A total of 30% of the data was reserved as an independent test set to evaluate the reliability of model predictions and selection, while the remaining 70% was used as the training set for feature selection, model training, and hyperparameter tuning. To ensure effective model training, feature data were normalized using the MinMaxScaler, and five-fold cross-validation was performed on the training set to evaluate each model’s performance and optimize its hyperparameters. In the logistic regression model, hyperparameter C was optimized through grid search, with the optimal value determined to be C = 0.1, achieving a cross-validation score of 0.80. For the decision tree classifier, grid search optimization yielded optimal parameters of max_depth = 3 and min_samples_split = 2, resulting in a cross-validation score of 0.77. For the XGBoost classifier, the best parameters were identified as learning_rate = 0.1, max_depth = 3, and n_estimators = 50, with a cross-validation score of 0.80. For the neural network model, a network was constructed using the Keras framework, and grid search optimization determined the optimal parameters as batch_size = 20 and epochs = 20, achieving a cross-validation score of 0.73. Finally, the performance of all four models was evaluated on the test set using metrics such as the confusion matrix, accuracy, precision, recall, F1 score, and AUC-ROC. These metrics were used to comprehensively assess the predictive capabilities of the models and identify the most suitable model for CHD risk prediction.
+Results
+Comparison of baseline characteristics of participants
+In this study, a total of 12,684 participants were included, comprising 10,266 males (50.8%) and 9,941 females (40.7%), with a mean age of 48.23 ± 17.11 years. Among the participants, 539 were diagnosed with CHD. Baseline characteristics of the participants, weighted/unweighted by mean ± standard deviation or frequency and proportion, are summarized in Tables
+1
+,
+2
+. Significant differences were observed in baseline characteristics, including sex, age, race, education level, income, BMI, blood parameters, antibody status, liver stiffness, liver fat values, and cholesterol levels. Notably, non-Hispanic Whites, participants with higher education levels, and those with negative hepatitis B surface antibody status were more frequently associated with CHD.
+Association between liver stiffness measured by transient elastography and CHD risk
+Table
+3
+displays the association coefficients between liver stiffness and CHD across three progressively adjusted logistic regression models. Liver stiffness, treated as a continuous variable, was categorized into quartiles: Q1 (lowest 25%), Q2 (25–50%), Q3 (50–75%), and Q4 (highest 25%). A consistent positive association was observed between liver stiffness and CHD risk. In the unadjusted model, CHD risk was not significant in Q2 (OR = 1.244;
+P
+= 0.160), but it was significant in Q3 (OR = 1.514;
+P
+= 0.017) and Q4 (OR = 2.303;
+P
+< 0.001). The risk of developing the disease increases in Q3 and Q4 compared to Q1, with corresponding increases in OR values, indicating that the factor is a risk factor.Additionally, Fig.
+2
+illustrates the RCS regression results for liver stiffness and CHD risk, with the horizontal axis representing liver stiffness and the vertical axis representing the OR values. A clear nonlinear relationship between liver stiffness and CHD risk was observed (
+P
+for non-linearity < 0.001). This indicates that as liver stiffness increases, the risk of CHD also rises (Table
+4
+).
+Subgroup analysis of the association between liver stiffness (Stiff) and CHD risk
+Subgroup analyses and interaction tests revealed that the association between liver stiffness and CHD risk was significantly influenced by race and blood parameters (
+P
+-interaction < 0.05) (Fig.
+3
+and Table
+5
+). Within the race subgroups, significant positive associations with CHD risk (β > 1) were observed for Mexican Americans, Non-Hispanic Blacks, Non-Hispanic Whites, and participants of Other Races (including multi-racial individuals). In the blood parameter subgroup, significant positive associations with CHD risk (β > 1) were also found in Q1, Q2, and Q4.
+Association between liver fat values measured by transient elastography and CHD risk
+Table
+4
+presents the association coefficients between liver fat values and CHD risk across three progressively adjusted logistic regression models. A consistent positive association was observed between liver fat values and CHD risk. In the unadjusted model, CHD risk was not significant in Q2 (OR = 1.181,
+P
+= 0.382), but it was significant in Q3 (OR = 1.689,
+P
+= 0.001) and Q4 (OR = 2.336,
+P
+< 0.001). The risk of developing the disease increases in Q3 and Q4 compared to Q1, with corresponding increases in OR values, indicating that the factor is a risk factor. Additionally, Fig.
+4
+visually depicts the RCS regression results for liver fat values and CHD risk, with the horizontal axis representing liver fat values and the vertical axis representing the OR values. A clear nonlinear relationship between liver fat values and CHD risk was observed (
+P
+for non-linearity = 0.004,
+P
+< 0.05). This indicates that as liver fat values increase, the incidence of CHD also rises.
+Subgroup analysis of the association between liver fat values and CHD risk
+Figure
+5
+and Table
+6
+illustrates the subgroup analysis of the relationship between liver fat values and CHD risk. Significant interactions were observed for sex, age, and cholesterol levels with CHD risk (
+P
+-interaction < 0.05). A positive association between liver fat values and CHD risk persisted across different subgroups, including males and females, as well as age groups (≤ 65 years and > 65 years). Overall, the subgroup analyses demonstrated robust results, suggesting that the effects of liver fat values on CHD risk are consistent and stable across sex and age subgroups. Furthermore, within the cholesterol subgroup, significant associations with CHD risk were more pronounced in Q1 and Q2 groups (
+P
+< 0.05), with a positive correlation (β > 1). Stratified regression analyses showed consistent associations across sex, age, and BMI subgroups, with significant interaction effects observed in race and cholesterol levels (Table
+4
+and Table
+6
+).
+Sensitivity analysis of cut-off values
+We performed sensitivity analyses using multiple cut-off combinations of liver stiffness (stiffness ≥ 5/ < 5 kPa) and CAP (≥ 262/ < 262 dB/m). Across all thresholds, AUC remained at 0.58, with PPV below 6% and NPV above 95%. Sensitivity and specificity were moderate (details in Table
+7
+). These findings confirm that simple threshold-based models have limited discriminatory power for CHD prediction, highlighting the need for more advanced modeling approaches.
+ROC analysis for model prediction
+To comprehensively evaluate the predictive value of liver stiffness and fat values measured by transient elastography for CHD risk, four machine learning models were utilized: Logistic Regression, Decision Tree, XGBoost Classifier, and Neural Network. The performance of these models was compared to identify the best predictive model and assess its clinical applicability. The dataset was randomly split into a training set (70%) and a test set (30%). Model performance metrics, including accuracy, precision, recall, F1 score, and the area under the receiver operating characteristic curve (AUC-ROC), are summarized in Table
+8
+. Additionally, undersampling was applied to balance the dataset and mitigate the impact of class imbalance on model training.
+Logistic regression model
+As the baseline model, Logistic Regression demonstrated strong performance. The confusion matrix revealed a high recall for positive cases (Recall = 0.839), though precision was relatively lower (Precision = 0.768). The accuracy was 79.3%, with an F1 score of 0.802 and an AUC-ROC of 79.3%. As shown in Fig.
+6
+, the ROC curve for logistic regression indicated robust overall predictive performance. These results suggest that the logistic regression model strikes an excellent balance between precision and recall, making it a reliable baseline predictive tool.
+Decision tree model
+Using a decision tree model with a maximum depth of 3, the recall increased slightly to 0.852, outperforming the logistic regression model. However, the precision dropped to 0.734, resulting in an F1 score of 0.789. The accuracy and AUC-ROC both measured 77.2%. While the decision tree model demonstrated improved recall, its overall predictive performance was slightly inferior to logistic regression, possibly due to its simplistic structure, which limited its ability to capture complex patterns in the data. The ROC curve for the decision tree model is illustrated in Fig.
+7
+.
+XGBoost classifier model
+The XGBoost classifier, after 50 iterations, achieved a test set accuracy of 79.0%, precision of 0.764, recall of 0.840, and an F1 score of 0.800, with an AUC-ROC of 79.0%. Figure
+8
+shows the ROC curve for the XGBoost model. The model’s performance was comparable to that of Logistic Regression, although it exhibited slight differences in the balance between precision and recall. These findings indicate that the XGBoost model effectively captures nonlinear relationships between features, making it suitable for further optimization and clinical applications.
+Stratified logistic regression analysis
+To assess whether the associations between liver stiffness/CAP and CHD varied across different population subgroups, we conducted stratified logistic regression analyses by sex, age, and BMI. In the sex-stratified analysis, liver stiffness was significantly associated with increased CHD risk in males (β = 0.032, 95% CI: 0.002–0.062, p = 0.038), but this association was not significant in females (β = 0.023, 95% CI: –0.008–0.054, p = 0.150). CAP did not show a significant association with CHD in either gender, although a marginal trend was noted in males (p = 0.088). Age- and BMI-stratified analyses did not reveal consistent or significant associations for either variable (see Table
+9
+for full results). These findings suggest that the effect of liver stiffness on CHD risk may be modified by sex.
+Neural network model
+The neural network model, constructed using the Keras framework, showed the following performance metrics: accuracy of 77.8%, precision of 0.703, recall of 0.963, F1 score of 0.813, and an AUC-ROC of 77.8%. While the neural network achieved significantly higher recall compared to the other models, its precision was relatively lower, which may result in a higher false positive rate. This model demonstrated strong capability in identifying positive CHD cases, but further parameter adjustments are necessary to reduce false positives. The ROC curve for the neural network model is presented in Fig.
+9
+.
+Comparison of the four models
+Comparing the performance of the four models, Logistic Regression and XGBoost demonstrated superior performance in terms of AUC-ROC, F1 score, and the balance between precision and recall, making them particularly suitable for CHD risk prediction. In scenarios requiring higher recall, the neural network model may be considered, although the trade-off in false positive risk should be taken into account.
+Feature importance analysis
+In the XGBoost model, feature importance analysis identified liver stiffness (stiffness) and liver fat values (CAP) as the two most significant predictors of CHD risk. Additionally, age, BMI, and blood parameters also contributed substantially to model performance. These findings are consistent with previous statistical analyses, further validating the importance of liver stiffness and fat measurements in predicting CHD risk (Table
+10
+).
+Discussion
+This study provides robust evidence of the intricate and multifaceted relationship between liver health and CHD, highlighting liver stiffness and liver fat content as independent and significant predictors of cardiovascular risk. By utilizing data from the NHANES database, our findings underscore the systemic influence of liver-related pathophysiology on metabolic and vascular health. These results challenge the traditional view that CHD is driven solely by classical risk factors, such as hypertension, dyslipidemia, and smoking, advocating for an integrated approach to cardiovascular risk stratification that incorporates liver health markers. This paradigm shift carries significant implications for early detection, prevention strategies, and the development of targeted treatment protocols aimed at reducing the dual burden of liver and cardiovascular diseases.
+Liver stiffness, measured through transient elastography, emerged as a reliable surrogate marker for liver fibrosis
+19
+. Liver fibrosis, characterized by excessive extracellular matrix deposition due to chronic liver injury, has traditionally been viewed as a condition confined to the liver
+20
+. However, growing evidence highlights its systemic implications, particularly its impact on cardiovascular health
+21
+. Our findings align with prior studies demonstrating a significant association between liver fibrosis and an increased risk of cardiovascular events. For instance, studies by Li et al. and zhang et al. observed that advanced fibrosis in patients with MASLD correlated strongly with elevated cardiovascular mortality, suggesting that liver fibrosis is not merely a hepatic complication but a systemic condition that contributes independently to cardiovascular disease (CVD) outcomes
+22
+,
+23
+.
+The mechanisms underlying this relationship are complex and multifactorial, involving chronic inflammation, oxidative stress, endothelial dysfunction, and metabolic dysregulation. Chronic inflammation serves as a critical mediator linking liver stiffness to CHD. Persistent hepatic injury activates Kupffer cells and hepatic stellate cells, resulting in the release of pro-inflammatory cytokines such as tumor necrosis factor-alpha (TNF-α), interleukin-6 (IL-6), and C-reactive protein (CRP)
+24
+. These cytokines impair endothelial function by reducing nitric oxide bioavailability, increasing vascular permeability, and promoting the expression of adhesion molecules that facilitate leukocyte adhesion and infiltration into arterial walls
+25
+. This cascade accelerates atherosclerotic plaque formation and destabilization, significantly increasing the risk of acute cardiovascular events such as myocardial infarction and stroke. Additionally, systemic inflammation perpetuates a feedback loop that exacerbates both hepatic and vascular damage, as highlighted in studies by Wang et al., which emphasized the interplay between hepatic inflammation and systemic vascular injury
+26
+.
+Chronic inflammation’s effects on cardiovascular health extend beyond endothelial damage. It also contributes to myocardial remodeling, hypertrophy, and fibrotic changes within the heart. This connection has been observed in advanced liver fibrosis cases where elevated pro-inflammatory markers, such as CRP and fibrinogen, were significantly correlated with left ventricular diastolic dysfunction, a precursor to heart failure
+27
+. These findings underscore the broader systemic impact of hepatic inflammation on cardiovascular structure and function.
+Oxidative stress is another key pathway linking liver stiffness to CHD. Chronic liver disease disrupts the balance between reactive oxygen species (ROS) production and antioxidant defenses, leading to oxidative damage that extends beyond the liver
+28
+. ROS promotes lipid peroxidation, generating oxidized low-density lipoprotein (ox-LDL), a highly atherogenic molecule
+29
+. Ox-LDL facilitates foam cell formation and the progression of atherosclerotic plaques in arterial walls. Furthermore, oxidative stress reduces endothelial nitric oxide levels, impairing vascular compliance and promoting arterial rigidity. The dual impact of inflammation and oxidative stress creates a vicious cycle where hepatic and vascular damage mutually reinforce each other, amplifying CHD risk. The importance of these findings is supported by research from Liu et al., who demonstrated that oxidative stress markers were significantly elevated in patients with advanced liver fibrosis and correlated with subclinical atherosclerosis
+30
+.
+Oxidative stress also directly impairs mitochondrial function, a key determinant of cellular energy production. Mitochondrial dysfunction has been implicated in both hepatic and cardiovascular conditions, with reduced mitochondrial efficiency linked to impaired myocardial contractility and increased cardiomyocyte apoptosis
+31
+. This cross-organ mitochondrial dysfunction reinforces the interconnected nature of liver and cardiovascular health.
+Metabolic dysfunction further elucidates the relationship between liver stiffness and CHD. Insulin resistance, a hallmark of MASLD and metabolic syndrome, is a central driver of metabolic dysregulation that exacerbates cardiovascular risk
+32
+. Insulin resistance disrupts glucose and lipid metabolism, resulting in hyperglycemia and atherogenic dyslipidemia characterized by elevated triglycerides, reduced high-density lipoprotein (HDL) cholesterol, and increased levels of small, dense low-density lipoprotein (LDL) particles
+33
+. Hyperglycemia accelerates vascular damage through the formation of advanced glycation end-products (AGEs), which impair vascular elasticity and promote arterial stiffness. Additionally, insulin resistance exacerbates hepatic lipogenesis and fibrosis, further amplifying systemic metabolic dysfunction and cardiovascular risk. These findings suggest that addressing insulin resistance and metabolic dysfunction could have dual benefits for liver and cardiovascular health. Hou et al. further supported this relationship by demonstrating that insulin resistance significantly increased CHD risk, even in patients without overt diabetes, highlighting its central role in linking liver and cardiovascular disease
+34
+.
+Liver fat content, a defining feature of MASLD, also emerged as a critical determinant of CHD risk in our study. MASLD is closely associated with obesity, type 2 diabetes, and metabolic syndrome, all of which are major risk factors for CHD
+35
+. However, our findings indicate that liver fat content contributes independently to CHD risk, beyond its association with traditional metabolic conditions. Hepatic steatosis exacerbates insulin resistance and disrupts normal glucose metabolism, resulting in hyperglycemia and endothelial dysfunction. These metabolic disturbances impair vascular homeostasis, promote endothelial dysfunction, and accelerate the progression of atherosclerosis. Moreover, hepatic fat accumulation triggers systemic inflammation by activating immune cells, including Kupffer cells, further compounding cardiovascular risk. These observations are consistent with the work of Ichikawa et al., who reported that hepatic steatosis was associated with an increased risk of subclinical atherosclerosis, independent of traditional cardiovascular risk factors
+36
+.
+The non-linear relationship between liver stiffness, liver fat content, and CHD risk, as revealed through restricted cubic splines (RCS), provides critical clinical insights. Our findings suggest that CHD risk increases disproportionately beyond specific thresholds of liver stiffness or fat content, indicating a tipping point at which liver health markers exert a more pronounced effect on cardiovascular outcomes. This observation emphasizes the importance of early detection and intervention, as mild liver abnormalities may have a limited cardiovascular impact, whereas advanced liver disease significantly amplifies CHD risk. Identifying these thresholds could guide the development of targeted screening programs and therapeutic strategies tailored to individuals at highest risk.
+Integrating liver health markers into established cardiovascular risk assessment frameworks has the potential to transform clinical practice. Existing tools, such as the Framingham Risk Score and ASCVD risk calculator, predominantly focus on traditional risk factors, which may underestimate cardiovascular risk in individuals with liver dysfunction
+37
+. Incorporating liver stiffness and fat content into these models could enhance their predictive accuracy, enabling earlier identification of high-risk individuals and more effective allocation of preventive resources. This approach is particularly relevant in populations with a high prevalence of MASLD and metabolic syndrome, where conventional models may fail to fully capture cardiovascular risk. The findings of Nebhinani et al. further underscore the necessity of incorporating liver health markers into risk assessment frameworks, particularly as the prevalence of MASLD continues to rise globally
+38
+.
+Machine learning techniques provide additional opportunities to leverage liver health markers for CHD risk prediction. Advanced algorithms, such as decision trees, XGBoost classifiers, and neural networks, excel at identifying complex, non-linear relationships within high-dimensional datasets
+39
+. These models can generate personalized risk profiles that inform precision interventions, such as lifestyle modifications, pharmacological therapies, and monitoring strategies. Our study demonstrated the utility of these approaches in capturing the interplay between liver health markers and cardiovascular outcomes. This builds on findings from Dong et al., who explored the use of machine learning in risk stratification for patients with MASLD and CHD, revealing its potential to uncover interactions that traditional models might overlook
+40
+.
+Despite its strengths, this study has several limitations that warrant consideration. Limitations of this study also include the method of CHD diagnosis, which relied on self-reported questionnaire data. This approach may introduce misclassification bias, as it lacks confirmatory clinical validation. However, previous validation studies using NHANES data have demonstrated a high concordance between self-reported cardiovascular conditions and both medication use and clinical outcomes. While we did not perform formal cross-validation in this study, the consistency of associations across multiple models and stratified analyses supports the robustness of our findings. Future studies incorporating objective diagnostic methods, such as medical records or symptom-based algorithms, are warranted to validate and refine these associations. The cross-sectional design of the NHANES dataset precludes causal inference, underscoring the need for longitudinal studies to validate these findings and establish temporal relationships. While transient elastography is a non-invasive and accessible measure of liver health, it may not fully capture the spectrum of liver pathology. Advanced imaging modalities, such as magnetic resonance elastography (MRE) or liver biopsy, could provide greater diagnostic precision and offer deeper insights into the relationship between liver and cardiovascular health. Furthermore, residual confounding may persist due to unmeasured variables, such as genetic predispositions, medication use, and lifestyle factors. Addressing these limitations in future research will be critical for refining risk prediction models and strengthening the evidence base.
+From a public health perspective, our findings highlight the urgent need for comprehensive strategies to address the growing burden of liver and cardiovascular diseases. Screening programs that include liver stiffness and fat content as routine markers could facilitate earlier detection and intervention, mitigating risk before significant damage occurs. Lifestyle modifications, such as dietary changes, increased physical activity, and weight management, have demonstrated efficacy in improving both liver and cardiovascular health. Pharmacological therapies targeting hepatic fibrosis and fat metabolism, such as GLP-1 receptor agonists and novel anti-fibrotic agents, hold promise for reducing the dual burden of these conditions. These strategies align with recommendations from the American Association for the Study of Liver Diseases (AASLD), which advocates for an integrated approach to managing MASLD and its systemic complications.
+Future research should prioritize longitudinal studies to elucidate causal pathways and assess the long-term impact of liver health interventions on cardiovascular outcomes. Advances in omics technologies, including metabolomics, proteomics, and genomics, offer exciting opportunities to uncover novel biomarkers and mechanisms linking liver and cardiovascular health. Additionally, randomized controlled trials are needed to evaluate the effectiveness of integrating liver health markers into cardiovascular risk prediction and management strategies. Such efforts could pave the way for precision medicine approaches that optimize prevention and treatment at both individual and population levels.
+Another limitation of this study is that the diagnosis of CHD was based on self-reported questionnaire data, which may introduce potential misclassification bias. However, previous validation studies using NHANES data have shown that self-reported cardiovascular conditions are generally reliable and correlate well with medication use and clinical outcomes. Although we did not conduct a formal cross-validation analysis in this study, the consistency of our findings across multiple models and subgroups suggests that the associations observed are robust. Future studies incorporating medical record validation or symptom-based algorithms would further improve diagnostic accuracy.
+In conclusion, this study highlights liver stiffness and fat content as critical and independent predictors of CHD risk. By integrating these markers into cardiovascular risk assessments, clinicians can enhance early detection, refine prevention strategies, and improve outcomes for patients with interconnected liver and cardiovascular conditions. As the global prevalence of MASLD and metabolic syndrome continues to rise, addressing these overlapping epidemics will be essential for advancing public health and reducing the global burden of disease.
+Conclusion
+Using data from the NHANES cohort of the U.S. population, this study demonstrated that transient elastography is an efficient, reliable, non-invasive, and cost-effective technology for measuring liver stiffness and fat content (CAP). Furthermore, liver stiffness and CAP were found to have a nonlinear positive correlation with CHD risk, highlighting their potential as key indicators for reducing CHD risk. In addition, by integrating liver stiffness, CAP, and other demographic and biological variables, machine learning models were able to accurately predict CHD risk. These findings not only provide a novel tool for the early identification of CHD but also offer a theoretical basis for developing personalized intervention strategies. In practical applications, predictive tools based on these models could be developed to assist clinicians and public health practitioners in decision-making, ultimately contributing to more effective CHD prevention and management.
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Author contributions
+Conceptualization, L.S.; methodology, L.X.; resources, X.H.; data curation, L.S. and L.X.; writing—original draft preparation, L.S. and X.H.; writing—review and editing, L.S., L.X., X.H. and D.J.
+Data availability
+All data used in this study were extracted from the NHANES database, which is publicly available at
+https://www.cdc.gov/nchs/nhanes/about_nhanes.htm
+.
+Competing interests
+The authors declare no competing interests.
+Ethics declarations
+Due to the retrospective nature of this study and the absence of personally identifiable sensitive data in the publicly available database, ethical approval was waived for this research.

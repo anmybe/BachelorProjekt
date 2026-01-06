@@ -1,0 +1,376 @@
+[
+  {
+    "title": "pmc Mol Cell Proteomics Mol Cell Proteomics Molecular & Cellular Proteomics : MCP 1535-9476 1535-9484 American Society for Biochemistry and Molecular Biology 10460691 S1535-9476(23)00112-3 10.1016/j.mcpro.2023.100601 100601 Research Special Issue: Clinical Proteomics Plasma Proteomic Kinetics in Response to Acute Exercise Mi Michael Y. mmi@bidmc.harvard.edu 1 2 \u2217 Barber Jacob L. 2 Rao Prashant 1 2 Farrell Laurie A. 2 Sarzynski Mark A. 3 Bouchard Claude 4 Robbins Jeremy M. 1 2 Gerszten Robert E. 1 2 1 Division of Cardiovascular Medicine, Beth Israel Deaconess Medical Center, Boston, Massachusetts, USA 2 CardioVascular Institute, Beth Israel Deaconess Medical Center, Boston, Massachusetts, USA 3 Department of Exercise Science, Arnold School of Public Health, University of South Carolina, Columbia, South Carolina, USA 4 Human Genomics Laboratory, Pennington Biomedical Research Center, Baton Rouge, Louisiana, USA \u2217 For correspondence: Michael Y. Mi mmi@bidmc.harvard.edu 19 6 2023 8 2023 19 6 2023 22 8 100601 6 1 2023 9 5 2023 \u00a9 2023 The Authors 2023 https://creativecommons.org/licenses/by/4.0/ This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/). Regular exercise has many favorable effects on human health, which may be mediated in part by the release of circulating bioactive factors during each bout of exercise. Limited data exist regarding the kinetic responses of plasma proteins during and after acute exercise. Proteomic profiling of 4163 proteins was performed using a large-scale, affinity-based platform in 75 middle-aged adults who were referred for treadmill exercise stress testing. Plasma proteins were quantified at baseline, peak exercise, and 1-h postexercise, and those with significant changes at both exercise timepoints were further examined for their associations with cardiometabolic traits and change with aerobic exercise training in the Health, Risk Factors, Exercise Training and Genetics Family Study, a 20-week exercise intervention study. A total of 765 proteins changed (false discovery rate < 0.05) at peak exercise compared to baseline, and 128 proteins changed (false discovery rate < 0.05) at 1-h postexercise. The 56 proteins that changed at both timepoints included midkine, brain-derived neurotrophic factor, metalloproteinase inhibitor 4, and coiled-coil domain-containing protein 126 and were enriched for secreted proteins. The majority had concordant direction of change at both timepoints. Across all proteins assayed, gene set enrichment analysis showed increased abundance of coagulation-related proteins at 1-h postexercise. Forty-five proteins were associated with at least one measure of adiposity, lipids, glucose homeostasis, or cardiorespiratory fitness in Health, Risk Factors, Exercise Training and Genetics Family Study, and 20 proteins changed with aerobic exercise training. We identified hundreds of novel proteins that change during acute exercise, most of which resolved by 1 h into recovery. Proteins with sustained changes during exercise and recovery may be of particular interest as circulating biomarkers and pathways for further investigation in cardiometabolic diseases. These data will contribute to a biochemical roadmap of acute exercise that will be publicly available for the entire scientific community. Graphical Abstract Highlights \u2022 Profiled 4163 plasma proteins at rest, peak exercise, and 1-h after exercise. \u2022 Identified large proteomic perturbations at peak exercise that resolve 1-h later. \u2022 Observed increased coagulation-related proteins post exercise but not at peak. \u2022 Proteins with sustained changes were related to cardiometabolic traits. In Brief After measuring 4163 circulating proteins before, during, and 1-h after treadmill exercise in 75 middle-aged adults, we found that 765 proteins changed at peak exercise, and the majority of these proteins returned to baseline abundance 1-h after. Of 56 proteins with sustained change at peak exercise and after rest, there was enrichment for known secreted proteins and association with cardiometabolic traits in an independent cohort, suggesting that these proteins may be promising candidates for further investigation. Keywords acute exercise exercise treadmill test proteomics plasma circulation HERITAGE Family Study Abbreviations BMI body mass index CVD cardiovascular disease FDR false discovery rate FGF fibroblast growth factor GO gene ontology GSEA gene set enrichment analysis HERITAGE HEalth, RIsk factors, exercise Training, And GEnetics MET metabolic equivalent of task pQTL protein quantitative trait locus PLA2R1 phospholipase A2 receptor RFU relative fluorescence unit Regular exercise provides numerous health benefits including favorable cardiometabolic adaptations ( 1 , 2 ), reduced risk of chronic diseases ( 3 , 4 ), and lower all-cause mortality ( 5 ). Even a single bout of exercise can improve glucose uptake ( 6 ), lipid oxidation ( 7 ), and blood pressure ( 8 ), which may translate into sustained improvements in health over repeated exposures. However, despite decades of research enumerating exercise\u2019s health benefits, the molecular mechanisms responsible for the adaptations\u2014both acute and chronic\u2014remain incompletely understood ( 9 ). Various studies have shown that acute exercise stimulates the release of bioactive factors into circulation, such as lactate ( 10 ), interleukin-6 ( 11 ), irisin ( 12 ), \u03b2-aminoisobutyric acid ( 13 ), and N-lactoyl-phenylalanine ( 14 ) that may mediate exercise\u2019s biological effects. These \u201cexerkines\u201d are the source of intense investigation as the scientific community begins to unravel the biochemical pathways that are influenced by exercise ( 15 , 16 ). Plasma proteins represent a promising resource for studying exercise as their abundance reflects the systemic physiological state of an individual ( 17 ), and circulating proteins have been consistently identified as being responsive to exercise ( 15 , 18 ). Prior studies have demonstrated broad protein translation and degradation responses to acute exercise ( 19 , 20 ), and recent works applying plasma proteomics during acute exercise have identified distinct proteins or proteoforms altered in response to a single exercise bout ( 21 , 22 , 23 ). However, these investigations have largely focused on either a single, intra-exercise timepoint ( 21 ) or a relatively small number of proteins ( 22 , 23 ) and thus have provided less insights into postexercise plasma protein kinetics and broader proteomic changes. Additionally, while adaptations to regular exercise arise through successive bouts of exercise ( 19 ), it remains uncertain whether exercise\u2019s acute effects on plasma proteins would translate to chronic training-induced proteomic changes. Therefore, the goal of the current study was to investigate large-scale plasma proteomic changes that occur during acute exercise as well as in the postexercise period. We present data on the changes of 4163 human proteins assessed by an affinity-based proteomics platform in a real-world, hospital-based cohort that was referred for treadmill exercise stress testing. We examined whether protein changes that occur at peak exercise remain sustained an hour into recovery and whether proteins with sustained changes relate to cardiometabolic traits and change with chronic exercise training in an independent cohort without overt cardiometabolic disease.",
+    "document_source_id": "37343698",
+    "analysis_date": "2025-12-10",
+    "extracted_data": {
+      "document_summary": "This study investigated large-scale plasma proteomic changes in 75 middle-aged adults during acute treadmill exercise and up to 1-hour post-exercise, identifying 765 proteins changed at peak and 128 at 1-hour post-exercise. It further characterized 56 proteins with sustained changes, linking them to cardiometabolic traits and responses to a 20-week aerobic exercise training program. The research aimed to biochemically characterize acute exercise protein kinetics, finding enrichment for coagulation-related proteins post-exercise and MYC targets, and noting both concordant and discordant protein responses between acute and chronic exercise.",
+      "treatment_details": {
+        "therapy_type": "Acute treadmill exercise and chronic aerobic exercise training.",
+        "dose_specificity": "Acute exercise consisted of symptom-limited treadmill stress testing in 75 middle-aged adults, following a standard Bruce protocol with plasma protein quantification at baseline, peak exercise (mean 90% predicted peak heart rate, 9.6 METs), and 1-hour post-exercise. Chronic exercise involved a 20-week aerobic training program with three sessions per week, with intensity and duration gradually increased based on individual VO2max. Acute exercise intensity and duration varied, making it difficult to effectively analyze specific exertion thresholds or dose-response comparisons for the acute protocol."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "Midkine",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "changed",
+            "magnitude_quantification": "Changed (false discovery rate < 0.05) at peak exercise compared to baseline and at 1-h postexercise. This protein was among 56 proteins where the majority showed concordant direction of change at both timepoints."
+          },
+          "core_biological_function": "Secreted protein",
+          "relevant_activity_context": "Acute treadmill exercise",
+          "performance_or_health_indicator": "Associated with cardiometabolic traits and a promising candidate for further investigation as a circulating biomarker."
+        },
+        {
+          "biomarker_name": "Brain-derived neurotrophic factor (BDNF)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Higher",
+            "magnitude_quantification": "Changed (false discovery rate < 0.05) and showed sustained higher levels at both peak exercise and 1-h post-exercise, with a concordant direction of change."
+          },
+          "core_biological_function": "Secreted protein and known exerkine related to exercise and cardiometabolic traits.",
+          "relevant_activity_context": "Acute treadmill exercise (peak and 1-h post-exercise)",
+          "performance_or_health_indicator": "Associated with cardiometabolic traits and a promising candidate for further investigation as a circulating biomarker and exercise-responsive factor."
+        },
+        {
+          "biomarker_name": "Metalloproteinase inhibitor 4 (TIMP4)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "changed",
+            "magnitude_quantification": "Changed (false discovery rate < 0.05) at peak exercise compared to baseline and at 1-h postexercise. This protein was among 56 proteins where the majority showed concordant direction of change at both timepoints."
+          },
+          "core_biological_function": "Secreted protein",
+          "relevant_activity_context": "Acute treadmill exercise",
+          "performance_or_health_indicator": "Associated with cardiometabolic traits and a promising candidate for further investigation as a circulating biomarker."
+        },
+        {
+          "biomarker_name": "Coiled-coil domain-containing protein 126 (CCDC126)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Higher",
+            "magnitude_quantification": "Changed (false discovery rate < 0.05) at peak exercise compared to baseline and at 1-h postexercise with a concordant higher direction. Increased during acute aerobic exercise and with chronic exercise."
+          },
+          "core_biological_function": "Secreted protein; very little is known, but strong genetic colocalization with monocyte count suggests a relationship with immune function.",
+          "relevant_activity_context": "Acute treadmill exercise (peak and 1-h post-exercise) and chronic exercise",
+          "performance_or_health_indicator": "Associated with cardiometabolic traits and multiple positive cardiometabolic associations; a promising candidate marker for healthy metabolic changes, possibly related to immune function."
+        },
+        {
+          "biomarker_name": "Coagulation-related proteins",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Increased abundance at 1-h postexercise (identified by gene set enrichment analysis)."
+          },
+          "core_biological_function": "Involved in blood coagulation processes.",
+          "relevant_activity_context": "1-h post-acute treadmill exercise",
+          "performance_or_health_indicator": "May be of particular interest as circulating biomarkers and pathways for further investigation in cardiometabolic diseases."
+        },
+        {
+          "biomarker_name": "Dystroglycan (DAG1)",
+          "measured_tissue_or_fluid": "Plasma / Circulating blood proteins",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Higher then Lower",
+            "magnitude_quantification": "Greater than 2-fold higher at peak acute exercise (unadjusted p-value <0.05) and showed higher abundance with higher METs achieved; returned to baseline with a nonsignificant 6% decrease 1-h postexercise."
+          },
+          "core_biological_function": "Central component of the dystrophin\u2013glycoprotein complex linking extracellular matrix and cytoskeleton in skeletal muscle; its alpha subunit is an extracellular receptor for agrin and promotes acetylcholine receptor aggregation.",
+          "relevant_activity_context": "Peak acute exercise (correlating with higher METs) and 1-h post-acute exercise",
+          "performance_or_health_indicator": "Associated with higher exercise capacity; potential indicator of muscle activity/damage, though caution is advised for interpretation as it may be a flow-mediated or nonspecific perturbation."
+        },
+        {
+          "biomarker_name": "Adhesion G protein\u2013coupled receptor E2 (ADGRE2)",
+          "measured_tissue_or_fluid": "Circulating blood proteins",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Higher abundance with higher METs achieved (unadjusted p-value <0.05)."
+          },
+          "core_biological_function": "Not specified in the provided text.",
+          "relevant_activity_context": "Peak acute exercise, correlating with higher metabolic equivalents (METs) achieved.",
+          "performance_or_health_indicator": "Associated with higher exercise capacity."
+        },
+        {
+          "biomarker_name": "Vascular endothelial growth factor receptor 1 (FLT1)",
+          "measured_tissue_or_fluid": "Plasma / Circulating blood proteins",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Higher / Altered",
+            "magnitude_quantification": "Higher abundance with higher METs achieved at peak acute exercise (unadjusted p-value <0.05); altered response also noted, but numerical magnitude not specified for overall altered state."
+          },
+          "core_biological_function": "Not explicitly detailed, but recognized as an exercise-responsive protein.",
+          "relevant_activity_context": "Peak acute exercise, correlating with higher metabolic equivalents (METs) achieved.",
+          "performance_or_health_indicator": "Associated with higher exercise capacity and identified as a novel exercise-responsive protein."
+        },
+        {
+          "biomarker_name": "ANGPTL4",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Higher",
+            "magnitude_quantification": "Not specified numerically; confirmed as an exercise-responsive protein, with sustained changes at both peak and 1-h post-exercise."
+          },
+          "core_biological_function": "Known exerkine; not explicitly detailed beyond being related to exercise and cardiometabolic traits.",
+          "relevant_activity_context": "Peak acute exercise; 1-h post-acute exercise",
+          "performance_or_health_indicator": "Exercise-responsive factor; associated with cardiometabolic traits."
+        },
+        {
+          "biomarker_name": "Dickkopf-1 (DKK1)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Changed",
+            "magnitude_quantification": "Not specified numerically; exhibited similar direction of change to previous findings at peak exercise."
+          },
+          "core_biological_function": "WNT signaling modulator.",
+          "relevant_activity_context": "Peak acute exercise",
+          "performance_or_health_indicator": "Exercise-responsive."
+        },
+        {
+          "biomarker_name": "Dickkopf-3 (DKK3)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Changed",
+            "magnitude_quantification": "Not specified numerically; exhibited similar direction of change to previous findings at peak exercise."
+          },
+          "core_biological_function": "WNT signaling modulator.",
+          "relevant_activity_context": "Peak acute exercise",
+          "performance_or_health_indicator": "Exercise-responsive."
+        },
+        {
+          "biomarker_name": "Dickkopf-4 (DKK4)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Changed",
+            "magnitude_quantification": "Not specified numerically; exhibited similar direction of change to previous findings at peak exercise."
+          },
+          "core_biological_function": "WNT signaling modulator.",
+          "relevant_activity_context": "Peak acute exercise",
+          "performance_or_health_indicator": "Exercise-responsive."
+        },
+        {
+          "biomarker_name": "Interleukin proteins and their receptors",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Changed",
+            "magnitude_quantification": "Not specified numerically; exhibited similar direction of change to previous findings at peak exercise."
+          },
+          "core_biological_function": "Implies immune/inflammatory role.",
+          "relevant_activity_context": "Peak acute exercise",
+          "performance_or_health_indicator": "Exercise-responsive."
+        },
+        {
+          "biomarker_name": "Apolipoprotein A1",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Changed",
+            "magnitude_quantification": "Not specified numerically; exhibited similar direction of change to previous findings at peak exercise."
+          },
+          "core_biological_function": "Not explicitly stated in this document chunk.",
+          "relevant_activity_context": "Peak acute exercise",
+          "performance_or_health_indicator": "Exercise-responsive."
+        },
+        {
+          "biomarker_name": "Testican 2 (SPOCK2)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Altered",
+            "magnitude_quantification": "Not specified numerically."
+          },
+          "core_biological_function": "Not explicitly stated in this document chunk.",
+          "relevant_activity_context": "Peak acute exercise",
+          "performance_or_health_indicator": "Novel exercise-responsive protein."
+        },
+        {
+          "biomarker_name": "Kallikrein 8 (KLK8)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Altered",
+            "magnitude_quantification": "Not specified numerically."
+          },
+          "core_biological_function": "Not explicitly stated in this document chunk.",
+          "relevant_activity_context": "Peak acute exercise",
+          "performance_or_health_indicator": "Novel exercise-responsive protein."
+        },
+        {
+          "biomarker_name": "Signal transducer and activator of transcription 1-alpha/beta",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Altered",
+            "magnitude_quantification": "Not specified numerically."
+          },
+          "core_biological_function": "Not explicitly stated in this document chunk.",
+          "relevant_activity_context": "Peak acute exercise",
+          "performance_or_health_indicator": "Novel exercise-responsive protein."
+        },
+        {
+          "biomarker_name": "Secretory phospholipase A2 receptor (PLA2R1)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Lower",
+            "magnitude_quantification": "Most significantly decreased protein 1-h post-exercise. Decreased at both acute exercise timepoints (peak and 1-h post). Increased with chronic exercise."
+          },
+          "core_biological_function": "Transmembrane glycoprotein involved in cell proliferation and migration; suggested to promote brown adipocyte fate and improve mitochondrial function.",
+          "relevant_activity_context": "1-h post-acute exercise; acute exercise (peak and 1-h post); chronic exercise",
+          "performance_or_health_indicator": "Potential marker for cell proliferation/migration, brown adipocyte fate, and mitochondrial function. Inversely associated with body composition and adiposity measures."
+        },
+        {
+          "biomarker_name": "Fibrinogen-like protein 1",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Lower",
+            "magnitude_quantification": "Not specified numerically; decreased 1-h post-exercise, did not change at peak exercise."
+          },
+          "core_biological_function": "Liver-secreted protein implicated in protection against exogenous injury.",
+          "relevant_activity_context": "1-h post-acute exercise",
+          "performance_or_health_indicator": "Involved in protection against injury."
+        },
+        {
+          "biomarker_name": "Von Willebrand factor",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Higher",
+            "magnitude_quantification": "Not specified numerically; increased 1-h post-exercise and previously reported with concordant direction."
+          },
+          "core_biological_function": "Procoagulant protein; involved in coagulation.",
+          "relevant_activity_context": "1-h post-acute exercise",
+          "performance_or_health_indicator": "Indicator of increased procoagulant activity."
+        },
+        {
+          "biomarker_name": "Heart-type fatty acid\u2013binding protein",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Higher",
+            "magnitude_quantification": "Not specified numerically; changed 1-h post-exercise, with concordant direction of change to previously reported findings."
+          },
+          "core_biological_function": "Not explicitly stated in this document chunk.",
+          "relevant_activity_context": "1-h post-acute exercise",
+          "performance_or_health_indicator": "Exercise-responsive."
+        },
+        {
+          "biomarker_name": "Thrombin",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Higher",
+            "magnitude_quantification": "Not specified numerically; increased 1-h post-exercise."
+          },
+          "core_biological_function": "Procoagulant protein; involved in coagulation.",
+          "relevant_activity_context": "1-h post-acute exercise",
+          "performance_or_health_indicator": "Indicator of increased procoagulant activity."
+        },
+        {
+          "biomarker_name": "Coagulation factor VIII",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Higher",
+            "magnitude_quantification": "Not specified numerically; increased 1-h post-exercise."
+          },
+          "core_biological_function": "Procoagulant protein; involved in coagulation.",
+          "relevant_activity_context": "1-h post-acute exercise",
+          "performance_or_health_indicator": "Indicator of increased procoagulant activity."
+        },
+        {
+          "biomarker_name": "Matrix metalloproteinase-9",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Higher",
+            "magnitude_quantification": "Not specified numerically; increased 1-h post-exercise."
+          },
+          "core_biological_function": "Procoagulant protein; involved in coagulation.",
+          "relevant_activity_context": "1-h post-acute exercise",
+          "performance_or_health_indicator": "Indicator of increased procoagulant activity."
+        },
+        {
+          "biomarker_name": "Thrombospondin-1",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Higher",
+            "magnitude_quantification": "Not specified numerically; increased 1-h post-exercise."
+          },
+          "core_biological_function": "Procoagulant protein; involved in coagulation.",
+          "relevant_activity_context": "1-h post-acute exercise",
+          "performance_or_health_indicator": "Indicator of increased procoagulant activity."
+        },
+        {
+          "biomarker_name": "PLAT",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Lower",
+            "magnitude_quantification": "Significantly decreased 1-h post-exercise."
+          },
+          "core_biological_function": "Involved in fibrinolysis.",
+          "relevant_activity_context": "1-h post-acute exercise",
+          "performance_or_health_indicator": "Indicator of reduced fibrinolytic activity, contributing to an overall procoagulant state post-exercise."
+        },
+        {
+          "biomarker_name": "MYC targets (network of proteins)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Network Upregulation (GSEA enrichment)",
+          "measured_effect": {
+            "direction_of_change": "Upregulation",
+            "magnitude_quantification": "Significant enrichment for upregulation at both peak and 1-h post-exercise."
+          },
+          "core_biological_function": "May be responsive to altered metabolic demands; exerts fine-tuning effects on glycolysis, protein synthesis, and gene transcription. Hypothesized to influence wide-spread gene expression during exercise through a modulatory effect of lactate.",
+          "relevant_activity_context": "Peak acute exercise; 1-h post-acute exercise",
+          "performance_or_health_indicator": "Indicator of metabolic adaptation and gene expression modulation in response to exercise."
+        },
+        {
+          "biomarker_name": "Histatin 3 (HTN3)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Lower (acute); Higher (chronic)",
+            "magnitude_quantification": "Decreased at both acute exercise timepoints (peak and 1-h post). Increased with chronic exercise."
+          },
+          "core_biological_function": "Not explicitly stated in this document chunk.",
+          "relevant_activity_context": "Acute exercise (peak and 1-h post); chronic exercise",
+          "performance_or_health_indicator": "Inversely associated with measures of body composition and adiposity."
+        },
+        {
+          "biomarker_name": "APLP1",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Lower (acute); Higher (chronic)",
+            "magnitude_quantification": "Decreased at both acute exercise timepoints (peak and 1-h post). Significantly increased with chronic training."
+          },
+          "core_biological_function": "Traditionally studied in the context of Alzheimer\u2019s disease. Obesity in mice is associated with decreased hippocampal expression.",
+          "relevant_activity_context": "Acute exercise (peak and 1-h post); chronic exercise",
+          "performance_or_health_indicator": "Inversely associated with measures of body composition, adiposity, low-density lipoprotein cholesterol, triglycerides, and glucose. Potential marker for metabolic health and obesity."
+        },
+        {
+          "biomarker_name": "FGF19",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Lower",
+            "magnitude_quantification": "Not specified numerically; decreased during acute aerobic exercise and in response to endurance training (chronic)."
+          },
+          "core_biological_function": "Endocrine protein regulating energy balance and glucose metabolism.",
+          "relevant_activity_context": "Acute aerobic exercise; endurance training (chronic)",
+          "performance_or_health_indicator": "Inversely associated with all measures of adiposity. Hypothesized as a marker of exercise\u2019s biological effects on metabolic health rather than a mediator."
+        }
+      ]
+    }
+  }
+]

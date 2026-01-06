@@ -1,0 +1,208 @@
+[
+  {
+    "title": "Nat Commun Nat Commun Nature Communications 2041-1723 Nature Publishing Group 5460027 ncomms15580 10.1038/ncomms15580 28561042 Article Systematic discovery of mutation-specific synthetic lethals by mining pan-cancer human primary tumor data Sinha Subarna 1 * Thomas Daniel 2 * Chan Steven 3 Gao Yang 4 Brunen Diede 5 Torabi Damoun 2 Reinisch Andreas 2 Hernandez David 2 Chan Andy 6 Rankin Erinn B. 6 7 Bernards Rene 5 http://orcid.org/0000-0001-8677-3423 Majeti Ravindra a 2 \u2020 Dill David L. b 1 \u2020 1 Department of Computer Science, Stanford University , Stanford, California 94305, USA 2 Department of Medicine, Division of Hematology, Cancer Institute, and Institute for Stem Cell Biology and Regenerative Medicine, Stanford University School of Medicine , Stanford, California 94305, USA 3 Princess Margaret Cancer Centre, University Health Network , Toronto, Ontario, Canada M5G 2M9 4 Department of Electrical Engineering and Computer Science, University of California at Berkeley , Berkeley, California 94720, USA 5 Division of Molecular Carcinogenesis, The Netherlands Cancer Institute , Plesmanlaan 121, Amsterdam 1066 CX, The Netherlands 6 Division of Radiation and Cancer Biology, Department of Radiation Oncology, Stanford University School of Medicine , Stanford, California 94305, USA 7 Department of Obstetrics and Gynecology, Stanford University School of Medicine , Stanford, California 94305, USA a rmajeti@stanford.edu b dill@cs.stanford.edu * These authors contributed equally to this work. \u2020 These authors jointly supervised this work. 31 05 2017 2017 8 15580 11 01 2017 10 04 2017 Copyright \u00a9 2017, The Author(s) 2017 The Author(s) This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article's Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ Two genes are synthetically lethal (SL) when defects in both are lethal to a cell but a single defect is non-lethal. SL partners of cancer mutations are of great interest as pharmacological targets; however, identifying them by cell line-based methods is challenging. Here we develop MiSL (Mining Synthetic Lethals), an algorithm that mines pan-cancer human primary tumour data to identify mutation-specific SL partners for specific cancers. We apply MiSL to 12 different cancers and predict 145,891 SL partners for 3,120 mutations, including known mutation-specific SL partners. Comparisons with functional screens show that MiSL predictions are enriched for SLs in multiple cancers. We extensively validate a SL interaction identified by MiSL between the IDH1 mutation and ACACA in leukaemia using gene targeting and patient-derived xenografts. Furthermore, we apply MiSL to pinpoint genetic biomarkers for drug sensitivity. These results demonstrate that MiSL can accelerate precision oncology by identifying mutation-specific targets and biomarkers. There are no robust methods for systematically identifying mutation-specific synthetic lethal (SL) partners in cancer. Here, the authors develop a computational algorithm that uses pan-cancer data to detect mutation-andcancer-specific SL partners and they validate a novel SL interaction between mutant IDH and loss of ACACA in leukaemia. It is now common to sequence for somatic mutations in patient tumours before treatment, but the identification of mutation-specific therapies remains a pivotal challenge for precision medicine. A particularly promising approach is to identify alternative therapies that do not target the mutation directly. For instance, a mutation may increase dependence on a second gene that can be easily targeted instead. In this case, the mutation and the second gene are called a synthetic lethal (SL) pair, since a defect in either gene is compatible with cell viability, but defects in both are lethal to the cell 1 2 , and the second gene is a SL partner of the original mutation. Large-scale functional screens in cell lines using short hairpin RNA (shRNA) 3 4 5 6 7 , CRISPR 8 or small-molecule libraries 9 are widely used for high-throughput identification of SL interactions. While being a valuable technique to identify novel SL interactions, these functional screens suffer from limitations. Since experimental screens are usually performed in cell lines, they can be negatively impacted by: (1) the limited representation of newly discovered mutations in existing cell lines: for example, the Cancer Cell Line Encyclopedia (CCLE) collection of 1,000 cell lines contains no acute myeloid leukaemia (AML) cell line with an oncogenic IDH1 mutation, even though the mutation is present in 10% of AML patients 10 , and (2) the artificiality of in vitro screening conditions 11 12 , which cannot fully capture in vivo tumour evolution in the tumour microenvironment. Furthermore, such screens may be limited by factors such as false positive hits due to off-target effects 13 and false negatives due to limited coverage and incomplete gene knockdown in shRNA screens, and false positives due to genomic instability in CRISPR screens 14 15 . New computational methods based on human primary tumour data are needed to identify mutation-specific SL partners to complement the limitations of existing cell line screening methods. Current computational methods to detect SL interactions use human orthologues of yeast SL interactions 16 17 , protein\u2013protein networks 18 or metabolic network analysis 19 20 . These approaches rely on incomplete data and/or network models and data that are not fully representative of human primary tumours. A recent computational method, called DAISY 21 , used tumour genomic data and shRNA data from cell lines to predict SL interactions. DAISY predicted a global network of potential SL interactions in human cells and marks an important advance in computational methods for predicting SL interactions in cancer. However, DAISY primarily utilizes a small number of inactivating (nonsense and frameshift) mutations and uses shRNA data from existing cell lines as part of its inference strategy, which means it will miss SL interactions that are false negatives in shRNA screens caused either by incomplete genetic knockdown or by inadequate representation of mutations in existing cell lines. To address these limitations, we have developed MiSL (Mining Synthetic Lethals), a novel algorithm based on Boolean implications mined from large pan-cancer patient data sets to identify SL partners for specific cancer mutations in specific cancer types. We validate MiSL by (1) showing concordance between our predictions and mutation-specific SL partners identified by existing Achilles screens and our own functional screen, (2) finding known SL partners in AML and kidney cancer, and (3) demonstrating same pathway enrichment of the predicted SL partners, which is consistent with previous work in yeast. We also demonstrate that MiSL solves two problems that are directly translatable to clinical applications: identifying novel mutation-specific SL interactions, in particular IDH1 mutation and ACACA in AML, and pinpointing predictive genetic biomarkers that can guide precise targeting of existing therapies.",
+    "document_source_id": "28561042",
+    "analysis_date": "2025-12-09",
+    "extracted_data": {
+      "document_summary": "This study introduces MiSL (Mining Synthetic Lethals), a novel computational algorithm that identifies mutation-specific synthetic lethal (SL) partners and predictive genetic biomarkers by mining pan-cancer human primary tumor data. MiSL was applied to 12 different cancers, predicting numerous SL partners and demonstrating its utility in precision oncology. Key validations include the identification of ACACA as a novel druggable SL partner for the IDH1 mutation in AML and glioma, and PIK3CA mutation as a predictive biomarker for AKT1 inhibitors in breast cancer. The algorithm also integrates functional screens like shRNA data to rank gene essentiality and detect genomic alterations and differentially expressed genes, aiding in the discovery of novel therapeutic targets.",
+      "treatment_details": {
+        "therapy_type": "The study focuses on developing and validating MiSL, a computational algorithm for identifying mutation-specific synthetic lethal partners and predictive genetic biomarkers in cancer. This involves synthetic lethality-based targeted therapy approaches, computational analysis (MiSL pipeline), and various experimental validation methods including gene knockdown (shRNA, siRNA), CRISPR-Cas9 gene editing, pharmacological inhibition (e.g., ACACA inhibitors, AKT1-inhibitor MK-2206), and xenograft models.",
+        "dose_specificity": "The MiSL algorithm analyzed approximately 3,000 primary tumor samples from 12 TCGA cancer datasets, predicting 145,891 synthetic lethal partners for 3,120 mutations, utilizing specific criteria for genomic alterations and statistical thresholds (e.g., Fisher's exact test P value <0.05). Experimental validation involved shRNA screens (54,020 shRNAs targeting 11,194 genes, >20% reduction in reads for SL hits, 16 population doublings), doxycycline induction (1 \u00b5g ml\u207b\u00b9 for 3-12 days), siRNA (25 nM siGLS), and drug treatments with dose-response IC50 curves (e.g., 2 \u00b5M TOFA for ACACA inhibition; IDH1 R132-mutated AML blasts IC50 1.1 \u00b5M vs 6 \u00b5M for wild-type; MK-2206 for AKT1 inhibition with PIK3CA mutated breast cancer cell lines sensitive at IC50 <1 \u00b5M). Specific shRNA knockdown efficiencies were assessed, but general dose-response comparisons for all therapeutic interventions were not explicitly detailed."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "IDH1 mutation (IDH1-R132H)",
+          "measured_tissue_or_fluid": "Inducible THP-1 cells, primary AML blasts, primary tumours (lower-grade glioma, glioblastoma, AML)",
+          "activity_type": "Genetic mutation presence",
+          "measured_effect": {
+            "direction_of_change": "present; associated with higher ACACA expression, increased sensitivity to TOFA, and cell growth defect upon ACACA inhibition",
+            "magnitude_quantification": "Present in 77% of lower-grade glioma and 7% of glioblastoma. ACACA was differentially overexpressed in IDH1-mutant AML compared to IDH1-wild-type AML. Primary IDH1 R132-mutated purified AML blasts showed 1.5\u20132.0-fold higher ACACA gene expression. Selectively sensitive to TOFA treatment (IC50 1.1 \u00b5M) compared to IDH1 wild-type AML blasts (IC50 6 \u00b5M, P value=0.01). Growth defect noted in presence of IDH1 R132H (+dox) with TOFA (P=0.0001) or ACACA knockdown (P=0.001) or CRISPR (P<0.001)."
+          },
+          "core_biological_function": "A genetic alteration in isocitrate dehydrogenase 1, acting as a driver mutation in cancer and creating a synthetic lethal vulnerability that can be exploited by targeting ACACA.",
+          "relevant_activity_context": "High-frequency mutation in AML, for which ACACA was identified as a synthetic lethal partner using MiSL. Also relevant in lower-grade glioma, glioblastoma, secondary glioblastoma, and osteosarcoma.",
+          "performance_or_health_indicator": "Functions as a predictive biomarker, indicating sensitivity to ACACA inhibition (e.g., with TOFA) in AML and identifies specific cancer subtypes amenable to mutation-specific therapies."
+        },
+        {
+          "biomarker_name": "ACACA (acetyl-CoA carboxylase 1)",
+          "measured_tissue_or_fluid": "Leukaemia (AML), patient-derived xenografts, Inducible THP-1 cells, primary IDH1 R132-mutated purified AML blasts, primary IDH1-mutant AML cells in NSG xenografts, Glioma samples, cells transduced with shRNA (leukemic cells)",
+          "activity_type": "Synthetic lethal interaction (loss of function), Gene expression level, Protein inhibition sensitivity (IC50), Cell growth/viability, Engraftment",
+          "measured_effect": {
+            "direction_of_change": "lethal (when both IDH1 mutation and ACACA defect are present); higher (expression); increased (sensitivity); lower/defective (cell growth/viability, engraftment)",
+            "magnitude_quantification": "Defects in both are lethal to a cell; validated using gene targeting and patient-derived xenografts. Differentially overexpressed in IDH1-mutant AML (1.5\u20132.0-fold increase in gene expression) and glioma (P value=0.008) compared to IDH1 wild-type. Selective reduction in cell viability with 2 \u00b5M TOFA. Pharmacological inhibition caused reduction in cell growth (P=0.0001 vs -dox; P<0.0001 vs IDH1 wild-type +dox). IC50 1.1 \u00b5M in IDH1 R132-mutated AML blasts versus 6 \u00b5M in IDH1 wild-type (P value=0.01). Knockdown by shRNA (P value=0.001) or CRISPR/Cas9 targeting (P value<0.001) caused growth defect. Reduced engraftment of leukaemic cells (P value=0.025) in xenografts. Knockdown efficiency by shRNA constructs was determined by quantitative real-time PCR and western blotting."
+          },
+          "core_biological_function": "Rate-limiting enzyme in fatty acid synthesis, involved in metabolic processes. Acts as a synthetic lethal partner for IDH1 mutation.",
+          "relevant_activity_context": "MiSL-predicted synthetic lethal partner of IDH1 mutation in AML and glioma; pharmacological inhibition with TOFA; gene knockdown/CRISPR targeting in IDH1-mutant AML cells, and targeted knockdown via shRNA lentiviral vectors in IDH1-mutated AML samples.",
+          "performance_or_health_indicator": "A bona fide synthetic lethal partner for the IDH1 mutation in AML with direct clinical implications, indicating a novel druggable target with potential antiproliferative activity for IDH1-mutant cancers, accelerating precision oncology."
+        },
+        {
+          "biomarker_name": "Genetic biomarkers identified by MiSL (including Synthetic Lethal hit genes)",
+          "measured_tissue_or_fluid": "Pan-cancer human primary tumour data, THP-1 R132H cells",
+          "activity_type": "Computational prediction/identification by MiSL algorithm, Gene knockdown effect (assessed by shRNA barcode reads)",
+          "measured_effect": {
+            "direction_of_change": "identified; lower (for SL hits)",
+            "magnitude_quantification": "MiSL demonstrated the ability to 'pinpoint genetic biomarkers for drug sensitivity'. For SL hits: >20% reduction in the number of reads in the presence of Dox compared to the absence of Dox; mean drop-out ratio of <0.6. 776 out of 8,189 genes were identified as SL hits in shRNA screens."
+          },
+          "core_biological_function": "To guide precise targeting of existing therapies, predict drug sensitivity, and identify genes essential for cell survival/proliferation in the presence of specific mutations.",
+          "relevant_activity_context": "Application of the MiSL algorithm to identify genetic biomarkers that can guide precise targeting of existing therapies and shRNA screen for identifying MiSL candidates in IDH1 R132H-inducible THP-1 cells.",
+          "performance_or_health_indicator": "Potential to guide precise targeting of existing therapies, accelerating precision oncology, and identifying potential therapeutic targets or vulnerabilities for cancers driven by specific mutations."
+        },
+        {
+          "biomarker_name": "BCL2L2 (Bcl-w)",
+          "measured_tissue_or_fluid": "Primary AML tumor samples (TCGA data), inferred from tumour genomic data and cell line shRNA data",
+          "activity_type": "Gene Deletion (Copy Number Alteration), Gene Expression Level, Gene identified as a synthetic lethal partner",
+          "measured_effect": {
+            "direction_of_change": "mutually exclusive deletion with IDH1 mutation; differentially overexpressed in IDH1-mutant AML",
+            "magnitude_quantification": "IDH1 mutation and BCL2L2 deletion were mutually exclusive (HI-LO Boolean implication). BCL2L2 was differentially overexpressed in IDH1-mutant compared to IDH1-wild-type AML."
+          },
+          "core_biological_function": "Bcl-2 family member, involved in regulating cell survival and apoptosis, forms a synthetic lethal interaction with IDH1 mutation.",
+          "relevant_activity_context": "IDH1 R132 mutation in AML, identified as a candidate SL partner via MiSL deletion pipeline.",
+          "performance_or_health_indicator": "Constitutes a true mutation-specific Synthetic Lethal partner, suggesting a potential therapeutic target where loss of BCL2L2 activity is lethal in IDH1-mutant AML cells due to synthetic lethality."
+        },
+        {
+          "biomarker_name": "GLS (Glutaminase)",
+          "measured_tissue_or_fluid": "Primary kidney cancer tumor samples (TCGA data); VHL-deficient and isogenic VHL-restored RCC4 cell lines, inferred from tumour genomic data and cell line shRNA data",
+          "activity_type": "Gene Amplification (Copy Number Alteration), Gene Expression Level, Cell Viability Reduction (upon siRNA targeting), Gene identified as a synthetic lethal partner",
+          "measured_effect": {
+            "direction_of_change": "selectively amplified in presence of VHL mutation; increased expression with amplification; differentially overexpressed in VHL-mutant kidney cancer; significant reduction in cell viability upon targeting with siRNAs",
+            "magnitude_quantification": "GLS was selectively amplified only in the presence of the VHL mutation (HI-HI Boolean implication). GLS amplification resulted in increased expression of GLS. GLS was differentially overexpressed in VHL-mutant compared to VHL-wild-type kidney cancer. Targeting GLS with siRNAs showed a significant reduction in cell viability in VHL-deficient RCC4 cells."
+          },
+          "core_biological_function": "Functions in the glutaminase pathway, crucial for cell metabolism and growth, forms a synthetic lethal interaction with VHL mutation, and is involved in metabolic processes (glutaminolysis).",
+          "relevant_activity_context": "VHL mutation in kidney cancer, identified as a candidate SL partner via MiSL amplification pipeline, and experimentally validated.",
+          "performance_or_health_indicator": "Constitutes a previously known mutation-specific Synthetic Lethal partner for VHL mutation in kidney cancer, suggesting that targeting GLS with siRNAs could be a therapeutic strategy."
+        },
+        {
+          "biomarker_name": "VHL mutation",
+          "measured_tissue_or_fluid": "Not explicitly stated (inferred from mutation data of primary tumours)",
+          "activity_type": "Mutation presence/status",
+          "measured_effect": {
+            "direction_of_change": "present",
+            "magnitude_quantification": "N/A (identified as part of a synthetic lethal interaction)"
+          },
+          "core_biological_function": "Driver mutation in cancer, involved in metabolic processes; forms a synthetic lethal interaction with GLS.",
+          "relevant_activity_context": "In the context of 'VHL mut-GLS' SL interaction.",
+          "performance_or_health_indicator": "Identifies a specific cancer subtype potentially amenable to therapies targeting GLS."
+        },
+        {
+          "biomarker_name": "XRCC6",
+          "measured_tissue_or_fluid": "Breast cancer (derived from MiSL analysis of pan-cancer data sets)",
+          "activity_type": "Gene enrichment within pathways (MiSL candidate prediction)",
+          "measured_effect": {
+            "direction_of_change": "higher enrichment (part of a set of genes enriched)",
+            "magnitude_quantification": "MiSL candidates of BRCA1 mutation in breast cancer were significantly enriched for DNA repair genes, including XRCC6, with P value=0.006 (hypergeometric test)."
+          },
+          "core_biological_function": "DNA repair gene.",
+          "relevant_activity_context": "BRCA1 mutation in breast cancer, identified as a MiSL candidate and found in enriched DNA repair pathway.",
+          "performance_or_health_indicator": "Candidate Synthetic Lethal partner for BRCA1 mutation, consistent with the clinically established SL interaction between inhibition of DNA repair and BRCA1 mutation."
+        },
+        {
+          "biomarker_name": "FANCC",
+          "measured_tissue_or_fluid": "Breast cancer (derived from MiSL analysis of pan-cancer data sets)",
+          "activity_type": "Gene enrichment within pathways (MiSL candidate prediction)",
+          "measured_effect": {
+            "direction_of_change": "higher enrichment (part of a set of genes enriched)",
+            "magnitude_quantification": "MiSL candidates of BRCA1 mutation in breast cancer were significantly enriched for DNA repair genes, including FANCC, with P value=0.006 (hypergeometric test)."
+          },
+          "core_biological_function": "DNA repair gene.",
+          "relevant_activity_context": "BRCA1 mutation in breast cancer, identified as a MiSL candidate and found in enriched DNA repair pathway.",
+          "performance_or_health_indicator": "Candidate Synthetic Lethal partner for BRCA1 mutation, consistent with the clinically established SL interaction between inhibition of DNA repair and BRCA1 mutation."
+        },
+        {
+          "biomarker_name": "PIK3CA mutation",
+          "measured_tissue_or_fluid": "Breast cancer cell lines (MCF-7, T47D, CAL-148, CAL-51), primary tumours (breast cancer)",
+          "activity_type": "Genetic mutation presence, Drug sensitivity (IC50), Cell viability, Colony formation, Protein phosphorylation",
+          "measured_effect": {
+            "direction_of_change": "higher (sensitivity), increased (cleaved PARP), decreased (phospho-PRAS40, S6K, 4EBP1, BAD)",
+            "magnitude_quantification": "All four PIK3CA mutated breast cancer cell lines were sensitive to MK-2206 (IC50 <1 \u00b5M) versus >15 \u00b5M for PIK3CA wild-type (P value=0.003) in viability and colony assays. Increased cleaved PARP and decreased phospho-PRAS40, S6K, 4EBP1 and BAD."
+          },
+          "core_biological_function": "A genetic alteration in the PI3K catalytic subunit alpha, commonly found in breast cancer, influencing the PIK3CA-AKT1 signaling pathway, and acting as a driver mutation forming a synthetic lethal interaction with AKT1.",
+          "relevant_activity_context": "Identified by MiSL as a predictive biomarker for MK-2206 (AKT1 inhibitor) in breast cancer.",
+          "performance_or_health_indicator": "Predictive biomarker for sensitivity and responsiveness to AKT1 inhibitors (like MK-2206) in breast cancer, identifying patients who might benefit from this therapy."
+        },
+        {
+          "biomarker_name": "AKT1",
+          "measured_tissue_or_fluid": "Pan-cancer genomic data, breast cancer (as a therapeutic target)",
+          "activity_type": "Copy Number Alteration (CNA), Target of therapeutic inhibitor",
+          "measured_effect": {
+            "direction_of_change": "deletion resulted in lowered expression; mutually exclusive with PIK3CA mutation; targeted by inhibitor",
+            "magnitude_quantification": "AKT1 deletion resulted in lowered expression. PIK3CA mutation and AKT1 deletion were mutually exclusive in pan-cancer data. AKT1 was overexpressed in PIK3CA-mutant breast cancer. Targeted by AKT1-inhibitor MK-2206."
+          },
+          "core_biological_function": "Key protein in cell signaling pathways (e.g., cell growth, proliferation, survival); forms a synthetic lethal interaction with PIK3CA mutation. Loss of the AKT1 gene, a serine/threonine kinase in the PIK3CA-AKT1 pathway, contributes to synthetic lethal interactions.",
+          "relevant_activity_context": "Identified by MiSL in pan-cancer data as contributing to the synthetic lethal relationship with PIK3CA mutation in the context of AKT1 inhibition. Breast cancer with PIK3CA mutation, where AKT1 is inhibited by MK-2206.",
+          "performance_or_health_indicator": "Supports the identification of PIK3CA as a predictive biomarker for AKT1 inhibitors by highlighting a synthetic lethal dependency, and represents a therapeutic target for the 'AKT1-inhibitor MK-2206' in PIK3CA mutant breast cancer."
+        },
+        {
+          "biomarker_name": "LAMA3 mutations",
+          "measured_tissue_or_fluid": "Lung squamous cancer",
+          "activity_type": "Genetic mutation presence",
+          "measured_effect": {
+            "direction_of_change": "identified as a biomarker for MEK inhibitor sensitivity",
+            "magnitude_quantification": "No specific quantification provided, but identified as 'MEK inhibitor-specific biomarkers'."
+          },
+          "core_biological_function": "A genetic alteration in Laminin alpha-3 gene, implied to be functionally linked to MEK pathway sensitivity.",
+          "relevant_activity_context": "Identified by MiSL as a novel genetic biomarker for MEK inhibitors in lung squamous cancer, not represented in existing cell lines.",
+          "performance_or_health_indicator": "Predictive biomarker for MEK inhibitor sensitivity."
+        },
+        {
+          "biomarker_name": "NOS1 mutations",
+          "measured_tissue_or_fluid": "Breast cancer",
+          "activity_type": "Genetic mutation presence",
+          "measured_effect": {
+            "direction_of_change": "identified as a biomarker for MEK inhibitor sensitivity",
+            "magnitude_quantification": "No specific quantification provided, but identified as 'MEK inhibitor-specific biomarkers'."
+          },
+          "core_biological_function": "A genetic alteration in Nitric Oxide Synthase 1 gene, implied to be functionally linked to MEK pathway sensitivity.",
+          "relevant_activity_context": "Identified by MiSL as a novel genetic biomarker for MEK inhibitors in breast cancer, not represented in existing cell lines.",
+          "performance_or_health_indicator": "Predictive biomarker for MEK inhibitor sensitivity."
+        },
+        {
+          "biomarker_name": "ST18 mutations",
+          "measured_tissue_or_fluid": "Lung adenocarcinoma and ovarian cancer",
+          "activity_type": "Genetic mutation presence",
+          "measured_effect": {
+            "direction_of_change": "identified as a biomarker for HDAC inhibitor sensitivity",
+            "magnitude_quantification": "No specific quantification provided, but identified as 'HDAC inhibitor-specific biomarkers'."
+          },
+          "core_biological_function": "A genetic alteration in ST18 (suppression of tumorigenicity 18) gene, implied to be functionally linked to HDAC pathway sensitivity.",
+          "relevant_activity_context": "Identified by MiSL as a novel genetic biomarker for HDAC inhibitors in lung adenocarcinoma and ovarian cancer, not represented in existing cell lines.",
+          "performance_or_health_indicator": "Predictive biomarker for HDAC inhibitor sensitivity."
+        },
+        {
+          "biomarker_name": "PTEN mutation",
+          "measured_tissue_or_fluid": "Kidney cancer",
+          "activity_type": "Genetic mutation presence",
+          "measured_effect": {
+            "direction_of_change": "identified as a predictive biomarker for MK-2206",
+            "magnitude_quantification": "No specific quantification provided."
+          },
+          "core_biological_function": "A genetic alteration in the PTEN gene, a tumor suppressor that negatively regulates the PI3K-AKT pathway.",
+          "relevant_activity_context": "Identified by MiSL as a predictive biomarker for MK-2206 (AKT1 inhibitor) in kidney cancer, functionally associated with PIK3CA-AKT1 signalling.",
+          "performance_or_health_indicator": "Predictive biomarker for sensitivity to AKT1 inhibitors (like MK-2206)."
+        },
+        {
+          "biomarker_name": "LATS2 mutation",
+          "measured_tissue_or_fluid": "Lung adenocarcinoma",
+          "activity_type": "Genetic mutation presence",
+          "measured_effect": {
+            "direction_of_change": "identified as a predictive biomarker for MK-2206",
+            "magnitude_quantification": "No specific quantification provided."
+          },
+          "core_biological_function": "A genetic alteration in the LATS2 gene, part of the Hippo signaling pathway, which can cross-talk with PI3K-AKT pathway.",
+          "relevant_activity_context": "Identified by MiSL as a predictive biomarker for MK-2206 (AKT1 inhibitor) in lung adenocarcinoma, functionally associated with PIK3CA-AKT1 signalling.",
+          "performance_or_health_indicator": "Predictive biomarker for sensitivity to AKT1 inhibitors (like MK-2206)."
+        },
+        {
+          "biomarker_name": "PIK3CG mutation",
+          "measured_tissue_or_fluid": "Uterine cancer",
+          "activity_type": "Genetic mutation presence",
+          "measured_effect": {
+            "direction_of_change": "identified as a predictive biomarker for MK-2206",
+            "magnitude_quantification": "No specific quantification provided."
+          },
+          "core_biological_function": "A genetic alteration in the PIK3CG gene, another catalytic subunit of PI3K, involved in PI3K-AKT pathway signaling.",
+          "relevant_activity_context": "Identified by MiSL as a predictive biomarker for MK-2206 (AKT1 inhibitor) in uterine cancer, functionally associated with PIK3CA-AKT1 signalling.",
+          "performance_or_health_indicator": "Predictive biomarker for sensitivity to AKT1 inhibitors (like MK-2206)."
+        }
+      ]
+    }
+  }
+]

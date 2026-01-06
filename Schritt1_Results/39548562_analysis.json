@@ -1,0 +1,244 @@
+[
+  {
+    "title": "pmc Virol J Virol J Virology Journal 1743-422X BioMed Central London 11566392 39548562 2551 10.1186/s12985-024-02551-3 Research Peripheral immune signatures associated with the risk of hepatocarcinogenesis in cirrhotic Egyptian HCV patients before and after treatment with direct-acting antivirals http://orcid.org/0000-0001-7861-238X El-Shenawy Reem 1 http://orcid.org/0000-0002-8277-8304 Moustafa Rehab I. 1 2 http://orcid.org/0000-0003-3788-3372 Helmy Naiera M. 1 http://orcid.org/0000-0002-8212-6146 El-Abd Yasmine S. 1 http://orcid.org/0000-0001-7041-5445 Tabll Ashraf A. 1 3 http://orcid.org/0000-0002-9863-5551 Elesnawy Yasser K. 4 http://orcid.org/0000-0001-8403-1143 Shawky Heba hs.tohami@nrc.sci.eg 5 1 https://ror.org/02n85j827 grid.419725.c 0000 0001 2151 8157 Microbial Biotechnology Department, Biotechnology Research Institute, National Research Centre, Dokki, Cairo, 12622 Egypt 2 grid.517528.c 0000 0004 6020 2309 School of Pharmacy, Newgiza University (NGU), Newgiza, 12577 Giza Egypt 3 https://ror.org/00r86n020 grid.511464.3 0000 0005 0235 0917 Egypt Center for Research and Regenerative Medicine (ECRRM), Cairo, Egypt 4 https://ror.org/04f90ax67 grid.415762.3 National Committee for Control of Viral Hepatitis (NCCVH), Ministry of Health and Population, Cairo, Egypt 5 https://ror.org/02n85j827 grid.419725.c 0000 0001 2151 8157 Therapeutic Chemistry Department, Pharmaceutical Industries and Drug Research Institute, National Research Centre, Dokki, Cairo, 12622 Egypt 15 11 2024 15 11 2024 2024 21 293 19 7 2024 22 10 2024 \u00a9 The Author(s) 2024 2024 https://creativecommons.org/licenses/by/4.0/ Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article\u2019s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article\u2019s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/ . Background Although direct-acting antivirals (DAAs) have revolutionized the management of chronic HCV, the debatable association with hepatocellular carcinoma (HCC) occurrence/recurrence has raised major concerns about their long-term use, especially in cirrhotic cases. The role of epithelial tight junction proteins (TJPs) in hepatocarcinogenesis has been highlighted; however, the association of their expression in peripheral blood mononuclear cells (PBMCs) with HCC has rarely been reported. This study aimed to explore the role of peripheral claudin (Cldn) 1 in liver pathogenesis and its crosstalk with soluble immune mediators in HCC prognosis. Methods The study population included six independent subgroups: healthy controls, cirrhotic/non-cirrhotic treatment-na\u00efve HCV patients, DAA-SVR patients, and anticancer treatment-na\u00efve de novo HCC patients. The laboratory tests included serum levels of alpha-fetoprotein (AFP), albumin, liver transaminases, total bilirubin, and CBC profiling. The serum levels of soluble cluster of differentiation (sCD)163, IL-10, and IL-12 were estimated by corresponding ELISA kits, whereas the levels of Cldn1 and transforming growth factor ( TGF )- \u03b2 in PBMCs were quantified using quantitative PCR (qPCR). Results Serum sCD163, IL-10, and IL-12 levels were significantly higher in the HCC patient group than in the control and non-malignant patient groups ( P < 0.0001). No significant difference was detected in the serum levels of the three markers between cirrhotic and non-cirrhotic patients of chronic HCV, whereas their levels were significantly different between cirrhotic and non-cirrhotic SVRs ( P < 0.0001). Similarly, the transcriptional levels of peripheral Cldn1 and TGF-\u03b2 were significantly higher in patients with HCC and non-malignant cirrhosis than in patients without cirrhosis ( P = 0.0185\u2013<0.0001 and 0.0089\u2013<0.0001, respectively). Logistic regression analysis revealed a significant association between all the abovementioned markers and HCC ( P = 0.0303 to < 0.0001), which was further confirmed by the results of receiver operating characteristic (ROC) analysis, which revealed an area under the curve (AUC) value ranging from 0.883 to 0.996. The calculated cutoff values demonstrated remarkable prognostic capacity, with ranges of 88\u201399.41% and 82.14\u201397.92% and positive/negative predictive values ranging from 84.62 to 98.3% and 92\u201398%, respectively. Conclusion Serum sCD163, IL-10, IL-12 and peripheral Cldn1 and TGF-\u03b2 expression levels represent novel non-invasive HCC biomarkers that maintain their predictive power under different pathological conditions and circumvent the drawbacks of conventional prognostic markers in patients with mild cirrhosis and/or normal AFP, albumin, and/or platelet counts. Supplementary Information The online version contains supplementary material available at 10.1186/s12985-024-02551-3. Keywords HCV-related HCC DAA Claudin sCD163 Cytokines Tight junction proteins National Research Centre Egypt Open access funding provided by The Science, Technology & Innovation Funding Authority (STDF) in cooperation with The Egyptian Knowledge Bank (EKB). issue-copyright-statement \u00a9 BioMed Central Ltd., part of Springer Nature 2024 Introduction The burden of hepatocellular carcinoma (HCC) is increasing worldwide as the third leading cause of cancer-related deaths, accounting for 90% of primary liver cancers and 8.3% of all cancer-associated mortalities, particularly among elderly people [ 1 ]. Several risk factors have been associated with HCC, including long-term exposure to fungal aflatoxins, smoking, alcohol abuse, metabolic diseases such as diabetes mellitus, non-alcoholic fatty liver disease (NAFLD), and chronic viral infections such as hepatitis B (HBV) and C (HCV) viruses [ 2 ]. In particular, HCV remains the most common cause, and in addition to underlying cirrhosis as a key precursor of HCC, viral antigens can induce several protumorigenic mechanisms, including persistent oxido-inflammatory-mediated liver damage and dysregulation of cellular signaling pathways [ 3 ]. Evidently, chronic HCV infection can be efficiently treated with direct-acting antivirals (DAAs) that achieve a sustained virologic response (SVR) in > 95% of patients, improving extra-hepatic manifestations and \u201cpresumably\u201d reducing the risk of cirrhosis-associated HCC [ 4 ]. However, several clinical studies and real-life experiences have revealed that the subsequent complications and risk of HCC are not entirely eliminated in all recovered patients, especially in cirrhotic patients [ 5 \u2013 9 ]. One reason for this could be related to the persistence of HCV biological imprints after SVR, including virus-induced epigenetic changes in the liver associated with HCC development [ 10 ]. Another possible explanation is that cirrhosis-induced alterations in the immune milieu are exacerbated by the introduction of DAAs and are similarly associated with a greater risk of HCC [ 11 ]. Considering the recent debate about the correlation between DAA-based therapy and HCC occurrence/recurrence [ 12 ] and the launching of nationwide surveillance programms for HCC in Egypt resembling those previously adopted for the testing and treatment of HCV [ 13 ], long-term follow-up for cirrhotic patients receiving DAAs is highly recommended. Typically, HCC prognosis and/or diagnosis often depend on several clinicopathological criteria, including tumor number, size, and focality; lymphovascular invasion, and pathological grade and stage [ 14 ]. In addition, the serum alpha-fetoprotein (AFP) level has long been a less invasive gold standard predictor of HCC [ 15 ]; however, the reliability of AFP may be compromised in patients with normal serum AFP levels, including HCC patients [ 16 ] and non-malignant cirrhotic patients [ 17 ], which necessitates the combination of other serum markers and imaging modalities [ 18 ]. Because HCC is an inflammation-induced cancer [ 19 ], various soluble immune mediators have been proposed as potential biomarkers for HCC prognosis, given their regulatory role in the host antitumor immune response, which determines the overall fate of tumorigenesis [ 20 ]. The tumor microenvironment (TME) is dominated by immunosuppressive cytokines that curtail the effector antitumor immune response and promote the survival and proliferation of tumor cells. Among these factors, transforming growth factor (TGF)-\u03b2 and IL-10 are key players in HCC pathogenesis, where dysregulated TGF-\u03b2 signaling pathways promote persistent liver inflammation, fibrogenesis, and TME immunomodulation [ 21 ]. Moreover, intrahepatic expression of the M2 cytokine IL-10 is the main modulator of liver fibrinogenesis during chronic infection [ 22 ] and one of the main precursors of HCC through genetic polymorphisms [ 23 ], which also contributes to perpetuating immunosuppressive conditions in the TME [ 20 , 21 ]. Similarly, soluble CD163 (sCD163), a specific biomarker for M2 macrophage activation, has been reported to play a key role in liver pathogenesis by activating several immunoregulatory pathways and therefore was introduced as a useful tool for assessing the severity of liver damage and predicting HCC [ 24 ]. Although chronic inflammation induced by several proinflammatory mediators has recently been identified as a co-factor in carcinogenesis [ 25 ], the pleiotropic cytokine IL-12 plays an essential role in inflammation-associated tumorigenesis, despite its classical role in activating cytotoxic T lymphocytes (CTLs) and natural killer (NK) cells for tumor clearance [ 26 ]. In addition, tight junction proteins (TJPs) have been shown to play multiple roles in liver pathogenesis, ranging from viral entry to cancer progression and metastasis, by promoting epithelial\u2013mesenchymal transition [ 27 ] and have therefore become important therapeutic targets for liver cirrhosis and carcinoma [ 28 ]. In a recent study, Roehlen et al. [ 29 ] proposed that epithelial Cldn1 expressed on hepatocytes acts as a therapeutic target through specific antibodies that suppress protumorigenic cellular signaling and reprogram the TME [ 29 ]. Considering that blood samples are less invasive and easier to retrieve than tumor tissues are, peripheral blood mononuclear cells (PBMCs) could be an excellent alternative for tumor surveillance, especially because their transcriptome is of single origin and can efficiently reflect local immune cell infiltration in the TME [ 30 ]. Nonetheless, to our knowledge, only one machine learning-based study has recently investigated peripheral TJP transcription in liver cancer [ 31 ]. In this study, we aimed to explore the role of peripheral Cldn1 expressed in PBMCs in liver pathogenesis and its crosstalk with soluble immune mediators in HCC prognosis.",
+    "document_source_id": "39548562",
+    "analysis_date": "2025-12-10",
+    "extracted_data": {
+      "document_summary": "This study investigated peripheral immune signatures, specifically serum sCD163, IL-10, IL-12, and peripheral blood mononuclear cell (PBMC) Cldn1 and TGF-\u03b2 expression levels, in various patient cohorts including healthy controls, chronic HCV (cirrhotic/non-cirrhotic, treatment-na\u00efve and DAA-SVR), and hepatocellular carcinoma (HCC) patients. The primary aim was to characterize clinicopathological and molecular profiles, assessing their associations with hepatocarcinogenesis risk and their prognostic capacity for HCC in cirrhotic Egyptian HCV patients before and after direct-acting antiviral (DAA) treatment, ultimately identifying these markers as novel non-invasive predictors for HCC, even in cases with normal conventional markers.",
+      "treatment_details": {
+        "therapy_type": "Direct-Acting Antiviral (DAA) therapy for Hepatitis C Virus (HCV) infection.",
+        "dose_specificity": "Direct-acting antiviral (DAA) regimens, primarily involving a 12-week period of sofosbuvir with or without ribavirin, were administered to achieve sustained virologic response (SVR) in HCV patients. The study's focus was on the SVR outcome and the observational analysis of biomarker levels across different patient groups (including those post-DAA treatment), rather than on specific DAA dose-response comparisons or detailed treatment protocols."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "sCD163",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Protein Level (ELISA)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly higher in HCC patients (2.16\u20134.1-fold, P < 0.0001) compared to controls and non-malignant groups. Elevated in cirrhotic SVRs (1.5-fold, P=0.0053) and chronic HCV patients (1.54-fold, P=0.0358) vs. controls, and also higher in cirrhotic SVRs (1.9-fold, P < 0.0001) and chronic patients (1.23-fold, P=0.0085) than non-cirrhotic cohorts. Levels positively correlated with IL-10 and IL-12 in HCC and non-malignant cirrhotic patients. In non-cirrhotic patients, levels were inversely correlated with peripheral Cldn1, TGF-\u03b2, IL-10, IL-12, AFP, and INR, but positively correlated with ALT and AST."
+          },
+          "core_biological_function": "Specific biomarker for M2 macrophage activation and inflammation, playing a key role in liver pathogenesis, promoting cirrhosis, and activating immunoregulatory pathways, often related to CD163-expressing tumor-associated macrophages (TAMs).",
+          "relevant_activity_context": "Hepatocarcinogenesis risk, liver damage severity, and HCC prognosis in cirrhotic Egyptian HCV patients, including those pre- and post-DAA SVR, and in patients with mild liver cirrhosis.",
+          "performance_or_health_indicator": "Novel non-invasive HCC biomarker with significant predictive power (AUROC 0.7708\u20130.9969, sensitivity 82\u2013100%, specificity 86\u201398%), even when conventional markers are normal. Associated with increased HCC risk, poor prognosis, and perpetuation of the immunosuppressive TME. Also a potential predictor of mortality in decompensated liver cirrhosis."
+        },
+        {
+          "biomarker_name": "IL-10",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Protein Level (ELISA)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly higher in HCC (up to 3.78-fold, P < 0.0001) compared to control and non-malignant groups, and significantly upregulated in patients with chronic liver disease. Higher in non-cirrhotic SVRs (1.45\u20132-fold, P < 0.0001) compared to controls and other groups. No significant difference between cirrhotic and non-cirrhotic chronic HCV. Levels inversely correlated with Child-Pugh score (HCC) and positively with IL-12. In non-cirrhotic patients, positively correlated with Cldn1, TGF-\u03b2, IL-12, AFP, and INR, but inversely correlated with sCD163, age, FIB-4 score, and AST levels."
+          },
+          "core_biological_function": "M2 cytokine, anti-inflammatory, modulates liver fibrinogenesis, perpetuates immunosuppressive TME, central role in liver tumorigenesis, promotes immunoregulatory pathways, and acts as an 'endogenous danger signal' under hyperinflammation.",
+          "relevant_activity_context": "HCC pathogenesis, liver fibrinogenesis, chronic HCV, DAA-SVR, hyperinflammation, chronic liver disease, and mild liver cirrhosis.",
+          "performance_or_health_indicator": "Potential/novel non-invasive biomarker for HCC prognosis/risk (AUROC > 0.9, sensitivity 88\u201399.41%, specificity 82.14\u201397.92%). Associated with poor HCC prognosis and immunosuppressive TME. Beneficial for patients with normal conventional markers. Negatively correlated with Child-Pugh score, indicating an immune-homeostatic role."
+        },
+        {
+          "biomarker_name": "IL-12",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Protein Level (ELISA)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly higher in HCC (up to 13.83-fold, P < 0.0001) compared to control and non-malignant patients. Lowest in chronic HCV (54.8\u201391.34% reduction in cirrhotic and 62.3\u201392.8% reduction in non-cirrhotic patients, P = 0.009 to < 0.0001). Higher in cirrhotic SVRs than non-cirrhotic SVRs (P < 0.0001). Both cirrhotic and non-cirrhotic SVRs had 2.21- to 5.14-fold greater levels than chronic HCV patients (P < 0.0001). Positively correlated with sCD163 and IL-10 (HCC). Positively correlated with sCD163, IL-10, AFP, and ALB (non-malignant cirrhotic). In non-cirrhotic patients, positively correlated with Cldn1, TGF-\u03b2, IL-10, AFP, and INR, but inversely correlated with sCD163, age, and FIB-4 score."
+          },
+          "core_biological_function": "Pleiotropic cytokine with an essential role in inflammation-associated tumorigenesis, despite its classical role in activating cytotoxic T lymphocytes (CTLs) and natural killer (NK) cells for tumor clearance. Also associated with chronic inflammation.",
+          "relevant_activity_context": "HCC pathogenesis, inflammation-associated tumorigenesis, chronic HCV, DAA-SVR, chronic liver disease, and mild liver cirrhosis.",
+          "performance_or_health_indicator": "Potential/novel non-invasive biomarker for HCC prognosis/risk (AUROC > 0.9, sensitivity 88\u201399.41%, specificity 82.14\u201397.92%). Significantly associated with HCC risk (P=0.022\u2013<0.0001, odds ratio 5.391\u201315.11). Beneficial for patients with normal conventional markers."
+        },
+        {
+          "biomarker_name": "Cldn1 (Claudin 1)",
+          "measured_tissue_or_fluid": "Peripheral Blood Mononuclear Cells (PBMCs)",
+          "activity_type": "Gene Transcript (qPCR)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly higher in HCC and non-malignant cirrhosis (P=0.0185\u2013<0.0001) than non-cirrhotic. Markedly higher in HCC patients (1.93\u20133.6-fold, P < 0.0001) than other groups. Non-cirrhotic SVRs had significantly lower expression than cirrhotic SVRs (P=0.0003). Non-/cirrhotic HCV had 19.64\u201346.24% lower expression than SVRs (P=0.0185 to < 0.0001). Expression increased in response to TGF-\u03b2 and IL-10. Correlated strongly positively with TGF-\u03b2; positively correlated with ALT, AST, BiL, AFP, FIB-4 scores, and serum levels of IL-10, IL-12, and sCD163 in HCC patients; inversely correlated with serum ALB concentration in HCC patients. In non-malignant cirrhotic patients, positively correlated with TGF-\u03b2, AFP, ALB, INR, serum IL-12, IL-10, and sCD163 levels. In non-cirrhotic patients, positively correlated with TGF-\u03b2, AFP, ALT, AST, ALB, INR, serum IL-10, and IL-12, but inversely correlated with serum sCD163 level."
+          },
+          "core_biological_function": "Epithelial tight junction protein involved in liver pathogenesis, viral entry, cancer progression (promoting epithelial\u2013mesenchymal transition). A major claudin expressed on M2 macrophages during inflammation and/or carcinogenesis, it perpetuates tumorigenesis by activating the recruitment of tumor-infiltrating M2 macrophages and promotes leukocyte extravasation. Crucial for cell-cell adhesion and barrier function, involved in cell proliferation and differentiation.",
+          "relevant_activity_context": "Liver pathogenesis, HCC prognosis, patients with HCC and non-malignant cirrhosis, hepatocarcinogenesis, chronic inflammation, DAA-mediated activation, and mild liver cirrhosis.",
+          "performance_or_health_indicator": "Important therapeutic target for liver cirrhosis and carcinoma; represents a novel non-invasive HCC biomarker that maintains predictive power. Significantly associated with HCC risk (P=0.022\u2013<0.0001, odds ratio 5.391\u201315.11). Exhibits a protumorigenic role and contributes to the perpetuation of the immunosuppressive TME; shows predictive power for HCC risk (AUROC > 0.9). Beneficial for patients with normal conventional markers."
+        },
+        {
+          "biomarker_name": "TGF-\u03b2 (Transforming Growth Factor-beta)",
+          "measured_tissue_or_fluid": "Peripheral Blood Mononuclear Cells (PBMCs)",
+          "activity_type": "Gene Transcript (qPCR)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly higher in HCC and non-malignant cirrhosis (P=0.0089\u2013<0.0001) than non-cirrhotic. Markedly higher in HCC patients (1.78\u20132.95-fold, P < 0.0001) than other groups. Non-cirrhotic SVRs had significantly lower expression than cirrhotic SVRs (P < 0.0001). Non-/cirrhotic HCV had 16.6\u201339.82% lower expression than SVRs (P=0.0089 to < 0.0001). Strongly positively correlated with Cldn1; inversely correlated with serum ALB concentration in HCC patients. Positively correlated with ALT, AST, BiL, AFP, FIB-4 scores, and serum levels of IL-10, IL-12, and sCD163 in HCC patients. Positively correlated with Cldn1, AFP, ALB, INR, serum IL-12, IL-10, and sCD163 levels in non-malignant cirrhotic patients. In non-cirrhotic patients, positively correlated with Cldn1, AFP, ALT, AST, ALB, INR, serum IL-10, and IL-12, but inversely correlated with serum sCD163 level. Positively correlated with AFP and FIB-4 scores overall."
+          },
+          "core_biological_function": "Key player in HCC pathogenesis; dysregulated signaling promotes persistent liver inflammation, fibrogenesis, and TME immunomodulation. A cytokine involved in cell growth, differentiation, apoptosis, and immune regulation, acting as a key mediator of fibrosis and a suppressor of immune responses. Has a central role in liver tumorigenesis, determines fibrogenic severity, and promotes Cldn1 expression.",
+          "relevant_activity_context": "HCC pathogenesis, persistent liver inflammation, fibrogenesis, TME immunomodulation in patients with HCC and non-malignant cirrhosis, chronic inflammation, DAA-mediated activation, and mild liver cirrhosis.",
+          "performance_or_health_indicator": "Proposed/novel non-invasive biomarker for HCC prognosis/risk. Significantly associated with HCC risk (P=0.022\u2013<0.0001), with the highest odds ratio (51.89\u201357.4). Contributes to the perpetuation of the immunosuppressive TME; shows predictive power for HCC risk (AUROC > 0.9). Beneficial for patients with normal conventional markers."
+        },
+        {
+          "biomarker_name": "HCV Viral Load (RNA)",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Viral RNA quantification (qPCR)",
+          "measured_effect": {
+            "direction_of_change": "lower (undetectable)",
+            "magnitude_quantification": "Undetectable serum level of viral RNA, defined as < 21 IU/mL, three months (minimum) after DAA therapy termination for SVR."
+          },
+          "core_biological_function": "Indicates active HCV infection and viral replication; successful DAA therapy leads to viral clearance.",
+          "relevant_activity_context": "Post-DAA therapy for Hepatitis C Virus (HCV).",
+          "performance_or_health_indicator": "Indicates sustained virologic response (SVR), signifying successful treatment and viral eradication, which is crucial for preventing HCV-related liver disease progression."
+        },
+        {
+          "biomarker_name": "Platelet Count (PLT)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Cell count (CBC profiling)",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Lower counts in HCC patients compared to both control (P = 0.0008) and non-malignant patients (P < 0.0001). Significant reduction in cirrhotic patients (both chronic HCV and SVR) compared to non-cirrhotic groups (P < 0.0001 for both). Lower in cirrhotic SVRs compared to other non-malignant groups (P = 0.01\u2013<0.0001). No significant differences between non-/cirrhotic chronic HCV and SVR groups."
+          },
+          "core_biological_function": "Essential for blood clotting and hemostasis; low levels can indicate bone marrow issues or splenic sequestration, often seen in portal hypertension and cirrhosis.",
+          "relevant_activity_context": "Diagnosis and assessment of liver cirrhosis in HCV patients. Comparison of HCC patients with control and non-malignant patient groups, and comparison between non-/cirrhotic chronic HCV and SVR groups. Used as a component in the FIB-4 index formula.",
+          "performance_or_health_indicator": "Lower platelet count (\u2264 150/mL) combined with splenomegaly indicates clinically significant portal hypertension and suggests liver cirrhosis severity. Indicates hematological alteration; thrombocytopenia is associated with liver disease and HCC, and can reflect impaired clotting ability."
+        },
+        {
+          "biomarker_name": "Aspartate Aminotransferase (AST)",
+          "measured_tissue_or_fluid": "Blood (Plasma)",
+          "activity_type": "Enzyme activity (biochemical assessment)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Median levels significantly higher in cirrhotic patients within both non-malignant groups (P = 0.0051 for chronic HCV, P < 0.0001 for SVRs). Significantly elevated in HCC patients compared to healthy controls, SVRs, and chronic HCV (P < 0.0001). Non-cirrhotic SVRs had lower AST levels than cirrhotic HCV (P = 0.0003) and cirrhotic SVRs (P < 0.0001)."
+          },
+          "core_biological_function": "Liver enzyme involved in amino acid metabolism, also found in heart and muscle cells. Elevated levels indicate liver or muscle damage.",
+          "relevant_activity_context": "Assessment of liver health and fibrosis, particularly in HCV patients. Comparison among cirrhotic non-malignant patients, HCC patients, SVRs, chronic HCV, and controls; comparison between cirrhotic and non-cirrhotic groups. Used as a component in the FIB-4 index formula.",
+          "performance_or_health_indicator": "Elevated levels indicate liver inflammation or damage; significantly higher in HCC and cirrhotic patients. Lower levels in non-cirrhotic SVRs suggest better liver health post-treatment. Levels are used as part of the FIB-4 index to assess liver fibrosis."
+        },
+        {
+          "biomarker_name": "Alanine Aminotransferase (ALT)",
+          "measured_tissue_or_fluid": "Blood (Plasma)",
+          "activity_type": "Enzyme activity (biochemical assessment)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Median levels significantly elevated in HCC patients compared to healthy controls (P < 0.0001), SVRs (P < 0.0001), and chronic HCV patients (P = 0.0383). Non-cirrhotic SVRs had lower ALT levels (P = 0.0032) than cirrhotic HCV patients."
+          },
+          "core_biological_function": "Liver enzyme primarily found in the liver, involved in amino acid metabolism. Elevated levels are a sensitive indicator of liver cell damage or inflammation.",
+          "relevant_activity_context": "Assessment of liver health and fibrosis, particularly in HCV patients. Comparison among HCC, chronic HCV, SVRs, and controls; comparison between cirrhotic and non-cirrhotic groups. Used as a component in the FIB-4 index formula.",
+          "performance_or_health_indicator": "Elevated levels indicate liver inflammation or damage; significantly higher in HCC. Lower levels in non-cirrhotic SVRs suggest improved liver health post-treatment. Levels are used as part of the FIB-4 index to assess liver fibrosis."
+        },
+        {
+          "biomarker_name": "Total Bilirubin (BiL)",
+          "measured_tissue_or_fluid": "Blood (Plasma)",
+          "activity_type": "Concentration (biochemical assessment)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Median level higher in HCC patients than in non-malignant patients (P = 0.0063\u2013<0.0001) and controls (P = 0.0064). Higher in cirrhotic SVRs than non-cirrhotic patients (P = 0.0074). No difference detected in non-/cirrhotic groups compared with the control group."
+          },
+          "core_biological_function": "Bile pigment, a product of heme breakdown. Elevated levels indicate impaired liver function or bile duct obstruction, serving as an indicator of liver function and bile excretion.",
+          "relevant_activity_context": "Assessment of liver functional class in cirrhotic patients. Comparison among HCC, non-malignant patients, controls, and cirrhotic SVRs versus non-cirrhotic patients. Used as a criterion for the Child-Pugh score.",
+          "performance_or_health_indicator": "Elevated concentration contributes to a higher Child-Pugh score, indicating more severe liver dysfunction and prognosis in cirrhosis. Higher levels indicate impaired liver function or bile duct obstruction, significantly elevated in HCC and cirrhotic SVRs."
+        },
+        {
+          "biomarker_name": "Albumin (ALB)",
+          "measured_tissue_or_fluid": "Serum (Plasma)",
+          "activity_type": "Protein Level (biochemical assessment)",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Lower levels in patients with HCC (P < 0.0001). Cirrhotic SVRs had higher serum ALB concentrations than cirrhotic chronic patients (P = 0.0053), but lower levels than non-cirrhotic SVRs (P = 0.0023). No difference detected between non-/cirrhotic chronic HCV patients. Lower levels associated with HCC risk (P = 0.0156\u20130.001). Demonstrated lower prognostic performance (suboptimal) for HCC risk compared to new predictors, showing nearly normal levels among SVRs."
+          },
+          "core_biological_function": "Major plasma protein synthesized by the liver, essential for maintaining oncotic pressure and transporting substances. Low levels indicate impaired liver synthesis or malnutrition. Indicator of liver synthetic function and severity of liver damage.",
+          "relevant_activity_context": "Assessment of liver functional class in cirrhotic patients. Comparison of HCC patients vs non-malignant patients; between non-/cirrhotic chronic HCV patients; cirrhotic SVRs vs cirrhotic chronic patients and non-cirrhotic SVRs. Non-malignant cirrhosis, chronic HCV patients, HCC risk, SVRs, and cirrhotic patients with mild fibrotic grades. Used as a criterion for the Child-Pugh score.",
+          "performance_or_health_indicator": "Lower concentration contributes to a higher Child-Pugh score, indicating more severe liver dysfunction and prognosis in cirrhosis. Lower levels indicate impaired liver synthetic function or malnutrition, common in advanced liver disease and HCC. Higher levels in SVRs suggest improved liver function. Associated with HCC risk, but had limited/suboptimal predictive power for HCC development compared to other markers, especially in SVRs with normal levels."
+        },
+        {
+          "biomarker_name": "Alpha-fetoprotein (AFP)",
+          "measured_tissue_or_fluid": "Serum (Peripheral plasma)",
+          "activity_type": "Protein Level (ELISA)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly higher in patients with HCC than in non-malignant patients (P < 0.0001). Chronic HCV patients had significantly higher AFP levels than SVRs (P < 0.0001). Cirrhotic patients in each group had higher levels than non-cirrhotic patients (P < 0.0001 for all). Levels in SVRs were significantly lower than in treatment-na\u00efve HCV patients. Can remain within normal limits (\u2264 10 ng/mL) in approximately 30% of HCC patients. Positively correlated with peripheral Cldn1/TGF-\u03b2 (HCC, non-malignant cirrhotic, non-cirrhotic). Positively correlated with IL-12 (non-malignant cirrhotic) and with IL-10 and IL-12 (non-cirrhotic). Inversely correlated with sCD163 (non-cirrhotic). Demonstrated lower prognostic performance (suboptimal) for HCC risk compared to new predictors."
+          },
+          "core_biological_function": "Glycoprotein produced primarily by the fetal liver and yolk sac; elevated levels in adults can indicate liver damage, regeneration, or hepatocellular carcinoma (HCC). It is widely used as a tumor marker.",
+          "relevant_activity_context": "Assessment in HCV-related HCC patients and other patient groups. Comparison of HCC patients vs non-malignant patients; chronic HCV patients vs SVRs; cirrhotic vs non-cirrhotic patients. HCC prediction, DAA-SVR, chronic HCV patients, and non-malignant patients.",
+          "performance_or_health_indicator": "Commonly used as a tumor marker for hepatocellular carcinoma (HCC). Elevated levels are a marker for HCC, also associated with active chronic HCV and cirrhosis. Although considered a 'gold standard' for HCC, its reliability may be compromised in patients with normal levels, particularly in cirrhotic DAA-SVRs, indicating a need for more specific predictors. Demonstrated considerable prognostic capacity (Fisher\u2019s exact test: sensitivities 88\u201399.41%, specificities 82.14\u201397.92%), but showed suboptimal prognostic capacity in SVRs."
+        },
+        {
+          "biomarker_name": "Red blood corpuscles (RBCs)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Count",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Lower counts in HCC patients compared to both control (P = 0.001) and non-malignant patients (P = 0.0008\u2013<0.0001). No significant differences between non-cirrhotic and cirrhotic chronic HCV or SVR groups."
+          },
+          "core_biological_function": "Oxygen transport, maintaining tissue oxygenation.",
+          "relevant_activity_context": "Comparison of HCC patients with control and non-malignant (chronic HCV and SVR) patient groups, and comparison between non-/cirrhotic chronic HCV and SVR groups.",
+          "performance_or_health_indicator": "Indicates hematological alteration in HCC patients. Lower counts suggest anemia, a common complication in cancer."
+        },
+        {
+          "biomarker_name": "International Normalized Ratio (INR)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Ratio measurement",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Higher in HCC patients than non-cirrhotic HCV patients (P < 0.0001) and cirrhotic responders (P = 0.0007). Non-malignant patients had higher INRs than healthy controls (P < 0.0001), except for non-cirrhotic HCV patients. Significant increase in cirrhotic patients in both chronic HCV and SVR groups compared to non-cirrhotic groups (P < 0.0001 for both)."
+          },
+          "core_biological_function": "Measures prothrombin time, indicating liver synthetic function and coagulation status.",
+          "relevant_activity_context": "Comparison of HCC, non-malignant (HCV, SVR), and healthy control groups; comparison between cirrhotic and non-cirrhotic patients.",
+          "performance_or_health_indicator": "Higher INR indicates impaired liver synthetic function and increased risk of bleeding, common in advanced liver disease and HCC."
+        },
+        {
+          "biomarker_name": "Hemoglobin (Hb)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Level",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "Did not differ significantly among all the groups investigated."
+          },
+          "core_biological_function": "Oxygen transport throughout the body.",
+          "relevant_activity_context": "Comparison among HCC, non-malignant, and control groups.",
+          "performance_or_health_indicator": "No significant indicator of differential oxygen-carrying capacity among the studied groups, despite differences in RBC counts."
+        },
+        {
+          "biomarker_name": "White blood cell (WBC) counts",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Count",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "Did not differ significantly among all the groups investigated."
+          },
+          "core_biological_function": "Primary component of the immune system, involved in defense against infection.",
+          "relevant_activity_context": "Comparison among HCC, non-malignant, and control groups.",
+          "performance_or_health_indicator": "No significant indicator of differential immune status among the studied groups based on total WBC count."
+        },
+        {
+          "biomarker_name": "AST/ALT ratio",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Ratio measurement",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly higher in cirrhotic patients within both non-malignant groups (P = 0.0015 for chronic HCV, P < 0.0001 for SVRs). Significantly elevated in HCC patients compared to healthy controls, SVRs, and chronic HCV (P < 0.0001). Median AST/ALT ratio was lower in both chronic HCV and non-cirrhotic SVRs patients than in cirrhotic patients (P < 0.00001)."
+          },
+          "core_biological_function": "Indicator of the type and severity of liver damage, often elevated in alcoholic liver disease or advanced cirrhosis/HCC.",
+          "relevant_activity_context": "Comparison among cirrhotic non-malignant patients, HCC patients, SVRs, chronic HCV, and controls; comparison between cirrhotic and non-cirrhotic groups.",
+          "performance_or_health_indicator": "Elevated ratio indicates more severe liver damage, possibly suggestive of cirrhosis or HCC. A lower ratio in non-cirrhotic patients indicates less severe liver disease."
+        },
+        {
+          "biomarker_name": "FIB-4 score",
+          "measured_tissue_or_fluid": "Calculated (from blood markers)",
+          "activity_type": "Score (measurement of liver fibrosis)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly higher in patients with HCC than in non-malignant patients (P < 0.0001)."
+          },
+          "core_biological_function": "Non-invasive assessment of liver fibrosis, calculated using age, AST, ALT, and platelet count.",
+          "relevant_activity_context": "Comparison of HCC patients with non-malignant patients.",
+          "performance_or_health_indicator": "Higher scores indicate more severe liver fibrosis, consistent with HCC."
+        },
+        {
+          "biomarker_name": "Child-Pugh scores",
+          "measured_tissue_or_fluid": "Clinical assessment/calculated",
+          "activity_type": "Score (measurement of liver disease severity)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly higher in patients with HCC than in non-malignant patients (P < 0.0001)."
+          },
+          "core_biological_function": "Clinically assesses the prognosis of chronic liver disease, primarily cirrhosis.",
+          "relevant_activity_context": "Comparison of HCC patients with non-malignant patients.",
+          "performance_or_health_indicator": "Higher scores indicate more severe liver disease and poorer prognosis, consistent with HCC."
+        }
+      ]
+    }
+  }
+]

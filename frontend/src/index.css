@@ -1,0 +1,105 @@
+:root {
+  /* Pastel Palette */
+  --peach: #F8B9B4;
+  --blush: #F6C8D9;
+  --lavender: #C9B4E4;
+  --periwinkle: #A8B5E6;
+  --baby-blue: #A7D4F0;
+
+  /* Semantic Colors mapped to Palette */
+  --primary-color: #8b85c1;
+  /* Darker lavender for text/links */
+  --primary-hover: #726aae;
+  --secondary-color: #F6C8D9;
+  --accent-color: #A7D4F0;
+
+  --bg-color: #fdfbfb;
+  /* Very light warm gray */
+  --surface-color: rgba(255, 255, 255, 0.85);
+
+  --text-primary: #475569;
+  /* Slate 600 - softer than black */
+  --text-secondary: #64748b;
+  /* Slate 500 */
+  --text-light: #94a3b8;
+  /* Slate 400 */
+
+  --border-color: #f1f5f9;
+
+  --shadow-sm: 0 2px 4px 0 rgb(201 180 228 / 0.1);
+  --shadow-md: 0 4px 6px -1px rgb(201 180 228 / 0.2), 0 2px 4px -2px rgb(201 180 228 / 0.1);
+  --shadow-lg: 0 10px 15px -3px rgb(201 180 228 / 0.2), 0 4px 6px -4px rgb(201 180 228 / 0.1);
+
+  --radius-md: 1rem;
+  --radius-lg: 1.5rem;
+  --radius-xl: 2rem;
+
+  /* Silky Gradient */
+  --gradient-silky: linear-gradient(120deg, #F8B9B4 0%, #F6C8D9 25%, #C9B4E4 50%, #A8B5E6 75%, #A7D4F0 100%);
+  --gradient-soft: linear-gradient(to bottom right, #fff1f2, #fdf4ff, #f5f3ff);
+}
+
+body {
+  margin: 0;
+  font-family: 'Outfit', 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--bg-color);
+  color: var(--text-primary);
+  line-height: 1.6;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--text-primary);
+  font-weight: 700;
+  margin-top: 0;
+  letter-spacing: -0.02em;
+}
+
+a {
+  color: var(--primary-color);
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+a:hover {
+  color: var(--primary-hover);
+  text-shadow: 0 0 8px rgba(201, 180, 228, 0.4);
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #e2e8f0;
+  border-radius: 5px;
+  border: 3px solid var(--bg-color);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #cbd5e1;
+}
+
+/* Utilities */
+.glass-panel {
+  background: var(--surface-color);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.8);
+  box-shadow: var(--shadow-sm);
+}
+
+.text-gradient {
+  color: var(--primary-color);
+}

@@ -1,0 +1,317 @@
+pmc
+World J Gastroenterol
+World J Gastroenterol
+WJG
+World Journal of Gastroenterology
+1007-9327
+2219-2840
+Baishideng Publishing Group Inc
+12418004
+jWJG.v31.i33.eid108369
+10.3748/wjg.v31.i33.108369
+108369
+Retrospective Study
+Early postnatal characteristics and differential diagnosis of choledochal cyst and cystic biliary atresia
+Tian Y
+et al
+. Early CC-CBA MLP diagnosis
+Tian
+Yu
+Department of Pediatric Surgery, Capital Center for Children’s Health, Capital Medical University, Capital Institute of Pediatrics, Beijing 100020, China
+Department of Pediatric Surgery, Capital Institute of Pediatrics-Peking University Teaching Hospital, Beijing 100020, China
+Precision Regenerative Medicine Research Centre, Medical Science Division, and State Key Laboratory of Quality Research in Chinese Medicine, Macau University of Science and Technology, Macau 999078, China
+Chen
+Shuai
+Department of Neonatal Surgery, Children’s Hospital Affiliated to Shandong University (Jinan Children’s Hospital), Jinan 250022, Shandong Province, China
+Ji
+Can
+Department of Pediatric Surgery, Capital Institute of Pediatrics-Peking University Teaching Hospital, Beijing 100020, China
+Wang
+Xin-Ping
+Department of Pediatric Surgery, Capital Institute of Pediatrics-Peking University Teaching Hospital, Beijing 100020, China
+Ye
+Mao
+Department of Pediatric Surgery, Capital Center for Children’s Health, Capital Medical University, Capital Institute of Pediatrics, Beijing 100020, China
+Chen
+Xin-Yuan
+Department of Pediatric Surgery, Capital Center for Children’s Health, Capital Medical University, Capital Institute of Pediatrics, Beijing 100020, China
+Luo
+Jian-Feng
+Department of Pediatric Surgery, Capital Center for Children’s Health, Capital Medical University, Capital Institute of Pediatrics, Beijing 100020, China
+Li
+Xu
+Department of Pediatric Surgery, Capital Center for Children’s Health, Capital Medical University, Capital Institute of Pediatrics, Beijing 100020, China
+Research Unit of Minimally Invasive Pediatric Surgery on Diagnosis and Treatment, Chinese Academy of Medical Sciences, Beijing 100020, China
+Li
+Long
+Department of Pediatric Surgery, Capital Center for Children’s Health, Capital Medical University, Capital Institute of Pediatrics, Beijing 100020, China
+Research Unit of Minimally Invasive Pediatric Surgery on Diagnosis and Treatment, Chinese Academy of Medical Sciences, Beijing 100020, China
+Department of Pediatric Surgery, Beijing Tsinghua Changgung Hospital, Beijing 102218, China.
+lilong23@126.com
+Co-first authors: Yu Tian and Shuai Chen.
+Co-corresponding authors: Xu Li and Long Li.
+Author contributions: Tian Y and Chen S contributed equally to this work as co-first authors; Tian Y and Chen S designed the research, collected the data, and wrote the original draft; Ji C and Wang XP performed the data analysis and interpretation; Ye M and Chen XY contributed to methodology and validation; Luo JF conducted statistical analysis; Li X and Li L contributed equally to this work as co-corresponding authors, and were responsible for study conception, supervision, and critical revision of the manuscript; All authors have read and approved the final manuscript to be published and agree to be accountable for all aspects of the work.
+Supported by the Beijing Municipal Science and Technology Commission, No. Z191100006619002; Haiyou Health High-Caliber Talent Project, No. 202412; and the Research Unit of Minimally Invasive Pediatric Surgery on Diagnosis and Treatment, Chinese Academy of Medical Sciences, No. 2021RU015.
+Corresponding author: Long Li, Chief, Chief Physician, Professor, Department of Pediatric Surgery, Capital Center for Children’s Health, Capital Medical University, Capital Institute of Pediatrics, No. 2 Ya Bao Road, Beijing 100020, China.
+lilong23@126.com
+7
+9
+2025
+7
+9
+2025
+31
+33
+108369
+14
+4
+2025
+14
+6
+2025
+5
+8
+2025
+©The Author(s) 2025. Published by Baishideng Publishing Group Inc. All rights reserved.
+2025
+https://creativecommons.org/licenses/by-nc/4.0/
+This article is an open-access article that was selected by an in-house editor and fully peer-reviewed by external reviewers. It is distributed in accordance with the Creative Commons Attribution NonCommercial (CC BY-NC 4.0) license, which permits others to distribute, remix, adapt, build upon this work non-commercially, and license their derivative works on different terms, provided the original work is properly cited and the use is non-commercial. See:
+https://creativecommons.org/Licenses/by-nc/4.0/
+BACKGROUND
+Choledochal cysts (CC) and cystic biliary atresia (CBA) present similarly in early infancy but require different treatment approaches. While CC surgery can be delayed until 3-6 months of age in asymptomatic patients, CBA requires intervention within 60 days to prevent cirrhosis.
+AIM
+To develop a diagnostic model for early differentiation between these conditions.
+METHODS
+A total of 319 patients with hepatic hilar cysts (< 60 days old at surgery) were retrospectively analyzed; these patients were treated at three hospitals between 2011 and 2022. Clinical features including biochemical markers and ultrasonographic measurements were compared between CC (
+n
+= 274) and CBA (
+n
+= 45) groups. Least absolute shrinkage and selection operator regression identified key diagnostic features, and 11 machine learning models were developed and compared.
+RESULTS
+The CBA group showed higher levels of total bile acid, total bilirubin, γ-glutamyl transferase, aspartate aminotransferase, and alanine aminotransferase, and direct bilirubin, while longitudinal diameter of the cysts and transverse diameter of the cysts were larger in the CC group. The multilayer perceptron model demonstrated optimal performance with 95.8% accuracy, 92.9% sensitivity, 96.3% specificity, and an area under the curve of 0.990. Decision curve analysis confirmed its clinical utility. Based on the model, we developed user-friendly diagnostic software for clinical implementation.
+CONCLUSION
+Our machine learning approach differentiates CC from CBA in early infancy using routinely available clinical parameters. Early accurate diagnosis facilitates timely surgical intervention for CBA cases, potentially improving patient outcomes.
+Cystic biliary atresia
+Choledochal cyst
+Combined diagnosis
+Ultrasound
+Early diagnosis
+Core Tip:
+This study developed a multilayer perceptron diagnostic model for early postnatal differentiation between choledochal cysts and cystic biliary atresia (CBA). The model, incorporating selected biochemical markers and ultrasonographic features, demonstrates exceptional diagnostic accuracy (95.8%), an area under the curve of 99.0%, and significant clinical utility. We transformed this model into user-friendly diagnostic software for convenient clinical application, facilitating rapid decision-making that helps prevent delayed surgery in CBA patients. This approach potentially improves long-term outcomes by enabling timely intervention during the critical early postnatal period when distinguishing between these conditions is most challenging but therapeutically crucial.
+INTRODUCTION
+Choledochal cysts (CC) and cystic biliary atresia (CBA) are both common congenital biliary malformations. Although their pathogenesis, treatment, and prognosis vary significantly, their clinical manifestations and imaging characteristics in the early postnatal period are similar, posing significant challenges for differential diagnosis[
+1
+-
+3
+].
+CC, characterized by the localized or diffuse dilation of the common bile duct or its branches, is a congenital biliary dilation which shows a higher incidence in Asian populations, occurring in approximately 1 in 1000 individuals, compared to 1 in 100000-150000 in Western populations[
+4
+,
+5
+]. If CC is diagnosed, surgery can be appropriately postponed[
+6
+]. Biliary atresia (BA) has an incidence of approximately 1.1:10000 to 1.48:10000 in Taiwan and Japan[
+7
+]. CBA, a subtype of BA with extrahepatic cysts, accounts for approximately 10% of BA cases[
+1
+,
+8
+], and is characterized by fibrous occlusive obstruction of the extrahepatic bile duct system, which invades the intrahepatic bile duct, leading to cholestasis, progressive liver fibrosis, and cirrhosis[
+6
+]. Studies have shown that age at the time of surgery is closely related to the prognosis of CBA, with surgery performed within the first 60 days after birth associated with a better prognosis[
+9
+]. However, the optimal timing for surgery for CC remains controversial. Most scholars believe that surgery can be postponed until 3-6 months after birth in asymptomatic patients. As such, misdiagnosis of CBA as CC can delay the optimal time for surgery, potentially leading to progression of cholestatic cirrhosis. This study aims to compare the clinical features of CC and CBA in early infancy and utilizes ultrasound features and biochemical markers to develop multiple machine learning models to attempt early differentiation between these conditions, with the goal of improving diagnosis and prognosis.
+MATERIALS AND METHODS
+Patient selection and study parameters
+This retrospective study enrolled 319 patients with hepatic hilar cysts treated at three hospitals between January 2011 and December 2022. The inclusion criteria were as follows: (1) Age at surgery < 60 days; (2) Complete clinical data; (3) Total bilirubin (TBIL) > 34.2 μmol/L; and (4) Diagnosis of CBA or CC by intraoperative cholangiography. We excluded patients with other diseases that may affect liver function (such as autoimmune liver disease and progressive familial intrahepatic cholestasis), as well as those who did not have preoperative ultrasound information.
+This study adhered to the ethical principles of the Declaration of Helsinki, and was approved by the Ethics Committee of the Capital Institute of Pediatrics (No. SHERLL2022047). The requirement for patient informed consent was waived due to the retrospective study design.
+All biochemical examination data were collected from tests conducted one day before surgery, including total bile acid (TBA), γ-glutamyl transferase (GGT), TBIL, direct bilirubin (DBIL), aspartate aminotransferase (AST), and alanine aminotransferase (ALT). The maximum longitudinal diameter of the cysts (LDC) and the maximum transverse diameter of the cysts (TDC) were measured. To determine the LDC, the distance from the most superior to the most inferior point of the cyst was measured. To determine the TDC, the distance from the left- and right-most points of the cyst was measured (Figure
+1
+). These measurements were taken from ultrasound images captured during the preoperative assessment, which was performed while the patient was fasting. The patients were divided into two groups according to the results of intraoperative cholangiography: The CC and CBA groups. The differences in various indices between the two groups were subsequently compared and analyzed.
+Data processing
+Numerical variables were standardized using
+Z
+-score normalization, transforming the data to follow a standard normal distribution with a mean of 0 and a standard deviation of 1, thereby enhancing model prediction performance. Pearson correlation coefficients were calculated to analyze relationships between initial features. For feature combinations with high correlation (threshold set at 0.9), feature filtering was performed, retaining only one feature from each pair exceeding the threshold to avoid multicollinearity issues. A least absolute shrinkage and selection operator (LASSO) logistic regression (LR) model was implemented, with cross-validation determining the optimal penalty coefficient (Lambda/alpha value). Feature coefficients were evaluated using the lasso_cv_coefs function, and features with non-zero coefficients were selected as the final variable set for model inclusion.
+Dataset splitting and model construction
+The final selected feature set was randomly partitioned into training (70%) and testing (30%) sets. To enhance model robustness, random partitioning was repeated 10 times (
+n
+trials = 10), and the optimal split (achieving the highest evaluation metrics) was utilized for model training and validation.
+Due to the imbalance between the CC and CBA groups in the training dataset, we applied the synthetic minority oversampling technique (SMOTE) to overcome class imbalance and improve the predictive performance of the models. SMOTE generates synthetic samples by interpolating between existing minority class samples, thus increasing the number of minority class samples to match the majority class. In the training dataset, the number of CBA samples was augmented from 31 to 192, matching the number of CC samples. This procedure was performed exclusively on the training set to avoid data leakage, while the testing dataset remained untouched to accurately reflect clinical reality.
+Eleven state-of-the-art machine learning classification algorithms were employed for model construction, including LR, support vector machine (SVM), random forest (RF), extra trees, extreme gradient boosting (XGBoost), light gradient boosting machine (LightGBM), naive Bayes (NB), adaptive boosting (AdaBoost), gradient boosting, multilayer perceptron (MLP), and K-nearest neighbors (KNN). Model performance was quantified using multiple evaluation metrics, including accuracy, receiver operating characteristic (ROC) area under the curve (AUC), negative predictive value, and positive predictive value. Additionally, ROC curves, confusion matrices, and decision curve analysis (DCA) were used to assess the predictive performance and clinical utility of the models.
+All analyses were conducted using the Python, version 3.10 (Python Software Foundation). Machine learning algorithms were implemented through open-source libraries including scikit-learn, XGBoost, and LightGBM. Data manipulation and visualization were performed using pandas, numpy, matplotlib, and seaborn libraries, providing comprehensive frameworks for scientific computing and data visualization.
+Statistical analysis
+The Kolmogorov-Smirnov test was applied to assess the normal distribution of the test data. Variables with a normal distribution are presented as the mean ± SD. Independent
+t
+-tests were used for comparison between the two groups. Non-normally distributed variables are expressed as the median (interquartile range), and the Mann-Whitney
+U
+test was used for comparisons between the two groups. The categorical variables were compared using the
+χ
+2
+test.
+P
+< 0.05 was considered statistically significant. The statistical methods of this study were reviewed by Yu F from Centre for Clinical Research, Faculty of Health, Medicine, and Behavioural Sciences, The University of Queensland.
+RESULTS
+This study enrolled 319 patients with hepatic hilar cysts from three hospitals and divided into two groups: The CBA (45 patients) and CC (274 patients) groups. The clinical characteristics of the patients are shown in Table
+1
+. No significant differences were observed between the two groups in terms of sex, and the age in the CC group was higher than that in the CBA group. The levels of TBA, TBIL, GGT, AST, ALT, and DBIL were significantly higher in the CBA group than in the CC group (Table
+1
+). Ultrasound data revealed that LDC and TDC in the CC group were significantly higher than those of the CBA group (Table
+1
+). AUC value of a single index is shown in Figure
+2
+.
+Feature selection
+For optimal prediction feature identification, LASSO regression was employed with cross-validation to determine the optimal penalty coefficient (
+λ
+). As
+λ
+increased, certain feature coefficients progressively diminished to zero, facilitating effective feature selection. Cross-validation established an optimal
+λ
+value of 0.0010 (Figure
+3A
+). The model at the optimal
+λ
+exhibited minimal and consistent prediction error, indicating robust performance in differentiating CBA from CC (Figure
+3B
+).
+Upon refitting the LASSO model with the optimal
+λ
+(0.0010), seven critical features were identified: GGT, TBA, DBIL, TBIL, ALT, LDC, and TDC. The resultant regression equation was formulated as: Label = 0.49999999999999994 + 0.067599 × GGT + 0.155626 × TBA + 0.134957 × DBIL + 0.018696 × TBIL - 0.044751 × ALT - 0.212238 × LDC + 0.021129 × TDC.
+Analysis of feature weight coefficients revealed negative contributions from LDC, ALT, TDC, and GGT features, contrasted with positive contributions from TBIL, DBIL, and TBA. LDC and TBA demonstrated the highest absolute coefficient magnitudes within the model architecture (Figure
+1
+).
+Model performance comparison
+Based on the seven features (GGT, TBA, DBIL, TBIL, ALT, LDC, TDC) selected by LASSO regression, we further developed 11 common machine learning classification models: LR, SVM, RF, extra trees, XGBoost, LightGBM, NB, AdaBoost, GB, MLP, and KNN. Through 10 rounds of random cross-validation (80% training set, 20% test set), we compared the diagnostic performance of each model (Table
+2
+).
+The MLP model demonstrated excellent performance on the test set, achieving an accuracy of 0.958 and an outstanding AUC of 0.990 (95% confidence interval: 0.9743-1.0000) (Figure
+4A
+), indicating diagnostic capability. The model exhibited a high specificity of 0.963, preventing misdiagnosis of CBA as CC. Moreover, the sensitivity of the MLP model was 0.929, reflecting capability in accurately identifying patients with CBA. Given the serious clinical implications associated with delayed or missed diagnosis of CBA, the high sensitivity of the MLP model aligns particularly well with clinical decision-making needs. After comprehensive evaluation of all metrics as well as consideration of clinical application requirements, the MLP model was identified as the most suitable diagnostic model for clinical implementation.
+Clinical application analysis of the optimal model
+DCA demonstrated that the MLP model provided a higher net clinical benefit across a broad range of threshold probabilities compared to the strategies of “treat all” or “treat none” patients (Figure
+4B
+). The confusion matrix revealed that the MLP model correctly identified all 14 cases of CBA (sensitivity: 100%). Among the 82 cases of CC, 62 were accurately identified, resulting in a specificity of 75.6% (Figure
+4C
+). These results highlight the model’s capability to accurately classify patients.
+The prediction score plot (Figure
+4D
+) visually illustrates the prediction probability of each individual patient, clearly demonstrating the model’s ability to discriminate between CC and CBA cases. Patients predicted with higher positive scores were more likely to have CBA, providing clinicians with intuitive decision support.
+DISCUSSION
+CC and BA are common causes of obstructive jaundice in children. CC is characterized by varying degrees of dilation of the common bile duct, potentially accompanied by dilation of the intrahepatic bile duct[
+10
+]. The guidelines used in Japanese clinical practice for pancreaticobiliary malfunction recommend performing excision of the CC and hepaticojejunostomy as soon as possible in symptomatic children with CC, whereas asymptomatic children can undergo close monitoring of liver function and symptoms, subsequently undergoing selective surgery up to 3 to 6 months after birth[
+11
+]. BA is characterized by inflammation, progressive hepatic fibrosis, and extrahepatic bile duct occlusion[
+12
+]. The prognosis of this disease is closely related to the timing of surgery. Kasai hepatojejunostomy performed within the first 60 days after birth is associated with a better prognosis, whereas delayed surgery can lead to severe liver fibrosis due to prolonged cholestasis, affecting the effectiveness of the operation[
+13
+,
+14
+]. CBA is a subtype of BA with a good prognosis; however, early surgery is required to avoid excessive liver fibrosis, which can result in a poor prognosis. CBA is usually differentiated from CC by ultrasound due to the severe degree of liver fibrosis observed for 6 months after birth[
+15
+]. However, by this time, the opportunity for Kasai surgery for CBA is likely lost due to severe liver injury. In the early postnatal period, CBA and CC can be difficult to distinguish due to the similarities in symptoms and imaging findings. Currently, the gold standard for diagnosis is intraoperative cholangiography, which is challenging to perform preoperatively. If CBA is misdiagnosed as CC, the optimal operating time can be missed, thus complicating treatment decisions.
+Preoperative ultrasonography and liver function indices are commonly used to diagnose BA. Many studies have compared the characteristics of CBA and CC, investigating various indices for the differential diagnosis of CBA and CC[
+2
+,
+16
+-
+19
+]. However, the biochemical indices of CC and the size of the cysts can change with disease progression. Few studies have compared the characteristics of CC and CBA in the early postnatal period, while the diagnostic performance of a single index has usually been low. Machine learning models can capture complex, non-linear relationships between multiple variables that might be missed by traditional statistical approaches, and can assign appropriate weights to different variables based on their predictive importance, thereby maximizing diagnostic accuracy.
+Among the 11 models evaluated, the MLP neural network demonstrated the best overall performance, MLP is a widely implemented artificial neural network algorithm whose architectural design is inspired by biological neural systems. The MLP structure comprises an input layer, one or more hidden layers, and an output layer. During information processing, data propagates forward from the input layer through the hidden layers to the output layer, while simultaneously employing backpropagation algorithms to optimize connection weights and minimize prediction error. With its exceptional non-linear mapping capabilities, MLP demonstrates superior performance in complex classification tasks, particularly in biomedical diagnostic prediction[
+20
+]. A key advantage of MLP lies in its ability to automatically learn intricate interactions between features without requiring researchers to explicitly specify feature interaction patterns. Compared to other machine learning methods evaluated in this study, MLP reduces dependency on preliminary feature engineering and can simultaneously process variables of different scales and types, constructing more precise decision boundaries through automatic development of appropriate internal representations[
+20
+].
+One significant advantage of our approach is the interpretability of the model. Unlike “black box” deep learning systems, our model provides clear feature importance rankings (Figure
+3C
+) that align with clinical understanding of these conditions.
+LDC had the highest absolute coefficient in the model, consistent with the findings reported by Tang
+et al
+[
+21
+], who identified cyst size as the most critical feature for differential diagnosis. However, although cysts of CC typically enlarge over time, they do not grow significantly in the early postnatal period, rendering the size difference between CC and CBA cysts less pronounced. Furthermore, some studies have reported that CBA may be accompanied by large cysts or intrahepatic bile duct dilation[
+8
+,
+22
+,
+23
+]. Guan
+et al
+[
+24
+] found that ultrasonographic measurement of maximal cyst diameter aids in early identification of CBA within the first week after birth, with an initial postnatal ultrasound and first prenatal ultrasound difference < 7.5 mm suggesting a higher likelihood of CBA diagnosis. Our results demonstrate that within the first 60 days of life, CC cysts are already larger than CBA cysts. This finding aligns with previous work by Tanaka
+et al
+[
+18
+] and Shin
+et al
+[
+25
+], who proposed specific cyst diameter thresholds to distinguish these conditions. Tanaka
+et al
+[
+18
+] suggested that cyst diameters < 2.1 cm should be considered indicative of CBA, while Shin
+et al
+[
+25
+] proposed that postnatal cyst diameter ≤ 2.2 cm without a visible distal common bile duct on magnetic resonance imaging (MRI) scans could differentiate CC from CBA. MRI demonstrates superior diagnostic accuracy for differentiating CBA from CC, with gallbladder wall thickness combined with MR-triangular cord thickness or bile duct loop visualization achieving 100% sensitivity and specificity. This imaging-based approach provides objective diagnostic criteria that overcome the limitations of subjective ultrasound interpretation in early infancy[
+26
+]. However, not all hospitals in China perform preoperative MRI imaging. In CC, the wall is weak due to a lack of supporting tissue or an abnormal pancreaticobiliary junction. Intrahepatic bile accumulates in the weak part of the common bile duct, causing it to form an expanding cyst[
+27
+]. In CBA, the intrahepatic bile ducts are hypoplastic with less bile secretion, while the bile ducts are commonly blocked due to fibrotic changes caused by progressive idiopathic inflammation. When the cyst is thicker, the wall of the cyst is thinner, which usually occurs after 20 weeks of pregnancy. At this point, CCs no longer grow[
+1
+], meaning that CC cysts are generally larger than CBA cysts.
+The positive coefficient for TBA in our LASSO model confirms its value as a key discriminatory marker. Tanaka
+et al
+[
+18
+] previously reported that patients with elevated TBA levels should be suspected of having BA. When patients with hilar cysts have a TBA > 111 mol/L, the diagnosis of CBA over CC should be considered. This biochemical pattern reflects the severe cholestasis that characterizes CBA due to complete biliary obstruction and poor development of intrahepatic bile ducts.
+Our finding that GGT, DBIL and TBIL contribute positively toward CBA diagnosis aligns with the more severe cholestatic pattern typically observed in CBA. This supports previous observations that higher bilirubin levels, particularly DBIL, are characteristic of BA[
+28
+]. The pathophysiological basis lies in the complete obstruction of bile flow in CBA, leading to more pronounced cholestasis compared to the partial obstruction often seen in CC.
+Although univariate analysis indicates that ALT levels in the CBA group are higher than those in the CC group, ALT exhibits a negative coefficient in the multivariate LASSO model. The paradoxical negative coefficient for ALT in multivariate model can be explained by the following mechanism: While the CBA group generally exhibits higher ALT levels than the CC group, when ALT levels are comparable between the two groups, the CC group shows significantly lower levels of other cholestatic markers (TBA, DBIL, GGT, TBIL). This reflects different patterns of liver injury in these two conditions: In CBA, ALT elevation is typically accompanied by severe cholestasis with coordinated elevation of all markers; Whereas in CC, ALT may reach levels similar to CBA while other cholestatic markers remain relatively mild. When the LASSO model considers all variables comprehensively, it recognizes this pattern difference: For patients with comparable ALT levels, those with lower cholestatic markers are more likely to have CC, while those with significantly elevated levels across all markers are more likely to have CBA. Therefore, the model assigns a negative coefficient to ALT, effectively using it as an indicator to distinguish between these two different patterns of liver injury after controlling for other strong cholestatic predictors. In contrast, while higher TDC levels are observed in the CC group, they correspond to a positive coefficient in the model. This bidirectional discrepancy underscores the differential performance of biomarkers across distinct analytical dimensions. This phenomenon highlights the advantage of multivariate analysis in capturing complex biomarker interactions and identifying diagnostic patterns that cannot be detected through univariate analysis alone.
+DCA demonstrated that the MLP model provides superior net clinical benefit across a broad range of threshold probabilities compared to the strategies of treating “all” patients or treating “none”. Implementing our diagnostic model could improve clinical decision-making in real-world settings. The confusion matrix analysis revealed that the MLP model correctly identified all 14 cases of BA in the test set (100% sensitivity), a crucial achievement given the serious consequences of missed CBA diagnoses.
+To facilitate the clinical application of the MLP model and assist clinicians in making decisions, we developed an interactive software based on the MLP model. The software interface is user-friendly, enabling clinicians to input seven routine clinical parameters (GGT, TBA, DBIL, TBIL, ALT, LDC, and TDC). Upon input, the software immediately returns the diagnostic prediction result, distinguishing between CBA and CC, emphasizing that even high-confidence predictions should be considered alongside other clinical indicators. This software may provide efficient and accurate decision-making support in clinical practice, potentially enhancing diagnostic efficiency and accuracy for CBA and CC (Figure
+5
+and
+Supplementary material
+).
+Despite the promising results, our study has several limitations. The class imbalance between CC and CBA cases, although addressed through SMOTE in the training process, reflects the natural prevalence of these conditions but may impact model robustness. While our cross-validation approach helps mitigate this concern, validation in an independent cohort would strengthen confidence in the model’s generalizability. Future research should focus on prospective validation of our diagnostic model across multiple centers and patient populations. Implementation studies evaluating the impact of the software tool on clinical decision-making, surgical timing, and ultimately patient outcomes would provide valuable insights into its real-world utility.
+CONCLUSION
+The MLP model achieves outstanding diagnostic metrics while maintaining interpretability through feature importance analysis. The implementation of this model may improve early diagnosis of CBA and support surgical decision-making. By combining the strengths of machine learning with clinical expertise, this approach offers a solution to a diagnostic dilemma in pediatric hepatobiliary disease.
+Institutional review board statement:
+This study was approved by the Ethics Committee of the Capital Institute of Pediatrics (No. SHERLL2022047).
+Informed consent statement:
+The requirement for patient informed consent was waived due to the retrospective study design.
+Conflict-of-interest statement:
+The authors declare that they have no conflict of interest.
+Provenance and peer review:
+Invited article; Externally peer reviewed.
+Peer-review model:
+Single blind
+Specialty type:
+Gastroenterology and hepatology
+Country of origin:
+China
+Peer-review report’s classification
+Scientific Quality:
+Grade B, Grade B
+Novelty:
+Grade B, Grade B
+Creativity or Innovation:
+Grade B, Grade C
+Scientific Significance:
+Grade B, Grade B
+P-Reviewer:
+Gupta R, MD, Assistant Professor, India; Yan J, Chief Physician, China
+S-Editor:
+Fan M
+L-Editor:
+A
+P-Editor:
+Yu HG
+Data sharing statement
+Technical appendix, statistical code, and dataset available from the corresponding author at
+lilong23@126.com
+.

@@ -1,0 +1,196 @@
+[
+  {
+    "title": "pmc Blood Adv Blood Adv bloodoa Blood Advances Blood Advances 2473-9529 2473-9537 American Society of Hematology Washington, DC 9043932 35192680 2022/ADV2021006152 10.1182/bloodadvances.2021006152 24 20 Lymphoid Neoplasia Genome-wide CRISPR/Cas9 screening identifies determinant of panobinostat sensitivity in acute lymphoblastic leukemia Jiang Chuang 1 3 https://orcid.org/0000-0003-2889-546X Qian Maoxiang 4 Gocho Yoshihiro 2 Yang Wentao 2 Du Guoqing 2 Shen Shuhong 1 Yang Jun J. 2 https://orcid.org/0000-0001-8791-5753 Zhang Hui 1 1 Department of Hematology and Oncology, Shanghai Children\u2019s Medical Center, Shanghai Jiao Tong University School of Medicine, Shanghai, China; 2 Department of Pharmaceutical Sciences, St. Jude Children's Research Hospital, Memphis, TN; 3 Bioland Laboratory, Guangzhou Regenerative Medicine and Health Guangdong Laboratory, Guangzhou, China; and 4 Institute of Pediatrics and Department of Hematology and Oncology, Children\u2019s Hospital of Fudan University, and the Shanghai Key Laboratory of Medical Epigenetics, International Co-laboratory of Medical Epigenetics and Metabolism (Ministry of Science and Technology), Institutes of Biomedical Sciences, Fudan University, Shanghai, China The raw sequence of RNA-seq data reported in this paper have been deposited in the Genome Sequence in National Genomics Data Center, China National Center for Bioinformation/Beijing Institute of Genomics, Chinese Academy of Sciences ( https://ngdc.cncb.ac.cn/gsa-human , accession number HRA001017). Please contact the corresponding author for other data sharing concerns at zhang-hui@scmc.com.cn . Correspondence: Jun J. Yang, Department of Pharmaceutical Sciences, St Jude Children\u2019s Research Hospital, MS313, 262 Danny Thomas Pl, Memphis, TN 38105; e-mail: jun.yang@stjude.org ; and Hui Zhang, Department of Hematology & Oncology, Shanghai Children\u2019s Medical Center, Shanghai Jiao Tong University School of Medicine, 1678 Dongfang Rd, Shanghai 200127, China; e-mail: zhang-hui@scmc.com.cn . 26 4 2022 18 4 2022 6 8 2496 2509 24 9 2021 08 2 2022 22 2 2022 \u00a9 2022 by The American Society of Hematology. Licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) , permitting only noncommercial, nonderivative use with attribution. All other rights reserved. 2022 https://creativecommons.org/licenses/by-nc-nd/4.0/ Key Points Genome-wide CRISPR/Cas9 screening in the ALL cell line identified mitochondrial activity as the driver of panobinostat resistance. SIRT1 expression sensitized ALL to panobinostat through activating mitochondrial activity and the mitochondria-related apoptosis pathway. Visual Abstract Abstract Epigenetic alterations, including histone acetylation, contribute to the malignant transformation of hematopoietic cells and disease progression, as well as the emergence of chemotherapy resistance. Targeting histone acetylation provides new strategies for the treatment of cancers. As a pan-histone deacetylase inhibitor, panobinostat has been approved by the US Food and Drug Administration for the treatment of multiple myeloma and has shown promising antileukemia effects in acute lymphoblastic leukemia (ALL). However, the underlying drug resistance mechanism in ALL remains largely unknown. Using genome-wide Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR)/CRISPR-associated (Cas)9 (CRISPR/Cas9) screening, we identified mitochondrial activity as the driver of panobinostat resistance in ALL. Mechanistically, ectopic SIRT1 expression activated mitochondrial activity and sensitized ALL to panobinostat through activating mitochondria-related apoptosis pathway. Meanwhile, the transcription level of SIRT1 was significantly associated with panobinostat sensitivity across diverse tumor types and thus could be a potential biomarker of panobinostat response in cancers. Our data suggest that patients with higher SIRT1 expression in cancer cells might benefit from panobinostat treatment, supporting the implementation of combinatorial therapy with SIRT1 or mitochondrial activators to overcome panobinostat resistance. Introduction Acute lymphoblastic leukemia (ALL) is the most prevalent malignant disease in children. 1 Long-term prognosis in children with ALL has dramatically improved in recent decades, with the 5-year event-free survival rate approaching 90%. 2 The success of ALL treatment is mainly attributed to refinement of therapy based on a better understanding of clinical and biological characteristics of the disease. However, small subsets of patients who experienced drug resistance would relapse with a dismal prognosis, and thus novel treatment strategies are needed. 3 Advances in high-throughput multi-omics have further provided insights into the underlying molecular mechanisms of ALL and drug resistance. Growing evidence has shown that many genetic and epigenetic factors are associated with drug response and ALL relapse. 4,5 In recent years, novel epigenetic modulation agents (eg, azacytidine, decitabine, and vorinostat) are promising in clinical efficacy. 6-10 For example, DNA methyltransferase inhibitors (eg, 5-azacitidine), which can remove promoter hypermethylation in tumor cells and restore the gene expression signature, have achieved significant progress in the treatment of myeloid leukemia and myelodysplastic syndrome. 6,7 Furthermore, histone deacetylase (HDAC) inhibitors such as vorinostat and panobinostat have been approved in clinical use for the treatment of cutaneous T-cell lymphoma and multiple myeloma. 9-11 HDACs regulate chromatin structure and function by removing acetyl residues from the core histones. 5 Deregulation of HDAC activity has been closely implicated in the silencing of differentiation and tumor suppressor genes, resulting in the promotion of oncogenesis, particularly leukemia. 12,13 Interestingly, targeting HADCs has demonstrated potent antitumor activity in preclinical models and promising clinical efficacy in patients with cancer (eg, multiple myeloma and T-cell lymphoma). 14,15 Panobinostat is a pan-HDAC inhibitor and has exerted promising cytotoxic activities against different cancer cells, including ALL. 16-19 Garrido Castro et al 18 demonstrated that panobinostat exerted antileukemia activity in a B-cell acute lymphoblastic leukemia (B-ALL) xenograft mouse model. Meanwhile, many clinical trials are ongoing to evaluate its therapeutic value against ALL. 20,21 Although panobinostat is a promising antileukemia agent, the efforts to maximize its clinical benefit for acute leukemia will not succeed unless more details are known about its subtype specificity, functional mechanisms, and resistance mechanisms. In the present study, we performed a genome-wide Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR)/CRISPR-associated (Cas)9 (CRISPR/Cas9) loss-of-function screening in B-ALL cells in the presence or absence of panobinostat to discover the molecule mechanism of its action and resistance.",
+    "document_source_id": "35192680",
+    "analysis_date": "2025-12-10",
+    "extracted_data": {
+      "document_summary": "This study utilized genome-wide CRISPR/Cas9 screening in acute lymphoblastic leukemia (ALL) cells, primarily Nalm6 B-ALL, to elucidate the molecular mechanisms of panobinostat resistance and action. Key findings reveal mitochondrial activity as a driver of panobinostat resistance and SIRT1 expression as a critical determinant of sensitivity. Panobinostat treatment abrogates mitochondrial activity in ALL cells, contributing to resistance, while enhancing mitochondrial function (via rosiglitazone or SIRT1 overexpression) sensitizes ALL cells to panobinostat by activating the mitochondrial apoptosis pathway. The investigation identifies the SIRT1-mitochondria-PMAIP1 pathway as central to panobinostat response and suggests that higher SIRT1 expression or mitochondrial hyperactivity could indicate patient benefit from panobinostat therapy. The study also details various methods used, including cell culture, gene modulation techniques, drug sensitivity assays, RNA sequencing, Western blotting, and flow cytometry.",
+      "treatment_details": {
+        "therapy_type": "The study primarily investigated Panobinostat, a pan-histone deacetylase (HDAC) inhibitor, often in combination with genome-wide CRISPR/Cas9 knockout screening or SIRT1 modulation. Other HDAC inhibitors (chidamide, vorinostat) and conventional chemotherapeutic agents (l-asparaginase, cytarabine, 6-mecaptopurine, vincristine, dexamethasone, daunorubicin) were mentioned for comparative or contextual analysis. Rosiglitazone, a PPAR\b\b\b\u03b3 activator, was used to stimulate mitochondrial biogenesis and enhance panobinostat sensitivity.",
+        "dose_specificity": "Panobinostat was frequently used at 10 nM for durations of 24 hours (for RNA sequencing, combination treatments) or 14 days (for CRISPR screening), leading to 60-80% cell death and significant proliferation inhibition in Nalm6 cells. Gradient concentrations were employed for drug sensitivity assays. Rosiglitazone was administered at 31.25 \u00b5M for 24 or 48 hours. Dose-response comparisons for panobinostat sensitivity were analyzed using Sanger GDSC1 IC50 data across 576 diverse cancer cell lines. No specific doses or dose-response comparisons were consistently reported for other HDAC inhibitors or conventional chemotherapeutic agents."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "Mitochondrial activity (including oxidative phosphorylation, pyruvate metabolism, TCA cycle, thermogenesis)",
+          "measured_tissue_or_fluid": "ALL cell line (Nalm6, SEM, REH, KOPN8)",
+          "activity_type": "Activity level, Gene Transcript (RNA-seq, GSEA), Functional activity (implied by ROS/MMP, pathway enrichment), Cellular activity / Metabolic pathway activation",
+          "measured_effect": {
+            "direction_of_change": "higher (driver of panobinostat resistance), decreased (by panobinostat), increased (by rosiglitazone or SIRT1 overexpression), decreased (by SIRT1 disturbance), significantly enriched (in CRISPR/Cas9 screening for resistance), enhanced/stimulated/activated (by rosiglitazone), positively enriched (by SIRT1 overexpression), negatively enriched (by SIRT1 disturbance)",
+            "magnitude_quantification": "Identified as the driver of panobinostat resistance. Genes associated with mitochondrial activity were 'significantly decreased' under panobinostat treatment (GSEA). Rosiglitazone 'elevated ROS levels and MMP' and 'stimulated mitochondrial biogenesis and activate OXPHOS', showing a 'synergetic effect'. SIRT1 overexpression (OE) 'significantly increased the MMP' and showed 'positive enrichment' of oxidative phosphorylation genes; SIRT1 disturbance 'significantly decreased the MMP' and showed 'negative enrichment' of oxidative phosphorylation genes. Significantly enriched in thermogenesis, oxidative phosphorylation (OXPHOS), and mitochondrial-related processes (P < .05) among significantly enriched and positively selected genes at day 14 during panobinostat treatment."
+          },
+          "core_biological_function": "Cellular energy metabolism, apoptosis regulation, cellular respiration, ATP production, cellular heat production, central role in apoptotic cell death induced by anticancer agents, production of new mitochondria, a key determinant of drug response.",
+          "relevant_activity_context": "Panobinostat resistance/exposure in ALL cells, rosiglitazone treatment, SIRT1 overexpression/disturbance in ALL cells, adaptive evolution of the transcriptome under panobinostat exposure, CRISPR/Cas9 screening.",
+          "performance_or_health_indicator": "Indicates panobinostat resistance; targeting it could overcome resistance. Decreased activity contributes to resistance, allowing ALL cells to escape cell death. Enhanced activity sensitizes ALL cells to panobinostat. Mitochondrial-related processes contribute to panobinostat resistance. Activating mitochondrial function can enhance chemosensitivity and overcome resistance."
+        },
+        {
+          "biomarker_name": "SIRT1",
+          "measured_tissue_or_fluid": "ALL cells (Nalm6, REH, 697, UOCB1 cell lines), diverse tumor types, patient ALL samples (reanalyzed from St. Jude Cloud), diverse cancer cell lines (DepMap database)",
+          "activity_type": "Gene Transcript / Protein Level, CRISPR/Cas9 screening, Gene expression (RNA-seq, qPCR), TMRM staining (MMP), Annexin-V staining (apoptosis), Drug sensitivity assay, Western blot (cleaved PARP), Correlation analysis with IC50",
+          "measured_effect": {
+            "direction_of_change": "higher (sensitized ALL to panobinostat), positively selected (CRISPR/Cas9), overexpression increases mitochondrial activity, panobinostat sensitivity, apoptosis, PMAIP1, and cleaved PARP; disturbance decreases mitochondrial activity, causes panobinostat resistance, decreases apoptosis and PMAIP1; expression negatively correlated with panobinostat sensitivity; higher expression correlated with lower sensitivity",
+            "magnitude_quantification": "SIRT1 expression sensitized ALL to panobinostat through activating mitochondrial activity and the mitochondria-related apoptosis pathway. Transcription level significantly associated with panobinostat sensitivity. Among top hits/positively selected genes in CRISPR/Cas9 screening. Disturbing expression conferred significant resistance to panobinostat. SIRT1 OE 'significantly increased the MMP' and showed 'positive enrichment' of OXPHOS genes; 'increased sensitivity' to panobinostat; exhibited the 'highest proportion of apoptosis'; combined with panobinostat 'increased the expression of PMAIP1' and led to 'dramatic upregulation' of PMAIP1 and Cleaved PARP. Disturbing SIRT1 'significantly decreased the MMP' and showed 'negative enrichment' of OXPHOS genes, 'resulted in panobinostat resistance', and cells exhibited the 'lowest proportion of apoptosis', with 'lowest expression of PMAIP1' and 'modest effect' on PMAIP1 by panobinostat. SIRT1 expression and panobinostat sensitivity (IC50) showed a 'significantly negative correlation (P = .02, N = 576)' and (P < .05, N = 571). Patients with MEF2D-rearrangement, ZNF-rearrangement, hyperdiploid, mixed-lineage leukemia gene rearrangement, and TCF3-PBX1 ALL showed relatively higher expression; Patients with ETV6-RUNX1 and BCR-ABL1 fusion genes showed relatively lower expression."
+          },
+          "core_biological_function": "Regulates mitochondrial activity, involved in mitochondria-related apoptosis pathway, epigenetic regulation, belongs to the Class III HDAC family; deacetylates both histone and nonhistone proteins; involved in acetylation modification, NAD+-dependent protein deacetylase, involved in aging, metabolic disorders, cancer progression, oxidative stress inhibition, P53 inactivation, MYC activation, and mitochondrial biogenesis (via PGC1-1\u03b1 deacetylation).",
+          "relevant_activity_context": "Panobinostat sensitivity in ALL and diverse tumor types; modulation of panobinostat sensitivity in ALL cells; identified through CRISPR/Cas9 screening; response to panobinostat and other HDAC inhibitors in ALL; panobinostat therapy in ALL; SIRT1 disturbing in Nalm6 cell line, association analysis across cancer cell lines, mitochondrial activity enhancement.",
+          "performance_or_health_indicator": "Potential biomarker for panobinostat response; higher expression indicates benefit from panobinostat treatment and supports combinatorial therapy with SIRT1 or mitochondrial activators. Knockout/disturbed expression conferred significant resistance to panobinostat, suggesting its role in panobinostat sensitivity. High SIRT1 expression sensitizes ALL cells to panobinostat and increases apoptosis; disturbance leads to panobinostat resistance. SIRT1 expression could be an indicator of panobinostat sensitivity across diverse cancer types. Determinant of ALL response to panobinostat, influencing panobinostat sensitivity, a potential target for sensitizing tumor cells to panobinostat therapy. Higher SIRT1 expression is associated with increased sensitivity and potential benefit from panobinostat therapy in ALL patients, particularly in subtypes like mixed-lineage leukemia-rearranged ALL."
+        },
+        {
+          "biomarker_name": "HDAC1",
+          "measured_tissue_or_fluid": "Nalm6 B-ALL cell line, ALL cells (RNA-seq data)",
+          "activity_type": "Gene knockout (CRISPR/Cas9 screening), Gene Expression",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Listed in the positively selected genes (supplemental Figure 1B; supplemental Tables 1 and 2). 'HDAC1 ... are highly expressed' in ALL; deletion 'confer the greatest resistance' and cells 'would outgrow all other clones eventually' (implied for HDAC1 deletion in CRISPR screen)."
+          },
+          "core_biological_function": "Histone deacetylase coding gene, Class I histone deacetylase (HDAC), involved in epigenetic modification, pathogenesis and progression of leukemia, targeted by panobinostat.",
+          "relevant_activity_context": "Genome-wide CRISPR/Cas9 knockout screening during 14-day panobinostat treatment (10 nM). Panobinostat resistance in ALL, CRISPR/Cas9 screening.",
+          "performance_or_health_indicator": "Knockout of HDAC1 conferred resistance to panobinostat, validating the CRISPR screening. Highly expressed HDAC gene in ALL, deletion of which strongly influences drug resistance, thus its presence or activity contributes to resistance."
+        },
+        {
+          "biomarker_name": "BAK1",
+          "measured_tissue_or_fluid": "Nalm6 B-ALL cell line",
+          "activity_type": "Gene knockout (CRISPR/Cas9 screening) and gene expression disturbance (MTT assay)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Among the top 10 positively selected genes (Figure 1B; supplemental Figure 2A-B); disturbing expression conferred significant resistance to panobinostat (Figure 1C-H)."
+          },
+          "core_biological_function": "Involved in activating mitochondria-dependent apoptosis pathways",
+          "relevant_activity_context": "Genome-wide CRISPR/Cas9 knockout screening during 14-day panobinostat treatment (10 nM), validated by MTT assays.",
+          "performance_or_health_indicator": "Loss of function (knockout or disturbed expression) conferred apoptosis resistance and significant resistance to panobinostat."
+        },
+        {
+          "biomarker_name": "PMAIP1 (Phorbol-12-myristate-13-acetate-induced protein 1)",
+          "measured_tissue_or_fluid": "Nalm6 B-ALL cell line, ALL cell lines, SIRT1-overexpressed and SIRT1 knockout ALL cells",
+          "activity_type": "Gene knockout (CRISPR/Cas9 screening) and gene expression disturbance (MTT assay), Gene expression (RNA-seq, qPCR), Protein level (Western blot), Pathway involvement",
+          "measured_effect": {
+            "direction_of_change": "higher (in CRISPR/Cas9); increased (by SIRT1 overexpression + panobinostat); decreased (by SIRT1 disturbance + panobinostat); identified as a determinant; elevation",
+            "magnitude_quantification": "Among the top 10 positively selected genes (Figure 1B; supplemental Figure 2A-B); disturbing expression conferred significant resistance to panobinostat (Figure 1C-H). SIRT1 overexpression combined with panobinostat treatment 'increased the expression of PMAIP1'. SIRT1 OE cells exhibited the 'highest expression of PMAIP1' and SIRT1 disturbed cells exhibited the 'lowest expression of PMAIP1' (qPCR). Western blot showed panobinostat had a 'modest effect on PMAIP1 in SIRT1 disturbed cells' and led to a 'dramatic upregulation' in SIRT1 overexpression cells. Knockout of PMAIP1 'conferred panobinostat resistance'. Identified as a determinant of ALL response to panobinostat as part of the SIRT1-mitochondria-PMAIP1 pathway. 'More significant elevation of PMAIP1 in SIRT1-overexpressed cells than SIRT1 knockout cells on panobinostat exposure'."
+          },
+          "core_biological_function": "Involved in activating mitochondria-dependent apoptosis pathways, proapoptotic protein in the mitochondrial apoptosis pathway, promotes cell death, a component of the SIRT1-mitochondria-PMAIP1 pathway.",
+          "relevant_activity_context": "Genome-wide CRISPR/Cas9 knockout screening during 14-day panobinostat treatment (10 nM), validated by MTT assays. Panobinostat-induced cell death, modulated by SIRT1 expression in ALL cells. Sensitivity of ALL to panobinostat; in vitro ALL cell lines assays. Panobinostat exposure, SIRT1 overexpression.",
+          "performance_or_health_indicator": "Loss of function (knockout or disturbed expression) conferred apoptosis resistance and significant resistance to panobinostat. Higher expression contributes to increased apoptosis and panobinostat sensitivity; its knockout confers panobinostat resistance. Identified as a determinant of panobinostat sensitivity in ALL, indicating its crucial role in therapeutic response. Important component of the SIRT1-mitochondria-PMAIP1 axis, contributing to the sensitivity of ALL to panobinostat."
+        },
+        {
+          "biomarker_name": "ACLY",
+          "measured_tissue_or_fluid": "Nalm6 B-ALL cell line",
+          "activity_type": "Gene knockout (CRISPR/Cas9 screening)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Among the top hits (Figure 1B; supplemental Figure 2C-F); disturbing expression had no effect in validation (Figure 1C-H)."
+          },
+          "core_biological_function": "Transferase catalyzing conversion of citrate and coenzyme A to acetyl-CoA, providing a source for protein acetylation, especially histone modification; involved in acetylation modification.",
+          "relevant_activity_context": "Genome-wide CRISPR/Cas9 knockout screening during 14-day panobinostat treatment (10 nM).",
+          "performance_or_health_indicator": "Identified as a potential regulator of panobinostat resistance in CRISPR screening, but direct disturbed expression did not confer resistance in validation."
+        },
+        {
+          "biomarker_name": "CREBBP",
+          "measured_tissue_or_fluid": "Nalm6 B-ALL cell line",
+          "activity_type": "Gene knockout (CRISPR/Cas9 screening)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Among the top hits (Figure 1B; supplemental Figure 2C-F); disturbing expression had no effect in validation (Figure 1C-H)."
+          },
+          "core_biological_function": "Encodes histone acetyltransferase that acetylates both histone and nonhistone proteins; involved in acetylation modification.",
+          "relevant_activity_context": "Genome-wide CRISPR/Cas9 knockout screening during 14-day panobinostat treatment (10 nM).",
+          "performance_or_health_indicator": "Identified as a potential regulator of panobinostat resistance in CRISPR screening, but direct disturbed expression did not confer resistance in validation."
+        },
+        {
+          "biomarker_name": "KAT7",
+          "measured_tissue_or_fluid": "Nalm6 B-ALL cell line",
+          "activity_type": "Gene knockout (CRISPR/Cas9 screening)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Among the top hits (Figure 1B; supplemental Figure 2C-F); disturbing expression had no effect in validation (Figure 1C-H)."
+          },
+          "core_biological_function": "Lysine acetyltransferase; involved in acetylation modification.",
+          "relevant_activity_context": "Genome-wide CRISPR/Cas9 knockout screening during 14-day panobinostat treatment (10 nM).",
+          "performance_or_health_indicator": "Identified as a potential regulator of panobinostat resistance in CRISPR screening, but direct disturbed expression did not confer resistance in validation."
+        },
+        {
+          "biomarker_name": "p53 signaling pathway",
+          "measured_tissue_or_fluid": "Nalm6 B-ALL cell line",
+          "activity_type": "Pathway enrichment analysis (KEGG pathway analysis)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly enriched (P < .05; Figure 2B) in positively selected genes at day 14."
+          },
+          "core_biological_function": "Cell signaling pathway involved in sensitivity to panobinostat.",
+          "relevant_activity_context": "KEGG pathway analysis of genes positively selected during 14-day panobinostat treatment (10 nM) via CRISPR screening.",
+          "performance_or_health_indicator": "Defects in the p53 signaling pathway conferred panobinostat resistance."
+        },
+        {
+          "biomarker_name": "Histone acetylation modification",
+          "measured_tissue_or_fluid": "ALL cells (SEM, REH, KOPN8)",
+          "activity_type": "Gene Differential Expression Analysis (RNA-seq), GO biological process analysis",
+          "measured_effect": {
+            "direction_of_change": "enriched",
+            "magnitude_quantification": "Strong enrichment for histone acetylation modification among 1183 common differentially expressed genes (adjusted P < .05) after panobinostat treatment."
+          },
+          "core_biological_function": "Epigenetic regulation of gene expression, involved in chromatin structure modulation.",
+          "relevant_activity_context": "Panobinostat exposure in ALL cells.",
+          "performance_or_health_indicator": "Linked to the mechanism of panobinostat action and resistance in ALL cells."
+        },
+        {
+          "biomarker_name": "ROS (Reactive Oxygen Species)",
+          "measured_tissue_or_fluid": "Nalm6 cells",
+          "activity_type": "Concentration (staining with DCFH-DA)",
+          "measured_effect": {
+            "direction_of_change": "lower (by panobinostat); elevated (by rosiglitazone)",
+            "magnitude_quantification": "'Significantly lower ROS levels in Nalm6 cells treated with 10 nM panobinostat compared with control'; Rosiglitazone 'elevated ROS levels'."
+          },
+          "core_biological_function": "Cellular signaling, oxidative stress, byproduct of OXPHOS activity.",
+          "relevant_activity_context": "Panobinostat exposure, rosiglitazone treatment in ALL cells.",
+          "performance_or_health_indicator": "Indicator of mitochondrial OXPHOS activity; lower levels confirm reduced OXPHOS under panobinostat treatment, while elevated levels confirm activation by rosiglitazone."
+        },
+        {
+          "biomarker_name": "MMP (Mitochondrial Membrane Potential)",
+          "measured_tissue_or_fluid": "Nalm6 cells",
+          "activity_type": "Measurement (TMRM staining)",
+          "measured_effect": {
+            "direction_of_change": "elevated (by rosiglitazone); significantly decreased (by SIRT1 disturbance); significantly increased (by SIRT1 overexpression)",
+            "magnitude_quantification": "Rosiglitazone 'elevated ROS levels and MMP'; Disturbing SIRT1 expression 'significantly decreased the MMP', whereas SIRT1 OE 'significantly increased the MMP'."
+          },
+          "core_biological_function": "Indicator of mitochondrial health and function, critical for ATP synthesis and apoptosis pathway regulation.",
+          "relevant_activity_context": "Rosiglitazone treatment, SIRT1 overexpression/disturbance in ALL cells.",
+          "performance_or_health_indicator": "Validates activation role on mitochondrial activity (rosiglitazone); demonstrates positive role of SIRT1 on mitochondrial activity in ALL."
+        },
+        {
+          "biomarker_name": "POLG, GABPA, TFB1M (genes positively regulating mitochondrial biogenesis)",
+          "measured_tissue_or_fluid": "Diverse cancer cell lines (public data from Depmap Portal), Nalm6 cells",
+          "activity_type": "Gene expression (RNA-seq), CRISPR/Cas9 screening, Correlation analysis with IC50",
+          "measured_effect": {
+            "direction_of_change": "downregulated (by panobinostat); significantly enriched (in CRISPR/Cas9 screening for resistance); negatively correlated with panobinostat sensitivity",
+            "magnitude_quantification": "'Several key genes that positively regulate mitochondria biogenesis were also downregulated after panobinostat treatment'; 'Significantly enriched in CRISPR/Cas9 screening (P < .05)'; Panobinostat sensitivity (Sanger GDSC1 IC50) was 'significantly negatively correlated' with the expression of these 3 genes (P < .05, N = 576)."
+          },
+          "core_biological_function": "Positive regulation of mitochondrial biogenesis.",
+          "relevant_activity_context": "Panobinostat exposure, CRISPR/Cas9 screening for panobinostat resistance, analysis in diverse cancer cell lines.",
+          "performance_or_health_indicator": "Downregulation contributes to panobinostat resistance; higher expression of these genes is associated with panobinostat resistance."
+        },
+        {
+          "biomarker_name": "Apoptosis (cell death)",
+          "measured_tissue_or_fluid": "Nalm6 cells, REH cells, SEM cells",
+          "activity_type": "Annexin-V staining, MTT assay (cell viability)",
+          "measured_effect": {
+            "direction_of_change": "increased (by rosiglitazone + panobinostat); increased (by SIRT1 overexpression + panobinostat); decreased (by SIRT1 disturbance + panobinostat)",
+            "magnitude_quantification": "Rosiglitazone combined with panobinostat 'led to more apoptosis than control or either drug alone'; in REH cells, combination resulted in 'more cell death than that what was achieved by either drug alone (13.72% and 1.78%, respectively) or the addition of the 2 (28.93%)'. SIRT1 OE cells exhibited the 'highest proportion of apoptosis', whereas SIRT1 disturbed cells exhibited the 'lowest proportion of apoptosis' compared to control cells when treated with panobinostat."
+          },
+          "core_biological_function": "Programmed cell death, a critical mechanism for eliminating cancer cells.",
+          "relevant_activity_context": "Combined treatment of rosiglitazone and panobinostat, or panobinostat treatment with modulated SIRT1 expression in ALL cells.",
+          "performance_or_health_indicator": "Increased apoptosis indicates enhanced therapeutic efficacy and overcoming panobinostat resistance in ALL cells."
+        },
+        {
+          "biomarker_name": "Cleaved PARP (Poly(ADP-ribose) polymerase)",
+          "measured_tissue_or_fluid": "Nalm6 cells",
+          "activity_type": "Protein level (Western blot)",
+          "measured_effect": {
+            "direction_of_change": "increased (by SIRT1 overexpression + panobinostat); modest effect (by SIRT1 disturbance + panobinostat)",
+            "magnitude_quantification": "'Cleaved PARP was expressed in the same pattern as PMAIP1 on panobinostat treatment', indicating dramatic upregulation in SIRT1 OE cells and modest effect in SIRT1 disturbed cells when treated with panobinostat."
+          },
+          "core_biological_function": "Master regulator of apoptosis, its cleavage indicates activation of programmed cell death.",
+          "relevant_activity_context": "Panobinostat-induced cell death, modulated by SIRT1 expression in ALL cells.",
+          "performance_or_health_indicator": "Higher levels indicate increased apoptosis and panobinostat sensitivity."
+        }
+      ]
+    }
+  }
+]

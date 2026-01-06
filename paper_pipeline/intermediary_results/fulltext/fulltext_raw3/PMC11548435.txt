@@ -1,0 +1,817 @@
+pmc
+Sensors (Basel)
+Sensors (Basel)
+sensors
+Sensors (Basel, Switzerland)
+1424-8220
+MDPI
+11548435
+10.3390/s24216862
+sensors-24-06862
+Systematic Review
+The Role of Biomarkers in Monitoring Chronic Fatigue Among Male Professional Team Athletes: A Systematic Review
+https://orcid.org/0000-0003-0688-1796
+Soler-López
+Alejandro
+1
+2
+*
+https://orcid.org/0000-0002-7301-0619
+Moreno-Villanueva
+Adrián
+2
+3
+https://orcid.org/0000-0002-4084-8124
+Gómez-Carmona
+Carlos D.
+2
+4
+5
+*
+https://orcid.org/0000-0002-9091-0897
+Pino-Ortega
+José
+1
+2
+Rusling
+James F.
+Academic Editor
+1
+Department of Physical Activity and Sport, Faculty of Sport Sciences, University of Murcia, 30720 San Javier, Spain;
+josepinoortega@um.es
+2
+BioVetMed & SportSci Research Group, University of Murcia, 30100 Murcia, Spain;
+adrian.moreno@ui1.es
+3
+Faculty of Health Sciences, Isabel I University, 09003 Burgos, Spain
+4
+Research Group in Optimization of Training and Sports Performance (GOERD), Department of Didactics of Music Plastic and Body Expression, Faculty of Sport Science, University of Extremadura, 10003 Caceres, Spain
+5
+Department of Music, Plastic and Body Expression, Faculty of Human and Social Sciences, University of Zaragoza, 44003 Teruel, Spain
+*
+Correspondence:
+a.solerlopez@um.es
+(A.S.-L.);
+carlosdavid.gomez@um.es
+(C.D.G.-C.)
+25
+10
+2024
+11
+2024
+24
+21
+6862
+26
+9
+2024
+16
+10
+2024
+18
+10
+2024
+© 2024 by the authors.
+2024
+https://creativecommons.org/licenses/by/4.0/
+Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (
+https://creativecommons.org/licenses/by/4.0/
+).
+This systematic review synthesizes evidence on biomarker responses to physiological loads in professional male team sport athletes, providing insights into induced fatigue states. Structured searches across major databases yielded 28 studies examining various biomarkers in elite team sport players. Studies evaluated muscle damage markers, anabolic/catabolic hormones reflecting metabolic strain, inflammatory markers indicating immune activity and tissue damage, immunological markers tied to infection risk, and oxidative stress markers showing redox imbalances from excessive physiological load. Responses were examined in official matches and training across competitive seasons. The evidence shows that professional team sports induce significant alterations in all studied biomarkers, reflecting measurable physiological strain, muscle damage, oxidative stress, inflammation, and immunosuppression during intensive exercise. These effects tend to be larger and more prolonged after official matches compared to training. Reported recovery time courses range from 24-h to several days post-exercise. Monitoring biomarkers enables quantifying cumulative fatigue and physiological adaptations to training/competition loads, helping to optimize performance while mitigating injury and overtraining. Key biomarkers include creatine kinase, testosterone, cortisol, testosterone/cortisol ratio, salivary immunoglobulin-A, and markers of inflammation and oxidative stress. Further research should extend biomarker monitoring to cover psychological stress and affective states alongside physiological metrics for deeper insight into athlete wellness and readiness.
+physiological load
+training adaptation
+muscle damage
+immune markers
+hormonal responses
+This research received no external funding.
+1. Introduction
+Achieving optimal performance while minimizing injury risk in team sport athletes requires balancing between training load (TL) and recovery [
+1
+,
+2
+,
+3
+]. The training program aims to enhance performance by gradually increasing load, disrupting athletes’ internal equilibrium [
+4
+,
+5
+]. However, professional sports demand that athletes achieve peak performance within a limited timeframe or over an extended period of time [
+5
+]. As a result, high TL is utilized during the preparation period to achieve performance gains [
+6
+]. Coaches employ planning, monitoring, and organizational strategies to manage the training program and evaluate athletes’ responses [
+7
+]. Despite available knowledge, there remains a limited understanding of the specific interactions between TL, resultant fatigue response, and subsequent performance. In this context, beyond the standard parameters of performance and load management such as HRV (heart rate variability) [
+8
+,
+9
+], RPE (rate of perceived exertion) [
+6
+,
+10
+], Linear Position Transducers and Linear Velocity [
+11
+,
+12
+,
+13
+], or tracking systems [
+14
+,
+15
+], it is imperative to consider the integration of biochemical markers. These assessments are crucial in assessments to help prevent imbalances and overtraining during congested schedules [
+16
+]. Therefore, successful training planning in team sports relies on the accurate monitoring and interpreting of training adaptations using objective data on physical performance, biochemical markers, and physiological variables [
+1
+,
+17
+,
+18
+,
+19
+].
+The sports science literature has extensively investigated the impact of TL on various biochemical markers that reflect physiological stress and recovery [
+20
+,
+21
+,
+22
+]. Several biochemical markers such as creatine kinase (CK), C-reactive protein (CRP), and creatinine have been linked to exercise-induced muscle damage and used to quantify biochemical responses to TL changes [
+23
+,
+24
+]. However, evidence for CK changes with acute or chronic TL remains moderate [
+24
+], and its use in TL monitoring is still under debate due to variability in CK activity based on exercise type, intensity, duration, and evaluation time [
+20
+,
+23
+]. On the other hand, testosterone, cortisol, and the testosterone/cortisol ratio (T/Cr) are other biochemical markers associated with TL-induced stress [
+20
+,
+25
+,
+26
+]. These hormonal markers reflect the metabolic adaptations and recovery responses to TL across seasons for specific sports [
+27
+]. While alterations in testosterone and cortisol levels caused by chronic training remain unclear, the T/Cr ratio changes show moderate evidence [
+24
+]. Salivary immunoglobulin-A (s-IgA) and
+α
+-amylase (s-AA) are other biomarkers of interest, which are antimicrobial proteins secreted by mucosal cells under sympathetic nervous system (SNS) control [
+28
+]. These markers have been used to track TL changes in soccer players and athletes, as their stress-related secretion indicates acute stress [
+28
+,
+29
+,
+30
+]. However, in response to prolonged stressful stimuli or increased physical training demands, a reduction in s-IgA and s-AA occurs, which is associated with an increased risk of upper respiratory tract infection (URTI) and symptoms (URTSs) in soccer players [
+31
+,
+32
+].
+The scientific literature is increasingly recognizing sport as a complex psycho-physiological activity, wherein even minor TL fluctuations significantly influence athletes’ physical performance, stress levels, and wellness status [
+2
+,
+33
+]. Consequently, several studies have emphasized biomarkers’ utility for monitoring training-related stress, strain, recovery, and wellness to identify early signs of fatigue and potential overtraining in high-performance sports programs. However, it is important to note that, as of now, there is no systematic review addressing the most used biomarkers to detect fatigue in professional team athletes. Reviews to date primarily focus on narrow areas: specifically, soccer [
+34
+,
+35
+,
+36
+], indoor sports [
+37
+], and team ball sports that include both professional and amateur levels [
+38
+]. This absence highlights a critical gap in the literature, underscoring the need for this systematic review to synthesize and evaluate the existing evidence on biomarkers in professional sports settings. Therefore, the aim of this study is to determine the primary biomarkers used in professional team sport athletes for detecting fatigue arising from training or match loads.
+2. Materials and Methods
+2.1. Design
+The present study was a systematic review conducted following the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) protocol [
+39
+,
+40
+]. PRISMA allows for synthesizing the most relevant information on a topic to make it more practical and applicable, providing readers with up-to-date and useful information on a constantly evolving research area.
+2.2. Search Strategy
+For this systematic review, we consulted the following electronic databases: PubMed, Scopus, SportDiscus, and Web of Science. We selected these databases as they are comprehensive resources that index the sports science literature, enabling access to domain-specific articles relevant to the review topic [
+41
+]. The search was conducted on 22 December 2023 using Boolean operators “AND” and “OR” to combine the keywords: “ (“elite” OR “professional”) AND (“team sport*”) AND (“physiological” OR “immunological” OR “biochemical” OR “hormonal”) AND (“fatigue” OR “performance” OR “recovery” OR “stress” OR “wellness”)”.
+Figure 1
+presents the search process results via a flowchart. We also reviewed the reference lists of the included studies to identify additional relevant articles. Any disagreements regarding study inclusion were resolved by consensus between two investigators (A.S.-L. and C.D.G.-C.) and arbitration by a third investigator (J.P.-O.) when needed.
+2.3. Inclusion and Exclusion Criteria
+The selection of studies for this review was based on specific criteria related to biomarker reporting and measurement. The inclusion criteria for articles were (1) studies reporting on at least one of the following categories of biomarkers: (a) muscle anabolic/catabolic hormones (e.g., testosterone, cortisol), (b) muscle damage markers (e.g., creatine kinase, lactate dehydrogenase), (c) immunological markers (e.g., salivary immunoglobulin A, immune cell function), (d) oxidative stress markers (e.g., reactive oxygen species, antioxidant capacity), and (e) inflammatory markers (e.g., C-reactive protein, cytokines); (2) a clear description of biomarker acquisition methods, including (a) sample type (e.g., blood, saliva, urine) (b) sampling time points (e.g., pre-exercise, post-exercise, during recovery), and (c) analytical techniques used (e.g., ELISA, spectrophotometry); (3) studies conducted on elite or professional male team sport athletes; (4) biomarker data collected from official matches and/or training sessions; and (5) longitudinal studies or those analyzing more than one official competition match or training session.
+On the other hand, the exclusion criteria were (1) studies on amateur or youth athletes; (2) laboratory-based or simulated exercise scenarios; (3) studies that did not provide adequate details on biomarker measurement methods; (4) single time-point measurements without consideration of changes over time; (5) studies focusing solely on biomarkers not directly related to fatigue or recovery (e.g., nutritional markers); and (6) documents such as theses, books, or systematic reviews (excluded only as a bibliographic source, not from systematization). The minimum publication year was 2000, as earlier reviews noted this as the starting point.
+2.4. Screening Strategy and Study Selection
+One investigator (A.S.-L.) conducted searches, identified relevant studies, and extracted data in a standardized, disaggregated manner. The review process followed Prisma guidelines [
+39
+] and recommendations for sports science systematic reviews [
+41
+] (
+Figure 1
+). The extracted articles were organized via a Microsoft Excel (version 16.78, Microsoft, Redmond, WA, USA) database detailing the database, keywords, article identifiers, and publication year. The articles were reviewed, and duplicates were eliminated. Then, the titles and abstracts of the remaining articles were read, and those unrelated to the topic were discarded. When necessary, the full text was read to verify compliance with the eligibility criteria and judge the relevance of the article. After this process, a total of 28 articles were selected. The data were analyzed and tabulated considering contextual variables such as the type of sport (soccer, basketball, volleyball, or handball), the type of event (matches or training), and the type of bio-measured variable (physiological, immunological, biochemical, or hormonal).
+2.5. Quality of Studies
+Two authors (A.S.-L. and C.D.G.-C.) assessed the risk of reporting bias via the Methodological Index for Non-Randomized Studies (MINORS) checklist [
+42
+]. MINORS has twelve items, four of which are only applicable to comparative studies. Each item is scored 0 when the criterion is not reported in the article, 1 if it is reported but not sufficiently met, or 2 when it is adequately met. Higher scores indicate a good methodological quality of the article and a low risk of bias. Therefore, the highest possible score is 16 for non-comparative studies and 24 for comparative studies. MINORS has provided acceptable inter and intra-rater reliability, internal consistency, content validity, and discriminant validity [
+42
+,
+43
+].
+3. Results
+3.1. Identification and Selection of Studies
+After conducting the search, 504 relevant studies were initially found (496 databases and 8 additional records through other sources). Once duplicate studies were eliminated, there remained 385 unique studies to review. The titles and abstracts of these 385 studies were screened, leading to the identification of 53 potentially eligible studies. The remaining studies were excluded due to their lack of relevance to the subject matter of the manuscript. The full texts of these 53 studies were retrieved and inspected against the inclusion/exclusion criteria. This full-text review process filtered out 25 studies that did not satisfy the criteria. Ultimately, 28 studies successfully were selected. The process of searching, identifying, and selecting the studies is illustrated in
+Figure 1
+.
+3.2. Methodological Quality
+The results of the methodological risk of bias of the articles included in this review can be found in
+Table 1
+. From the total 28 studies, 13 studies are comparative (24 maximum points) and 15 are non-comparative (16 maximum points). Nineteen studies present a low risk of bias with B Score (two comparative and eleven non-comparative studies). No study has an A score. Four comparative studies present a high risk of bias (C Score). The worst evaluated item in all types of studies is item 5 (Evaluations carried out in a neutral way), while the worst evaluated item in comparative studies is item 8 (A control group having the gold standard intervention).
+3.3. Characteristics of the Selected Studies
+Table 2
+shows the characteristics of the selected studies in the present systematic review. The included studies ranged from 2008 to 2023. The earliest study was published in 2008, while over 70% of the studies (
+n
+= 16) emerged from 2015 onwards, highlighting the growing research attention on this topic.
+The selected studies involved elite athletes from different team sports. The most evaluated sport was basketball (
+n
+= 7) [
+53
+,
+56
+,
+62
+,
+63
+,
+64
+,
+65
+,
+67
+], followed by soccer (
+n
+= 6) [
+57
+,
+58
+,
+60
+,
+61
+,
+64
+,
+66
+], handball (
+n
+= 3) [
+47
+,
+55
+,
+64
+], futsal (
+n
+= 3) [
+20
+,
+44
+,
+59
+], rugby (
+n
+= 3) [
+30
+,
+54
+,
+69
+], Australian football (
+n
+= 3) [
+48
+,
+49
+,
+50
+], volleyball (
+n
+= 2) [
+52
+,
+64
+], rugby union (
+n
+= 2) [
+51
+,
+68
+], netball (
+n
+= 1) [
+45
+], and water-polo (
+n
+= 1) [
+46
+].
+Regarding the context of evaluation, eight studies analyzed responses to official matches [
+45
+,
+48
+,
+49
+,
+54
+,
+58
+,
+60
+,
+64
+,
+69
+], eight studies focused exclusively on regular training [
+20
+,
+46
+,
+47
+,
+51
+,
+52
+,
+59
+,
+67
+,
+68
+], and twelve studies examined both matches and training workloads [
+30
+,
+44
+,
+50
+,
+55
+,
+56
+,
+57
+,
+61
+,
+62
+,
+63
+,
+65
+,
+66
+,
+68
+]. When comparing official matches with training sessions, official matches impose greater physiological demands, which provoke heightened stress responses.
+The most frequently assessed biomarkers were muscle anabolic/catabolic hormones (testosterone and cortisol) (
+n
+= 15) [
+30
+,
+45
+,
+46
+,
+50
+,
+52
+,
+53
+,
+55
+,
+57
+,
+58
+,
+60
+,
+63
+,
+64
+,
+66
+,
+70
+,
+71
+], damage markers (creatine kinase and lactate dehydrogenase) (
+n
+= 9) [
+20
+,
+44
+,
+45
+,
+52
+,
+55
+,
+57
+,
+61
+,
+64
+,
+69
+], immunological markers (Immunoglobulin A and immune cell function) (
+n
+= 8) [
+46
+,
+48
+,
+49
+,
+51
+,
+54
+,
+59
+,
+66
+,
+68
+], oxidative stress markers (reactive oxygen species and antioxidant capacity) (
+n
+= 6) [
+44
+,
+47
+,
+55
+,
+57
+,
+65
+,
+67
+], and inflammatory markers (C-reactive protein and cytokines) (
+n
+= 4) [
+47
+,
+57
+,
+61
+,
+64
+].
+4. Discussion
+This study aimed to systematize and analyze the existing scientific evidence on the primary biomarkers most frequently used in professional team athletes to detect the fatigue induced by the physical demands of professional training and competition. This physical and physiological stress is a direct response to exercise that can be experienced during both training and competition and leads to elevated levels of fatigue [
+38
+]. The multifactorial and complex nature of fatigue necessitates a comprehensive analysis of various biomarkers, as summarized in
+Table 3
+. This table provides an overview of the key biomarker categories, including muscle anabolic/catabolic hormones, muscle damage markers, immunological markers, oxidative stress markers, and inflammatory markers, along with their relevance to chronic fatigue assessment and typical measurement methods. By examining these diverse biomarkers, we can gain a more holistic understanding of the physiological responses to training and competition loads. This rigorous examination is vital to ascertain the extent of athletes’ physiological adaptation, effectively curtailing the risks associated with non-functional overtraining, injury, or disease linked to prolonged fatigue accumulation [
+2
+]. The analysis of these biomarkers, in conjunction with workload data, provides a more comprehensive approach to monitoring and managing athlete fatigue in professional team sports [
+2
+].
+4.1. Hormonal Markers
+The relationship between hormonal markers and training/competition loads was evaluated in 15 of the included studies [
+30
+,
+45
+,
+46
+,
+50
+,
+52
+,
+53
+,
+55
+,
+57
+,
+58
+,
+60
+,
+63
+,
+64
+,
+66
+,
+70
+,
+71
+]. Regarding the impact of training load (TL) and competition loads (CL) on hormonal responses, all studies included in this review show significant alterations in testosterone, cortisol, and the testosterone/cortisol ratio in response to changes in external and internal TL/CL across the season. These hormonal perturbations provide useful information for athlete-monitoring purposes to detect dysfunctional physiological responses. Emphasizing the practical significance of these findings, the T/C ratio has emerged as a particularly sensitive marker in gauging training stress and fatigue levels. A study performed on rugby players indicated that only cortisol levels present limitations as a physiological stress biomarker due to their variability, indicating that the combination with testosterone values provides a more reliable index [
+30
+]. In this way, Schelling et al. [
+63
+] obtained that the hormonal status varies according to playing position and game time, impacting training and recovery strategies. The diversity in findings, as collated in a recent systematic review by Moreno-Villanueva et al. [
+37
+], corroborates earlier hypotheses about the variability of T, C, and T/C marker values [
+20
+,
+30
+,
+62
+,
+63
+]. This variability is contingent on the period under analysis and the specific sporting discipline. While some researchers advocate for the use of T and C as individual indicators of fatigue in team sports [
+20
+], the complexity inherent in the hormonal response necessitates a broader investigation into the interplay between these hormones, particularly through the lens of the T/C ratio. This approach allows for a nuanced and comprehensive interpretation of the data, shedding light on the balance between anabolic and catabolic processes. However, it is crucial to acknowledge that these hormonal parameters should not be isolated in their interpretation. This observation facilitates the precise calibration of training regimens through the utilization of hormonal biomarker data, with the objective of achieving optimal performance enhancement. Therefore, appropriately adjusting training and recovery programs based on hormonal biomarker data can aid performance optimization.
+4.2. Muscular Damage Markers
+Substantial research evidences the pattern of consistent CK elevation post-exercise that induces fatigue and muscle damage [
+72
+,
+73
+,
+74
+,
+75
+]. Our review corroborates this, indicating notable sustained elevations in CK levels [
+20
+,
+44
+,
+45
+,
+52
+,
+55
+,
+57
+,
+61
+,
+64
+,
+69
+]. However, several aspects merit consideration in the interpretation of our data. Primarily, prior studies have revealed considerable day-to-day fluctuations in CK levels [
+45
+,
+57
+,
+64
+,
+69
+]. These findings are further supported by other studies [
+76
+,
+77
+], which also observed an approximate change of around 26–27%, respectively, with the smallest worthwhile change (SWC) in CK identified at 8.6% [
+76
+]. Ideally, the smallest worthwhile change (SWC) should be less than the coefficient of variation for effective sensitivity. However, based on the results of the indexed studies [
+45
+,
+57
+,
+64
+,
+69
+], the post-match increases were significantly greater (
+p
+< 0.05) than the athletes’ coefficients of variation, with a significant increase (
+p
+< 0.05) in CK levels compared to the average baseline level at 24, 48, and 72 h. Therefore, it appears that the use of CK as an indicator of muscle damage is a sensitive tool for detecting the acute load borne by athletes [
+45
+,
+57
+,
+64
+,
+69
+,
+76
+,
+77
+].
+Although it is undeniable that CK levels rise following intense exercise, its effectiveness as a measure to monitor an athlete’s chronic load seems to be less reliable [
+20
+]. Nonetheless, the study reported by Barcelos et al. [
+44
+] and Marin et al. [
+55
+] demonstrates how CK and Lactate Dehydrogenase (LDH) can be a sensitive tool for detecting changes in muscle damage levels over the preseason and season. Discrepancies among study results can be explained by several factors [
+20
+,
+44
+,
+55
+]: it is important to note how much time elapsed since the last training or match for CK measurements because if measurements are taken within the first 78 h, CK levels after an intense match or training will be significantly higher than baseline. However, after these 78 h, CK levels are less effective in detecting muscle damage as shown in the study by Birdsey et al. [
+45
+], with the highest blood CK levels recorded at 24–48 h after a training session or match in professional athletes [
+45
+,
+57
+,
+64
+,
+69
+]. Another consideration is the circadian fluctuation of CK; under typical resting conditions, CK concentrations peak in the morning [
+78
+], which can influence the timing of measurement. In our review, sampling times varied greatly; however, it is likely that the substantial increases in CK after training or matches (24–72 h) overshadow this variation [
+45
+,
+57
+,
+64
+,
+69
+]. Finally, it is important to highlight at what point in the season CK and LDH samples were taken. While the study reported by Miloski et al. [
+20
+] showed no significant differences in blood CK during the season, it did reveal significant changes (
+p
+< 0.05) in CK (266 μ/L) during the preseason when the training load was higher. Similar results were shown in the studies by Barcelos et al. [
+44
+] and Marin et al. [
+55
+], where significant differences in CK and LDH were found when there was a significant reduction in training load as a strategy to improve team performance [
+44
+] and during periods of match congestion and intensity such as the playoff season [
+45
+,
+52
+,
+55
+,
+57
+,
+61
+].
+In this context, CK appears to be a sensitive marker for detecting muscle damage in professional athletes. It is essential to consider that CK levels undergo circadian fluctuations, generally being higher in the morning. This should be taken into account when assessing CK levels for accurate results. Moreover, this enzyme shows greater sensitivity 72 h post-training or competition, reaching its peak between 24 and 48 h after intense physical activity [
+45
+,
+57
+,
+64
+,
+69
+]. Therefore, measuring CK levels during these periods can provide valuable information about an athlete’s muscular state. Additionally, CK and LDH can be a useful indicator for monitoring variations in physical state during the season, especially during periods of congested matches or a decrease in training and/or match load. This tool enables coaches and athletes to adjust their training and recovery programs more effectively, minimizing injury risk and optimizing performance.
+4.3. Immunological Markers
+s-IgA has emerged as a pivotal biomarker for evaluating overtraining, psychological stress, and the health status of the upper respiratory tract, as underscored in seminal research [
+79
+]. s-IgA predominantly functions as a barrier against viral infections, obstructing the adherence of pathogens to the mucosal epithelium of the upper respiratory tract, a mechanism well-documented in the work of Rico-González et al. [
+79
+]. Notably, an escalation in training intensity can precipitate a decline in s-IgA levels, augmenting the vulnerability to upper respiratory tract infections (URTI), as elucidated in various studies [
+80
+]. This systematic review scrutinizes eight studies that investigated s-IgA responses to structured training and competitive engagements. These studies delve into the dynamics of s-IgA and other immunological markers (salivary lysozyme, neopterin, and total neopterin) under varying training modalities, encompassing periodization, overload, tapering, and preparatory phases [
+46
+,
+48
+,
+49
+,
+51
+,
+54
+,
+59
+,
+66
+,
+68
+].
+A subset of the reviewed literature established correlations between s-IgA concentrations and URTI prevalence [
+51
+,
+59
+,
+68
+]. Moreira et al. [
+59
+] conducted a nuanced analysis over a four-week intensive training period, hypothesizing and confirming a negative correlation between escalated training loads and s-IgA levels, with a concomitant increase in URTI symptoms, particularly pronounced in the final week. This finding highlights the susceptibility of athletes with reduced s-IgA to URTI risks. Complementarily, another study identified a low s-IgA secretion rate as a risk factor for URTI [
+81
+], while also noting the contribution of heightened training load and intensity to URTI incidence [
+81
+,
+82
+]. Further corroborating this, the study by Tiernan et al. [
+68
+] demonstrated that a reduction of ≥65% in s-IgA levels significantly escalated the risk of URTI in the ensuing two weeks. On the other hand, another study [
+51
+] reported no substantial correlations between absolute s-IgA or salivary lysozyme (s-Lys) levels and URI incidence. However, they observed a trend of lower s-IgA concentrations in players with higher URTI instances compared to asymptomatic players, indicating a potential association between diminished s-IgA levels and elevated URTI risk. Notably, the study also revealed position-specific variations in s-IgA and s-Lys levels, and URI incidence, underscoring the importance of maintaining optimal s-IgA levels to mitigate URTI risks.
+Another salient outcome from this systematic review is the association between increased training loads and decreased s-IgA levels. As Botonis and Toubekis [
+46
+] proposed, assessing s-IgA concentrations can be instrumental in identifying excessive training workloads and determining URTI risk among professional athletes. The investigation by Tiernan et al. [
+68
+] aimed to explore the relationship between s-IgA levels and training load, hypothesizing an inverse relationship. Although no significant associations were found (
+p
+< 0.005), the study observed a marked increase in training load preceding the decrease in s-IgA levels, suggesting that appropriate training load management and sufficient recovery might mitigate the decline in s-IgA [
+83
+]. Lindsay et al. [
+54
+] also found a correlation between s-IgA, neopterin, and total neopterin secretion rates and player load. These findings, along with other studies included in this review, indicate that reductions in s-IgA are associated with increased training intensity/volume and congested schedules [
+48
+,
+49
+,
+66
+]. Longitudinal monitoring of training/match loads and mucosal immune function during initial recovery phases can significantly enhance athlete preparation and well-being management strategies. Chronic suppression of salivary mucosal immunity, therefore, can serve as an indicator for necessary workload adjustments to foster athlete well-being.
+4.4. Inflammatory Markers and Oxidative Stress Markers
+The accumulated scientific evidence indicates that periods of fixture congestion coupled with limited recovery results in cumulative match fatigue and amplified physiological strain. This is reflected in unresolved perturbations in inflammatory and oxidative stress biomarkers across successive competitions [
+44
+,
+47
+,
+57
+,
+61
+,
+62
+,
+63
+,
+66
+,
+68
+]. For example, one study on professional soccer players reported the highest increases in inflammatory cytokines like TNFα and IL-6 along with muscle damage markers like CK and LDH compared to other sports over a regular season [
+64
+]. Similarly, consecutive soccer matches over a 1-week period resulted in continually elevated levels of CRP, CK, cortisol, and oxidative stress markers, which showed more pronounced increases after the second match, indicating increased physiological stress and fatigue due to limited recovery between matches [
+57
+].
+This trend of unsustained inflammation resulting from insufficient recovery periods between matches is corroborated by other soccer studies as well [
+55
+,
+61
+]. Elite basketball over a 6-month season [
+65
+] and professional handball across a 12-week period [
+47
+] also exhibited increases in oxidative stress (e.g., ↑GSSG, ↓ GSH/GSSG ratio by 18–35%) during intensive phases along with mild perturbations in inflammation. Greater perturbations were noted in muscle damage (CK) and oxidative stress (TBARS) in sports with higher eccentric loads like handball and basketball vs. volleyball [
+64
+]. These highlights varied biochemical demands between sports. Nonetheless, continuous travel and competition without complete inflammatory and redox resolution can heighten injury risk [
+44
+,
+55
+,
+61
+].
+Specifically, unabated oxidation can impair muscle contractility and damage cell membranes [
+66
+]. Moreover, lingering inflammation can exacerbate muscle damage and slow regeneration between matches [
+79
+]. As an example, elevated CRP levels post-match significantly correlated with increases in creatine kinase levels 24 h later in elite soccer players [
+61
+]. This illustrates the mechanistic interplay between inflammation and secondary muscle damage. Accordingly, continual biochemical monitoring is vital for balancing stress and recovery, especially for sports involving recurrent high-intensity efforts like soccer, basketball, and handball across congested fixture schedules [
+47
+,
+57
+]. Regular blood draws can enable training load adjustments to calibrate external and internal loads [
+2
+]. This helps stimulate targeted physiological adaptations while mitigating the risk of illness, overtraining, and injury during intensive in-season phases—especially under fixture congestion [
+35
+,
+46
+].
+4.5. Sex Differences in Chronic Fatigue Monitoring
+While this review focused on male professional team athletes, it is important to acknowledge that sex differences play a significant role in chronic fatigue development, manifestation, and monitoring. These differences stem from physiological, hormonal, and metabolic variations between males and females, which can affect biomarker responses and interpretation [
+2
+,
+24
+].
+One of the primary considerations in female athletes is the influence of the menstrual cycle on fatigue and recovery processes. Hormonal fluctuations throughout the menstrual cycle can impact exercise performance, substrate utilization, and recovery capacity [
+84
+]. For instance, estrogen has been shown to have a protective effect against exercise-induced muscle damage, potentially leading to different creatine kinase responses in females compared to males [
+85
+]. Testosterone, a key biomarker in our review, exhibits significantly different baseline levels and exercise-induced changes between sexes. While both males and females show acute increases in testosterone following intense exercise, the magnitude of change is typically larger in males [
+63
+]. This difference necessitates sex-specific reference ranges and potentially different interpretations of the testosterone/cortisol ratio as a marker of anabolic/catabolic balance [
+55
+,
+63
+].
+Inflammatory responses to exercise also show sexual dimorphism. Some studies have reported that females exhibit a different pattern of inflammatory response following exercise, with potentially different patterns of cytokine release compared to males [
+86
+]. This could affect the interpretation of inflammatory markers such as IL-6 and TNF-α in the context of chronic fatigue monitoring. Oxidative stress responses to exercise may also differ between sexes, with some research suggesting that females may have different antioxidant responses compared to males [
+66
+]. This could influence the interpretation of oxidative stress markers in fatigue-monitoring protocols. Additionally, differences in muscle fiber composition and metabolism between males and females [
+87
+] may affect the accumulation of fatigue and the time course of recovery, potentially necessitating different monitoring strategies and interpretations of biomarker data.
+These sex-based differences highlight the need for careful consideration when applying fatigue monitoring protocols developed primarily in male populations to female athletes. Establishing sex-specific reference ranges for key fatigue biomarkers and investigating whether different monitoring strategies are needed for male and female athletes in team sports is necessary [
+2
+,
+24
+].
+4.6. Limitations and Future Research Directions
+This systematic review has some limitations that should be acknowledged. First, the included studies varied considerably in their methodologies, sample sizes, and specific biomarkers examined, which limited direct comparisons in some cases. Additionally, most studies focused on male athletes, with limited data on female athletes. The review was also restricted to team sports, potentially limiting generalizability to individual sports. Future research should address these gaps by conducting more studies on female athletes and expanding to a wider range of sports. Longitudinal studies tracking biomarker responses across multiple seasons would provide valuable insights into long-term adaptations. There is also a need for more research examining the interactions between multiple biomarkers simultaneously, as well as investigating newer, potentially more sensitive biomarkers. Future studies should aim to establish sport-specific and position-specific reference ranges for key biomarkers to enhance interpretation. Finally, research integrating biomarker data with other monitoring tools like GPS metrics, subjective wellness measures, and performance indicators would provide a more comprehensive understanding of athlete fatigue and recovery processes. Such holistic approaches could lead to more individualized and effective load management strategies in elite team sports.
+5. Conclusions
+This systematic review provides a comprehensive synthesis of the scientific literature on the biochemical monitoring of fatigue in male professional team athletes. The evidence conclusively demonstrates that the high physiological loads imposed by intensive training and match congestion elicit significant alterations in all assessed biomarkers. These indicate measurable muscle damage, oxidative stress, inflammation, immunosuppression, and hormonal strain. Moreover, changes are consistently larger after official matches relative to regular training across sports. Reported recovery kinetics range widely from 24 h to several days post-exercise depending on context.
+Overall, this review highlights the utility of frequent biochemical monitoring to quantify biochemical aspects of fatigue alongside sports performance assessments in high-level athletes. This enables coaches to calibrate training stimulus and recovery to stimulate optimal adaptation at the individual level while mitigating injury, illness, and overtraining risks. A key insight is the crucial need for holistic monitoring strategies encompassing both physiological and perceptual indicators of fatigue and the adaptive state. This allows for adjusting external and internal loads to augment performance across a season. Further research should address the impact of psychological stressors alongside physical load metrics for a more complete perspective, particularly on the inflation of baseline biomarker levels as an additional technical error. Nonetheless, this review re-emphasizes biomarker assessment as an invaluable tool for training load management and performance optimization in high-performance sports programs.
+Disclaimer/Publisher’s Note:
+The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.
+Author Contributions
+Conceptualization, A.S.-L. and J.P.-O.; methodology, A.S.-L. and A.M.-V.; software, C.D.G.-C. and J.P.-O.; validation, A.M.-V. and J.P.-O.; formal analysis, A.S.-L. and C.D.G.-C.; investigation, A.S.-L. and A.M.-V.; resources, J.P.-O.; data curation, A.S.-L. and C.D.G.-C.; writing—original draft preparation, A.S.-L. and C.D.G.-C.; writing—review and editing, A.M.-V. and J.P.-O.; visualization, C.D.G.-C. and A.M.-V.; supervision, J.P.-O.; project administration, J.P.-O. All authors have read and agreed to the published version of the manuscript.
+Institutional Review Board Statement
+Not applicable.
+Informed Consent Statement
+Not applicable.
+Data Availability Statement
+Not applicable.
+Conflicts of Interest
+The authors declare no conflict of interest.

@@ -1,0 +1,196 @@
+[
+  {
+    "title": "Abstract Previous studies have suggested that CD133 + cells isolated from human kidney biopsies have the potential to ameliorate injury following intravenous (IV) administration in rodent models of kidney disease by integrating into damaged renal tissue and generating specialized renal cells. However, whether renal engraftment of CD133 + cells is a prerequisite for ameliorating injury has not yet been unequivocally resolved. Here, we have established a cisplatin\u2010induced nephropathy model in immunodeficient rats to assess the efficacy of CD133 + human kidney cells in restoring renal health, and to determine the fate of these cells after systemic administration. Specifically, following IV administration, we evaluated the impact of the CD133 + cells on renal function by undertaking longitudinal measurements of the glomerular filtration rate using a novel transcutaneous device. Using histological assays, we assessed whether the human kidney cells could promote renal regeneration, and if this was related to their ability to integrate into the damaged kidneys. Our results show that both CD133 + and CD133 \u2212 cells improve renal function and promote renal regeneration to a similar degree. However, this was not associated with engraftment of the cells into the kidneys. Instead, after IV administration, both cell types were exclusively located in the lungs, and had disappeared by 24 hours. Our data therefore indicate that renal repair is not mediated by CD133 + cells homing to the kidneys and generating specialized renal cells. Instead, renal repair is likely to be mediated by paracrine or endocrine factors. S tem C ells T ranslational M edicine 2017;6:1373\u20131384 Cisplatin\u2010induced nephropathy in nude rats Human kidney progenitor cells CD133 Regenerative medicine therapies Transcutaneous glomerular filtration rate measurement source-schema-version-number 2.0 component-id sct312142 cover-date May 2017 details-of-publishers-convertor Converter:WILEY_ML3GV2_TO_NLMPMC version:5.0.9 mode:remove_FC converted:23.05.2017 Significance Statement This study shows that human kidney cells ameliorate renal injury following intravenous injection in rats. Despite significantly improving renal function and ameliorating tissue damage, the cells do not engraft in the kidney, instead being entrapped in the lungs where they rapidly undergo cell death. These findings indicate that the therapeutic effects of the cells are mediated by secreted factors, possibly released by the dying cells. This raises the possibility that in the future, therapies for kidney disease could be based on cell\u2010derived factors rather than on the cells themselves, thereby circumventing the risks associated with cell administration, such as tumor formation. Introduction Acute kidney injury (AKI) is associated with an abrupt decline in renal function, and is reported to have a mortality rate ranging from 18% to 80% 1 , 2 . The severity and duration of the acute injury correlates with the incidence of progression to chronic or even end stage renal disease (ESRD) 3 . Successful therapeutic interventions of AKI may not only promote recovery from acute injury, but could also decrease the incidence of ESRD. Cisplatin is a chemotherapy drug that is used to treat a wide range of solid tumors 4 , but can cause severe nephrotoxicity, which is associated with 20%\u201340% reduction in the glomerular filtration rate (GFR), increased serum urea, elevated serum creatinine (sCr) and acute tubular necrosis 5 , 6 . In rodent models, cisplatin\u2010induced AKI is routinely used to test the efficacy of novel therapies 7 , 8 , 9 , 10 , 11 , including a range of cell\u2010based regenerative medicine therapies 12 . Studies which tested the efficacy of mesenchymal stem/stromal cells (MSCs) showed that these cells promote repair through the secretion of paracrine factors that stimulate the regeneration of host renal tissue 12 , 13 , 14 . In contrast, nephron progenitor cells derived from human fetal kidneys appear to improve renal health by integrating into damaged rodent kidneys and generating specialized renal cells 15 . Recently, a population of putative progenitor cells expressing the glycosylated isoform of CD133 (Prominin\u20101) was identified in human adult kidneys 16 , 17 . CD133 is a marker of cancer stem cells and has been used to isolate stem and progenitor cells from several tissues 18 . Human adult kidney\u2010derived CD133 + cells have been shown to ameliorate injury following intravenous (IV) administration in mouse models of glycerol\u2010induced rhabdomyolysis 16 , 19 , 20 and adriamycin\u2010induced nephropathy 17 . Specifically, it was suggested that CD133 + cells ameliorate injury by engrafting into the kidneys and differentiating into specialized renal cells 17 , 19 . These observations have raised the prospect of developing autologous cell therapies to replace damaged renal tissue in patients with kidney disease. In order to track the fate of exogenous cells in preclinical models, cells are frequently labeled using membrane\u2010bound dyes in order to allow their detection in histological sections at the study end point 17 , 19 , 21 . In previous studies assessing the role of CD133 + kidney\u2010derived cells in ameliorating renal injury, cells labeled with the lipophilic fluorescent dye, PKH26, appeared to engraft in the kidney following IV administration and express markers of podocytes and proximal tubule cells (PTCs) 17 , 19 , 21 . However, PKH26 has been shown to be an unreliable tracking agent because it can be transferred to host cells, leading to false positive results 22 , 23 . In this study, we aimed to accurately assess the improvement of renal function in response to CD133 + human kidney cell administration in rats after cisplatin\u2010induced AKI, and compare the therapeutic efficacy of the CD133 + cells with a negative control population of CD133 \u2212 cells. The GFR is the most accurate measure of renal excretory function but classical GFR measurements involve the need for repeated blood and/or continuous urine sampling over a prolonged time period (5\u201324 hours), which is difficult to obtain in rodent models. In order to monitor kidney function, we used a novel transcutaneous device to determine longitudinally the half\u2010life ( t 1/2 ) of fluorescein isothiocyanate (FITC)\u2010sinistrin, a molecule that is exclusively filtered by the kidneys, as a measure of the GFR 24 , 25 , 26 , 27 . The device has recently been used by our group to monitor renal function in a mouse adriamycin model, where it was found to be a good predictor of histological damage 28 . In the current study, we measured FITC\u2010sinistrin t 1/2 before cisplatin administration, before cell injection and at several points up to day 14 in rats administered with either CD133 + or CD133 \u2212 human kidney cells, or saline (control group), to determine for each individual animal the extent by which the cell treatment affected kidney function. A further aim was to identify any association between therapeutic efficacy and the extent of renal engraftment. To address this question, we introduced a green fluorescent protein (GFP) reporter gene into the CD133 + and CD133 \u2212 cells so that their location within specific organs could be analyzed histologically. We also labeled the cells with the lipophilic dye, PKH26, to investigate whether there was any propensity for this dye to separate from the GFP + kidney cells and label host cells, thereby giving false positive results.",
+    "document_source_id": "28375556",
+    "analysis_date": "2025-12-09",
+    "extracted_data": {
+      "document_summary": "This study investigated the efficacy and fate of intravenously administered human kidney-derived CD133+ and CD133- cells in ameliorating cisplatin-induced nephropathy in immunodeficient rats. Both cell types similarly improved renal function and promoted regeneration, reducing acute kidney injury and histological damage. Crucially, therapeutic effects were not due to renal engraftment; instead, cells were entrapped in the lungs, underwent cell death within 24 hours, and likely mediated repair through paracrine or endocrine factors, potentially involving macrophage infiltration and IL10 secretion in the lungs.",
+      "treatment_details": {
+        "therapy_type": "Cisplatin-induced acute kidney injury model in rats, followed by intravenous administration of human kidney-derived CD133+ or CD133- cells.",
+        "dose_specificity": "Cisplatin was administered intraperitoneally at 7 mg/100 g body weight to induce injury. Cell therapy consisted of two intravenous injections of 10^6 GFP-expressing CD133+ or CD133- cells (in 500 \u00b5l sterile PBS) via tail vein on days 2 and 7 post-cisplatin. Control groups received saline or PBS. Cells were at passage 5. A second cell injection after day 7 did not provide additional benefits. No dose-response comparisons for cell therapy were reported."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "Glomerular Filtration Rate (GFR) / FITC-sinistrin t1/2",
+          "measured_tissue_or_fluid": "Systemic (transcutaneously via FITC-sinistrin half-life/clearance)",
+          "activity_type": "Clearance rate / Functional measurement of renal excretory capacity",
+          "measured_effect": {
+            "direction_of_change": "higher (initially for t1/2), then lower (after treatment for t1/2)",
+            "magnitude_quantification": "Initial increase in t1/2 at day 2 in 62.5% of rats post-cisplatin. Treatment with CD133+ or CD133- cells significantly reduced FITC-sinistrin t1/2 by day 7 (improving GFR), to a similar degree between cell groups, compared to cisplatin-injured controls. While improved, renal function was not fully restored to baseline by day 14. Cisplatin typically causes a 20-40% reduction in GFR."
+          },
+          "core_biological_function": "Kidney's ability to filter blood and remove waste products; indicator of glomerular filtration rate and renal function.",
+          "relevant_activity_context": "Onset and amelioration of cisplatin-induced renal injury after IV administration of human kidney cells.",
+          "performance_or_health_indicator": "Increased t1/2 indicates impaired GFR and renal damage; reduced t1/2 indicates improved renal function and amelioration of acute kidney injury (AKI)."
+        },
+        {
+          "biomarker_name": "Renal Regeneration",
+          "measured_tissue_or_fluid": "Kidneys",
+          "activity_type": "Histological assessment of tissue repair and cellular proliferation",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Promoted to a similar degree by both CD133+ and CD133- human kidney cells."
+          },
+          "core_biological_function": "Tissue repair and restoration of damaged renal structure and function.",
+          "relevant_activity_context": "Post-treatment recovery in cisplatin-induced nephropathy after IV administration of human kidney cells.",
+          "performance_or_health_indicator": "Indicates amelioration of tissue damage and potential for long-term recovery from kidney injury."
+        },
+        {
+          "biomarker_name": "Exogenous Cell Engraftment/Location (CD133+ and CD133- human kidney cells)",
+          "measured_tissue_or_fluid": "Kidneys, Lungs",
+          "activity_type": "Histological analysis of GFP+ cell location",
+          "measured_effect": {
+            "direction_of_change": "unchanged (kidneys), present then disappeared (lungs)",
+            "magnitude_quantification": "Not associated with engraftment into the kidneys. After IV administration, both cell types were exclusively located in the lungs and had disappeared by 24 hours."
+          },
+          "core_biological_function": "Cell homing, tissue integration, and persistence of transplanted cells.",
+          "relevant_activity_context": "Post-IV administration tracking of human kidney cells in cisplatin-induced AKI rats.",
+          "performance_or_health_indicator": "Indicates that therapeutic effects are not due to direct kidney engraftment but likely mediated by paracrine or endocrine factors from cells entrapped in lungs."
+        },
+        {
+          "biomarker_name": "CD133",
+          "measured_tissue_or_fluid": "Primary cultures of human renal cells; human kidney sections",
+          "activity_type": "Protein expression level (immunohistology, immunofluorescence, flow cytometry)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "More than 65% of cells in primary cultures expressed CD133; GFP+CD133+ sorted population had 91.36% \u00b1 9.17% purity. Localized in Bowman's capsule and apical surface of scattered tubular cells."
+          },
+          "core_biological_function": "Marker for kidney progenitor cells.",
+          "relevant_activity_context": "Characterization of human kidney-derived cells in culture and in tissue sections.",
+          "performance_or_health_indicator": "Indicates the presence and purity of renal progenitor cell populations, crucial for cell-based therapies."
+        },
+        {
+          "biomarker_name": "CD24",
+          "measured_tissue_or_fluid": "Primary cultures of human renal cells",
+          "activity_type": "Protein expression level (flow cytometry)",
+          "measured_effect": {
+            "direction_of_change": "co-expressed",
+            "magnitude_quantification": "All CD133+ cells co-expressed CD24, but only 70% of CD24+ cells expressed CD133."
+          },
+          "core_biological_function": "Co-expressed marker with CD133 in renal progenitor cells.",
+          "relevant_activity_context": "Characterization of primary renal cell cultures to define progenitor cell populations.",
+          "performance_or_health_indicator": "Helps in the comprehensive characterization and definition of renal progenitor cell subsets."
+        },
+        {
+          "biomarker_name": "Epcam",
+          "measured_tissue_or_fluid": "CD133+ and CD133- human kidney cell populations",
+          "activity_type": "Protein expression level (flow cytometry implied)",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "CD133- cells expressed noticeably lower levels of Epcam compared with CD133+ cells."
+          },
+          "core_biological_function": "Epithelial marker.",
+          "relevant_activity_context": "Differentiation between epithelial-like (CD133+) and mesenchymal-like (CD133-) human kidney cell populations.",
+          "performance_or_health_indicator": "Serves as an indicator to distinguish the epithelial characteristics of isolated kidney cell populations."
+        },
+        {
+          "biomarker_name": "CD90, CD105",
+          "measured_tissue_or_fluid": "CD133+ and CD133- human kidney cell populations",
+          "activity_type": "Protein expression level (flow cytometry)",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Both CD133+ and CD133- cells expressed very low levels of these MSC markers compared to human bone marrow-derived MSCs."
+          },
+          "core_biological_function": "Markers for Mesenchymal Stem Cells (MSCs).",
+          "relevant_activity_context": "Characterization of human kidney-derived cells to determine their resemblance to MSCs.",
+          "performance_or_health_indicator": "Indicates that the isolated CD133+ and CD133- kidney cells do not exhibit typical mesenchymal stem cell characteristics."
+        },
+        {
+          "biomarker_name": "sCr (serum creatinine)",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Concentration",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Statistically reduced by 72.3% at day 7 in the CD133+ cell-treated group compared to cisplatin-injured group. In the CD133- treated group, values were lower but not statistically significant. Cell treatments failed to restore levels back to baseline by day 14."
+          },
+          "core_biological_function": "Metabolite used as an indicator of renal function.",
+          "relevant_activity_context": "Amelioration of cisplatin-induced renal injury by CD133+ or CD133- cell therapy in nude rats.",
+          "performance_or_health_indicator": "Lower sCr levels indicate improved renal function, though considered less accurate than FITC-sinistrin t 1/2."
+        },
+        {
+          "biomarker_name": "Urea",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Concentration",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Statistically reduced by 74.2% at day 7 in the CD133+ cell-treated group compared to cisplatin-injured group. In the CD133- treated group, values were lower but not statistically significant. Serum urea values suggested complete restoration back to baseline by day 14."
+          },
+          "core_biological_function": "Metabolite used as an indicator of renal function.",
+          "relevant_activity_context": "Amelioration of cisplatin-induced renal injury by CD133+ or CD133- cell therapy in nude rats.",
+          "performance_or_health_indicator": "Lower urea levels indicate improved renal function, though considered less accurate than FITC-sinistrin t 1/2."
+        },
+        {
+          "biomarker_name": "Megalins",
+          "measured_tissue_or_fluid": "Kidney sections",
+          "activity_type": "Protein staining pattern/expression",
+          "measured_effect": {
+            "direction_of_change": "atypical",
+            "magnitude_quantification": "Atypical staining pattern observed in cisplatin-injured rats (consistent with Proximal Tubular Cell (PTC) injury). No differences in staining pattern observed in cell-treated groups compared to uninjured controls."
+          },
+          "core_biological_function": "Plays an important role in reabsorbing filtered albumin; marker of Proximal Tubular Cells (PTCs).",
+          "relevant_activity_context": "Assessment of tubular injury at day 14 following cisplatin administration and cell therapy.",
+          "performance_or_health_indicator": "Atypical megalin staining indicates PTC injury."
+        },
+        {
+          "biomarker_name": "Albumin:creatinine ratio",
+          "measured_tissue_or_fluid": "Urine",
+          "activity_type": "Concentration ratio",
+          "measured_effect": {
+            "direction_of_change": "increased",
+            "magnitude_quantification": "Increased from day 7 to day 14 in cisplatin-injured rats. Was not significantly greater than background levels in rats that received cell therapy."
+          },
+          "core_biological_function": "Indicator of albuminuria, reflecting kidney damage (impaired reabsorption of albumin).",
+          "relevant_activity_context": "Assessment of albuminuria in cisplatin-injured nude rats treated with CD133+ or CD133- cells.",
+          "performance_or_health_indicator": "Higher ratio indicates increased albuminuria and kidney injury. Absence of significant increase in cell-treated groups indicates amelioration of injury."
+        },
+        {
+          "biomarker_name": "Tubular luminal area",
+          "measured_tissue_or_fluid": "Kidney sections",
+          "activity_type": "Morphometric measurement",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Significantly lower in cell-treated groups compared to cisplatin-injured rats. Cisplatin-only: 5,400 \u00b1 739 \u00b5m^2 (n=7); CD133+: 3,000 \u00b1 218 \u00b5m^2 (p < .01, n=7); CD133-: 3,100 \u00b1 301 \u00b5m^2 (p < .05, n=6); Uninjured: 1,350 \u00b1 26 \u00b5m^2 (p < .001)."
+          },
+          "core_biological_function": "Indicator of tubular damage and dilation.",
+          "relevant_activity_context": "Histopathological assessment of renal tissue health at day 14 following cisplatin injury and cell therapy.",
+          "performance_or_health_indicator": "Reduced tubular luminal area indicates amelioration of acute tubular injury and dilation."
+        },
+        {
+          "biomarker_name": "Fibrotic lesions",
+          "measured_tissue_or_fluid": "Kidney sections (Masson's Trichrome staining)",
+          "activity_type": "Histopathological analysis",
+          "measured_effect": {
+            "direction_of_change": "minimal/unchanged",
+            "magnitude_quantification": "Minimal fibrotic lesions observed. No significant differences in fibrosis were observed between the cisplatin-injured and cell-treated groups at day 14. Attributed to the nude rat model lacking T cells, which play a role in renal fibrosis development."
+          },
+          "core_biological_function": "Indicator of renal fibrosis (scarring).",
+          "relevant_activity_context": "Assessment of renal fibrosis at day 14 following cisplatin injury and cell therapy in nude rats.",
+          "performance_or_health_indicator": "Minimal fibrosis suggests lack of progression of scarring, possibly due to model characteristics rather than treatment effect."
+        },
+        {
+          "biomarker_name": "CD68+ cells",
+          "measured_tissue_or_fluid": "Lung sections",
+          "activity_type": "Immunofluorescence staining (cell distribution/clustering)",
+          "measured_effect": {
+            "direction_of_change": "clustered",
+            "magnitude_quantification": "Clustered closely around intact GFP+ cells and GFP+ cell fragments at 1 and 6 hours after cell administration. At 24 hours, clusters remained around small GFP-labeled fragments, with no intact human cells present. In control lungs, CD68+ cells were evenly distributed."
+          },
+          "core_biological_function": "Pan-macrophage marker; macrophages are involved in phagocytosis of dying cells and immune responses.",
+          "relevant_activity_context": "Investigation of macrophage recruitment to dying human kidney cells entrapped in the lungs after IV administration.",
+          "performance_or_health_indicator": "Clustering of CD68+ cells around dying human cells indicates macrophage recruitment and phagocytosis, suggesting an immune response to cell death in the lungs."
+        },
+        {
+          "biomarker_name": "IL10 (Interleukin-10)",
+          "measured_tissue_or_fluid": "Lungs (within and surrounding CD68+ cells); Macrophages (infiltrating)",
+          "activity_type": "Protein expression/secretion",
+          "measured_effect": {
+            "direction_of_change": "present/higher",
+            "magnitude_quantification": "Observed within and surrounding CD68+ cells in close proximity to dying human cells in the lungs at 24 hours post-administration. Described as induced expression by infiltrating macrophages and a dramatic increase in related studies, though specific quantification not provided for the current study."
+          },
+          "core_biological_function": "Anti-inflammatory cytokine, secreted by alternatively-activated (M2) macrophages, contributes to immune modulation and resolution of inflammation.",
+          "relevant_activity_context": "Macrophage phagocytosis of dying human kidney cells in the lungs; following IV administration of dying human kidney cells in a rat cisplatin model.",
+          "performance_or_health_indicator": "Presence of IL10 suggests an anti-inflammatory response, potentially released by macrophages after phagocytosing the human cells, contributing to immune modulation and stimulating renal repair by promoting inflammation resolution."
+        }
+      ]
+    }
+  }
+]

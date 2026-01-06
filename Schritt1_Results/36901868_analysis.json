@@ -1,0 +1,532 @@
+[
+  {
+    "title": "pmc Int J Mol Sci Int J Mol Sci ijms International Journal of Molecular Sciences 1422-0067 MDPI 10003440 10.3390/ijms24054435 ijms-24-04435 Article Treatment of Acute Respiratory Distress Syndrome Caused by COVID-19 with Human Umbilical Cord Mesenchymal Stem Cells https://orcid.org/0000-0001-5647-1088 Bukreieva Tetiana 1 2 https://orcid.org/0000-0003-4811-3787 Svitina Hanna 1 2 https://orcid.org/0000-0002-6255-2148 Nikulina Viktoriia 2 Vega Alyona 3 Chybisov Oleksii 4 https://orcid.org/0000-0002-6613-8390 Shablii Iuliia 1 https://orcid.org/0000-0002-0774-2109 Ustymenko Alina 5 6 7 Nemtinov Petro 2 8 Lobyntseva Galyna 2 https://orcid.org/0000-0003-0529-6069 Skrypkina Inessa 1 * \u2020 Shablii Volodymyr 1 2 * \u2020 Gusev Evgenii Academic Editor 1 Laboratory of Biosynthesis of Nucleic Acids, Institute of Molecular Biology and Genetics, Department of Functional Genomics, National Academy of Science, 150 Zabolotnogo Str., 03143 Kyiv, Ukraine 2 Placenta Stem Cell Laboratory, Cryobank, Institute of Cell Therapy, 03035 Kyiv, Ukraine 3 Department of Infectious Diseases, Shupyk National Healthcare University of Ukraine, 04112 Kyiv, Ukraine 4 Endoscopic Unit, CNE Kyiv City Clinical Hospital # 4, 03110 Kyiv, Ukraine 5 Laboratory of Cell and Tissue Cultures, Department of Cell and Tissue Technologies, Institute of Genetic and Regenerative Medicine, State Institution, 04114 Kyiv, Ukraine 6 National Scientific Center \u201cInstitute of Cardiology, Clinical and Regenerative Medicine n.a. M. D. Strazhesko\u201d, National Academy of Medical Sciences of Ukraine, 03680 Kyiv, Ukraine 7 Laboratory of Pathophysiology and Immunology, D. F. Chebotarev State Institute of Gerontology of the National Academy of Medical Sciences of Ukraine, 04114 Kyiv, Ukraine 8 Coordination Center for Transplantation of Organs, Tissues and Cells, Ministry of Health of Ukraine, 01021 Kyiv, Ukraine * Correspondence: i.skrypkina@imbg.org.ua (I.S.); shabliy@stemcellclinic.com.ua (V.S.) \u2020 These authors have contributed equally to this work and share the last authorship. 23 2 2023 3 2023 24 5 4435 01 12 2022 10 2 2023 13 2 2023 \u00a9 2023 by the authors. 2023 https://creativecommons.org/licenses/by/4.0/ Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license ( https://creativecommons.org/licenses/by/4.0/ ). This study aimed to identify the impact of mesenchymal stem cell transplantation on the safety and clinical outcomes of patients with severe COVID-19. This research focused on how lung functional status, miRNA, and cytokine levels changed following mesenchymal stem cell transplantation in patients with severe COVID-19 pneumonia and their correlation with fibrotic changes in the lung. This study involved 15 patients following conventional anti-viral treatment (Control group) and 13 patients after three consecutive doses of combined treatment with MSC transplantation (MCS group). ELISA was used to measure cytokine levels, real-time qPCR for miRNA expression, and lung computed tomography (CT) imaging to grade fibrosis. Data were collected on the day of patient admission (day 0) and on the 7th, 14th, and 28th days of follow-up. A lung CT assay was performed on weeks 2, 8, 24, and 48 after the beginning of hospitalization. The relationship between levels of biomarkers in peripheral blood and lung function parameters was investigated using correlation analysis. We confirmed that triple MSC transplantation in individuals with severe COVID-19 was safe and did not cause severe adverse reactions. The total score of lung CT between patients from the Control and MSC groups did not differ significantly on weeks 2, 8, and 24 after the beginning of hospitalization. However, on week 48, the CT total score was 12 times lower in patients in the MSC group ( p \u2264 0.05) compared to the Control group. In the MSC group, this parameter gradually decreased from week 2 to week 48 of observation, whereas in the Control group, a significant drop was observed up to week 24 and remained unchanged afterward. In our study, MSC therapy improved lymphocyte recovery. The percentage of banded neutrophils in the MSC group was significantly lower in comparison with control patients on day 14. Inflammatory markers such as ESR and CRP decreased more rapidly in the MSC group in comparison to the Control group. The plasma levels of surfactant D, a marker of alveocyte type II damage, decreased after MSC transplantation for four weeks in contrast to patients in the Control group, in whom slight elevations were observed. We first showed that MSC transplantation in severe COVID-19 patients led to the elevation of the plasma levels of IP-10, MIP-1\u03b1, G-CSF, and IL-10. However, the plasma levels of inflammatory markers such as IL-6, MCP-1, and RAGE did not differ between groups. MSC transplantation had no impact on the relative expression levels of miR-146a, miR-27a, miR-126, miR-221, miR-21, miR-133, miR-92a-3p, miR-124, and miR-424. In vitro, UC-MSC exhibited an immunomodulatory impact on PBMC, increasing neutrophil activation, phagocytosis, and leukocyte movement, activating early T cell markers, and decreasing effector and senescent effector T cell maturation. COVID-19 acute respiratory distress syndrome mesenchymal stem cells cytokine microRNA correlation dynamic changes National Research Foundation of Ukraine 2020.01/0246 This study was funded by the National Research Foundation of Ukraine, grant 2020.01/0246 \u201cStudy of the state of respiratory, cardiovascular and immune systems in patients with COVID-19 pneumonia after transplantation of cryopreserved allogeneic mesenchymal stem cells\u201d. 1. Introduction COVID-19 has expanded internationally, resulting in an ongoing pandemic that has infected over 755 million individuals and killed over 6.8 million people in over 200 nations ( https://covid19.who.int/ (accessed on 14 February 2023)). COVID-19 causes fever, fatigue, muscular discomfort, diarrhea, and pneumonia, and it can be fatal in severe cases [ 1 ]. The levels of proinflammatory cytokines rise dramatically in peripheral blood plasma during COVID-19 progression [ 2 ]. The cytokine levels of IL-2, IL-6, IL-7, G-CSF, IP10, MCP1, MIP1A, and TNF-\u03b1 are determined and were mostly found to be elevated in severe COVID-19 patients with ARDS development related to lung damage and tissue fibrosis [ 3 ]. This \u2018cytokine storm\u2019 syndrome is accompanied by a decline in the overall number of T cells, T helper (CD4 + ) and cytotoxic (CD8 + ) T cells, natural killer (NK) cells, and regulatory T cells, which compromises the immune system [ 4 ]. Furthermore, patients infected with SARS-CoV-2 had high levels of monocytes and neutrophils [ 5 , 6 ]. Therefore, the normalization of COVID-19-caused immune system imbalance is a promising task for the effective treatment of this disease. Nowadays, particular interest is focused on detecting circular plasma microRNA as key regulators of specific gene expression and diagnostic markers. Numerous studies indicate miR-146, miR-27, miR-221, miR-21, miR-126, miR-92a-3p, and miR-133 are dysregulated in COVID-19 [ 7 ]. miR-27a-3p was shown to inhibit M2 macrophage polarization in an acute lung injury model in mice [ 8 ]. miR424-5p is significantly upregulated in COVID-19 patients with thrombotic disease [ 9 ]. In addition, increased miR-21 expression was reported in neutrophils and macrophages in a sepsis model in mice [ 10 ]. Thus, studying the impact of the therapy with umbilical cord mesenchymal stem cells (UC-MSC) on the plasma levels of these miRNAs may help to understand their therapeutic effect on the development of acute respiratory distress syndrome (ARDS) caused by COVID-19. MSC therapy is a promising approach to preventing the development of ARDS and multiple organ dysfunction caused by COVID-19. Based on the results of already completed clinical trials, the safety and efficacy of MSC as a regulator of the cytokine storm in treating ARDS were proven [ 3 , 11 , 12 , 13 , 14 , 15 , 16 , 17 , 18 , 19 , 20 , 21 , 22 , 23 ]. In addition, the potential therapeutic effects of MSC include the reduction of inflammation, prevention of tissue fibrosis, protection of alveolar cells, and stimulation of the regeneration of inflamed tissue, which can be strongly beneficial for COVID-19-injured organs [ 24 , 25 , 26 , 27 , 28 ]. The MSC transplantation does not require HLA-typing, and these cells have weak immunogenicity [ 29 , 30 ]. The fetoplacental complex and umbilical cord (UC) in particular are rich sources of mesenchymal stromal cells (MSC) with high proliferative properties. UC-MSC possess great immunomodulatory properties, can alter immune cell function, modulate immune responses, and reduce inflammation-induced lung injury in different pre-clinical and in vitro models [ 31 , 32 ]. The analysis of the clinical trials suggests that MSC fail to exert significant anti-inflammatory effects in the context of COVID-19 [ 33 ], although the anti-inflammatory actions of MSC may attenuate inflammation in the lung through different mechanisms described earlier [ 34 , 35 ]. Previously, MSC were shown to modulate the development, activation, and chemotaxis of dendritic cells (DCs), T cells, and B cells. MSC may be used to augment and maintain the percentage of CD28 + T cells in humans [ 36 ]. Thus, the study of the influence of UC-MSC on the immune cells of COVID-19 patients could be promising for recognizing their therapeutic potential in the treatment of COVID-19-caused ARDS. However, different protocols are currently in use for treating COVID-19 with MSC therapy varying doses of injected cells, transplant rate, and intervals between MSC infusions [ 37 ]. Moreover, numerous data are collected about the impact of MSC on the levels of proinflammatory cytokines and different immune cell counts during COVID-19 development [ 28 ]. To date, the mechanism of the therapeutic effect of MSC on the course of ARDS, acute myocardial damage, and the state of the immune system in patients with COVID-19 have not yet been thoroughly studied. The levels of microRNAs in the plasma of patients with COVID-19, as key regulators of gene expression, have not yet been sufficiently studied, especially after MSC transplantation. In addition, the influence of UC-MSC in vitro on the transcriptome and secretome of peripheral blood mononuclear cells (PBMC) from patients with ARDS caused by COVID-19 as well as on the maturation of T cells has not yet been rigorously studied. Therefore, the investigation of changes in multiple biological molecules participating in pathophysiological processes will assist in identifying the main targets of MSC, expand our understanding of their therapeutic potential, and help adjust treatment protocols.",
+    "document_source_id": "36901868",
+    "analysis_date": "2025-12-10",
+    "extracted_data": {
+      "document_summary": "This study investigated the safety and efficacy of human umbilical cord mesenchymal stem cell (UC-MSC) transplantation in patients with severe COVID-19 and acute respiratory distress syndrome (ARDS), focusing on clinical outcomes, lung functional status, hematological parameters, cytokine levels, and miRNA expression profiles. The findings demonstrated that UC-MSC therapy was safe, improved lung lesions over a one-year follow-up by reducing fibrosis and markers of lung damage (CT score, Surfactant D, sRAGE), hastened lymphocyte recovery, and modulated inflammation (decreased ESR, CRP, banded neutrophils). The treatment also showed complex immunomodulatory effects, including altered levels of several cytokines (e.g., increased IP-10, MIP-1\u03b1, G-CSF, IL-10, while IL-6, MCP-1, and RAGE remained mostly unchanged in vivo but exhibited changes in vitro) and specific miRNAs, as well as influencing PBMC activation and proliferation in vitro.",
+      "treatment_details": {
+        "therapy_type": "Human Umbilical Cord Mesenchymal Stem Cell (UC-MSC) transplantation combined with conventional anti-viral treatment (antibiotic therapy, dexamethasone).",
+        "dose_specificity": "Triple intravenous infusion of UC-MSC at a concentration of 1 \u00d7 10^6 cells/kg, administered on days 0, 3, and 6. The average cell viability was 87.8% \u00b1 5.1% before infusion. This was combined with conventional anti-viral treatment including dexamethasone and antibiotic therapy. No explicit dose-response comparisons were reported."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "Lung CT total score (Fibrosis)",
+          "measured_tissue_or_fluid": "Lung (assessed by CT imaging)",
+          "activity_type": "Imaging Score",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "12 times lower in the MSC group (p \u2264 0.05) compared to Control at week 48, with a gradual decrease from week 2 to 48 in the MSC group. In the Control group, a significant drop was observed up to week 24 and remained unchanged afterward."
+          },
+          "core_biological_function": "Indicator of lung parenchymal damage, inflammation, and fibrotic changes.",
+          "relevant_activity_context": "Severe COVID-19 pneumonia after triple UC-MSC transplantation.",
+          "performance_or_health_indicator": "Associated with improved lung functional status, reduced fibrotic changes, and recovery from COVID-19-related lung damage over time."
+        },
+        {
+          "biomarker_name": "Lymphocytes",
+          "measured_tissue_or_fluid": "Peripheral Blood",
+          "activity_type": "Cell Count/Percentage",
+          "measured_effect": {
+            "direction_of_change": "improved recovery",
+            "magnitude_quantification": "Improved recovery; increased in both groups compared to baseline, reaching a significant difference between groups on day 28. Count doubled on day 7 in the MSC group and on day 14 in the Control group. Negatively correlated with CRP."
+          },
+          "core_biological_function": "Key immune cells (T and B cells) essential for adaptive immunity, fighting infections, and viral clearance.",
+          "relevant_activity_context": "Severe COVID-19 pneumonia after MSC therapy, compared to Control group.",
+          "performance_or_health_indicator": "Indicates improved immune response/recovery, faster immune reconstitution, and attenuation of the inflammatory process."
+        },
+        {
+          "biomarker_name": "Banded neutrophils",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Cell Percentage/Count",
+          "measured_effect": {
+            "direction_of_change": "significantly lower",
+            "magnitude_quantification": "Significantly lower in the MSC group on day 14 compared to control. Gradually decreased over the first 28 days in both groups. Positively correlated with lung fibrosis intensity on weeks 24 (r = 0.457, p \u2264 0.005) and 48 (r = 0.449, p \u2264 0.005)."
+          },
+          "core_biological_function": "Immature neutrophils, often elevated in acute infection/inflammation ('left shift'), involved in inflammatory response and neutrophil-mediated immunity.",
+          "relevant_activity_context": "Severe COVID-19 pneumonia after MSC therapy.",
+          "performance_or_health_indicator": "Suggests reduced inflammatory response, improved maturation of neutrophils, and attenuation of the inflammatory process linked to lung fibrosis."
+        },
+        {
+          "biomarker_name": "ESR (Erythrocyte Sedimentation Rate)",
+          "measured_tissue_or_fluid": "Plasma/Blood",
+          "activity_type": "Inflammatory marker level/Measurement Rate",
+          "measured_effect": {
+            "direction_of_change": "decreased more rapidly",
+            "magnitude_quantification": "Decreased more rapidly in the MSC group compared to Control. Decreased in both groups on days 7 and 28. Positively correlated with CT parameters of the lung on weeks 2 (r = 0.445, p \u2264 0.005), 24 (r = 0.457, p \u2264 0.005), and 48 (r = 0.398, p \u2264 0.05)."
+          },
+          "core_biological_function": "General indirect marker of systemic inflammation, indicating the rate at which red blood cells settle.",
+          "relevant_activity_context": "Severe COVID-19 pneumonia after MSC therapy.",
+          "performance_or_health_indicator": "Indicates a reduction in systemic inflammation and is associated with lung damage; a faster decline suggests attenuation of the inflammatory process after MSC therapy."
+        },
+        {
+          "biomarker_name": "CRP (C-reactive protein)",
+          "measured_tissue_or_fluid": "Plasma/Serum/Blood plasma",
+          "activity_type": "Protein Level/Inflammatory marker level",
+          "measured_effect": {
+            "direction_of_change": "decreased more rapidly",
+            "magnitude_quantification": "Decreased more rapidly in the MSC group compared to Control. Levels started to normalize from day 0 in the MSC group and day 7 in the Control group. Positively correlated with lung damage on weeks 2 (r = 0.439, p \u2264 0.005), 8 (r = 0.386, p \u2264 0.05), 24 (r = 0.510, p \u2264 0.001), and 48 (r = 0.475, p \u2264 0.005). Negatively correlated with percentages of lymphocytes."
+          },
+          "core_biological_function": "Acute phase protein, a systemic marker of inflammation and tissue injury.",
+          "relevant_activity_context": "Severe COVID-19 pneumonia after MSC therapy.",
+          "performance_or_health_indicator": "Indicates a reduction in systemic inflammation and lung damage; a faster decline suggests suppressed inflammation and improved lymphocyte recovery."
+        },
+        {
+          "biomarker_name": "Surfactant D (SP-D)",
+          "measured_tissue_or_fluid": "Plasma/Blood/Serum",
+          "activity_type": "Protein Level/Concentration",
+          "measured_effect": {
+            "direction_of_change": "decreased",
+            "magnitude_quantification": "Decreased after MSC transplantation for four weeks. A significant decrease was observed on days 7 and 28 in the MSC group. In Control patients, slight elevations were observed or an increase from day 14 to 28. Correlated with CT total scores on week 2 (r = 0.373, p \u2264 0.05). Positive correlation with lung damage score on CT, ESR, and IP-10."
+          },
+          "core_biological_function": "Marker of alveocyte type II damage and a protein involved in innate immune defense in the lung.",
+          "relevant_activity_context": "Severe COVID-19 pneumonia after MSC transplantation.",
+          "performance_or_health_indicator": "Suggests reduced lung damage, specifically to alveocytes, improved lung epithelial integrity, and attenuation of lung inflammation after MSC therapy."
+        },
+        {
+          "biomarker_name": "IP-10 (CXCL10)",
+          "measured_tissue_or_fluid": "Plasma/Serum; conditioned media from PBMC and UC-MSC/PBMC cultures (in vitro)",
+          "activity_type": "Cytokine Level/Concentration",
+          "measured_effect": {
+            "direction_of_change": "complex response",
+            "magnitude_quantification": "Led to elevation of plasma levels. Decreased on day 7 compared to baseline in the MSC group, but was significantly higher in the MSC group compared to Control on days 7 and 28. In vitro, no significant change was observed in PBMC co-cultured with UC-MSC."
+          },
+          "core_biological_function": "Chemokine involved in immune cell trafficking, inflammation, and recruitment of T cells and NK cells to sites of infection; prognostic marker in COVID-19.",
+          "relevant_activity_context": "Severe COVID-19 patients after MSC transplantation; in vitro PBMC co-culture with UC-MSC.",
+          "performance_or_health_indicator": "Potentially indicates modulation of immune response by MSCs in COVID-19; complex response with initial decrease but sustained higher levels compared to controls at later time points, indicating a nuanced immunomodulatory effect."
+        },
+        {
+          "biomarker_name": "MIP-1\u03b1 (CCL3)",
+          "measured_tissue_or_fluid": "Plasma/Serum; conditioned media from PBMC and UC-MSC/PBMC cultures (in vitro)",
+          "activity_type": "Cytokine Level/Content/Secretion",
+          "measured_effect": {
+            "direction_of_change": "complex response",
+            "magnitude_quantification": "Led to elevation of plasma levels. Significantly higher on days 7 and 28 in the MSC group compared to Control. In vitro, remarkably attenuated secretion."
+          },
+          "core_biological_function": "Chemokine involved in immune cell recruitment (monocytes, macrophages, neutrophils) and acute inflammation.",
+          "relevant_activity_context": "Severe COVID-19 patients after MSC transplantation; PBMC co-cultured with UC-MSC in vitro.",
+          "performance_or_health_indicator": "Suggests an immunomodulatory effect of MSCs, potentially promoting immune cell trafficking in vivo while reducing secretion in a direct in vitro co-culture model; indicates a complex immunomodulatory response without disease aggravation."
+        },
+        {
+          "biomarker_name": "G-CSF (Granulocyte-colony stimulating factor)",
+          "measured_tissue_or_fluid": "Plasma/Serum; conditioned media from PBMC and UC-MSC/PBMC cultures (in vitro)",
+          "activity_type": "Cytokine Level/Content/Concentration",
+          "measured_effect": {
+            "direction_of_change": "increased",
+            "magnitude_quantification": "Led to elevation of plasma levels. Gradually decreased in the Control group, in contrast to the MSC group, where it increased consistently throughout the observation period, reaching a significant difference between groups on days 14 and 28. In vitro, a significant increase was observed."
+          },
+          "core_biological_function": "Stimulates neutrophil production, maturation, and release from bone marrow, involved in immune response and inflammation.",
+          "relevant_activity_context": "Severe COVID-19 patients after MSC transplantation; PBMC co-cultured with UC-MSC in vitro.",
+          "performance_or_health_indicator": "Potentially indicates modulation of immune response by MSCs, possibly promoting leukocyte recovery and immune system support without worsening inflammation."
+        },
+        {
+          "biomarker_name": "IL-10 (Interleukin-10)",
+          "measured_tissue_or_fluid": "Plasma/Blood/Serum; conditioned media from PBMC and UC-MSC/PBMC cultures (in vitro)",
+          "activity_type": "Cytokine Level/Influx/Secretion",
+          "measured_effect": {
+            "direction_of_change": "complex response",
+            "magnitude_quantification": "Led to elevation of plasma levels. Significantly higher on day 7 in the blood of MSC patients compared to Control. Significant influx in the MSC group after final transplantation. In vitro, remarkably attenuated secretion; a drop was observed."
+          },
+          "core_biological_function": "Anti-inflammatory cytokine, regulates immune response and promotes immune tolerance.",
+          "relevant_activity_context": "Severe COVID-19 patients after MSC transplantation; PBMC co-cultured with UC-MSC in vitro.",
+          "performance_or_health_indicator": "Indicates an anti-inflammatory effect or modulation of the immune response by MSCs, which could be beneficial in dampening excessive inflammation in severe COVID-19; complex immunomodulatory response with elevated levels in vivo but reduced secretion in vitro."
+        },
+        {
+          "biomarker_name": "IL-6 (Interleukin-6)",
+          "measured_tissue_or_fluid": "Plasma; conditioned media from PBMC and UC-MSC/PBMC cultures (in vitro)",
+          "activity_type": "Cytokine Level/Concentration",
+          "measured_effect": {
+            "direction_of_change": "unchanged in vivo, increased in vitro",
+            "magnitude_quantification": "Plasma levels did not differ between groups and did not change significantly during the observation period in both groups. In vitro, a significant increase was observed."
+          },
+          "core_biological_function": "Pro-inflammatory cytokine, involved in acute phase response and the 'cytokine storm' in severe COVID-19.",
+          "relevant_activity_context": "Severe COVID-19 patients after MSC transplantation; PBMC co-cultured with UC-MSC in vitro.",
+          "performance_or_health_indicator": "Indicates no significant impact of MSCs on this systemic inflammatory marker in vivo, but reflects immunomodulatory effects on immune cells in vitro, contributing to inflammatory signaling."
+        },
+        {
+          "biomarker_name": "MCP-1 (Monocyte Chemoattractant Protein-1)",
+          "measured_tissue_or_fluid": "Plasma; conditioned media from PBMC and UC-MSC/PBMC cultures (in vitro)",
+          "activity_type": "Cytokine Level/Concentration",
+          "measured_effect": {
+            "direction_of_change": "unchanged in vivo, increased in vitro",
+            "magnitude_quantification": "Plasma concentrations did not differ significantly between the MSC and Control groups overall. Levels positively correlated with total score of CT on weeks 8 (r = 0.471, p \u2264 0.005) and 48 (r = 0.499, p \u2264 0.005). Levels increased slightly during the first week but remained unchanged until day 28 in the MSC group. In vitro, a significant increase was observed."
+          },
+          "core_biological_function": "Chemokine that recruits monocytes, macrophages, and dendritic cells to sites of inflammation and infection.",
+          "relevant_activity_context": "Severe COVID-19 patients after MSC transplantation; PBMC co-cultured with UC-MSC in vitro.",
+          "performance_or_health_indicator": "Associated with lung damage and inflammatory response; stabilized levels in vivo suggest a controlled inflammatory process, while increased levels in vitro reflect immunomodulatory effects promoting inflammatory signaling."
+        },
+        {
+          "biomarker_name": "sRAGE (soluble form of the Receptor for Advanced Glycation End-products)",
+          "measured_tissue_or_fluid": "Plasma/Blood plasma",
+          "activity_type": "Inflammatory marker level/Protein concentration",
+          "measured_effect": {
+            "direction_of_change": "slightly lower in MSC, complex in Control",
+            "magnitude_quantification": "Plasma levels did not differ between groups. Levels positively correlated with CT scores on weeks 2 (r = 0.437, p \u2264 0.005), 8 (r = 0.436, p \u2264 0.01), 24 (r = 0.420, p \u2264 0.01), and 48 (r = 0.510, p \u2264 0.005). Positively correlated with plasma levels of MCP-1, MIP-1\u03b1, and total CT score. In the MSC group, there was a slight decrease over the entire period of hospitalization, whereas in Control patients, it significantly reduced after 7 days and increased on days 14 and 28."
+          },
+          "core_biological_function": "Cell surface receptor involved in inflammation and immune responses; sRAGE is a lung injury marker specific for type I alveolar epithelium.",
+          "relevant_activity_context": "Severe COVID-19 patients after MSC transplantation.",
+          "performance_or_health_indicator": "Prognostic biomarker of ARDS and severe COVID-19 development; a sustained slight decrease in the MSC group suggests potential reduction in lung inflammation and injury over time, indicating a positive effect on pulmonary health."
+        },
+        {
+          "biomarker_name": "miR-146a-5p",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "miRNA expression level (Gene Transcript)",
+          "measured_effect": {
+            "direction_of_change": "decreased, less in MSC group",
+            "magnitude_quantification": "No significant impact on relative expression levels (miR-146a). Decreased on days 7 and 28 in both groups compared to baseline. Decreased more than fourfold in Control group but only twofold in MSC group."
+          },
+          "core_biological_function": "MicroRNA involved in immune regulation and inflammation, often suppressing NF-\u03baB signaling.",
+          "relevant_activity_context": "Severe COVID-19 patients after MSC transplantation.",
+          "performance_or_health_indicator": "Suggests modulation of inflammatory pathways; MSCs might attenuate the decrease compared to control, potentially indicating a more controlled immune response or less severe inflammatory burden."
+        },
+        {
+          "biomarker_name": "miR-27a-3p",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "miRNA expression level (Gene Transcript)",
+          "measured_effect": {
+            "direction_of_change": "changed in MSC group, no overall impact",
+            "magnitude_quantification": "No significant impact on relative expression levels (miR-27a). Significantly different on days 7 and 28 compared to baseline in the MSC group (specific direction not provided for miR-27a-3p)."
+          },
+          "core_biological_function": "MicroRNA involved in gene regulation, often implicated in inflammation, angiogenesis, and fibrosis, and known to inhibit M2 macrophage polarization.",
+          "relevant_activity_context": "Severe COVID-19 patients after MSC transplantation.",
+          "performance_or_health_indicator": "Implies modulation of gene expression by MSCs, potentially impacting disease progression or recovery by influencing inflammatory or reparative pathways."
+        },
+        {
+          "biomarker_name": "miR-126-3p",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "miRNA expression level (Gene Transcript)",
+          "measured_effect": {
+            "direction_of_change": "unchanged in MSC, changed in Control",
+            "magnitude_quantification": "No significant impact on relative expression levels (miR-126). On day 14, the relative expression level differed significantly from day 0 in the Control group, whereas in the MSC group, it did not change for 28 days."
+          },
+          "core_biological_function": "MicroRNA involved in angiogenesis, vascular integrity, inflammation, and endothelial cell function.",
+          "relevant_activity_context": "Severe COVID-19 patients after MSC transplantation.",
+          "performance_or_health_indicator": "Stability in the MSC group suggests a potential protective or stabilizing effect on vascular processes, whereas significant change in the Control group might indicate disease progression affecting vascularity and tissue integrity."
+        },
+        {
+          "biomarker_name": "miR-221-3p",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "miRNA expression level (Gene Transcript)",
+          "measured_effect": {
+            "direction_of_change": "decreased, less in MSC group",
+            "magnitude_quantification": "No significant impact on relative expression levels (miR-221). Decreased on days 7 and 28 in both groups compared to baseline. Decreased more than threefold in the Control group but only twofold in the MSC group."
+          },
+          "core_biological_function": "MicroRNA involved in cell proliferation, apoptosis, and angiogenesis; implicated in tumor progression and immune regulation.",
+          "relevant_activity_context": "Severe COVID-19 patients after MSC transplantation.",
+          "performance_or_health_indicator": "Suggests modulation of cellular processes; MSCs might attenuate the decrease compared to control, potentially supporting tissue repair or immune cell function during recovery."
+        },
+        {
+          "biomarker_name": "miR-21-5p",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "miRNA expression level (Gene Transcript)",
+          "measured_effect": {
+            "direction_of_change": "decreased, less in MSC group, negatively correlated with lung damage",
+            "magnitude_quantification": "No significant impact on relative expression levels (miR-21). Decreased on days 7 and 28 in both groups compared to baseline. Decreased more than fourfold in the Control group but only twofold in the MSC group. Negatively correlated with CT total score on weeks 2 (r = \u22120.412, p \u2264 0.01), 8 (r = \u22120.479, p \u2264 0.005), and 48 (r = \u22120.353, p \u2264 0.05)."
+          },
+          "core_biological_function": "MicroRNA often associated with cell proliferation, apoptosis, inflammation, and fibrosis.",
+          "relevant_activity_context": "Severe COVID-19 patients after MSC transplantation.",
+          "performance_or_health_indicator": "Suggests modulation of cellular processes and inflammation; MSCs might attenuate the decrease compared to control, potentially mitigating fibrosis or excessive inflammatory responses in COVID-19. Negatively correlated with lung damage."
+        },
+        {
+          "biomarker_name": "miR-133a-3p",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "miRNA expression level (Gene Transcript)",
+          "measured_effect": {
+            "direction_of_change": "decreased in MSC group, no overall impact",
+            "magnitude_quantification": "No significant impact on relative expression levels (miR-133). Decreased threefold by day 7 in the MSC group."
+          },
+          "core_biological_function": "Muscle-specific microRNA, also implicated in cardiac health, cell differentiation, and apoptotic pathways.",
+          "relevant_activity_context": "Severe COVID-19 patients after MSC transplantation.",
+          "performance_or_health_indicator": "Implies modulation of muscle-related processes or cardiac response by MSCs, relevant given systemic complications of severe COVID-19 affecting muscle and cardiac tissues."
+        },
+        {
+          "biomarker_name": "miR-92a-3p",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "miRNA expression level (Gene Transcript)",
+          "measured_effect": {
+            "direction_of_change": "elevated overall, higher in MSC, negatively correlated with lung damage",
+            "magnitude_quantification": "No significant impact on relative expression levels (miR-92a-3p). In Control group on days 0 and 7, levels were significantly lower compared to MSC group. Levels were elevated in both groups over the observation period. CT total scores correlated negatively with relative expression levels (r = \u22120.480, p \u2264 0.005) during week 2. Negatively associated with CRP, SP-D, and IP-10."
+          },
+          "core_biological_function": "MicroRNA often associated with cell proliferation, angiogenesis, and immune regulation; considered an inflammatory biomarker.",
+          "relevant_activity_context": "Severe COVID-19 patients after MSC transplantation.",
+          "performance_or_health_indicator": "Suggests modulation of cellular processes and immune response, with MSCs maintaining higher levels initially, potentially contributing to immune regulation or tissue repair. Negatively correlated with lung lesions and potentially indicates a compensatory role in reducing inflammation."
+        },
+        {
+          "biomarker_name": "miR-124",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "miRNA expression level (Gene Transcript)",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "No significant impact on relative expression levels."
+          },
+          "core_biological_function": "MicroRNA, regulates gene expression, implicated in neuronal differentiation and immune cell function.",
+          "relevant_activity_context": "Severe COVID-19 patients after MSC transplantation.",
+          "performance_or_health_indicator": "Indicates no significant impact of MSCs on the expression of this specific miRNA in the measured context."
+        },
+        {
+          "biomarker_name": "miR-424-5p",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "miRNA expression level (Gene Transcript)",
+          "measured_effect": {
+            "direction_of_change": "elevated, negatively correlated with lung damage",
+            "magnitude_quantification": "No significant impact on relative expression levels (miR-424). Elevated in both the Control and MSC groups over the observation period. Correlated negatively with lung damage degree on weeks 2 (r = \u22120.571, p \u2264 0.001), 8 (r = \u22120.426, p \u2264 0.01), and 24 (r = \u22120.351, p \u2264 0.05). Negatively associated with CRP, SP-D, and IP-10."
+          },
+          "core_biological_function": "MicroRNA involved in cell proliferation, angiogenesis, macrophage differentiation, and inflammation.",
+          "relevant_activity_context": "Severe COVID-19 patients after MSC transplantation.",
+          "performance_or_health_indicator": "Suggests activation of cellular processes possibly involved in tissue repair or immune response during severe COVID-19. Negatively correlated with lung damage, potentially indicating a compensatory role in reducing inflammation."
+        },
+        {
+          "biomarker_name": "White blood cells (WBC) count",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Cell Count",
+          "measured_effect": {
+            "direction_of_change": "increased then decreased",
+            "magnitude_quantification": "Increased on day 7 with a subsequent decrease on day 28 in both groups. Differences between groups did not reach significance."
+          },
+          "core_biological_function": "Primary components of the immune system, involved in defending the body against infections and inflammation.",
+          "relevant_activity_context": "Severe COVID-19 with UC-MSC application.",
+          "performance_or_health_indicator": "General indicator of immune response and systemic inflammation in COVID-19 patients."
+        },
+        {
+          "biomarker_name": "Granulocytes (Gra) count",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Cell Count",
+          "measured_effect": {
+            "direction_of_change": "decreased",
+            "magnitude_quantification": "Decreased on day 28 compared to day 0 significantly in the MSC group, in contrast to the Control group."
+          },
+          "core_biological_function": "Type of white blood cell involved in innate immune response, primarily fighting bacterial infections and acute inflammation.",
+          "relevant_activity_context": "Severe COVID-19 with UC-MSC application.",
+          "performance_or_health_indicator": "Indicates resolution of acute inflammation or modulation of the innate immune response by MSCs in severe COVID-19."
+        },
+        {
+          "biomarker_name": "Eosinophils (Eo) percentage",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Cell Percentage",
+          "measured_effect": {
+            "direction_of_change": "increased",
+            "magnitude_quantification": "A slight but significant increase was observed on day 28 in the MSC group compared to baseline. In the Control group, the percentage of Eo increased two-fold from days 14 to 28."
+          },
+          "core_biological_function": "Type of white blood cell involved in allergic reactions, asthma, and fighting parasitic infections; plays a role in immune modulation.",
+          "relevant_activity_context": "Severe COVID-19 with UC-MSC application.",
+          "performance_or_health_indicator": "Potentially indicates modulation of allergic/inflammatory responses or a shift in the immune profile during recovery from severe COVID-19."
+        },
+        {
+          "biomarker_name": "Monocytes (Mo) percentage",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Cell Percentage",
+          "measured_effect": {
+            "direction_of_change": "increased",
+            "magnitude_quantification": "Did not change during the first four weeks in the Control group, whereas in the MSC group, it increased significantly from day 14."
+          },
+          "core_biological_function": "Type of white blood cell that differentiates into macrophages and dendritic cells, involved in phagocytosis, antigen presentation, and tissue repair.",
+          "relevant_activity_context": "Severe COVID-19 with UC-MSC application.",
+          "performance_or_health_indicator": "Suggests activation of the mononuclear phagocyte system, potentially aiding in tissue repair, immune clearance, and long-term immune responses during recovery from severe COVID-19."
+        },
+        {
+          "biomarker_name": "Leucopenia (presence)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Clinical Condition/Cell Count Status",
+          "measured_effect": {
+            "direction_of_change": "lower prevalence",
+            "magnitude_quantification": "On the initial day, 5 out of 14 (35.71%) patients in the Control group and 2 out of 13 (15.38%) patients in the MSC group had leucopenia."
+          },
+          "core_biological_function": "Lower-than-normal white blood cell count, compromising immune defense.",
+          "relevant_activity_context": "Severe COVID-19 with UC-MSC application.",
+          "performance_or_health_indicator": "Reflects immune suppression or severe infection; a lower initial prevalence in the MSC group might indicate a better baseline or early intervention effect."
+        },
+        {
+          "biomarker_name": "Leukocytosis (presence)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Clinical Condition/Cell Count Status",
+          "measured_effect": {
+            "direction_of_change": "no significant difference in prevalence",
+            "magnitude_quantification": "3 out of 15 (20.0%) patients in the Control group and 3 out of 13 (23.07%) patients in the MSC group had leukocytosis on day 7."
+          },
+          "core_biological_function": "Higher-than-normal white blood cell count, usually indicative of an active immune response to infection or inflammation.",
+          "relevant_activity_context": "Severe COVID-19 with UC-MSC application.",
+          "performance_or_health_indicator": "Reflects an active immune response or ongoing inflammation; similar prevalence between groups suggests comparable initial inflammatory states or response to therapy regarding this specific marker."
+        },
+        {
+          "biomarker_name": "Lymphopenia (presence)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Clinical Condition/Cell Count Status",
+          "measured_effect": {
+            "direction_of_change": "lower prevalence",
+            "magnitude_quantification": "Lymphopenia was observed in 12 out of 14 (85.71%) patients in the Control group and 7 out of 13 (53.84%) patients in the MSC group on day 7. On day 28, 1 out of 10 (10%) patients in the MSC group had lymphopenia, whereas no lymphopenia was observed in the Control group."
+          },
+          "core_biological_function": "Lower-than-normal lymphocyte count, impairing adaptive immunity.",
+          "relevant_activity_context": "Severe COVID-19 with UC-MSC application.",
+          "performance_or_health_indicator": "Predicts worse outcomes in COVID-19; MSCs appear to improve lymphocyte counts and reduce lymphopenia prevalence, suggesting better immune recovery and prognosis."
+        },
+        {
+          "biomarker_name": "IL-2 (Interleukin 2)",
+          "measured_tissue_or_fluid": "Plasma; conditioned media from PBMC and UC-MSC/PBMC cultures (in vitro)",
+          "activity_type": "Protein Level/Cytokine concentration",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "Did not change significantly during the observation period in both groups and did not differ significantly between MSC and Control groups in plasma. In vitro, did not change significantly."
+          },
+          "core_biological_function": "Cytokine that promotes the growth, proliferation, and differentiation of T cells, essential for adaptive immunity; T cell growth factor.",
+          "relevant_activity_context": "Severe COVID-19 with UC-MSC application; PBMC co-cultured with UC-MSC in vitro.",
+          "performance_or_health_indicator": "No significant impact observed on this T-cell growth factor, suggesting MSC therapy did not overtly alter T-cell proliferation signaling via IL-2 in vivo or directly in this co-culture model."
+        },
+        {
+          "biomarker_name": "N-terminal prohormone of brain natriuretic peptide (NT-proBNP) concentration",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "increased",
+            "magnitude_quantification": "In the plasma of MSC patients, it rose significantly on day 28 compared to days 0 and 14. An insignificant elevation was observed on day 28 in the Control group."
+          },
+          "core_biological_function": "Biomarker for cardiac dysfunction and strain, particularly in heart failure.",
+          "relevant_activity_context": "Severe COVID-19 with UC-MSC application.",
+          "performance_or_health_indicator": "Elevated levels can indicate cardiac strain or injury; the significant increase in the MSC group on day 28 warrants further investigation into potential cardiac implications or interactions with MSCs."
+        },
+        {
+          "biomarker_name": "Troponin I (TnI) levels",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "unchanged in MSC, decreased in Control",
+            "magnitude_quantification": "Did not change in MSC patients, whereas in the Control group, it decreased significantly on days 7, 14, and 28 compared to baseline."
+          },
+          "core_biological_function": "Cardiac marker; elevated levels indicate myocardial injury.",
+          "relevant_activity_context": "Severe COVID-19 with UC-MSC application.",
+          "performance_or_health_indicator": "Stability in the MSC group versus a significant decrease in the Control group suggests differing cardiac injury profiles or recovery paths, potentially indicating that MSCs do not improve acute cardiac injury as effectively as standard care alone in this context, or that baseline differences exist."
+        },
+        {
+          "biomarker_name": "Serine hydrolase, serine-type peptidase, serine-type endopeptidase, endopeptidase, metallopeptidase activities",
+          "measured_tissue_or_fluid": "PBMC",
+          "activity_type": "Gene transcript (Gene Ontology molecular function)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Most significantly overrepresented activities among 2993 upregulated genes."
+          },
+          "core_biological_function": "Various enzymatic activities involved in protein modification and degradation.",
+          "relevant_activity_context": "PBMC co-cultured with UC-MSC in vitro.",
+          "performance_or_health_indicator": "Indicates alterations in cellular enzymatic processes, possibly related to immune function or tissue remodeling."
+        },
+        {
+          "biomarker_name": "Extracellular matrix organization, angiogenesis, immune defense (neutrophil-mediated immunity), leukocyte migration related genes",
+          "measured_tissue_or_fluid": "PBMC",
+          "activity_type": "Gene transcript (Gene Ontology biological process)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Upregulated."
+          },
+          "core_biological_function": "Fundamental biological processes related to tissue structure, blood vessel formation, and immune cell function.",
+          "relevant_activity_context": "PBMC co-cultured with UC-MSC in vitro.",
+          "performance_or_health_indicator": "Indicates increased immune defense machinery and potential for tissue repair/remodeling."
+        },
+        {
+          "biomarker_name": "Catalytic activity (acting on DNA), chromatin binding, tubulin binding related genes",
+          "measured_tissue_or_fluid": "PBMC",
+          "activity_type": "Gene transcript (Gene Ontology molecular function)",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Most relevant categories among 1179 downregulated genes."
+          },
+          "core_biological_function": "Essential molecular functions related to DNA metabolism, gene regulation, and cell structure.",
+          "relevant_activity_context": "PBMC co-cultured with UC-MSC in vitro.",
+          "performance_or_health_indicator": "Suggests a dampening of fundamental cellular activities, potentially contributing to an immunosuppressive effect."
+        },
+        {
+          "biomarker_name": "Cell division, DNA replication, cell cycle, Fanconi anemia pathway related genes",
+          "measured_tissue_or_fluid": "PBMC",
+          "activity_type": "Gene transcript (Gene Ontology biological process & KEGG annotation)",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Significantly underrepresented for cell division. Enriched categories for downregulated genes associated with cell proliferation (especially DNA replication), the cell cycle, and the Fanconi anemia pathway."
+          },
+          "core_biological_function": "Processes fundamental for cell proliferation and genomic stability.",
+          "relevant_activity_context": "PBMC co-cultured with UC-MSC in vitro.",
+          "performance_or_health_indicator": "Indicates a decrease in PBMC proliferation, suggesting an immunosuppressive effect."
+        },
+        {
+          "biomarker_name": "Apoptosis-associated genes",
+          "measured_tissue_or_fluid": "PBMC",
+          "activity_type": "Gene transcript (KEGG annotation)",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Decreased expression levels."
+          },
+          "core_biological_function": "Regulation of programmed cell death.",
+          "relevant_activity_context": "PBMC co-cultured with UC-MSC in vitro.",
+          "performance_or_health_indicator": "Reduced apoptosis, potentially contributing to cell survival or altered immune response."
+        },
+        {
+          "biomarker_name": "CD69+ CD25- and CD69+ CD25+ cell subpopulations",
+          "measured_tissue_or_fluid": "PBMC (among CD3 T cells)",
+          "activity_type": "Cell population percentage (Flow cytometry)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Increase observed."
+          },
+          "core_biological_function": "Markers for early (CD69) and mid-stage (CD25) T cell activation.",
+          "relevant_activity_context": "PBMC co-cultured with UC-MSC in vitro.",
+          "performance_or_health_indicator": "Indicates T cell activation under UC-MSC influence."
+        },
+        {
+          "biomarker_name": "Effector T cells (CXCR3+), senescent effector CD8 and CD4 T cells (CD57+ CXCR3+), and memory CD8 T cells (CD57+ CXCR3+ CD45RO+)",
+          "measured_tissue_or_fluid": "PBMC",
+          "activity_type": "Cell population percentage (Flow cytometry)",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Decreased percentage."
+          },
+          "core_biological_function": "Specific T cell subsets involved in immune response and immunological memory.",
+          "relevant_activity_context": "PBMC co-cultured with UC-MSC in vitro.",
+          "performance_or_health_indicator": "Reduction in specific effector and memory T cell pools, reflecting an immunomodulatory effect of UC-MSC on T cell responses."
+        },
+        {
+          "biomarker_name": "IL-12p70",
+          "measured_tissue_or_fluid": "Conditioned media from PBMC and UC-MSC/PBMC cultures (in vitro)",
+          "activity_type": "Cytokine secretion (ELISA)",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Remarkably attenuated secretion."
+          },
+          "core_biological_function": "Pro-inflammatory cytokine, involved in T cell differentiation.",
+          "relevant_activity_context": "PBMC co-cultured with UC-MSC in vitro.",
+          "performance_or_health_indicator": "Reflects the immunomodulatory effect of UC-MSC on immune cells, reducing the secretion of this cytokine."
+        },
+        {
+          "biomarker_name": "Ferroptosis-associated genes",
+          "measured_tissue_or_fluid": "PBMC (from COVID-19 leukocytes)",
+          "activity_type": "Gene expression",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Increased expression observed."
+          },
+          "core_biological_function": "Involved in a form of regulated cell death.",
+          "relevant_activity_context": "PBMC co-cultured with UC-MSC in vitro.",
+          "performance_or_health_indicator": "May have a positive impact, as increased expression was reported in the acute phase of COVID-19 and decreased in recovery."
+        },
+        {
+          "biomarker_name": "PD-L1 expression",
+          "measured_tissue_or_fluid": "PBMC",
+          "activity_type": "Gene expression / Protein expression",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Twice-increased level observed."
+          },
+          "core_biological_function": "Immunoregulatory protein, ligand for PD-1, involved in T-cell inhibition.",
+          "relevant_activity_context": "PBMC co-cultured with UC-MSC in vitro.",
+          "performance_or_health_indicator": "Suggests an immunosuppressive mechanism via T-cell inactivation, indicating the immunomodulatory role of MSC."
+        },
+        {
+          "biomarker_name": "PTGES and IDO2 genes",
+          "measured_tissue_or_fluid": "PBMC",
+          "activity_type": "Gene expression",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Upregulated."
+          },
+          "core_biological_function": "Involved in the production of PGE2 and IDO, soluble factors implicated in T-cell inactivation.",
+          "relevant_activity_context": "PBMC co-cultured with UC-MSC in vitro.",
+          "performance_or_health_indicator": "Indicates a mechanism for T-cell inactivation, G0/G1 arrest, apoptosis, and inhibition of inflammatory cytokine production by MSC."
+        }
+      ]
+    }
+  }
+]

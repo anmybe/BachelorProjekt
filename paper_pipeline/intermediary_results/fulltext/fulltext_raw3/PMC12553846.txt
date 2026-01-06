@@ -1,0 +1,303 @@
+pmc
+Sci Prog
+Sci Prog
+SCI
+spsci
+Science Progress
+0036-8504
+2047-7163
+SAGE Publications
+Sage UK: London, England
+12553846
+41118471
+10.1177/00368504251389459
+10.1177_00368504251389459
+Original Research Article
+Abnormally expressed lncRNAs as potential biomarkers for schizophrenia and positive symptoms
+https://orcid.org/0000-0002-4980-9543
+Song
+Hong-tao
+1
+2
+3
+Niu
+Wei
+4
+Yao
+Gao-feng
+5
+Chen
+Sheng-dong
+6
+Kong
+Ling-ming
+7
+Zhang
+Li-yi
+7
+Liu
+Huanzhong
+1
+8
+9
+1
+Department of Psychiatry,
+730785
+The Fourth Affiliated Hospital of Anhui Medical University
+, Hefei, Anhui Province, People’s Republic of China
+2
+School of Mental Health,
+74539
+Bengbu Medical University
+, Bengbu, Anhui, People's Republic of China
+3
+Anhui Engineering Research Center for Neural Regeneration Technology and Medical New Materials,
+74539
+Bengbu Medical University
+, Bengbu, People’s Republic of China
+4
+Military Psychiatry Department, No. 904 Hospital of Joint Logistics Unit, Changzhou, Jiangsu, People's Republic of China
+5
+Science and Education Department,
+594819
+The Third People's Hospital of Fuyang
+, Fuyang, Anhui, People's Republic of China
+6
+Department of Neurology, No. 904 Hospital of Joint Logistics Unit, Changzhou, Jiangsu, People's Republic of China
+7
+Prevention and Treatment Center for Psychological Diseases, No. 904 Hospital of Joint Logistics Unit, Changzhou, Jiangsu People's Republic of China
+8
+Anhui Provincial Key Laboratory for Brain Bank Construction and Resource Utilization, Hefei, People’s Republic of China
+9
+Anhui Psychiatric Center, Hefei, People’s Republic of China
+Huanzhong Liu, Department of Psychiatry, The Fourth Affiliated Hospital of Anhui Medical University, Hefei, Anhui Province, People’s Republic of China.
+Email:
+huanzhongliu@ahmu.edu.cn
+Wei Niu, Military Psychiatry Department, No. 904 Hospital of Joint Logistics Unit, Changzhou, Jiangsu 213003, People's Republic of China.
+Email:
+niuwei102@126.com
+21
+10
+2025
+Oct-Dec
+2025
+108
+4
+00368504251389459
+© The Author(s) 2025
+2025
+SAGE Publications
+https://creativecommons.org/licenses/by-nc/4.0/
+This article is distributed under the terms of the Creative Commons Attribution-NonCommercial 4.0 License (
+https://creativecommons.org/licenses/by-nc/4.0/
+) which permits non-commercial use, reproduction and distribution of the work without further permission provided the original work is attributed as specified on the SAGE and Open Access page (
+https://us.sagepub.com/en-us/nam/open-access-at-sage
+).
+Objective
+Although numerous studies have reported on the relationship between abnormal expression of long non-coding RNAs (lncRNAs) and schizophrenia (SZ), few have focused on aberrant lncRNAs as potential clinical biomarkers for diagnosing SZ and their association with psychiatric symptoms.
+Methods
+To investigate the diagnostic value of lncRNAs as specific biomarkers in the plasma of patients with SZ and to explore the relationship between the expression levels of aberrant lncRNAs and psychiatric symptoms, we examined the expression levels of ten significantly aberrant lncRNAs (ENST00000394742.3, TCONS_l2_00025502, NONHSAT098126, NONHSAT089447, ENST00000563823.2, NONHSAT021545, NONHSAT041499, ENST00000521622.1, TCONS_l2_00021339, NONHSAT1047781). The ten significantly aberrant lncRNAs were analyzed in plasma samples from 96 SZ patients and 48 healthy controls using quantitative real-time reverse transcription polymerase chain reaction. Additionally, the Positive and Negative Syndrome Scale and the Global Assessment Scale (GAS) were utilized to assess the psychiatric symptoms of the SZ patients.
+Results
+The results demonstrated that a panel of lncRNAs consisting of NONHSAT089447, NONHSAT021545, and NONHSAT041499 exhibited significant upregulation and combined diagnostic value for SZ (AUC = 0.689,
+P
+< 0.001; sensitivity: 77.1%, specificity: 58.3%). The plasma expression levels of these three abnormal lncRNAs were closely correlated with the Positive subscale score and the GAS total score (rSp: −0.401 to 0.311,
+P
+< 0.01). Notably, NONHSAT021545 accounted for 11.3% of the Positive subscale score and 11.6% of the GAS total score, respectively. Furthermore, the receiver operating characteristic curve demonstrated that NONHSAT021545 could significantly predict the severity of positive symptoms.
+Conclusions
+The combination of NONHSAT089447, NONHSAT021545, and NONHSAT041499 as a panel may serve as a potential biomarker for the diagnosis of SZ. Furthermore, these three abnormal lncRNAs, particularly NONHSAT021545, are likely implicated in the pathogenesis and development of the positive symptoms associated with SZ.
+Schizophrenia
+psychiatric symptoms
+lncRNAs
+positive symptoms
+biomarkers
+Anhui Provincial Education Department Natural Science Foundation Key Project
+2024AH051196
+typesetter
+ts19
+cover-date
+October-December 2025
+Introduction
+Schizophrenia (SZ) is a serious mental disorder with a global prevalence rate of approximately 1%,
+1
+and only 10–15% of patients are able to engage in paid employment.
+2
+This condition not only severely impairs patients' social functioning but also imposes a significant healthcare burden on families and society. Exploring the etiology of SZ and establishing objective diagnostic criteria are urgent challenges that need to be addressed. The etiology of SZ is known to be multifactorial, with both environmental and genetic factors identified as contributors to the manifestation of symptoms.
+3
+Although the pathogenesis of SZ remains unclear, numerous studies suggest that genetic factors are predominant.
+4
+,
+5
+Long non-coding RNAs (lncRNAs), which are longer than 200 nucleotides, have been shown to play a crucial role in regulating transcription initiation, transcription, and post-transcriptional processes, thereby affecting a wide range of biological functions.
+6
+,
+7
+LncRNA may participate in gene expression regulation through multiple mechanisms, including serving as signaling molecules, decoy molecules, guide molecules, or scaffold molecules, either independently or simultaneously. Recent studies have indicated that lncRNAs are not only dysregulated in various diseases but also function as direct effectors or mediators of numerous pathological symptoms.
+8
+The transcription of lncRNAs typically occurs at specific times and in certain tissues during biological development, and their transcripts may act as signaling molecules to further regulate the expression of other genes. Following DNA damage, p53 binds to the promoter region of the CDKN1A gene and activates the transcription of the PANDA gene. The resulting PANDA RNA subsequently interacts with the NF-YA protein, inhibiting the expression of pro-apoptotic genes and halting the cell cycle.
+9
+Additionally, lncRNAs can function as bait molecules to indirectly regulate the transcription of target genes. LncRNA Gas5 (Growth Arrest-Specific 5) competitively binds to the DNA-binding domain of the glucocorticoid receptor, acting as a bait molecule that effectively prevents the interaction between the glucocorticoid receptor and chromatin.
+10
+Moreover, lncRNAs can also serve a physiological role as decoys for microRNAs. Numerous studies have demonstrated that microRNAs are critically involved in the pathogenesis of SZ.
+11
+Poliseno et al. discovered that lncRNAs may sequester specific microRNAs in a bait-like manner, thereby regulating the expression of target genes associated with those microRNAs.
+12
+As one of the most complex components of higher organisms, the nervous system undergoes a series of critical molecular events during its development, necessitating precise spatio-temporal regulation of gene expression to ultimately establish a network characterized by a complex neuronal structure. lncRNAs, which are abundantly expressed in the brain,
+13
+,
+14
+play a significant role in the developmental processes of the nervous system.
+15
+,
+16
+Gene expression in the brain is frequently associated with lncRNAs
+17
+,
+18
+; for instance, the Dlx genes are crucial for brain development.
+19
+–
+21
+Numerous studies have demonstrated that aberrant expression or functional alterations of lncRNAs are closely linked to the onset of various human diseases, including neurodegenerative and psychiatric disorders.
+22
+,
+23
+The human genome encodes more than 9000 lncRNAs, some of which play crucial roles in mediating brain development and the pathogenesis of psychiatric diseases.
+24
+,
+25
+Notably, these diseases include SZ, autism spectrum disorders, Alzheimer's disease (AD), alcohol addiction, heroin addiction, gliomas, Huntington's disease, and pituitary adenomas. In comparison to control samples, over 200 lncRNAs have been identified as differentially expressed in autism spectrum disorders, with 82 being unique to the prefrontal cortex and 143 unique to the cerebellum.
+26
+The accumulation of β-amyloid plaques in the brain is a key pathogenic mechanism in AD. The mRNA of BACE1, which plays a pivotal role in the accumulation of β-amyloid plaques, is upregulated by lncRNA BACE1-AS, which has been reported to be expressed at higher levels in AD patients and in BACE1 transgenic mouse models of AD.
+27
+Numerous studies have investigated the role of lncRNAs in SZ.
+28
+,
+29
+A study involving 19 patients with early-onset SZ and 18 normal control subjects, utilizing gene chip screening and Gene Ontology analysis, confirmed a significant correlation between lncRNA expression abnormalities and the etiology and pathogenesis of SZ.
+30
+LncRNA Gomafu (also known as MIAT and RNCR2), which binds directly to the splicing factors QKI and SRSF1 (serine/arginine-rich splicing factor 1), has been identified as a novel susceptibility gene for SZ.
+31
+,
+32
+Although substantial evidence has been reported regarding the relationship between abnormal lncRNA expression and SZ, few studies have focused on aberrant lncRNAs as potential biomarkers for diagnosing SZ and their association with psychiatric symptoms. This study aims to analyze the diagnostic value of lncRNAs as specific biomarkers in the plasma of SZ patients and to investigate the relationship between the expression levels of aberrant lncRNAs and psychiatric symptoms. Our research team found that 63 lncRNAs were significantly downregulated, while 62 were significantly upregulated in the peripheral plasma of these patients by gene microarray screening.
+29
+We selected ten significantly aberrant lncRNAs (ENST00000394742.3, TCONS_l2_00025502, NONHSAT098126, NONHSAT089447, ENST00000563823.2, NONHSAT021545, NONHSAT041499, ENST00000521622.1, TCONS_l2_00021339, NONHSAT1047781) according to the gene microarray screening and further validated them using quantitative real-time reverse transcription polymerase chain reaction (qRT-PCR) in a cohort of 96 SZ patients and 48 normal controls.
+Material and methods
+Patients
+A total of 96 patients with SZ were randomly recruited based on their medical records. Clinical diagnoses were established by two consultant psychiatrists in accordance with the fourth edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-IV).
+33
+All patients were either first-episode cases or had not received antipsychotic medications for at least three months prior to the study. Individuals with other mental disorders, a history of brain trauma, or neurological diseases were excluded from participation. Additionally, those with a history of alcohol or drug abuse, individuals who had received blood transfusions within the past month, or those who underwent modified electroconvulsive therapy within the preceding three months were also excluded. Forty-eight healthy individuals, with no family history of mental illness, no severe traumatic events, and no blood transfusions in the past month, were recruited as healthy controls. The study received approval from the Medical Research Ethics Committee of Bengbu Medical University (approval number 2025-699), and was conducted in accordance with the Declaration of Helsinki. All participants agreed to participate in the project and signed the informed consent form. As shown in
+Table 1
+, there were no significant differences in age, gender, residence, sibling status, educational level, or marital status between the SZ patients and healthy controls (
+P
+> 0.05,
+Table 1
+).
+Scales assessment of the patients
+The Global Assessment Scale (GAS) is utilized to evaluate an individual's psychological, social, and occupational functioning levels. The GAS categorizes conditions into 100 levels (1–100), where a lower score indicates a more severe condition. It has been demonstrated to possess good reliability.
+34
+The Positive and Negative Syndrome Scale (PANSS) comprises 33 items, each rated on a 7-point scale from 1 to 7, arranged in increasing order of psychopathological severity, and is employed to assess the symptoms of patients with SZ.
+35
+In this study, the Chinese version of the PANSS was used for evaluation, which includes three subscales: positive, negative, and general psychopathology.
+Blood collection and RNA extraction
+All subjects underwent collection of 5 ml of venous blood from the antecubital vein using EDTA anticoagulant tubes. Following blood collection, the anticoagulant tube was gently inverted to ensure thorough mixing of the anticoagulant with the blood, and all samples were processed for RNA extraction within 2 h post-collection. The Ficoll-Paque PLUS solution was allowed to equilibrate at room temperature (15–20 °C), and all centrifugation procedures were conducted at the same temperature. A total of 2 ml of EDTA-anticoagulated blood was thoroughly mixed with an equal volume of balance solution in a 15 ml centrifuge tube using a pipette. This resulted in a total volume of 4 ml. Subsequently, 3 ml of Ficoll-Paque PLUS solution was carefully introduced into a new 15 ml centrifuge tube using a syringe, and the prepared sample (4 ml) was gently layered on top of the solution along the wall of the tube, ensuring a clear interface was maintained. The tube was centrifuged at 400×
+g
+for 30–40 min at room temperature (18–20 °C). The upper stratum, comprising plasma and platelets, was meticulously aspirated with a fresh pipette. The mononuclear lymphocytes were relocated into cryopreservation tubes and maintained at −80 °C for subsequent application. The laboratory staff documented the refrigerator's temperature at consistent intervals each day. TRIzol (Invitrogen
+®
+) is used to extract total RNA, including miRNA, from blood mononuclear lymphocytes. The extraction should be performed according to the manufacturer's instructions for specific procedures.
+Real-time quantitative reverse-transcription PCR (qrt-PCR)
+The reverse transcription reaction was conducted in accordance with the manufacturer's instructions for the TaqMan RNA Reverse Transcription Kit (Applied Biosystems, USA). The total reaction volume was 15μL, which included 5μL of total RNA, 3μL of TaqMan MicroRNA Assay, 4.16μL of nuclease-free water, 0.19μL of RNase inhibitor, 1.5μL of buffer, 1μL of Multiscribe reverse transcriptase, and 0.15μL of dNTP. Reactions were performed at varying temperatures (16 °C, 42 °C, 85 °C, and 4 °C) for different durations (30 min, 30 min, 5 min, and 10 min, respectively). Real-time quantitative PCR was carried out according to the TaqMan kit instructions (TaqMan Universal Master Mix II, Applied Biosystems, USA). The total volume of the PCR amplification system was 10μL, and the reactions underwent 40 cycles. The PCR Ct values were measured using the 7900 Real-Time PCR System (Applied Biosystems, USA), with each reaction performed in duplicate. Data were analyzed using SDS 2.4 and DataAssist v3.0 software, employing β-Actin as the reference gene for data normalization. After normalization to β-Actin, the expression levels of lncRNAs were calculated using the 2
+−ΔΔCt
+method.
+Statistical analysis
+All data were analyzed using Statistical Product and Service Solutions (SPSS) 20.0. We conducted a Mann–Whitney U test on the ten lncRNAs that exhibited significant disparities in gene chip screening to further validate the differences between patients with SZ and healthy controls. A logistic stepwise regression analysis was employed to identify the lncRNAs with the most substantial impact on the case group, which were subsequently used to compute combined diagnostic indicators. By utilizing the abnormally expressed lncRNAs in SZ and the combined diagnostic indicators as detection variables, with the groupings of SZ patients and healthy controls treated as status variables, we constructed a receiver operating characteristic (ROC) curve to assess the diagnostic accuracy of lncRNAs for SZ. A Spearman correlation analysis was conducted to examine the relationship between abnormally expressed lncRNAs in the plasma of SZ patients and their psychiatric symptoms. Following this, a stepwise regression analysis was performed to determine which of the abnormally expressed lncRNAs had the most significant effect on these symptoms. All statistical analyses were two-tailed, and a
+P
+-value of less than 0.05 was considered statistically significant, unless otherwise specified.
+Results
+The demographic variables between experimental group and control group
+There were no significant differences in age, sex, residence, sibling status, educational duration, or marital status between the SZ group and the healthy control group. The demographic data for both patients and healthy controls are presented in
+Table 1
+.
+Plasma expression level of lncRNA in SZ patients and healthy controls
+The average expression levels of ten individual validated lncRNAs from SZ patients and healthy controls are presented in
+Table 2
+. According to the results of qRT-PCR, three lncRNAs (NONHSAT089447, NONHSAT021545, NONHSAT041499) showed significantly higher expression levels in SZ patients compared to healthy controls (
+P
+< 0.05). In contrast, the expression levels of the remaining seven lncRNAs (ENST00000394742.3, TCONS_l2_00025502, NONHSAT098126, ENST00000563823.2, ENST00000521622.1, TCONS_l2_00021339, NONHSAT104778) did not exhibit significant differences (
+P
+> 0.05).
+Diagnostic value of aberrant lncRNAs as specific biomarkers
+The ROC curve was established using the three aberrant lncRNAs (NONHSAT089447, NONHSAT021545, NONHSAT041499) and the combined diagnostic biomarker as testing variables, with the grouping of SZ and healthy controls serving as state variables. The results indicated that NONHSAT089447, NONHSAT021545, NONHSAT041499, and the combined diagnostic biomarker in plasma significantly predicted SZ (
+Figure 1
+and
+Table 3
+, AUC: 0.603–0.689,
+P
+< 0.05). Furthermore, Youden's index was calculated to determine the optimal cut-off values for the three aberrant lncRNAs and the combined diagnostic biomarker in predicting SZ. As shown in
+Table 4
+, the maximum Youden's index of the combined diagnostic biomarker was higher, and the area under the curve (AUC) of the combined diagnostic biomarker was significantly greater than that of the three aberrant lncRNAs. To determine whether the combined diagnostic biomarker can significantly enhance the diagnostic efficiency of individual aberrant lncRNAs for SZ, we compared the AUCs of the three aberrant lncRNAs with that of the combined diagnostic biomarker. The results indicated that the AUC of the combined diagnostic biomarker was significantly larger than that of the three aberrant lncRNAs, except for NONHSAT041499, while no significant difference was observed among the AUCs of the three aberrant lncRNAs (
+Table 4
+).
+Relationship between the aberrant lncRNAs and clinical symptoms
+Spearman correlation analysis indicated that the ΔCT values of three aberrant lncRNAs (ENST00000394742, NONHSAT089447, NONHSAT021545, NONHSAT041499) were significantly correlated with the Positive subscale score and the GAS total score (rSp: −0.401 to 0.311,
+P
+< 0.01). However, no significant correlation was observed with the Negative subscale score, the General Psychopathology subscale score, or the PANSS total score (
+P
+> 0.05) (see
+Table 5
+).
+Stepwise regression analysis was conducted using three aberrant lncRNAs (NONHSAT021545, NONHSAT041499, and NONHSAT089447) as independent variables, while the Positive subscale score and the GAS total score of SZ were treated as dependent variables. The results indicated that only NONHSAT021545 entered the regression model, explaining 11.3% of the variance in the Positive subscale score and 11.6% of the variance in the GAS total score, respectively (
+Table 6
+).
+Prediction of the severity of positive symptoms by NONHSAT021545
+According to the criteria for severe positive symptoms, participants with a positive subscale score of 22 or lower were categorized into the lower positive symptoms group (n = 50, mean positive subscale score: 16.82 ± 4.96), while those with a score above 22 were placed in the higher positive symptoms group (n = 46, mean positive subscale score:27.35 ± 3.76). As illustrated in
+Figure 2
+, the NONHSAT021545 marker significantly predicts the severity of positive symptoms.
+Discussion
+Although the pathogenesis of SZ remains unclear, current research suggests that lncRNAs, as key factors in gene regulation, may play a significant role in the mechanism of SZ. Numerous studies have identified significant alterations in lncRNA expression in the peripheral blood and post-mortem brain tissues of SZ patients compared to control samples.
+36
+,
+37
+In this study, three lncRNAs (NONHSAT089447, NONHSAT021545, and NONHSAT041499) were found to be significantly overexpressed in SZ patients compared to healthy controls. Notably, NONHSAT021545 exhibited greater sensitivity in differentiating SZ patients from normal controls than the other two aberrant lncRNAs. These findings suggest that NONHSAT089447, NONHSAT021545, and NONHSAT041499, particularly NONHSAT021545, may significantly contribute to the pathogenesis of SZ. A study involving 1093 patients with SZ, primarily exhibiting delusions, and 1180 normal controls revealed that the lncRNA MTAT, which mediates dysfunction in the nervous system, is a susceptibility gene for SZ . The gene variant rs1894720 was found to be significantly different between SZ patients and normal controls. Individuals with fewer T alleles or those carrying the AA genotype exhibited a higher risk of developing SZ.
+38
+A study found that lncRNA is involved in the regulation of nervous system growth and development, including neuronal differentiation and synaptic plasticity.
+39
+Following nervous system injury, differences in lncRNA expression have been observed. The Gomafu gene, which is highly expressed in the brain's nervous system, can interact with various splicing factors. In a study involving rats, Spadaro et al. discovered that Gomafu lncRNA is associated with anxiety-like behavior, suggesting it may be a susceptibility gene for psychiatric disorders.
+40
+Barry et al. reported that the expression of lncRNA Gomafu was downregulated in the temporal gyrus gray matter of SZ patients. Furthermore, lncRNA Gomafu showed a significant association with the SZ candidate genes DISC1 and ErbB4.
+30
+In this study, we analyzed the relationship between three aberrant lncRNAs and clinical symptoms in patients with SZ. The total score of the PANSS and its subscale scores were utilized to assess the severity of psychiatric symptoms, while the GAS total score measured disease severity. The results indicated that the three aberrant lncRNAs were significantly correlated with positive symptoms and the overall severity of SZ, with NONHSAT021545 accounting for 11.3% and 11.6%, respectively. Therefore, the abnormal expression of NONHSAT089447, NONHSAT021545, and NONHSAT041499 may be associated with positive symptoms and closely linked to the severity of SZ. Compared with healthy controls, Chen et al. found that the expression of NONHSAT089447, NONHSAT021545, and NONHSAT041499 was significantly upregulated in SZ patients. After antipsychotic treatment, the PANSS scores of the patients decreased significantly, while the expression of NONHSAT089447 and NONHSAT041499 was significantly downregulated. The downregulation of NONHSAT041499 was significantly correlated with the improvement of positive and activity symptoms, accounting for 16.9% of the improvement in positive symptoms and 15.1% of the improvement in activity symptoms.
+29
+These findings also suggest that the dysregulation of lncRNAs could be a key factor in SZ. Further research revealed that lncRNA NONHSAT089447 participates in the pathological process of SZ by upregulating the expression of dopamine receptors DRD3 and DRD5, thereby positively regulating the dopamine signaling pathway.
+41
+To date, there are no reports elucidating the specific mechanisms of lncRNAs NONHSAT021545 and NONHSAT041499 in the pathogenesis of SZ, and thus this area awaits further investigation.
+The diagnosis of SZ is primarily based on symptoms, relying mainly on clinical interviews, self-reports from patients and their relatives, and mental health assessments.
+42
+Due to the lack of objective tests, the diagnostic strategy for SZ has been widely criticized and can lead to misdiagnosis.
+43
+In our previous studies, we identified five miRNAs (miRNA-181b, miRNA-30e, miRNA-346, miRNA-34a, and miRNA-7) that exhibited significantly different expression levels between SZ patients and healthy controls, showing a significant correlation with psychiatric symptoms. These miRNAs could potentially serve as biomarkers for the diagnosis of SZ.
+44
+Notably, the significant down-regulation of miRNA-181b expression may predict improvements in negative symptoms during treatment.
+45
+lncRNAs can function as sponges for miRNAs, adsorbing specific miRNAs to regulate the expression of their target genes.
+12
+SZ risk-associated single nucleotide polymorphisms rs11165917 and rs4274102 are correlated with the expression level of MIR137HG-203, a lncRNA transcript of MIR137HG. Individuals carrying the risk allele exhibit lower expression levels of MIR137HG-203. This suggests that the SZ risk associated with the MIR137HG locus is related to the regulation of MIR137HG-203, a precursor transcript of miR-137.
+46
+In our pursuit of establishing objective diagnostic indicators for SZ, we conducted an in-depth study into the diagnostic significance of NONHSAT089447, NONHSAT021545, and NONHSAT041499, as well as a combined diagnostic biomarker based on these three lncRNAs. The findings revealed a significant distinction between SZ patients and controls in terms of the expression levels of these three aberrant lncRNAs and the combined diagnostic biomarker in the plasma. In comparison to the single abnormally expressed lncRNAs, the combined diagnostic biomarker exhibited enhanced diagnostic value. Further functional studies of competing endogenous RNAs (ceRNA) unveiled that lncRNA could regulate the post-transcription of miRNA via competing for connection to MRE with miRNA. Our results provide additional evidence that plasma NONHSAT089447, NONHSAT021545, and NONHSAT041499 may potentially be involved in the pathogenesis of SZ. When combined as a panel, these lncRNAs could serve as useful biomarkers for diagnostic tools. Among these, NONHSAT021545 showed a particularly strong correlation with the positive symptoms and severity of SZ.
+NONHSAT089447, NONHSAT021545, and NONHSAT041499 are differentially expressed in the peripheral blood of patients with SZ. As promising biomarkers, they hold certain significance for the diagnosis of SZ. Are they the only biological markers for SZ? Can they effectively distinguish SZ from anxiety, depression, or other psychiatric disorders? Other researchers from our team specifically examined the expression of these three lncRNAs in patients with SZ, major depressive disorder (MDD), generalized anxiety disorder (GAD), and normal controls (NC). The results revealed that the expression levels of these three lncRNAs were significantly higher in SZ patients compared to healthy controls, MDD patients, and GAD patients.
+41
+Further analysis indicated that the expression levels of these three lncRNAs were significantly lower in GAD patients than in NC, while no significant difference was observed between MDD patients and NC. These findings provide preliminary evidence that the upregulation of this set of lncRNAs may be a relatively specific phenomenon in SZ rather than a common feature across all psychiatric disorders.
+47
+The expression of this set of lncRNAs demonstrates a certain degree of specificity in the peripheral blood of patients with SZ. However, whether they can effectively distinguish GAD, depressive disorder, or other psychiatric conditions, and serve as a panel of biological markers for clinical auxiliary diagnosis and differential diagnosis, requires further investigation.
+Conclusions
+NONHSAT089447, NONHSAT021545, and NONHSAT041499 are highly expressed in the peripheral blood of SZ patients. These three upregulated lncRNAs can serve as potential biomarkers to assist in the diagnosis and differential diagnosis of SZ. Among them, NONHSAT021545 is significantly associated with the positive symptoms of SZ and can effectively predict the development of positive symptoms. They play important roles in the pathogenesis of SZ and the development of positive symptoms, but their specific mechanisms of action remain unclear and require further investigation.
+Author contributions:
+Huanzhong Liu and Wei Niu conceived and designed the research. Hong-tao Song and Gao-feng Yao performed the research and revised the manuscript. Sheng-dong Chen, Ling-ming kong, and Li-yi Zhang analyzed the data and draw figures.
+ORCID iD:
+Hong-tao Song
+https://orcid.org/0000-0002-4980-9543
+Ethical approval:
+This study was conducted anonymously. The study received approval from the Medical Research Ethics Committee of Bengbu Medical University (approval number 2025-699), and was conducted in accordance with the Declaration of Helsinki. All participants agreed to participate in the project and signed the informed consent form.
+Funding:
+The authors disclosed receipt of the following financial support for the research, authorship, and/or publication of this article: The research was supported by Anhui Provincial Education Department Natural Science Foundation Key Project (2024AH051196).
+The authors declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.

@@ -1,0 +1,220 @@
+[
+  {
+    "title": "pmc Nat Commun Nat Commun Nature Communications 2041-1723 Nature Publishing Group UK London 11065998 38697989 47886 10.1038/s41467-024-47886-1 Article Multimodal analysis of cfDNA methylomes for early detecting esophageal squamous cell carcinoma and precancerous lesions http://orcid.org/0000-0002-9775-2342 Liu Jiaqi 1 2 Dai Lijun 3 Wang Qiang 4 Li Chenghao 3 http://orcid.org/0000-0003-3542-0905 Liu Zhichao 5 http://orcid.org/0000-0002-1154-931X Gong Tongyang 1 Xu Hengyi 1 Jia Ziqi 2 Sun Wanyuan 1 Wang Xinyu 3 Lu Minyi 1 Shang Tongxuan 2 Zhao Ning 1 Cai Jiahui 1 http://orcid.org/0000-0001-5086-5334 Li Zhigang 5 http://orcid.org/0000-0003-4924-6100 Chen Hongyan chenhongyan@cicams.ac.cn 1 http://orcid.org/0000-0003-1054-6042 Su Jianzhong sujz@wmu.edu.cn 3 http://orcid.org/0000-0003-4242-033X Liu Zhihua liuzh@cicams.ac.cn 1 1 grid.506261.6 0000 0001 0706 7839 State Key Laboratory of Molecular Oncology, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, 100021 Beijing, China 2 https://ror.org/02drdmm93 grid.506261.6 0000 0001 0706 7839 Department of Breast Surgical Oncology, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, 100021 Beijing, China 3 https://ror.org/00rd5t069 grid.268099.c 0000 0001 0348 3990 Oujiang Laboratory (Zhejiang Lab for Regenerative Medicine, Vision and Brain Health), Eye Hospital, Wenzhou Medical University, Wenzhou, 325027 China 4 https://ror.org/02drdmm93 grid.506261.6 0000 0001 0706 7839 Department of Anesthesiology, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, 100021 Beijing, China 5 grid.16821.3c 0000 0004 0368 8293 Department of Thoracic Surgery, Shanghai Chest Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, 200030 China 2 5 2024 2 5 2024 2024 15 3700 12 11 2023 10 4 2024 \u00a9 The Author(s) 2024 https://creativecommons.org/licenses/by/4.0/ Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article\u2019s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article\u2019s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/ . Detecting early-stage esophageal squamous cell carcinoma (ESCC) and precancerous lesions is critical for improving survival. Here, we conduct whole-genome bisulfite sequencing (WGBS) on 460 cfDNA samples from patients with non-metastatic ESCC or precancerous lesions and matched healthy controls. We develop an expanded multimodal analysis (EMMA) framework to simultaneously identify cfDNA methylation, copy number variants (CNVs), and fragmentation markers in cfDNA WGBS data. cfDNA methylation markers are the earliest and most sensitive, detectable in 70% of ESCCs and 50% of precancerous lesions, and associated with molecular subtypes and tumor microenvironments. CNVs and fragmentation features show high specificity but are linked to late-stage disease. EMMA significantly improves detection rates, increasing AUCs from 0.90 to 0.99, and detects 87% of ESCCs and 62% of precancerous lesions with >95% specificity in validation cohorts. Our findings demonstrate the potential of multimodal analysis of cfDNA methylome for early detection and monitoring of molecular characteristics in ESCC. Esophageal squamous cell carcinoma is most commonly detected at a late stage, which limits survival and treatment options. Here, the authors utilise whole genome bisulfite sequencing to create a cfDNA framework to detect cfDNA methylation, copy number variants and fragmentation. Subject terms Tumour biomarkers Oesophageal cancer DNA methylation https://doi.org/10.13039/501100001809 National Natural Science Foundation of China (National Science Foundation of China) 82030089 82188102 82272938 Liu Jiaqi Liu Zhihua https://doi.org/10.13039/501100005090 Beijing Nova Program 20220484059 Liu Jiaqi issue-copyright-statement \u00a9 Springer Nature Limited 2024 Introduction Esophageal cancer (EC) is one of the most prevalent gastrointestinal malignancies and the sixth leading cause of cancer-related mortality worldwide 1 . Esophageal squamous cell carcinoma (ESCC), the predominant histological subtype of EC, accounts for approximately 88% of new EC cases, with the majority occurring in Eastern and Central Asia 2 . ESCC exhibits a dismal prognosis characterized by one of the lowest 5-year overall survival rates (18.5% and 36.9% in the US and China, respectively) 3 , which is largely attributed to late-stage diagnosis 4 . In contrast, early-stage ESCC, such as intramucosal ESCC, and precursor lesions like intraepithelial neoplasia (IEN), can achieve nearly 100% five-year disease-specific survival rates through endoscopic en bloc resection, obviating the need for systematic treatment 5 \u2013 7 . Therefore, early detection is critical for enhancing the survival and quality of life for ESCC patients. The gold standard for diagnosing ESCC and its precursor lesions remains endoscopy with iodine staining 8 . However, the widespread adoption of endoscopic screening faces challenges, including low compliance and the substantial cost of conducting endoscopic examinations for millions of eligible individuals in high-risk regions like China 9 . Liquid biopsy methods, capable of detecting circulating tumor DNA (ctDNA) within cell-free DNA (cfDNA) in plasma, offer a promising avenue for non-invasive early cancer detection 10 , 11 . However, few studies have assessed the utility of liquid biopsy in ESCC diagnosis 12 . Advancements in cfDNA biology, coupled with the exponential growth in data volume, have enabled the detection of tumor-specific alterations with unparalleled precision, encompassing genetic 13 , epigenetic 14 , and fragmentomic features 15 . In a recent multi-omics analysis of cfDNA within the Circulating Cell-free Genome Atlas (CCGA), whole-genome cfDNA methylation emerged as the most promising signal for cancer detection, outperforming fragmentation features and genetic variants 16 . However, there are still some challenges with methylation-based approaches for detecting ctDNA. First, the intrinsic value of genetic variants (e.g., copy number variants; CNVs) and fragmentation features (e.g., fragment size) embedded within whole-genome bisulfite sequencing (WGBS) data has been underappreciated 17 . A concurrent analysis of cfDNA methylation markers, genetic variants, and fragmentation features within a single WGBS dataset is needed. Second, given the pivotal roles of both genetic and epigenetic aberrations in the transition from precancerous lesions to ESCC 18 \u2013 20 , the mutual complementarity and combined performance of these multi-omics features remain unclear. Third, the biological significance of cfDNA methylation markers and their utility for subtyping and prognosis are largely unknown. Here, we conducted WGBS on 460 cfDNA samples from 230 patients with non-metastatic ESCC or precancerous lesions and 230 matched healthy controls (HCs) from multiple centers. To simultaneously examine the cancer-associated differentially methylated regions (DMRs), CNVs, and fragmentation features within cfDNA WGBS data, we developed a comprehensive approach termed Expanded Multi-Modal Analysis (EMMA). This approach allowed us to profile the complementarity, temporal dynamics, and detection efficacy of epigenetic and genetic features within cfDNA for ESCC. Eventually, we determined the biological relevance of optimal cfDNA methylation features in this context.",
+    "document_source_id": "38697989",
+    "analysis_date": "2025-12-10",
+    "extracted_data": {
+      "document_summary": "This study developed and validated the Expanded Multimodal Analysis (EMMA) framework for the ultra-early detection of esophageal squamous cell carcinoma (ESCC) and precancerous lesions (IENs). EMMA integrates cfDNA methylation (DMRs), copy number variations (CNVs), and fragmentation features (FSRs) derived from whole-genome bisulfite sequencing, significantly improving diagnostic accuracy and detection rates across all ESCC stages and IENs compared to single-modal approaches. The study also demonstrated the utility of cfDNA methylation markers for molecular subtyping of ESCC, revealing associations with distinct molecular subtypes, tumor microenvironments, gene expression profiles, and survival outcomes, thus offering potential for dynamic molecular monitoring and therapeutic guidance to improve patient survival.",
+      "treatment_details": {
+        "therapy_type": "Diagnostic Method Development and Biomarker-based Molecular Subtyping",
+        "dose_specificity": "The study focused on the development and validation of diagnostic methods for Esophageal Squamous Cell Carcinoma (ESCC) and precancerous lesions (IENs) using multimodal cfDNA analysis. This involved Whole-Genome Bisulfite Sequencing (WGBS) of 460 cfDNA samples (230 patients with non-metastatic ESCC/precancerous lesions and 230 matched healthy controls) to identify optimal differentially methylated regions (50 DMRs), copy number variations (153 recurrent CNV regions), and fragmentation features (83 FSRs). Machine learning models (ESCC-cfMeth, DMR plus CNV, and EMMA) were developed with 10-fold cross-validation in a discovery cohort and validated in independent cohorts. The study also explored biomarker-based molecular subtyping of 155 ESCC patients into three groups based on cfDNA methylation. ESCC patients underwent surgery or endoscopic resection, and IEN patients underwent endoscopic resection for sample collection, but no therapeutic interventions or dose-response comparisons were investigated, as the study's primary aim was diagnostic and prognostic marker development."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "cfDNA methylation (Differentially Methylated Regions - DMRs)",
+          "measured_tissue_or_fluid": "Circulating cell-free DNA (cfDNA) from plasma",
+          "activity_type": "DNA methylation patterns and levels (Methylation Profile Analysis)",
+          "measured_effect": {
+            "direction_of_change": "Altered and differential methylation, with higher detectability and sensitivity in ESCC and precancerous lesions; distinct patterns observed in methylation-dominant groups.",
+            "magnitude_quantification": "Optimal 50 DMRs (from 650 initial features) were selected, showing significant differences (p<0.05, Wilcoxon test). Detectable in 70% of ESCCs and 50% of precancerous lesions, outperforming single fragmentation or genetic variants. Contributed to increasing AUCs from 0.90 to 0.99 for EMMA detection. Optimal DMRs were located in regions with significantly high ratios of short fragment sizes. ZNF132 showed down-regulation with hypermethylated promoter, while FLT1, LINC00680, and ID1 showed upregulation with hypomethylation."
+          },
+          "core_biological_function": "Epigenetic regulation of gene expression, especially in promoter regions, serving as a stable biomarker for cancer development, cell-of-origin, and non-mutational epigenetic reprogramming. Plays a pivotal role in the transition from precancerous lesions to ESCC, impacting cell proliferation, differentiation, and tumor suppression/promotion.",
+          "relevant_activity_context": "Ultra-early detection, staging-specific detection, dynamic monitoring, and therapeutic decision-making in Esophageal Squamous Cell Carcinoma (ESCC) and intraepithelial neoplasia (IENs) using multimodal cfDNA analysis. Also used for ESCC molecular subtyping and characterization of tumor properties.",
+          "performance_or_health_indicator": "Earliest and most sensitive markers for ESCC and precancerous lesion detection, critical for improving survival and quality of life. Outperforms other single markers, enhances early detection capabilities, and forms the basis of the ESCC-cfMeth model and multi-modal diagnostic models. Predicts and monitors immunotherapy responses for the IM subtype and correlates with better survival for the methylation-dominant group."
+        },
+        {
+          "biomarker_name": "Copy Number Variations (CNVs)",
+          "measured_tissue_or_fluid": "Circulating cell-free DNA (cfDNA) from plasma; also identified in ESCC tissue samples for context",
+          "activity_type": "Genomic structural variation (amplifications and deletions) and copy number profile analysis",
+          "measured_effect": {
+            "direction_of_change": "Significantly higher rates and alterations, linked to late-stage disease and increasing with cancer stages/grades. Methylation-dominant group had the highest rate of CNV-positive ESCCs.",
+            "magnitude_quantification": "153 recurrent CNV regions (111 amplified, 42 deleted) showed significant differences (p<0.05, Wilcoxon test) in ESCC patients compared to HCs. Incidence rates: 14.67% of ESCC (discovery), 23.33% (external validation), and 6.00% of IEN patients. CNV events increased from HGIEN and correlated with cancer stages/grades. High specificity (98%-100%). Contributed to increasing AUCs from 0.90 to 0.99 for EMMA detection and detected additional stage-II/III ESCCs. Methylation-dominant group had the highest rate of CNV-positive ESCCs (68.12%), though not significantly different from other groups."
+          },
+          "core_biological_function": "Genomic structural alterations impacting gene dosage and expression, contributing to oncogene activation or tumor suppressor gene inactivation. Linked to cancer progression and closely associated with intratumor DNA methylation heterogeneity, indicating genomic instability.",
+          "relevant_activity_context": "Detection and monitoring of Esophageal Squamous Cell Carcinoma (ESCC) progression and late-stage disease and IENs using multimodal cfDNA analysis. Incorporated into diagnostic models (DMRs plus CNVs model, EMMA model) for enhanced performance. Associated with cfDNA methylation-based ESCC subtypes.",
+          "performance_or_health_indicator": "Linked to late-stage disease but offers high specificity, valuable for monitoring cancer advancement. Provides complementary diagnostic information when integrated into multi-modal models, improving detection of later-stage ESCCs. Suggests a general association between methylation-dominant subtype and genomic instability."
+        },
+        {
+          "biomarker_name": "cfDNA Fragmentation features (Fragment Size Ratios - FSRs)",
+          "measured_tissue_or_fluid": "Circulating cell-free DNA (cfDNA) from plasma",
+          "activity_type": "DNA fragment size distribution and ratios (fragmentomic features, fragmentation pattern analysis)",
+          "measured_effect": {
+            "direction_of_change": "Related to late-stage ESCC, with significantly higher ratios of short fragments. Differential features identified.",
+            "magnitude_quantification": "A higher proportion of shorter fragments (90\u2013150 bp) observed in ESCC groups. 83 differential FSR features were identified (p<0.05, Student's t-test), showing significantly higher average FSRs in ESCC patients (p=0.032 and p=2.6\u00d710\u22127). No significant difference observed in IEN patients (p=0.33). Optimal DMRs were located in regions with significantly high ratios of short fragment sizes. Contributed to increasing AUCs from 0.90 to 0.99 for EMMA detection."
+          },
+          "core_biological_function": "Reflects differences in nucleosomal organization, DNA accessibility, and altered DNA degradation patterns in tumor cells versus normal cells, influencing cfDNA release patterns. Shorter fragments are often enriched with circulating tumor DNA (ctDNA).",
+          "relevant_activity_context": "Used in multimodal cfDNA analysis for ESCC detection and identification of early-stage ESCC patients. FSRs specifically relate to late-stage ESCC, while short fragment sizes linked to optimal methylation markers enhance detection by indicating higher ctDNA proportions.",
+          "performance_or_health_indicator": "Linked to late-stage disease; limited discriminatory abilities as a standalone model (AUCs = 0.54 and 0.53) but improves detection when integrated into multi-modal models. Indicates potential for ESCC diagnosis, particularly distinguishing ESCC from HCs, though less effective for precancerous IEN detection. Potentially indicates a higher proportion of ctDNA."
+        },
+        {
+          "biomarker_name": "ESCC-cfMeth score",
+          "measured_tissue_or_fluid": "Circulating cell-free DNA (cfDNA) from plasma",
+          "activity_type": "Diagnostic score based on cfDNA methylation (cfDNA malignant ratios)",
+          "measured_effect": {
+            "direction_of_change": "Higher diagnostic performance.",
+            "magnitude_quantification": "Achieved AUCs of 0.90 (discovery), 0.89 (external validation), and 0.87 (precancerous validation). Accuracies were 82.33%, 85.00%, and 78.00% respectively, at a cutoff of 0.5. Scores were significantly higher in ESCC patients and IEN patients compared to HCs, but did not increase with ESCC stage progression. Potential for 26.90% to 35.25% increase in 5-year overall survival rates."
+          },
+          "core_biological_function": "Utilizes cfDNA methylation patterns to diagnose ESCC and precancerous lesions, reflecting biological characteristics of early-stage disease.",
+          "relevant_activity_context": "Early detection and diagnosis of Esophageal Squamous Cell Carcinoma (ESCC) and high-grade intraepithelial neoplasia (HGIEN/IEN) using circulating cell-free DNA, serving as a baseline diagnostic performance for a single methylation modality.",
+          "performance_or_health_indicator": "A capable diagnostic indicator on its own for early detection, but its performance is surpassed by multi-modal integrated models. Not suitable for indicating tumor progression through later stages."
+        },
+        {
+          "biomarker_name": "DMR plus CNV model",
+          "measured_tissue_or_fluid": "Circulating cell-free DNA (cfDNA)",
+          "activity_type": "Integrated diagnostic score combining cfDNA methylation and copy number variation data",
+          "measured_effect": {
+            "direction_of_change": "Significantly improved diagnostic performance.",
+            "magnitude_quantification": "Achieved AUCs of 0.98 (discovery, p = 2.5 \u00d7 10\u22127 vs ESCC-cfMeth), 0.94 (external validation, vs 0.89 for ESCC-cfMeth), and 0.89 (precancerous validation, vs 0.87 for ESCC-cfMeth)."
+          },
+          "core_biological_function": "Enhances diagnostic accuracy by combining epigenetic and genetic alterations in cfDNA for a more comprehensive disease signature.",
+          "relevant_activity_context": "Improved diagnostic assessment for Esophageal Squamous Cell Carcinoma (ESCC) and precancerous lesions (IENs).",
+          "performance_or_health_indicator": "Demonstrates superior diagnostic capability compared to the single-modal ESCC-cfMeth model, indicating the value of multi-modal integration for disease detection."
+        },
+        {
+          "biomarker_name": "EMMA model",
+          "measured_tissue_or_fluid": "Circulating cell-free DNA (cfDNA)",
+          "activity_type": "Integrated diagnostic score combining cfDNA methylation, copy number variation, and fragmentation size ratio data",
+          "measured_effect": {
+            "direction_of_change": "Significantly improved diagnostic performance and higher potential for survival benefits.",
+            "magnitude_quantification": "Achieved AUCs of 0.99 (discovery, p = 5.6 \u00d7 10\u22128 vs ESCC-cfMeth), 0.95 (external validation, vs 0.89 for ESCC-cfMeth), and 0.89 (precancerous validation, vs 0.87 for ESCC-cfMeth). Sensitivities improved from 70% to 87% for ESCC and 50% to 62% for precancerous lesions. Increased detection rates: 62% for IENs, 78% for stage I, 83% for stage II, and 93% for stage III ESCCs, maintaining specificities >95%. Potential increase in 5-year overall survival rates by 33.87% to 41.95%; annual application at IEN stage could increase 5-year survival by 6.9% (40.22% vs 33.37% for ESCC-cfMeth)."
+          },
+          "core_biological_function": "Provides the most comprehensive and robust diagnostic tool by integrating diverse cfDNA-based biomarkers to capture various aspects of cancer biology.",
+          "relevant_activity_context": "Optimal diagnostic strategy for early detection and comprehensive assessment of Esophageal Squamous Cell Carcinoma (ESCC) and precancerous lesions (IENs).",
+          "performance_or_health_indicator": "Represents the most effective diagnostic model, showing superior discriminatory ability, increased detection rates across all disease stages, and the highest potential for improving patient survival rates through early intervention."
+        },
+        {
+          "biomarker_name": "Cell Cycle Pathway Activation (CCA) subtype",
+          "measured_tissue_or_fluid": "ESCC patients (classified based on cfDNA methylation status)",
+          "activity_type": "Molecular Subtype Proportion",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Methylation-dominant group had 37.68% (26/69) CCA subtype, significantly higher than methylation-moderate (18.52% [10/54], p=0.03) and methylation-poor (9.38% [3/32], p=4.0 \u00d7 10^-3) groups."
+          },
+          "core_biological_function": "Characterized by recurrent Copy Number Variations (CNVs) and CpG island methylator phenotype (CIMP), indicating highly active cell cycle pathways.",
+          "relevant_activity_context": "ESCC molecular subtyping based on cfDNA methylation.",
+          "performance_or_health_indicator": "Higher proportion in methylation-dominant group indicates a strong association between high cfDNA methylation and the CCA subtype, suggesting aggressive tumor biology."
+        },
+        {
+          "biomarker_name": "Immune Modulation (IM) subtype",
+          "measured_tissue_or_fluid": "ESCC patients (classified based on cfDNA methylation status)",
+          "activity_type": "Molecular Subtype Proportion",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Methylation-dominant group had 15.94% (11/69) IM subtype, significantly lower than methylation-moderate (42.59% [23/54], p=1.2 \u00d7 10^-3) and methylation-poor (43.75% [14/32], p=5.5 \u00d7 10^-3) groups."
+          },
+          "core_biological_function": "Associated with immune-related pathways and tended to respond more effectively to immunotherapy.",
+          "relevant_activity_context": "ESCC molecular subtyping based on cfDNA methylation.",
+          "performance_or_health_indicator": "Lower proportion in methylation-dominant group, and higher in methylation-moderate/poor groups, suggests that lower cfDNA methylation is associated with an immune-modulated tumor microenvironment and potentially better response to immunotherapy."
+        },
+        {
+          "biomarker_name": "Epithelial cells",
+          "measured_tissue_or_fluid": "Tumor Microenvironment (TME) in ESCC tissues",
+          "activity_type": "Cell proportion",
+          "measured_effect": {
+            "direction_of_change": "more",
+            "magnitude_quantification": "Methylation-dominant group had more epithelial cells compared to the other two methylation groups (all p < 0.05)."
+          },
+          "core_biological_function": "Structural components of epithelial tissues, forming the bulk of the tumor.",
+          "relevant_activity_context": "Analysis of TME components in different ESCC methylation groups.",
+          "performance_or_health_indicator": "Higher proportion in methylation-dominant group indicates a distinct TME composition, potentially correlating with tumor intrinsic properties rather than immune infiltration."
+        },
+        {
+          "biomarker_name": "Immune cells",
+          "measured_tissue_or_fluid": "Tumor Microenvironment (TME) in ESCC tissues",
+          "activity_type": "Cell proportion",
+          "measured_effect": {
+            "direction_of_change": "fewer",
+            "magnitude_quantification": "Methylation-dominant group had fewer immune cells compared to the other two methylation groups (all p < 0.05)."
+          },
+          "core_biological_function": "Mediate immune responses against tumors.",
+          "relevant_activity_context": "Analysis of TME components in different ESCC methylation groups.",
+          "performance_or_health_indicator": "Fewer immune cells in the methylation-dominant group suggest an immune-suppressed or 'cold' TME, which may impact prognosis and response to immunotherapies."
+        },
+        {
+          "biomarker_name": "Differentially Expressed Genes (DEGs)",
+          "measured_tissue_or_fluid": "ESCC tissues (RNAseq data)",
+          "activity_type": "Gene expression levels",
+          "measured_effect": {
+            "direction_of_change": "Upregulated or downregulated expression.",
+            "magnitude_quantification": "153 genes showed significant differential expression (Benjamini-Hochberg-adjusted p < 0.05) when comparing methylation-dominant and methylation-poor groups. A total of 3221 significant genes (Padj<0.1, BH method) were selected, with 920 genes upregulated in the methylation-dominant cluster and 2301 genes upregulated in the methylation-poor cluster."
+          },
+          "core_biological_function": "Regulation of cellular processes, reflecting transcriptional activity and pathway involvement. Methylation-dominant group showed enrichment in cell division-related pathways (organelle fission, nuclear division, mitotic nuclear division, chromosome segregation). Methylation-poor group showed enrichment in immune-related pathways (T-cell activation, mononuclear cell differentiation, lymphocyte differentiation).",
+          "relevant_activity_context": "Comparison of gene expression profiles between methylation-dominant and methylation-poor ESCC groups, and stratification of ESCC subjects based on DNA methylation levels of 50 DMR features into distinct population groups.",
+          "performance_or_health_indicator": "Reveals distinct molecular landscapes associated with methylation subtypes, indicating different biological aggressiveness and immune context, aligning with molecular subtypes and cell components. Used to identify and characterize distinct population groups with varying DNA methylation states and understand associated biological pathways in ESCC progression."
+        },
+        {
+          "biomarker_name": "Overall Survival",
+          "measured_tissue_or_fluid": "ESCC patients' clinical data",
+          "activity_type": "Prognostic indicator",
+          "measured_effect": {
+            "direction_of_change": "better",
+            "magnitude_quantification": "Methylation-dominant group displayed better survival outcomes than the other two groups, especially in patients with grade-II ESCC (p=0.02)."
+          },
+          "core_biological_function": "Reflects the patient's long-term health status and disease progression.",
+          "relevant_activity_context": "Clinical outcome analysis in ESCC patients categorized by cfDNA methylation groups.",
+          "performance_or_health_indicator": "Better survival in the methylation-dominant group, particularly for grade-II ESCC, indicates that this cfDNA methylation signature is a favorable prognostic marker."
+        },
+        {
+          "biomarker_name": "Esophageal CIMP (E-CIMP)",
+          "measured_tissue_or_fluid": "ESCC samples (tissue)",
+          "activity_type": "Prevalence of hypermethylation",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Methylation-dominant group exhibited 52.17% (36/69) positive E-CIMP, significantly higher than methylation-poor (12.50% [4/32], p=1.5 \u00d7 10^-4) and methylation-moderate (38.89% [21/54], p=0.01) groups."
+          },
+          "core_biological_function": "CpG island methylator phenotype (CIMP) indicates widespread promoter hypermethylation, a hallmark of certain cancer subtypes.",
+          "relevant_activity_context": "Association with cfDNA methylation-based ESCC subtypes.",
+          "performance_or_health_indicator": "Higher prevalence in methylation-dominant group indicates that this group strongly correlates with a classic tissue-based hypermethylation phenotype."
+        },
+        {
+          "biomarker_name": "TP53 somatic mutation rates",
+          "measured_tissue_or_fluid": "ESCC patients",
+          "activity_type": "Somatic mutation rate",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "No significant differences in somatic mutation rates in TP53 between the three methylation groups (all p > 0.05)."
+          },
+          "core_biological_function": "Tumor suppressor gene involved in cell cycle regulation, apoptosis, and DNA repair.",
+          "relevant_activity_context": "Association with cfDNA methylation-based ESCC subtypes.",
+          "performance_or_health_indicator": "Lack of significant difference indicates that TP53 mutation status is independent of the cfDNA methylation-based subtyping in this context."
+        },
+        {
+          "biomarker_name": "APOBEC genes somatic mutation rates",
+          "measured_tissue_or_fluid": "ESCC patients",
+          "activity_type": "Somatic mutation rate",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "No significant differences in somatic mutation rates in APOBEC genes between the three methylation groups (all p > 0.05)."
+          },
+          "core_biological_function": "DNA editing enzymes that can induce specific mutational patterns in cancer.",
+          "relevant_activity_context": "Association with cfDNA methylation-based ESCC subtypes.",
+          "performance_or_health_indicator": "Lack of significant difference indicates that APOBEC gene mutation status is independent of the cfDNA methylation-based subtyping in this context."
+        },
+        {
+          "biomarker_name": "APOBEC mutational signatures (SBS2/13)",
+          "measured_tissue_or_fluid": "ESCC patients",
+          "activity_type": "Proportion of mutational signatures",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "No significant differences in the proportion of APOBEC mutational signatures between the three methylation groups (all p > 0.05). Also not associated with the status of carrying CNV in ESCC patients."
+          },
+          "core_biological_function": "Reflect specific mutational processes, often linked to APOBEC activity and genomic instability.",
+          "relevant_activity_context": "Association with cfDNA methylation-based ESCC subtypes and CNV status.",
+          "performance_or_health_indicator": "Lack of significant difference indicates that APOBEC mutational signatures are independent of the cfDNA methylation-based subtyping and CNV status in this context."
+        },
+        {
+          "biomarker_name": "TP53 and APOBEC3 genes within Fragile Site Regions (FSRs)",
+          "measured_tissue_or_fluid": "cfDNA (inferred, related to ctDNA)",
+          "activity_type": "Genomic location/overlap",
+          "measured_effect": {
+            "direction_of_change": "present",
+            "magnitude_quantification": "TP53 and APOBEC3 genes were found within the regions of FSRs, but not within DMRs or CNVs regions."
+          },
+          "core_biological_function": "TP53 (tumor suppressor), APOBEC3 (DNA editing enzyme). FSRs are genomic regions prone to breakage and instability, which can lead to higher circulating tumor DNA (ctDNA) shedding.",
+          "relevant_activity_context": "Potential for improved ESCC detection through cfDNA analysis.",
+          "performance_or_health_indicator": "Being within FSRs indicates a probably higher proportion of ctDNA originating from these regions in cfDNA, suggesting that identifying mutations in these genes in cfDNA might further improve the detection rate of ESCC."
+        }
+      ]
+    }
+  }
+]
