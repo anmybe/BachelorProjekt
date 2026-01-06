@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { Routes, Route } from 'react-router-dom';
 import BiomarkerTablePage from './pages/BiomarkerTablePage';
 import PaperDetailPage from './pages/PaperDetailPage';
 import BiomarkerPage from './pages/BiomarkerPage';
@@ -8,7 +8,7 @@ import ScrollToTop from './components/ScrollToTop';
 
 function App() {
   return (
-    <Router>
+    <>
       <ScrollToTop />
       <div style={{
         minHeight: '100vh',
@@ -27,7 +27,7 @@ function App() {
           </Routes>
         </main>
       </div>
-    </Router>
+    </>
   );
 }
 
