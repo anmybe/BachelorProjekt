@@ -1,0 +1,565 @@
+pmc
+Sci Rep
+Sci Rep
+Scientific Reports
+2045-2322
+Nature Publishing Group UK
+London
+11467386
+39390047
+74641
+10.1038/s41598-024-74641-9
+Article
+Metabolomic profiling of COVID-19 using serum and urine samples in intensive care and medical ward cohorts
+Tristán
+Ana Isabel
+1
+Jiménez-Luna
+Cristina
+2
+3
+4
+Abreu
+Ana Cristina
+1
+Arrabal-Campos
+Francisco Manuel
+5
+Salmerón
+Ana del Mar
+1
+Rodríguez
+Firma Isabel
+6
+Maresca
+Manuel Ángel Rodríguez
+6
+García
+Antonio Bernardino
+6
+Melguizo
+Consolación
+2
+3
+4
+Prados
+Jose
+jcprados@ugr.es
+2
+3
+4
+Fernández
+Ignacio
+ifernan@ual.es
+1
+1
+https://ror.org/003d3xx08
+grid.28020.38
+0000 0001 0196 9356
+Department of Chemistry and Physics, Research Centre CIAIMBITAL,
+University of Almería,
+Ctra. Sacramento, s/n, 04120 Almería, Spain
+2
+Biosanitary Research Institute of Granada (ibs.GRANADA), 18014 Granada, Spain
+3
+Institute of Biopathology and Regenerative Medicine (IBIMER), Biomedical Research Center (CIBM), 18100 Granada, Spain
+4
+https://ror.org/04njjy449
+grid.4489.1
+0000 0001 2167 8994
+Department of Anatomy and Embryology,
+University of Granada,
+18071 Granada, Spain
+5
+https://ror.org/003d3xx08
+grid.28020.38
+0000 0001 0196 9356
+Department of Engineering, CeiA3,
+University of Almería,
+Ctra. Sacramento, s/n, 04120 Almería, Spain
+6
+Torrecárdenas University Hospital, 04009 Almería, Spain
+10
+10
+2024
+10
+10
+2024
+2024
+14
+23713
+30
+5
+2024
+27
+9
+2024
+© The Author(s) 2024
+2024
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+Open Access
+This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+.
+The COVID-19 pandemic remains a significant global health threat, with uncertainties persisting regarding the factors determining whether individuals experience mild symptoms, severe conditions, or succumb to the disease. This study presents an NMR metabolomics-based approach, analysing 80 serum and urine samples from COVID-19 patients (34 intensive care patients and 46 hospitalized patients) and 32 from healthy controls. Our research identifies discriminant metabolites and clinical variables relevant to COVID-19 diagnosis and severity. These discriminant metabolites play a role in specific pathways, mainly “Phenylalanine, tyrosine and tryptophan biosynthesis”, “Phenylalanine metabolism”, “Glycerolipid metabolism” and “Arginine and proline metabolism”. We propose a three-metabolite diagnostic panel—comprising isoleucine, TMAO, and glucose—that effectively discriminates COVID-19 patients from healthy individuals, achieving high efficiency. Furthermore, we found an optimal biomarker panel capable of efficiently classify disease severity considering both clinical characteristics (obesity/overweight, dyslipidemia, and lymphocyte count) together with metabolites content (ethanol, TMAO, tyrosine and betaine).
+Supplementary Information
+The online version contains supplementary material available at 10.1038/s41598-024-74641-9.
+Keywords
+COVID-19
+Metabolomics
+NMR
+Serum
+Urine
+Biomarkers
+Subject terms
+Analytical chemistry
+Chemical biology
+Cheminformatics
+Computational biology and bioinformatics
+Molecular biology
+Biomarkers
+Diseases
+Medical research
+Molecular medicine
+Signs and symptoms
+State Research Agency of the Spanish Ministry of Science and Innovation
+PID2021-126445OB-I00
+PID2021-126445OB-I00
+PID2021-126445OB-I00
+PID2021-126445OB-I00
+PID2021-126445OB-I00
+PID2021-126445OB-I00
+PID2021-126445OB-I00
+PID2021-126445OB-I00
+PID2021-126445OB-I00
+PID2021-126445OB-I00
+Gobierno de España MCIN/AEI/10.13039/501100011033 and Unión Europea “Next Generation EU”/PRTR
+PDC2021-121248-I00, PLEC2021-007774 and CPP2022-009967
+PDC2021-121248-I00, PLEC2021-007774 and CPP2022-009967
+PDC2021-121248-I00, PLEC2021-007774 and CPP2022-009967
+PDC2021-121248-I00, PLEC2021-007774 and CPP2022-009967
+PDC2021-121248-I00, PLEC2021-007774 and CPP2022-009967
+PDC2021-121248-I00, PLEC2021-007774 and CPP2022-009967
+PDC2021-121248-I00, PLEC2021-007774 and CPP2022-009967
+PDC2021-121248-I00, PLEC2021-007774 and CPP2022-009967
+PDC2021-121248-I00, PLEC2021-007774 and CPP2022-009967
+PDC2021-121248-I00, PLEC2021-007774 and CPP2022-009967
+PDC2021-121248-I00, PLEC2021-007774 and CPP2022-009967
+Junta de Andalucía
+PREDOC_01024
+issue-copyright-statement
+© Springer Nature Limited 2024
+Introduction
+Coronavirus disease 2019 (COVID-19), a serious respiratory disease caused by the coronavirus strain SARS-CoV-2, has caused a global pandemic causing the infection of more than 523.3 million people and more than 6.2 million deaths to date
+1
+,
+2
+. This infection mainly affects the airways and lungs and presents a wide range of clinical manifestations, ranging from mild or even asymptomatic cases to severe ones where it could also affect other organs and cause neurological symptoms or vascular damage, among others. Several COVID-19 patients still experience severe cases where the infection can be fatal, primarily affecting older individuals and those with underlying health conditions like diabetes, lung diseases, or cardiovascular disease
+3
+–
+5
+. The reason behind these differences in symptoms is still not fully understood, but it seems to be linked to various altered pathophysiological pathways during this infection, so it becomes imperative to comprehend which mechanisms are dysregulated to enhance treatment strategies, ultimately impacting the metabolic profiles
+5
+.
+Metabolomics continues to evolve with ongoing research and the development of analytical techniques, mostly mass spectrometry (MS) and nuclear magnetic resonance (NMR) spectroscopy
+1
+,
+6
+. Furthermore, it employs statistical methods to characterize complex biochemical mixtures, analyzing both metabolites and metabolism, so this combined strategy probably affords the best representation of phenotype, and it enables the identification of disease biomarkers
+7
+,
+8
+. Among its benefits, NMR shows a high reproducibility, robustness, and needs a minimal sample preparation, especially in biofluids
+6
+,
+8
+. In the field of pathology diagnosis, NMR metabolomics has been key for the determination of biomarkers of many diseases using several biofluids, such as saliva for Type 1 Diabetes and Parkinson’s disease
+9
+,
+10
+, cerebrospinal fluid for inflammatory diseases
+11
+, serum for pancreatic and colorectal cancer
+12
+,
+13
+and urine for thyroid and inflammatory bowel diseases
+14
+,
+15
+.
+Due to the tremendous impact that the COVID-19 pandemic has had in recent years, there has been a considerable amount of research concerning this topic, most of them employing serum or plasma samples and preferably MS as analytical technique
+5
+,
+16
+–
+19
+.
+Regarding urine samples, there are few recent studies, mainly comparing COVID-19 patients and healthy controls, or studying the recovery from severe coronavirus infection
+20
+,
+21
+. To the best of our knowledge, no research has yet covered the analysis of COVID-19 severity alterations using urine, either alone or in combination with serum samples. Thus, in this study, we propose a novel NMR-based metabolomics investigation using two biofluids, namely serum and urine samples, collected from COVID-19 patients, including subgroups from both medical ward (MW) and intensive care units (ICU), as well as healthy controls (HC) of both genders, aged between 31 and 89 years. Our primary objective is to identify potential biomarkers that specifically differentiate between mild and severe COVID-19 symptoms. Additionally, we aim to investigate clinical correlations with the metabolome panel to better understand the influence of specific clinical features on the disease.
+Results
+Overview of study population
+The demographic data and clinical features of the COVID-19 patients admitted to the medical ward (MW) and intensive care unit (ICU), together with the demographic data of healthy controls (HC), are described in Table
+1
+and Table
+S1
+. No significant differences regarding age or sex were observed between both groups of patients and healthy controls. Most patients in both groups, MW and ICU, presented previous pathologies (80.43% and 88.24%, respectively) and also some cardiovascular risk factor (71.74% and 73.53%, respectively). Of these, overweight or obesity and dyslipidemia were more prevalent among patients in ICU (13.04% vs. 29.41% and 19.57% vs. 44.12%, respectively), although this increase was only significant for dyslipidemia (
+p
+= 0.018). As expected, certain clinical parameters were significantly more frequent in the ICU patients at the time of hospital admission, such as dyspnoea (71.11% vs. 91.18%,
+p
+= 0.028), pneumonia (64.44% vs. 88.24%,
+p
+= 0.016) and decreased oxygen saturation (
+p
+= 0.002). Laboratory findings also tended to reflect the severity of the disease between both patient groups, showing non-normal levels of the blood parameters measured in the ICU group. Particularly, we observed a statistically significant increase for lactate dehydrogenase (LDH, 48.89% vs. 76.47,
+p
+= 0.013) and fibrinogen (42.22% vs. 67.65%,
+p
+= 0.025), and a significant decrease in the lymphocyte count (37.78% vs. 79.41%,
+p
+< 0.001). The average length of hospitalization was also significantly higher in ICU patients (27.59 vs. 42.85 days,
+p
+< 0.001), as well as the mortality rate due to the disease (15.91% vs. 44.12%,
+p
+= 0.006).
+MW and ICU times associated to clinical variables
+A bivariate analysis was performed in order to determine whether certain clinical characteristics (cardiovascular risk factors and laboratory results) were associated with length of hospital stay (Table S2). We observed that patients with high ferritin or C-reactive protein levels required more time in ICU than those with normal values, being the mean number of days 32.50 vs. 16.17 for ferritin measurements (
+p
+= 0.021) and 30.78 vs. 11 days for C-reactive protein levels (
+p
+= 0.048). Likewise, high ferritin concentration was significantly associated with longer hospitalization time in patients admitted to the medical ward (27.55 vs. 10.25 days,
+p
+= 0.023), those admitted to the ICU (47.64 vs. 25.83 days,
+p
+= 0.03), as well as in both groups together (37.08 vs. 15.44 days,
+p
+= 0.002). Furthermore, considering all COVID-19 patients, we observed that a lower number of lymphocytes in the blood was significantly associated with a longer hospital stay compared to those patients with a normal lymphocyte count (36.42 vs. 26.47 days,
+p
+= 0.015) and the same trend was observed in patients admitted to the ICU (47.67 vs. 28.86 days), although this difference did not reach statistical significance (
+p
+= 0.064). These observations are consistent with previous studies in which elevated ferritin and C-reactive protein, and decreased absolute lymphocyte counts were associated with critical disease, unfavorable evolution and increased mortality due to COVID-19
+22
+,
+23
+.
+Similarly, it has been demonstrated that the cardiometabolic status has an important impact on the clinical outcome of these patients
+24
+. Disorders as hypertension, dyslipidemia, obesity and diabetes
+mellitus
+have been shown to increase the risk of severe COVID-19 and mortality
+25
+. Accordingly, in our study, having one or more cardiovascular risk factors (including hypertension, obesity/overweight, dyslipidemia, and/or diabetes
+mellitus
+) was associated with longer hospital stay in the group of patients admitted to the ward (26.00 vs. 14.25 days,
+p
+= 0.022). In fact, patients with hypertension in this group spent a mean of 27.38 days in hospital compared to those with normal values, whose stay was 16.84 days (
+p
+= 0.015). In addition, when we analyzed all COVID-19 patients, we found that having dyslipidemia was also associated with a longer time in hospital (45.5 vs. 25.92 days,
+p
+= 0.009). These results reflect the importance of these variables in the clinical setting.
+Metabolic differences between COVID-19 patients and healthy controls
+To investigate the possible differences between COVID-19 patients and healthy controls, an NMR metabolomic approach was applied first and used over a set of serum samples and then over their corresponding urine aliquots, collected in both cases under the same conditions. All the metabolite assignments of both serum and urine samples are shown in representative
+1
+H NMR spectra of each matrix on Figure
+S1
+A and Figure
+S1
+B and are described in Tables S3 and S4, respectively. It was possible the identification of 32 metabolites in serum samples, and 55 in the case of urine, falling into various classes of compounds, including amino acids, ketone bodies, organic acids, sugars, fatty acids, among others.
+First, an unbiased statistical analysis for the comparison of COVID-19 patients and healthy controls was performed by employing Principal Component Analysis (PCA) to
+1
+H NMR data of each matrix. In Figs.
+1
+A and
+2
+A appear both PCA scores plots from serum and urine data, respectively. A slight clustering trend between the COVID-19 and control samples was observed. Therefore, to emphasize the differentiation between the groups and unveil potential biomarkers, supervised analysis using Orthogonal Partial Least Squares Discriminant Analysis (OPLS-DA) was applied to each
+1
+H NMR data set. OPLS-DA model correlates the information of the samples, in this case, the COVID-19 or Control groups, with the spectral information obtained through NMR. The OPLS-DA scores plot (Figs.
+1
+B and
+2
+B for serum and urine, respectively) displayed a remarkable discrimination between samples from different groups in both matrices. Moreover, the Important Features Analysis, which reveals the discriminating molecules responsible for the separation of the spectroscopic profiles through Variable Importance in the Projection (VIP) score analysis (VIP > 1), identified specific metabolites such as trimethylamine-
+N
+-oxide (TMAO), phenylalanine,
+N
+-acetylglycoproteins (NAG), tyrosine, lysine, acetone, mannose, citrate, glycerol, and fatty acids, particularly unsaturated fatty acids (UFA), as the key molecules driving the separation between COVID-19 patients and healthy controls in the serum metabolome (Fig.
+1
+C). Otherwise, Fig.
+2
+C shows the Important Features Analysis with VIP > 1 for urine metabolites, that displays methionine, formate, fucose, arabinose,
+N
+-phenylacetylglycine, lysine, 3-methylhistidine, trigonelline, hippurate, 2-phenylpropionate, glutamine, creatinine, 3-indoxylsulphate and pseudouridine, as metabolites responsible for urine metabolome differentiation into COVID-19 patients and healthy controls. In addition, evaluation tools from univariate analysis were also taken into consideration for both matrices, including Fold Change (FC) analysis,
+p
+-values and Receiver Operating Characteristic (ROC) analysis (see below).
+To investigate more deeply the functional implications of these metabolites and their interactions in the context of COVID-19, a metabolic pathway analysis (MetPA) was performed. MetPA provides valuable information on the perturbations and alterations that occur in metabolic pathways, shedding light on their potential roles in the pathogenesis and clinical manifestations of the disease. The metabolic pathways associated with the discriminant metabolites in serum for the comparison between COVID-19 and healthy controls are shown in Fig.
+1
+D. The most affected metabolic routes by COVID-19 disease with a higher impact index are “Phenylalanine, tyrosine and tryptophan biosynthesis”, “Phenylalanine metabolism”, “Glycerolipid metabolism” and “Arginine and proline metabolism”. In the cases of “Phenylalanine, tyrosine and tryptophan biosynthesis” (
+p
+,
+p
+-Holm and
+p
+-FDR < 0.05) and “Phenylalanine metabolism” (
+p
+and
+p
+-FDR < 0.05), these two routes involve two common metabolites: tyrosine and phenylalanine. With respect to “Glycerolipid metabolism” (
+p
+< 0.05), disturbed metabolites were glycerol and fatty acids (including acyl-, diacyl- and triacylglycerols, phosphatidic and lysophosphatidic acids) and, for “Arginine and proline metabolism” (
+p
+< 0.05), metabolites that hit this pathway were creatine and proline.
+Evaluation of potential biomarkers for COVID-19 infection and severity
+One of the main questions in this past pandemic is why some people experienced severe symptoms of coronavirus while others remained asymptomatic. In this context, we conducted comparisons to deepen our understanding of the disease and its varying impacts. We analyzed metabolic differences between: (i) healthy individuals and COVID patients, (ii) patients admitted to the MW and those admitted to the ICU, and (iii) between individuals with good or poor prognoses. These comparisons aimed to shed light on the severity of symptoms (in case of comparison ii), and to investigate COVID-19 patients’ prognosis (in case of comparison iii), setting as poor prognosis those patients who required ICU admission or experienced fatal outcomes during their hospital stay. In this instance, multivariate data analysis did not yield valid models with satisfactory goodness-of-prediction (Q
+2
+) cumulative values. Consequently, we resorted to performing univariate data analysis instead. Under the criteria of fold change ≥ 1.1 or ≤ 0.9 (
+p
+< 0.05), several potential metabolite biomarkers in serum and urine in COVID-19 patients were observed, as shown in Table
+2
+. Furthermore, in order to evaluate the diagnostic performance of metabolic biomarkers, ROC analysis was conducted and the area under curve (AUC) was calculated with AUC ≥ 0.6, ranging from poor (AUC = 0.6 to 0.7), fair (AUC = 0.7 to 0.8), good (AUC = 0.8 to 0.9) to excellent (AUC = 0.9 to 1) diagnostic ability
+26
+. This ROC analysis was performed for both matrices, serum and urine, and for the three aforementioned comparisons. Table
+2
+summarizes all the comparisons studied in serum and urine, detailing the FC,
+p
+-values, AUC, cutoff, sensitivity and specificity values.
+The biomarker ability, evaluated through AUC value, of those biomarkers obtained from the OPLS-DA models was, in most cases, higher than 0.7 in serum, and higher than 0.6 in urine. In general, highest values of AUC were obtained for the COVID-19 vs. controls comparison in serum samples. Furthermore, we evaluated the sensitivity and specificity for each metabolite, and both were found to be higher than 50% in each case.
+Regarding the metabolic changes between COVID-19 and control groups, higher levels of phenylalanine, tyrosine, lysine, creatine, proline, trimethylamine (TMA), mannose, acetone, NAG and fatty acids, especially UFA, were found in serum of COVID-19 group accompanied by decrease levels of TMAO and citrate. In urine, higher levels of methionine, fucose, lysine, hippurate, 2-phenylpropionate, glutamine, 3-indoxylsulphate and pseudouridine were observed for COVID-19 group in comparison to control group, that in turn revealed higher content of formate, 3-methylhistidine, trigonelline and creatinine.
+Concerning disease severity (ICU vs. MW), a decrease on TMAO, betaine and ethanol were found in serum samples from ICU patients, while metabolic changes on the contents of TMAO, hippurate, urea, dimethylamine (DMA), 3-hydroxybutyrate (3HB), fucose, 4-hydroxyphenyl acetate, 3-methyl-2-oxovalerate, 3-indoxylsulphate, tryptophan and formate were detected in urine.
+About prognosis, we found that a decrease on betaine and TMAO were associated to a negative outcome (poor prognosis) in serum, and a decrease in
+cis
+-aconitate, urea, formate, and creatinine, methanol, DMA, and TMAO in urine, together with an increase in creatine and hippurate also in urine.
+Relation between serum metabolites and clinical parameters
+Bivariate analysis was performed to study the association between serum metabolite levels and fatal outcome in COVID-19 patients. Of total metabolites analyzed, TMAO levels were found to be significantly related with death due to the disease (
+p
+= 0.015). This is in accordance with our previous findings, in which TMAO was also found to be correlated with poor prognosis (ICU and death).
+We did not find metabolites with significant correlation with time in ICU, but in contrast, serum glucose levels were positively correlated with time spent in hospital in COVID-19 patients (
+p
+= 0.043, Fig.
+3
+A). This reinforces what has been seen in other studies, in which high glucose levels have been associated with severe disease, probably derived from sustained inflammation resulting from infection
+27
+. However, this data should be taken with caution since the time spent in hospital is a variable with a multifactorial effect component and it would not be expected that a single metabolite would be a good indicator of this response variable on its own.
+In addition, numerous metabolites were significantly correlated to clinical features in COVID-19 patients, especially those related to cardiovascular risk factors and blood parameters of tissue/cell damage and clotting factors (Fig.
+3
+B and Table S6). When we analyzed individually the group of patients admitted to medical ward, we observed some metabolites significantly correlated with having arterial hypertension or being overweight/obese (Fig.
+3
+C and Table S7). Among them, ethanol, NAG, TMA, creatine and glycerol ranked among the top positive correlates to arterial hypertension, and in the same line, n-3 fatty acids, acetoacetate, proline, glycerol, tryptophan, tyrosine and triacylglycerol levels were the top to obesity/overweight. These metabolites are involved in numerous metabolic pathways, such us arginine and proline, galactose, and glycerolipid metabolisms, which were shared between these two conditions in the correlation studies. Similarly, ICU patients also showed metabolites positively correlated with cardiovascular risk factors (Fig.
+3
+D and Table S8). In particular, the most significant metabolites were 3HB and choline for hypertension, creatine, tyrosine and acetate for overweight/obesity and TMAO for dyslipidemia, which are mainly involved in pathways of amino acid, carbohydrate and lipid metabolism. Some authors have suggested an association between the deregulation of these metabolic routes and high risk of severe COVID-19
+5
+,
+28
+–
+30
+.
+Remarkably, we also detected that certain clinical variables were associated with the same metabolite in both groups of patients. Thus, the presence of one or more cardiovascular risk comorbidities was significantly associated with increased ethanol and glycerol. In particular, increased 3HB levels were related to hypertension, and elevated n-3 fatty acids, creatine, tyrosine, phenylalanine and acetate with obesity/overweight.
+Biomarker panels based on serum metabolites and clinical variables
+The use of biomarker panels has the advantage of better capturing inter-patient variability than individual metabolites, which is more feasible when they are transferred to large cohorts. Therefore, we designed biomarker panels capable of classifying COVID-19 patients by conducting logistic regression analyses.
+First of all, we focused on constructing panels based only on metabolites. The Least Absolute Shrinkage and Selection Operator (LASSO) method was used to select the metabolites that would constitute each panel. For the model comparing COVID-19 patients with HC, eight metabolites were initially identified by the LASSO method (isoleucine, ethanol, proline, TMAO, glucose, mannose, phenylalanine and betaine). Then, a Spearman’s correlation analysis was established to determine the correlations between pairs by setting a cut-off filter of 0.7, in such a way that the metabolites with a strong positive correlation were discarded to avoid fitting problems in the logistic regression model. As shown in Table S9, the metabolites with a high degree of correlation were proline, mannose and phenylalanine. Next, the Variance Inflation Factor (VIF) was calculated to check for multicollinearity among metabolites, and we removed those with VIF > 2.5 (ethanol and betaine). Thus, the final logistic regression model included the metabolites isoleucine, TMAO and glucose. The ROC curve for this panel showed outstanding discrimination (AUC = 0.91) reporting 86.08% of sensitivity and 83.87% of specificity (Figure S5A). In addition, we investigated a model to discriminate patients admitted to the MW from ICU patients. In this case, nine metabolites were identified by LASSO regression to build the model (ethanol, lactate, alanine, citrate, creatinine, TMAO, tyrosine, betaine and acetate). After subsequent correlation analyses (Table S10), some metabolites remained strongly correlated (lactate, alanine, citrate, creatinine and acetate) and were then discarded. In this case, no metabolite presented VIF > 2.5, therefore, the panel consisted of ethanol, TMAO, tyrosine and betaine. However, this panel did not provide sufficient discriminatory capacity (AUC = 0.697, sensitivity 45.45% and specificity 91.11%, Figure S5B). Interestingly, the biomarker panels included metabolites other than those shown to be more discriminating at the individual level.
+Finally, given the insufficient discriminatory capacity of the panel discriminating both types of COVID-19 patients, those admitted to the MW and ICU patients, we constructed a multivariate logistic regression model including both metabolite levels and clinical variables (analytical results or cardiovascular risks) as independent variables, with the aim of finding a predictor model to determine the risk of severe disease in COVID-19 patients. For this purpose, a previous selection of metabolites and variables to be included in the model was made by means of LASSO regression. Firstly, six metabolites and five clinical variables were identified (obesity/overweight, dyslipidemia, C-reactive protein, neutrophiles, lymphocytes, ethanol, lactate, TMAO, tyrosine, betaine, and acetate) and after subsequent correlation analysis, two metabolites (lactate and acetate) were removed (Table S11). As described in the previous panels, collinearity was then studied, and after eliminating those variables with VIF > 2.5, the final reduced model included: obesity/overweight, dyslipidemia, lymphocytes, ethanol, TMAO, tyrosine and betaine. According to the ROC curves performed to differentiate between ICU and MW patients, this classifier model showed a good discriminatory performance (AUC = 0.825), providing a sensitivity of 81.82% and a specificity of 71.11%, for a cut-off point of 0.41 (Figure S5C). These results suggest the contribution of conditions as low lymphocytes counts, and comorbidities as obesity/overweight and dyslipidemia to COVID-19 outcomes. Furthermore, the panel included only a few variables that would facilitate its clinical implementation in order to predict which of the hospital MW patients may require admission to the ICU due to potential severity.
+Discussion
+This study demonstrates how NMR-based metabolomics can identify metabolites associated with COVID infection and its severity.
+Among previous metabolomic studies applying NMR, we can highlight the following ones. Bruzzone et al.
+31
+found elevated levels of ketone bodies (acetoacetic acid, 3-hydroxybutyric acid, acetone, and 2-hydroxybutyric acid) in serum profiles of 398 hospitalized SARS-CoV-2 patients comparing to 280 healthy controls, indicating both hepatic glutathione synthesis, that could potentially cause liver damage, dyslipidemia, and oxidative stress. Luporini et al.
+32
+analyzed 166 COVID patients ranging from mild to severe symptoms and found an independent and positive association between phenylalanine levels (that may be associated with an increased inflammation) and disease severity. Meoni et al.
+4
+. found that 11 metabolites in plasma-EDTA showed significant alterations for 30 COVID-19 patients compared with age - and sex matched controls, as well as higher levels of VLDL, and lower levels of Apo A1, Apo A2, cholesterol and free-cholesterol HDL and LDL subfractions. They also found that tocilizumab administration resulted in at least partial reversion of the metabolic alterations caused by SARS-CoV-2 infection
+4
+. Baranovicova et al.
+33
+analyzed plasma-EDTA samples from control (
+n
+= 55) and COVID-19 patients with positive and negative outcomes (
+n
+= 34,
+n
+= 19, respectively) and found discrimination on metabolites associated to energy metabolism and inflammatory processes. Schmelter et al.
+3
+also revealed distinctive differences in the metabolic and lipid profiles of serum samples from COVID-19 patients (
+n
+= 30) compared to both healthy controls (
+n
+= 58) and patients with cardiogenic shock (
+n
+= 18) and suggest that COVID-19 is associated with dyslipidemia, as already pointed out by Wu et al.
+19
+and Bruzzone et al.
+31
+Furthermore, Bizkarguenaga et al.
+34
+compared plasma samples from COVID-19 patients (
+n
+= 69) with varying degrees of symptom severity over several months, alongside uninfected control individuals (
+n
+= 71), and indicated that half of the patient population examined exhibited abnormal metabolism, characterized by altered porphyrin levels and lipoprotein profiles several months after the infection, whereas the other half showed minimal metabolic changes resulting from the disease. Correia et al.
+35
+sought to evaluate the plasma metabolomes of 57 control patients and 53 positive cases of COVID-19 with mild to severe symptoms and identified six metabolites involved in lipid and energy metabolism (glycerol, acetate, 3-aminoisobutyrate, formate, glucuronate, and lactate) as potential prognostic metabolite panels for the disease and to predict symptoms severity.
+Our research has highlighted some biomarkers that are able to differentiate, not only between COVID patients and healthy controls but also regarding good or poor prognosis of patients, with AUC higher than 0.6 in case of urine and 0.7 in case of serum samples. Regarding serum samples, they exhibited higher levels of phenylalanine, tyrosine, lysine, creatine, proline, TMA, mannose, acetone, NAG and fatty acids, especially UFA, for COVID-19 group compared to control group, that in turn, exhibited higher levels of TMAO and citrate. These findings align with previous studies
+4
+,
+31
+,
+36
+–
+38
+, which reported higher concentrations of phenylalanine, mannose, and glycoproteins in the COVID-19 group, while citrate showed higher concentration in the control group. However, the results for tyrosine and creatine have been reported in opposite direction to ours only in one case
+4
+. Acetone, tyrosine, citrate, and glycerol have been found to be discriminant metabolites between the control and COVID-19 groups, but not all studies agree on whether their content increases or decreases in the COVID-19 group
+31
+,
+35
+,
+38
+,
+39
+. Our finding in terms of greater amounts of creatine and mannose in the COVID-19 group are also in accordance with some other reports
+33
+,
+38
+. These found biomarkers implicated in COVID-19 disease play a role in specific pathways, mainly “Phenylalanine, tyrosine and tryptophan biosynthesis”, “Phenylalanine metabolism”, “Glycerolipid metabolism” and “Arginine and proline metabolism”, either activating or dysregulating them. The study of metabolic pathways is of utmost importance in understanding diseases, as abnormalities in specific pathways often underlie the development and progression of various medical conditions and is also critical for the development of targeted and effective medical treatments. Our findings agree well with previous studies, such as Schmelter et al.
+3
+that proposed changes in amino acid and lipoprotein metabolism, Blasco et al.
+17
+that unraveled the tryptophan‑nicotinamide pathway clearly linked to inflammatory signals and microbiota, or Correia et al.
+35
+and Lorente et al.
+39
+that found altered phenylalanine, tyrosine and tryptophan biosynthesis, together with the glycerolipid metabolism.
+In urine samples, we revealed higher levels of methionine, fucose, lysine, hippurate, 2-phenylpropionate, glutamine, 3-indoxylsulphate and pseudouridine for COVID-19 group in comparison to control group, that in turn revealed higher content of formate, 3-methylhistidine, trigonelline and creatinine. Marhuenda-Egea et al.
+20
+identified metabolic differences between the COVID-19 and healthy control groups, primarily related to energy metabolism (glucose, ketone bodies, glycine, creatinine, and citrate), as well as processes associated with bacterial flora (TMAO and formate) and detoxification (hippurate). Additionally, they observed higher levels of formate in COVID-19 urine samples, while the control group exhibited elevated creatinine concentrations, which were linked to sarcopenia—a medical condition characterized by the progressive loss of muscle mass, strength, and function, resulting in a decrease in creatine/creatinine ratio. In contrast to our results, Marhuenda-Egea et al.
+20
+have indicated lower hippurate content in COVID-19 patients, which was linked to possible impairments in the detoxification process.
+Concerning disease severity (ICU vs. MW), it was detected a decrease on TMAO, betaine and ethanol in serum samples from ICU patients. On the other hand, some metabolic changes were observed on the contents of TMAO, hippurate, urea, DMA, 3HB, fucose, 4-hydroxyphenyl acetate, 3-methyl-2-oxovalerate, 3-indoxylsulphate, tryptophan and formate in urine.
+Regarding prognosis, we found a decrease on betaine and TMAO concentrations, that were associated to a negative outcome (poor prognosis) in serum. Furthermore, it was found a decrease in
+cis
+-aconitate, urea, formate, and creatinine, methanol, DMA, and TMAO in urine, together with an increase in creatine and hippurate. Terruzzi et al.
+40
+noticed a relationship between microbial metabolites (TMAO and lipopolysaccharide) that generate inflammatory microenvironment and a risk of severe illness from COVID-19. Furthermore, Israr et al.
+41
+conducted a study in which they measured gut-related metabolites, including betaine and TMAO, in plasma samples from patients with COVID-19, healthy individuals, and patients with non-COVID-19 respiratory symptoms. The researchers aimed to explore these metabolites since they have previously been associated with respiratory diseases, and they postulated that the connection between the gut and lungs might influence gut health in COVID-19 cases. Their findings revealed that metabolites from the choline-TMAO and carnitine-TMAO pathways are linked to COVID-19 symptoms and severity, effectively distinguishing between COVID-19 and acute asthma. Of note, they identified betaine as a potential biomarker of gut microbiome health and hypothesized that dietary interventions targeting the gut microbiome could lead to improved outcomes and enhanced immunity. Regarding disease severity in urine, Rosolanka et al.
+21
+reported elevated levels of ketone bodies in patients with severe COVID-19 during the first week after hospital admission, which is consistent with our findings of higher 3HB content in ICU patients compared to those in the MW. As in the previous work, they found that hippurate levels were lower in COVID-19 patients, which they associated with the administration of strong antibiotic treatments. This disparity in hippurate content with our results might be explained by the timing of urine sample collection in our study, which occurred after hospital admission when patients were not yet under medication. Several previous studies have evaluated varying degrees of disease severity. Notably, Ghini et al.
+42
+investigated metabolite trends in plasma samples from over 600 subjects, identifying distinct metabolic patterns corresponding to mild, severe, and fatal disease states, based on respiratory symptoms. These metabolites were primarly sugars, phenylalanine and ketone bodies, as well as certain lipoprotein sub-fractions. Additionally, other studies, such as those by Lodge et al.
+43
+and Danlos et al.
+44
+have also assessed COVID-19 severity using plasma samples. Lodge et al.
+43
+employed NMR and ultra-performance liquid chromatography coupled to mass spectrometry (UPLC-MS), dividing 306 patients into four groups, depending on respiratory severity level, identifying 344 metabolites that significantly increased with severity. Moreover, Danlos et al.
+44
+used gas chromatography coupled to mass spectrometry (GC-MS) and ultra-high-pressure liquid chromatography coupled to mass spectrometry (UHPLC-MS). Their study cohort of 72 PCR-confirmed patients was stratified into mild, moderate, and critical cases, corresponding to individuals who did not require hospitalization, those requiring standard hospitalization, and those admitted to the intensive care unit, respectively. They observed increases in sugars, sugar alcohols and amino acids in critical cases, among other metabolites. Some discrepancies were found among results that could be influenced by several factors: (i) sample size, as larger cohorts improve the statistical power of analyses, facilitating the detection of significant metabolite changes; (ii) the techniques or combination of techniques used for metabolomics, which can significantly impact the results. Mass spectrometry-based platforms, either alone or in combination with NMR, may detect a broader range of metabolites with higher sensitivity; (iii) differences in study design, including patient selection criteria and the timing of sample collection, which can also affect results. Variations in patient populations, such as age, comorbidities, and treatments, can contribute to differences in metabolic profiles. Additionally, the criteria used to group patients into different severity levels may vary.
+Regarding the clinical context, it should be noted that certain cardiovascular comorbidities may increase the risk of severe COVID-19. Specifically, the prevalence of obesity/overweight and dyslipidemia tended to be higher in ICU patients, although it was statistically significant only for the latter. Similarly, LDH and fibrinogen were increased in ICU patients, who also showed a decrease in lymphocyte count compared to the ward group. In addition, those patients with elevated ferritin spent more time hospitalized and also in ICU, reflecting the association of this parameter with the course of disease. Similarly, patients with decreased lymphocyte counts also had longer hospital stays, as well as patients with high C-reactive protein, who spent more time in the ICU.
+Another relevant fact was that certain metabolites were related to clinical variables in both study groups. Thus, 3HB was associated with hypertension, and n-3 fatty acids, creatine, tyrosine, phenylalanine and acetate with obesity/overweight. Phenylalanine is an essential amino acid that is converted to tyrosine and is related to inflammation. Both metabolites have been observed markedly increased in patients with moderate to severe COVID-19 disease
+32
+. Shi et al., reported a biomarker panel including 3HB that could predict COVID-19 patients who progressed from mild to severe
+45
+.
+Through our study, we were able to construct different panels for the management of COVID-19 patients. We propose a diagnostic panel based on three metabolites, consisting of isoleucine, TMAO and glucose, which was able to discriminate COVID-19 patients from healthy individuals providing very high efficiency (AUC = 0.91, sensitivity 86.08%, specificity 83.87%, respectively). In line with our results, other authors have also reported the perturbation of amino acids, glucose and energy metabolisms as a result of COVID-19 infection, and some of these metabolites, such as glucose, has previously been related to disease severity
+46
+,
+47
+. An optimal biomarker panel capable of efficiently classify disease severity was only obtained when considering both clinical characteristics (obesity/overweight, dyslipidemia, and lymphocyte count) together with metabolites content (ethanol, TMAO, tyrosine and betaine) (AUC = 0.825, sensitivity 84.85%, specificity 72.09%). Supporting our results, other authors have shown the benefit of including clinical variables in metabolite-based biomarker panels to classify COVID-19 patients. López‑Hernández et al.
+48
+reported several metabolite panels which increased their discriminatory power after the addition of clinical and/or demographic characteristics: e.g. the panel to discriminate COVID-19 positive individuals from non-COVID-19 including Kynurenine-tryptophan ratio, lysoPC a C26:0 and pyruvic acid incremented its AUC value from 0.947 to 0.971 after adding sex and neutrophile percentage; moreover, the panel obtained to distinguish hospitalized from intubated COVID-19 patients by adding hypertension and neutrophil-lymphocyte ratio to LysoPC a C28:0 increased its AUC value from 0.770 to 0.829. Despite the good performance provided by our panels, the lack of validation studies represents one of the limitations of this investigation, so further studies with an independent cohort of patients will be necessary to corroborate our results. Moreover, translation of these panels to the clinic will require large-scale studies to provide the actual accuracy of these panels.
+Methods
+Study design and patients’ characteristics
+The study was approved by the Ethics Committee at the Torrecardenas Hospital (internal ethics committee registration 90/2020) and informed consent was obtained from all patients for being included in the study. All data was anonymised prior to data analysis and no patient-identifiable features are included within the manuscript in accordance with applicable guidelines and regulations. All procedures were in accordance with the Declaration of Helsinki (2020/340). To comply with data privacy regulations, data from this study, including individual participant data, is not available for sharing.
+All patients included in the study initially accessed the Emergency Room of our hospital with suspected infectious processes or severity criteria. To all of them, blood, urine, and nasopharyngeal swab samples were collected prior to the administration of any medication. If clinically necessary, treatments could be initiated before receiving the diagnostic laboratory results. The clinical parameters of COVID-19 patients who were finally included in the study (
+n
+= 80) and the healthy controls (
+n
+= 32) are summarized in Table
+1
+. At the time of sampling, all patients had a positive polymerase chain reaction (PCR) in COVID-19. Of the 80 patients, 56 (70%) were males and 24 (30%) females, and the range of ages was 31 to 88 years. Furthermore, 46 patients were admitted in MW (57.5%) and 34 were derived to ICU (42.5%), among them 58 patients survived to the disease (72.5%) and 22 patients dead (27.5%). Other pathologies were also presented in some patients, which also appear in Table
+1
+. The length of hospital stay was also studied in the analyses indicated, which was defined as the time elapsed between the date of admission to the hospital and the date of discharge or death. Regarding the control group (
+n
+= 32), 22 individuals (68.75%) were males and 10 (31.25%) were females with a range of ages of 35 to 89 years. During our study period, the PCR molecular techniques approved for diagnosing SARS-CoV-2 infections did not have the capability to discriminate between virus lineage variants. However, Andalusia implemented a pioneering regional COVID sequencing project, in which the hospital laboratory participated as the reference center for the province of Almería, sending strains for sequencing according to the criteria established in the surveillance system. Among the strains analyzed between March 2020 and May 2021, 16 were found in Almería, and they mainly belonged to the B.1 phylogenetic lineage (Figure S4).
+Sample preparation and NMR experiments
+Serum and urine samples from the patient groups were inactivated by adding 1.0 mL of viral lysis buffer (guanidine thiocyanate) and incubated at room temperature for 10 min, followed by centrifugation at 2500 rpm for 5 min. Supernatants were aliquoted and stored in − 80
+o
+C following standardized biobank protocols. Serum samples were thawed at room temperature. NMR samples were then prepared mixing 200 µL of each serum sample with 400 µL of a saline solution (0.9% NaCl and 0.1% TSP in D
+2
+O). Urine samples, previously stored in -80
+o
+C freezer too, were also thawed at room temperature. NMR samples were then prepared mixing 200 µL of each urine sample with 300 µL of a phosphate buffer solution (0.5 M KH
+2
+PO
+4
+in D
+2
+O and 0.05% TSP). Both were centrifuged during 5 min at 13,500 rpm and then 500 µL of supernatants for serum samples and 490 µL for urine samples were transferred to a 5 mm NMR tube. Samples were then measured in a 600 MHz Bruker Avance III NMR spectrometer, equipped with a quadrupole cryoprobe and a thermostated automatic SampleJet. All
+1
+H-NMR spectra were measured at 300 ± 0.1 K and referenced to the TSP signal (0 ppm). Two different
+1
+H NMR experiments were recorded: a one-dimensional
+1
+H Carr-Purcell-Meiboom-Gill (CPMG) experiment (cpmgpr1d) for serum samples, with water presaturation pulse to suppress water signal and implementing a T
+2
+filter to suppress the broad signals of proteins and other macromolecules, and a one-dimensional
+1
+H NOESY spectrum (noesygppr1d) with water presaturation pulse as previously described
+49
+. The identification of metabolites was carried out using 2D NMR homo- and heteronuclear experiments, as
+1
+H−
+1
+H total correlation spectroscopy (TOCSY) and
+1
+H−
+13
+C heteronuclear multiple bonds coherence (HMBC), recorded using standard Bruker sequences, together with the use of some NMR databases, as Chenomx NMR Suite 8.6 software (Chenomx, Edmonton, Canada) and public NMR databases such as Human Metabolome Database (HMDB)
+50
+and literature data
+14
+,
+51
+,
+52
+.
+Statistical analysis
+For the processing step of the data, each NMR spectrum was divided into 0.04 ppm chemical shift regions or buckets from δ
+H
+0.5 to 10.0 ppm using AMIX 3.9.15 (Bruker BioSpin GmbH, Rheinstetten, Germany), and the corresponding spectral areas were integrated. Region containing residual signals of water suppression (δ
+H
+4.64 − 4.80 ppm) was excluded from the bucket table employed in the analysis. The following step prior to statistical analysis, the normalization, was carried out by scaling the intensity of each individual peak to the total intensity recorded in the region mentioned above. Multivariate data analysis, including exploratory or non-supervised models as PCA, and supervised models as OPLS-DA were performed on the data matrix resulting. Scores plots were generated for both models, and they were scaled to Pareto. Goodness-of-fit (R
+2
+) and goodness-of-prediction (Q
+2
+) parameters were given for OPLS-DA models as well as CV-ANOVA parameter validation with a level of significance of
+p
+< 0.05 to prove the model’s predictive accuracy. For the generation of Important Features plot and for univariate and bivariate analyses, a variable bucketing of the spectra was performed and utilized, by the integration of specific and non-overlapped signals of each metabolite and scaling the intensity of each individual peak to the intensity of reference region (TSP signal). No metabolite quantification was performed, and normalization was achieved on the data prior to statistical analyses, by dividing the area of each bucketed region by the total area of the recorded region. A bivariate analysis was performed to determine the association between clinical variables, hospital and ICU times, and metabolites between the different study groups. In the case of qualitative variables, the association was determined by using the chi-squared test or Fisher’s exact test. For the treatment of quantitative variables, the Student’s t-test or Wilcoxon rank sum test (Mann-Whitney U test) were used, according to compliance with the assumptions of normality. To compare metabolites in the three groups we used the ANOVA test, when the normality assumptions were met, or the Kruskal-Wallis test, otherwise. For those variables that were statistically significant, two-by-two comparisons were performed.
+During the preprocessing of the data for the correlation studies, we applied the Shapiro-Wilk test to assess normality, which revealed that the assumptions for the use of Pearson’s correlation coefficient were not met, so the correlation between variables was studied using Spearman’s correlation coefficient, which assesses monotonic relationships and is a particularly resilient method for normality deviations and the presence of outliers. Fold Change (FC) analyses were performed using the online tool MetaboAnalyst, specifically employing the coding function > FC.Anal(), which calculates the ratio between two group means. In addition, we performed a multivariate analysis, fitting multivariate logistic regression models to construct biomarker panels. Firstly, LASSO regression was used to select the variables to be included in the model and then, correlations between them were assessed by applying the Spearman’s correlation test and those variables that were shown to be strongly correlated were discarded (threshold 0.7). To complete the selection of variables, collinearity was analyzed using the VIF parameter, where VIF < 2.5 indicates the absence of multicollinearity issues. After discarding variables according to the criteria described above, the final model was constructed. Finally, ROC curves were plotted to investigate the classification performance of individual metabolites and proposed panels. The cut-off point providing the highest sensitivity and specificity was identified according to the Youden index. The discriminatory capacity was evaluated by the AUC value of the ROC curve (95% confidence intervals). The R program, version 4.2.1 (R Core Team 2022) and
+p
+< 0.05 were used for analysis.
+Metabolomics pathway analysis
+To detect altered metabolic routes, a pathway analysis, consisting of enrichment analysis and pathway topological analysis, was performed with the Metabolomics Pathway Analysis (MetPA) function within the MetaboAnalyst online tool (
+https://www.metaboanalyst.ca/
+). It was used a global test algorithm for pathway enrichment and the library of the metabolic pathways of Homo Sapiens was employed. Pathways were considered significantly enriched if they fulfilled to the following criteria: number of metabolites hits in relation to the total number of the pathway > 1,
+p
+-value of Fischer’s Exact test < 0.05, Holm
+p
+-value < 0.05 (adjusted by the Holm-Bonferroni method), adjusted
+p
+-value of the FDR < 0.05, and impact > 0. The pathway impact value was calculated as the sum of importance measures of the metabolites, normalized by the sum of importance measures of all metabolites in each pathway.
+Electronic supplementary material
+Below is the link to the electronic supplementary material.
+Supplementary Material 1
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+These authors contributed equally: Ana Isabel Tristán and Cristina Jiménez-Luna.
+Acknowledgements
+This research has been funded by Junta de Andalucía (CV20-78799), the State Research Agency of the Spanish Ministry of Science and Innovation (PID2021-126445OB-I00), and by the Gobierno de España MCIN/AEI/10.13039/501100011033 and Unión Europea “Next Generation EU”/PRTR (PDC2021-121248-I00, PLEC2021-007774 and CPP2022-009967). A. I. Tristán thanks to Junta de Andalucía for a predoctoral grant (PREDOC_01024). C. Jiménez-Luna was supported by the María Zambrano program funded by the Ministry of Universities with EU Next Generation funds.
+Author contributions
+The following authors were involved in study design (A.I.T., C.J.L., A.C.A., F.M.A.C., A.M.S., F.I.R., M.A.R.M., A.B.G., C.M., J.C.P., I.F.), data acquisition (A.I.T., C.J.L., A.C.A., A.M.S., F.I.R., M.A.R.M.), data processing and analysis (A.I.T., C.J.L., A.C.A., F.M.A.C.), table and figure generation (A.I.T., C.J.L), writing of the manuscript (A.I.T., C.J.L., A.C.A., I.F.), critical review of the manuscript (A.C.A., C.M., J.C.P., I.F.), decision to submit (all authors).
+Data availability
+Data is provided within the manuscript or supplementary information files. If any raw data files are needed in a different format, they are available from the corresponding author upon request.
+Declarations
+Competing interests
+The authors declare no competing interests.

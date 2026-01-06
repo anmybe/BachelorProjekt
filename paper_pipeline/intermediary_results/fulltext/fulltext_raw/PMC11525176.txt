@@ -1,0 +1,1083 @@
+pmc
+Nat Genet
+Nat Genet
+Nature Genetics
+1061-4036
+1546-1718
+Nature Publishing Group US
+New York
+11525176
+39266764
+1899
+10.1038/s41588-024-01899-0
+Article
+Five latent factors underlie response to immunotherapy
+Usset
+Joseph
+1
+2
+3
+Rosendahl Huber
+Axel
+1
+10
+Andrianova
+Maria A.
+1
+http://orcid.org/0000-0003-2422-0326
+Batlle
+Eduard
+1
+4
+5
+Carles
+Joan
+2
+6
+http://orcid.org/0000-0002-0400-9542
+Cuppen
+Edwin
+3
+7
+Elez
+Elena
+2
+6
+Felip
+Enriqueta
+2
+6
+Gómez-Rey
+Marina
+2
+Lo Giacco
+Deborah
+2
+http://orcid.org/0000-0001-7804-1134
+Martinez-Jimenez
+Francisco
+2
+3
+http://orcid.org/0000-0001-7556-7608
+Muñoz-Couselo
+Eva
+2
+6
+http://orcid.org/0000-0002-3500-0540
+Siu
+Lillian L.
+8
+http://orcid.org/0000-0002-2495-8139
+Tabernero
+Josep
+2
+5
+6
+Vivancos
+Ana
+2
+http://orcid.org/0000-0002-4651-4168
+Muiños
+Ferran
+1
+10
+http://orcid.org/0000-0002-8582-4660
+Gonzalez-Perez
+Abel
+abel.gonzalez@irbbarcelona.org
+1
+5
+9
+http://orcid.org/0000-0003-4925-8988
+Lopez-Bigas
+Nuria
+nuria.lopez@irbbarcelona.org
+1
+4
+5
+9
+1
+grid.473715.3
+0000 0004 6475 7299
+Institute for Research in Biomedicine (IRB Barcelona),
+The Barcelona Institute of Science and Technology,
+Barcelona, Spain
+2
+https://ror.org/054xx3904
+0000 0004 0563 8855
+Vall d’Hebron Institute of Oncology (VHIO),
+Vall d’Hebron Barcelona Hospital Campus,
+Barcelona, Spain
+3
+https://ror.org/0428k0n93
+grid.510953.b
+Hartwig Medical Foundation,
+Amsterdam, Netherlands
+4
+https://ror.org/0371hy230
+grid.425902.8
+0000 0000 9601 989X
+Institució Catalana de Recerca i Estudis Avançats (ICREA),
+Barcelona, Spain
+5
+grid.413448.e
+0000 0000 9314 1427
+Centro de Investigación Biomédica en Red en Cáncer (CIBERONC),
+Instituto de Salud Carlos III,
+Madrid, Spain
+6
+grid.411083.f
+0000 0001 0675 8654
+Medical Oncology Department, Vall d’Hebron University Hospital,
+Vall d’Hebron Barcelona Hospital Campus,
+Barcelona, Spain
+7
+https://ror.org/0575yy874
+grid.7692.a
+0000 0000 9012 6352
+Center for Molecular Medicine,
+University Medical Center Utrecht,
+Utrecht, Netherlands
+8
+grid.17063.33
+0000 0001 2157 2938
+Division of Medical Oncology & Haematology, Princess Margaret Cancer Centre, University of Health Network, Department of Medicine,
+University of Toronto,
+Toronto, Ontario Canada
+9
+https://ror.org/04n0g0b29
+grid.5612.0
+0000 0001 2172 2676
+Department of Medicine and Life Sciences,
+Universitat Pompeu Fabra,
+Barcelona, Spain
+10
+grid.413448.e
+0000 0000 9314 1427
+Present Address: Centro de Investigación Biomédica en Red en Cáncer (CIBERONC),
+Instituto de Salud Carlos III,
+Madrid, Spain
+12
+9
+2024
+12
+9
+2024
+2024
+56
+10
+2112
+2120
+3
+5
+2024
+7
+8
+2024
+© The Author(s) 2024
+2024
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+Open Access
+This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+.
+Only a subset of patients treated with immune checkpoint inhibitors (CPIs) respond to the treatment, and distinguishing responders from non-responders is a major challenge. Many proposed biomarkers of CPI response and survival probably represent alternative measurements of the same aspects of the tumor, its microenvironment or the host. Thus, we currently ignore how many truly independent biomarkers there are. With an unbiased analysis of genomics, transcriptomics and clinical data of a cohort of patients with metastatic tumors (
+n
+= 479), we discovered five orthogonal latent factors: tumor mutation burden, T cell effective infiltration, transforming growth factor-beta activity in the microenvironment, prior treatment and tumor proliferative potential. Their association with CPI response and survival was observed across all tumor types and validated across six independent cohorts (
+n
+= 1,491). These five latent factors constitute a frame of reference to organize current and future knowledge on biomarkers of CPI response and survival.
+Analysis of human tumor datasets shows that all features that appear significantly associated with immunotherapy response and survival may be collapsed into five latent factors: tumor mutation burden, T cell effective infiltration, TGF-β activity in the microenvironment, prior treatment and tumor proliferative potential.
+Subject terms
+Cancer therapy
+Cancer therapy
+https://doi.org/10.13039/100010663
+EC | EU Framework Programme for Research and Innovation H2020 | H2020 Priority Excellent Science | H2020 European Research Council (H2020 Excellent Science - European Research Council)
+682398
+884623
+Batlle
+Eduard
+Lopez-Bigas
+Nuria
+https://doi.org/10.13039/100010661
+EC | Horizon 2020 Framework Programme (EU Framework Programme for Research and Innovation H2020)
+101057509
+Lopez-Bigas
+Nuria
+issue-copyright-statement
+© Springer Nature America, Inc. 2024
+Main
+The development of CPIs has had a tremendous impact on cancer therapy
+1
+. However, the response of patients with cancer to these agents varies considerably
+1
+–
+6
+, and important immune-related adverse events may appear as a result of treatment
+7
+. Consequently, intense research has been dedicated in recent years to identifying features that influence the response to CPIs
+2
+,
+4
+,
+8
+–
+13
+, leading to the identification of potential biomarkers.
+These studies have made it increasingly clear that the response to CPIs is mediated by several characteristics of the tumor, its microenvironment and the host
+12
+, which we may regard as latent factors defining CPI response and survival across patients. However, it is likely that different biomarkers identified across a multitude of studies—often focused on one or a small group of features—represent different versions of the same underlying latent factor. For example, the expression of a number of genes and gene sets previously identified as biomarkers may represent the degree of infiltration of cytotoxic cells in the tumor
+14
+–
+17
+. Furthermore, given that separate research groups independently test different sets of potential biomarkers, there is no effective control of the potential false positives associated with multiple testing. As a result of these problems, it is not clear at present how many such independent latent factors of CPI response and survival there are, what aspects of the tumor, its microenvironment or the host they represent and whether they are relevant across different tumor types.
+To answer these questions, we exploited a richly profiled and annotated cohort of patients with metastatic tumors (fresh–frozen biopsied) treated with CPIs (part of the cohort profiled by the Hartwig Medical Foundation (HMF)
+18
+,
+19
+;
+n
+= 479). Specifically, we aimed to identify features of the tumors, their microenvironment or the host that appeared to be significantly associated with CPI response and survival, both across the pan-cancer HMF-CPI cohort and all represented cancer types. To this end, we used an exhaustive—not biased by prior knowledge—analysis of thousands of molecular and clinical features to detect their association with CPI response or survival. We discovered that all significantly associated features collapse into one of five independent latent factors that are relevant across all tumor types represented in this cohort. They are the tumor mutation burden (TMB), effective T cell infiltration, whether the patients received any prior treatment, the activity of transforming growth factor-beta (TGF-β) in the tumor microenvironment and the proliferative potential of the tumor. We verified that at the current level of statistical power, there are no other latent factors of CPI response and survival common to all cancer types analyzed. We validated the association of these five latent factors with CPI response and survival in six independent cohorts (
+n
+= 1,491 patients) spanning six major cancer types; to our knowledge, the largest such validation effort.
+Results
+Extracting features from a metastatic cancer cohort
+Within the HMF
+18
+,
+19
+cohort (
+n
+= 5,288), 479 patients with metastatic cancer who were part of the Center for Personalized Cancer Treatment study (
+https://www.cpct.nl/cpct-02
+) received anti-PD1/PDL1 or a combination of anti-PD1/PDL1 and anti-CTLA4 therapy. We refer to these patients as the HMF-CPI cohort. These include patients who had suffered from primary tumors of the skin (melanomas,
+n
+= 191), lung (
+n
+= 110), bladder (
+n
+= 88) and other cancer types (other;
+n
+= 90; Fig.
+1a,b
+and Supplementary Table
+1
+). Whole-genome somatic alterations of the metastatic tumors before CPI treatment were identified across all tumors in the HMF-CPI cohort and, for 396 of them, the whole transcriptome of the tumor was also sequenced. Rich clinical data, including treatments received before the diagnosis of their metastatic tumors, response to the CPI therapies, following Response Evaluation Criteria
+20
+(
+n
+= 467) and survival information (
+n
+= 479), were also available (Supplementary Table
+1
+).
+To carry out a systematic de novo discovery of biomarkers of CPI response, we computed 27,923 features (Fig.
+1c,d
+and Supplementary Note
+1
+). These included the mutational (single nucleotide variants + indels) status of 15,829 genes, the copy number status of 2,415 genomic regions, 64 aggregated somatic mutation features (for example, TMB, frameshift indel burden, activity of mutational signatures) and the occurrence of known driver structural variants as well as features summarizing the genomic instability (for example, total number of chromosomal fragments, ploidy, whole-genome doubling, and so forth). We also used the expression level of 8,817 genes and clinical characteristics of the patients such as sex, type of treatment received for the primary tumor and age at the time of diagnosis of the metastasis as features. Finally, human leukocyte antigen (HLA) features that can affect the immune response to the tumor were also included, such as their HLA haplotype and the number of somatically lost HLA alleles.
+Five latent factors of CPI response and survival
+To identify which of the more than 27,000 features computed per patient were significantly associated with CPI response, we performed univariate regressions (adjusted for the site of origin of the tumor, age of the patients, site of biopsy of the metastasis and tumor purity). After controlling for multiple testing
+21
+, we identified several hundred features that appeared to be significantly associated with CPI response (Fig.
+2a
+, Extended Data Fig.
+1a–c
+and Supplementary Note
+1
+).
+Then, we asked how these significant features relate to each other and which underlying latent factors of CPI response they represent. To answer these questions, we clustered all significant features based on their pairwise correlations (Fig.
+2b
+). Virtually all (Supplementary Note
+1
+) could be unambiguously assigned to one of three clusters (R1, R2 or R3, encompassing somatic, clinical or transcriptomics features). This implies that only three latent factors associated with CPI response were detected from the more than 27,000 features analyzed.
+To understand the nature of cluster R1, we first computed the mean of its integrating features. The single feature in the cluster with the highest correlation to the mean was the overall TMB, with other aggregated mutational features (for example, clonal TMB) also showing a high correlation. Specifically, the increase of TMB is associated with a higher probability of response and also increased survival (Extended Data Fig.
+2a
+and Supplementary Fig.
+1
+). Thus, we named this latent factor TMB, and although it could be measured using any of the features in the cluster, we selected the TMB to represent it. Importantly, the mutation rate of virtually all genes (some of which have been previously associated with CPI response
+3
+,
+4
+,
+10
+,
+22
+–
+24
+) also appear to be highly correlated with the TMB as part of this cluster of features, and indeed, some heavily mutated genes exhibit lower
+P
+values in the regression analysis than TMB (Supplementary Note
+1
+). This implies that identifying the mutations of individual genes as biomarkers of CPI response independently of the TMB is a very challenging task.
+Cluster R2 was integrated by two highly correlated clinical features: prior exposure to systemic therapy
+11
+and prior exposure to any therapy. These two features appear to be significantly negatively associated with CPI response and survival (Fig.
+2b
+, Extended Data Fig.
+2b
+, Supplementary Fig.
+1
+and Supplementary Note
+1
+), perhaps owing to increased tumor aggressiveness or deteriorated patient condition. Thus, we named cluster R2 ‘prior treatment’, and for the following analyses, we represented this cluster using exposure to any prior treatment.
+Cluster R3 grouped the expression of 48 genes. We reasoned that the expression of gene sets representing biological functions in the tumor or its microenvironment could aid in the interpretation of this cluster. Thus, we computed the mean expression of 255 gene sets (225 representing all Kyoto Encyclopedia of Genes and Genomes (KEGG) pathways and cancer hallmarks obtained from the Molecular Signatures Database (MSigDB)
+25
+,
+26
+and 30 collected from the literature
+12
+,
+27
+,
+28
+; Supplementary Table
+2
+, Fig.
+2c,d
+and
+Methods
+). The mean expression of 13 gene sets was significantly associated with the response to CPI (Fig.
+2d
+, Extended Data Figs.
+2c
+and
+3a
+and Supplementary Fig.
+1
+), and all of them showed a high correlation (Pearson’s coefficient of >0.8) with the mean expression of the genes in the cluster. They all represent some aspect of immune infiltration in the tumor; most specifically, T lymphocyte infiltration. Therefore, we named this third latent factor ‘effective T cell infiltration’ and represented it through the mean expression of all genes in the cluster. The increase in effective T cell infiltration appears significantly associated with a higher probability of CPI response and longer survival.
+There is a clear positive relationship between the correlation of every feature to the representative of its corresponding latent factor (that is, TMB, prior treatment and the mean expression of genes in cluster R3) and the significance of its association with CPI response. The higher the correlation of a feature with the mean of its corresponding cluster, the more significant its association with CPI response (Fig.
+2e
+and Extended Data Fig.
+2a–c
+). These three latent factors are also significantly associated with overall survival and progression-free survival upon CPI treatment (Extended Data Fig.
+2a–c
+).
+We then asked whether any other latent factors of the tumor, its microenvironment or the host specifically influence the survival of patients, independently of the previous three latent factors associated with response (given that response is, by itself, a major determinant of survival). To answer this question, we focused on features that appeared to be significantly associated with overall survival, after controlling (in addition to the aforementioned covariates) for the three latent factors previously associated with response (Fig.
+3a
+). Again, to discern how many latent factors were represented by these features, we clustered them based on their pairwise correlations (Fig.
+3b
+).
+One of the three clusters was clearly orthogonal to the other two, which exhibited a certain degree of inter-correlation. Thus, we named them clusters S1, S2.1 and S2.2, as they only represent two mutually orthogonal latent factors (Fig.
+3b
+and Supplementary Note
+1
+). To interpret them, we analyzed the correlation of their mean expression with that of 255 gene sets (Supplementary Table
+2
+), as explained above. The mean of cluster S1 showed the highest correlation with a gene set named ‘Proliferation potential’ (Fig.
+3c
+) and a high correlation with other gene sets representing cell cycle and overall cell proliferation (Extended Data Figs.
+2d
+and
+3b,c
+and Supplementary Fig.
+1
+). We thus named it ‘tumor proliferative potential’ and represented it through the mean expression of all genes in the cluster.
+The mean expression of the genes in cluster S2.1 showed the highest correlation with a gene set representing TGF-β in fibroblasts (Fig.
+3d
+) and a high correlation with other gene sets related to this biological process (Extended Data Figs.
+2e
+and
+3b,d–f
+). As in other cases, we represented this latent factor through the mean expression of the genes in the cluster. Low values of this latent factor (TGF-β activity in the microenvironment) are associated with longer survival of patients upon CPI treatment even without correcting for the effect of the three response-associated latent factors (Fig.
+3e
+).
+We next asked whether the latent factors are specifically associated with CPI treatment or whether they represent general elements that influence response and survival upon any type of therapy. To answer these questions, we analyzed the data for 2,497 patients in the HMF cohort who received non-CPI therapies and found that the effects of TMB, effective T cell infiltration and TGF-β activity in the microenvironment are unique to CPI therapies, whereas prior treatment appears to affect the response to both CPI and non-CPI therapies, and the effect of tumor proliferative potential appears even larger across non-CPI than CPI-treated patients (Extended Data Fig.
+4
+). Virtually all features that appear significantly associated with CPI response and/or survival are grouped in one of the five latent factors (Extended Data Fig.
+5
+), indicating that no latent factor remains to be discovered in the HMF-CPI cohort.
+In summary, five mutually orthogonal latent factors underlying CPI response and survival across the HMF-CPI cohort (Fig.
+3g
+) emerged from this unbiased analysis. Supplementary Dataset
+1
+lists the results of the unbiased analysis of features in their association with CPI response and survival. Each of them can be represented through a number of features that are clustered by virtue of their pairwise correlations.
+Validation of the five latent factors
+Next, we asked whether the five latent factors, identified across HMF-CPI, were of comparable importance in the four groups of tumors with different tissues of origin represented in the cohort. To answer this question, we conducted, for each latent factor, multivariate regressions (adjusted for age, tumor purity, biopsy location and the remaining four latent factors) of their effect on CPI response and survival (Fig.
+4
+). We found that the direction of the association of each factor (with response or survival) was maintained for all tumor types as in the pan-cancer analysis, with small differences in the effect size and the significance of their associations. One exception is the association of effective T cell infiltration with response in patients with lung tumors, which was not significant (although the significance in the association with survival is maintained). The other is prior treatment, which does not exhibit a significant association with response across bladder tumors. Very similar results were obtained in cancer type-wise univariate regressions (Extended Data Fig.
+6a
+). In summary, we find that the latent factors, with few exceptions, appear to underlie CPI response and survival across all tumor types represented in the HMF-CPI cohort (Supplementary Note
+1
+).
+We next asked whether the five latent factors are validated in independent cohorts of the same and other tumor types representing the wide diversity of approaches of sample processing and tumor profiling used in the clinic. To this end, we collected data from the literature for five independent cohorts or metacohorts (INSPIRE
+29
+, Lyon
+30
+, MARIATHASAN
+27
+, PARKER ICI
+31
+, RAVI
+32
+) and obtained the data from another cohort of patients treated at the Vall d’Hebron Institute of Oncology (VHIO). These validation cohorts comprised 1,491 patients with primary or metastatic tumors of different organs (Supplementary Table
+1
+and Supplementary Note
+1
+). For 339 of these patients, we obtained sufficient information to compute the five latent factors, while for the remaining 1,152, we could compute only four or three latent factors. Using the available clinical information, we were able to evaluate the association of the latent factors with CPI response for 1,294 patients across all cohorts, while the association with overall survival could be computed for 1,165 patients across five cohorts. Unlike in the case of the HMF-CPI cohort, most of these studies (except INSPIRE) started from formalin-fixed, paraffin-embedded samples. The approaches used to identify somatic mutations range from whole-exome tumor-normal paired sequencing to tumor-only sequencing of a panel of 432 genes. The expression of genes was measured by whole-transcriptome, targeted RNA sequencing (RNA-seq) or a panel of 170 genes using the nCounter (NanoString) platform.
+In a multivariate analysis, pooling all external cohorts, the associations were consistent between each of the five latent factors and CPI response or survival, with all except tumor proliferative potential reaching significance (Fig.
+4
+). In some individual cohorts, the association of a particular latent factor with CPI response or survival could not be verified, such as the TMB in the VHIO cohort. In this case, owing to the lack of a control sample to reliably call somatic mutations, the calculation of TMB is probably not reliable (Supplementary Note
+1
+). Nevertheless, despite the differences in cohorts, profiling and sample collections, the associations observed in the HMF-CPI cohort for the five latent factors were, overall, reproduced across the validation cohorts. T cell effective infiltration was positively associated with CPI response across five validation cohorts (three significantly), TGF-β activity in the microenvironment was negatively associated with survival in the five cohorts in which it could be evaluated (four significantly) and tumor proliferative potential was negatively associated with survival in four out of five cohorts (two significantly; Fig.
+4
+). The association with prior treatment was validated in all (two significantly) but one cohort (Fig.
+4
+and Supplementary Note
+1
+). Genes closer to the mean of clusters R1 (T cell effective infiltration), S2.1 (TGF-β activity in the microenvironment) and S1 (tumor proliferative potential) in HMF-CPI also tend to correlate better with one another across the four validation cohorts with transcriptomics data (
+Methods
+; Extended Data Fig.
+6b
+).
+In summary, despite the wide differences in tumor sample processing and profiling, many of the associations between the five latent factors and CPI response or survival previously discovered in the HMF-CPI are also observed across six independent cohorts.
+Multivariate models to predict CPI response and survival
+We next asked how the effects of the five latent factors combine (through accumulation or interaction) to influence CPI response and survival. To that end, we trained multivariate machine-learning (tree-based gradient-boosting) models
+33
+to predict the response, overall survival or progression-free survival of patients in the HMF-CPI cohort. To exploit the higher statistical power provided by the full cohort and the specificity inherent in the response across cancer types, we first constructed pan-cancer models and then used them as the base to obtain hybrid models; that is, subjecting the pan-cancer models to added rounds of training on the data corresponding to each tumor type (Fig.
+5a
+and Supplementary Note
+1
+). The hybrid models trained on the five latent factors outperformed models trained solely on tumor type-specific data (Supplementary Fig.
+2a
+) as well as equivalent models trained solely on values of TMB and PDL1 expression (Supplementary Fig.
+2b
+) within the HMF-CPI cohort. Models trained on different representations of the five latent factors showed comparable performance, supporting the idea that the features of each cluster constitute alternative representations of the latent factors (Supplementary Fig.
+3a,b
+). The variability in the influence of the five latent factors across different tumor types in the HMF-CPI cohort observed in the multivariate regression analysis described above is verified through a survey of their relative importance on the prediction cast by the multivariate machine-learning models of CPI response and overall survival (
+Methods
+; Extended Data Fig.
+7a,b
+).
+We then stratified 396 patients in the HMF-CPI cohort with all data types (jointly and separately by tumor type) into three groups of low (below 0.1), medium (between 0.1 and 0.5) and high (greater than 0.5) predicted probability of response to CPI. Only 2 (3%) of the 67 patients in the low-probability group actually responded to CPI treatment, compared with 61 out of 97 (63%) patients in the high probability of response group (Fig.
+5b
+). This stratification also significantly separated patients in the HMF-CPI cohort based on their survival (Fig.
+5c
+). Stratifying the patients based on a threshold of TMB used in the clinical practice (ten mutations per Mbp
+34
+,
+35
+) to separate high-TMB and low-TMB tumors is less optimal, with 17% of responders among patients with low-TMB tumors and 42% among those with high-TMB tumors (Fig.
+5d
+). Interestingly, patients in the group with low probability of response exhibit a range of predicted hazards according to the overall survival pan-cancer model (Extended Data Fig.
+8a–g
+and Supplementary Note
+1
+). Across the VHIO and INSPIRE cohorts, the stratification based on the predicted probability of response produced a perfect identification of patients with a low probability of response, while results were less accurate across the RAVI cohort (Extended Data Fig.
+9a
+and Supplementary Fig.
+4
+).
+When applied to patients in the HMF cohort who did not receive CPIs, the multivariate models of response identified an important fraction of the patients with skin (35%), bladder (42%) and lung (16%) tumors with a high likelihood of response to the treatment (Extended Data Fig.
+10
+). Interestingly, patients suffering from other metastatic malignancies (some not usually considered as candidates for CPI) were also identified as potentially good responders. For example, 18 (4%) patients with breast cancer, 10 (3%) patients with colorectal cancer, 10 (19%) patients with kidney tumors and 5 (15%) patients with liver cancer exhibited high probability of response to CPI.
+In summary, we illustrate that multivariate models combining the five latent factors produce a more accurate stratification of patients according to their predicted probability of response than the TMB alone.
+Discussion
+In this work, we followed a completely unbiased approach to discover genomics, transcriptomics and clinical features associated with CPI response and survival across patients with cancer. We aimed to answer how many and which aspects of the tumor, its microenvironment and the host influence the response to CPIs across patients (that is, latent factors), in an effort to provide a framework of reference to existing copious reports of biomarkers. First, through univariate logistic and Cox regressions, we identified a few hundred features that are significantly associated with CPI response and/or survival. Five latent factors emerge when these significant features are clustered based on their pairwise correlation. These represent mutually independent aspects of the tumor, its microenvironment and the host that influence the response of a patient to CPI and their hazard after the treatment.
+Although the fact that some genomics and transcriptomics features may represent the same aspect of tumors, their microenvironment or the host had been reported before, here we show that an array of different, highly intercorrelated features (for example, expression of genes related to T cell function) actually represent different measurements of the same latent factor. This is particularly striking in the case of TMB: the mutation rate of hundreds of genes (including cancer driver genes) appears to be highly correlated with TMB, suggesting that the association of mutations in a given gene with CPI response rather than an independent biomarker is just an alternative proxy measurement of TMB. Although the mutation status of some genes may still be bona fide biomarkers of CPI response, independently of TMB, any analysis to identify them should account for the confounding factor of their correlation with TMB. We also demonstrate that the associations of the latent factors with CPI response and survival are observed across different tumor types, and we validated them across six independent cohorts of patients. Most of the associations discovered in the HMF-CPI cohort were corroborated across these independent cohorts, despite differences in sample collection and processing procedures and profiling methods between these cohorts and the HMF-CPI. This indicates that these latent factors are mostly universally associated with CPI response and survival. They may thus be potentially used in the future within the clinical practice, despite the heterogeneity of sample processing and tumor profiling approaches used. The variability observed across tumors of different origins in more than one cohort (for example, the smaller association of effective T cell infiltration with the response of lung tumors) may point to findings that could be pursued further. To our knowledge, this constitutes the most extensive exploration, to date, of the biomarkers of CPI response and survival across cohorts with tumors from different organs.
+Importantly, no features other than these five latent factors were significantly associated with CPI response or survival. That is, virtually all significant features cluster within one of them. However, some relevant features may still lay below the statistical power of the HMF-CPI cohort or appear significantly associated with CPI response or survival in only one tumor type. This is particularly important for features that may be relevant for a fraction of patients, such as mechanisms of immune escape (for example,
+B2M
+deletion, an event that we observe as significant across melanomas but not other tumors in the HMF-CPI cohort; see Supplementary Note
+1
+)
+8
+,
+22
+,
+24
+,
+36
+. Other examples of such features relevant for specific groups of patients may include common polymorphisms that affect the immune response
+37
+and the heterozygosity at HLA loci
+38
+. Particularities of the tumor types not represented in the HMF-CPI cohort are, of course, also absent from our current catalog of proxy biomarkers. These will be discovered when larger CPI cohorts are analyzed; it is not inconceivable that even more latent factors will become apparent then. Our discovery of latent factors is also limited by the profiling technologies used, which rely on deconvolution of the immune infiltrate based on bulk RNA-seq data. More detailed studies of this infiltrate—based on fine mapping of immune populations and their interactions with other cells in the microenvironment—will contribute in the future to refine the landscape of biomarkers of CPI response and survival.
+A test of the application of multivariate models combining the five latent factors produced a stratification of the patients in the HMF-CPI cohort based on their predicted response probabilities that discriminates better between responders and non-responders than the threshold of TMB frequently used in the clinic. This could be regarded as a proof-of-principle for application of the five latent factors to clinical practice. Being able to identify patients with a very low probability of response would be relevant to spare them the potential side effects of the therapy
+7
+. Additionally, it may aid in reducing the financial burden on healthcare providers
+39
+. There is also the possibility—illustrated through the analyses described above—to use such multivariate models to identify patients with tumors that are not usually considered suitable candidates for CPI who have a high probability to respond. In the future, when these types of models can be used in support of clinical decision-making, this could potentially contribute to expanding the therapeutic options for patients suffering from these malignancies.
+In summary, we envision that the results of this work can provide a frame of reference to the research of biomarkers of CPI response and survival, resulting in the classification of all identified significant features falling into one of these five latent factors, or a completely independent one.
+Methods
+Discovery cohort
+Whole-genome somatic mutations, copy number and other structural variants across metastatic tumors from 4,484 patients in the HMF cohort were obtained from the HMF database
+18
+,
+19
+(version DR-263_update1). Of these, 479 subsequently received CPI therapy (HMF-CPI cohort), for which all somatic variation information was available. Whole transcriptome from RNA-seq was available from the same source for a subset of 396 patients in the HMF-CPI cohort. Several features computed by the HMF pipeline from this data for each tumor (for example, number of neoepitopes, activity of mutational signatures) as well as the patients’ germline features (such as HLA allotypes) were obtained as part of the dataset. It also included all relevant clinical information regarding exposure to treatment for their primary malignancy, the subsequent treatment regimen for the metastasis and longitudinal measurements of the outcome (Supplementary Note
+1
+and Supplementary Table
+1
+). The ethical approval to use this data in research has been obtained by the HMF.
+Validation cohorts
+INSPIRE
+Whole-exome somatic mutations, the whole-transcriptome RNA-seq gene expression of tumors and all clinical data pertaining to prior treatment as well as outcome upon treatment with pembrolizumab within the INSPIRE basket trial (
+NCT02644369
+)
+29
+were obtained for 64 patients from
+https://github.com/pughlab/inspire-genomics
+.
+Lyon
+Targeted RNA-seq (2,559 genes) and clinical data from 315 patients treated at several hospitals in Lyon and Paris
+30
+were obtained from
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE159067
+,
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE161537
+,
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE162519
+and
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE162520
+.
+MARIATHASAN
+Whole-exome somatic mutations, the whole-transcriptome RNA-seq gene expression of tumors and all clinical data in a previously published study
+27
+of 348 patients were obtained from
+http://research-pub.gene.com/IMvigor210CoreBiologies
+.
+PARKER ICI
+Whole-exome somatic mutations, the whole-transcriptome RNA-seq gene expression of tumors and all clinical data of several cohorts of tumors (including those within clinical trials CheckMate 038 and CheckMate 067 and two cohorts published within other studies) compiled in a previous publication
+31
+totaling 315 patients were obtained from
+https://github.com/ParkerICI/MORRISON-1-public
+.
+RAVI
+Whole-exome somatic mutations, the whole-transcriptome RNA-seq gene expression of tumors and all clinical data of the SU2C-MARK cohort from a previous publication
+32
+comprising 352 patients were obtained from
+https://zenodo.org/records/7625517
+.
+VHIO
+The estimated TMB and the expression (via NanoString) of 170 genes across the tumors of 74 patients with cancer profiled and treated at the VHIO Hospital in Barcelona were obtained directly from the Cancer Genomics Group. Clinical data of these patients were provided by attending oncologists at VHIO.
+Details of all cohorts appear in Supplementary Table
+1
+and Supplementary Note
+1
+.
+Ethical approval to use the data of the first five validation cohorts in research was obtained by the original institutions, who obtained written informed consent from patients and made the data available through scientific publications. The Vall d’Hebron University Hospital Ethics Committee of Clinical Research approved the study according to local guidelines and regulations, and written consent was obtained from all the patients included in this study.
+Feature extraction for systematic analysis
+Somatic features (18,382) representing single nucleotide variants, indels, copy number variants and other structural variants were extracted from files directly downloaded from the HMF database. These included the list of variants as well as summary statistics, such as TMB, burden of structural variants, predicted neoantigen burden, and so on. Although some features were obtained directly from the files, others were derived. The level of expression (transcripts per million) of 8,817 genes (measured through whole-transcriptome RNA-seq) was also obtained from files downloaded from the HMF database after pre-processing (see below). Other RNA-seq features were derived from these values, mainly through the summarization of the expression of genesets in separate features
+12
+,
+27
+,
+40
+,
+41
+, or by Cibersort
+17
+derivation of immune cell populations from gene expression data (Supplementary Table
+2
+). The HLA allotypes of HMF-CPI patients were directly obtained from files downloaded from the HMF database, while somatic HLA loss of heterozygosity in the tumors was estimated using the LILAC tool
+22
+. Clinical information regarding courses of treatment before the biopsy of the metastasis and the subsequent outcome of CPI treatment was also obtained from files downloaded from the HMF database. Again, part of that information was directly converted into features, while other features, such as the time elapsed between the end of the prior treatment and the biopsy of the metastasis, were derived from these data. Some of these clinical features were converted into outcomes of the analysis (best overall response to CPI, overall survival and progression-free survival upon CPI), while others were maintained as potentially predictive features. A detailed description of the strategy followed for the extraction of features in the HMF-CPI cohorts appears in Supplementary Note
+1
+.
+Pre-processing
+All outcomes and features were computed across all samples in the HMF database. Finally, the data was joined based on the sample identifiers to produce a data frame ready for statistical analyses. Before systematic analyses, several pre-processing steps were performed. First, to reduce multiple testing, we applied filters to remove features with little chance of providing meaningful associations. For somatic mutations by gene, only genes with at least one mutation per 20 samples were kept for the analyses. For RNA expression, only coding genes with a mean and standard deviation of adjusted transcript per million values greater than 0.5 were considered. For the driver features, only driver genes mutated in at least one in 30 samples were included. Similarly, for mutational signatures, only signatures with exposure greater than 0.02 for at least one in 20 samples were included. Second, all features were standardized to have a mean of zero and a standard deviation of one across the CPI samples. This standardization allowed for fair comparisons of estimated effect sizes. Outside of the primary tissue location, all features in the analyses were numeric or ordinal.
+Systematic analyses
+Each feature was tested individually for the strength of association to best overall response, progression-free survival and overall survival. Generalized linear models and their native maximum-likelihood-based tools were used for all estimation, standard error calculation and hypothesis testing.
+The best overall response was modeled with logistic regression, in which we assumed that the probability of response followed a Bernoulli distribution with mean
+p
+. For each feature
+X
+, we accounted for primary tissue, biopsy location, tumor purity and age as model covariates. Formally, let
+I
+j
+represent the covariate indicator functions for primary tissue (skin, lung, bladder, other tissue), let
+I
+k
+represent the indicator function for biopsy location (lung, liver, lymph node, primary, skin, other tissue), let
+X
+age
+represent patient age and
+X
+purity
+represent the tumor purity. The full and reduced models were fit as follows.
+Full model:
+\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{mathrsfs}
+\usepackage{upgreek}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}$${Logit}\left(\;p\right)={\beta }_{0}+X{\beta }_{X}+\sum _{j\in {tissue}}{I}_{j}{\beta }_{j}+\sum _{k\in {biopsy}}{I}_{k}{\beta }_{k}+{X}_{{purity}}{\beta }_{{purity}}+{X}_{{age}}{\beta }_{{age}}$$\end{document}
+L
+o
+g
+i
+t
+p
+=
+β
+0
++
+X
+β
+X
++
+∑
+j
+∈
+t
+i
+s
+s
+u
+e
+I
+j
+β
+j
++
+∑
+k
+∈
+b
+i
+o
+p
+s
+y
+I
+k
+β
+k
++
+X
+p
+u
+r
+i
+t
+y
+β
+p
+u
+r
+i
+t
+y
++
+X
+a
+g
+e
+β
+a
+g
+e
+Reduced model:
+\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{mathrsfs}
+\usepackage{upgreek}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}$${Logit}\left(\;p\right)={\beta }_{0}+\sum _{j\in {tissue}}{I}_{j}{\beta }_{j}+\sum _{k\in {biopsy}}{I}_{k}{\beta }_{k}+{X}_{{purity}}{\beta }_{{purity}}+{X}_{{age}}{\beta }_{{age}}$$\end{document}
+L
+o
+g
+i
+t
+p
+=
+β
+0
++
+∑
+j
+∈
+t
+i
+s
+s
+u
+e
+I
+j
+β
+j
++
+∑
+k
+∈
+b
+i
+o
+p
+s
+y
+I
+k
+β
+k
++
+X
+p
+u
+r
+i
+t
+y
+β
+p
+u
+r
+i
+t
+y
++
+X
+a
+g
+e
+β
+a
+g
+e
+The models were fitted with the base R
+glm
+function.
+Progression-free and overall survival outcomes were modeled for each feature with Cox proportional hazards models. The hazard rates, denoted
+h
+(
+t
+), were modeled as follows.
+Full model:
+\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{mathrsfs}
+\usepackage{upgreek}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}$$\log \left(h\left(t\right)\right)=X{\beta }_{X}+\sum _{j\in {tissue}}{I}_{j}{\beta }_{j}+\sum _{k\in {biopsy}}{I}_{k}{\beta }_{k}+{X}_{{purity}}{\beta }_{{purity}}+{X}_{{age}}{\beta }_{{age}}$$\end{document}
+log
+h
+t
+=
+X
+β
+X
++
+∑
+j
+∈
+tissue
+I
+j
+β
+j
++
+∑
+k
+∈
+biopsy
+I
+k
+β
+k
++
+X
+purity
+β
+purity
++
+X
+age
+β
+age
+Reduced model:
+\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{mathrsfs}
+\usepackage{upgreek}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}$$\log \left(h\left(t\right)\right)=\sum _{j\in {tissue}}{I}_{j}{\beta }_{j}+\sum _{k\in {biopsy}}{I}_{k}{\beta }_{k}+{X}_{{purity}}{\beta }_{{purity}}+{X}_{{age}}{\beta }_{{age}}$$\end{document}
+log
+h
+t
+=
+∑
+j
+∈
+tissue
+I
+j
+β
+j
++
+∑
+k
+∈
+biopsy
+I
+k
+β
+k
++
+X
+purity
+β
+purity
++
+X
+age
+β
+age
+Survival models were fitted using the
+coxph
+function from the survival package in R.
+For all analyses,
+P
+values were computed based on the likelihood ratio tests comparing the full and reduced models.
+For the main analyses of best overall response, progression-free survival and overall survival, the covariates included were the indicators for primary tissue, the age of patients, the site of biopsy of the metastasis and the tumor purity. For the overall survival residuals analysis, the covariates additionally included the representative biomarkers of the three latent factors explaining response: TMB, T cell effective infiltration and pretreatment. For all model–feature–covariate combinations, the
+P
+values were calculated from the likelihood ratio test comparing the full model to the reduced model (with the feature of interest removed). Effect sizes (log odds ratio for the logistic regression and hazard ratios for the Cox regression) and standard errors were estimated with maximum likelihood from the full models. All effect sizes, standard errors and corresponding
+P
+values were stored for further analysis. Given the large dependency in tests, we used the Benjamini–Yekutieli multiple testing threshold to control the false discovery rate
+21
+. Several exhaustive analyses were run, with different sets of covariates each producing similar conclusions. Full documentation of all exhaustive analyses can be found in Supplementary Note
+1
+.
+Identification of latent factors
+Latent factors were defined as the independent biological mechanisms underlying the features most predictive of CPI response and survival. To label latent factors, we first focused on features passing the Benjamini–Yekutieli multiple test significance threshold. From these significant features, we computed their pairwise Pearson correlations and identified clusters using hierarchical clustering (hclust() in R with the Ward.D2 algorithm). The optimal number of clusters was defined using the R package ‘factoextra’ function fviz_nbclust, using silhouette’, ‘wss’ and ‘gap_stat’ options.
+To label transcriptomics clusters, we computed the expression of 255 gene sets reported in the literature. The gene sets (Supplementary Table
+2
+) were collected by downloading the Hallmark and KEGG annotated gene sets from MSigDB
+25
+,
+26
+(version 2023.1.Hs). These genesets were further complemented by others, obtained from previous publications
+27
+, including a paper describing the CPI-1000 analyses
+12
+. Genesets with a Pearson correlation of >0.8 with the mean of a specific cluster and passing the multiple test
+P
+value threshold of association with CPI response or survival were considered cluster-specific and thus used to discern the nature of the cluster.
+Stability of transcriptomics latent factors
+For each gene in each transcriptomics cluster, we calculated the silhouette score
+42
+using the silhouette() function from the package ‘cluster’ in R. This score reflects how close the particular data point is to the cluster of assignment and how far it is from other clusters. The matrix of distances between genes used to calculate silhouette scores was obtained from the correlation matrix
+\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{mathrsfs}
+\usepackage{upgreek}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}$$d=\sqrt{1-\left|{cor}\right|},$$\end{document}
+d
+=
+1
+−
+cor
+,
+where
+cor
+is the correlation matrix of gene expression levels.
+We then calculated silhouette scores for each gene in every other cohort with available expression data (INSPIRE, MARIATHASAN, PARKER ICI, RAVI) using gene expression levels from the corresponding dataset but keeping the initial clustering obtained in the HMF cohort. Aggregation of silhouette scores across datasets was performed using the aggregateRanks (method = ‘stuart’) function from the ‘RobustRankAggreg’ R package
+43
+.
+Multivariate machine-learning models
+Multivariate models were fitted using the Extreme Gradient Boosting (XGBoost) package in R
+44
+. The training in all cases sought to find the tree function T (sum of trees) that minimizes the expected loss between the observed and predicted response values; that is:
+\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{mathrsfs}
+\usepackage{upgreek}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}$${\hat{T}={argmi}{n}_{T}E}_{X,Y}L\left(Y,T\left(X\;\right)\right)$$\end{document}
+T
+^
+=
+a
+r
+g
+m
+i
+n
+T
+E
+X
+,
+Y
+L
+Y
+,
+T
+X
+where
+X
+and
+Y
+are the feature and response data, respectively, and
+\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{mathrsfs}
+\usepackage{upgreek}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}$$L$$\end{document}
+L
+is the loss function of choice. In our setting, the loss function was chosen to be a negative likelihood compatible with the typical distributional assumptions for each type of data. Specifically, the best overall response was modeled using the logistic regression likelihood, while progression-free survival and overall survival were modeled using the Cox proportional hazards likelihood.
+We trained three pan-cancer models (one per outcome) incorporating all available training data (479 patients). We also trained 12 hybrid models based on the three pan-cancer models followed by further cycles of training on patients of each tumor type, but maintaining exactly the same loss function and all hyperparameters. Patients suffering from malignancies other than skin melanomas and lung or bladder tumors were pooled within a group labeled as ‘other’ tumor types. This model fit procedure found a compromise between low variance but high bias from the pan-cancer models and low bias but high variance in pure tumor type-specific models. Finally, we also trained pure tumor type-specific models, starting from the patients in each of the four groups separately (details in Supplementary Note
+1
+).
+The XGBoost models require many tuning parameters (learning rate, depth, sub-sampling, minimum tree leaf size) that guide the internal model fitting. Initially, our model building used grid searches to select optimal internal tuning parameters. However, in our cross-validation study, we found that simple additive models (depth, 1; fast learning rate, 0.05; minimum leaf size, 5; sub-sampling, 0.75) had the best performance.
+For the best overall response, the model casts the prediction outputs as log odds ratio scores that can then be recast into probability scores (continuous values between 0 and 1). For progression-free survival and overall survival, the models cast the prediction outputs as log hazard ratios that can then be recast into hazard ratios (continuous and positive).
+Separate models were trained solely on TMB and PDL1 expression (the continuous value reported in the HMF-CPI cohort by whole-transcriptome RNA-seq). These models were used to represent the predictive power of clinically approved biomarkers across analyses of the performance of multivariate models.
+Calculation of Shapley values
+Given that the final tree-based models were additive, the calculation and extraction of Shapley values was straightforward. For each feature, for a given additive model and individual sample, there was 1-to-1 mapping from the feature values and the Shapley values. This relationship between feature and Shapley values is visualized by the marginal dependence plots in Extended Data Figure
+7a,b
+. In R, using the predict function applied to the XGBoost output, we set the argument contribution = TRUE to extract the Shapley values. The extracted Shapley values measure additive feature contribution to the log odds ratio for response models and the log hazard ratio for the Cox survival models.
+Proxy biomarkers in the VHIO cohort
+In the VHIO cohort, the TMB was estimated from the mutations detected using a 432-gene hybrid capture-based panel
+45
+. The expression of 170 genes was measured using the nCounter (NanoString) platform
+46
+. Normalized NanoString counts were log transformed and standardized, and proxy biomarkers were selected based on their correlation with the representative biomarkers of the five latent factors in the HMF-CPI cohort. For the T-cell effective infiltration gene set,
+CXCL9
+,
+CXCL10
+,
+CXCL11
+,
+GZMA
+,
+GZMB
+and
+IFNG
+were selected. Overall, this gene set was strongly correlated with the original T-cell effective infiltration gene set (ρ = 0.97) and showed high statistical significance in the exhaustive analysis (
+P
+= 7.0 × 10
+−8
+). To select a set of genes to represent the latent factors of TGF-β activity in the tumor microenvironment and tumor proliferative potential, we selected genes with a correlation of >0.5 to the respective gene set. This process yielded
+BRCA1
+,
+BRCA2
+and
+TUBB
+for the tumor proliferative potential gene set. Although none of these genes were included in the representative biomarker obtained from the HMF-CPI cohort, they all showed a strong correlation to this gene set. The proxy gene set also showed a statistically significant association with overall survival residuals. The aforementioned process, in the case of the VHIO TGF-β gene set, yielded
+DLL4
+,
+HEYL
+,
+NOTCH3
+,
+NOTCH4
+,
+SERPINE1
+,
+TGFB1
+and
+TGFB3
+. This gene set also showed a very strong correlation to the representative TGF-β activity in the tumor microenvironment biomarker (Supplementary Note
+1
+).
+Statistics and reproducibility
+The systematic analysis to identify features associated with CPI response and survival was carried out through logistic and Cox regressions, and the results were filtered for multiple testing as described in the
+Methods
+and
+Supplementary Information
+. These features were grouped into latent factors based on their pairwise correlations. Standard statistical approaches, such as univariate and multivariate regressions or Kaplan–Meier analysis, were used downstream for the analysis of the latent factors across validation cohorts. No statistical method was used to determine sample size for the analysis. All available samples from the discovery and validation cohorts were used; none were excluded from the analysis. Given that the study consisted entirely of the analysis of existing data, it was not randomized and the investigators were not blinded, as no allocation of samples in groups was carried out. All data used in this study are publicly available (see below) and the code used to reproduce the analysis described in the paper has been deposited in public repositories (see below).
+Reporting summary
+Further information on research design is available in the
+Nature Portfolio Reporting Summary
+linked to this article.
+Online content
+Any methods, additional references, Nature Portfolio reporting summaries, source data, extended data, supplementary information, acknowledgements, peer review information; details of author contributions and competing interests; and statements of data and code availability are available at 10.1038/s41588-024-01899-0.
+Supplementary information
+Supplementary Information
+Supplementary Figs. 1–3 and Supplementary Note 1.
+Reporting Summary
+Peer Review File
+Supplementary Tables 1 and 2
+Supplementary Table 1. Description of all cohorts included in the study. Supplementary Table 2. Gene sets used to interpret transcriptomics clusters.
+Supplementary Data 1
+Supplementary Dataset 1. Results of the exhaustive analysis of the association of features with CPI response and survival.
+Extended data
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+These authors contributed equally: Axel Rosendahl Huber, Maria A. Andrianova.
+Extended data
+is available for this paper at 10.1038/s41588-024-01899-0.
+Supplementary information
+The online version contains supplementary material available at 10.1038/s41588-024-01899-0.
+Acknowledgements
+We wish to acknowledge the contribution of patients, families and biomedical researchers who shared, processed and sequenced the data used in the study. This publication and the underlying study have been made possible partly based on the data that HMF has made available. We also acknowledge the use of data from the INSPIRE clinical trial (NCT02644369) and data obtained from patients presented at the VHIO. N.L.-B. acknowledges funding from the European Research Council (ERC; consolidator grant 682398). This project has received funding from the European Union’s Horizon program HORIZON-HLTH-2021-CARE-05-02 for the project CGI-Clinics under grant agreement no. 101057509. E.B. receives support from Generalitat de Catalunya (2021 SGR 001278) and ERC Advanced Grant 884623. The Institute for Research in Biomedicine Barcelona is a recipient of a Severo Ochoa Centre of Excellence Award from the Spanish Ministry of Economy and Competitiveness (MINECO; Government of Spain) and an Excellence Institutional grant by the Asociacion Española contra el Cancer and is supported by CERCA (Generalitat de Catalunya).
+Author contributions
+A.G.-P. and N.L.-B. conceptualized the project. J.U. designed and carried out the exhaustive analysis, training, testing and validating multivariate methods, and performed most other analyses presented in the manuscript and supplement and participated in the discussion of results. A.R.H. and M.A.A. participated in the analysis and interpretation of latent factors. F.M. participated in the conceptualization of the analyses, provided support to perform them and participated in the discussion of results. A.G.-P. and N.L.-B. supervised the project, participated in the discussion of results and wrote the first draft of the manuscript. D.L.G., M.G. and A.V. provided the molecular data of patients in the VHIO cohort. E.F., E.E., J.C., E.M.-C. and J.T. provided the clinical data of patients in the VHIO cohort. A.V., E.F., J.T., F.M.-J., E.B., E.C. and L.L.S. contributed ideas to the design of analyses and participated in the discussion of results. All authors have read and approved the manuscript.
+Peer review
+Peer review information
+Nature Genetics
+thanks Kevin Litchfield for their contribution to the peer review of this work.
+Peer reviewer reports
+are available.
+Data availability
+Access to the HMF-CPI data can be obtained through a request to the HMF (
+https://www.hartwigmedicalfoundation.nl/en/data/data-acces-request
+)
+18
+,
+19
+. The validation datasets can be obtained as follows: INSPIRE
+29
+, INSPIRE github repository (
+https://github.com/pughlab/inspire-genomics
+); Lyon
+30
+, GEO
+GSE159067
+, GEO
+161537
+, GEO
+GSE162519
+and GEO
+162520
+; MARIATHASAN
+27
+, public repository (
+http://research-pub.gene.com/IMvigor210CoreBiologies
+); PARKER ICI
+31
+, PARKER ICI github repository (
+https://github.com/ParkerICI/MORRISON-1-public
+); RAVI
+32
+, zenodo repository:
+7625517
+; VHIO, this study github repository (
+https://github.com/bbglab/immunebiomarkers
+).
+Code availability
+All code necessary to carry out the extraction of the features from the HMF-CPI provided files (version DR-263_update1) and to generate the data frame needed for analysis is freely available in a public repository (
+https://github.com/bbglab/hartwig_biomarkers
+). The code to reproduce all analyses is also publicly available (
+https://github.com/bbglab/immunebiomarkers
+).
+Competing interests
+E.M.-C. reports a consultant or advisory role for Bristol Myers Squibb, Merck Sharp & Dohme, Novartis, Pierre Fabre, Roche and Sanofi; research funding from MSD, Sanofi and BMS; speaking engagements for Amgen, Bristol Myers Squibb, Merck Sharp & Dohme, Novartis and Pierre Fabre; clinical trial participation (as principal investigator) for Amgen, Bristol Myers Squibb, GlaxoSmithKline, Merck Sharp & Dohme, Novartis, Pierre Fabre, Roche and Sanofi. L.L.S. has a consultant/advisory role for Pfizer, AstraZeneca, Roche, GlaxoSmithKline, Voronoi, Arvinas, Navire, Relay, Marengo, Daiichi Sankyo, Amgen, Medicenna, LTZ Therapeutics, Tubulis, Nerviano, Pangea, Incyte and Gilead; received grant/research support (Institution—for clinical trials) from Merck, Novartis, Bristol Myers Squibb, Pfizer/SeaGen, Boerhinger-Ingelheim, GlaxoSmithKline, Roche, Genentech, AstraZeneca, Bayer, Abbvie, Amgen, Symphogen, EMD Serono, 23Me, Daiichi Sankyo, Gilead, Marengo, Incyte, LegoChem, Loxo/Eli Lilly, Medicenna and Takara; reports a leadership position (spouse) at Treadwell Therapeutics (founder) and stock ownership (spouse) in Agios. E.B. is the author of a patent related to TGF-β inhibitors, a patent describing bispecific antibodies to target cancer stem cells; E.B.'s lab has received research funding from MERUS, INCYTE and Revolution Medicines; and received honoraria for consulting from Genentech. J.T. reports personal financial interest in the form of scientific consultancy role for Alentis Therapeutics, AstraZeneca, Aveo Oncology, Boehringer Ingelheim, Cardiff Oncology, CARSgen Therapeutics, Chugai, Daiichi Sankyo, F. Hoffmann–La Roche, Genentech, hC Bioscience, Ikena Oncology, Immodulon Therapeutics, Inspirna, Lilly, Menarini, Merck Serono, Merus, MSD, Mirati, Neophore, Novartis, Ona Therapeutics, Ono Pharma USA, Orion Biotechnology, Peptomyc, Pfizer, Pierre Fabre, Samsung Bioepis, Sanofi, Scandion Oncology, Scorpion Therapeutics, Seattle Genetics, Servier, Sotio Biotech, Taiho, Takeda Oncology and Tolremo Therapeutics; stocks in Oniria Therapeutics, Alentis Therapeutics, Pangaea Oncology and 1TRIALSP; and an educational collaboration with Medscape Education, PeerView Institute for Medical Education and Physicians Education Resource (PER). E.E. has received personal honoraria from Amgen, Bayer, BMS, Boehringer Ingelheim, Cure Teq AG, Hoffman–La Roche, Janssen, Lilly, Medscape, Merck Serono, MSD, Novartis, Organon, Pfizer, Pierre Fabre, Repare Therapeutics, RIN Institute, Sanofi, Seagen International, Servier and Takeda. E.F. reports a consulting or advisory role with Abbvie, Amgen, AstraZeneca, Bayer, Boehringer Ingelheim, BMS, Daiichi Sankyo, F. Hoffmann–La Roche, Genmab, Gilead, GSK, Janssen, Johnson & Johnson, Merck Serono, MSD, Novartis, Peptomyc, Pfizer, Regeneron, Sanofi, Takeda; and speakers’ bureau for Amgen, AstraZeneca, BMS, Daiichi Sankyo, Eli Lilly, F. Hoffmann–La Roche, Janssen, Medical Trends, Medscape, Merck Serono, MSD, Peervoice, Pfizer Regeneron, Seagen, Touch Oncology; board of directors role with Grifols; principal investigator in trials (institutional financial support for clinical trials) sponsored by AstraZeneca, Abbvie, Amgen, Bayer, Beigene, Boehringer Ingelheim, BMS, Daiichi Sankyo, Exelixis, F. Hoffmann-La Roche, Genentech, GSK, Janssen, MSD, Merck KGAA, Mirati, Novartis, Nuvalent, Pfizer and Takeda. J.C. reports a role with the advisory board of Astellas Pharma, AstraZeneca, Bayer, Bristol Myers Squibb, Exelixis, Ipsen, Johnson & Johnson, MSD Oncology, Novartis (AAA), Pfizer and Sanofi; institutional funding received from Janssen-Cilag International NV, Lilly, S.A, Medimmune, Novartis Farmacéutica, S.A. and Sanofi-Aventis, S.A.; other role as Member of the Comission Catalan Program of Ambulatory Medication Comission (CAHMDA). The remaining authors declare no competing interests.

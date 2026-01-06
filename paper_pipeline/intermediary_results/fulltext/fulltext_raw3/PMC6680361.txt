@@ -1,0 +1,816 @@
+J Tissue Eng Regen Med
+J Tissue Eng Regen Med
+10.1002/(ISSN)1932-7005
+TERM
+Journal of Tissue Engineering and Regenerative Medicine
+1932-6254
+1932-7005
+John Wiley and Sons Inc.
+Hoboken
+6680361
+10.1002/term.2032
+TERM2032
+TERM-14-0325.R1
+Research Article
+Research Articles
+A responsive human triple‐culture model of the air–blood barrier: incorporation of different macrophage phenotypes
+Complex
+in vitro
+air–blood barrier: integration of different macrophage models
+J. Kasper
+et al.
+Kasper
+Jennifer Y.
+kasperj@uni-mainz.de
+1
+Hermanns
+Maria I.
+1
+Unger
+Ronald E.
+1
+Kirkpatrick
+C. James
+1
+1
+Institute of Pathology
+University Medical Centre
+Mainz
+Germany
+*
+Correspondence to: Dr. rer. nat. Jennifer Y. Kasper, Institute of Pathology, University Medical Centre Mainz, Langenbeckstrasse 1, 55101 Mainz, Germany. E‐mail:
+kasperj@uni-mainz.de
+15
+6
+2015
+4
+2017
+11
+4
+10.1002/term.v11.4
+1285
+1297
+08
+10
+2014
+31
+3
+2015
+21
+4
+2015
+© 2015 The Authors Journal of Tissue Engineering and Regenerative Medicine Published by John Wiley & Sons, Ltd.
+This is an open access article under the terms of the
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non‐commercial and no modifications or adaptations are made.
+Abstract
+Current pulmonary research underlines the relevance of the alveolar macrophage (AM) integrated in multicellular co‐culture‐systems of the respiratory tract to unravel, for example, the mechanisms of tissue regeneration. AMs demonstrate a specific functionality, as they inhabit a unique microenvironment with high oxygen levels and exposure to external hazards. Healthy AMs display an anti‐inflammatory phenotype, prevent hypersensitivity to normally innocuous contaminants and maintain tissue homeostasis in the alveolus. To mirror the actual physiological function of the AM, we developed three different polarized [classically activated (M1) and alternatively activated (M2
+wh
+, wound‐healing; M2
+reg
+, regulatory)] macrophage models using a mixture of differentiation mediators, as described in the current literature. To test their immunological impact, these distinct macrophage phenotypes were seeded on to the epithelial layer of an established
+in vitro
+air–blood barrier co‐culture, consisting of alveolar epithelial cells A549 or H441 and microvascular endothelial cells ISO‐HAS‐1 on the opposite side of a Transwell filter‐membrane. IL‐8 and sICAM release were measured as functionality parameters after LPS challenge. The M1 model itself already provoked a severe inflammatory‐like response of the air–blood barrier co‐culture, thus demonstrating its potential as a useful
+in vitro
+model for inflammatory lung diseases. The two M2 models represent a ‘non‐inflammatory’ phenotype but still showed the ability to trigger inflammation following LPS challenge. Hence, the latter could be used to establish a quiescent, physiological
+in vitro
+air–blood model. Thus, the more complex differentiation protocol developed in the present study provides a responsive
+in vitro
+triple‐culture model of the air–blood‐barrier that mimics AM features as they occur
+in vivo
+. © 2015 The Authors Journal of Tissue Engineering and Regenerative Medicine Published by John Wiley & Sons, Ltd.
+air–blood barrier
+cytotoxic and inflammatory responses
+alveolar macrophage
+soluble CD14
+alveolar epithelial cells
+microvascular endothelial cells
+source-schema-version-number
+2.0
+component-id
+term2032
+cover-date
+April 2017
+details-of-publishers-convertor
+Converter:WILEY_ML3GV2_TO_NLMPMC version:5.6.7 mode:remove_FC converted:05.08.2019
+Kasper
+,
+J. Y.
+,
+Hermanns
+,
+M. I.
+,
+Unger
+,
+R. E.
+, and
+Kirkpatrick
+,
+C. J.
+(
+2017
+)
+A responsive human triple‐culture model of the air–blood barrier: incorporation of different macrophage phenotypes
+.
+J Tissue Eng Regen Med
+,
+11
+:
+1285
+–
+1297
+. doi:
+10.1002/term.2032
+.
+26078119
+1
+Introduction
+In tissue engineering and regenerative medicine, the respiratory system has been approached by a comparatively small number of research groups. Moreover, the complex anatomy and physiology of this organ system makes the establishment of relevant experimental models extremely difficult. Being able to stimulate controlled regeneration in both the upper and lower respiratory tracts could benefit numerous patients with both acute and chronic pulmonary diseases. The present paper is concerned with the lower respiratory tract and how an established
+in vitro
+co‐culture model developed by our research group can be modified to a higher degree of structural and functional complexity.
+The lower respiratory interface of the lung involves gas exchange between the external environment and the pulmonary circulation. In order to function efficiently, the alveolar–capillary barrier consists of specialized, flattened epithelial cells (alveolocytes) and microvascular endothelial cells of the lung capillaries, which are separated by a 0.2 µm thick basement membrane (Lambrecht,
+2006
+). As this delicate air–blood barrier possesses a very large surface area of around 140 m
+2
+(Hoet
+et al
+.,
+2004
+), inhaled pathogens or particulate matter may easily gain access to the systemic circulation. In addition to the formation of a strong barrier by the tight junctional complexes of the alveolocytes, which prevent inhaled particulate matter from entering the body, further defence mechanisms are required to render such threats harmless and eliminate them properly. Strictly regulated immunological homeostasis in the deeper lung is a first priority, even before contact with external material occurs. In this, a major role is played by the alveolar macrophages (AMs).
+AMs are described as having an unusual phenotype compared to macrophages from other regions of the body, as they are directly exposed to the external environment and thus to high oxygen levels. Under physiological conditions, the AMs appear in a quiescent or latent inflammatory state. To maintain tissue homeostasis, they actively suppress the adaptive immunity of all alveolus‐associated cells by secreting important mediators, such as nitric oxide, prostaglandins, interleukin‐10 (IL‐10) and transforming growth factor‐
+β
+(TGF
+β
+) (Lambrecht,
+2006
+). In this way, damage to the alveolus from hypersensitive inflammatory reactions to inhaled microbes or dust is prevented.
+In vivo
+studies using clodronate‐filled liposomes designed to eliminate alveolar macrophages demonstrated an increased pulmonary immune response to normally innocuous particulate matter (Thepen
+et al
+.,
+1989
+).
+A further essential activity is the phagocytosis and subsequent killing of aspirated pathogens or removal of particles to prevent pulmonary inflammation (Rubins,
+2003
+). Besides secreting the above‐mentioned anti‐inflammatory mediators, they additionally secrete antimicrobial metabolites, such as reactive oxygen species, lysozymes, peptides or proteases (Rubins,
+2003
+; Sibille and Reynolds,
+1990
+). Basically, AMs represent the front line of alveolar defence and their unique phenotype is determined by the lung microenvironment. In addition to AMs, alveolar epithelial cells (AECs) also contribute to tissue homeostasis by keeping immune cells such as macrophages in a latent state, e.g. by surfactant components such as SPA and SPD (Guillot
+et al
+.,
+2013
+). Thus, both cell types, AMs and AECs among others, are responsible for this balancing act, due to their mutual crosstalk (Kopf
+et al
+.,
+2015
+). For that reason, ongoing studies using
+in vitro
+models should consider at least these two cell types as components of their lung model. A recent study has already incorporated a commonly used macrophage
+in vitro
+model in a complex 3D lung tetraculture [THP‐1 stimulated with phorbol‐12‐myristate‐13‐acetate (PMA)] (Klein
+et al
+.,
+2013
+). The human acute monocytic leukaemia cell line THP‐1 is well known and commonly substituted as a general macrophage model for
+in vitro
+studies (Schwende
+et al
+.,
+1996
+; Tsuchiya
+et al
+.,
+1980
+). Most of these studies apply PMA to induce a general macrophage‐like differentiation. Due to the difficulty of obtaining alveolar macrophages, which appear under physiological conditions in a quiescent or latent inflammatory state, the THP‐1 cells are also frequently used as an AM model for
+in vitro
+studies (Estrella
+et al
+.,
+2011
+; Klein
+et al
+.,
+2013
+; Riendeau and Kornfeld,
+2003
+; Voth
+et al
+.,
+2007
+).
+Overall, the current literature describes at least three populations of activated macrophages, each of which has a distinct physiology according to three different functions: host defence, wound healing and immune regulation (Mosser and Edwards,
+2008
+). The classically activated macrophage (M1) is recruited during cell‐mediated immune responses, whereby the combination of two pro‐inflammatory signals, interferon‐
+γ
+(INF
+γ
+) and tumour‐necrosis factor‐
+α
+(TNF
+α
+), plays a role in priming the pro‐inflammatory macrophage phenotype. Alternatively activated macrophages (M2) with anti‐inflammatory potential, such as the so‐called wound‐healing macrophage (M2
+wh
+), are normally engaged during tissue repair as well as during innate or adaptive immune responses. IL‐4 and IL‐13 play a central role in activation of the latter phenotype (Mosser and Edwards,
+2008
+). Another macrophage subtype with anti‐inflammatory capacities is described as the regulatory macrophage (M2
+reg
+), which can be primed following innate or adaptive immune signals, e.g. IL‐10 produced by regulatory T cells. According to this rough classification, there may also be intermediate stages of these subtypes (Mosser and Edwards,
+2008
+), so that it is probably more useful from a biological viewpoint to regard macrophages as having a spectrum of functionality and plasticity, rather than rigid categories. As reviewed by Dey
+et al
+. (
+2014
+), a deeper insight into the inherent plasticity of macrophages in homeostasis and disease could lead to progress in therapeutic strategies for acute and chronic inflammatory disease.
+Since AMs in the healthy lung also display regulatory properties involving, for example, the participation of IL‐10, it is probable that they are related to the M2
+reg
+subtype. However, according to the current literature, there is still no common agreement about whether healthy alveolar macrophages in humans can be classified towards the M1‐like or M2‐like subtypes (Hussell and Bell,
+2014
+). As discussed by Aggarwal
+et al
+. (
+2014
+), diverse macrophage phenotypes/populations are present during acute inflammation and resolution in the lung.
+Nevertheless, on account of its unusual properties, the phenotypic potential of the alveolar macrophage is of great importance for complex, multicellular bronchial and alveolar models
+in vitro
+to study the cytotoxicity and inflammatory potential of inhalable substances as well as regenerative processes. Much effort has already been made to stress its crucial role for such complex
+in vitro
+models (Brandenberger
+et al
+.,
+2010
+; Diabaté
+et al
+.,
+2004
+; Rothen‐Rutishauser
+et al
+.,
+2005
+).
+On the basis of the above‐mentioned facts, the present study focuses on developing a multicellular triple culture model of the air–blood barrier, using a macrophage model that mirrors AM features as they are
+in vivo
+. We used the human leukaemia monocyte cell line THP‐1 to set up the three established macrophage phenotypes, using differentiation mediators that are, according to the literature, relevant for the M1, M2
+wh
+and M2
+reg
+phenotypes and especially for alveolar macrophages. These were subseqently used to assemble a triple‐culture model of the air–blood barrier by seeding them on top of the barrier‐forming alveolar epithelial cells (A549 or NCI H441) in co‐culture with microvascular endothelial cells (ISO‐HAS‐1), these being seeded on opposite sides of a Transwell filter membrane, as shown in our previous studies (Hermanns
+et al
+.,
+2004
+,
+2010
+; Kasper
+et al
+.,
+2011
+,
+2013
+). The inflammatory behaviour of the three different triple cultures towards the pathogen stimulus, lipopolysaccharide (LPS), was compared in order to establish which macrophage model would most closely mimic a healthy or an inflamed air–blood barrier
+in vivo
+.
+2
+Materials and methods
+2.1
+Cell culture
+ISO‐HAS‐1 (human microvascular endothelial cell line, originated from (Masuzawa
+et al
+.,
+1999
+; Unger
+et al
+.,
+2002
+)), NCI H441 (human lung adenocarcinoma cell line), A549 (human lung carcinoma cell line) and THP‐1 (human leukaemia monocyte cell line; all three cell lines purchased from ATCC, ATCC‐HTB‐174, CCL‐185 and TIB‐202, Promochem, Wesel, Germany) were grown in RPMI 1640 (Gibco) supplemented with
+l
+‐glutamine, 10% fetal calf serum (FCS) and penicillin–streptomycin (Pen/Strep; 100 U/100 µg/ml) and cultivated at 37 °C in 5% CO
+2
+. ISO‐HAS‐1 and H441 were passaged every third day at a dilution of 1:3 until passages 50 and 35, respectively, and THP‐1 were passaged with a cell number of 1 × 10
+6
+–1 × 10
+5
+cells/ml.
+2.2
+The co‐culture model of the alveolo–capillary barrier of the distal lung
+The co‐culture technique was performed as described by Hermanns
+et al
+. (
+2004
+), with some modifications. HTS 24‐Transwell
+®
+filters (polycarbonate, 0.4 µm pore size; Costar, Wiesbaden, Germany) were coated with rat tail collagen type I (12.12 µg/cm
+2
+; BD Biosciences, Heidelberg, Germany). ISO‐HAS‐1 cells (2.1 × 10
+4
+/well ≙ 6.9 × 10
+4
+/cm
+2
+) were seeded on the lower surface of the inverted filter membrane. After 2 h of adhesion at 37 °C and 5% CO
+2
+, H441 (8 × 10
+4
+/well ≙ 2.6 × 10
+5
+/cm
+2
+) or A549 (1.1 × 10
+4
+/well ≙ 3.6 × 10
+4
+/cm
+2
+) were placed on the upper surface of the membrane. The cells were cultured for about 7 days in RPMI 1640 medium with
+l
+‐glutamine, supplemented with 5% FCS, Pen/Strep (100 U/100 µg/ml). From day 3 of cultivation, the H441 and A549 were treated with dexamethasone (1 µ
+m
+). From day 7 on, they showed trans‐bilayer electrical resistance (TER) values averaging 560 ± 6 Ω/cm
+2
+.
+2.3
+Differentiation of THP‐1 to different macrophage subtypes
+Thermo‐responsive six‐well plates (Thermo Scientific, Nunc UpCell Six‐well Multidish, cat. no. 174901) were coated with 1 ml fibronectin for 1 h at 37 °C [5 µg/ml in phosphate‐buffered saline (PBS; Roche Diagnostics, Mannheim, Germany]. After discarding the fibronectin, THP‐1 cells were seeded with a cell number of 3 × 10
+5
+cells/ml and 3 ml/well in the six‐well plates. The different differentiation cocktails were added to the wells: M1‐macrophages, 50 m
+m
+PMA, 100 ng/ml GM‐CSF, 25 ng/ml TNF
+α
+; M2
+wh
+‐macrophages, 8 m
+m
+PMA, 100 ng/ml GM‐CSF, 35 ng/ml IL‐4, 20 ng/ml IL‐13; M2
+reg
+‐macrophages, 8 m
+m
+PMA, 100 ng/ml GM‐CSF, 20 ng/ml IL‐10 (stimulants: PMA, Sigma, cat. no. 79346; human recombinant GM‐CSF, Preprotech, cat. no. 300–03; human recombinant TNF
+α
+, Promokine, cat. no. 130093924; human IL‐4, MACS, Miltenyi Biotec, cat. no. 130‐093‐921; human recombinant IL‐13, MACS, Miltenyi Biotec, cat. no. 130‐093‐954; human recombinant IL‐10, MACS, Miltenyi Biotec, cat. no. 130‐093‐949).
+After an incubation of 48 h, the cells were washed twice with prewarmed cell culture medium and kept at room temperature for about 30 min to allow the detachment process of the thermo‐responsive plates. After 30 min the detached cells were harvested and transferred to a 50 ml Falcon flask. The wells were washed once with PBS and incubated with 800 µl Accutase (cat. no. L11‐007, PAA Laboratories GmbH, Austria) to detach the remaining adherent cells. The wells were washed with 1 ml cell culture medium, whereby all rinsing solutions were put into the Falcon flasks. The cells were counted using the CASY
+®
+Cell Counter and Analysis System (Schärfe System).
+2.4
+Characterization of THP‐1 cells differentiated into various subtypes
+After 48 h of incubation with the differentiation cocktails, the morphology of the cells was examined by means of light microscopy (All‐in‐One Fluorescence Microscope, BIOREVO BZ‐9000, Keyence) and fluorescence microscopy (CD68) (DeltaVision, Applied Precision).
+2.5
+Immunofluorescence (IF) for marker proteins
+IF was performed to label marker proteins for macrophages (CD68, Dako, cat. no. M0718; or CD11a, Becton‐Dickinson, cat. no. 610826) or tight junctions of epithelial cells, such as zona occludens‐1 (ZO‐1; Zymed, cat. no. 61–7300). After fixation, the cells were washed three times with PBS and permeabilized with Triton X‐100 in PBS (0.5% for CD68 and 2% for ZO‐1). The cells were washed three times with PBS and incubated with primary antibody diluted in 1% PBSA overnight at 4 °C. After three washing steps with PBS, the cells were then incubated with secondary antibody (AlexaFluor 488, Invitrogen, cat. no. A11029; or AlexaFluor 546, Invitrogen, cat. no. A11010) for 1 h at room temperature. Subsequently, the cells were washed three times with PBS and the nuclei were stained with Hoechst 33342 (Molecular Probes) for 5 min, and again washed three times. Finally, the cut Transwell filters were mounted with Fluoromount‐G™ (Southern Biotech, Birmingham, AL, USA) and ibidi u‐slides were mounted with ibidi mounting medium (ibidi, cat. no. 80826, Martinsried).
+2.6
+Analysis of macrophage‐specific surface marker proteins via flow cytometry
+This analysis was performed for CD11c, CD33, CD54 and HLA‐DR (BD Biosciences, cat. nos 559877, 551378, 559771 and 559866) with appropriate isotype controls (BD Biosciences, cat. nos 550931 and 555576).
+After differentiation for 48 h, cells were detached, put on ice for 10 min and fixed with 100 µl Fix&Perm Reagent A (cat. no. GAS‐004, Invitrogen) for 20 min. After fixation, the cells were washed by adding 1 ml 1% PBSA to the cells and centrifuging for 5 min at 300 rpm. The supernatant was discarded and the cells were resuspended in 100 µl Fix&Perm Reagent B. Subsequently, 10 µl antibody was added and incubated for 20 min at room temperature. Following this, the cells were again washed with 1 ml 1% PBSA, as described above, and finally resuspended in 500 µl 1% PBSA. The cells were examined using the flow cytometer (FACScalibur, BD Biosciences).
+2.7
+Preparation of the triple culture and stimulation with lipopolysaccharide
+After differentiation of the THP‐1 cells for 48 h with the described cocktails, the macrophages (M1, M2
+wh
+and M2
+reg
+; 1 × 10
+4
+cells/ml) were seeded in the upper well of the Transwell in RPMI 1640 with 5% FCS on top of a monolayer of A549 or H441 cells in co‐culture with ISO‐HAS‐1 (after a culture period of 7 days for the co‐culture, when an appropriate TER (ca. 560 ± 6 Ω/cm
+2
+) was developed. Triple cultures were cultured for 24 h. LPS (end concentration, 1 µg/ml; Sigma) was then added to the upper well and incubated for a further 24 h. After the culture and incubation period, the supernatants in the upper and lower wells were harvested for cytokine analysis (ELISA) and the cells fixed with paraformaldehyde (3.7%) in CS buffer [ piperazine‐N,N'‐bis(2‐ethanesulfonic acid (PIPES) 0.1
+m
+, ethylene glycol tetraacetic acid (EGTA) 1 m
+m
+, 4% polyethylene glycol 800, NaOH 0.1
+m]
+for 20 min at room temperature for subsequent immunofluorescence staining.
+2.8
+Inflammatory responses
+The supernatants were analysed for IL‐8 and soluble ICAM (sICAM) release via ELISA (DuoSet R&D, cat. no. DY208), according to the manufacturer's recommendations.
+2.9
+Transbilayer electrical resistance measurements
+To determine the functional efficiency of an intact barrier
+in vitro
+, the transepithelial electrical resistance (TER) was measured using an EVOM voltohmmeter (World Precision Instruments, Berlin, Germany) equipped with a STX‐2 chopstick electrode. TER was measured immediately before the addition of the macrophages, 24 h after the addition of macrophages and finally 24 h after LPS addition. HTS 24‐Transwell
+®
+filter membranes without cells but coated with rat tail collagen type I were measured and set as blank (approximately 110 Ω). Barrier resistance readings (Ω) were obtained for each well individually and, after subtracting the resistance of the blank filter membrane, were multiplied by the membrane area (0.33 cm
+2
+) to give Ω cm
+2
+. To normalize the data,
+t
+0
+of each single well was set as 100% to normalize the value of the same well after 48 h. In a second step, the mean of the normalized (% of
+t
+0
+) untreated co‐culture was set as 100% and all other single values were normalized to the untreated co‐culture as control.
+2.10
+Statistical analysis
+From several independent measurements, means and standard deviations (SDs) were calculated. Data are shown as mean ± standard error of the mean (SE) from at least three separate experiments. Testing for significant differences between means was carried out using one‐ and two‐way ANOVAs, followed by Dunnett's multiple comparison or Bonferroni
+post hoc
+test at probabilities of error of *5%, **1% and ***0.1%.
+3
+Results
+Figure
+1
+illustrates the morphology (upper images) and the CD68 staining (lower images) of the differently stimulated THP‐1 (M1, M2
+wh
+, M2
+reg
+). It depicts the morphological alteration of these phenotypes compared to the unstimulated THP‐1 cells (unst). Cells adhered to the surface in all cases, showed an increased cytosolic volume and expressed the classical macrophage marker CD68, which is also detectable in the unstimulated THP‐1. Further characterization analysis of macrophage‐specific surface marker proteins using FACS is demonstrated in Figure
+2
+. In unstimulated conditions, THP‐1 were 83 ± 13% positive for CD11c, which was also observed for M2
+wh
+and M2
+reg
+(85 ± 12 and 86 ± 6.5%). For the M1, however, CD11c immunofluorescence staining decreased to 23 ± 18% of the cells. The marker CD33 was about 99 ± 0.5% positive for unstimulated cells, but decreased significantly for M2
+wh
+and M2
+reg
+to 55 ± 19 and 67 ± 17% positive cells, with further decrease to 1.2 ± 1.4% positive cells for M1 treatment. Undifferentiated THP‐1 showed low CD54 labelling (6.3 ± 1.6%), which was significantly increased for M1 (69 ± 16%) and further enhanced for M2
+wh
+and M2
+reg
+(95 ± 2.5 and 91 ± 6.7%). HLA‐DR did not show significant alterations, unstimulated cells already showing low signals (23.3 ± 3%), which were not significantly lowered for M1 (9.6 ± 12.5%), M2
+wh
+and M2
+reg
+(15 ± 10 and 14 ± 8%). Several antibodies were applied to detect the monocyte/macrophage‐specific marker CD14 on the surface of THP‐1, which did not yield any positive results. Therefore, immunofluorescent staining for CD14 was conducted and gave positive but weak signals on microscopical examination (data not shown). For that reason, soluble CD14 (sCD14) was investigated after stimulation for 48 h with the different cocktails (Figure
+3
+). For M1 macrophages sCD14 level increased in the supernatant 1.7 ± 0.2‐fold compared to the unstimulated control uc (unstimulated THP‐1). For M2
+reg
+macrophages, sCD14 further increased to 2.5 ± 0.4‐fold compared to the unstimulated control group, whereas M2
+wh
+macrophages did not show any increased sCD14 levels after 48 h. Regarding the release of VEGF after 48 h stimulation, all stimulation cocktails caused a significantly increased VEGF release for all three macrophage subtypes (M1, 1.8 ± 0.3‐fold; M2
+wh
+, 1.4 ± 0.2‐fold; M2
+reg
+, 1.4 ± 0.4‐fold of unst), with M1 macrophages showing the highest release compared to the M2
+wh
+and M2
+reg
+macrophages. Concerning pro‐inflammatory cytokine production, such as IL‐1
+β
+, only M1 displayed a significant IL‐1
+β
+production after 48 h stimulation (M1, 2.9 ± 0.75; M2
+wh
+, 1.04 ± 0.09‐fold; M2
+reg
+, 1.09 ± 0.1‐fold of unst). Increased IL‐8 production was observed for the M1 macrophages after stimulation (47 ± 13‐fold of unst), whereas the M2
+wh
+and M2
+reg
+macrophages merely showed a slight but non‐significant increase (M2
+wh
+, 5.1 ± 1.7‐fold; M2
+reg
+, 5.8 ± 2.6‐fold of unst) after 48 h. Significantly increased levels of soluble ICAM‐1 (sICAM‐1; intercellular adhesion molecule 1) were observed for all macrophage subtypes, with M1 giving a marked increase (4.7 ± 0.48‐fold of unst) compared to M2
+wh
+and M2
+reg
+(2.2 ± 0.2‐fold and 2.4 ± 0.6‐fold of unst).
+Figure
+4
+illustrates the TER measurement of the triple culture of H441/ISO‐HAS‐1 with the differently stimulated macrophages, which were seeded on top of the H441. After seeding of the macrophages, LPS was applied apically to the triple culture and incubated for a further 24 h. TER is depicted 24 h after LPS stimulation, whereby all values were normalized to the percentage of
+t
+0
+of the untreated co‐culture of H441/ISO‐HAS‐1 (c), as described in Materials and methods. Addition of M1 macrophages caused a significant decrease in TER after a culture period of 48 h in total (decrease to 61 ± 37% compared to c), while the TER of the triple culture with the M2
+wh
+and M2
+reg
+macrophages remained stable (103 ± 24% and 108 ± 31% compared to c) after 48 h. In all cases, LPS stimulation did not significantly affect the TER. Similar results were obtained for the LPS‐treated co‐culture (112 ± 59% of c) compared to the untreated co‐culture (110 ± 35% of c). LPS treatment of the M1 triple culture caused a comparable decrease to the untreated M1 triple culture. The barrier of the M2
+wh
+and M2
+reg
+triple cultures remained stable after LPS treatment, as was observed for both triple cultures without LPS.
+Figure
+5
+describes the inflammatory interplay of the triple cultures containing the three different prestimulated macrophage models, M1, M2
+wh
+and M2
+reg
+. 24 h subsequent to macrophage seeding on top of the epithelial layers, the triple culture was apically stimulated with LPS. Two different alveolar epithelial cell line models have been used and compared in co‐culture with endothelial cells on the membrane beneath the epithelial layer, and in triple culture with individually differentiated macrophages (M1, M2
+wh
+and M2
+reg
+) on top of the epithelial cell layer. According to the IL‐8 response after apical LPS stimulation, the co‐culture (without macrophages) with A545/ISO‐HAS‐1 responded apically with a 3 ± 0.9‐fold and basolaterally with a 3.2 ± 0.7‐fold increase compared to the unstimulated co‐culture (coc c) of A549/ISO‐HAS‐1. The co‐culture H441/ISO‐HAS‐1, however, did not show increased IL‐8 levels after LPS treatment in either the apical or the basolateral compartment. In combination with the M1 macrophage model (tric c) both co‐culture models (with A549 and H441) showed elevated IL‐8 levels in both (upper and lower) compartments, whereas the M1 tric with H441 showed higher IL‐8 release to the upper compartment compared to M1 tric A549 (tric c with A549, 1.8 ± 0.3‐fold apical and 1.6 ± 0.3‐fold basolateral; tric c H441, 3.2 ± 0.3‐fold apical and 1.5 ± 0.1‐fold basolateral compared to the respective co‐culture control coc c). After apical LPS treatment of M1, tric A549 IL‐8 levels further increased in both compartments compared to the M1 tric without LPS (apical, 4.6 ± 1‐fold; basolateral, 3.9 ± 0.7‐fold compared to coc c). According to the results for M1, tric H441 further IL‐8 release occurred merely apically (4.9 ± 0.4), whereas in the basolateral compartment a comparable IL‐8 level was observed as for M1 tric without LPS treatment (1.6 ± 1.3‐fold of coc c).
+After addition of M2
+wh
+and M2
+reg
+to the A549/ISO‐HAS‐1 co‐culture, no IL‐8 release was observed, either apically or basolaterally. LPS‐treatment of both M2 tric A549/ISO‐HAS‐1 resulted in a significant elevation of IL‐8 in both compartments, while IL‐8 levels of M2
+wh
+tric and M2
+reg
+tric were comparable for both compartments (apical for M2
+wh
+, 2.2 ± 0.2‐fold and for M2
+rer
+, 2.1 ± 0.1‐fold; basolateral for M2
+wh
+, 1.2 ± 0.05‐fold and for M2
+reg
+, 1.5 ± 0.1‐fold). After addition of M2
+wh
+and M2
+reg
+to the H441/ISO‐HAS‐1 co‐culture, no alteration was detected for the upper compartments. For the lower compartments, however, a slight but significant IL‐8 increase occurred for both M2
+wh
+tric (1.5 ± 0.07‐fold of coc c) and M2
+reg
+tric (1.3 ± 0.1‐fold of coc c). Treatment of the cultures with LPS caused a further elevation of the IL‐8 level for M1 tric on the apical side (4.9 ± 0.4‐fold of coc c), whereas in the lower compartment IL‐8 level was comparable to M1 tric without LPS (1.6 ± 0.1‐fold of coc c). After LPS‐treatment, IL‐8 levels increased for the M2
+wh
+and M2
+reg
+tric in the upper compartment (M2
+wh
+tric, 2.2 ± 0.2‐fold; and M2
+reg
+tric, 2.1 ± 0.1‐fold compared to coc c). For the lower compartment, a minimal, non‐significant increase was detected for M2
+wh
+tric, and for M2
+reg
+tric IL‐8 increased significantly compared to M2
+reg
+tric without LPS (1.5 ± 0.1‐fold of coc c).
+The addition of M1 macrophages to the epithelial side elicited a marked apical sICAM release (3.9 ± 1‐fold of coc c) in the triple cultures with A549/ISO‐HAS‐1, whereas in the basolateral compartment no significant elevation was detected. Adding M2
+wh
+and M2
+reg
+macrophages did not cause any significant alterations of sICAM levels in both compartments compared to A549/ISO‐HAS‐1 co‐culture. Apical LPS treatment caused a significant sICAM elevation in the basolateral compartment of the co‐culture A549/ISO‐HAS‐1, but no alteration occurred on the apical side. Furthermore, treatment of M1 tric with LPS caused a similar sICAM release to that observed for M1 tric without LPS; no further increase was observed due to LPS. Nevertheless, in the lower compartment a significant elevation of sICAM was detected (2.1 ± 0.2‐fold of coc c) for M1 tric after LPS stimulation. Also, M2
+wh
+tric responded with sICAM release in the upper well and in the lower well, which was comparable to M1 tric after LPS treatment (apical, 4.1 ± 1.3‐fold; and basolateral, 1.9 ± 0.1‐fold of coc c). For the M2
+reg
+tric, a clear but not significant sICAM increase occurred in the upper well and a significant sICAM increase was seen in the lower well, which was comparable to M1 and M2
+wh
+tric. Surprisingly, the co‐culture H441/ISO‐HAS‐1 did not respond to the addition of the different macrophage models or LPS treatment with an increase in sICAM release.
+Finally, all macrophages models were imaged after seeding on top of the epithelial layer in triple culture with ISO‐HAS‐1 (Figure
+6
+). H441 cells were counterstained for ZO‐1 (red signal) and individually differentiated macrophages (M1, M2
+wh
+, M2
+reg
+) were immunofluorescently stained for CD11a (green signal). All macrophage subtypes were detected on top of the epithelial layer. Addition of M1 caused a considerable disintegration of the ZO‐1 staining pattern in H441, which correlates with the decreased TER values. M2
+wh
+and 2
+reg
+did not affect ZO‐1 formation, according to visual assessment of the light microscopic images, which additionally correleated with the stable TER values observed for both non‐inflammatory macrophage models.
+4
+Discussion
+In this study, a triple culture (tric) model of the human air–blood barrier was established. The cellular components were the barrier‐forming alveolar cells, viz. alveolar epithelial and capillary endothelial cells, together with individually differentiated macrophage models, simulating the potential alveolar macrophage phenotypes in health and disease.
+The reaction towards pathogen stimulation was tested by treatment with endotoxin (or LPS; lipopolysaccharide from
+E. coli
+). The leukaemia monocyte cell line, THP‐1, was used as a monocyte phenotype in a naive state, with the capability of being stimulated by various cytokine cocktails to known functional states of the macrophage (Gordon and Martinez,
+2010
+; Mosser and Edwards,
+2008
+). To establish an
+in vitro
+macrophage model with appropriate alveolar macrophage features, three different cytokine mixtures were compared in order to obtain individually differentiated subtypes with different pro‐ or anti‐inflammatory potentials.
+To obtain a macrophage model with M1 features, THP‐1 cells were stimulated with 50 n
+m
+PMA in combination with TNF
+α
+, which resulted in a tight adhesion of the cells to the cell culture plastic surface and an increase of the cytosolic volume. However, with the addition of INF
+γ
+to the cytokine mixture, increased cell death was already observed after 24 h (data not shown); thus, INF
+γ
+was not considered useful for the M1 stimulation of THP‐1, even though it is considered to be a crucial factor for M1 priming (Mosser and Edwards,
+2008
+).
+For the M
+wh
+model, IL‐4 and IL‐13 were added to the differentiation cocktail in combination with 8 n
+m
+PMA. The M
+reg
+model was primed using recombinant IL‐10 in combination with 8 n
+m
+PMA. Low concentrations of PMA (8 n
+m
+) were necessary for M
+wh
+and M
+reg
+differentiation, in order to induce cell adhesion to the surface in the first place and an increase of the cytosolic volume. Consistent with our results, other groups using differentiated THP‐1 as AMs in co‐culture models of the alveolar–capillary barrier required a finely tuned induction to obtain THP‐1 with AM features, which display an anti‐inflammatory, or at least a low‐inflammatory, phenotype. Park
+et al
+. (
+2007
+) stated that in order to detect responses to weak stimuli, an optimized THP‐1 differentiation via PMA was required. These authors further reported that PMA had been used widely for research purposes at a concentration range of 10–400 ng/ml (ca. 16–540 n
+m
+) without regard to the upregulation of inflammatory markers. In their study they clearly showed increased levels of TNF
+α
+and IL‐8 upon treatment with high concentrations of PMA (50 and 100 ng/ml or 80 and 160 n
+m
+) and concluded that a concentration of 5 ng/ml (8 n
+m
+) PMA was sufficient for macrophage differentiation of THP‐1 with a low‐inflammatory state. In our study, granulocyte/macrophage colony stimulating factor (GM‐CSF) was added to all three differentiation cocktails, since it is described as being a crucial factor concerning macrophage differentiation and additionally essential to induce phagocytic potential in the lung environment. GM‐CSF concentrations were shown to be significantly higher in bronchoalveolar than peritoneal lavage fluid (Guth
+et al
+.,
+2009
+). Fibronectin (Fn) coating of the cell culture plastic also appeared to be indispensable for the differentiation process in order to obtain a macrophage‐like morphology and proper adhesion to the tissue culture surface (data not shown). Admittedly, for a proper and mild detachment of the differentiated THP‐1 cells, thermo‐sensitive cell‐culture plates combined with a mild accutase incubation were necessary in order to gently detach the cells prior to seeding on top of the co‐culture. Fn is known to play an important role in enhanced macrophage differentiation. It was previously shown that binding of monocytes to Fn by their
+α
+5
+β
+1 integrins leads to increased macrophage‐specific features, among others a higher endocytotic activity and the production of metalloproteinases (Jacob
+et al
+.,
+2002
+; Sudhakaran
+et al
+.,
+2007
+).
+After 48 h of incubation with the three differentiation mixtures, the phenotypically modified THP‐1 cells were seeded on top of the epithelial layer, where they were cultured for a further 24 h period to allow adherence to the epithelial layer and adaptation to the epithelial microenvironment. On the alveolar epithelial layer, they encounter further differentiation factors for proper AM differentiation; thus, they are exposed, for example, to lung surfactant and, in particular, to lung collectins (surfactant proteins A and D), which are considered necessary for differentiation towards macrophages with AM features (Guth
+et al
+.,
+2009
+). Before seeding the THP‐1 cells on top of the epithelial layer of the co‐culture, they were characterized on the basis of several surface markers (CD, cluster of differentiation; CD11c, CD33, CD54 and HLA‐DR).
+M1 showed a marked reduction in the dendritic cell marker CD11c compared to the undifferentiated THP‐1. In M2
+wh
+and M2
+reg
+, expression of CD11c was preserved, which is also shown for AMs
+in vivo
+(Guth
+et al
+.,
+2009
+). As already shown by others, AMs demonstrate some features of dentritic cells, such as CD11c expression and a better antigen‐presenting capability compared to peritoneal macrophages (Guth
+et al
+.,
+2009
+). In the M1 model, the CD33 signal was clearly reduced, whereas M2
+wh
+and M2
+reg
+showed a minor but still significant decrease of CD33. CD33 is a marker for progenitor myeloid cells and is also specific for monocytes and macrophages with a lower differentiated state (Hernandez‐Caselles
+et al
+.,
+2006
+; Simmons and Seed,
+1988
+). CD33 decreases during macrophage maturation, as also observed in this study, especially for M1, fully matured M1 macrophages being known to lack CD33 (de Vos van Steenwijk
+et al
+.,
+2013
+). CD54 was increased in all three macrophage differentiation scenarios, although M1 showed somewhat lower but still significant levels.
+In vivo
+, CD54 (intercellular adhesion molecule 1, ICAM‐1) is weakly expressed on quiescent AMs. Upon activation, however, it can be induced on monocytes/macrophages
+in vitro
+, e.g. by PMA, TNF
+α
+, IL‐4 or GM‐CSF, as reviewed by Fattal‐German
+et al
+. (
+1996
+). Human leukocyte antigen DR (HLA‐DR) was also analysed 48 h after the differentiation of THP‐1 cells. Unstimulated THP‐1 showed a very low HLA‐DR expression (~20%), according to the flow‐cytometric analysis results, and the stimulated THP‐1 showed a further decrease in the signal (9–15%), although this was not statistically significant.
+Other macrophage markers were also investigated, such as macrophage mannose receptor 1 (CD206) and haemoglobin scavenger receptor (CD163), but were shown to be negative for all differentiated THP‐1 models (data not shown), according to flow‐cytometric analysis. CD206 and CD163 are considered to be typical markers for alternatively activated macrophages, such as M2
+wh
+and M2
+reg
+(David and Kroner,
+2011
+). Additionally, the expression pattern of IL‐10 and IL‐12 is reported to differ between the distinct subtypes (M1, IL‐12
+high
+, IL‐10
+low
+; M2
+wh
+, IL‐12 and IL‐10 equal; M2
+reg
+, IL‐12
+low
+, IL‐10
+high
+) (Mosser and Edwards,
+2008
+). However, both of these cytokines, as well as TGF1
+β
+, which is considered to be expressed by M2
+wh
+(David and Kroner,
+2011
+) as well as AMs (Hussell and Bell,
+2014
+), could not be detected via ELISA (data not shown), either in the THP‐1 48 h after differentiation or later in the triple cultures. Differentiated THP‐1 cells were also checked for the monocyte/macrophage‐specific marker CD14 via flow cytometry and immunofluorescence. A quite inconsistent CD14 staining pattern was observed. However, a shedding of soluble CD14 into the supernatant was detected via ELISA. The M1 model showed a significant increase of sCD14 (1.7‐fold) in the supernatant after 48 h stimulation with the cytokine cocktail, whereas for the M2
+wh
+sCD14 levels remained unaltered compared to the unstimulated THP‐1. M2
+reg
+showed the highest release of sCD14 (2.5‐fold compared to unstimulated THP‐1). These results correlate with other studies, which demonstrated a profoundly increased sCD14 production by monocytes following IL‐10 treatment (Creery
+et al
+.,
+2002
+; Sandanger
+et al
+.,
+2009
+) and also moderate increases by pro‐inflammatory stimuli, such as TNF
+α
+(Ruppert
+et al
+.,
+1991
+; Ziegler‐Heitbrock and Ulevitch,
+1993
+) or LPS (Lin
+et al
+.,
+2004
+). IL‐4, however, potently reduces CD14 expression (Ruppert
+et al
+.,
+1991
+; Ziegler‐Heitbrock and Ulevitch,
+1993
+) but this was not tested in the present models.
+As reported previously, shedding of sCD14 from AM is regulated by surfactant protein‐D through matrix‐metalloproteinase‐12. In SP‐D‐depleted mice, sCD14 levels increased in broncho‐alveolar lavage fluid (BALF) as well as
+in vitro
+on isolated AMs and RAW264.7 cells, which responded with decreased inflammatory reactions after LPS challenge (Senft
+et al
+.,
+2005
+). This observation could lead to the use of both surfactant proteins SP‐A and ‐D simultaneously with the differentiation mixtures. The influence of SP‐A and ‐D, to which the macrophages are exposed after seeding on the co‐culture, may be too late to give a proper differentiation. Interestingly, since alveolar and bronchial epithelial cells express TLR‐4 and MD‐2 (Guillot
+et al
+.,
+2004
+), they are able to respond to LPS in the presence of sCD14, which has been reported as a significant and concentration‐dependent cytokine release in A549 cells in the presence of LPS and sCD14 (Schulz
+et al
+.,
+2002
+).
+Concerning inflammatory mediators, such as IL‐1b, IL‐8 and sICAM, M1 show significantly increased levels of all three mediators compared to M2
+wh
+and M2
+reg
+, which show slightly elevated concentrations of sICAM and no increased level of IL‐1
+β
+. This demonstrates that the M1 model displayed a pro‐inflammatory state compared to unstimulated THP‐1, with M2
+wh
+and M2
+reg
+, showing a low or anti‐inflammatory state. Vascular endothelial growth factor (VEGF) was also increased in the supernatants of all three macrophage models. However, the M1 phenotype released more VEGF compared to both M2 groups, in which VEGF release was comparable. VEGF is one of the most potent pro‐angiogenic factors and stimulates vascularization and angiogenesis. It is commonly present in highly vascularized tissues, such as the lung. Increased levels of VEGF, which is released by AMs, are found in asthmatic lungs and this is thought to have an important mediator function in asthma (Song
+et al
+.,
+2012
+). On the other hand, it was previously shown that AM are responsible for the initiation of allergic airway inflammation, as described by Song
+et al
+. (
+2012
+). Taken together, M1 clearly displayed a pro‐inflammatory phenotype and thus could be used to generate an
+in vitro
+triple culture model mimicking allergic airway inflammation. The two M2 models depict a non‐inflammatory state of AM. First results demonstrated a TGF
+β
+release for M2
+reg
+after 12 h (1.5 ± 0.2‐fold of untreated control) which was further decreased after 24 h and was no longer detectable after 48 h (data not shown). Since TGF
+β
+produced by AMs is a crucial factor for alveolar homeostasis, M2
+reg
+would be more suitable for a physiological triple culture model than the M2
+wh
+phenotype, which did not show any TGF
+β
+release.
+Two different alveolar epithelial cell line models, A549 and H441, in co‐culture with the microvascular endothelial cell line ISO‐HAS‐1, have been compared with respect to macrophage interaction and apical LPS stimulation. Differences occurred in their inflammatory behaviour. After LPS stimulation, the co‐culture A549/ISO‐HAS‐1 responded with increased levels of IL‐8 (apical and basolateral) and sICAM (basolateral), whereas the co‐culture H441/ISO‐HAS‐1 did not respond with an increase of IL‐8 or sICAM. It is already well known that A549 cells are able to respond to LPS via TLR4/CD14 signalling after the addition of soluble CD14 to the cell culture medium, but they do not express surface‐bound CD14 (Guillot
+et al
+.,
+2013
+; Radhika
+et al
+.,
+2007
+). In the experimental set‐up of this present study, soluble CD14 was delivered by the FCS added in a 10% volume ratio to the cell culture medium. Normal serum usually contains physiological levels of up to 2–6 µg/ml sCD14 (Frey
+et al
+.,
+1992
+). However, very little or no sCD14 is present in the alveolar lumen. This is the rationale behind having no serum in the experimental set‐up. Nevertheless, 5% serum was added to the triple culture, since the THP‐1 responded quite sensitively to serum depletion. This compromise may lead to a false‐positive epithelial pro‐inflammatory response after LPS challenge, which was seen in the A549/ISO‐HAS‐1 co‐culture. By contrast, an increase of the vascular concentrations of sCD14, as occurs during severe sepsis, diminishes an exaggerated vascular response to endotoxins during sepsis. Nevertheless, it can simultaneously exacerbate inflammation in organs such as the lung during sepsis, because vascular sCD14 passes the alveolar barrier as a result of the higher vascular permeability in the lung. Finally, this can lead to acute lung injury (ALI), which is an important component of the septic shock syndrome (Jacob
+et al
+.,
+2002
+). Our results suggest that the H441 cells do not express the TLR4 receptor, since the H441/ISO‐HAS‐1 co‐culture did not respond to LPS even in the presence of sCD14 in the serum. These results underline the differences between these two cell lines, which are widely used as an alveolar type II cell model
+in vitro
+.
+In the M1 triple culture, IL‐8 was upregulated (apical and basolateral) in both co‐culture systems using A549 and H441, but to a different extent. M1 triple culture with H441 showed a more accelerated IL‐8 production compared to the M1 tric with A549, and the addition of LPS did not cause a further increase of IL‐8, which could indicate an inflammatory overstimulation of H441 due to the presence of M1. The apical and basolateral IL‐8 release in M1 tric with A549 was significantly but moderately elevated and could be further increased after LPS stimulation. The different response intensities of M1 tric with A549 or H441 may partially be due to the IL‐8 baseline levels, which differ between A549 and H441. The unstimulated co‐culture of A549/ISO‐HAS‐1 produced a higher base level of IL‐8 compared to the H441/ISO‐HAS‐1 (apical, ca. 10‐fold; basolateral, ca. five‐fold higher compared to H441 coc). In both co‐culture models (A549 or H441), addition of M2
+wh
+or M2
+reg
+did not cause any IL‐8 responses. This clearly depicts a 'non‐inflammatory' state of the two latter macrophage phenotypes. After LPS treatment, both M2 trics responded with mild, but not significant, increases of IL‐8 to a similar extent. M2 tric with A549 responded with IL‐8 release in both compartments and H441 tric released IL‐8 only to the upper compartment. The lack of a basolateral response in both M2 trics with H441 may be due to the well‐developed barrier maintained by extensive tight junction formation, which was also observed in the TER measurements. The TER of both M2 trics with H441 remained stable with and without LPS treatment compared to the co‐culture of H441/ISO‐HAS‐1. A549 cells usually do not develop functional, tight junctional barrier properties. Thus, released inflammatory mediators, such as IL‐8 or sICAM as well as the pro‐inflammatory stimulus LPS, may diffuse across the barrier and directly influence the endothelial cells in the basolateral compartment. This would be one plausible explanation of the fact that all macrophage models, as well as LPS stimulation itself, caused elevated IL‐8 in the lower compartment. In the M1 tric with H441, the TER decreased substantially and elevated IL‐8 levels were also found basolaterally.
+An additional mechanism for basolateral inflammatory responses could also be the cellular crosstalk between A549 or H441 epithelial cells and the endothelial cells. This still remains to be investigated. Furthermore, although H441 alone did not respond with IL‐8 release upon LPS treatment, it is still not certain which cell type is responsible for the increased IL‐8 secretion in the triple culture. It is probable that it originated from the macrophages. It is well known that AMs secrete high quantities of IL‐8 upon LPS stimulation (Garcia
+et al
+.,
+1999
+). LPS stimulation also induced a basolateral sICAM release in A549/ISO‐HAS‐1, which can also be attributed to the two above‐mentioned assumptions. The addition of M1 to the A549/ISO‐HAS‐1 induced a significant apical release of sICAM, which could not be elevated by a further addition of LPS. However, addition of M1 did not provoke a basolateral sICAM increase, whereas the addition of LPS did lead to detectable basolateral sICAM. Neither M2 model provoked any sICAM release in either compartment. A further addition of LPS in the M2
+wh
+model triggered a massive sICAM production in both compartments, which was comparable to the LPS‐stimulated M1 tric with A549. In M2
+reg
+tric, LPS‐induced sICAM production was minimal and not significant in the upper well, but comparable to M1 and M2
+wh
+tric in the basolateral well. These observations may indicate a diffusion of LPS across the barrier and a direct stimulation of the endothelial cells, since a similar response is seen for all co‐ and triple culture conditions, and since the inflammatory M1 did not cause any basolateral sICAM production. No changes in sICAM release were detected for the co‐culture H441/ISO‐HAS‐1 in combination with LPS and/or the macrophage models. This could also be due to a high and inconsistent (within the three independent experiments) baseline production of sICAM by the H441 cells themselves compared to the A549 (apical, 24‐fold; basolateral, 2‐fold increased compared to A549/ISO‐HAS‐1). Besides comparing the inflammatory potential of the different macrophage models in triple culture, these results highlight the different features of the two AT II models, which need to be considered on the basis of the scientific question being asked.
+5
+Conclusion
+In summary, the three differentiation mixtures employed in this study generated macrophages which differed in their inflammatory potential. The M1 clearly demonstrated a pro‐inflammatory phenotype and provoked a severe inflammatory response in triple culture with an
+in vitro
+air–blood model. This system could serve as an
+in vitro
+triple culture model to study asthma or other inflammatory diseases of the alveolar unit, such as acute lung injury. On the other hand, the two M2 models depict a 'non‐inflammatory' phenotype, but with the potential to stimulate inflammation following pathogenic stimuli, such as LPS. Consequently, they could be applied in further studies as a physiological
+in vitro
+air–blood model. In tissue engineering and regenerative medicine, these M2 models could be a platform to study a number of relevant scenarios, i.e. from the role of mesenchymal stem cells in lung regeneration to nanoparticle interaction for drug and gene delivery. Thus, the next step will be to compare the phenotype of these models with primary monocytes and finally with native AMs, freshly isolated from BALF. This is far from trivial, as such primary cell types demonstrate considerable biological variability.
+Conflict of interest
+The authors have declared that there is no conflict of interest.
+Acknowledgements
+This study was supported by the Deutsche Forschungsgemeinschaft (DFG) priority programme SPP 1313 within the cluster BIONEERS.

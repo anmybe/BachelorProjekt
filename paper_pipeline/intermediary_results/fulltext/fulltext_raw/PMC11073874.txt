@@ -1,0 +1,385 @@
+pmc
+Neurol Neuroimmunol Neuroinflamm
+Neurol Neuroimmunol Neuroinflamm
+nnn
+NEURIMMINFL
+Neurology® Neuroimmunology & Neuroinflammation
+2332-7812
+Lippincott Williams & Wilkins
+Hagerstown, MD
+11073874
+38181320
+NXI-2023-000335
+10.1212/NXI.0000000000200199
+0007
+3
+132
+181
+183
+Research Article
+Autoantibodies Against Dihydrolipoamide S-Acetyltransferase in Immune-Mediated Neuropathies
+Fukami
+Yuki
+MD, PhD
+Iijima
+Masahiro
+MD, PhD
+Koike
+Haruki H.
+MD, PhD
+Yagi
+Satoru
+MD
+Furukawa
+Soma
+MD
+Mouri
+Naohiro
+MD
+Ouchida
+Jun
+MD, PhD
+Murakami
+Ayuka
+MD, PhD
+Iida
+Madoka
+MD, PhD
+Yokoi
+Satoshi
+MD, PhD
+https://orcid.org/0000-0002-3098-7390
+Hashizume
+Atsushi
+MD, PhD
+Iguchi
+Yohei
+MD, PhD
+Imagama
+Shiro
+MD, PhD
+https://orcid.org/0000-0001-9453-9311
+Katsuno
+Masahisa
+MD, PhD
+From the
+Department of Neurology
+(Y.F., M. Iijima, H.H.K., S. Yagi, S.F., N.M., A.M., M. Iida, S. Yokoi, A.H., Y.I., M.K.),
+Nagoya University Graduate School of Medicine
+;
+Department of Advanced Medicine
+(M.I.),
+Nagoya University Hospital
+;
+Department of Orthopedic Surgery
+(J.O., S.I.); and
+Department of Clinical Research Education
+(A.H., M.K.),
+Nagoya University Graduate School of Medicine
+,
+Japan
+.
+Correspondence
+Dr. Katsuno
+ka2no@med.nagoya-u.ac.jp
+Go to
+Neurology.org/NN
+for full disclosures. Funding information is provided at the end of the article.
+The Article Processing Charge was funded by the authors.
+Submitted and externally peer reviewed. The handling editor was Associate Editor Marinos C. Dalakas, MD, FAAN.
+3
+2024
+5
+1
+2024
+5
+1
+2024
+11
+2
+e200199
+26
+5
+2023
+16
+11
+2023
+Copyright © 2024 The Author(s). Published by Wolters Kluwer Health, Inc. on behalf of the American Academy of Neurology.
+2024
+American Academy of Neurology
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+This is an open access article distributed under the terms of the
+Creative Commons Attribution-NonCommercial-NoDerivatives License 4.0 (CC BY-NC-ND)
+, which permits downloading and sharing the work provided it is properly cited. The work cannot be changed in any way or used commercially without permission from the journal.
+Background and Objectives
+This study aimed to identify disease-related autoantibodies in the serum of patients with immune-mediated neuropathies including chronic inflammatory demyelinating polyneuropathy (CIDP) and to investigate the clinical characteristics of patients with these antibodies.
+Methods
+Proteins extracted from mouse brain tissue were used to react with sera from patients with CIDP by western blotting (WB) to determine the presence of common bands. Positive bands were then identified by mass spectrometry and confirmed for reactivity with patient sera using enzyme-linked immunosorbent assay (ELISA) and WB. Reactivity was further confirmed by cell-based and tissue-based indirect immunofluorescence assays. The clinical characteristics of patients with candidate autoantibody-positive CIDP were analyzed, and their association with other neurologic diseases was also investigated.
+Results
+Screening of 78 CIDP patient sera by WB revealed a positive band around 60–70 kDa identified as dihydrolipoamide S-acetyltransferase (DLAT) by immunoprecipitation and mass spectrometry. Serum immunoglobulin G (IgG) and IgM antibodies' reactivity to recombinant DLAT was confirmed using ELISA and WB. A relatively high reactivity was observed in 29 of 160 (18%) patients with CIDP, followed by patients with sensory neuropathy (6/58, 10%) and patients with MS (2/47, 4%), but not in patients with Guillain-Barré syndrome (0/27), patients with hereditary neuropathy (0/40), and healthy controls (0/26). Both the cell-based and tissue-based assays confirmed reactivity in 26 of 33 patients with CIDP. Comparing the clinical characteristics of patients with CIDP with anti-DLAT antibodies (n = 29) with those of negative cases (n = 131), a higher percentage of patients had comorbid sensory ataxia (69% vs 37%), cranial nerve disorders (24% vs 9%), and malignancy (20% vs 5%). A high DLAT expression was observed in human autopsy dorsal root ganglia, confirming the reactivity of patient serum with mouse dorsal root ganglion cells.
+Discussion
+Reactivity to DLAT was confirmed in patient sera, mainly in patients with CIDP. DLAT is highly expressed in the dorsal root ganglion cells, and anti-DLAT antibody may serve as a biomarker for sensory-dominant neuropathies.
+OPEN-ACCESS
+TRUE
+Introduction
+Chronic inflammatory demyelinating polyneuropathy (CIDP) is an immune-mediated neuropathy that causes limb weakness and sensory deficits in a slowly progressive or relapsing course.
+1
+Although its pathogenesis and pathophysiology are still unknown, CIDP is assumed to be caused by demyelination because of autoimmune abnormalities in the peripheral nerve components.
+2
+The chronic disease course often leads to secondary axonal degeneration, resulting in muscle atrophy and severe functional disability.
+3
+Electrophysiologic evidence of demyelination at multiple sites is crucial for CIDP diagnosis. However, misdiagnosis is common because of the existence of atypical variants, including heterogeneous phenotypic groups where muscle weakness is not prominent.
+4
+These groups also include sensory CIDP variants, which have diagnostic challenges. The identification of biomarkers could help stratify patients with similar clinical features, pathogenic mechanisms, or treatment responses.
+Both cellular and humoral immunities play a role in CIDP's immunopathology.
+2
+,
+5
+The response to treatments, such as IV immunoglobulin (IVIG) and plasma exchange, provides evidence for the involvement of humoral factors. The presence of immunoglobulin G (IgG) and complement deposition in peroneal nerve biopsies has also been confirmed.
+6
+,
+7
+In addition, the injection of IgG from patients with CIDP into the rats' sciatic nerve causes demyelination.
+8
+The results of the examination of patient serum using a human proteome microarray confirmed the reactivity to various anchoring junction proteins.
+9
+Recently, autoantibodies targeting adhesion molecules, such as neurofascin (NF) 155, contactin (CNTN) 1, and contactin-associated protein 1 that localize in paranodes, have been reported in patients with a specific CIDP and are thought to contribute to autoimmune nodopathy.
+10
+-
+14
+To determine the target antigens linked to immune-mediated neuropathy, we examined the presence of autoantibodies against neural antigens in patient sera using mouse neural tissues. As autoantibodies reactive to dihydrolipoamide S-acetyltransferase (DLAT), also known as the pyruvate dehydrogenase E2 subunit (PDC-E2), were found in the sera of patients with CIDP, we aimed to assess the clinical features of the patients with these autoantibodies and to further examine the association of these antibodies with other neuropathies.
+Methods
+Patients and Sera
+Between 2000 and 2020, 160 consecutive patients admitted to Nagoya University Hospital and affiliated hospitals for CIDP diagnosis and treatment and for whom serum was available were enrolled in this study. Patients with severe diabetes mellitus, vitamin deficiency, and positive antimyelin-associated glycoprotein antibodies and patients without detailed clinical evaluation, including nerve conduction studies, were excluded from the analysis. Patients were categorized into groups according to the clinical subtypes of CIDP at the time of sural nerve biopsy or on admission, according to the EAN/PNS guidelines.
+1
+In this study, the CIDP's clinical subtypes were as follows: multifocal CIDP, asymmetric sensorimotor neuropathy with bilateral muscle strength differences of one or more levels on the Medical Research Council scale; distal CIDP, distal-dominant and symmetric sensorimotor neuropathy; sensory CIDP, sensory neuropathy without or with minimal motor impairment; motor CIDP, motor neuropathy without or with minimal sensory impairment; and focal CIDP, motor or sensory neuropathy confined to a single limb.
+15
+Disease controls included Guillain-Barré syndrome (GBS) (n = 27), MS (n = 47), immune-mediated sensory neuropathies [n = 58, including Sjögren syndrome–related neuropathy (n = 16), paraneoplastic neuropathy (n = 7), and idiopathic sensory neuropathy (n = 35)], and other neurologic diseases (n = 40, including hereditary neuropathy (n = 35) and hereditary transthyretin amyloidosis (n = 5)]. The serum from healthy controls (n = 26) was also used. The details are listed in eTable 1 (
+links.lww.com/NXI/A974
+). Immune-mediated sensory neuropathy was defined by patients who demonstrate improvement through immunotherapy and in whom potential causes of sensory dysfunction, such as severe diabetes, renal failure, excessive alcohol intake, monoclonal gammaglobulinemia, severe abnormal liver function, vitamin B12 deficiency, thyroid hormone deficiency, genetic disorders, and drug use, have been systematically excluded.
+16
+For validation, we added 20 cases including amyotrophic lateral sclerosis, 5 cases with Sjögren syndrome–related myopathy, and 5 cases characterized by hypergammaglobulinemia. Serum samples were stored at −80°C until use.
+Western Blot, Immunoprecipitation, and Mass Spectrometry
+Brain tissue, sciatic nerve, spinal cord, and dorsal root ganglion (DRG) were collected from adult C57BL/6 mice. These tissues were homogenized using brain immunoprecipitation buffer containing 25 mM HEPES-NaOH (pH 7.4), 150 mM NaCl, 5 mM MgCl
+2
+, 1 mM EDTA, 1% NP-40, and protease inhibitors and centrifuged at 10,000×
+g
+for 30 minutes at 4°C. The resulting supernatants were stored at −80°C. For the mouse brain tissue, it was directly solubilized in nonreducing sodium dodecyl sulfate (SDS) sample buffer without beta-mercaptoethanol and then heated at 95°C for 5 minutes. Protein concentrations were determined using the bicinchoninic acid assay. Twenty micrograms of protein were loaded onto a 4%–20% SDS-polyacrylamide gel electrophoresis (PAGE) gradient gel and transferred to a polyvinylidene difluoride membrane. The membrane was then incubated and immunoblotted with an anti-DLAT antibody (1:500, ab172617, Abcam) or with human serum (1:200). Immunoreactivity was analyzed using a peroxidase-conjugated secondary antibody and detected using an enhanced chemiluminescence western blotting (WB) substrate.
+To perform deglycosylation, homogenates were treated with peptide
+N
+-glycosidase F (PNGase F; New England Biolabs, Ipswich, MA) without reducing agents, as previously described.
+11
+Immunoprecipitation and mass spectrometry were performed as described previously.
+17
+In brief, total protein was mixed with patient IgG and incubated for 1 hour at 4°C. Immunocomplexes were subsequently subjected to immunoprecipitation using protein G-magnetic beads for 2 hours at 4°C. The beads were then washed with immunoprecipitation buffer. Immunoprecipitated samples were separated using SDS-PAGE and visualized by silver staining. The immunoreactive bands were cut from the stained gels, reduced, alkylated, desalted, concentrated, and digested with trypsin at 37°C for 16 hours. The resulting peptides were then analyzed using liquid chromatography tandem mass spectrometry (LC-MS/MS), and protein identification was performed using the Mascot search algorithm (Matrix Science, London, UK). The details are presented in the eMethods (
+links.lww.com/NXI/A974
+).
+Enzyme-Linked Immunosorbent Assay
+An enzyme-linked immunosorbent assay (ELISA) was performed to measure the anti-DLAT antibodies in the patient serum using recombinant human full-length DLAT protein (ProSpec, Rehovot, Israel) as the antigen, with modifications to the protocol detailed elsewhere.
+18
+The wells were blocked for 1 hour at 37°C with 0.5% sodium caseinate in a phosphate-buffered saline (PBS) solution containing 0.05% Tween 20. The serum was then diluted 1:200 in the blocking buffer and added as the primary antibody. Secondary antibodies, either horseradish peroxidase–conjugated antihuman IgG or IgM (Dako, Glostrup, Denmark), were used at a dilution of 1:1,000 and a chromogenic reaction was initiated with O-phenylenediamine in a phosphate/citrate buffer. Optical density (OD) values were measured at 492 nm. The sera were considered positive if the OD value calculated at a 1:200 dilution was greater than the mean +3 standard deviations of the control in the assay system. The OD was calculated in duplicate by subtracting the OD value of the uncoated control well. The IgG subclasses were determined by using horseradish peroxidase–conjugated antihuman IgG1, IgG2, IgG3, and IgG4 (Life Technologies, Carlsbad, CA) as secondary antibodies. Similar to the anti-DLAT antibodies described above, anti-NF155 and anti-CNTN1 antibodies were also identified by ELISA based on previously described methods.
+10
+,
+11
+Immunohistochemical Analysis
+The DRG tissue from adult mice was dissected, fixed by immersion in 4% paraformaldehyde in PBS, and processed into 4-μm thick paraffin sections. The sections were deparaffinized and then incubated in 0.3% hydrogen peroxide for 5 minutes. After washing 3 times with PBS, the slides were heated in citrate buffer (pH 6.0) for 15 minutes for antibody retrieval at 98°C and then left to cool at a room temperature for 30 minutes. The slides were incubated for 1 hour with 10% goat or horse serum in PBS containing 0.05% Tween 20, followed by incubation with patient or normal control serum (1:100), anti-DLAT (1:200, sc-271534, Santa Cruz), isolectin B4 (Invitrogen), anti-S100β (1:500, ab41548, abcam), human leukocyte antigens (HLA)-ABC (1:2000, Becton Dickinson), and B7-1 (1:500, ab134120, abcam) antibodies overnight at 4°C. After 3 washes with PBS containing 0.05% Tween 20, the staining was visualized using biotinylated secondary antibodies and diaminobenzidine as the chromogenic agent. Then, the sections were finally counterstained with hematoxylin. The optimal antibody dilution and incubation time were determined through titration experiments with a positive control. The stained sections were examined and photographed at 400 × magnification using an optical microscope (FSX 100, Olympus, Tokyo, Japan). For fluorescent multiple staining, Alexa 488 or 594 conjugated goat antihuman IgG, antirabbit IgG, and antimouse IgG antibodies (1:500; Thermo Fisher Scientific, Waltham, MA) were used for detection, and the tissues were observed using a BZ-X810 fluorescence microscope (Keyence, Tokyo, Japan). For immunohistochemistry of human tissues, postmortem DRG, spinal cord, and sciatic nerve samples were dissected from 2 donors without peripheral neuropathy, fixed in 10% buffered formalin, and processed into 4-μm thick paraffin sections. These samples were stained using the same method used for the mouse samples.
+Cell-Binding Assay
+Human embryonic kidney (HEK) 293 cells were plated in 24-well plates on glass coverslips at a density of 50,000 cells per well. Then, the cells were incubated with human DLAT construct (Halotag ORF Clone FHC 10359, provided by Kazusa DNA Research Institute) in a serum-free Opti-MEM medium (Life technologies) for 24 hours for transient transfection. After multiple washes, the cells were fixed with 4% paraformaldehyde for 15 minutes. The cells were then permeabilized with 0.2% Triton-X and incubated with diluted serum at 1:200 or anti-DLAT (1:200) and anti-Halo-tag (1:200) antibodies for 2 hours. The optimal concentration of patient serum was determined by dilution series. The coverslips were stained with secondary antibodies and mounted.
+Cytotoxicity Evaluation Using DRG Neurons
+To assess the cytotoxicity of anti-DLAT antibodies on DRG neurons ex vivo, we conducted the lactate dehydrogenase (LDH) assay and the WST-8 assay. Dissociated mouse DRG neurons were prepared, as previously described.
+19
+Patient serum and healthy human serum were both diluted 1:10 in cell culture medium. On day 0 of primary culture, the diluted serums were added to the plated cells, and the cells were incubated for a duration of 48 hours. On day 2, we performed the LDH assay and the WST-8 assay according to the instructions provided by the respective manufacturers. Axons of DRG neurons were visualized using anti-tubulin β3 (1:1,000, clone Tuj1, BioLegend) and phalloidin (1:1,000, abcam) as primary antibody. To quantify the extent of neurite outgrowth, we used ImageJ software for analysis.
+Electrophysiologic Study
+Patients underwent nerve conduction studies using standard protocols with surface electrodes, as described elsewhere.
+18
+The amplitudes of compound muscle action potentials (CMAPs) and sensory nerve action potentials were measured from baseline to the first negative peak. For motor nerves, the CMAP duration was defined as the time from the CMAP onset to the first crossing of the baseline values.
+Sural Nerve Biopsy and Light Microscopy Observation
+The sural nerve biopsy was performed as described previously.
+20
+The biopsy specimens were divided into 2 parts. The first part was fixed in 2.5% glutaraldehyde in 0.125 M cacodylate buffer (pH 7.4) and embedded in epoxy resin. This part was used in a teased-fiber study, and the pathologic conditions were assessed by light microscopy using previously described criteria.
+21
+The second part was fixed in a 10% formalin solution and embedded in paraffin. The paraffin-embedded sections were cut by using routine methods and stained with hematoxylin and eosin. The density of myelinated fibers was assessed using toluidine blue–stained semi-thin sections and a computer-assisted image analyzer (Luzex FS, Nikon, Tokyo, Japan).
+Standard Protocol Approvals, Registrations, and Patient Consents
+This study was performed in accordance with the guidelines stipulated in the Declaration of Helsinki and Ethical Guidelines for Medical and Biological Research Involving Human Subjects by the Japanese government and was approved by the Ethics Review Committee of Nagoya University (approval number: 2019-0170). All participants provided written informed consent.
+Statistical Analysis
+Statistical analyses were performed using JMP (SAS Institute Inc., Cary, NC). The median differences between groups were analyzed using the Mann-Whitney
+U
+test. The Benjamini-Hochberg post hoc procedure was applied for the multiple testing correction at a 0.05 false discovery rate to control the type I error. For multiple comparisons between different groups, the Steel-Dwass post hoc test was used. Categorical data were analyzed by using the χ
+2
+test. Correlations were analyzed using Spearman
+ρ
+correlation coefficient.
+p
+-values <0.05 were considered statistically significant.
+Data Availability
+The data that support the findings are available from the corresponding author on reasonable request.
+Results
+Identification of Target Proteins Reactive to the CIDP Patient Sera
+WB of mouse brain tissue extracts was conducted using nonreducing conditions and serum samples from 78 patients with CIDP, of whom 6 were positive for NF155 antibodies and one positive for CNTN1 antibodies, and 5 healthy individuals. Bands around 155 kDa and 130 kDa were observed in all NF155 and CNTN1 antibody-positive cases, but not in healthy sera. Besides, a 60–70 kDa protein band was detected in 10% (8 patients) of the CIDP samples (
+Figure 1A
+). On treatment of mouse brain extracts with N-glycosidase F, the reactivity of the anti-NF155 antibody–positive patient sera was lost, whereas the height of the 60–70 kDa band remained. The glycosidase treatment did not change the serum's reactivity, indicating that this antigen was not glycosylated (
+Figure 1B
+).
+To identify the protein in this band, immunoprecipitation of patient sera and mouse brain extracts was performed. The region corresponding to the 60–70 kDa antigen band in silver-stained gel was excised (
+Figure 1C
+), digested with trypsin in gel, and analyzed by mass spectrometry. The candidate protein was narrowed down and identified as DLAT based on the assumption that the peptide sequence of the putative target antigen was identified in the 60–70 kDa sample. Detailed information on target antigens identified by LC-MS/MS is provided in eTable 2 (
+links.lww.com/NXI/A974
+). The immunoprecipitated antigen protein was further confirmed with a monoclonal anti-DLAT antibody, which confirmed the reactivity in the 60–70-kDa antigen band region (
+Figure 1D
+).
+Reactivity of Anti-DLAT Antibodies to Patient Serum
+The reactivity of serum IgG and IgM antibodies to recombinant DLAT was confirmed using ELISA and WB. A strong correlation was found between the reactivity of WB and ELISA (
+rs
+= 0.884,
+p
+< 0.001), and those with no reactivity in WB were considered as negative cases (
+Figure 2A
+). In a large-scale screening, the presence of antibodies was identified in 29 of 160 patients with CIDP (18.1%) and 6 of 58 patients with immune-mediated sensory neuropathies (10.3%, including 3 patients with Sjögren syndrome–related neuropathy, 1 with paraneoplastic neuropathy, and 2 with idiopathic sensory neuropathy) (
+Figure 2B
+). Contrarily, only 2 of 140 controls, including those with MS, GBS, and other neurologic diseases and normal controls, were detected (
+Figure 2B
+). The presence of IgG and IgM anti-DLAT antibodies was significantly more frequent in patients with CIDP as compared with the patients with GBS or MS and healthy controls (
+p
+< 0.001). The details of the reactivity of ELISA and WB to DLAT are shown in eTable 3 (
+links.lww.com/NXI/A974
+). ELISA confirmed the predominance of IgG subclasses in the 23 patients with IgG anti-DLAT antibody–positive CIDP, showing a prevalence of IgG1 and IgG3 subclasses. However, IgG4 subclass was not identified (
+Figure 2C
+). The immunosorbent assays with recombinant DLAT showed a concentration-dependent decrease in reactivity (
+Figure 2D
+). In addition, ELISA was performed to validate the assay system in 20 patients with amyotrophic lateral sclerosis, 5 patients with Sjögren syndrome–related myopathy, and 5 patients with hypergammaglobulinemia, all of which were negative (data not shown).
+Clinical Features of Anti-DLAT Antibody–Positive CIDP
+The clinical characteristics of patients with anti-DLAT antibody–positive CIDP are summarized in the
+Table
+. The clinical features of these patients were compared with those of 131 patients with anti-DLAT antibody–negative CIDP. Disease severity, as measured by using the modified Rankin Scale, was significantly higher in the antibody-positive cases, although no differences were found in age, sex, mode of onset, or duration of disease between the 2 groups. As for the clinical phenotype, the antibody-positive cases were less likely to have typical CIDP and more likely to have sensory CIDP than the antibody-negative cases. Sensory ataxia was found in 69.5% of anti-DLAT–positive patients and in 38.0% of negative patients. The incidence of cranial nerve palsy was high at 24.1%, and 3 patients had ptosis or external ophthalmoplegia. No difference in the presence of pain was observed between the 2 groups. There was a trend of a higher incidence of autoimmune diseases and diabetes mellitus in antibody-positive cases than in antibody-negative cases. The incidence of malignant tumors, such as gastric and cervical cancers, was also significantly higher in the antibody-positive cases. There was no difference in the prevalence of monoclonal gammopathy between the 2 groups. One antibody-positive patient had primary biliary cirrhosis (PBC) and another had autoimmune hepatitis (eTable 4,
+links.lww.com/NXI/A974
+), although no autoimmune liver disease was found in the antibody-negative cases. The laboratory data revealed no significant variations in liver enzyme levels between the 2 groups, although the IgM levels were higher in the antibody-positive group. There was no difference in the CSF protein levels between the 2 groups, and the response to treatment with IVIG or corticosteroid was similar in both groups. MRI findings showed thickening of the cauda equina and contrast effects on the nerve roots in 5 of 10 anti-DLAT antibody–positive patients. These results suggest that anti-DLAT antibodies are associated with sensory ataxia, cranial nerve palsy, and malignancy in the CIDP variant.
+Electrophysiologic studies showed prolonged distal latency of the median nerve motor nerve conduction velocity and decreased median nerve sensory nerve conduction velocity in antibody-positive cases as compared with antibody-negative cases (eTable 5,
+links.lww.com/NXI/A974
+). No difference in the conduction velocity of the tibial or sural nerves in the lower extremities was observed. Sural nerve biopsy examination showed no differences in myelinated fiber density, presence of myelin ovoid, or onion bulb formation between the 24 antibody-positive and 84 antibody-negative specimens (eTable 6). Similarly, no significant differences were found in the results of the examination of the teased-fiber specimens. There were no significant differences in clinical phenotype or disease severity among the isotypes of anti-DLAT antibodies (eTable 7).
+Expression of DLAT in Nervous Tissue
+The high prevalence of sensory ataxia in patients with anti-DLAT antibodies led us to investigate the expression of DLAT protein in nervous tissues. The localization of DLAT was studied in human and mouse DRG, brain, sciatic nerve, and spinal cord. In human tissues, DLAT was widely expressed in large DRG neurons but not in spinal cord anterior horn cells (
+Figure 3A
+). Strong staining was also observed in large diameter neurons in mouse DRG sections (
+Figure 3B
+). We also confirmed that DLAT is expressed in the axons of peripheral nerves and nerve roots (
+Figure 3A
+).
+Immunohistochemical Detection of Major Histocompatibility Complex and B7-1
+Immunohistochemical staining was performed on muscle biopsy samples from patients with antimitochondrial antibody–associated myopathy and sural nerve biopsy samples from patients with anti-DLAT antibody–positive CIDP. The results revealed that DLAT was also expressed in muscle fibers, and major histocompatibility complex (MHC) class I (HLA-ABC) expression was widely observed in the sarcolemma (
+Figure 4A
+). Furthermore, in sural nerve specimens from a patient with anti-DLAT antibody–positive CIDP, in comparison with disease control specimens (Charcot-Marie-Tooth disease 1a), we observed intensified expression of MHC class I in the epineurium and endoneurial stroma, as well as intensified expression of the costimulatory molecule B7-1 in the endoneurium, along with IgG deposition in the endoneurium (
+Figures 4, B and C
+). In addition, the expression of DLAT in the axons and B7-1 in the endoneurium was confirmed in serial sections of the sural nerve specimens from the patient with anti-DLAT antibody–positive CIDP (
+Figures 4D
+).
+Immunochemical Validation of Autoantibodies to DLAT
+The validity of autoantibodies to DLAT in 45 patients (33 CIDP, 7 sensory neuropathy, 4 MS, and 1 GBS) who were reactive in ELISA and 5 negative cases was determined by the cell-based assay (CBA) using transfected HEK 293 cells overexpressing DLAT plasmids and immunofluorescence assay (IFA) using mouse DRG sections. The CBA confirmed reactivity in 26 CIDP and 3 sensory neuropathy cases. IFA confirmed reactivity in 26 CIDP and 6 sensory neuropathy cases (eTables 3 and 8,
+links.lww.com/NXI/A974
+). Both methods showed negative results on WB-positive patients with MS. IgG from patients positive for anti-DLAT antibodies bound to the HEK 293 cells and colocalized with commercially available anti-DLAT antibodies, whereas the IgG from negative patients did not react (
+Figure 5A
+). Moreover, the presence of anti-DLAT antibodies in CIDP serum was further confirmed by staining large diameter neurons in mouse DRG sections and colocalizing with DLAT staining (
+Figure 5B
+). Immunoreactivity of S100β, a marker for large diameter neurons, was predominantly colocalized with patient IgG binding. However, patient IgG did not exhibit colocalization with isolectin B4, a marker for small diameter neurons (
+Figure 5C
+). Furthermore, immunoabsorption with recombinant DLAT protein using both CBA and IFA validated the loss of reactivity (
+Figure 5, A and B
+).
+Evaluation of the Pathogenicity of Anti-DLAT Antibodies
+To assess the impact of patient anti-DLAT antibodies on DRG neurons, we investigated whether serum from the patients positive for anti-DLAT antibodies affects dissociated mouse primary DRG neurons.
+DRG neurons exposed to sera from patients with CIDP with anti-DLAT antibodies displayed no significant variations in both LDH assay and WST-8 assay when compared with those treated with sera from patients with CIDP lacking anti-DLAT antibodies and healthy controls (
+Figure 6, A and B
+). Furthermore, no noticeable effect was observed for neurite outgrowth (
+Figure 6, C and D
+).
+Discussion
+In this study, we searched autoantibodies in the serum of patients with CIDP and identified the target autoantigens by screening with WB, followed by immunoprecipitation and mass spectrometry, which confirmed DLAT as a candidate protein. We further showed the existence of antibodies to DLAT in some patients with CIDP with similar clinical characteristics. ELISA and WB confirmed the presence of serum IgG and IgM antibodies to recombinant DLAT. Furthermore, positive anti-DLAT antibodies in ELISA were confirmed by CBA and IFA using mouse DRGs in the majority of patients with WB-positive CIDP, whereas the validity was low in other immune-mediated neuropathies. In addition to 18% of patients with CIDP, 10% of patients with immune-mediated sensory neuropathy and only 1.4% of 140 controls had antibodies, indicating that anti-DLAT antibody may serve as a diagnostic biomarker for sensory-predominant neuropathies including a subset of CIDP.
+Previous studies have focused on adhesion molecules in the paranodal junction as targets of autoimmune reactions in CIDP, but these proteins are commonly found in both central and peripheral nerves.
+22
+To determine novel antigenic proteins, we thus screened patients' sera showing reactivity to the mouse brain homogenates. The immunochemical staining of mouse and human tissues confirmed a strong expression of DLAT in DRG sensory neurons, indicating that patient serum reacts to these neurons. Our results also showed that the reactivity was diminished in immunosorbent assays, confirming the antibody's specificity. These findings suggest that antibodies act on DRGs with weak blood-nerve barriers, thereby inducing sensory ataxia. In support of this view, CNTN1 is expressed in large diameter DRG neurons, and autoantibodies have been shown to downregulate its expression and reduce sodium current, resulting in sensory ataxia.
+23
+DLAT, also known as the PDC-E2, is present in the mitochondrial inner membrane as a component of the pyruvate dehydrogenase complex and catalyzes the conversion of pyruvate to acetyl coenzyme A.
+24
+-
+26
+It consists of outer and inner lipoyl domains, a peripheral subunit-binding domain, and a catalytic domain.
+27
+Autoantibodies against mitochondrial PDC-E2 are present in 95% of patients with PBC, an autoimmune liver disease.
+28
+The immunodominant epitope in PBC maps to a region associated with an inner lipoyl domain.
+29
+PBC is associated with axonal degenerative neuropathy with sensory predominance.
+30
+-
+32
+Nevertheless, a small number of PBC cases positive for antimitochondrial antibodies and complicated by CIDP have also been reported.
+33
+The expression of MHC and B7 family of costimulatory molecules is observed in the peripheral nerve myelinated fibers of patients with CIDP and in the bile duct epithelial cells of patients with PBC.
+34
+-
+36
+In this study, we also found intensified expression of MHC class I and costimulatory molecule B7-1 on nerve biopsy specimens from patients with CIDP with anti-DLAT antibody. Upregulation of costimulatory molecules stabilizes the synaptic interaction between T cells and MHC class I in inflammatory pathologies.
+37
+These findings suggest a common pathogenesis between PBC and anti-DLAT antibody-positive CIDP. Antibodies to PDC-E2 have also been observed after allogeneic hematopoietic stem-cell transplantation and in some monoclonal gammopathies of undetermined significance cases, but the epitopes to which these antibodies react are different from those of PBC.
+38
+Different epitopes of antiglutamic acid decarboxylase antibodies are suggested to be linked to various disease phenotypes, such as type 1 diabetes, stiff-person syndrome, and autoimmune encephalitis.
+39
+,
+40
+DLAT is also expressed in bile duct epithelial cells and muscle fibers according to the Human protein atlas database and thus the varying epitopes of anti-DLAT antibodies may result in different phenotypes, such as PBC and inflammatory myopathy. It is, therefore, suggested that autoantibodies against DLAT/PDC-E2 are disease-associated antibodies rather than disease-specific antibodies.
+Twenty-nine patients diagnosed with CIDP who tested positive for anti-DLAT antibodies showed common clinical features, such as a sensory-predominant phenotype, sensory ataxia, cranial nerve palsy, and a higher malignancy rate, as compared with those with negative antibody results. The results of neurophysiologic examination revealed prolonged median nerve distal latencies and decreased sensory nerve conduction velocities in these patients, as compared with the antibody-negative cases. However, sural nerve biopsy showed no significant differences in the parameters, such as myelinated fiber density, between the 2 groups. These findings suggest that a disturbance in the central DRG may be responsible for the sensory ataxia, as evidenced by the presence of anti-DLAT antibodies in patients with sensory ataxic neuropathy. This is in line with the link between sensory ataxia in CIDP and DRG damage.
+41
+,
+42
+The high mitochondrial content and metabolic demand of the external ocular muscles may be related to the high prevalence of cranial nerve palsy in patients with antibody-positive CIDP.
+43
+The increased DLAT expression in various carcinomas, such as gastric and liver cancers, suggests a possible association with malignant complications in this disease.
+44
+,
+45
+This study had limitations that should be considered. As this is an observational study, we cannot determine the cause and effect of the anti-DLAT antibodies in CIDP and other sensory neuropathies. Cytotoxicity assays with DRG neurons did not detect the cytotoxic effects of anti-DLAT antibodies, suggesting that T-cell–mediated mechanisms or other factors may underlie these results. Additional experimental studies using animal models are needed to clarify the role of the antibodies in the pathogenesis of CIDP. In addition, we did not identify the epitope of DLAT which the antibodies in the patients' sera recognize. Neither did we perform quantitative assay of CBA. This is a cross-sectional study and thus was unable to adequately evaluate the presence of DLAT antibody in patients with neuropathy who later develop malignancy.
+In conclusion, we detected anti-DLAT antibodies in the serum of patients with CIDP with a sensory-dominant phenotype. The antibodies were also found in patients with immune-mediated sensory neuropathies. DLAT is highly expressed in the DRG and may serve as a diagnostic marker for detecting DRG disorders. Further research focusing on the clinical characteristics of patients with anti-DLAT antibodies will aid in better defining this disorder.
+Acknowledgment
+The authors thank Kentaro Taki, the Division for Medical Research Engineering, Nagoya University Graduate School of Medicine, for technical support with LC-MS/MS, and Edanz Group for editing a draft of this manuscript.
+Study Funding
+This work was supported in part by the Health and Labour Sciences Research Grant on Intractable Diseases (Neuroimmunologic Diseases) from the Ministry of Health, Labour and Welfare of Japan (20FC1030) and JSPS KAKENHI (20K07882, 23K14751).
+Disclosure
+S. Yagi, S. Furukawa, N. Mouri, J. Ouchida, A. Murakami, M. Iida, S. Yokoi, A. Hashizume, Y. Iguchi, and S. Imagama report no disclosures relevant to the manuscript. Y. Fukami is supported by grants by JSPS KAKENHI (JP23K14751). M. Iijima is supported by grants by JSPS KAKENHI (JP20K07864), the Japan Agency for Medical Research and Development (20lk0201080), Zenyaku Kogyo Co. Ltd., and Japan Blood Products Organization (JBPO). He also received honoraria from CSL Behring Co. Ltd. Dr. Koike is supported by the Health and Labour Sciences Research Grant on Intractable Diseases (Neuroimmunologic Diseases) from the Ministry of Health, Labour and Welfare of Japan (20FC1030) and JSPS KAKENHI (20K07882). M. Katsuno is supported by a JSPS KAKENHI Grant Number JP20H00527 and grants from the Japan Agency for Medical Research and Development (Nos. 20lk0201124 and 21wm0425013). He received honoraria from Takeda Pharmaceutical Co. Ltd. and grants from Zenyaku Kogyo Co. Ltd. and CSL Behring Co. Ltd. Go to
+Neurology.org/NN
+for full disclosures.
+Appendix
+Authors
+Glossary
+CBA
+cell-based assay
+CIDP
+chronic inflammatory demyelinating polyneuropathy
+CMAP
+compound muscle action potential
+DLAT
+dihydrolipoamide S-acetyltransferase
+DRG
+dorsal root ganglion
+GBS
+Guillain-Barré syndrome
+HEK
+human embryonic kidney
+HLA
+human leukocyte antigens
+IFA
+immunofluorescence assay
+IgG
+immunoglobulin G
+IVIG
+IV immunoglobulin
+LDH
+lactate dehydrogenase
+MHC
+major histocompatibility complex
+OD
+optical density
+PBC
+primary biliary cirrhosis
+SDS
+sodium dodecyl sulfate
+WB
+western blotting

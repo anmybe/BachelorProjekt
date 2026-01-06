@@ -1,0 +1,1746 @@
+pmc
+Rev Med Virol
+Rev Med Virol
+10.1002/(ISSN)1099-1654
+RMV
+Reviews in Medical Virology
+1052-9276
+1099-1654
+John Wiley and Sons Inc.
+Hoboken
+7744845
+34260780
+10.1002/rmv.2195
+RMV2195
+Review
+Reviews
+A systematic meta‐analysis of immune signatures in patients with COVID‐19
+Liu
+Kun
+1
+Yang
+Tong
+https://orcid.org/0000-0002-2276-8534
+2
+Peng
+Xue‐Fang
+https://orcid.org/0000-0002-4817-3117
+2
+Lv
+Shou‐Ming
+2
+Ye
+Xiao‐lei
+2
+Zhao
+Tian‐Shuo
+3
+Li
+Jia‐Chen
+2
+Shao
+Zhong‐Jun
+1
+Lu
+Qing‐Bin
+https://orcid.org/0000-0002-2804-0827
+3
+lwbime@163.com
+Li
+Jing‐Yun
+2
+lwbime@163.com
+Liu
+Wei
+https://orcid.org/0000-0002-9302-8170
+2
+3
+lwbime@163.com
+1
+Department of Epidemiology
+Ministry of Education Key Lab of Hazard Assessment and Control in Special Operational Environment
+School of Public Health
+Air Force Medical University
+Xi'an
+China
+2
+State Key Laboratory of Pathogen and Biosecurity
+Beijing Institute of Microbiology and Epidemiology
+Beijing
+China
+3
+Department of Laboratorial Science and Technology
+School of Public Health
+Peking University
+Beijing
+China
+*
+Correspondence
+Wei Liu and Jing‐Yun Li, State Key Laboratory of Pathogen and Biosecurity, Beijing Institute of Microbiology and Epidemiology, 20 Dong‐Da St, Fengtai District, Beijing 100071, China.
+Email:
+lwbime@163.com
+or
+liuwei@bmi.ac.cn
+(W. L.) and
+lijyjk@163.com
+(J.‐Y. L)
+Qing‐Bin Lu, Department of Laboratorial Science and Technology, School of Public Health, Peking University, 38 Xue‐Yuan Rd, Haidian District, Beijing 100191, China.
+Email:
+qingbinlu@bjmu.edu.cn
+20
+11
+2020
+7
+2021
+20
+11
+2020
+31
+4
+10.1002/rmv.v31.4
+e2195
+07
+10
+2020
+08
+5
+2020
+28
+10
+2020
+© 2020 The Authors. Reviews in Medical Virology published by John Wiley & Sons Ltd.
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+This is an open access article under the terms of the
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non‐commercial and no modifications or adaptations are made.
+Summary
+Currently severe acute respiratory syndrome coronavirus 2 (SARS‐CoV‐2) transmission has been on the rise worldwide. Predicting outcome in COVID‐19 remains challenging, and the search for more robust predictors continues. We made a systematic meta‐analysis on the current literature from 1 January 2020 to 15 August 2020 that independently evaluated 32 circulatory immunological signatures that were compared between patients with different disease severity was made. Their roles as predictors of disease severity were determined as well. A total of 149 distinct studies that evaluated ten cytokines, four antibodies, four T cells, B cells, NK cells, neutrophils, monocytes, eosinophils and basophils were included. Compared with the non‐severe patients of COVID‐19, serum levels of Interleukins (IL)‐2, IL‐2R, IL‐4, IL‐6, IL‐8, IL‐10 and tumor necrosis factor α were significantly up‐regulated in severe patients, with the largest inter‐group differences observed for IL‐6 and IL‐10. In contrast, IL‐5, IL‐1β and Interferon (IFN)‐γ did not show significant inter‐group difference. Four mediators of T cells count, including CD3
++
+T, CD4
++
+T, CD8
++
+T, CD4
++
+CD25
++
+CD127
+‐
+Treg, together with CD19
++
+B cells count and CD16
++
+CD56
++
+NK cells were all consistently and significantly depressed in severe group than in non‐severe group. SARS‐CoV‐2 specific IgA and IgG antibodies were significantly higher in severe group than in non‐severe group, while IgM antibody in the severe patients was slightly lower than those in the non‐severe patients, and IgE antibody showed no significant inter‐group differences. The combination of cytokines, especially IL‐6 and IL‐10, and T cell related immune signatures can be used as robust biomarkers to predict disease severity following SARS‐CoV‐2 infection.
+antibody
+COVID‐19
+cytokines
+disease severity
+innate immunity
+meta‐analysis
+China Mega‐Project on Infectious Disease Prevention
+2018ZX10713002
+2018ZX10101003
+2017ZX10103004
+National Natural Science Foundation of China
+81803289
+81825019
+source-schema-version-number
+2.0
+cover-date
+July 2021
+details-of-publishers-convertor
+Converter:WILEY_ML3GV2_TO_JATSPMC version:6.1.7 mode:remove_FC converted:07.07.2022
+Liu
+K
+,
+Yang
+T
+,
+Peng
+X‐F
+, et al.
+A systematic meta‐analysis of immune signatures in patients with COVID‐19
+.
+Rev Med Virol
+.
+2021
+;
+31
+(
+4
+):e2195.
+10.1002/rmv.2195
+Kun Liu and Tong Yang contributed equally to this study.
+Abbreviations
+ARDS
+acute respiratory distress syndrome
+CLIA
+chemiluminescence immunoassay
+COVID‐19
+coronavirus disease 2019
+CSS
+Churg–Strauss syndrome
+DCs
+dendritic cells
+ELISA
+enzyme‐linked immunosorbent assay
+ICU
+intensive care unit
+IFN
+interferon
+Ig
+immunoglobulin
+IL
+interleukins
+IQR
+interquartile range
+MERS
+Middle East respiratory syndrome
+MMFI
+multiple microsphere flow immunofluorescence
+NK cell
+natural killer cell
+NOQAS
+Newcastle–Ottawa Quality Assessment Scale
+PD
+programmed cell death protein
+PD‐L
+programmed cell death protein ligand
+PRISMA
+preferred reporting items for systematic reviews and meta‐analyses statement
+SARS
+severe acute respiratory syndrome
+SD
+standard deviation
+SMD
+standardized mean difference
+TNF‐α
+tumour necrosis factor‐α
+1
+INTRODUCTION
+Currently, severe acute respiratory syndrome coronavirus 2 (SARS‐CoV‐2) transmission has been on the rise in the worldwide range, with more than 32,000,000 cases and more than 990,000 deaths documented to 28 September 2020. Intensive efforts have been put forward to study the clinical process and outcome of the disease.
+1
+Predicting outcome in coronavirus disease 19 (COVID‐19) remains challenging, and the search for more robust methods continues. A broad range of signs and symptoms have been investigated in COVID‐19 to predict the disease outcome, while showing divergent results.
+2
+,
+3
+,
+4
+,
+5
+,
+6
+Inclusion more specific biomarkers is urgently needed to develop a robust algorithm. Previous studies have suggested that lymphocytopenia and inflammatory cytokine storm are typical abnormalities in infections caused by highly pathogenic coronavirus, such as SARS and MERS.
+7
+,
+8
+Similarly, numerous studies on COVID‐19 patients have reported a decrease in peripheral blood lymphocyte count and an increase in serum inflammatory cytokines,
+9
+,
+10
+,
+11
+,
+12
+which is suggested that the inflammatory factors may be the main reason for adverse progression and poor treatment response in COVID‐19, but mostly proposed from small sample studies.
+13
+If these biomarkers are validated in a large patient cohort, their incorporation into algorithms might prove sufficiently sensitive and specific to be clinically useful, particularly when they can be related to the disease outcome.
+In the current study, we attempted to address these issues by conducting a systematic meta‐analysis using the pooled data for the immune indicators that were evaluated at early disease and among patients with various disease severity. The inclusion of various studies allowed more statistical power for a holistic view of SARS‐CoV‐2‐induced immune mediators among patients with different disease severity, and across various geographic locations. This will also help to identify the immune signatures that better distinguish the development of COVID‐19 outcome.
+2
+MATERIALS AND METHODS
+2.1
+Protocol registration
+This systematic review was not registered. The format of the review used the preferred Reporting Items for Systematic Reviews and Meta‐Analyses (PRISMA) (Table
+S1
+), and addressed the following question: ‘Are the immune mediators different in severe and non‐severe groups of COVID‐19 patients?’ according to PICOS (P—Patient, Problem or Population; I—Intervention; C—Comparison, control or comparator; O—Outcome; S—Study design) (Table
+S2
+).
+2.2
+Search strategy and study selection
+We performed a comprehensive systematic review and meta‐analysis to identify the associations of immune cells, cytokines and the severity of COVID‐19. Identification of relevant existing literature was performed by an online search in PubMed, Web of Science and EMBASE, for studies published from 1 January 2020 to 15 August 2020. The MESH headings (keywords) searched were ‘nCoV’ or ‘coronavirus’ or ‘SARS‐CoV‐2’ or ‘COVID’ and ‘cytokine’ or ‘immunological or ‘immunity’ or ‘Cellular immunity’ or ‘T cell’ or ‘B cell’ or ‘NK cell’ or ‘antibody’. In addition, the same search strategy was applied to the database of bioRxiv and medRxiv for the unpublished studies (Table
+S3
+). Two reviewers (TY and XFP) independently screened the list of titles and abstracts, and the full text of chosen manuscripts related the immune mediators. Disagreements on which manuscripts to include during both title and abstract screen, and the subsequent full‐text analysis, were discussed until a conclusion was reached with two other reviewers (SML and KL).
+2.3
+Inclusion and exclusion criteria
+All studies evaluating individual measurement of immunological indicators in predicting severe infection (as measured by disease severity criteria, or ICU admission or fatal/survived) were included. All studies of any design, from any time since the outbreak started were eligible. To avoid selection bias, no subjective quality criteria were applied to the studies for inclusion. The immunological signatures that were measured at the acute phase of infection were used, and if there was more than one evaluation for the same patient, only the first test results were used. Only those immune signatures investigated in at least three papers were used in the subsequent analysis. Exclusion criteria included the following: (1) Case reports of individual patients, literature reviews, nonhuman studies, editorials, comments, expert opinions or articles with number of patients ≤10; (2) Studies of exclusively paediatric or pregnant patients, due to the varying presentation of the disease in these groups and (3) Studies without adequate baseline information, such as age, sex or geographic region.
+2.4
+Data extraction
+All the search results were evaluated according to the PRISMA statement.
+14
+From each study, various details including the baseline information of study population (age, sex, interval from disease onset to hospitalization, intervals from disease onset to the sample collection, study areas), the number of patients in each study group, the measured immunological indicators and their test methods and the definitions used to measure outcome, were extracted into Microsoft Excel. These details are presented in Table
+1
+. The Newcastle‐Ottawa Quality Assessment Scale (NOQAS) was used to assess the quality of the studies included in the meta‐analysis and performed by two reviewers (TY and XFP) with a third reviewer (SML) consulted in case of discrepancy.
+2.5
+Predictors and outcome
+The included studies varied in their differentiation of patients' disease status, with classifications of ‘mild, moderate, severe and critical’, ‘ordinary and severe/critical’, ‘common and severe’, ‘acute respiratory distress syndrome (ARDS) and non‐ARDS’ and ‘non‐severe and severe’. To allow comparability between studies for meta‐analysis, these were grouped into a single disease severity, with the outcome measure used was severe (including both severe and critical cases, ICU admission, death, ARDS, etc.) versus non‐severe disease (including non‐severe, mild disease, ordinary disease, non‐ICU admission and non‐ARDS, etc.).
+2.6
+Statistical analysis
+Quantitative syntheses and meta‐analyses were analysed using the meta package in the R statistical language (Version 3.6.3). First, we collected the mean and standard deviation (SD) from each value of immune mediators in severe and non‐severe groups of COVID‐19 patients. Where necessary, the mean and SD were converted from the median and interquartile range (IQR) using a previously standard approach.
+155
+For some articles, data regarding the immunological signature were extracted from the figures by measuring the pixel positions of the electronic figures and then computing the actual values. For box plots, medians and ranges were used to compute means and SDs, and for scatter plots, the individual values were used to compute means and SDs. Second, forest plots were conducted to illustrate the differences in the two groups. For fear of that the recruited studies used different experiment methods, for which means and differences cannot be pooled directly to estimate the effect, we calculated a dimensionless effect measure from each study for the pooling use. The standardized mean difference (SMD) was computed from means and SDs, and used as the effect size.
+156
+Finally, we undertook the meta‐analyses for each immune mediator. The heterogeneity of the studies was tested by the Cochran Chi‐square test and
+I
+2
+index, and the pooled SMD were calculated by using the random‐effects model. All results were pooled and presented in the forest plots. Leave‐one‐out sensitivity analysis was applied to detect the robustness of the results. Funnel plot method and Egger's regression were used to test the publication bias. If the funnel plot was asymmetric or
+p
+< 0.05, the trim‐and‐fill method was adopted to further test publication bias. The statistical testing with
+p
+< 0.05 was considered to be significant (two‐sided).
+3
+RESULTS
+3.1
+Review of the included studies
+A detailed flow diagram of study selection and the selected number are shown in Figure
+1
+. Our literature search identified 19,802 records through 15 August 2020. After removing duplicates, the title and abstract of the remaining 19,688 articles were screened, and 16,613 records were excluded. For 3075 potentially relevant studies, full‐text was retrieved and evaluated for eligibility, and then 2861 studies were excluded from the meta‐analysis: 1305 studies contained data from only case series, 1,312 studies were literature reviews, 52 studies provided no comparison data between disease severity, and 192 studies didn't provide enough data. As five studies were further excluded because the described immune mediators were investigated in <3 studies (Table
+S4
+), at last 214 studies were included in the qualitative synthesis. Those remained in the study were collated for the meta‐analysis consisted of 149 distinct studies that were performed in China (133), the United States (6), South Korea (2), Singapore (2), the United Kingdom (1), France (1), Germany (1), Italy (1), Spain (1), and both China and USA (1) (Table
+1
+). All the included studies had reported patients with severe patients and non‐severe patients. These articles included data from 33,691 patients, 25.96% (
+n
+= 8746) with severe COVID‐19 disease and 74.04% (
+n
+= 24,945) with non‐severe disease. Of these studies, 55 studies had evaluated the data on 10 cytokines, including interleukins 2 (IL‐2), IL‐2R, IL‐4, IL‐5, IL‐6, IL‐8, IL‐10, interferon γ (IFN‐γ), tumour necrosis factor α (TNF‐α) and IL‐1β,
+1
+,
+9
+,
+10
+,
+15
+,
+16
+,
+17
+,
+18
+,
+19
+,
+20
+,
+21
+,
+22
+,
+23
+,
+24
+,
+25
+,
+26
+,
+27
+,
+28
+,
+29
+,
+30
+,
+31
+,
+32
+,
+33
+,
+34
+,
+35
+,
+36
+,
+37
+,
+38
+,
+39
+,
+40
+,
+41
+,
+42
+,
+43
+,
+44
+,
+45
+,
+46
+,
+47
+,
+48
+,
+49
+,
+50
+,
+51
+,
+52
+,
+53
+,
+54
+,
+55
+,
+56
+,
+57
+,
+58
+,
+59
+,
+60
+,
+61
+,
+62
+,
+63
+,
+64
+,
+65
+,
+157
+8 studies investigated the antibodies (IgA, IgG, IgM and IgE)
+10
+,
+16
+,
+20
+,
+25
+,
+66
+,
+67
+,
+68
+,
+69
+and 40 studies assessed the T cells [CD3
++
+T cells count, CD4
++
+T cells count, CD8
++
+T cells count, CD4
++
+CD25
++
+CD127
+−
+Treg cells count, CD3
++
+T cells ratio, CD4
++
+T cells ratio, CD8
++
+T cells ratio and CD4
++
+/CD8
++
+(Th/Ts)],
+9
+,
+10
+,
+11
+,
+15
+,
+16
+,
+17
+,
+18
+,
+19
+,
+20
+,
+24
+,
+27
+,
+33
+,
+34
+,
+41
+,
+45
+,
+47
+,
+48
+,
+51
+,
+52
+,
+53
+,
+56
+,
+57
+,
+59
+,
+61
+,
+63
+,
+65
+,
+66
+,
+67
+,
+69
+,
+70
+,
+71
+,
+72
+,
+73
+,
+74
+,
+75
+,
+76
+,
+77
+,
+78
+,
+79
+,
+157
+and 22 studies estimated the B cells and NK cells (CD16
++
+CD56
++
+NK cells count, CD19
++
+B cells count,CD16
++
+CD56
++
+NK cells ratio and CD19
++
+B cells ratio),
+10
+,
+11
+,
+15
+,
+16
+,
+17
+,
+18
+,
+19
+,
+20
+,
+24
+,
+33
+,
+34
+,
+41
+,
+45
+,
+47
+,
+48
+,
+63
+,
+67
+,
+69
+,
+71
+,
+72
+,
+73
+,
+157
+124 studies on the evaluation of neutrophils, eosinophils and basophils cells (comprised of neutrophils cells counts/cells ratio, monocytes cells counts/cells ratio, eosinophils cells counts and basophils cells counts).
+2
+,
+3
+,
+10
+,
+12
+,
+18
+,
+19
+,
+20
+,
+21
+,
+22
+,
+24
+,
+25
+,
+26
+,
+28
+,
+29
+,
+30
+,
+31
+,
+32
+,
+33
+,
+35
+,
+36
+,
+37
+,
+41
+,
+46
+,
+47
+,
+48
+,
+50
+,
+51
+,
+53
+,
+55
+,
+56
+,
+57
+,
+58
+,
+59
+,
+61
+,
+62
+,
+63
+,
+64
+,
+65
+,
+66
+,
+67
+,
+68
+,
+69
+,
+72
+,
+73
+,
+76
+,
+77
+,
+78
+,
+79
+,
+157
+,
+80
+,
+81
+,
+82
+,
+83
+,
+84
+,
+85
+,
+86
+,
+87
+,
+88
+,
+89
+,
+90
+,
+91
+,
+92
+,
+93
+,
+94
+,
+95
+,
+96
+,
+97
+,
+98
+,
+99
+,
+100
+,
+101
+,
+102
+,
+103
+,
+104
+,
+105
+,
+106
+,
+107
+,
+108
+,
+109
+,
+110
+,
+111
+,
+112
+,
+113
+,
+114
+,
+115
+,
+116
+,
+117
+,
+118
+,
+119
+,
+120
+,
+121
+,
+122
+,
+123
+,
+124
+,
+125
+,
+126
+,
+127
+,
+128
+,
+129
+,
+130
+,
+131
+,
+132
+,
+133
+,
+134
+,
+135
+,
+136
+,
+137
+,
+138
+,
+139
+,
+140
+,
+141
+,
+142
+,
+143
+,
+144
+,
+145
+,
+146
+,
+147
+,
+148
+,
+149
+,
+150
+,
+151
+,
+152
+,
+153
+,
+154
+For each study, various details including the baseline information of study population, study design, the number of patients in each study group, the measured immunological indicators and their test methods, and the definitions used to measure outcome, were extracted into Table
+S5
+. For these studies, only the measurements acquired in the acute phase of infection were used for the analysis. Table
+1
+summarizes the detailed characteristics of the included studies for each immune mediator. The quality scores by NOQAS of the included studies ranged from 5 to 8, and 116 out of 149 was greater than or equal to six stars, indicating good quality (Table
+S6
+).
+3.2
+Cytokines and COVID‐19 severity
+A total of 55 studies were evaluated 10 mediators of cytokines between the severe (
+n
+= 3038) and non‐severe groups of COVID‐19 patients (
+n
+= 5895), including IL‐2, IL‐2R, IL‐4, IL‐5, IL‐6, IL‐8, IL‐10, IFN‐γ, TNF‐α and IL‐1β with three or more studies included (Figure
+S1
+).
+1
+,
+9
+,
+10
+,
+15
+,
+16
+,
+17
+,
+18
+,
+19
+,
+20
+,
+21
+,
+22
+,
+23
+,
+24
+,
+25
+,
+26
+,
+27
+,
+28
+,
+29
+,
+30
+,
+31
+,
+32
+,
+33
+,
+34
+,
+35
+,
+36
+,
+37
+,
+38
+,
+39
+,
+40
+,
+41
+,
+42
+,
+43
+,
+44
+,
+45
+,
+46
+,
+47
+,
+48
+,
+49
+,
+50
+,
+51
+,
+52
+,
+53
+,
+54
+,
+55
+,
+56
+,
+57
+,
+58
+,
+59
+,
+60
+,
+61
+,
+62
+,
+63
+,
+64
+,
+65
+,
+157
+Compared with the non‐severe patients of COVID‐19, we found that serum levels of seven cytokines were significantly up‐regulated in severe patients, including IL‐2 (SMD, 0.40; 95% CI, 0.10–0.71;
+p
+< 0.01), IL‐2R (SMD, 1.12; 95% CI, 0.80–1.44;
+p
+< 0.01), IL‐4 (SMD, 0.71; 95% CI, 0.10–1.33;
+p
+= 0.02), IL‐6 (SMD, 1.16; 95% CI, 0.94–1.38;
+p
+< 0.01), IL‐8 (SMD, 0.75; 95% CI, 0.49–1.00;
+p
+< 0.01), IL‐10 (SMD, 1.26; 95% CI, 0.92–1.59;
+p
+< 0.01) and TNF‐α (SMD, 0.55; 95% CI, 0.32–0.78;
+p
+< 0.01), respectively (Figure
+S1a–g
+). In contrast, serum IL‐5, IL‐1β and IFN‐γ did not showed significant inter‐group differences with the SMDs of 0 (95% CI, −0.94 to 0.95,
+p
+= 0.99), 0.33 (95% CI, 0.00–0.67,
+p
+= 0.05), and 0.46 (95% CI, −0.25 to 1.17,
+p
+= 0.20), respectively (Figure
+S1h–j
+).
+3.3
+SARS‐CoV‐2‐specific antibodies and COVID‐19 severity
+Four SARS‐CoV‐2‐specific antibody mediators were included in the meta‐analysis between severe and non‐severe COVID‐19 patients, immunoglobulin A (IgA), IgG, IgM and IgE.
+10
+,
+16
+,
+20
+,
+25
+,
+66
+,
+67
+,
+68
+,
+69
+A total of eight studies evaluated the levels of IgA, IgG and IgM involving 563 severe and 828 non‐severe cases, and the levels of IgE involving 131 severe and 257 non‐severe cases (Figure
+S2
+). Compared with the non‐severe patients, the severe patients had significantly higher levels of IgA and IgG with SMDs of 0.39 (95% CI, 0.10–0.68;
+p
+< 0.01; Figure
+S2a
+), and 0.22 (95% CI, 0.01–0.42;
+p
+= 0.04; Figure
+S2b
+), respectively. The level of IgM in the severe patients was slightly lower than those in the non‐severe patients of COVID‐19 (SMD, −0.18; 95% CI, −0.32 to −0.03,
+p
+= 0.02; Figure
+S2c
+). No significant differences were noted in the serum levels of IgE between two groups (SMD, 0.16; 95% CI, −0.16 to 0.43,
+p
+= 0.43; Figure
+S2d
+).
+3.4
+T cells and COVID‐19 severity
+A total of 40 studies involving 1623 severe cases and 4342 non‐severe cases evaluated the T cells count or percent in relation to the COVID‐19 disease severity.
+9
+,
+10
+,
+11
+,
+15
+,
+16
+,
+17
+,
+18
+,
+19
+,
+20
+,
+24
+,
+27
+,
+33
+,
+34
+,
+41
+,
+45
+,
+47
+,
+48
+,
+51
+,
+52
+,
+53
+,
+56
+,
+57
+,
+59
+,
+61
+,
+63
+,
+65
+,
+66
+,
+67
+,
+69
+,
+70
+,
+71
+,
+72
+,
+73
+,
+74
+,
+75
+,
+76
+,
+77
+,
+78
+,
+79
+,
+157
+Eight measurements of T cells were described in over three studies, including CD3
++
+T cells count, CD4
++
+T cells count, CD8
++
+T cells count, CD4
++
+CD25
++
+CD127
+−
+Treg cells count, CD3
++
+T cells ratio, CD4
++
+T cells ratio, CD8
++
+T cells ratio and CD4
++
+/CD8
++
+(Th/Ts) in Figure
+S3
+. Compared with the non‐severe group, severe group had significantly lower CD3
++
+T cells count (SMD, −1.14; 95% CI, −1.41 to −0.88;
+p
+< 0.01; Figure
+S3a
+) as well as CD4
++
+T cells count (SMD, −116; 95% CI, −1.44 to −0.89;
+p
+< 0.01; Figure
+S3b
+), CD8
++
+T cells count (SMD, −1.03; 95% CI, −1.27 to −0.79;
+p
+< 0.01; Figure
+S3c
+), CD4
++
+CD25
++
+CD127
+‐
+Treg cells count (SMD, −0.45; 95% CI, −0.76 to −0.13;
+p
+< 0.01; Figure
+S3d
+), CD3
++
+T cells ratio (SMD, −1.10; 95% CI, −1.77 to −0.42;
+p
+< 0.01; Figure
+S3e
+), and CD4
++
+T cells ratio (SMD, −0.61; 95% CI, −1.02 to −0.19;
+p
+< 0.01; Figure
+S3f
+). In contrast, no significant difference was attained for CD8
++
+T cells ratio (SMD, −0.61; 95% CI, −1.35 to 0.12;
+p
+= 0.10; Figure
+S3g
+), or CD4
++
+/CD8
++
+(Th/Ts) (SMD, 0.16; 95% CI, −0.10 to 0.42;
+p
+= 0.23; Figure
+S3h
+).
+3.5
+The B cells, NK cells and COVID‐19 severity
+A total of 22 studies on the evaluation of B cells and NK cells between severe and non‐severe COVID‐19 patients were included.
+10
+,
+11
+,
+15
+,
+16
+,
+17
+,
+18
+,
+19
+,
+20
+,
+24
+,
+33
+,
+34
+,
+41
+,
+45
+,
+47
+,
+48
+,
+63
+,
+67
+,
+69
+,
+71
+,
+72
+,
+73
+,
+157
+As shown in Figure
+S4
+, the CD19
++
+B cells count and CD16
++
+CD56
++
+NK cells count in the severe group were significantly lower than those in the non‐severe group with SMDs of −0.74 (95% CI, −1.05 to −0.42;
+p
+< 0.01; Figure
+S4a
+), and −0.61 (95% CI, −0.84 to −0.38;
+p
+< 0.01; Figure
+S4b
+), respectively. In contrast, the CD19
++
+B cells ratio and CD16
++
+CD56
++
+NK cells ratio were significantly higher in the severe patients than in the non‐severe patients with SMDs of 0.35 (95% CI, 0.15–0.55;
+p
+< 0.01; Figure
+S4c
+), and 1.19 (95% CI, 0.30–2.07;
+p
+< 0.01; Figure
+S4d
+), respectively.
+3.6
+The neutrophils, monocytes, eosinophils, basophils and COVID‐19 severity
+About 124 studies on the evaluation of neutrophils, monocytes, eosinophils and basophils cells between severe and non‐severe COVID‐19 patients were included.
+2
+,
+3
+,
+10
+,
+12
+,
+18
+,
+19
+,
+20
+,
+21
+,
+22
+,
+24
+,
+25
+,
+26
+,
+28
+,
+29
+,
+30
+,
+31
+,
+32
+,
+33
+,
+35
+,
+36
+,
+37
+,
+41
+,
+46
+,
+47
+,
+48
+,
+50
+,
+51
+,
+53
+,
+55
+,
+56
+,
+57
+,
+58
+,
+59
+,
+61
+,
+62
+,
+63
+,
+64
+,
+65
+,
+66
+,
+67
+,
+68
+,
+69
+,
+72
+,
+73
+,
+76
+,
+77
+,
+78
+,
+79
+,
+157
+,
+80
+,
+81
+,
+82
+,
+83
+,
+84
+,
+85
+,
+86
+,
+87
+,
+88
+,
+89
+,
+90
+,
+91
+,
+92
+,
+93
+,
+94
+,
+95
+,
+96
+,
+97
+,
+98
+,
+99
+,
+100
+,
+101
+,
+102
+,
+103
+,
+104
+,
+105
+,
+106
+,
+107
+,
+108
+,
+109
+,
+110
+,
+111
+,
+112
+,
+113
+,
+114
+,
+115
+,
+116
+,
+117
+,
+118
+,
+119
+,
+120
+,
+121
+,
+122
+,
+123
+,
+124
+,
+125
+,
+126
+,
+127
+,
+128
+,
+129
+,
+130
+,
+131
+,
+132
+,
+133
+,
+134
+,
+135
+,
+136
+,
+137
+,
+138
+,
+139
+,
+140
+,
+141
+,
+142
+,
+143
+,
+144
+,
+145
+,
+146
+,
+147
+,
+148
+,
+149
+,
+150
+,
+151
+,
+152
+,
+153
+,
+154
+As shown in Figure
+S5
+, the neutrophils cells count and neutrophils cells ratio in the severe group were significantly higher than those in the non‐severe group with SMDs of 0.72 (95% CI, 0.61–0.82;
+p
+< 0.01; Figure
+S5a
+), and 0.62 (95% CI, 0.35–0.88;
+p
+< 0.01; Figure
+S5b
+), respectively. The monocytes cells ratio and eosinophils cells count were significantly lower in the severe patients than in the non‐severe patients of COVID‐19 with SMDs of −0.36 (95% CI, −0.51 to −0.21;
+p
+< 0.01; Figure
+S5c
+), and −0.45 (95% CI, −0.59 to −0.31;
+p
+< 0.01; Figure
+S5d
+), while the monocytes cells count and basophils cells count were comparable between the two groups with SMDs of −0.06 (95% CI, −0.15 to 0.04;
+p
+= 0.24; Figure
+S5e
+), and −0.14 (95% CI, −0.43 to 0.15;
+p
+= 0.34; Figure
+S5f
+), respectively.
+3.7
+Sub‐analysis of only peer reviewed studies
+The sub‐analysis considering only peer‐reviewed studies for each immune mediator was performed, and the results were presented in Table
+2
+, but without obvious difference with those of all the included literatures analysed.
+3.8
+Sensitivity analysis
+The results showed that none of the exclusions altered the results of the previous analysis for cytokines (except for IL‐4 and IL‐10), four specific antibodies, T cells, B cells, NK cells (except for CD16+CD56+ NK cells ratio), neutrophils, monocytes, eosinophils and basophils, indicating the good reliability and stability of the results of this meta‐analysis (Figure
+S6
+). For IL‐4, one study by Hong et al.
+35
+had a strong influence on the result of the meta‐analysis. For IL‐10, Wan et al.
+37
+study had a strong influence on the result of the meta‐analysis. For CD16+CD56+ NK cells ratio, one study by Liu et al.
+15
+had a strong influence on the result of the meta‐analysis. However, the results of meta‐analysis were not badly altered to be the opposite.
+3.9
+Publication bias
+The
+p
+value from Egger's regression and funnel plots suggested that the publication bias presented in seven mediators including IL‐2R, IL‐6, IL‐10, CD4+ T cells count, CD3+ T cells ratio, CD8+ T cells ratio and CD16+CD56+ NK cells ratio (Table
+S5
+and Figure
+S7
+). Therefore, we adopted the trim‐and‐fill method to further test publication bias. As shown in Table
+S6
+, the results showed that there was no significant change in the pooled value change before (
+p
+< 0.05) and after (
+p
+< 0.05) trim‐and‐fill, indicating that the original pooled SMD was relatively robust.
+4
+DISCUSSION
+Inflammation is the body's first coordinated line of defense against tissue damage caused by either injury or infection, involving both the innate and adaptive immune responses.
+57
+However, exuberant immune responses following infection have been frequently associated with excessive levels of pro‐inflammatory cytokines and widespread tissue damage including ARDS.
+158
+,
+159
+,
+160
+In most previous studies, patients with SARS‐CoV‐2 infection are associated with a cytokine storm, which is characterized by increased production of IL‐2, IL‐7 and IL‐10, granulocyte‐colony stimulating factor, interferon‐α‐inducible protein 10, monocyte chemoattractant protein 1, macrophage inflammatory protein 1 alpha and TNF‐α.
+16
+,
+18
+,
+157
+However, there had been conflicting opinion as to whether the cytokine storm was responsible for the severe outcome. One argument was that the pathological process of severe COVID‐19 disease was mainly due to the direct lung injury that induced the subsequent ARDS, and respiratory depression. In addition to the virus‐induced direct lung injury, it is also considered that COVID‐19 invasion triggers the immune responses that lead to the activation of immune cells to release many pro‐ and anti‐inflammatory cytokines including TNF‐α, IL‐1β, IL‐6 and so on. Overwhelming secretion of cytokines causes severe lung damage, which manifest as extensive damage of pulmonary vascular endothelial and alveolar epithelial cells as well as increased pulmonary vascular permeability, leading to the pulmonary oedema and hyaline membrane formation.
+15
+,
+25
+,
+36
+,
+66
+Multiple studies have been conducted to characterize the profiles of immune mediator during different phases of the COVID‐19 disease in different geographic locations.
+43
+,
+161
+,
+162
+,
+163
+However, results varied, which might be due to the difference in clinical sample preparations, assay platforms and recursion criteria of the patients among studies. Here by performing meta‐analysis on studies that explored the association between cytokine storm and disease severity, we have determined that several cytokines, including IL‐2, IL‐2R, IL‐4, IL‐6, IL‐8, IL‐10 and IFN‐γ, were induced to significantly higher levels in severe cases than in non‐severe cases, but not for IL‐1β or TNF‐α.
+It is notable that IL‐6 and IL‐10 were two of the cytokines that were most consistently enhanced in severe patients, and with large intergroup differences. The direction of association remained consistent in 20 of the 22 studies for IL‐6, and in all 13 studies for IL‐10. Extensive studies have been conducted to characterize the profile of IL‐6 in patients with SARS‐CoV‐2 infection, as well as for their relation with the clinical outcome.
+9
+,
+10
+,
+15
+,
+23
+,
+24
+,
+25
+,
+36
+,
+37
+,
+38
+,
+39
+,
+66
+For example, IL‐6 was reported to be elevated during the acute phase of SARS‐CoV‐2 infection,
+9
+,
+25
+,
+26
+and also associated with high viremia in COVID‐19 patients. The plasma IL‐6 level was increased dramatically in SARS‐CoV‐2‐infected patients with cardiac injury, which was associated with fatal outcome induced by fulminant myocarditis.
+164
+Significantly elevated systemic level of IL‐6 have been reported in several COVID‐19 patient cohorts and shown to correlate with disease severity.
+165
+IL‐6 level diverges profoundly between non‐survivors and survivors in the third week after symptom onset and is a predictor of COVID‐19 severity and in‐hospital mortality,
+15
+,
+58
+which suggest that IL‐6 production might play a more important role than viral burden in the pathogenesis COVID‐19, since high viral loads were observed at the early clinical process.
+65
+,
+166
+,
+167
+,
+168
+In a consistent manner, a study performed on medical staff with COVID‐19 disease in Wuhan disclosed normal IL‐6 levels on admission were favourable for discharge after infection.
+169
+Until now, there had been only two studies that showed a reversed direction for the IL‐6‐severe disease association according to our meta‐analysis.
+18
+,
+42
+All these evidences had supported a critical role of IL‐6 in determining the outcome. Transcriptional profiling found that SARS‐CoV‐2 infection in addition to activating type‐I interferon and IL‐6‐dependent inflammatory responses, also results in robust engagement of the complement and coagulation pathway activation.
+170
+As a simple, fast and readily available screen, we propose it reasonable to take an immediate evaluation of IL‐6 and IL‐10 levels upon hospital admission of COVID‐19 patients, due to its potential benefits to assess worsening clinical features and disease progression in COVID‐19. For example, a notably elevated IL‐6 value over a certain level by using a predetermined detection kit and following a standard protocol should alert clinicians to adopt aggressive therapeutic approaches without delay.
+Accompanying the inflammatory process is the lymphopenia depressed CD4
++
+, CD8
++
+T cells, NK and B cells in COVID‐19 patients. Studies found that acute SARS‐CoV‐2 infection resulted in broad immune cell reduction including T, NK, monocyte, and dendritic cells (DCs).
+171
+In the meta‐analysed studies, lymphopenia was ubiquitous in severe COVID‐19 infection and was associated with adverse outcome. CD3
++
+, CD4
++
+and CD8
++
+T cells counts were always below normal range, and CD19
++
+B cells and CD16
++
+56
++
+NK cells counts were consistently depressed in the severe versus non‐severe cases. Recently studies have shown that the extent of lymphopenia seemingly correlates with COVID‐19‐associated disease severity and mortality.
+2
+,
+4
+,
+24
+,
+68
+,
+70
+,
+71
+,
+172
+,
+173
+,
+174
+,
+175
+Patients with mild symptoms, however, typically present with normal or slightly higher T cell counts.
+176
+,
+177
+The presence of lymphopenia and depressed T cell counts seems to correlate with serum IL‐6, IL‐10 and TNF‐α, which might also act as a signature of severe COVID‐19.
+34
+,
+70
+SARS‐CoV‐2‐specific antibodies production in COVID‐19 patients suggested the mounting of humoral responses, especially with a higher level of IgA antibody in the severe patients. However, insignificant difference of IgG, IgM or IgE antibody between severe and non‐severe patients was observed. The role of adaptive immunity in COVID‐19 patients cannot be deciphered according to the current analysis.
+These findings have potential application in the effective therapy choice. Until recently, anti‐viral drugs with proven safety profiles are lacking, thus targeting the hyper‐inflammation might be promising and critical for reducing mortality. For example, Tocilizumab, a monoclonal antibody targeting the IL‐6 receptor, is currently being investigated for the treatment of patients with COVID‐19‐CSS.
+159
+The approved randomized controlled trial that evaluates the efficacy and safety of tocilizumab in the treatment of COVID‐19 might bring about potential benefit soon. The lymphopenia plays an important role in the pathogenesis of the disease, thus the drugs targeting lymphocyte proliferation or apoptosis (IL‐7 and PD1/PD‐L1 inhibitors) could help to restore lymphocyte counts in severe patients suffering COVID‐19.
+The recruited studies evaluated by NOQAS in the meta‐analysis revealed good quality, which provided the strong evidence for the association between immune signatures and SARS‐CoV‐2 infection. However, our study was subject to limitations that were inherent to meta‐analysis. All types of severe diseases, such as ARDS development, ICU entrance, the critical ill patients, were pooled into one for comparison. This broad range of severe disease, although been defined according to standard criteria, might cause bias away from the actual estimation of the association. However, with all association with these complications undoubtedly toward the same direction, we would consider these results adaptable for the disease severity prediction. Age and comorbidities are important risk determinants of severity and mortality of COVID‐19 patients, which effects however was not measured, as there were only few literatures presenting the subgrouping data on the immune signatures and disease severity, based on age or comorbidities. We also failed to consider the effect of therapy on the disease outcome, because most of the therapy information was missing from the included studies, for which further investigation are warranted.
+5
+CONCLUSION
+Our systematic review and meta‐analysis are the first to reveal that multiple immune mediators were significantly associated with clinical outcome in COVID‐19 patients in a comprehensive way. A dysregulated immunological response with hypercytokinemia and lymphopenia assembled among severe COVID‐19 disease was disclosed. The screening for the currently significant biomarkers, especially cytokine of IL‐6, IL‐10 and the T cells counts, have important implication in assisting prompt recognition of severe patients and guiding early treatment.
+CONFLICT OF INTEREST
+The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+AUTHOR CONTRIBUTIONS
+Wei Liu, Jing‐Yun Li and Qing‐Bin Lu conceived the idea. Tong Yang and Xue‐Fang Peng searched the studies. Kun Liu, Tong Yang, Xue‐Fang Peng, Shou‐Ming Lv, Tian‐Shuo Zhao, Xiao‐Lei Ye, Jia‐Chen Li and Zhong‐Jun Shao collected and analysed the data. Wei Liu and Kun Liu wrote the manuscript. All authors read and approved the final manuscript.
+6
+Supporting information
+Supplementary Material 1
+Click here for additional data file.
+Supplementary Material 2
+Click here for additional data file.
+Supplementary Material 3
+Click here for additional data file.
+Supplementary Material 4
+Click here for additional data file.
+Supplementary Material 5
+Click here for additional data file.
+Supplementary Material 6
+Click here for additional data file.
+Supplementary Material 7
+Click here for additional data file.
+Supplementary Material 8
+Click here for additional data file.
+Supplementary Material 9
+Click here for additional data file.
+Supplementary Material 10
+Click here for additional data file.
+Supplementary Material 11
+Click here for additional data file.
+Supplementary Material 12
+Click here for additional data file.
+ACKNOWLEDGEMENTS
+We thank all medical staff and health practitioners who have contributed to fight against the disease of COVID‐19. This work was supported by the China Mega‐Project on Infectious Disease Prevention (No. 2018ZX10713002, 2018ZX10101003 and 2017ZX10103004), and the National Natural Science Foundation of China (81803289, 81825019). The funding agencies had no role in the study design, data collection and analysis, or preparation of the manuscript.
+DATA AVAILABILITY STATEMENT
+All data used for analysis are available upon a proper request from the corresponding author Wei Liu at
+lwbime@163.com
+.

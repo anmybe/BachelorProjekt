@@ -1,0 +1,748 @@
+pmc
+EBioMedicine
+EBioMedicine
+EBioMedicine
+2352-3964
+Elsevier
+8801986
+S2352-3964(22)00019-6
+10.1016/j.ebiom.2022.103835
+103835
+Articles
+Immune response to a conserved enteroviral epitope of the major capsid VP1 protein is associated with lower risk of cardiovascular disease
+Pupina
+Nadežda
+a
+Avarlaid
+Annela
+b
+Sadam
+Helle
+a
+b
+Pihlak
+Arno
+a
+Jaago
+Mariliis
+a
+b
+Tuvikene
+Jürgen
+a
+b
+c
+Rähni
+Annika
+a
+b
+Planken
+Anu
+d
+Planken
+Margus
+d
+Kalso
+Eija
+e
+Tienari
+Pentti J.
+f
+Nieminen
+Janne K.
+f
+Seppänen
+Mikko R.J.
+f
+Vaheri
+Antti
+g
+Lindholm
+Dan
+h
+i
+Sinisalo
+Juha
+j
+Pussinen
+Pirkko
+k
+Timmusk
+Tõnis
+a
+b
+Palm
+Kaia
+kaia@protobios.com
+a
+b
+⁎
+a
+Protobios LLC, Mäealuse 4, Tallinn 12618, Estonia
+b
+Department of Chemistry and Biotechnology, Tallinn University of Technology, Estonia
+c
+dxlabs LLC, Mäealuse 4, Tallinn 12618, Estonia
+d
+The North Estonia Medical Center, Tallinn, Estonia
+e
+Department of Anaesthesiology, Intensive Care and Pain Medicine, Helsinki University Hospital and Department of Pharmacology and SleepWell Research Programme, University of Helsinki, Finland
+f
+Department of Neurology, Neurocenter, Helsinki University Hospital, and Translational Immunology Research Program, University of Helsinki, Finland
+g
+Department of Virology, Medicum, University of Helsinki, Finland
+h
+Department of Biochemistry and Developmental Biology, Faculty of Medicine, University of Helsinki, Finland
+i
+Minerva Foundation Institute for Medical Research, Helsinki, Finland
+j
+Heart and Lung Center, Helsinki University Hospital, University of Helsinki, Finland
+k
+Oral and Maxillofacial Diseases, University of Helsinki and Helsinki University Hospital, Finland
+⁎
+Corresponding author at: Protobios LLC, Mäealuse 4, Tallinn 12618, Estonia.
+kaia@protobios.com
+25
+1
+2022
+2
+2022
+25
+1
+2022
+76
+103835
+16
+7
+2021
+9
+1
+2022
+11
+1
+2022
+© 2022 The Author(s)
+2022
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+Summary
+Background
+Major cardiac events including myocardial infarction (MI) are associated with viral infections. However, how specific infections contribute to the cardiovascular insults has remained largely unclear.
+Methods
+We employed next generation phage display mimotope-variation analysis (MVA) to explore the link between antibody-based immune response and severe cardiovascular conditions. Here, we used a case-control design, including the first-stage discovery cohort (
+n
+= 100), along with cohorts for second-stage discovery (
+n
+= 329) and validation (
+n
+= 466).
+Findings
+We observed strong antibody response to the peptide antigens with Gly-Ile-X-Asp (G-I-X-D) core structure in healthy individuals but not in patients with MI. Analysis of the origin of this epitope linked it with the N-terminus of the VP1 protein of poliovirus 3 (PV3), but also other species of picornaviruses. Consistently, we found low levels of antibody response to the G-I-X-D epitope in individuals with severe cardiac disease complications.
+Interpretation
+Our findings imply that antibody response to the G-I-X-D epitope is associated with polio vaccinations and that high antibody levels to this epitope could discriminate healthy individuals from prospective MI patients as a blood-derived biomarker. Together, these findings highlight the importance of epitope-specific antibody response and suggest that protective immunity against the polio- and non-polio enteroviral infections support improved cardiovascular health.
+Funding
+Estonian Ministry of Education (5.1-4/20/170), Estonian Research Council (PRG573, PRG805), H2020-MSCA-RISE-2016 (EU734791), H2020 PANBioRA (EU760921), European Union through the European Regional Development Fund (Project no. 2014-2020.4.01.15-0012), Helsinki University Hospital grants, Mary and Georg C. Ehrnrooth Foundation, Finnish Eye Foundation, Finska Läkaresällskapet, The Finnish Society of Sciences and Letters, Magnus Ehrnrooth Foundation and Sigrid Jusélius Foundation.
+Keywords
+Epitope
+Antibodies
+Myocardial infarction
+Cardiovascular diseases
+Poliovirus
+Enteroviruses
+Research in context
+Evidence before this study
+Cardiovascular diseases (CVDs) are the leading cause of death globally. High blood pressure, smoking, high cholesterol levels, obesity, and diabetes are among the major risk factors contributing to CVD development.
+Added value of this study
+Here, we used high-throughput analysis of the antibody immune response in search of novel CVD-associated biomarkers and found value in measuring the immunoreactivity to a single viral epitope as a blood-based biomarker for the risk assessment of the CVD associated acute cardiac events.
+Implications of all the available evidence
+The understanding of novel viral infection-associated mechanisms along with noninvasive cardiac-specific biomarkers may yield valuable insights into the CVD pathophysiology and prevention at an early stage of the disease. Given that we relate this epitope to cross-protective poliovirus antigens, the study data would contribute to further vaccine use and improvements.
+Alt-text: Unlabelled box
+Introduction
+Cardiovascular diseases (CVDs) are the leading global burden with coronary artery disease (CAD) as a major contributor to the fatalities, and myocardial infarction (MI) accounting for most of the mortality.
+1
+,
+2
+External stress factors that have detrimental impact on the integrity of the cellular machinery promote the development of cardiac disorders.
+3
+CAD is the most common heart problem that involves the blood vessels and usually starts as a result of atherosclerosis and may culminate in MI, a major adverse cardiovascular event.
+4
+In the atherosclerotic disease process, the role of inflammation has become well established.
+5
+,
+6
+Considerable evidence has emerged indicating that infections contribute to chronic inflammation either through direct effects by hijacking cellular processes and inducing host inflammatory cascades, or indirectly via an autoimmune-mediated response, or a combination of both.
+7
+Infectious diseases of the heart are heterogenous. They have variable clinical presentations as any type of microorganism, e.g. bacteria, fungi, parasites, and viruses, may affect more than one cardiac structure.
+8
+A number of acute and chronic infections including
+Chlamydophila pneumoniae, Helicobacter pylori, Porphyromonas gingivalis,
+influenza and coronaviruses, e.g. SARS-CoV-2
+9
+,
+10
+has been linked to atherosclerosis
+11
+and MI.
+12
+In both cross-sectional and cohort studies, elevated antibodies against
+C. pneumonia, H.pylori
+, periodontal pathogens,
+Mycoplasma pneumoniae
+, herpes viruses, and enteroviruses have been demonstrated.
+13
+,
+14
+,
+15
+,
+16
+Further, data suggest that the general infectious burden poses a greater risk for coronary heart disease (CHD) than any single pathogen.
+17
+,
+18
+,
+19
+A unique study by Pesonen and co-workers showed that the antibody titers against pathogens like enteroviruses cumulatively increased the risk for CHD, whereas the risk for acute coronary events decreased with increasing number of childhood contagious diseases.
+20
+On the other hand, childhood oral infections and infection-related hospitalisations were associated with subclinical carotid atherosclerosis and adverse atherosclerosis phenotype in adults.
+21
+,
+22
+Increased risk for acute coronary syndrome (ACS) was found for acute bacterial pneumonia, urinary tract infection and bacteremia with different bacterial strains.
+23
+Excess mortality from cardiovascular disease during influenza epidemics was recognised early in the 20th century, and recent reports indicate that COVID-19 may also be associated with a similar increase.
+23
+There is no direct evidence that viral vaccines would have an influence on atherosclerosis in humans.
+24
+However, studies showed that influenza and pneumococcal vaccination reduce the risk for cardiovascular events in adults by 36%
+25
+and 17%,
+26
+respectively. The molecular mechanisms by which vaccinations exert these protective effects have not been defined.
+The current study investigated the relationship between antibody immune response associated with MI by using an untargeted, high-throughput next generation peptide phage display method (MVA). We have correlated these results with the data from the case-control cohort comprising of patients with angiographically verified CVDs status, i.e. ACS and chronic CAD, and population-based controls to evaluate associations of antibody immune response as a predictive blood biomarker for CVD conditions.
+Methods
+Ethics statement
+The study was conducted in accordance with the guiding principles of the Declaration of 182 Helsinki and the study participants gave written informed consent before enrolment. The ethical approvals were obtained from the local ethics review committees of Estonia (177/T-2, 211/M-22, 281/T-5; 351), and Finland (the Helsinki University Central Hospital ethics committee (106/2007, 303/2007); Helsinki University Hospital (Dno 83/13/03/01/2013); Helsinki Biobank (HBP2018006)). Healthy sera donor samples were procured from the North Estonia Medical Blood Centre (Tallinn, Estonia).
+Study populations
+The summary of the study design is illustrated in Figure S1. Baseline characteristics for the cohorts used are shown in
+Tables 1
+and S1, S3 and S4. In brief, study was designed as 2-stage case-control study including three cohorts, Estonia I and II, and Finland I. Using a case-control design, the first-stage discovery cohort (Estonia I,
+n
+= 100) was built from the samples collected by North Estonian Regional Hospital (Tallinn, Estonia) including serum or plasma of MI (
+n
+= 50) and HC (
+n
+= 50). MI was diagnosed according to electrocardiogram and cardiac marker analysis (troponin, creatine kinase-MB). The case condition included ST-elevation (STEMI) and non-ST-elevation (NSTEMI) myocardial infarction patients. All MI samples were collected less than 12 h before or after the coronary angiography procedures and stored at −80 °C until further use. Heart conditions were excluded for the HC group. In the second stage of the study, we were aiming to associate the discovered epitope with different types of poliovirus vaccines. Another discovery cohort Estonia II (
+n
+= 329) was created by combining samples of previous retrospective studies from (a) subjects born in years 1927–1958 (
+n
+= 101,
+No vaccine
+), when no polio vaccine was available, also in Estonia, (b) subjects born in years of OPV vaccination according to the national immunisation history (years 1959–2007,
+n
+= 224,
+OPV
+), and (c) individuals born in years of IPV vaccination programmes in Estonia (years 2008–2011,
+n
+= 4,
+IPV
+) (Table S3). It should be mentioned that individuals from
+No vaccine
+group could have received OPV during mass vaccination programmes in 1959 and 1960 in their adulthood
+27
+,
+28
+(Figure S2). Regarding clinical background, the Estonia II cohort consisted of MI cases (
+n
+= 40) and either healthy blood donors (ICD-10: Z52.0,
+n
+= 135) or samples from individuals with different primary diagnoses with no history of MI (
+n
+= 154) (including patients with cervical intraepithelial pathologies (
+n
+= 42), prediabetes (
+n
+= 6), psoriasis (
+n
+= 31), sarcoidosis (
+n
+= 47), allergies (
+n
+= 4), or individuals without any specified primary diagnosis (
+n
+= 24)) collected during physician appointments. The validation cohort Finland I (
+n
+= 466) was built to replicate the findings from Estonia I (Table S4). This cohort included the plasma samples of the Corogene study
+29
+to represent subjects with CAD/ACS (CVD,
+n
+= 64). The CVD group included samples from patients with chronic coronary artery disease (CAD,
+n
+= 32) and with acute coronary syndrome (ACS,
+n
+= 32) who were diagnosed by coronary angiography, cardiac enzyme and symptomatic findings
+30
+(Table S4). The control group (CTRL,
+n
+= 402) included samples from individuals with no known history of CAD, ACS or MI and who were either healthy (
+n
+= 125) or had different primary diagnoses (
+n
+= 277) (including gum disease (
+n
+= 25),
+30
+breast cancer (
+n
+= 57),
+31
+myasthenia gravis (
+n
+= 129), multiple sclerosis (
+n
+= 20),
+32
+narcolepsy (
+n
+= 16),
+33
+or schizophrenia (
+n
+= 30)).
+To examine confounding of age and gender, matched subgroups were generated from Estonia II and Finland I cohorts using R package “MatchIt”. Estonia II sex and age matched subgroups for CTRL and MI included age and gender matched males from
+No vaccine
+group (
+No vaccine-M-CTRL
+(
+n
+= 13),
+No vaccine-M-MI
+(
+n
+= 18)), and females (
+No vaccine-F-CTR
+L (
+n
+= 8),
+No vaccine-F-MI
+(
+n
+= 12)) (Table S5). Also, age and gender matched males from OPV group were included (
+OPV-M-CTRL
+(
+n
+= 18),
+OPV-M-MI
+(
+n
+= 10) as there were no females in OPV-MI group (Table S5). For Finland I,
+M-CTR
+L (
+n
+= 50),
+M-CVD
+(
+n
+= 50),
+F-CTRL
+(
+n
+= 56), and
+F-CVD
+(
+n
+= 14) subgroups were generated (Table S6).
+Mimotope-variation analysis
+All study samples were analysed using the mimotope-variation analysis method (MVA,
+32
+,
+33
+). In brief, modified random 12-mer peptide phage library (originally derived from Ph.D.-12, New England Biolabs) was amplified according to the manufacturer's protocol. 2 μl of plasma/serum samples, previously precleared to plastic and E. coli/wt M13 phage particles, were incubated with 2.5 μl library (∼5 × 10
+11
+phage particles) and immunoglobulin G (IgG) fraction was recovered using protein G-coated magnetic beads (S1430S, New England Biolabs). IgG-bound phage DNA was analysed by next generation sequencing (Illumina HiSeq, 50-bp single end reads). Sequence data were screened for sequencing errors and known artefacts, yielding specific peptide datasets for further analysis. A brief description of MVA method is provided in Figure S3.
+Data processing and motif clustering
+Data processing was performed as described previously.
+32
+,
+33
+Final dataset consisted of 1,3 × 10
+6
+unique peptides across Estonia I discovery cohort samples. For further analysis, we selected peptides by the criteria that a peptide was to be present in at least 10% of the samples in the study group and detected at least 10 times in one sample. For sequence-based peptide analysis and hypergeometric tests, SPEXS2 algorithm was used (
+http://egonelbre.github.io/spexs2/
+) with the following criteria: hypergeometric p-value <10
+−5
+; motif present in ≥4 distinct peptides; ≥4 fixed amino acid positions. As a result, 3260 and 759 distinct epitopes were identified for HC and MI groups, respectively. As some of the epitopes observed in HC and MI groups were identical, 3711 unique epitope consensuses were found altogether.
+Data analysis and statistical methods
+Fisher scores for unique 3711 epitope consensuses were calculated to find HC and MI group-differentiating epitopes (threshold >0.04). For further analysis, 202 the most characteristic group-differentiating epitopes were selected. Epitope-forming clusters were defined using Pearson correlation matrix analysis with hierarchical clustering of peptides based on log10 abundance values. Visualisation of Pearson correlation matrix was performed using R statistical programming in RStudio environment using “pheatmap” package.
+34
+To define characteristic sequence logos for each cluster, position weight matrices were generated and visualised as sequence logos using in-house “MotifTree” algorithm.
+35
+Pairwise comparisons with Mann-Whitney U test were performed for discovering the difference in antibody response to the peptides of epitopes between analysed groups. All comparisons made are indicated in the figures with brackets between respective groups. In the cases of multiple comparisons, p.adjust function in R was used to adjust p-values using Holm-Bonferroni correction. Boxplots were used to display variation in samples for tested groups and statistical results. Each boxplot indicates the median (
+bold line
+), 25th and 75th percentiles (
+lower
+and
+upper lines
+of the box), the upper whisker of the boxplots extends from upper line of the box to the largest value no further than 1.5 * interquartile range (IQR, the distance between the 25th and 75th percentiles), the lower whisker extends from the lower line of the box to the smallest value at most 1.5 * IQR. Boxplots were created using “ggpubr”
+36
+package in RStudio environment. y-axis of boxplots represents total abundance of peptides meaning the sum of decimal logarithms of the peptide sequence counts detected in one individual sample.
+For selecting the group-differentiating peptides contributing to the 51 epitopes with G-I-X-D consensus sequence, Fisher scores were calculated (threshold >0.03), resulting in 140 unique peptides (TOP140). TOP140 peptide abundance values were used in heatmap image analyses for the visualisation of differences in the antibody response between tested groups. Heatmap image analyses were visualised using ”pheatmap”
+34
+package in RStudio environment.
+Kendall correlation analysis was performed for studying correlations between MVA and ELISA or dot ELISA results and Spearman correlation analysis for studying correlations between age and the strength of antibody response to the G-I-X-D epitope. “ggpubr”
+36
+package in RStudio environment was used to visualise correlation analyses.
+For the initial G-I-X-D epitope identification, IEDB database was used (v3.0, date accessed: 24.03.2021). Since IEDB search engine does not allow searches with undetermined amino acids in the query sequences the peptide sequence G-I-E-D-L was used. The undefined amino acid in G-I-X-D was assigned as glutamic acid (E) based on observational data of amino acids in the peptides contributing to G-I-X-D. Leucine (L) was added to the 4 amino acid motif-based on observational data of amino acids in the peptides contributing to G-I-X-D to lengthen the motif and garner more substantial and specific results.
+To study the origin of G-I-X-D epitope more precisely, peptides characterising Cluster I, II, and III, were selected by Fisher score analysis (TOP258, threshold >0.03). Alignments of TOP258 peptides were performed against 100 amino acid fragments of picornaviruses (Table S2) using standalone BLAST (v. 2.8.1). Alignments were performed using “blastp-short” task
+37
+which is optimised for query sequences shorter than 30 residues (Scoring matrix: PAM30). The t-distributed Stochastic neighbor Embedding (t-SNE) analysis was performed for the visualisation of the alignment results as plots using the “Rtsne” package in R.
+38
+To assess biomarker performance on predicting MI diagnosis, receiver operating characteristic (ROC) analysis was performed on Estonia I cohort (
+n
+= 100;
+Table 1
+). Generalised linear model-based statistical analysis was performed with “glm” function using gaussian distribution and identity link, and visualised with “jtools” package, statistical comparison of different models was done using “anova” function with F-test in R. Also, packages “ggplot2” and “tidyverse”
+39
+in RStudio environment were used for data manipulation and visualisation.
+For age and sex-matched cohort design, the age and sex of study subjects were fixed at the time of sample collection considering that MI samples were collected < 12 h before or after angiography procedures. Finland I cohort CVD samples were collected as in.
+29
+Phage dot ELISA
+M13 phage particles displaying the relevant peptides were printed onto nitrocellulose coated glass slides (10,485,323, Whatman) using SpotBot® 4 arrayer (Arrayit) in four dilutions (1:2, 1:10, 1:100, 1:1000). 1xPBS-20% glycerol and mQ were used as negative controls and human IgG serial dilutions (12–50 ng/µl) as positive controls. Human serum or plasma (1:50), previously precleared to plastic and
+E. coli
+/wild type M13 phage antigens, was used as primary antibody while rabbit anti-human IgG H&L (HRP) (#ab6759, Abcam, RRID: AB_955,434) (1:1000) was used as a secondary antibody. Both antibody incubations were conducted at room temperature for 1 h with agitation. The presence of bound human IgG antibodies was detected using reaction with catalyzed Signal Amplification (CSA) System II, Biotin-Free, HRP, DAB+ (Dako, Agilent, Cat#: K1497), diluted in the substrate buffer (1:100). Results were visualised using Ettan DigeImager (GE Healthcare Life Sciences) and signals (image colour-intensities) quantified using ImageQuant software version 8.1 (GE Healthcare Life Sciences).
+Human coxsackievirus IgG ELISA
+Anti-coxsackievirus B1, B3 and B5 VP1 epitopes serostatus was measured from 14 (7 HC and 7 MI patients) serum or plasma samples. In brief, serological analyses were performed with anti-coxsackievirus IgG ELISA method (ESR134G, SERION ELISA classic) in duplicates according to manufacturer's protocol. Absorbance was measured using SpectraMax Paradigm microplate reader (Molecular Devices). The results were interpreted according to manufacturer's specifications.
+Role of funding source
+We confirm no role of funders in study design, data collection, analysis and interpretation, or writing the report. The corresponding author had full access to all the data of this study and submitted the manuscript for publication.
+Results
+Characterisation of the top antibody response in MI patients
+In order to explore antibody epitope features associated with MI, we generated immunoprofiles of the myocardial infarction patients (MI;
+n
+= 50) and healthy donors (HC;
+n
+= 50) constituting the discovery cohort Estonia I (
+Table 1
+, Figure S1 and Table S1) using the next generation peptide phage display MVA technology
+32
+,
+33
+(Figure S3). In brief, individual plasma or serum samples were incubated with M13 phage-displayed 12-mer random peptide library to capture individual-specific antibody (IgG) repertoires. The DNA of IgG-bound phages was lysed and antigen coding-sequences were amplified using PCR. Then, amplicons were subjected to high-throughput DNA sequencing and the obtained data was translated to peptides underlying the subject- and group-specific immunoprofiles. For delineating antigen recognition patterns, peptides were clustered by using unsupervised hierarchical clustering analysis yielding ultimately in 3711 consensus epitopes. From these, 202 that discriminated the healthy donors from MI patients were selected with the cut-off Fisher score values >0.04. Further Pearson correlation analysis revealed that 75 of the healthy group-specific epitopes (TOP75) formed three distinct clusters: Cluster I, II and III (
+Figure 1
+a). Cluster I comprised of peptides with G-I-X-D consensus, Cluster II of peptides containing W-W-N, and Cluster III of peptides containing [AS]-X-Y-X-[YF]-X-X-K consensus patterns (
+Figure 1
+b). Notably, high-titer antibody response to peptides containing the G-I-X-D pattern was specific for healthy people (
+p
+= 1.5e–10;
+Figure 1
+b), regardless of gender (
+Figures 1
+c and S4). Together, we observed a strong and homogenous antibody response to a few epitopes that was characteristic to healthy and absent or weak in patients with MI (
+p
+= 1e–06 for
+Cluster II, p
+= 6.6e–06 for
+Cluster III
+;
+Figure 1
+b). By assessing the G-I-X-D performance on Estonia I cohort (
+n
+= 100) as a biomarker in predicting MI using receiver operating characteristic (ROC) analysis, we found that measuring antibody response to a single (G-I-X-D) epitope as a biomarker could discriminate MI patients from healthy controls with 64% sensitivity at 84% specificity (AUC 0.740, CI 0.643 to 0.823,
+p
+< 0.0001; Figure S5).
+Conserved epitope harbours the N-terminal G-I-X-D core structure
+Since we observed a strong and rather homogenous antibody response to a few antigenic epitopes that was characteristic to healthy individuals and absent or weak in patients with MI, we analytically validated the MVA findings of the immunogenicity of the biggest G-I-X-D-defined cluster (
+Cluster I
+,
+Figure 1
+a,b) using phage dot ELISA method (
+Figures 2
+a and S6). All TOP140 G-I-X-D epitope containing peptides encompassed G-I-X-D motif N-terminally. Therefore, to examine the importance of G-I-X-D epitope location in the peptide sequence, we analysed phages displaying peptides where G-I-X-D was located either in the N-terminus (
+GI
+E
+D
+VMDVMPMP;
+Figure 2
+a) in reference to peptides or the epitope sequence was located further downstream from the N-terminus (ADGPGGP
+GI
+P
+D
+G; Figure S6). Based on MVA data, samples with either high immunoreactivity to TOP140 peptides containing the G-I-X-D epitope (abundance values > 40;
+HC, nr1–5 and MI, nr1,2
+) or low immunoreactivity (abundance values < 25;
+HC, nr6,7 and MI, nr3–7
+) from Estonia I cohort (Table S1) were selected for analysis. Phage dot ELISA analysis data confirmed the MVA data findings on the antibody reactivity to the G-I-X-D epitope (
+Figure 2
+a), but also established that N-terminal location of the epitope was imperative to discriminate between samples with high and low immunoreactivity (Kendall correlation,
+R
+= 0.6,
+p
+= 0.002;
+Figure 2
+b). Altogether, these analyses confirm that N-terminal G-I-X-D is a highly immunogenic epitope detected in antibody immune response profiles of healthy subjects of Estonia I cohort.
+Conservation of the antibody G-I-X-D epitopes across the enteroviral species
+We next used the immunoprofile data collected from the Estonia I cohort to look for possible associations of the defined motifs with pathogen-associated antigens. Substring searches of the Immune Epitope Database and Analysis Resources (IEDB, date accessed: 24.03.2021;
+www.iedb.org
+) using linear peptides with “GIEDL” sequence that contribute substantially to the harbored G-I-X-D epitope were performed. This resulted in two referenced epitopes with sequences of GIEDLISEVAQGALTLSL (ID 79,229,
+40
+) and GIEDLISEVAQGAL (ID 100,065,
+41
+), respectively, that both were derived of the genome polyprotein of EV-C (human poliovirus type 3). Next, to widen the pool of potential pathogens, substring searches with shorter “GI” sequence across Enteroviruses (ID 12,059, Enterovirus) resulted in 30 records. Data showed that PVs, coxsackieviruses A (CV-A) and coxsackieviruses B (CV-B) all share high sequence similarity encompassing amino acids 1 to 11 downstream of the VP3/VP1-specific protease 3C cleavage site (
+Figure 3
+a and Table S2). Further alignment analysis of peptides from Clusters I, II, and III differentiating the HC group of Estonia I (
+Figure 3
+b and Table S2) confirmed that Cluster I defined by the G-I-X-D consensus epitope was highly specific to the N-terminus of EV-C VP1 antigens (
+Figure 3
+c). Notably, the N-termini of VP1 proteins of the human poliovirus type 3 (PV3), coxsackieviruses A17 (CA17) and A20 (CA20) showed the highest homology with G-I-X-D-containing peptides, whereas peptides of Clusters II and III did not align to EV-C proteomes (
+Figure 3
+b). Next, we investigated whether the G-I-X-D epitope could originate from other picornaviral species. Data showed that in addition to EV-C, G-I-X-D core epitope-containing peptides aligned also to different species of EV-A, EV-B and parechovirus A types (
+Figure 3
+c and Table S2). In addition, high similarity was observed with VP1 N-termini of vaccine-derived polioviruses (VDPVs), namely VDPV3 (VDPV3/EST/Env2008 (GenBank: KC784372.1,
+Figure 3
+a). Of note, analysing our MVA data we found that seroreactivity to the recently described peptide sequences PALTAVETG and PALTAAETG, derived of the VP1 proteins of human PV-1/3 and CV-B1/B3 viruses and also shared by many other picornaviruses,
+42
+did not differentiate MI cases from controls (Figure S7), further confirming the functional relevance of the G-I-X-D findings. Then, we used conventional ELISA method to measure IgG response in Estonia I cohort sera (
+n
+= 14; same samples as in
+Figure 2
+a) against VP1 of several enteroviral species, including coxsackieviruses B1, B3 and B5 and with reported cross-reactivity to poliovirus type 3.
+43
+Interestingly, differential readouts were obtained for all samples analysed and there was a moderate linear relationship with MVA G-I-X-D findings (Kendall correlation,
+R
+= 0.35,
+p
+= 0.079; Figure S8a). However, only a few (
+n
+= 3) serum samples exceeded the thresholds for coxsackieviral IgG seropositivity (Figure S8b). Overall, from this data it can be concluded that the antibody response to G-I-X-D epitopes could stem from the PVs and/or PV vaccine antigens, also from vaccine-derived polioviruses (VDPVs) and/or from alike viral antigens, such of VP1 of EV-B types (coxsackieviruses B), but also other species of picornavirus family.
+Immunoreactivity to G-I-X-D epitope is associated with OPV/IPV use and is weak in patients with myocardial infarction
+We hypothesised that the observed differences in seroreactivity patterns to G-I-X-D could be associated with PV immunisation (Figure S2). To investigate this hypothesis, we created the second stage of the study with the second Estonian discovery cohort (Estonia II, Figure S1) that included samples of individuals (
+n
+= 329) that were grouped according to the year of birth. People born before the year 1959 when no vaccination with OPV against PV was available in Estonia comprised group
+No vaccine
+(
+n
+= 101) (
+Figure 4
+and Table S3). Individuals born in the years of OPV vaccination in Estonia, 1959–2007, comprised group
+OPV
+(
+n
+= 224) and individuals born in the years of IPV vaccination, the year 2008 and later were included in
+IPV
+group (
+n
+= 4) (
+Figures 4
+and S2 and Table S3). Data analysis concluded that high seroreactivity to the G-I-X-D epitope was common to the
+OPV
+group and was low in
+No vaccine
+and
+IPV
+groups (Mann Whitney U test,
+p
+< 0.0001 or
+p
+< 0.05, respectively, Holm-Bonferroni adjustment for 3 comparisons) (
+Figure 4
+a,b). No gender differences in any vaccine groups were detected (
+Figures 4
+a and S9). Additionally, individuals without a history of MI from Estonia II cohort (
+n
+= 309) in the
+OPV
+group showed higher seroreactivity to the G-I-X-D epitope as compared with individuals from
+No vaccine
+and
+IPV
+groups (Mann Whitney U test,
+p
+< 0.001 or
+p
+< 0.05, respectively, Holm-Bonferroni adjustment for 3 comparisons) (Figure S10). However, no correlation between the antibody response to the G-I-X-D epitope and the age of the subjects within the OPV group was found (Spearman correlation,
+R
+= 0.071,
+p
+= 0.3; Figure S11). We further used statistical modelling of data to determine whether vaccination status, age and gender affect antibody response to G-I-X-D epitope, and found that in contrast to OPV vaccination, gender and age had no significant effects on the seroresponse to G-I-X-D epitope (Table S7). Adding an interaction term between age and gender failed to improve the model (F-test,
+p
+= 0.5092). Therefore, we concluded that the antibody response to G-I-X-D epitope did not depend on gender or age, but only on OPV vaccination and MI diagnosis.
+Next, we analysed the Estonia I cohort to evaluate association of the immunoreactivity to G-I-X-D with the risk of MI independent of the poliovirus vaccine exposure. Importantly, patients with MI exhibited a significant decrease in immune response to the G-I-X-D epitope compared to healthy individuals of
+No vaccine
+and
+OPV
+groups (Mann Whitney U test,
+p
+< 0.05, Holm-Bonferroni adjustment for 4 comparisons) (
+Figure 4
+c). Moreover, analysis of subgroups of the Estonia II cohorts matched by the vaccination status, age and gender (Table S5) further confirmed the findings that patients with MI showed significantly reduced response to G-I-X-D epitope compared to people without primary diagnosis of MI (Figure S12).
+Next, to replicate findings of the G-I-X-D epitope association with cardiovascular disease and poliovirus vaccines, we comparatively analysed the data from the immunoprofiles of Finland I validation cohort (
+n
+= 466) (Figure S1, Table S4). IPV has been the predominantly used vaccine by the Finnish national poliovirus immunisation programme, apart from years 1984–1985 with high rate of OPV use (
+https://www.cdc.gov/mmwr/preview/mmwrhtml/00000682.htm
+). Data analysis showed that antibodies against G-I-X-D epitopes were more prevalent in healthy subjects of Estonia I cohort than in the control subjects of Finland I cohort (
+p
+< 0.0001, Holm-Bonferroni adjustment for 4 comparisons,
+Figure 4
+d). However, the anti-G-I-X-D antibody response was significantly lower in CVD (MI or CAD/ACS) subgroup as compared to controls of both Estonia I and Finland I (Mann Whitney U test,
+p
+< 0.0001 and
+p
+< 0.001, respectively, Holm-Bonferroni adjustment for 4 comparisons,
+Figures 4
+d and S13 (CTRL vs ACS)). A weak negative correlation between age and the anti-G-I-X-D seroresponse (Spearman correlation,
+R
+=-0.14,
+p
+= 0.0041) in the Finland I control group (
+n
+= 402) was observed (Figure S14). Therefore, we excluded the effects of age on the observed association between the increased risk of CVD and decreased antibody response to the G-I-X-D epitope. Analysing the age and sex-matched subgroup of the Finland I cohort (Table S6), we found that anti-G-I-X-D antibody response was significantly lower in men with CVD compared to controls (Mann Whitney U test,
+p
+< 0.05, Holm-Bonferroni adjustment for 2 comparisons), whereas no statistically significant effect was seen for women (Mann Whitney U test,
+p
+= 0.83, Holm-Bonferroni adjustment for 2 comparisons), possibly due to the small sample size for this gender group (Figure S15).
+Finally, we used generalised linear model-based statistical modelling across our cohorts (Estonia II, and Finland I) to determine the relationship between the anti-G-I-X-D seroresponse and CVD, taking into account the vaccination status, age and gender (
+Figure 4
+e, Table S8). Our results indicated that vaccination with OPV was strongly associated with an increased anti-G-I-X-D seroreactivity in both men and women (34% and 29%, respectively), whereas vaccination with IPV and increasing age of patients showed slight decreasing but statistically unsignificant trends in the anti-G-I-X-D seroresponse. Importantly, the modelling across all data showed that CVD diagnosis was associated with 36% and 24% drop in the anti-G-I-X-D seroresponse in both men and women, respectively (
+Figure 4
+e, Table S8).
+Altogether, our data conclude that a low titer antibody response to the G-I-X-D epitope is associated with cardiac complications. Our results additionally suggest beneficial effects of polio vaccinations with OPV even in countries that have eradicated poliovirus.
+Discussion
+Herein we identified a highly antigenic epitope located at the N-terminus of VP1 proteins of EV-B and -C type enteroviruses (EVs), including polioviruses (PVs), and observed that strong antibody immune response to this epitope was associated with improved cardiovascular health. Thus, this epitope has the potential as a site of broadly neutralising reactivity against EVs and possibly other species of the picornavirus family. Secondly, the conserved G-I-X-D epitope has potential as blood biomarker for risk assessments of major cardiac events, as poor response against the conserved G-I-X-D epitope was strongly associated with severe cardiac conditions of MI and CAD/ACS. Still, the mechanisms by which inadequate antibody response to the G-I-X-D epitope contributes to the progression of MI need further studies. Lastly, our data highlight the potential beneficial role of heterologous cross-reactive immunity of PV vaccines or natural EV infections against a spectrum of clinical heart conditions.
+Exploratory data analysis of this study using MVA identified an epitope mimicking the N-terminus of VP1 protein of EV-C type and alike viral species that was strongly associated with improved cardiac health (
+Figure 1
+). Namely, poor antibody response to this epitope with G-I-X-D consensus stratified MI subjects from healthy with 64% sensitivity at 84% specificity (Figure S5). Further analytical validation and annotation analyses concluded that the major antigenic site (the N-terminal glycine of the processed VP1 viral antigen) is highly conserved across EVs, in particular among the EV-B and EV-C species, also in PVs and VDPVs, and additionally among other
+Picornaviridae
+(
+Figure 3
+c). Comparative conventional ELISA testing for enteroviral anti-VP1 seroresponse showed limited concordance with MVA findings, further supporting the wider viral origin of the G-I-X-D epitope. These data have global implications. The genus
+Enterovirus
+includes rhinoviruses and EVs (types A to D, with EV-C including PVs 1 to 3) that infect humans.
+44
+The climate and socio-economic factors contribute to the geographic distribution of different EV types.
+44
+,
+45
+In Europe and the United States, for example, EVs are found in 5–12% of the population.
+46
+Most of these belong to EV-B, whereas in Asia, EV-A types are common.
+47
+,
+48
+,
+49
+In contrast, non-polio type EV-Cs are relatively rare.
+45
+Notably, EV genotypes change over time primarily through recombination of both conventional and unconventional EV types that most frequently occurs at non-capsid regions, as reported for EV-As.
+50
+Viruses constituting the oral poliovirus vaccine (OPV) are inherently genetically instable.
+51
+,
+52
+Recombination with other EV-C types into highly divergent strains
+46
+leads to the OPV-derived VDPVs that achieve the level of transmissibility similar to natural PVs
+53
+,
+54
+,
+55
+and can cause acute flaccid paralysis.
+56
+It is well documented that following persistent EV infections, cardiac tissues become inflamed
+57
+and that EV types A and B are responsible for cardiac disease.
+58
+,
+59
+In this study, we show that the G-I-X-D epitope is well-conserved across EVs and even wider across other species of
+Picornaviridae,
+suggesting that heterologous immunity can be mediated by cross-reactive antibodies to shared antigens of this rapidly evolving virus family.
+The immunoprofiling of people of Estonia II cohort born during the OPV vaccination (1959–2007) revealed that high titer antibody response against the G-I-X-D epitope was more common compared to those individuals born before 1959, when no vaccines were available (
+Figure 4
+b), and also compared to the individuals of Finland I cohort, who had mostly received IPV polio vaccine according to the Finnish national immunisation programmes (
+https://www.cdc.gov/mmwr/preview/mmwrhtml/00000682.htm
+) (
+Figure 4
+d,e). These differences in the observed anti-G-I-X-D response could be explained by the difference in the antigenic structure of poliovirus vaccines. Commercial IPVs are produced by incubations with formaldehyde that is known to result in some loss of immunogenicity due to the partial destruction of specific antigenic epitopes.
+60
+Notably, the antibody response to VP3/VP1 cleavage site of PVs has been detected in OPV but not in IPV recipients, thus leaving a gap in the PV-associated immune response.
+61
+Most recent studies have shown high sequence variability of the VP1 N-terminal domain,
+62
+that is externalised in the α-helical conformations for interactions with host cell membranes.
+63
+,
+64
+Despite the VP1 N-terminal hypervariability, the Gly residue of the Q/G dipeptide forming the VP3/VP1 cleavage site
+65
+that is part of the G-I-X-D epitope defined by our study, remains highly conserved.
+66
+Thus, the findings of the current study suggest that the data on the G-I-X-D epitope could be useful in advancing poliovirus vaccines or in testing vaccine efficacy against evolving PV strains. To the best our knowledge, there is neither monoclonal antibody that would correlate with protective properties in humans and be used to estimate polio vaccine potency nor a validated test for the analysis of epitope-specific poliovirus-induced antibody response. This is important, given that the same widely accepted structural rearrangement model of the VP1 capsid proteins is valid across picornaviruses.
+64
+Here we define the role of an EV-associated common epitope as protective against acute CVD events (MI and ACS). The latter is not surprising as EVs have been detected in atherosclerotic plaques
+67
+and, as highlighted recently, in association with MI plaque disruptions.
+68
+In one study, antibody response to EV antigens was detected in 49% of patients with CAD and in 54.3% of those with MI.
+69
+Other studies observed that coxsackievirus B (CV-B) promoted atherosclerosis in animal models.
+70
+However, the mechanisms of how EVs contribute to CVDs are not clear. Based on our study data, inadequate antibody response against the N-terminus of PV1 presenting the G-I-X-D epitope could hypothetically allow direct infection and lytic effects or the poor clearance of the EV species and lead to chronic inflammation of the heart tissue. We observed that anti-G-I-X-D antibody response was relatively lower in subjects of Finland I in general as compared to Estonia I cohort and was determined as particularly low in the MI subgroup of Estonia I and CVD subgroup of Finland I (
+Figures. 4
+d and S13). Based on our modelling data (
+Figure 4
+e), we suggest that these differences could be explained by the differential use of PV vaccines (OPV vs IPV) between countries, also by individual heterologous immunity towards EV/picornaviral species, both of which are essential to support cardiovascular health. Potentially, changes in the gut microbiota composition linked with CVD
+71
+could impair gut immune regulation promoting EV replication.
+72
+Our data highlight the importance of the long-term, stable, and high-titer antibody response against the N-terminal epitope of VP1 antigen of EVs in protecting against severe heart damage (MI, CAD, ACS). However, further studies are needed to establish robust correlations.
+The main strengths of this study are concordant results in two ethnic populations covering a wide age range that the antibody response to a highly antigenic epitope reflects improved cardiovascular health. Additionally, the study includes a comprehensive analysis of the antibody epitope repertoire associated with enteroviruses and cardiovascular health. The main weaknesses are associated with the retrospective study design that we complemented with a descriptive analysis of publicly available data on national immunisation programmes against polio in Estonia and in Finland (Figure S2). We describe a potential biomarker for the assessment of risks associated with severe CVD (MI and ACS) and raise important questions on the role of common viral infections in the heart pathophysiology. The exact mechanisms by which these may lead to heart failure remain to be established. Our results stress the importance of dissecting the role of heterologous immunity against EV infections, also primed by globally used PV vaccines.
+Contributors
+NP, AA, MJ, HS, AR, AP
+(Arno Pihlak)
+,
+and
+KP
+conceived and designed the study.
+AP
+(Anu Planken),
+MP, EK, MRJS, PJT, JKN, AV, DL, JS, PP
+and
+TT
+collected samples and acquired the clinical data.
+NP, AA, JT, HS, AP
+(Arno Pihlak)
+, MJ, AR,
+and
+KP
+analysed and interpreted the data.
+NP, AA, JT, AP, MJ,
+and
+AR
+verified the data.
+EK, PJT, DL, PP, TT,
+and
+KP
+supervised the study.
+NP
+and
+KP
+drafted the manuscript. All authors had access to the data in the study. All authors revised and approved the final manuscript for submission.
+Data sharing statement
+The data are not publicly available due to containing information that could compromise research participant privacy/consent. Any materials that can be shared will be released via a material transfer agreement.
+Declaration of interests
+AP (Arno Pihlak) and KP are inventors of the patent application (PCT Application No. US/14,079,626) filed by Protobios that covers the use of phage display method for manipulating and monitoring humoral immunity. NP, HS, AP (Arno Pihlak), MJ, JT, AR, TT, and KP are affiliated with Protobios Llc. JS reported payment/honoraria from Astra- Zeneca, Amgen, Abbott and Bayer. All other authors declare no competing interests.
+Appendix
+Supplementary materials
+Image, application 1
+Image, application 2
+Acknowledgments
+We thank A.-H. Pool, Department of Neuroscience, University of Texas Southwestern Medical center, for his expertise that supported this work. The members of Protobios team are thanked for their excellent technical assistance. This study was supported by institutional research funding grants of Protobios (5.1-4/20/170, and PRG573) from the Estonian Ministry of Education and Estonian Research Council, respectively, and H2020-MSCA-RISE-2016 (EU734791) and H2020 PANBioRA (EU760921) projects from the European Union, Helsinki University Hospital grants, Mary and Georg C. Ehrnrooth Foundation, and Finnish Eye Foundation. AA, MP and TT were partially supported by
+Estonian Research Council
+(grant PRG805) and European Union through the European Regional Development Fund (Project No. 2014-2020.4.01.15-0012). DL was supported by
+Finska Läkaresällskapet
+and The Finnish Society of Sciences and Letters. AV was supported by
+Magnus Ehrnrooth Foundation
+and Sigrid Jusélius Foundation. JT was partially supported by the grant from Estonian Ministry of Education and Research (2014-2020.4.01.21-0315).
+Supplementary material associated with this article can be found, in the online version, at
+doi:10.1016/j.ebiom.2022.103835
+.

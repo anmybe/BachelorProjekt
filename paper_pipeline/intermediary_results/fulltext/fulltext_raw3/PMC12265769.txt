@@ -1,0 +1,761 @@
+pmc
+100895309
+27065
+Cytotherapy
+Cytotherapy
+Cytotherapy
+1465-3249
+1477-2566
+12265769
+40493000
+10.1016/j.jcyt.2025.04.069
+nihpa2089047
+Article
+Immune Monitoring after Cell Therapy and Hematopoietic Cell Transplantation: Guidelines by the ISCT Stem Cell Engineering Committee
+Oppizzi
+Linda
+1
+*
+Hosszu
+Kinga
+2
+*
+**
+Prockop
+Susan
+3
+Bidgoli
+Alan
+4
+Bonfim
+Carmen
+5
+Ciccocioppo
+Rachele
+6
+Ruggeri
+Annalisa
+7
+Maiers
+Martin
+8
+Bertaina
+Alice
+1
+†
+Boelens
+Jaap Jan
+2
+†
+1
+Division of Hematology, Oncology, Stem Cell Transplantation and Regenerative Medicine, Department of Pediatrics, Stanford University, Stanford, California, USA
+2
+Stem Cell Transplantation and Cellular Therapies, Memorial Sloan Kettering Cancer Center, New York, New York, USA
+3
+Dana Farber/Boston Children’s Hospital Cancer and Blood Disorders Center, and Department of Pediatrics, Harvard Medical School, Boston Massachusetts, USA
+4
+Division of Blood and Marrow Transplantation, Children’s Healthcare of Atlanta, Aflac Blood and Cancer Disorders Center, Emory University, Atlanta, Georgia, USA
+5
+Pediatric Blood and Marrow Transplantation Division and Pele Pequeno Principe Research Institute, Hospital Pequeno Principe, Curitiba, Brazil
+6
+Gastroenterology Unit, Department of Medicine, A.O.U.I. Policlinico G.B. Rossi & University of Verona, Verona, Italy
+7
+Unit of Hematology and Bone Marrow Transplantation, IRCCS San Raffaele Hospital, Vita-Salute San Raffaele University, Milan, Italy
+8
+Center for International Blood & Marrow Transplant Research (CIBMTR), NMDP, Minneapolis, Minnesota, USA
+*
+˙Equal contribution, first co-authors.
+†
+˙Equal contribution, senior co-authors.
+**
+Correspondence: Kinga Hosszu, Department of Pediatrics, Memorial Sloan Kettering Cancer Center, 1275 York Ave, New York, NY 10065.
+hosszuk@mskcc.org
+(K. Hosszu).
+4
+7
+2025
+8
+2025
+05
+5
+2025
+16
+7
+2025
+27
+8
+888
+902
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+This is an open access article under the CC BY-NC-ND license (
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+)
+Allogeneic hematopoietic cell transplantation and cell therapy (TCT) are potentially lifesaving treatments for patients with high-risk hematologic malignancies and life-threatening acquired and genetic hematologic disorders. However, these treatments face significant challenges, particularly in the risks of relapse and severe toxicity, leading to both relapse-related and non-relapse mortality (NRM). The immune system plays a critical role in controlling these risks, but predictive immune biomarkers for relapse and toxicity have yet to be fully established.
+To better understand factors driving outcomes in TCT recipients, researchers are increasingly relying on minimally invasive specimens for analysis, such as peripheral blood. These liquid biopsies provide a cost-effective and rapid means to evaluate parameters such as minimal residual disease and genomic mutation profiles. The evolution of these techniques opens new possibilities for monitoring immune reconstitution, including tracking immune cell development and the diversity of surface and secreted biomarkers.
+This review presents a practical guideline for establishing an immune monitoring program tailored to the TCT environment. By adopting a proactive, harmonized approach, such programs can enhance prognosis prediction and enable early relapse detection, potentially surpassing traditional diagnostic methods. While recent advancements are promising, considerable progress is still needed to make liquid biopsies a routine component of clinical practice.
+immune reconstitution
+immune monitoring program
+functional immune recovery
+cellular biomarkers
+transplantation immunology
+Introduction
+Despite the numerous transplantation and cellular therapy (TCT) studies ongoing worldwide, standardized regimens for immune monitoring remain limited due to the gap between investigational studies and established protocols. This gap stems from lack of sufficient evidence regarding factors that influence tumor–immune interactions as well as the diversity in methods used for data generation. Under TCT, we consider the whole range of different transplant platforms, including
+ex vivo
+T-cell depletion techniques, add backs, and T-replete platforms. Systematically profiling immune signatures, including secreted biomarkers and phenotypic cell profiles, would improve our understanding of immune reconstitution (IR) and immune composition, thereby accelerating therapeutic development and improving patient outcomes. The identification of predictive molecular and cellular markers is essential for stratifying patient risk and anticipating therapy responses.
+What to Monitor
+While TCT trials often include immune monitoring, standardized guidelines for quantifying cell subsets following TCT are still lacking. Recent findings suggest that the concurrent use of multiple immune monitoring tests holds great promise in identifying surrogate and predictive markers relevant to clinical decisions and the optimization of immunotherapies. These tests should evaluate both numeric and functional reconstitution to encompass evaluations of cellular composition, activation, exhaustion, homing capacity, secreted biomarkers, and immune cell function. This comprehensive approach to immune monitoring represents a significant advancement in the pursuit of personalized therapeutic interventions while acknowledging the numerous uncertainties within the field.
+Cytometric immune reconstitution
+Even after over 50 years of bone marrow transplantation (BMT), there remains uncertainty about what constitutes normal or favorable immune reconstitution in terms of cell numbers and functionality. Acquiring more comprehensive data in this area is crucial, as it could not only inform therapeutic approaches and interventions but also enhance our ability to prognosticate outcomes following transplantation. Immune monitoring should rely on systematic and in-depth characterization of immune cells to understand specific immune alterations after TCT. This characterization should include measuring the kinetics of
+in vivo
+expansion and
+de novo
+cell production (e.g., T cells and B cells), including minor, specialized, and/or unconventional immune cell subsets.
+Kinetics of Immune Reconstitution
+Immune reconstitution, the timely cellular recovery and regain of function of a donor-derived immune system, is closely connected with complication-free success and recovery after TCT [
+1
+–
+4
+]. Therefore, monitoring the pace of immune cell recovery can potentially provide a clinically applicable readout to guide therapy or intervention. Phenotypic (cellular) immune recovery after TCT follows a general pattern. However, the exact kinetics vary (
+Supplementary Table 1
+) depending on multiple factors, including the stem cell source, age (donor and recipient), primary diagnosis, donor relation, graft manipulation, pre-transplant conditioning regimen (chemotherapy and/or total body irradiation), post-transplantation immunosuppressive therapies, and the development and treatment of graft-versus-host disease (GVHD), viral reactivations/infections, and other diseases [
+5
+–
+9
+]. As a general pattern, the innate arm of the immune system reconstitutes first. Granulocytes and monocytes are the first to reconstitute, reestablishing processes critical for the repair of conditioning-related tissue damage, followed closely by natural killer (NK) cells, which are hypothesized to have a role in graft versus leukemia (GVL) effects while mitigating the incidence of acute GVHD (aGVHD) [
+3
+,
+4
+,
+10
+–
+12
+]. T cells and B cells of the adaptive immune system recover more slowly; their timing is influenced by factors such as the graft source composition, degree of HLA matching, donor/recipient age, the use of
+in vivo
+or
+ex vivo
+depletion techniques and the pharmacokinetics (PK) of agents used for conditioning (e.g., thymoglobulin [ATG], fludarabine, etc.), which can induce further
+in vivo
+T-cell depletion or suppression (
+Supplementary Table 1
+) [
+8
+,
+11
+,
+13
+–
+16
+]. This general pattern of immune recovery elucidates the optimal times for sample collection during immune monitoring and provides insights into the anticipated changes throughout the monitoring process.
+The reconstitution of T cells occurs in two distinct stages. During the first months after TCT, under optimal conditions, the primary mechanism driving T-cell reconstitution is the homeostatic expansion of the infused T cells [
+17
+–
+21
+]. Subsequently, typically 3 months or more post-transplantation,
+de novo
+donor T cells are produced in the thymus as the reservoir of transplanted progenitor cells undergo selection, differentiation, and maturation [
+16
+,
+22
+,
+23
+]. In scenarios involving
+in vivo
+and
+ex vivo
+T-cell depletion, T-cell reconstitution relies more heavily on this latter mechanism. However, thymic reconstitution can be significantly influenced by factors such as the recipient’s age, the presence of GVHD, the use of specific conditioning agents, and viral reactivations, potentially resulting in substantial delays or, in some cases, incomplete recovery. Slow reconstitution, particularly of T cells, is widely recognized as a major contributor to adverse outcomes, including opportunistic infections, GVHD, and relapse [
+24
+–
+27
+].
+Thus, effective immune reconstitution is pivotal to the success of TCT, serving as a critical determinant of patient outcomes and guiding therapeutic decisions. Close monitoring of the timing and pattern of immune cell recovery, with innate immune cells recovering faster than adaptive immune cells, enables precise collection of patient samples, provides insights into clinical progress, and facilitates timely interventions to address slow T-cell recovery, ultimately improving patient outcomes. Surveilling absolute and relative frequencies of major immune subsets, along with absolute lymphocyte counts, is crucial when planning a recipient’s revaccination schedule, one of the clinical decisions most directly impacted by reconstitution data. Routine immune monitoring of cellular reconstitution is typically conducted using flow cytometry in clinical laboratories, utilizing smaller, more focused antibody panels. However, some centers (e.g., Memorial Sloan Kettering Cancer Center in New York, New York, USA) have begun incorporating high-dimensional cytometry to simultaneously identify multiple cell types in samples. This approach is particularly advantageous when monitoring multiple cell types at once, especially when the sample contains a limited number of cells.
+Major and minor cell subsets of interest.
+While no standardized guidelines currently exist for immune monitoring after TCT, many centers perform at least basic monitoring of common leukocyte subsets to assess immune recovery. These subsets–including leukocytes (CD45
++
+), B cells (CD19
++
+), NK cells (CD56
++
+) and T cells (CD3
++
+)–as well as major subsets like helper T (CD3
++
+CD4
++
+), cytotoxic T (CD3
++
+CD8
++
+), and plasma cells (CD19
++
+CD138
++
+), can be monitored by flow cytometry and are commonly used for clinical decision-making. Some centers further analyze T-cell maturation by tracking the transition from recent thymic emigrants/naïve to effector/memory cells, which provides insights into lymphoid proliferation and can predict thymic output recovery. Associations between CD4
++
+reconstitution and clinical outcomes have been observed across transplant types and age groups, though similar associations for other subsets, such as CD8
++
+and NK cells, remain unvalidated across diverse settings, warranting further study in larger cohorts.
+A primary challenge in interpreting and comparing immune studies is the variability in panels’ selection, sample handling, and gating strategies across centers, complicating data interpretation and the applicability of findings in different clinical contexts.
+CD4
++
+Helper T cells:
+Recent studies have demonstrated that CD4
++
+T cell recovery is strongly associated with improved outcomes, including higher survival rates in patients who develop aGVHD [
+26
+,
+28
+–
+32
+], reduced adenoviral reactivation, and a lower incidence of relapse [
+33
+]. Timely reconstitution of CD4
++
+T cells–defined as reaching >50 CD4
++
+T cells/
+μ
+L at 2 consecutive measurements within 100 days post-HCT–has been identified as a significant predictor of leukemia-free survival, non-relapse mortality (NRM), and overall survival [
+28
+,
+32
+,
+34
+]. This association has been consistently observed across transplant settings and age groups, supported by CD4
++
+count data from multiple centers. Thus, identifying patients who fail to reach this CD4
++
+T-cell threshold within 100 days post-transplant can guide clinical decisions, such as increasing monitoring for viral or infectious threats and maintaining prophylactic therapies.
+Other subsets–including CD8
++
+T cells, B cells, and NK cells–have also demonstrated potential associations with outcomes such as GVHD incidence, viral reactivation, relapse, and survival. However, the parameters for monitoring these subsets are less well defined. Moreover, minor and unconventional cell subsets remain in the early stages of research. Key cell types and parameters are summarized next and in
+Table 1
+.
+CD4
++
+Regulatory T (Treg) cells:
+A growing body of research suggests that the recovery of CD4
++
+Treg cells, identified by the FoxP3 marker in flow cytometry, correlates with improved clinical outcomes. Treg reconstitution has been associated with reduced incidence of relapse and adenoviral reactivation, and increased survival in patients with GVHD [
+35
+,
+36
+]. CD4
++
+Tregs are characterized by the expression of IL2R
+α
+(CD25) and Forkhead box protein 3 (FOXP3), with little to no surface expression of the interleukin-7 receptor
+α
+chain (CD127) [
+37
+–
+40
+]. They are typically identified by flow cytometry as CD4
++
+CD25
++
+FOXP3
++
+or CD4
++
+CD25
++
+CD127
+low/−
+. Because FOXP3 is an intranuclear marker requiring fixation and permeabilization, CD127 is more frequently used in clinical assays [
+37
+].
+Treg cells have shown both a diagnostic and predictive value as a biomarker for aGVHD. Low peripheral blood Treg counts are associated with the development of aGVHD and higher NRM [
+41
+–
+44
+]. One proposed mechanism for GVHD prevention is allo-antigen recognition, which leads to expansion of highly immunosuppressive Treg clones. However, this immunosuppressive effect may also inhibit the initial activation of alloreactive T cells, potentially diminishing the GVL effect [
+44
+–
+46
+]. Additionally, some data indicates that the Treg content of the graft may have prognostic value for Treg reconstitution and incidence of GVHD, although this correlation appears stronger in recipients of myeloablative conditioning and may weaken with reduced intensity conditioning [
+47
+]. Several studies have shown that the infusion of
+ex vivo
+activated and expanded Tregs can reduce aGVHD severity [
+48
+,
+49
+]. Therefore, monitoring the Treg content of the graft and the Treg-to-total T-cell ratio during the first months post-HCT could be valuable for predicting both GVHD and GVL outcomes [
+50
+], though larger, multicenter studies are needed to confirm these findings across different transplant settings.
+T Follicular Helper (Tfh) Cells:
+Emerging data on Tfh cells, including studies by Mi et al. [
+51
+], highlight their potential role in GVHD and autoimmune conditions. The involvement of Tfh cells in immune regulation suggests that they may play a role in both GVHD pathogenesis and broader immune reconstitution dynamics, warranting further investigation as part of immune monitoring protocols in TCT.
+CD8
++
+Cytotoxic T Cells:
+The steady reconstitution of CD8
++
+cells plays a vital role in defending against viral infections, preventing reactivations, and reducing the risk of relapse [
+52
+]. For example, CD8
++
+T cells have been shown to effectively control viral load and symptoms of cytomegalovirus (CMV), a frequent clinical concern often linked to NRM [
+53
+]. Additionally, an early peak in CD8
++
+T-cell counts may also correlate with a higher risk of aGVHD [
+54
+]. Interestingly, this risk is mitigated by a small subset of CD8
++
+T cells with regulatory functions expressing typical Treg markers such as FoxP3 [
+55
+]. Therefore, it is informative to monitor the reconstitution of CD8
++
+T cells with subset-specific markers, such as FoxP3, as well as assess the CD8-to-CD4 cell ratio [
+26
+].
+Gamma delta T (
+γδ
+T) cells:
+While
+γδ
+T cells comprise only a small percentage (2%–10%) of total CD3
++
+T cells and are often overlooked, more attention has been directed toward this population owing to their distinct, non-major histocompatibility complex (MHC)–restricted T-cell receptors (TCRs). These receptors allow
+γδ
+T cells to mediate lymphocyte responses to small proteins and stress antigens without being alloreactive [
+56
+], thus posing a lower risk for GVHD. In some small cohort analyses, the reconstitution of
+γδ
+T cells has been associated with improved event-free survival, and decreased incidence of aGVHD [
+57
+,
+58
+]. However, the data is still very preliminary and larger cohort analyses are needed.
+NK cells:
+NK cells are the first lymphocyte subset to reconstitute post-HCT [
+3
+,
+54
+] and their early reconstitution is integral to protection from viral infections or reactivations as well as the GVL effect. High NK cell counts early after transplant (>150 NK cells/mL at day 30 post-HCT) have been indicated as an independent determinant of positive outcomes [
+59
+]. Stratifying NK cells based on the expression of CD56 (bright, intermediate, or dim) and CD16 (+ or −) can provide insights into their activation and differentiation states. CD56
+bright
+CD16
+−
+NK cells are overrepresented during early immune reconstitution, can secrete regulatory cytokines, and may be lower in patients who develop aGVHD [
+60
+,
+61
+]. In the longer term, elevated counts of CD56 intermediate cells are associated with chronic GVHD (cGVHD) [
+61
+]. However, results correlating NK cells with outcomes have been mixed. For instance, a recent multi-institutional study found no clinical association with NK cell reconstitution and outcomes in pediatric patients transplanted for malignant disease, while it confirmed a strong link between CD4
++
+T-cell and B-cell immune reconstitution and NRM risk [
+26
+]. This underscores the need for more multicenter studies to explore the associations between NK cells and clinical outcomes.
+Invariant NKT cells (iNKT):
+This subpopulation of T cells has gained recent interest owing to their TCR-expressing double-negative (CD4
+−
+CD8
+−
+) phenotype and diverse immunologic functions [
+62
+]. Despite being slower compared with other populations, such as B and CD8
++
+T cells [
+63
+], iNKT reconstitution has been correlated with improved outcomes [
+64
+]. Elevated levels of iNKT cells within the graft have been linked to subsequent increased numbers in HCT recipients. Moreover, higher iNKT-containing graft doses have shown a correlation with a reduced incidence of aGVHD, attributed to their capacity to suppress T-cell proliferation and IFN-
+γ
+production [
+65
+]. A similar positive association has been found for grafts containing iNKT cells with enhanced expansion abilities [
+66
+]. Considering these findings, iNKT cells emerge as a subset deserving further investigation in the HCT setting.
+Mucosal-associated invariant T (MAIT) cells:
+MAIT cells are a subset of innate-like T cells that are primarily involved in antimicrobial immunity and tissue repair. They are characterized by the expression of CD3, V
+α
+7.2, and CD161, with the majority being CD8
++
+CD161hi cells [
+67
+]. MAIT cells recognize microbial ligands derived from the riboflavin biosynthesis pathway, primarily produced by pathogenic bacteria and members of the intestinal microbiota [
+68
+,
+69
+]. Dysbiosis, or microbial imbalance, can lead to the increased production of these ligands, thereby triggering MAIT cell activation and contributing to immune responses [
+69
+]. In the context of transplantation, MAIT cells play a crucial role in both pathogen defense and tissue repair. Upon activation, MAIT cells can enhance the clearance of bacterial infections and promote wound healing through the expression of tissue repair genes such as
+Furin
+and
+CCL3
+[
+70
+,
+71
+]. Additionally, MAIT cells are implicated in the pathogenesis of GVHD, as studies have shown that MAIT cell counts post-transplantation are correlated with GVHD incidence [
+63
+,
+72
+]. Their ability to rapidly respond to microbial and non-microbial signals, including the secretion of IL-17, further underscores their potential as immunomodulatory agents in transplantation [
+73
+]. MAIT cells may also contribute to viral reactivation and relapse. Their ability to respond to TCR-independent activation via cytokine receptors (such as IL-12 and IL-15) positions them as key players in the early immune response against viral pathogens, particularly in the absence of microbial ligands [
+74
+]. For example, MAIT cells have been shown to be involved in the defense against viruses such as Epstein-Barr virus (EBV) and CMV, which are common causes of reactivation in transplant recipients [
+75
+]. Furthermore, high MAIT cell counts have been associated with improved survival outcomes in some studies, as they contribute to maintaining mucosal integrity and modulating the immune environment [
+63
+,
+76
+]. Conversely, dysregulation of MAIT cell populations could lead to an increased incidence of viral infections or relapse, underscoring the importance of these cells in post-transplantation immune surveillance and recovery.
+In addition to their role in transplantation, MAIT cells may also play a role in the immune response following adoptive cell therapies, such as chimeric antigen receptor (CAR) T-cell therapy. Their ability to respond to both TCR-dependent and TCR-independent signals positions them as potential contributors to the inflammatory responses seen in CAR T-cell therapy. Furthermore, MAIT cells possess tissue repair functions, including the secretion of IL-17 and other growth factors, which may help mitigate some of the organ toxicity and mucosal damage associated with CAR T-cell treatment [
+70
+]. However, the role of MAIT cells in CAR T-cell therapy remains underexplored. More research is needed to fully understand how their presence or activation could influence treatment outcomes, immune reconstitution, and the risk of complications such as tumor relapse or adverse immune responses. Given their multifunctional roles, MAIT cells may represent an important target for modulating the immune response after TCT to improve outcomes.
+T-cell exhaustion:
+The amplitude and quality of the T-cell response can be downregulated by various immune checkpoint inhibitory receptors (e.g., PD-1, CTLA-4, TIM-3, LAG-3, 2B4, KLRG1, GITR), which control pathways hardwired into the immune system. Under normal physiologic conditions, these inhibitory pathways help maintain self-tolerance. However, unwanted immune resistance may develop when their expression is dysregulated by tumors [
+77
+–
+80
+]. Evaluating T-cell exhaustion post-TCT is crucial because it provides insights into the immune system’s capacity to respond effectively to infections and malignant cells. Persistent T-cell exhaustion can hinder immune reconstitution, increase the risk of infections, relapse, and impact overall transplant outcomes. T cells with dysregulated/increased expression of inhibitory receptors have poor effector function as defined by low proliferative capacity, low cytokine production (e.g., IL-2, TNF-
+α
+, IFN-
+γ
+), and a transcriptional profile distinct from that of functional effector or memory T cells [
+81
+–
+83
+]. Eventually, these cells become anergic and undergo apoptosis. T cells that express multiple inhibitory receptors, especially those that express PD-1, have been associated with relapse in multiple studies [
+84
+–
+86
+]. Monitoring exhaustion markers allows for the timely identification of dysfunctional T cells and the implementation of therapeutic strategies to restore immune competence and improve patient prognosis.
+HLA-DR
++
+antigen presenting cells:
+These cells play a pivotal part in modulating both adaptive and innate immune responses and influencing the overall T cell response. The efficacy of antigen presentation is contingent upon the quantity of HLA-DR molecules, and HLA-DR expression has been linked to outcomes. Notably, preliminary data suggest that the abundance of HLA-DR
++
+plasmacytoid dendritic cells may serve as a predictor for the occurrence of acute and chronic GVHD [
+87
+–
+89
+]. Conversely, a low number of HLA-DR
++
+classical dendritic cells (DCs) has been associated with heightened risk of relapse, mortality, and the onset of aGVHD [
+90
+–
+92
+]. However, a more comprehensive analysis of larger cohort studies and follow-up investigations is needed to validate these findings and establish the correlation between HLA-DR
++
+antigen presenting cells and clinical outcomes.
+B cells:
+B lymphocytes, characterized by the surface expression of CD19 (overall) and CD20 (mature), play a pivotal role in immune function through immunoglobulin production. Their reconstitution after TCT holds clinical significance, contributing to the prevention of respiratory bacterial infections and influencing GVHD. The impact of pre-transplant conditioning regimens, such as total body irradiation (TBI), as well as aGVHD and its treatment can significantly affect B-cell recovery, leading to prolonged low levels during the first 3 months post-TCT [
+93
+]. Furthermore, the functional impairment of B cells may persist for months after their numerical reconstitution [
+94
+]. While graft source has not been shown to influence long-term B-cell frequencies, an increasing number of centers are choosing CD19
++
+B-cell depletion in the graft to reduce the risk of EBV-associated post-transplant lymphoproliferative disease (EBV-PTLD) development [
+95
+,
+96
+].
+However, in the vulnerable period following TCT, early reconstitution of B cells (>25/
+μ
+L within 100 days) has been identified as an immune predictor for reduced NRM, with potential complementary impact from CD4
++
+cells, as indicated in the work of Troullioud and colleagues [
+26
+]. Furthermore, in the first year post-TCT, a higher frequency of B-cell precursors and early B cells is linked to a lower incidence of both acute and chronic GVHD [
+97
+]. The long-term impact of B-cell reconstitution is evident, with delayed reconstitution correlating with the development of GVHD [
+98
+]; the quality of reconstitution is equally critical. B cells overproducing B-cell activating factor (BAFF) have been associated with cGVHD [
+99
+] and NRM [
+100
+]. Beyond considering B-cell maturation and function, attention must be given to novel B lymphopoiesis in the early months post-TCT.
+Monitoring functional reconstitution
+Even after achieving phenotypic reconstitution, functional reconstitution may still be impaired by factors such as the cytokine environment, immunosuppressive therapies, and the time needed to recapitulate ontogeny processes. Therefore, it is important to assess the function of various cell subsets post-transplant.
+Cellular function
+Functional assays fall into two main categories: (1) measurement of antigen-recognition capacity and (2) assessment of immune effector capacity.
+Traditional assessments of antigen-recognition capacity began with assays measuring mitogen-induced cell function. These assays gauge immune effector functions as well, including proliferation, clonal expansion, and target cell lysis in response to mitogens such as phorbol 12-myristate 13-acetate (PMA)/ionomycin and phytohemagglutinin (PHA). Although positive results at 3 months post-TCT have been associated with improved long-term outcomes [
+101
+], these findings are scarce and require multi-center validation [
+102
+]. Cytokine secretion assays, like ELISPOT and flow cytometry, evaluate the quantity or frequency of cytokine-secreting cells, providing insights into cellular activation and response upon stimulation. Cytotoxicity assays–designed to assess cell lysis or death–have since been developed for various cell types, including NK cells [
+103
+], T cells [
+104
+], mast cells [
+105
+], and
+γδ
+T cells [
+106
+], offering insights into functional status and potential correlations with clinical outcomes.
+As the field evolved, immune monitoring shifted towards more specific antigen-recognition assays. Flow cytometric assays now assess the expression of inhibitory signaling molecules (e.g., PD-L1/PD-1, CD80, CD86, CTLA4) on DCs and T cells, a measure closely associated with the GVHD versus GVL effects of transplantation [
+107
+–
+109
+]. T-cell responses can also be quantified through markers of proliferation and activation (e.g., CD29, CD69, CD137, CD154) or by cytokine secretion profiles (e.g., IFN-
+γ
+, IL-2, TNF-
+α
+) [
+110
+,
+111
+]. For a more targeted approach, MHC molecule antigen specificity can be evaluated by flow cytometry-based tetramer-binding assays, which identify specific T-cell responses with high sensitivity. [
+112
+–
+117
+].
+In recent years, diagnostic assays have adopted specific antigens to assess T-cell activation and proliferation in response to common viral peptides from CMV, EBV, and adenovirus (AdV) [
+93
+], replacing older methods that used other antigens such as tetanus or candida. This transition towards tailored assays allows for a more precise evaluation of immune response in individual patients. These specific assays have been used to provide important correlations with other clinical data [
+118
+].
+Finally, mixed leukocyte reactions (MLRs) test cellular alloreactivity by combining peripheral blood mononuclear cells (PBMCs) from 2 individuals, highlighting differences in CD4
++
+versus D8
++
+clonotype recruitment [
+119
+]. However, many of these assays require
+ex vivo
+manipulation, which may limit their ability to fully replicate
+in vivo
+conditions.
+In addition to assessing T-cell function post-TCT through traditional functional assays, evaluating the immune response to vaccination is a critical component of understanding immune recovery. This approach helps determine the effectiveness of immune reconstitution, as it directly measures the ability of T cells to mount a protective response, providing valuable insights into both the quantity and quality of the immune reconstitution post-transplant. Distinct revaccination schedules and guidelines are yet to be established.
+Although various assays exist to assess cell function, there is insufficient data available to draw definitive correlations between cell function and immune recovery (IR) outcomes. Many studies rely on older case reports and lack validation across multiple centers. Consequently, there is a pressing need to identify, develop, and validate methods that can establish associations between early cell function and long-term outcomes after TCT.
+Future perspective:
+Although traditional functional assays remain pivotal in immune monitoring, a wide range of advanced technologies is emerging, offering the potential to deepen our understanding of immune reconstitution after TCT. Techniques such as high-dimensional cytometry, proteomics, metabolomics, single-cell RNA sequencing (scRNA-seq) and multi-omics approaches can reveal detailed insights into immune cell function, differentiation, and activation states that are difficult to capture using conventional bulk assays. Similarly, T-cell and B-cell receptor deep sequencing allows for high-resolution tracking of receptor diversity, clonal expansion, and the identification of immune signatures associated with clinical outcomes.
+While these methods are not yet widely incorporated into routine immune monitoring owing to technical complexity, cost, and limited standardization, they represent promising avenues for future research and clinical application. Incorporating these tools into prospective studies could greatly enhance our ability to predict immune recovery, identify patients at risk of complications, and develop targeted interventions. However, current data linking functional immune assays to meaningful clinical outcomes remain sparse, often relying on small or single-center studies. This underscores the need for systematic development, validation, and standardization of advanced immune monitoring techniques to establish robust associations between immune function and long-term post-TCT outcomes.
+Secreted biomarkers
+Cytokines and chemokines in both patients and donors have been extensively studied in the TCT setting as potential predictive factors for overall event-free survival, GVHD, and relapse. These studies have identified a number of individual biomarkers and biomarker panels with diagnostic and/or prognostic value (see
+Table 2
+).
+Among these, notable biomarker panels have demonstrated significant associations with clinical outcomes. For example, a 4-biomarker panel comprising interleukin (IL)-8, IL-2 receptor-
+α
+(IL-2R
+α
+), tumor necrosis factor receptor-1 (TNFR1), and hepatocyte growth factor (HGF) has been validated for confirming aGVHD and predicting survival [
+120
+]. Additionally, a simpler panel of IL-2R
+α
+and HGF, excluding TNFR1 and IL-8, has shown a strong association with aGVHD [
+121
+].
+A high ratio of amphiregulin (AREG) to epithelial growth factor (EGF) has been associated with poor outcomes, predicting lower overall survival and higher NRM. This ratio is specifically elevated in aGVHD but not in cGVHD [
+122
+]. Additionally, a 3-biomarker panel comprising regenerating islet-derived 3-a (REG3a), hepatocyte growth factor (HGF), and cytokeratin-18 fragments (KRT18) has been identified as indicative of liver GVHD [
+123
+]. For cGVHD, a distinct 4-biomarker panel–including chemokine (C-X-C motif) ligand 9 (CXCL9), suppression of tumorigenicity 2 (ST2), matrix metalloproteinase 3 (MMP-3), and osteopontin (OPN)–has been shown to correlate with disease activity [
+124
+].
+Several individual biomarkers have also shown predictive or diagnostic value, such as IL-6 (severe aGVHD and NRM) [
+125
+], IFN-
+γ
+(aGVHD) [
+126
+], ST2 (aGVHD, NRM, low response to aGVHD treatment) [
+125
+,
+127
+–
+136
+], IL-18 and IL-18 binding protein (IL-18BP; aGVHD) [
+137
+–
+139
+], IL-8 (cGvHD) [
+121
+,
+140
+], soluble B-Cell activating factor (sBAFF) (cGvHD, treatment response to corticosteroids, NRM) [
+98
+–
+100
+,
+141
+], CXCL9 (cGVHD) [
+128
+,
+142
+–
+144
+], CXCL10 (cGVHD) [
+142
+,
+144
+], CCL15 (cGVHD, NRM) [
+145
+], soluble CD163 (cGVHD) [
+146
+], elafin (skin aGVHD) [
+147
+,
+148
+], and T-cell immunoglobulin mucin-3 (TIM3) and REG3a (grade 3–4 GI-specific GVHD) [
+123
+,
+125
+,
+129
+,
+149
+–
+151
+].
+As evidenced from the list above, a substantial portion of the existing research on secreted biomarkers predominantly centers around their associations with GVHD and NRM. Notably, a handful of factors have been identified to correlate with relapse, including upregulation of inhibitory and costimulatory markers such as PD-L1, Bt-H3, CD80, and PVRL2, along with the downregulation of activation and adhesion molecules such as CD11a/LFA-1 [
+152
+]. Metabolic biomarkers, specifically an increased ratio of stearic to palmitic fatty acids (SA/PA) have also been associated with a higher risk of relapse [
+153
+]. Nevertheless, it is noteworthy that these and other proteins (e. g., IFN-
+γ
+, ST2, REG3
+α
+, TNFR1) exhibit contrasting effects on GVHD [
+107
+,
+154
+]. Their influence on the balance between GVHD and GVL thus requires further study.
+To date, numerous cytokines and chemokines have been extensively studied in the context of TCT, serving as validated biomarkers with significant diagnostic and prognostic value for various outcomes. Although this provides a strong foundation for further exploration, additional studies are needed to validate these and other biomarkers across diverse cohorts and post-TCT outcomes. Notably, soluble markers may offer distinct advantages over cellular markers in certain contexts. The monitoring of biomarkers for immune reconstitution and function is typically performed using well-established techniques (ELISA, ELISpot, flow cytometry, etc.). Enzyme-linked immunoassays (ELISAs), including simple, single-biomarker formats, are commonly used to quantify soluble biomarkers such as cytokines, chemokines, and other proteins. ELISpot and flow cytometry–based assays enable the quantification of cytokine-secreting cells, offering a sensitive method for assessing both the quantity and activation status of different immune subsets.
+Additionally, many advanced techniques hold great potential to deepen our understanding of immune dynamics. Proteomics techniques such as mass spectrometry and platforms such as Olink can measure protein expression, secretion, and modifications, helping to identify biomarkers that are predictive of disease outcomes or response to therapy. Similarly, metabolomics can offer unique insights into metabolites and metabolic pathways, providing information on how immune cells adapt to the environment in TCT. Multi-omics approaches, which integrate data from multiple platforms, can ultimately allow for even more comprehensive understanding of immune responses. These advanced techniques hold great potential for identifying biomarkers and predicting clinical outcomes although their use is not yet standard in routine monitoring.
+Recommended Approaches for Immune Monitoring
+A robust immune monitoring program is essential for evaluating immune reconstitution post-TCT. Such a program serves a dual purpose: guiding clinical decision-making while advancing research to deepen our understanding of immune reconstitution and uncovering new predictive markers. All centers should be able to implement immune monitoring to serve the first purpose of guiding clinical decisions, ensuring consistency in optimizing patients’ care. However, conducting immune monitoring to also advance research requires additional resources and infrastructure, which may only be feasible for some specialized centers. The initial and most critical step involves determining the appropriate frequency and types of assays, ensuring that they align with the center’s specific objectives and available resources. Establishing consistent sample collection practices and employing standardized analytical methods are vital for generating reliable and impactful results, as detailed in
+Table 3
+. The following sections outline best practices and key considerations for each stage of the process.
+Immune monitoring to guide clinical decisions
+Clinical immune monitoring following TCT provides a comprehensive evaluation of a patient’s immune status and function for both diagnostic and therapeutic purposes. This involves tracking immune cell counts to quantify major populations such as T cells, B cells, and NK cells, as well as specific subsets such as CD4
++
+and CD8
++
+T cells, Tregs, memory T cells, and various B-cell subsets. Functional assessments–including cytokine production, cytotoxic activity, proliferation in response to antigens or mitogens, and responses to revaccination–are conducted over time to evaluate immune recovery and identify complications such as GVHD or opportunistic infections. These evaluations are typically performed in clinical laboratories. Immune cell populations are analyzed using flow cytometry, whereas functional assessments rely on cytokine secretion assays (via flow cytometry or ELISA), proliferation assays, and polymerase chain reaction for pathogen detection to assess immune activation, regulation, and competence. Serial assessments occur at various timepoints post-transplantation, with frequency and timing customized to the patient’s clinical condition, transplant type, and institutional protocols. Adherence to clinical laboratory standards ensures high-quality and consistent immune monitoring in clinical laboratories. Recommended timepoints and assays for immune monitoring to guide clinical decisions are summarized in
+Table 3
+.
+Impact of immune monitoring on clinical interventions
+Immune monitoring has the potential to significantly impact clinical decision-making, particularly in guiding interventions that could improve patient outcomes. While specific protocols are still evolving, certain immune parameters already inform clinical management decisions. For instance, when CD4
++
+T cell counts fall above 50 cells/
+μ
+L, some centers withhold antiviral therapy. Some centers defer vaccination until CD4
++
+counts exceed 200 cells/
+μ
+L, aiming to ensure that immune recovery is sufficient to mount a protective response. Antigen-specific viral monitoring can also assist in tailoring vaccination schedules and antiviral therapy based on individual reactivation risk. Because of the lymphocyte ablation regimen, and despite the donor’s serological status, HCT recipients lose their immunity from vaccine-preventable diseases within months from the transplant. Post-HCT revaccinations are thus highly important for patient protection and, although general guidelines have been created both in American (Centers for Disease Control and Prevention) and European (European Society for Blood and Marrow Transplantation [EBMT]) settings [
+56
+], schedules are up to physicians’ discretion. Revaccination strategies remain highly variable across centers, partly due to the lack of standardized triggers and the inconsistent assessment of immune reconstitution [
+57
+].
+Another example of immune monitoring guiding clinical intervention is found in the context of TCR
+αβ
+-depleted transplants, in which tracking T-cell subsets, such as
+αβ
+and
+γδ
+T cells, provides crucial insights into immune reconstitution and the potential risk of complications (i.e., viral reactivations and GVHD). Similarly, monitoring T cell activation markers can offer early warning of GVHD. Although definitive thresholds are still lacking, these approaches highlight the growing role of real-time immune monitoring in informing clinical decision-making.
+The future standardization of immune monitoring across centers will be critical in refining these strategies and improving clinical outcomes. A harmonized approach to immune monitoring would facilitate the integration of immune monitoring into routine clinical care, ensuring that patients receive the most effective and timely interventions based on consistent immune reconstitution profiles. Moreover, it would provide the foundation for establishing evidence-based guidelines that could inform future clinical practices and improve long-term outcomes for patients receiving transplants and immunotherapy. However, challenges remain in developing such harmonized protocols and identifying the governing body to oversee their creation. Achieving this goal would require collaboration across multiple studies and centers, ensuring that data are consistent and reliable. Experts in the field are already generating some of this data. Ideally, however, it should be centralized under the oversight of immune monitoring consortia or organizations such as the Center for International Blood and Marrow Transplant Research (CIBMTR) and EBMT. Once harmonized, this data could be compiled into actionable guidelines, shaping future clinical practices and improving patient care on a global scale.
+Immune monitoring following cell therapies
+While the principles of immune monitoring following hematopoietic stem cell transplantation (HSCT) and T-cell therapies or genetically modified hematopoietic stem cell therapies (GMHSCTs) are very similar, guidelines for the latter are even less defined, with scarce literature reporting varying practices. Much like for HSCT, monitoring post-TCT must consider the type of graft manipulation and conditioning regimen. In the TCT setting, the treated disease may also influence immune reconstitution and prophylaxis decisions, as baseline immune competence is often more robust compared with patients with hematologic malignancies undergoing HSCT. In a 2024 review, John and colleagues [
+155
+] propose standard and risk-adapted recommendations for harmonized longitudinal GMHSCT monitoring. The review highlights the importance of immune cell subset phenotyping and functional testing at a minimum schedule of days +30, +90, +180, and +365 following therapy. Further emphasis is placed on weekly infection surveillance and prophylaxis tailored to patient history and serostatus.
+Despite these advances, there remains a pressing need to standardize immune monitoring strategies following cell therapies, as variation in practices may influence patient outcomes. Importantly, real-time immune monitoring after GMHSCT or T-cell therapies could help guide prophylactic, vaccination, or even immunomodulatory interventions, much like in the HSCT setting. As for HSCT longitudinal studies, additional analysis of specific lymphocyte subsets’ presence and function is possible through research laboratories.
+Immune monitoring for research purposes
+Immune monitoring assays are categorized into 2 types: clinical assays, conducted in clinical labs (accredited by the Clinical Laboratory Improvement Amendments, International Organization for Standardization, or equivalent organization) for clinical and research purposes, and research assays, used exclusively for investigative studies. Clinical assays analyze fresh samples for basic immunophenotyping, supporting clinical decisions and aligning with standard of care (SOC) practices. Importantly, hospital information systems are primarily linked to SOC testing. For research purposes, a dedicated research database is essential to fully utilize data for investigations, while clinical decisions remain grounded on SOC testing.
+Figure 1
+illustrates the key components and their connections.
+While clinical assays align with SOC practices, research tests are designed to explore a broader spectrum of immune parameters for investigative purposes. In research settings, additional samples may be collected at specific timepoints not typically included in SOC clinical protocols. These research assays often adopt an exploratory and discovery-driven approach, aimed at uncovering novel insights into the dynamics of immune reconstitution following TCT.
+Patient population identification
+Selecting a well-defined research cohort tailored to a center’s resources and expertise is crucial for the success of an immune monitoring program. While monitoring as many patients as possible is ideal, inclusion criteria should prioritize accessibility to patient groups, the feasibility of collecting samples at all required timepoints, and access to relevant clinical health records for correlative studies. Special attention is needed when analyzing data from groups differing in age or transplant type, as combining such data can present challenges. For any samples outside standard care, Institutional Review Board (IRB) approval and informed patient consent are required. Patient selection should remain inclusive, regardless of cancer type or conditioning regimen.
+Timepoint selection
+An effective immune monitoring program requires longitudinal evaluation of IR at regular predefined timepoints based on IR kinetics, published data, and center-specific research goals, with additional sampling for significant clinical events. The first 3 months post-HCT involve rapid immune changes, making biweekly collections ideal for capturing dynamics during engraftment and conditioning therapies. Monthly collections during the first year and quarterly collections in the second year are recommended to investigate long-term immune responses. While frequent sampling improves data precision, financial constraints and biobank storage limitations must also be considered.
+Table 3
+summarizes the recommended timepoints, their usage, and prioritization.
+Specimen collection and considerations
+Effective cohort monitoring relies on scalable systems for sample collection, processing, archiving, and study execution, with electronic records documenting sample location, type, collection and processing dates, patient identifiers, and timepoints. Key factors such as collection tube type, volume, timing, and storage temperature must be standardized. Peripheral blood is the preferred sample type due to its minimal discomfort, cost-effectiveness, and compatibility with a wide range of established assays [
+156
+,
+157
+]. Blood volumes, typically ranging from 8–20 mL per timepoint, are collected based on patient safety and logistical considerations, with adjustments or postponements made as needed to accommodate patient conditions.
+Anticoagulants such as EDTA or sodium heparin should align with assay requirements, as they preserve most cell subsets with minimal impact on population proportions [
+158
+–
+161
+]. Samples should be processed within 24 hours to avoid cell loss, particularly for populations with short half-lives (e.g., neutrophils: 6–8 h [
+162
+], eosinophils: 18 h [
+163
+], monocytes: 24–48 h [
+164
+]). Unprocessed samples can be stored at room temperature for up to 24 hours, or at 4°C if delays occur [
+165
+], though low temperatures may degrade surface marker expression [
+166
+]. Consistency in anticoagulant use is essential, as ethylenediaminetetraacetic acid (EDTA) and sodium heparin may yield non-comparable results for some parameters [
+166
+]. Future assay planning should ensure consistency in sample types for proteomic analyses, as some assays accommodate both serum (from anticoagulant-free red-top tubes) and plasma (from sodium heparin or EDTA).
+Stakeholders and infrastructure
+An integral aspect of immune monitoring design is the identification and coordination of various teams responsible for sample collection, delivery, processing, storage, and analysis
+Figure 2
+. The initial step involves delineating the program budget and financial coverage, considering timelines, number of patients, and more. Subsequently, each component of the process should be defined, along with the corresponding team responsible, and taking into account available and established facilities. Principal team components fall within 3 groups: clinical (physicians, nurses, advanced practice providers), administrative (project managers, regulatory specialists, clinical research coordinators), and research personnel (laboratory technicians, data analysts, and scientists). The clinical team includes physicians and nurses involved in TCT and subsequent patient care as well as clinical laboratory staff. As mentioned in
+Table 4
+, all members of this group should be aware of established immune monitoring studies and practices, and trained or updated periodically. The clinical group is responsible for placing and confirming sample orders as well as drawing them and ensuring pick up by appropriate personnel. The administrative group has the main responsibilities of (1) monitoring protocol adherence and handling IRB and further legal matters and (2) ensuring efficient communication between the research and clinical groups. These functions are crucial to the smooth operation of a study. Lastly, the research team should include all individuals who process and analyze patient samples. The research team should be very clear on and familiar with samples and timepoints collected as well as processing protocols, planned assays, and inventory upkeep. Communication between administrative and clinical as well as administrative and research groups is strongly recommended in the form of weekly meetings. All personnel involved in immune monitoring should be up-to-date with expected upcoming samples. Further key steps are summarized in
+Table 4
+.
+Establishing and validating protocols
+A successful immune monitoring program requires selecting and validating assays aligned with specific scientific goals, clinical relevance, and available resources. This involves harmonizing assay protocols, developing uniform standard operating procedures, and utilizing both fresh and cryopreserved samples to ensure consistency and scalability.
+Table 5
+outlines key considerations and actionable steps for designing the program’s infrastructure and engaging stakeholders effectively.
+Flow cytometric analysis
+As previously mentioned, the first and most common approach to laboratory immune monitoring is through phenotype analysis by flow cytometry. Basic panels can be performed by a center’s clinical laboratory, while more advanced examination will require the means of a research laboratory (
+Table 3
+).
+Supplementary materials
+include, alongside basic sample isolation and storage protocols, flow cytometry panels (
+Supplementary Table 2
+) and gating strategies (
+Supplementary Figure 1
+) employed by our centers, as well as a common staining protocol.
+Supplementary Table 2
+lists an immune phenotyping panel with markers shared across multiple centers. If a 14-color panel is not feasible, the first 9 markers listed still constitute a thorough panel for major lymphocyte populations.
+Once desired markers and suitable fluorochromes have been established [
+167
+], ensuring accurate and reproducible results is critical and requires multiple steps. Reproducibility and comparability must be kept in consideration both within the performing laboratory and between multiple laboratories or centers [
+168
+].
+We first recommend single-color antibody titration in order to gauge the appropriate volume of antibody per sample and to avoid background nonspecific binding [
+169
+]. Compensation is then the most fundamental step to accurate multi-color panel design. Compensation can be conducted with healthy donor cells [
+170
+] or beads in most cases [
+171
+] and should be repeated monthly or any time the panel is changed.
+For gate-setting purposes, internal negative controls (i.e., cells stained but not expressing the antigen of interest) are a useful addition to unstained controls [
+172
+]. Fluorescence-Minus-One (FMO) controls are recommended for small populations and required for spectral cytometry. Appropriate gate setting for functional, baseline-expressed markers such as CD25 may be elusive even with FMOs and IgG controls since the positive population remains unknown. In these cases, we recommend repeating the chosen panel on healthy donor cells with and without 72-hour mitogen stimulation. While the size of the positive population is determined empirically, the true border between positive and negative cells is made clearer by comparison between stimulated and control conditions. It is important to keep in mind that a baseline expression of activation markers may be seen on both patient and healthy donor cells and should not be cause for immediate concern. In more recent years, due to the increasing amount and complexity of flow cytometric data, automated gate setting has risen in popularity. This method holds considerable value owing to its efficiency and reduction of human error, highlighting the usefulness of FMOs [
+173
+]. However, various validated pipelines exist with none in particular established for clinical data analysis, and new strategies are still being developed [
+174
+–
+176
+].
+Lastly, the most direct way to test comparability between laboratories is to perform analysis on aliquots of the same sample. Overall, the user(s) performing flow cytometric analysis should be thoroughly trained and familiar with the instrument as well as the type and timing of samples analyzed. The data produced is of paramount importance for current monitoring as well as future studies. Therefore, it should be organized and stored carefully and methodically.
+Data analysis
+Efficient data analysis is critical as immune monitoring datasets grow in size and complexity. Systematic data handling enables the identification of significant markers and their correlation with clinical outcomes. High-quality clinical data collection–capturing variables such as infections, viral reactivation, vaccination, conditioning protocols, minimal residual disease, relapse, and GVHD–minimizes statistical confounding. Essential data should include patient and donor demographics, graft type, conditioning regimen, and post-transplantation events.
+Analyzing deviations in phenotypic and functional reconstitution provides valuable insights, with reliable absolute lymphocyte counts (ALCs) used to validate flow cytometry data. Consistent sampling and gating protocols across centers are vital for comparability. While exploratory panels can be effective, standardized protocols ensure robust and harmonized data interpretation. Consistency is also crucial in the storage and organization of both research and clinical data. Clear and regular archiving of data allows for efficient analysis, especially when stratifying reconstitution data by other clinical variables. Furthermore, methodical recording of data within a center enhances comparability between multiple centers, leading to more harmonized, significant results.
+As datasets expand and results become more complex, in-depth biostatistics skills become increasingly necessary. Bioinformatics, including artificial intelligence (AI), play a crucial role in efficient and unbiased analysis, identifying significant markers and complex correlations within immune reconstitution. However, large sample sizes and comparability across centers remain essential for generating statistically meaningful results.
+Conclusion
+This review underscores the essential role of a robust immune monitoring program for evaluating IR and immune function in human TCT recipients. These programs not only support clinical decision-making but also drive advancements in research. Ensuring consistency in best practices–from patient monitoring to sample analysis–is vital for generating reliable and meaningful results. Optimizing patient selection, timepoint determination, and specimen collection significantly enhances program efficiency. Standardizing and harmonizing practices across centers will enable the study of larger cohorts, which is essential for a more comprehensive understanding of how immune reconstitution impacts clinical outcomes. Such efforts will also help elucidate the roles of specific immune cell subsets in controlling diseases, managing infections, and addressing immune dysregulation after TCT and immune effector cell (IEC) therapy. Despite over 5 decades of advancements in bone marrow transplantation, significant gaps remain in understanding IR dynamics, highlighting the necessity of collaboration across institutions.
+Moreover, in clinical trials, adopting standardized markers and methodologies will yield more comparable outcomes, facilitating cross-study analyses and broader insights.
+As data availability evolves, deep bioinformatics analysis presents innovative solutions for handling large datasets, uncovering nuanced patterns, and identifying novel correlations that traditional methods may overlook. However, the limitations posed by small cohorts and inconsistent data collection practices emphasize the importance of establishing consensus on normal ranges and adopting harmonized protocols.
+Through the integration of cutting-edge technologies, collaborative research, and standardized practices, the field of immune monitoring in TCT is poised to achieve significant advancements, ultimately improving patient outcomes and furthering the understanding of immune reconstitution dynamics.
+Supplementary Material
+MMC1
+Supplementary material associated with this article can be found in the online version at doi:
+10.1016/j.jcyt.2025.04.069
+.
+Acknowledgments
+JJB and KH acknowledge the support of the National Cancer Institute Cancer Center Support Grant No. P30 CA008748.
+Declaration of competing interest
+Jaap Jan Boelens has done consulting for Advanced Clinical, Sanofi, Sobi, Immusoft, SmartImmune, and Merck Research funding: Sanofi. Martin Maiers is Vice President, Center for International Blood and Marrow Transplant Research (CIBMTR), Minneapolis, Minnesota, USA, and NMDP, Minneapolis, Minnesota, USA. Susan Prockop receives support for the conduct of clinical trials through Boston Children’s Hospital from AlloVir, Atara, and Jasper; is Inventor of intellectual property related to development of third-party viral-specific T cell program with all rights assigned to Memorial Sloan Kettering Cancer Center; receives honoraria from Pierre Fabre, Regeneron. Consulting CellEvolve, Century Therapeutics and VOR, DSMB Stanford University and NYBC. Carmem Bonfim has done consulting for Zodiac, Amgen, and Novartis. All other authors have no competing interests to disclose.
