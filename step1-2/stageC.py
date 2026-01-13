@@ -18,7 +18,7 @@ load_dotenv()
 
 
 # === EINSTELLUNGEN ===
-BASE_DIR = Path.home() / "BachelorProjekt" / "paper_pipeline" / "intermediary_results"
+BASE_DIR = Path.home() / "BachelorProjekt" / "step1-2" / "intermediary_results"
 INPUT_FILE = BASE_DIR / "stageB_metadata3.json"
 TEXT_DIR = BASE_DIR / "fulltext" / "fulltext_raw3"
 CHUNK_DIR = BASE_DIR / "chunks_gemini_semantic_serial3"

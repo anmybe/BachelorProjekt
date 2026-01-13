@@ -4,19 +4,24 @@ import google.generativeai as genai
 import os
 from pathlib import Path
 import time
+from dotenv import load_dotenv
+
+load_dotenv()
+
 
 
 # ---------------------------------------------------
 # CONFIG
 # ---------------------------------------------------
-BASE_DIR = Path.home() / "BachelorProjekt"
-INPUT_JSON = BASE_DIR / "last_step" / "final_biomarker_compendium5.json"
-OUTPUT_CSV = "biomarker_summary3.csv"
+BASE_DIR = Path.home() / "Programming" / "BachelorProjekt"
+INPUT_JSON = BASE_DIR / "step5" / "result_step4.json"
+OUTPUT_CSV = "test_biomarker_summary.csv"
 
 MODEL = "gemini-2.5-flash"  # free model
 
-# SET YOUR GEMINI API KEY DIRECTLY
-genai.configure(api_key="AIzaSyCoTjmHS7ugwRiVG4j_fvuBG8HpdS6QG8Y")
+# SET YOUR GEMINI API KEY FROM ENV
+genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
+
 
 
 # ---------------------------------------------------
@@ -24,9 +29,9 @@ genai.configure(api_key="AIzaSyCoTjmHS7ugwRiVG4j_fvuBG8HpdS6QG8Y")
 # ---------------------------------------------------
 
 def query_gemini(biomarker_name, findings):
-    prompt = f"""
+   prompt = f"""
     You are a sports medicine and exercise physiology expert.  
-    You must analyze the biomarker strictly in the context of:
+    Your analysis MUST stay strictly within the domain of:
 
     - exercise physiology  
     - training load monitoring  
@@ -38,7 +43,8 @@ def query_gemini(biomarker_name, findings):
     - muscle damage and repair  
     - cardiovascular and endocrine adaptation  
 
-    Ignore general medical or disease-related relevance unless it directly influences athletic performance or training capacity.
+    Ignore all disease-related or non-athletic findings unless they directly affect training, recovery, or performance.  
+    If a study has NO athletic context, explicitly state this and avoid speculation.
 
     ----------------------------------------
     DATA
@@ -56,21 +62,18 @@ def query_gemini(biomarker_name, findings):
     - The output MUST ALWAYS contain the field "document_ids".  
     - It MUST ALWAYS be a list of strings.
 
-    2. Summarize all activity contexts (athlete population, intervention, training state).
+    2. Summarize all activity contexts (athlete population, intervention, training state).  
+    If none exist → state "No athlete or exercise context reported."
 
-    3. Summarize all observed effects concisely.
+    3. Summarize all observed effects concisely.  
+    Do NOT include mechanistic speculation beyond what is in the findings.
 
-    4. Summarize clinical implications ONLY through a sports-science lens:
-    - How does this biomarker inform training?
-    - How useful is it for monitoring adaptation, stress, performance, or recovery?
+    4. Summarize implications ONLY through a sports-science lens:
+    - Does this biomarker help understand training stress, adaptation, performance, or recovery?
+    - If the findings do NOT support athletic interpretation → clearly state that.
 
-    5. Rate the SPORTS relevance (1–10) using:
-
-    10 = Core biomarker in sports physiology (lactate, VO2max-related, CK, HRV, cortisol, testosterone)  
-        8–9 = Strong recovery/training-load markers used in elite sports  
-        6–7 = Moderately useful indirect markers (creatinine, urea, general inflammation markers)  
-        3–5 = Weak relevance to training decisions  
-        1–2 = No practical use for sports diagnostics (oncology markers, cancer miRNA, PRS for disease)
+    5. Rate SPORTS relevance (1–10) using the provided scale.
+    If findings are non-athletic → give a low but justified score.
 
     ----------------------------------------
     BIOMARKER GROUP CLASSIFICATION
@@ -87,6 +90,7 @@ def query_gemini(biomarker_name, findings):
     7. "muscle_damage"
 
     Rules:
+    - Choose ONLY based on physiological function of the biomarker itself.
     - A biomarker can belong to multiple groups.
     - If uncertain → leave empty.
     - Do NOT invent new groups.
@@ -97,7 +101,7 @@ def query_gemini(biomarker_name, findings):
 
     Return ONLY a JSON object:
 
-    {{
+    {
     "biomarker": "{biomarker_name}",
     "document_ids": [...],
     "activity_context_summary": "...",
@@ -105,7 +109,9 @@ def query_gemini(biomarker_name, findings):
     "sport_specific_implication_summary": "...",
     "relevance_score_sport": number,
     "biomarker_groups": [...]
-    }}
+    }
+    """
+
     """
 
 
@@ -114,6 +120,10 @@ def query_gemini(biomarker_name, findings):
 
     # Extract correct text content
     try:
+        if not response.candidates:
+             print("ERROR: No candidates returned from Gemini.")
+             print(response)
+             return {}
         raw = response.candidates[0].content.parts[0].text
     except Exception as e:
         print("ERROR: Gemini returned no text. Full response:")
@@ -141,18 +151,25 @@ def query_gemini(biomarker_name, findings):
 # ---------------------------------------------------
 
 def main():
+    if not os.path.exists(INPUT_JSON):
+        print(f"Error: Input file not found at {INPUT_JSON}")
+        return
+
     with open(INPUT_JSON, "r", encoding="utf-8") as f:
         data = json.load(f)
 
     rows = []
 
-    for biomarker in data:
-        name = biomarker["biomarker_name"]
-        findings = biomarker["findings_by_activity"]
+    # TEST MODE: Only process the first biomarker
+    print("Running in TEST MODE: Processing only the first biomarker...")
+    for biomarker in data[:1]:
+        # Adjusted fields for result_step4.json structure
+        name = biomarker.get("standard_name", "Unknown")
+        findings = biomarker.get("aggregated_source_findings_DEBUG", [])
 
+        print(f"Processing: {name}")
         llm_output = query_gemini(name, findings)
-        time.sleep(7)  # prevent 429 rate limit errors
-
+        
         occurrence_count = len(findings)
 
         
@@ -172,6 +189,11 @@ def main():
         rows.append(row)
 
     df = pd.DataFrame(rows)
+    # Print the result to console for immediate visibility
+    print("\n--- TEST RESULT ---")
+    print(df.to_string())
+    print("-------------------\n")
+    
     df.to_csv(OUTPUT_CSV, index=False)
     print("CSV created:", OUTPUT_CSV)
 

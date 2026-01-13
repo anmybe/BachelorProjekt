@@ -2,7 +2,7 @@ import json
 import os
 
 def merge_metadata_files():
-    base_dir = "paper_pipeline/intermediary_results"
+    base_dir = "step1-2/intermediary_results"
     files_to_merge = [
         "stageB_metadata.json",
         "stageB_metadata2.json",

@@ -1,5 +1,5 @@
 import json
-import pandas as pd
+import csv
 import google.generativeai as genai
 import os
 from pathlib import Path
@@ -14,11 +14,12 @@ load_dotenv()
 # CONFIG
 # ---------------------------------------------------
 BASE_DIR = Path.home() / "Programming" / "BachelorProjekt"
-INPUT_JSON = BASE_DIR / "last_step" / "result_step4.json"
-OUTPUT_CSV = "test_biomarker_summary.csv"
+INPUT_JSON = BASE_DIR / "step5" / "result_step4.json"
+OUTPUT_CSV = "biomarker_summary_step4.csv"
 
 MODEL = "gemini-2.5-flash"  # free model
 
+# SET YOUR GEMINI API KEY DIRECTLY
 # SET YOUR GEMINI API KEY FROM ENV
 genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
 
@@ -29,7 +30,7 @@ genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
 # ---------------------------------------------------
 
 def query_gemini(biomarker_name, findings):
-   prompt = f"""
+    prompt = f"""
     You are a sports medicine and exercise physiology expert.  
     Your analysis MUST stay strictly within the domain of:
 
@@ -101,7 +102,7 @@ def query_gemini(biomarker_name, findings):
 
     Return ONLY a JSON object:
 
-    {
+    {{
     "biomarker": "{biomarker_name}",
     "document_ids": [...],
     "activity_context_summary": "...",
@@ -109,9 +110,7 @@ def query_gemini(biomarker_name, findings):
     "sport_specific_implication_summary": "...",
     "relevance_score_sport": number,
     "biomarker_groups": [...]
-    }
-    """
-
+    }}
     """
 
 
@@ -120,10 +119,6 @@ def query_gemini(biomarker_name, findings):
 
     # Extract correct text content
     try:
-        if not response.candidates:
-             print("ERROR: No candidates returned from Gemini.")
-             print(response)
-             return {}
         raw = response.candidates[0].content.parts[0].text
     except Exception as e:
         print("ERROR: Gemini returned no text. Full response:")
@@ -151,51 +146,77 @@ def query_gemini(biomarker_name, findings):
 # ---------------------------------------------------
 
 def main():
-    if not os.path.exists(INPUT_JSON):
-        print(f"Error: Input file not found at {INPUT_JSON}")
-        return
-
     with open(INPUT_JSON, "r", encoding="utf-8") as f:
         data = json.load(f)
 
-    rows = []
+    # --- FAULT TOLERANCE: CHECK EXISTING PROGRESS ---
+    processed_biomarkers = set()
+    output_file = BASE_DIR / "step5" / OUTPUT_CSV
 
-    # TEST MODE: Only process the first biomarker
-    print("Running in TEST MODE: Processing only the first biomarker...")
-    for biomarker in data[:1]:
-        # Adjusted fields for result_step4.json structure
-        name = biomarker.get("standard_name", "Unknown")
-        findings = biomarker.get("aggregated_source_findings_DEBUG", [])
+    if output_file.exists():
+        with open(output_file, "r", encoding="utf-8") as f:
+            reader = csv.reader(f)
+            header = next(reader, None)
+            if header:
+                # Assuming "Biomarker" is the first column (index 0)
+                for row in reader:
+                    if row:
+                        processed_biomarkers.add(row[0])
+        print(f"Resuming... Found {len(processed_biomarkers)} already processed biomarkers.")
+    else:
+        # Create file and write header if it doesn't exist
+        with open(output_file, "w", newline="", encoding="utf-8") as f:
+            writer = csv.writer(f)
+            writer.writerow([
+                "Biomarker", "Document IDs", "Activity Context Summary", 
+                "Effect Summary", "Sport Implications", "Relevance for Sports (1–10)", 
+                "Biomarker Groups", "Occurrences in Dataset"
+            ])
+        print(f"Created new output file: {OUTPUT_CSV}")
 
-        print(f"Processing: {name}")
-        llm_output = query_gemini(name, findings)
-        
-        occurrence_count = len(findings)
-
-        
-
-        row = {
-            "Biomarker": llm_output.get("biomarker", ""),
-            "Document IDs": ", ".join(llm_output.get("document_ids", [])),
-            "Activity Context Summary": llm_output.get("activity_context_summary", ""),
-            "Effect Summary": llm_output.get("effect_summary", ""),
-            "Sport Implications": llm_output.get("sport_specific_implication_summary", ""),
-            "Relevance for Sports (1–10)": llm_output.get("relevance_score_sport", ""),
-            "Biomarker Groups": ", ".join(llm_output.get("biomarker_groups", [])),
-            "Occurrences in Dataset": occurrence_count
-        }
-
-
-        rows.append(row)
-
-    df = pd.DataFrame(rows)
-    # Print the result to console for immediate visibility
-    print("\n--- TEST RESULT ---")
-    print(df.to_string())
-    print("-------------------\n")
+    total_biomarkers = len(data)
     
-    df.to_csv(OUTPUT_CSV, index=False)
-    print("CSV created:", OUTPUT_CSV)
+    # Open file in APPEND mode for continuous writing
+    with open(output_file, "a", newline="", encoding="utf-8") as f:
+        writer = csv.writer(f)
+
+        for i, biomarker in enumerate(data):
+            # Adjusted fields for result_step4.json structure
+            name = biomarker.get("standard_name", "Unknown")
+
+            if name in processed_biomarkers:
+                print(f"Skipping {i+1}/{total_biomarkers}: {name} (Already processed)")
+                continue
+
+            findings = biomarker.get("aggregated_source_findings_DEBUG", [])
+
+            try:
+                llm_output = query_gemini(name, findings)
+            except Exception as e:
+                print(f"Failed to process {name}: {e}")
+                continue
+            
+            # time.sleep(7)  # Removed rate limiting for paid key
+
+            occurrence_count = len(findings)
+
+            row = [
+                llm_output.get("biomarker", ""),
+                ", ".join(llm_output.get("document_ids", [])),
+                llm_output.get("activity_context_summary", ""),
+                llm_output.get("effect_summary", ""),
+                llm_output.get("sport_specific_implication_summary", ""),
+                llm_output.get("relevance_score_sport", ""),
+                ", ".join(llm_output.get("biomarker_groups", [])),
+                occurrence_count
+            ]
+
+            writer.writerow(row)
+            # Flush immediately to ensure data is saved to disk
+            f.flush()
+            print(f"Processed {i+1}/{total_biomarkers}: {name}")
+
+    print("Processing complete.")
 
 
 if __name__ == "__main__":

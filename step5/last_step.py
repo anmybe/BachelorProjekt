@@ -13,7 +13,7 @@ import time
 # CONFIG
 # ---------------------------------------------------
 BASE_DIR = Path.home() / "BachelorProjekt"
-INPUT_JSON = BASE_DIR / "last_step" / "final_biomarker_compendium5.json"
+INPUT_JSON = BASE_DIR / "step5" / "final_biomarker_compendium5.json"
 OUTPUT_PDF = "biomarker_summary2.pdf"
 OUTPUT_CSV = "biomarker_summary2.csv"
 

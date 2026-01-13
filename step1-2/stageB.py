@@ -10,7 +10,7 @@ from pathlib import Path
 from bs4 import BeautifulSoup
 
 # ==== EINSTELLUNGEN ====
-BASE_DIR = Path.home() / "BachelorProjekt" / "paper_pipeline" / "intermediary_results"
+BASE_DIR = Path.home() / "BachelorProjekt" / "step1-2" / "intermediary_results"
 INPUT_FILE = BASE_DIR / "stageA_metadata3.json"
 TXT_DIR = BASE_DIR / "fulltext_raw3"
 TXT_DIR.mkdir(parents=True, exist_ok=True)

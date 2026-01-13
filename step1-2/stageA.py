@@ -13,7 +13,7 @@ from dotenv import load_dotenv
 # ==== EINSTELLUNGEN ====
 SEARCH_TERM = '(measur* OR determin* OR monitor* OR quantitativ*) AND health* AND blood AND humans[MeSH Terms] AND ("sports medicine" OR "regenerative medicine" OR "athletic performance" OR "exercise physiology" OR training OR athletics OR "sports injury" OR "sports nutrition" OR "musculoskeletal health") AND (biomarker* OR "blood analysis" OR "blood testing" OR "blood parameters") AND (overtraining OR"muscle damage" OR inflamation OR regenerat* OR recovery OR "anabolic response")'
 MAX_RESULTS = 1000
-SAVE_DIR = Path.home() / "BachelorProjekt" / "paper_pipeline" / "intermediary_results"
+SAVE_DIR = Path.home() / "BachelorProjekt" / "step1-2" / "intermediary_results"
 SAVE_DIR.mkdir(parents=True, exist_ok=True)
 OUT_PATH = SAVE_DIR / "stageA_metadata3.json"
 
