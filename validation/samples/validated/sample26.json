@@ -1,0 +1,13 @@
+{
+    "pmid": "40710348",
+    "fidelity_score": 8,
+    "hallucination_score": 7,
+    "direction_accuracy_score": 9,
+    "completeness_score": 8,
+    "overall_rating": "good",
+    "issues": [
+        "Includes speculative treatment effects not directly tested",
+        "Overinterprets EPC/CEC ratio biological meaning",
+        "Mixes discussion hypotheses with primary findings"
+    ]
+}

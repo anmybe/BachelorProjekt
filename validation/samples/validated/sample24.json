@@ -1,0 +1,13 @@
+{
+    "pmid": "32764926",
+    "fidelity_score": 8,
+    "hallucination_score": 8,
+    "direction_accuracy_score": 9,
+    "completeness_score": 7,
+    "overall_rating": "good",
+    "issues": [
+        "AFP-L3/AFP reference cutoffs misstated (negative threshold wrong)",
+        "Overstates prognosis/early-warning claims beyond presented clinical results",
+        "Terminology inconsistencies (avidin/nucleic-acid separator vs described workflow)"
+    ]
+}

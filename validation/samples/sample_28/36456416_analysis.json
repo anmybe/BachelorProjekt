@@ -1,0 +1,484 @@
+[
+  {
+    "title": "pmc 7603128 5672 Mol Aspects Med Mol Aspects Med Molecular aspects of medicine 0098-2997 1872-9452 10073244 36456416 10.1016/j.mam.2022.101155 nihpa1853804 Article Extracellular vesicles as personalized medicine Beetler Danielle J. a b Di Florio Damian N. a b Bruno Katelyn A. b d e Ikezu Tsuneya c March Keith L. d e Cooper Leslie T. Jr. b Wolfram Joy f g 1 Fairweather DeLisa a b h * 1 a Center for Clinical and Translational Science, Mayo Clinic, Rochester, MN, 55902, USA b Department of Cardiovascular Medicine, Mayo Clinic, Jacksonville, FL, 32224, USA c Department of Neuroscience, Mayo Clinic, Jacksonville, FL, 32224, USA d Center for Regenerative Medicine, University of Florida, Gainesville, FL, 32611, USA e Division of Cardiology, University of Florida, Gainesville, FL, 32611, USA f School of Chemical Engineering, The University of Queensland, Brisbane, QLD, 4072, Australia g Australian Institute for Bioengineering and Nanotechnology, The University of Queensland, Brisbane, QLD, 4072, Australia h Department of Environmental Health Sciences and Engineering, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, 21205, USA 1 Co-Senior Authors. * Corresponding author. Mayo Clinic, 4500 San Pablo Road, Jacksonville, FL, 32224, USA. Fairweather.DeLisa@mayo.edu (D. Fairweather). 6 1 2023 6 2023 28 11 2022 01 6 2023 91 101155 101155 https://creativecommons.org/licenses/by-nc-nd/4.0/ This is an open access article under the CC BY-NC-ND license ( http://creativecommons.org/licenses/by-nc-nd/4.0/ ). Extracellular vesicles (EVs) are released from all cells in the body, forming an important intercellular communication network that contributes to health and disease. The contents of EVs are cell source-specific, inducing distinct signaling responses in recipient cells. The specificity of EVs and their accumulation in fluid spaces that are accessible for liquid biopsies make them highly attractive as potential biomarkers and therapies for disease. The duality of EVs as favorable (therapeutic) or unfavorable (pathological) messengers is context dependent and remains to be fully determined in homeostasis and various disease states. This review describes the use of EVs as biomarkers, drug delivery vehicles, and regenerative therapeutics, highlighting examples involving viral infections, cancer, and neurological diseases. There is growing interest to provide personalized therapy based on individual patient and disease characteristics. Increasing evidence suggests that EV biomarkers and therapeutic approaches are ideal for personalized medicine due to the diversity and multifunctionality of EVs. Nanomedicine Regenerative medicine Cancer Neurological disease Viruses Immune response 1. Introduction Extracellular vesicles ( EVs ) are released from all cells and form a critical intercellular communication mechanism ( Couch et al., 2021 ). The rich diversity of EVs supports a growing list of functions in maintaining health and promoting disease. EVs are defined and characterized by their size (nanoparticles), the presence of a phospholipid bilayer that contains certain distinguishing markers (e.g., tetraspanins CD9, CD63, CD81), and functional ability (e.g., anti-inflammatory), as described in the most recent guidelines from the International Society for Extracellular Vesicles ( ISEV ) ( Thery et al., 2018 ). The EV membrane contains bioactive lipids, carbohydrates, and proteins, while nucleic acids, such as DNA and RNA, and proteins (for example, cytokines) can be present in the EV interior. These EV-associated biomolecules reflect the cell of origin, enabling diagnostic and therapeutic applications ( Thery et al., 2018 ). Cells continuously release EVs using both intracellular endocytic pathways and direct budding from the plasma membrane. EVs circulate in the blood and extracellular space, where they act in a paracrine or long-distance manner on recipient cells ( Rodrigues et al., 2018 ). Depending on the context, EVs can have favorable (therapeutic) or unfavorable (pathological) effects, and much remains unknown regarding the role of EVs in homeostasis and various disease states ( Yates et al., 2022b ). Understanding the contribution of EVs to disease is complicated by the heterogeneity of EVs in biological samples. A variety of terms and definitions have been used over time for EVs, leading to some confusion in the field ( Bazzan et al., 2021 ; Couch et al., 2021 ; Thery et al., 2018 ). Here, we use the term EVs to refer to all extracellular, lipid bilayer, sub-cellular particles and their functional contents with sizes ranging from 30 nm to 1 \u03bcm. This definition includes the widely recognized major subgroups termed exosomes, microvesicles, and apoptotic bodies ( Fig. 1 ). Distinctions between these groups are based primarily on their origin ( Rodrigues et al., 2018 ). Exosomes are released by endocytic pathways within cells and range from approximately 30 to 150 nm ( DeLeo and Ikezu, 2018 ). Microvesicles or ectosomes are shed from the plasma membrane into the extracellular space and range from approximately 100 to 1000 nm ( Colombo et al., 2014 ; Janas et al., 2016 ). Apoptotic bodies arise from degrading cells and range from approximately 100 nm to several micrometers, sometimes large enough to contain entire cellular organelles ( Buzas et al., 2014 ; Gyorgy et al., 2011 ). The collective term EV is used in this article, as subtypes have overlapping size ranges and biomolecular content, and current technology is unable to accurately separate or distinguish exosomes from microvesicles ( Bazzan et al., 2021 ; Crescitelli et al., 2013 ; Gyorgy et al., 2011 ; Khalaj et al., 2019 ; Rodrigues et al., 2018 ; Thery et al., 2018 ; Yates et al., 2022a ). Historically, the main role of EVs was thought to be as nano-sized \u201ctrash bags\u201d, eliminating unwanted waste from the cell ( Couch et al., 2021 ; Szwedowicz et al., 2022 ). Today, they are known to play vital roles in cellular communication ( Yanez-Mo et al., 2015 ). Regardless of the origin of EVs (i.e., plasma membrane, intraluminal vesicle), the membranous and inner contents of EVs are influenced by the parent cell. Factors that may affect EV characteristics include donor sex, age, and cellular stress. All components of the lipid membrane and internal compartment of EVs can impact recipient cells ( Thery et al., 2018 ). Larger EVs may contain sub-cellular contents such as mitochondria or other functional macromolecules that can affect recipient cells ( Dean et al., 2009 ; Gasecka et al., 2019 ). EV-mediated transfer of functional products enables a signaling axis between donor and recipient cells that can be useful in a variety of situations to promote physiological homeostasis or pathology (e.g., stress responses, host cell responses to pathogens, and tumor microenvironment modulation) ( Couch et al., 2021 ; Yanez-Mo et al., 2015 ; Yates et al., 2022a , 2022b ). Once EVs are internalized by recipient cells, intracellular signaling cascades can be initiated by EV-associated biomolecules, such as microRNAs ( miRNAs ) and proteins, that are released into the cytoplasm ( Pant et al., 2012 ; Rodrigues et al., 2018 ). In addition to intracellular uptake, EVs may also activate signaling cascades in recipient cells through surface interactions without subsequent uptake, that is, a \u201ckiss-and-run\u201d approach ( Morris and Witwer, 2022 ). All cells release EVs, which are present in biological secretions, excretions, and tissues ( Fig. 1 ), ( Robbins and Morelli, 2014 ) including ejaculate ( Hoog and Lotvall, 2015 ), lipoaspirate ( Tian et al., 2020 ; Wang et al., 2021 ), synovial fluid ( B. Yin et al., 2022 ), breast milk ( Zhong et al., 2021 ), amniotic fluid ( Costa et al., 2022 ), saliva ( Li et al., 2022 ; Yuana et al., 2015 ), urine ( Barreiro and Holthofer, 2017 ; Minkler et al., 2021 ; Yuana et al., 2015 ), cerebrospinal fluid ( Welton et al., 2017 ), blood/plasma ( Yuana et al., 2015 ), lymph ( Milasan et al., 2016 ), and mucus ( Pastor et al., 2021 ). Other types of nanoparticles are also found in biofluids, such as lipoproteins ( Feingold, 2000 ) and exomeres ( H. Zhang et al., 2018 ). New sources of EVs continue to be characterized as technology limitations surrounding isolation and authentication improve; however, a comprehensive understanding of the functional properties of EVs in health and disease remains to be determined. Difficulties in assigning a particular function to EVs stems from their heterogeneity. Without the technical ability to independently isolate subpopulations, it is challenging to accurately assess individual contributions of EVs to homeostasis and disease ( Ramirez et al., 2018 ; Thery et al., 2018 ; Veerman et al., 2021 ; Yates et al., 2022a ). Limitations in EV separation and subsequent characterization stem from overlapping biomolecular content and size ranges, which can also be affected by isolation methods, storage conditions, and measurement parameters ( Ramirez et al., 2018 ; Thery et al., 2018 ; Veerman et al., 2021 ; Yates et al., 2022a ). Although there are reports of EVs containing distinct cargo, leading to a specific response in a disease model, such findings are often difficult to replicate due to differences in characterization methods and/or isolation techniques (see Challenges below) ( Raposo and Stoorvogel, 2013 ; Tans et al., 1991 ; Yates et al., 2022a ). Many of the qualities that make EVs difficult to characterize also imbue them with incredible versatility and applicability as promising candidates for personalized medicine. Because of their specificity for certain tissues and disease states, EVs can be used as personalized diagnostic biomarkers and allogenic or autologous biotherapeutics and/or biogenic drug delivery vehicles. EVs offer promise for a personalized precision medicine approach to healthcare, where therapy can be tailored to the sex, age, and condition/disease of the individual.",
+    "document_source_id": "36456416",
+    "analysis_date": "2025-12-10",
+    "extracted_data": {
+      "document_summary": "This review comprehensively explores Extracellular Vesicles (EVs) as crucial mediators of intercellular communication, highlighting their dual roles in health and disease. It examines their potential as personalized diagnostic biomarkers across various conditions including viral infections, cancer, neurological, kidney, autoimmune, metabolic, and pro-thrombotic diseases. The document also investigates EVs as promising therapeutic agents, drug delivery vehicles, and regenerative therapeutics, discussing their involvement in disease pathogenesis (e.g., spreading misfolded proteins, facilitating viral replication) and their protective functions (e.g., neuroprotection, inflammation regulation, aggregate prevention, tissue repair). Challenges in EV isolation, standardization, and clinical translation are also addressed.",
+      "treatment_details": {
+        "therapy_type": "Extracellular Vesicle (EV) therapy, EV-based drug delivery, and EV modulation/depletion.",
+        "dose_specificity": "The document primarily reviews the conceptual and potential applications of EVs as therapeutics, drug delivery vehicles, and methods for EV modulation or depletion across various diseases (e.g., neurodegenerative, cancer, age-related conditions). While neuroprotection was observed with therapeutically administered EVs in in vitro models, and EV depletion via Hemopurifier\u2122 is noted for cancer, specific dose regimens, intensities, or durations for most EV therapies or dose-response comparisons are not detailed. Mentions of 'lowering the infusion rate' for immune evasion and administering 'EVs from young mice to old mice' are qualitative examples without precise quantitative data."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "Extracellular Vesicles (EVs)",
+          "measured_tissue_or_fluid": "Circulate in blood and extracellular space; present in various biological secretions, excretions, and tissues including ejaculate, lipoaspirate, synovial fluid, breast milk, amniotic fluid, saliva, urine, cerebrospinal fluid, lymph, mucus, and generally found in all body fluids.",
+          "activity_type": "Presence, content analysis (lipids, carbohydrates, proteins, nucleic acids like DNA/RNA, cytokines), and molecular profiling of surface markers.",
+          "measured_effect": {
+            "direction_of_change": "Context-dependent (favorable/therapeutic or unfavorable/pathological); accumulate in all body fluids.",
+            "magnitude_quantification": "Not precisely quantified as a general biomarker, but conceptually discussed as reflecting cellular states, influenced by donor sex, age, and cellular stress. Qualitative descriptions, no precise quantitative data reported."
+          },
+          "core_biological_function": "Intercellular communication, maintaining health, promoting disease, mediating specific signaling responses in recipient cells, promoting physiological homeostasis or pathology, initiating intracellular signaling cascades or surface interactions, transporting molecular cargo, and reflecting cellular states.",
+          "relevant_activity_context": "Homeostasis, various disease states (e.g., viral infections, cancer, neurological diseases), stress responses, host cell responses to pathogens, tumor microenvironment modulation, personalized medicine, disease diagnosis, preventative medicine, minimally-invasive screening, assessment, monitoring, and diagnosis via liquid biopsy.",
+          "performance_or_health_indicator": "Highly attractive as potential biomarkers and therapies, ideal for personalized medicine, personalized diagnostic biomarkers, allogenic or autologous biotherapeutics and/or biogenic drug delivery vehicles. Useful for diagnosing disease, early detection, tailoring treatment decisions, individualizing treatment regimens, and monitoring conditions in vulnerable populations or difficult-to-diagnose diseases."
+        },
+        {
+          "biomarker_name": "Extracellular Vesicles (EVs) from Antigen Presenting Cells (APCs)",
+          "measured_tissue_or_fluid": "Immune system cells/fluids (function inferred from host immunity, primarily in cultured cells in cited studies)",
+          "activity_type": "Expression of MHC class I or II-antigen complexes and tetraspanins (CD9, CD63, CD81) / integrins (CD11b) on surface",
+          "measured_effect": {
+            "direction_of_change": "Enhance",
+            "magnitude_quantification": "Found to express MHC class I or II-antigen complexes and surface proteins (tetraspanins, integrins) that enhance immunity; qualitative description, no precise quantitative data reported."
+          },
+          "core_biological_function": "Enhance host immunity, directly activate T cells (CD8+, CD4+), indirectly stimulate immune responses by transferring MHC complexes to other APCs, bind to immune cells.",
+          "relevant_activity_context": "Protective immune response against viruses, viral infection, immune activation.",
+          "performance_or_health_indicator": "Crucial for host survival against viral infections, indicates robust immune response."
+        },
+        {
+          "biomarker_name": "Viral products (e.g., SARS-CoV-2 RNA, viral capsid proteins, virions, Nef) within Extracellular Vesicles (EVs)",
+          "measured_tissue_or_fluid": "Within EVs (derived from infected host cells), implying host fluids",
+          "activity_type": "Presence and packaging of viral components (RNA, proteins, virions); production of viral factors (Nef) altering host cells",
+          "measured_effect": {
+            "direction_of_change": "Promote / Enhance / Subvert",
+            "magnitude_quantification": "Qualitative; SARS-CoV-2 RNA detected inside EVs; viruses use EVs to enhance replication, package virus, subvert immune response; HIV Nef alters host cells to create more EVs."
+          },
+          "core_biological_function": "Viruses highjack EVs to promote infection, enhance viral replication, subvert host immune response (e.g., hiding from antibodies), facilitate viral shedding and persistence, viral entry to host cells.",
+          "relevant_activity_context": "Viral infection (e.g., HIV, coxsackievirus, hepatitis B/C, influenza, Epstein-Barr virus, SARS-CoV-2); viral evasion and replication mechanisms.",
+          "performance_or_health_indicator": "Indicates active viral infection, viral replication, immune evasion by the virus, and potential for increased viral spread and persistence."
+        },
+        {
+          "biomarker_name": "ACE2 (Angiotensin-converting enzyme 2) within Extracellular Vesicles (EVs)",
+          "measured_tissue_or_fluid": "Within EVs",
+          "activity_type": "Presence/concentration of ACE2",
+          "measured_effect": {
+            "direction_of_change": "Block",
+            "magnitude_quantification": "Qualitative; EVs containing ACE2 can block SARS-CoV-2 spike protein-dependent infection."
+          },
+          "core_biological_function": "Blocks viral entry by binding to spike protein.",
+          "relevant_activity_context": "SARS-CoV-2 infection.",
+          "performance_or_health_indicator": "Indicates a protective anti-viral function against SARS-CoV-2 infection."
+        },
+        {
+          "biomarker_name": "ACE2 (Angiotensin-converting enzyme 2) within Extracellular Vesicles (EVs)",
+          "measured_tissue_or_fluid": "Within EVs",
+          "activity_type": "Presence/concentration of ACE2",
+          "measured_effect": {
+            "direction_of_change": "Enhance",
+            "magnitude_quantification": "Qualitative; ACE2+ EVs that enhance SARS-CoV-2 replication have also been reported."
+          },
+          "core_biological_function": "Enhances viral replication.",
+          "relevant_activity_context": "SARS-CoV-2 infection.",
+          "performance_or_health_indicator": "Potentially indicates a mechanism for enhanced SARS-CoV-2 replication and viral persistence."
+        },
+        {
+          "biomarker_name": "Extracellular Vesicles (EVs)",
+          "measured_tissue_or_fluid": "Tumor microenvironment, various accessible liquid biopsy sources including saliva (for esophageal cancer), urine (for prostate cancer), and blood.",
+          "activity_type": "Abnormal contents (e.g., molecular profiling of diverse functional macromolecules); increased shedding.",
+          "measured_effect": {
+            "direction_of_change": "Promote / Abnormal",
+            "magnitude_quantification": "Tumor cells shed and release more EVs than healthy cells, and their EVs have abnormal contents; qualitative description, no precise quantitative data reported."
+          },
+          "core_biological_function": "Influence tumor microenvironment, create niche for invasion and metastasis, promote immunosuppression, mediate cellular communication and disease promotion at every stage of cancer pathogenesis, facilitate organotropic metastasis.",
+          "relevant_activity_context": "Cancer pathogenesis (development, invasion, progression, metastasis), manipulation of the tumor microenvironment, diagnosis, and monitoring of various cancers (e.g., esophageal, prostate).",
+          "performance_or_health_indicator": "Indicates cancer progression, heightened metastasis risk, immunosuppression in tumors, and serves as diagnostic or prognostic biomarkers for specific tumor subtypes and for metastatic monitoring."
+        },
+        {
+          "biomarker_name": "Extracellular Vesicles (EVs)",
+          "measured_tissue_or_fluid": "Brain (implied, as disease spreads throughout), potentially cerebrospinal fluid",
+          "activity_type": "Mediation of aberrant protein accumulation.",
+          "measured_effect": {
+            "direction_of_change": "Promote",
+            "magnitude_quantification": "Qualitative; found to promote the pathogenesis of disease by spreading aberrant protein accumulation."
+          },
+          "core_biological_function": "Spreading aberrant protein accumulation, contributing to neurodegeneration.",
+          "relevant_activity_context": "Pathogenesis of neurological diseases (e.g., Alzheimer\u2019s dementia, Parkinson\u2019s disease, prion diseases) characterized by aberrant protein accumulation.",
+          "performance_or_health_indicator": "Indicates progression and pathogenesis of neurological diseases."
+        },
+        {
+          "biomarker_name": "RNA repeats",
+          "measured_tissue_or_fluid": "Within Extracellular Vesicles (EVs), between neurons",
+          "activity_type": "Genetic material content/transfer",
+          "measured_effect": {
+            "direction_of_change": "Spread",
+            "magnitude_quantification": "Identified as being spread by EVs"
+          },
+          "core_biological_function": "Genetic information transfer, pathogenic signaling",
+          "relevant_activity_context": "Huntington\u2019s disease pathogenesis",
+          "performance_or_health_indicator": "Promotes disease pathogenesis by spreading disease-causing material"
+        },
+        {
+          "biomarker_name": "\u03b1-synuclein",
+          "measured_tissue_or_fluid": "Within Extracellular Vesicles (EVs), between neurons",
+          "activity_type": "Protein level/transfer (misfolded protein)",
+          "measured_effect": {
+            "direction_of_change": "Spread",
+            "magnitude_quantification": "Identified as being spread by EVs"
+          },
+          "core_biological_function": "Protein misfolding, aggregation, pathogenic signaling",
+          "relevant_activity_context": "Parkinson\u2019s disease pathogenesis",
+          "performance_or_health_indicator": "Promotes disease pathogenesis by spreading disease-causing protein"
+        },
+        {
+          "biomarker_name": "Prions",
+          "measured_tissue_or_fluid": "Within Extracellular Vesicles (EVs), between neurons",
+          "activity_type": "Protein level/transfer (misfolded protein)",
+          "measured_effect": {
+            "direction_of_change": "Spread",
+            "magnitude_quantification": "Identified as being spread by EVs"
+          },
+          "core_biological_function": "Protein misfolding, aggregation, pathogenic signaling",
+          "relevant_activity_context": "Prion disease pathogenesis",
+          "performance_or_health_indicator": "Promotes disease pathogenesis by spreading disease-causing protein"
+        },
+        {
+          "biomarker_name": "TDP-43",
+          "measured_tissue_or_fluid": "Within Extracellular Vesicles (EVs), between neurons",
+          "activity_type": "Protein level/transfer (misfolded protein)",
+          "measured_effect": {
+            "direction_of_change": "Spread",
+            "magnitude_quantification": "Identified as being spread by EVs"
+          },
+          "core_biological_function": "Protein misfolding, aggregation, pathogenic signaling",
+          "relevant_activity_context": "Amyotrophic lateral sclerosis (ALS) pathogenesis",
+          "performance_or_health_indicator": "Promotes disease pathogenesis by spreading disease-causing protein"
+        },
+        {
+          "biomarker_name": "Phosphorylated tau",
+          "measured_tissue_or_fluid": "Within Extracellular Vesicles (EVs), between neurons",
+          "activity_type": "Protein level/transfer (misfolded protein)",
+          "measured_effect": {
+            "direction_of_change": "Spread",
+            "magnitude_quantification": "Identified as being spread by EVs"
+          },
+          "core_biological_function": "Protein misfolding, aggregation, pathogenic signaling",
+          "relevant_activity_context": "Alzheimer\u2019s dementia pathogenesis",
+          "performance_or_health_indicator": "Promotes disease pathogenesis by spreading disease-causing protein"
+        },
+        {
+          "biomarker_name": "\u03b1-synuclein (EV-associated)",
+          "measured_tissue_or_fluid": "Brain (within physical deposits)",
+          "activity_type": "Protein aggregation",
+          "measured_effect": {
+            "direction_of_change": "Increased aggregation",
+            "magnitude_quantification": "EVs actively catalyze aggregation driven by lipid membrane properties"
+          },
+          "core_biological_function": "Protein aggregation, structural modification in brain",
+          "relevant_activity_context": "Neurodegenerative disease (e.g., Parkinson's) pathogenesis",
+          "performance_or_health_indicator": "Contributes to physical deposits and disease progression"
+        },
+        {
+          "biomarker_name": "Amyloid beta (EV-associated)",
+          "measured_tissue_or_fluid": "Brain (within plaques)",
+          "activity_type": "Protein accumulation",
+          "measured_effect": {
+            "direction_of_change": "Increased accumulation",
+            "magnitude_quantification": "EVs provide a 'sticky surface' for accumulation due to outer membrane surface molecules"
+          },
+          "core_biological_function": "Protein aggregation, plaque formation",
+          "relevant_activity_context": "Alzheimer\u2019s disease pathogenesis",
+          "performance_or_health_indicator": "Contributes to physical deposits (plaques) and disease progression"
+        },
+        {
+          "biomarker_name": "Extracellular Vesicles (EVs)",
+          "measured_tissue_or_fluid": "Cerebrospinal fluid (CSF)",
+          "activity_type": "Levels/Concentration",
+          "measured_effect": {
+            "direction_of_change": "Linked to severity",
+            "magnitude_quantification": "Levels of certain EVs in CSF have been linked to the severity of some neurodegenerative diseases"
+          },
+          "core_biological_function": "Intercellular communication, disease progression mediation",
+          "relevant_activity_context": "Neurodegenerative disease progression",
+          "performance_or_health_indicator": "Indicator of neurodegenerative disease severity"
+        },
+        {
+          "biomarker_name": "Extracellular Vesicles (EVs)",
+          "measured_tissue_or_fluid": "Not specified (implied neural context)",
+          "activity_type": "Biological function",
+          "measured_effect": {
+            "direction_of_change": "Increased",
+            "magnitude_quantification": "EVs have been found to increase synaptic activity, maintain and form myelin sheaths, and promote inflammatory regulation"
+          },
+          "core_biological_function": "Neuroprotection, synaptic function, myelination, immune modulation",
+          "relevant_activity_context": "Physiological neural health",
+          "performance_or_health_indicator": "Indicate healthy neural function and protective roles"
+        },
+        {
+          "biomarker_name": "Extracellular Vesicles (EVs)",
+          "measured_tissue_or_fluid": "Not specified (implied neural context)",
+          "activity_type": "Biological function (aggregate prevention)",
+          "measured_effect": {
+            "direction_of_change": "Prevented/Reduced",
+            "magnitude_quantification": "EVs actively prevent aggregate formation"
+          },
+          "core_biological_function": "Maintenance of proteostasis, aggregate clearance",
+          "relevant_activity_context": "Neurodegenerative disease prevention",
+          "performance_or_health_indicator": "Indicates protective role against neurodegenerative disease"
+        },
+        {
+          "biomarker_name": "Amyloid beta",
+          "measured_tissue_or_fluid": "Intracellular space (removed from by EVs)",
+          "activity_type": "Protein level (removal/scavenging)",
+          "measured_effect": {
+            "direction_of_change": "Lowered/Removed",
+            "magnitude_quantification": "EVs actively scavenge and remove pathogenic molecules"
+          },
+          "core_biological_function": "Clearance of pathogenic proteins, proteostasis",
+          "relevant_activity_context": "Neurodegenerative disease prevention/management",
+          "performance_or_health_indicator": "Indicates protective role against neurodegenerative disease (e.g., Alzheimer's)"
+        },
+        {
+          "biomarker_name": "TDP-43",
+          "measured_tissue_or_fluid": "Intracellular space (removed from by EVs)",
+          "activity_type": "Protein level (removal/scavenging)",
+          "measured_effect": {
+            "direction_of_change": "Lowered/Removed",
+            "magnitude_quantification": "EVs actively scavenge and remove pathogenic molecules"
+          },
+          "core_biological_function": "Clearance of pathogenic proteins, proteostasis",
+          "relevant_activity_context": "Neurodegenerative disease prevention/management",
+          "performance_or_health_indicator": "Indicates protective role against neurodegenerative disease (e.g., ALS)"
+        },
+        {
+          "biomarker_name": "\u03b1-synuclein",
+          "measured_tissue_or_fluid": "Intracellular space (removed from by EVs)",
+          "activity_type": "Protein level (removal/scavenging)",
+          "measured_effect": {
+            "direction_of_change": "Lowered/Removed",
+            "magnitude_quantification": "EVs actively scavenge and remove pathogenic molecules"
+          },
+          "core_biological_function": "Clearance of pathogenic proteins, proteostasis",
+          "relevant_activity_context": "Neurodegenerative disease prevention/management",
+          "performance_or_health_indicator": "Indicates protective role against neurodegenerative disease (e.g., Parkinson's)"
+        },
+        {
+          "biomarker_name": "Extracellular Vesicles (EVs)",
+          "measured_tissue_or_fluid": "Extracellular space (brain)",
+          "activity_type": "Biological function (insulation)",
+          "measured_effect": {
+            "direction_of_change": "Reduced interference",
+            "magnitude_quantification": "EVs insulate aberrant proteins from interfering with synapse function"
+          },
+          "core_biological_function": "Neuroprotection, maintenance of synaptic integrity",
+          "relevant_activity_context": "Neurodegenerative disease progression suppression",
+          "performance_or_health_indicator": "Indicates protective role against neurodegenerative disease progression"
+        },
+        {
+          "biomarker_name": "Heat shock proteins (HSPs)",
+          "measured_tissue_or_fluid": "Transferred via EVs to other cells (extracellular space)",
+          "activity_type": "Protein transfer/signaling",
+          "measured_effect": {
+            "direction_of_change": "Transferred/Delivered",
+            "magnitude_quantification": "Healthy neural cells can release protective molecules via EVs"
+          },
+          "core_biological_function": "Cellular protection, stress response, proteostasis",
+          "relevant_activity_context": "Acute settings, neuroprotection by healthy neural cells",
+          "performance_or_health_indicator": "Indicates neuroprotection and stress response mediation"
+        },
+        {
+          "biomarker_name": "Extracellular Vesicles (EVs)",
+          "measured_tissue_or_fluid": "Peripheral body fluids",
+          "activity_type": "Presence/Content, reflecting brain messaging",
+          "measured_effect": {
+            "direction_of_change": "Reflects brain activity",
+            "magnitude_quantification": "EVs in peripheral body fluids reflect cellular messaging from the brain"
+          },
+          "core_biological_function": "Inter-organ communication, CNS signaling to periphery",
+          "relevant_activity_context": "Monitoring brain health/disease from periphery",
+          "performance_or_health_indicator": "Potential diagnostic biomarker for neurodegenerative conditions"
+        },
+        {
+          "biomarker_name": "Extracellular Vesicles (EVs)",
+          "measured_tissue_or_fluid": "Periphery (from brain)",
+          "activity_type": "Transfer/Level",
+          "measured_effect": {
+            "direction_of_change": "Greater transfer",
+            "magnitude_quantification": "In disease states, the blood-brain barrier is more compromised, facilitating greater transfer of EVs to the periphery"
+          },
+          "core_biological_function": "Disease-mediated transport across blood-brain barrier",
+          "relevant_activity_context": "Neurodegenerative disease states",
+          "performance_or_health_indicator": "Indicates compromised blood-brain barrier and potentially disease progression"
+        },
+        {
+          "biomarker_name": "Ab42",
+          "measured_tissue_or_fluid": "Neuron-derived EVs",
+          "activity_type": "Protein level",
+          "measured_effect": {
+            "direction_of_change": "Higher",
+            "magnitude_quantification": "Higher Ab42 levels in neuron-derived EVs"
+          },
+          "core_biological_function": "Protein related to Alzheimer's pathology, synaptic function",
+          "relevant_activity_context": "Cognitive function",
+          "performance_or_health_indicator": "Associated with improved cognitive function"
+        },
+        {
+          "biomarker_name": "Synaptic molecules",
+          "measured_tissue_or_fluid": "Neuron-derived EVs",
+          "activity_type": "Molecular level",
+          "measured_effect": {
+            "direction_of_change": "Higher",
+            "magnitude_quantification": "Higher synaptic molecule levels in neuron-derived EVs"
+          },
+          "core_biological_function": "Synaptic transmission, neuronal communication",
+          "relevant_activity_context": "Cognitive function",
+          "performance_or_health_indicator": "Associated with improved cognitive function"
+        },
+        {
+          "biomarker_name": "Extracellular Vesicles (EVs)",
+          "measured_tissue_or_fluid": "Urine",
+          "activity_type": "Presence/Content/Signatures",
+          "measured_effect": {
+            "direction_of_change": "Serve as biomarkers",
+            "magnitude_quantification": "Urine is a source of early biomarkers for kidney diseases; EVs in urine suggested as alternative to kidney biopsy"
+          },
+          "core_biological_function": "Intercellular communication, waste excretion, disease signaling",
+          "relevant_activity_context": "Kidney diseases",
+          "performance_or_health_indicator": "Early biomarkers of kidney diseases, potential alternative to kidney biopsy"
+        },
+        {
+          "biomarker_name": "Extracellular Vesicle (EV) signatures",
+          "measured_tissue_or_fluid": "Not specified (implied biofluids)",
+          "activity_type": "Molecular profile",
+          "measured_effect": {
+            "direction_of_change": "Altered",
+            "magnitude_quantification": "EV signatures are altered in autoimmune diseases"
+          },
+          "core_biological_function": "Intercellular communication, immune modulation",
+          "relevant_activity_context": "Autoimmune diseases, inflammatory disease pathogenesis",
+          "performance_or_health_indicator": "Associated with the pathogenesis of inflammatory/autoimmune disease"
+        },
+        {
+          "biomarker_name": "Proinflammatory molecules (carried by EVs)",
+          "measured_tissue_or_fluid": "Joints (within EVs)",
+          "activity_type": "Transport (molecular mediation)",
+          "measured_effect": {
+            "direction_of_change": "Transported, contributing to degradation",
+            "magnitude_quantification": "EVs mediate transport of proinflammatory molecules that contribute to cartilage degradation"
+          },
+          "core_biological_function": "Inflammation, tissue degradation",
+          "relevant_activity_context": "Cartilage degradation, osteoarthritis",
+          "performance_or_health_indicator": "Contributes to osteoarthritis pathogenesis"
+        },
+        {
+          "biomarker_name": "Extracellular Vesicles (EVs)",
+          "measured_tissue_or_fluid": "Joints (implied for therapy/diagnosis)",
+          "activity_type": "Regenerative capabilities",
+          "measured_effect": {
+            "direction_of_change": "Promote",
+            "magnitude_quantification": "EVs have regenerative capabilities in cartilage repair"
+          },
+          "core_biological_function": "Tissue regeneration, cellular repair",
+          "relevant_activity_context": "Osteoarthritis therapy",
+          "performance_or_health_indicator": "Proposed as ideal therapies for osteoarthritis"
+        },
+        {
+          "biomarker_name": "Extracellular Vesicles (EVs)",
+          "measured_tissue_or_fluid": "Not specified (implied biofluid)",
+          "activity_type": "Levels/Signatures (diagnostic tool)",
+          "measured_effect": {
+            "direction_of_change": "Track progression",
+            "magnitude_quantification": "EVs have been proposed as diagnostic tools to track osteoarthritis progression"
+          },
+          "core_biological_function": "Intercellular communication, disease signaling",
+          "relevant_activity_context": "Osteoarthritis progression",
+          "performance_or_health_indicator": "Diagnostic tools to track osteoarthritis progression"
+        },
+        {
+          "biomarker_name": "Extracellular Vesicles (EVs)",
+          "measured_tissue_or_fluid": "Not specified",
+          "activity_type": "Biological function/effect",
+          "measured_effect": {
+            "direction_of_change": "Promote disease",
+            "magnitude_quantification": "EVs have been found to promote disease"
+          },
+          "core_biological_function": "Intercellular communication, metabolic regulation",
+          "relevant_activity_context": "Type I and Type II diabetes",
+          "performance_or_health_indicator": "Promotes disease progression in diabetes"
+        },
+        {
+          "biomarker_name": "Extracellular Vesicle (EV) communication",
+          "measured_tissue_or_fluid": "Between gut microbiota and host",
+          "activity_type": "Communication/Signaling",
+          "measured_effect": {
+            "direction_of_change": "Affected",
+            "magnitude_quantification": "EV communication between gut microbiota and the host is affected"
+          },
+          "core_biological_function": "Gut microbiota-host interaction, immune regulation",
+          "relevant_activity_context": "Inflammatory bowel disease",
+          "performance_or_health_indicator": "Implicated in inflammatory bowel disease"
+        },
+        {
+          "biomarker_name": "Extracellular Vesicles (EVs)",
+          "measured_tissue_or_fluid": "Not specified (implied blood/circulation)",
+          "activity_type": "Levels/Concentration",
+          "measured_effect": {
+            "direction_of_change": "Elevated",
+            "magnitude_quantification": "Elevated EV levels increase the risk of dysregulated coagulation cascades"
+          },
+          "core_biological_function": "Coagulation, thrombosis",
+          "relevant_activity_context": "Pro-thrombotic diseases and conditions",
+          "performance_or_health_indicator": "Increases risk of dysregulated coagulation cascades"
+        },
+        {
+          "biomarker_name": "Extracellular Vesicles (EVs)",
+          "measured_tissue_or_fluid": "Not specified (implied blood/circulation, patient context)",
+          "activity_type": "Levels/Presence",
+          "measured_effect": {
+            "direction_of_change": "Correlated with/Direct cause of",
+            "magnitude_quantification": "Correlated with pre-eclampsia and pregnancy-induced hypercoagulability in patients, and found to be a direct cause in mice"
+          },
+          "core_biological_function": "Coagulation, vascular function, placental development",
+          "relevant_activity_context": "Pre-eclampsia, pregnancy-induced hypercoagulability",
+          "performance_or_health_indicator": "Correlated with/direct cause of pre-eclampsia and hypercoagulability"
+        },
+        {
+          "biomarker_name": "Extracellular Vesicle (EV) molecular signatures",
+          "measured_tissue_or_fluid": "Patient blood",
+          "activity_type": "Molecular profile (RNA, proteins, glycans, lipid profiles)",
+          "measured_effect": {
+            "direction_of_change": "Unique/Altered",
+            "magnitude_quantification": "EVs carry unique molecular signatures during disease"
+          },
+          "core_biological_function": "Intercellular communication, disease signaling",
+          "relevant_activity_context": "Various disease conditions",
+          "performance_or_health_indicator": "Can be used to phenotype various disease conditions, potential for personalized medicine"
+        },
+        {
+          "biomarker_name": "Extracellular Vesicle (EV) biomarker panels",
+          "measured_tissue_or_fluid": "Not specified (implied biofluids for clinical use)",
+          "activity_type": "Diagnostic test",
+          "measured_effect": {
+            "direction_of_change": "Approved for use",
+            "magnitude_quantification": "The first FDA-approved panel for cancer reached the market in 2016"
+          },
+          "core_biological_function": "Disease detection, personalized medicine",
+          "relevant_activity_context": "Cancer diagnosis",
+          "performance_or_health_indicator": "FDA-approved diagnostic tool for cancer, potential for personalized medicine"
+        },
+        {
+          "biomarker_name": "Pathogenic RNA (within EVs)",
+          "measured_tissue_or_fluid": "Blood (within EVs)",
+          "activity_type": "Gene transcript content",
+          "measured_effect": {
+            "direction_of_change": "Identified/Characterized",
+            "magnitude_quantification": "Pathogenic RNA content of EVs from blood has been characterized"
+          },
+          "core_biological_function": "Disease propagation, cellular communication",
+          "relevant_activity_context": "Hepatitis, cancer, neurodegeneration, autoimmune disease, cardiovascular disease",
+          "performance_or_health_indicator": "Next generation biomarker development for various diseases"
+        },
+        {
+          "biomarker_name": "Pathogenic protein content (within EVs)",
+          "measured_tissue_or_fluid": "Blood (within EVs)",
+          "activity_type": "Protein level content",
+          "measured_effect": {
+            "direction_of_change": "Identified/Characterized",
+            "magnitude_quantification": "Pathogenic protein content of EVs from blood has been characterized"
+          },
+          "core_biological_function": "Disease propagation, cellular communication",
+          "relevant_activity_context": "Hepatitis, cancer, neurodegeneration, autoimmune disease, cardiovascular disease",
+          "performance_or_health_indicator": "Next generation biomarker development for various diseases"
+        }
+      ]
+    }
+  }
+]

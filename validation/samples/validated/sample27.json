@@ -1,0 +1,13 @@
+{
+    "pmid": "35886433",
+    "fidelity_score": 9,
+    "hallucination_score": 9,
+    "direction_accuracy_score": 8,
+    "completeness_score": 8,
+    "overall_rating": "excellent",
+    "issues": [
+        "Minor overgeneralization of CRP relevance across subgroups",
+        "Some biomarker directions summarized less precisely",
+        "Morphology findings slightly compressed versus paper detail"
+    ]
+}
