@@ -140,3 +140,22 @@ plt.close()
 
 print("[INFO] Saved issues_by_category.png")
 print("[DONE] All statistics generated in:", OUTPUT_DIR)
+
+# ------------------------------------------------------------
+# OVERALL RATING DISTRIBUTION PLOT
+# ------------------------------------------------------------
+
+rating_counts = df["overall_rating"].value_counts().reindex(
+    ["excellent", "good", "acceptable", "poor", "hallucinated"], fill_value=0
+)
+
+plt.figure(figsize=(8, 4))
+plt.bar(rating_counts.index, rating_counts.values)
+plt.title("Overall Rating Distribution")
+plt.xlabel("Rating")
+plt.ylabel("Count")
+plt.tight_layout()
+plt.savefig(OUTPUT_DIR / "rating_distribution.png")
+plt.close()
+
+print("[INFO] Saved rating_distribution.png")
