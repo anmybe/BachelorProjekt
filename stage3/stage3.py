@@ -38,10 +38,10 @@ API_PROVIDER = "GEMINI"
 
 MOCK_MODE = False
 CHUNK_FOLDER = "chunks_gemini_semantic_serial(Hälfte2)"
-OUTPUT_DIR_PHASE1 = "Schritt1_Results"
+OUTPUT_DIR_PHASE1 = "stage3_Results"
 
 
-# --- API KEYS AND MODEL MAPPING (Laden aus Umgebungsvariablen) ---
+# --- API KEYS AND MODEL MAPPING (Load from environment variables) ---
 
 API_KEYS = {
     "GEMINI": os.environ.get("GEMINI_API_KEY"),
@@ -207,7 +207,7 @@ RESPONSE_SCHEMA = _sanitize_schema_types(DRAFT_RESPONSE_SCHEMA)
 CHUNK_RESPONSE_SCHEMA = RESPONSE_SCHEMA["properties"]["extracted_data"]
 
 
-# --- CORE QUERY BUILDERS (AKTUALISIERT) ---
+# --- CORE QUERY BUILDERS (UPDATED) ---
 
 CHUNK_INSTRUCTION_PREFIX = (
     "INSTRUCTIONS: You are a highly specialized Scientific Data Extractor. Analyze the provided article chunk "
@@ -282,7 +282,7 @@ def build_synthesis_query(document_id: str, title: str, chunk_results: list) -> 
     return SYSTEM_INSTRUCTION_PREFIX + synthesis_query
 
 
-# --- PROVIDER-SPECIFIC API CALLERS (Hinzufuegen der usage-Uebergabe) ---
+# --- PROVIDER-SPECIFIC API CALLERS (Add usage passing) ---
 
 def call_gemini_api(document_id: str, user_query: str, response_schema: Dict[str, Any]) -> Tuple[Dict[str, Any], Dict[str, Any]]:
     """Handles API call using raw requests for the Gemini API endpoint."""
@@ -448,7 +448,7 @@ def call_openai_api(document_id: str, user_query: str, response_schema: Dict[str
 def call_llm_api_internal(document_id: str, user_query: str, response_schema: Dict[str, Any], usage_tracker: Dict[str, Any]) -> Tuple[Dict[str, Any], Dict[str, Any]]:
     """
     Routes the API call to the selected provider with exponential backoff and tracks usage.
-    Gibt Ergebnis und Usage-Metriken (fuer diesen EINEN Call) zurueck.
+    Returns result and usage metrics (for this SINGLE call).
     """
     provider_map = {
         "GEMINI": call_gemini_api,
@@ -466,11 +466,11 @@ def call_llm_api_internal(document_id: str, user_query: str, response_schema: Di
     
     for attempt in range(max_retries):
         
-        # API-Caller gibt Result und usage_metadata zurueck
+        # API Caller returns result and usage_metadata
         result, usage_metadata = api_caller(document_id, user_query, response_schema)
         
         if "error" not in result:
-            # Token zur Gesamt-Document-Nutzung addieren
+            # Add tokens to total document usage
             usage_tracker['input_tokens'] += usage_metadata.get('input_tokens', 0)
             usage_tracker['output_tokens'] += usage_metadata.get('output_tokens', 0)
             usage_tracker['total_tokens'] += usage_metadata.get('total_tokens', 0)
@@ -544,7 +544,7 @@ def analyze_chunk(document_id: str, chunk_content: str, usage_tracker: Dict[str,
         
     user_query = build_chunk_analysis_query(document_id, sanitized_content)
     
-    # Der innere Aufruf gibt das Resultat und die akkumulierten Usage-Metriken zurueck
+    # The inner call returns the result and the accumulated usage metrics
     return call_llm_api_internal(
         document_id=document_id,
         user_query=user_query,
@@ -560,7 +560,7 @@ def synthesize_results(doc_id: str, title: str, chunk_results: List[Dict[str, An
 
     user_query = build_synthesis_query(doc_id, title, chunk_results)
     
-    # Der innere Aufruf gibt das Resultat und die akkumulierten Usage-Metriken zurueck
+    # The inner call returns the result and the accumulated usage metrics
     return call_llm_api_internal(
         document_id=doc_id,
         user_query=user_query,
@@ -573,11 +573,11 @@ def synthesize_results(doc_id: str, title: str, chunk_results: List[Dict[str, An
 
 def process_document(doc_id: str, doc_data: Dict[str, Any]) -> Tuple[str, Dict[str, Any], Dict[str, Any]]:
     """
-    Hauptverarbeitungsfunktion fuer ein Dokument, die parallelisiert wird.
-    Gibt die Dokumenten-ID, das Analyse-Resultat und die Token-Metriken zurueck.
+    Main processing function for a document, which is parallelized.
+    Returns the document ID, the analysis result, and the token metrics.
     """
     
-    # Lokaler Tracker, der die Usage fuer dieses EINE Dokument akkumuliert
+    # Local tracker that accumulates usage for this SINGLE document
     local_usage_tracker = {
         "provider": "", "model": "", "input_tokens": 0, "output_tokens": 0,
         "total_tokens": 0, "total_calls": 0
@@ -594,7 +594,7 @@ def process_document(doc_id: str, doc_data: Dict[str, Any]) -> Tuple[str, Dict[s
              # print(f"    -> Warning: Chunk {i+1} is empty, skipping.")
              continue
 
-        # WICHTIG: analyze_chunk aktualisiert local_usage_tracker durch Referenz
+        # IMPORTANT: analyze_chunk updates local_usage_tracker by reference
         chunk_result, local_usage_tracker = analyze_chunk(doc_id, chunk_content, local_usage_tracker)
         
         if "error" in chunk_result:
@@ -602,7 +602,7 @@ def process_document(doc_id: str, doc_data: Dict[str, Any]) -> Tuple[str, Dict[s
             return doc_id, chunk_result, local_usage_tracker
             
         all_chunk_results.append(chunk_result)
-        sleep(0.1) # Reduzierte Pause, da threadsicher
+        sleep(0.1) # Reduced pause, as thread-safe
 
     if not all_chunk_results:
         return doc_id, {"error": "No non-empty chunks were successfully processed."}, local_usage_tracker
@@ -619,7 +619,7 @@ def process_document(doc_id: str, doc_data: Dict[str, Any]) -> Tuple[str, Dict[s
 def main():
     """Main function to iterate over documents and process chunks in parallel."""
     
-    # Globaler Tracker zur Akkumulation aller Tokens
+    # Global tracker for accumulating all tokens
     TOTAL_TOKEN_USAGE = {
         "input_tokens": 0, "output_tokens": 0,
         "total_tokens": 0, "total_calls": 0
@@ -646,24 +646,24 @@ def main():
     print(f"\nStarting parallel analysis of {len(documents_to_process)} documents using {API_PROVIDER} (Max Workers: {MAX_WORKERS}).")
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-        # Erstelle Future-Objekte
+        # Create Future objects
         futures = {
             executor.submit(process_document, doc_id, data): doc_id 
             for doc_id, data in documents_to_process.items()
         }
 
-        # Verarbeite die Ergebnisse, sobald sie fertig sind (as_completed)
+        # Process results as soon as they are ready (as_completed)
         for future in concurrent.futures.as_completed(futures):
             doc_id = futures[future]
             
             try:
-                # Hole die Ergebnisse und die lokale Usage
+                # Get results and local usage
                 doc_id, analysis_result, doc_usage = future.result()
             except Exception as e:
                 print(f"\nCRITICAL ERROR PROCESSING {doc_id}: {e}")
                 continue
             
-            # Token-Nutzung zur Gesamt-Statistik addieren
+            # Add token usage to total statistics
             TOTAL_TOKEN_USAGE['input_tokens'] += doc_usage['input_tokens']
             TOTAL_TOKEN_USAGE['output_tokens'] += doc_usage['output_tokens']
             TOTAL_TOKEN_USAGE['total_tokens'] += doc_usage['total_tokens']
@@ -682,7 +682,7 @@ def main():
                 print(f"\n✅ Successfully analyzed and saved {doc_id} to '{output_filename}'.")
                 success_count += 1
                 
-                # Token-Nutzung für dieses Dokument ausgeben
+                # Output token usage for this document
                 print("--- TOKEN USAGE SUMMARY FOR DOCUMENT ---")
                 print(f"Provider: {doc_usage['provider']} ({doc_usage['model']})")
                 print(f"Total API Calls: {doc_usage['total_calls']}")
@@ -698,7 +698,7 @@ def main():
     
     print(f"\nPipeline Phase 1 completed. Successfully processed {success_count} documents.")
 
-    # Gesamte Token-Nutzung ausgeben
+    # Output total token usage
     print("\n\n=============== OVERALL COST SUMMARY ===============")
     print(f"Total Documents Processed Successfully: {success_count}")
     print(f"Provider: {API_PROVIDER} ({MODELS[API_PROVIDER]})")

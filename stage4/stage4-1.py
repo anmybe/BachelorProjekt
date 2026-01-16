@@ -3,30 +3,30 @@ import os
 from collections import defaultdict
 from typing import Dict, Any, List, Tuple
 
-# --- CONFIGURATION (Behalte Ordnernamen) ---
+# --- CONFIGURATION (Keep folder names) ---
 
-# Input-Ordner mit den analysierten JSONs aus Phase 1 (Thread-Output)
-INPUT_FOLDER = "Schritt1_Results" 
-# Output-Datei fuer die bereinigte Liste
-OUTPUT_FILE = "biomarker-name-list(Schritt2).json"
+# Input folder with analyzed JSONs from Phase 1 (Thread Output)
+INPUT_FOLDER = "stage3/stage3_Results" 
+# Output file for the cleaned list
+OUTPUT_FILE = "biomarker-name-list(4-1).json"
 
-# --- REINE PYTHON STANDARDISIERUNG ---
+# --- PURE PYTHON STANDARDIZATION ---
 
 def get_standard_name_from_original(original_name: str) -> str:
     """
-    Diese Funktion implementiert die Regelwerk- oder Datenbank-basierte
-    Standardisierung, um jeden Originalnamen einem einzigen, konsistenten
-    Standardnamen zuzuordnen.
+    This function implements the rule-based or database-based
+    standardization to assign each original name to a single, consistent
+    standard name.
     
-    DA DIE VERWENDUNG VON KI EXPLIZIT AUSGESCHLOSSEN IST, MUSS DIESES
-    MAPPING MANUELL ODER ÜBER EINE STATISCHE NACHSCHLAGETABELLE ERFOLGEN.
+    SINCE AI IS EXPLICITLY EXCLUDED, THIS MAPPING MUST BE DONE
+    MANUALLY OR VIA A STATIC LOOKUP TABLE.
     
-    Der Standardname sollte immer der längste, wissenschaftlich korrekte Name sein.
+    The standard name should always be the longest, scientifically correct name.
     """
     
-    # Beispiel-Mapping basierend auf den von dir gelieferten Daten (Teilliste!)
+    # Example mapping based on provided data (Partial list!)
     MAPPING = {
-        # MicroRNA Beispiele
+        # MicroRNA Examples
         "miR-4539": "microRNA-4539",
         "miR-6132": "microRNA-6132",
         "miR-122–5p": "microRNA-122-5p",
@@ -37,7 +37,7 @@ def get_standard_name_from_original(original_name: str) -> str:
         "miR-130a-3p": "microRNA-130a-3p",
         "miR-155–5p": "microRNA-155-5p",
         
-        # Protein/Antigen Beispiele
+        # Protein/Antigen Examples
         "percentage of γ-H2AX positive cells": "Phosphorylated Histone H2AX",
         "γ-H2AX foci": "Phosphorylated Histone H2AX",
         "γ-H2AX foci per cell": "Phosphorylated Histone H2AX",
@@ -46,7 +46,7 @@ def get_standard_name_from_original(original_name: str) -> str:
         "CA19-9": "Carbohydrate Antigen 19-9",
         "THBS2": "Thrombospondin 2",
         "Anti-p53 antibody in combination with serum concentrations of CEA and CA19-9": "Anti-p53 Antibody",
-        "CEA": "Carcinoembryonic Antigen", # Muss hier zugeordnet werden, da es oft mit CA19-9 in Kombination kommt
+        "CEA": "Carcinoembryonic Antigen", # Must be assigned here as it often appears combined with CA19-9
         "C3c": "Complement Component 3c",
         "C5b-9": "Complement Component 5b-9",
         "IgM": "Immunoglobulin M",
@@ -58,18 +58,18 @@ def get_standard_name_from_original(original_name: str) -> str:
         "PINP": "Procollagen Type I N-terminal Propeptide",
         "PIICP": "Procollagen Type II C-terminal Propeptide",
         
-        # Zell-Marker / Cluster of Differentiation Beispiele
+        # Cell Marker / Cluster of Differentiation Examples
         "CD72": "Cluster of Differentiation 72",
         "CD59": "Cluster of Differentiation 59",
         "CD3+": "Cluster of Differentiation 3",
         "CD20+": "Cluster of Differentiation 20",
         "CD68+": "Cluster of Differentiation 68",
-        # Wichtig: Spezifische Zelltypen MÜSSEN auf den Basis-Biomarker gemappt werden
+        # Important: Specific cell types MUST be mapped to the base biomarker
         "CD226+ B cells": "Cluster of Differentiation 226", 
         "CD226+ CD4+ T cells": "Cluster of Differentiation 226",
-        # ... weitere CD226 Einträge, falls vorhanden
+        # ... further CD226 entries if present
         
-        # Panel Beispiele (diese sind schwerer statisch zu mappen)
+        # Panel Examples (these are harder to map statically)
         "Signature of 8 long noncoding RNAs": "Long Noncoding RNA Panel",
         "Five other miRNAs": "Unspecified microRNAs",
         "17-protein panel": "Protein Panel",
@@ -79,32 +79,32 @@ def get_standard_name_from_original(original_name: str) -> str:
         "Six serum proteins": "Serum Protein Panel",
     }
 
-    # Zuerst versuchen, eine exakte Übereinstimmung zu finden
+    # First try to find an exact match
     name_to_check = original_name.strip()
     if name_to_check in MAPPING:
         return MAPPING[name_to_check]
 
-    # ZWEITE STRATEGIE (Teilstring-Mapping, nur bei Abkürzungen/CDs)
-    # Wenn der Name eine bekannte Abkürzung enthält (z.B. CD226+ B cells)
+    # SECOND STRATEGY (Substring mapping, only for abbreviations/CDs)
+    # If the name contains a known abbreviation (e.g. CD226+ B cells)
     for original_key, standard_value in MAPPING.items():
         if original_name.startswith(original_key) and original_key.startswith("CD"):
             return standard_value
 
-    # DRITTE STRATEGIE (Standard-Rückgabe bei fehlendem Mapping)
-    # Hier muss entschieden werden, ob man den Namen zurückgibt (keine Standardisierung)
-    # oder ob man einen Platzhalter verwendet.
-    # Für eine sichere Fusion geben wir den Originalnamen unberührt zurück
-    # und müssen später manuell fusionieren.
-    return original_name # ACHTUNG: Standardisiert diesen Eintrag NICHT!
+    # THIRD STRATEGY (Default return if mapping missing)
+    # Here we must decide whether to return the name (no standardization)
+    # or use a placeholder.
+    # For safe fusion we return the original name untouched
+    # and must fuse manually later.
+    return original_name # ATTENTION: Does NOT standardize this entry!
 
 
 def load_all_biomarkers_for_clustering(directory_path: str) -> List[Dict[str, str]]:
     """
-    Lädt alle Biomarker-Namen und IDs aus allen JSON-Dateien in eine flache Liste
-    (Deine korrigierte Version).
+    Loads all biomarker names and IDs from all JSON files into a flat list
+    (Your corrected version).
     """
     if not os.path.isdir(directory_path):
-        print(f"Error: Das Eingabeverzeichnis '{directory_path}' wurde nicht gefunden.")
+        print(f"Error: The input directory '{directory_path}' was not found.")
         return []
 
     all_biomarkers = []
@@ -120,7 +120,7 @@ def load_all_biomarkers_for_clustering(directory_path: str) -> List[Dict[str, st
                     doc_id = doc_data.get('document_source_id', 'UNKNOWN_ID')
                     
                     extracted_data = doc_data.get('extracted_data', {})
-                    # Anpassung: Verwenden von 'analyzed_biomarkers'
+                    # Adjustment: Use 'analyzed_biomarkers'
                     biomarkers = extracted_data.get('analyzed_biomarkers', [])
                     
                     for entry in biomarkers:
@@ -132,38 +132,38 @@ def load_all_biomarkers_for_clustering(directory_path: str) -> List[Dict[str, st
                             })
                             
             except (json.JSONDecodeError, IndexError, AttributeError) as e:
-                print(f"  - Fehler: Datei {filename} konnte nicht geparst werden: {e}")
+                print(f"  - Error: File {filename} could not be parsed: {e}")
             
-    print(f"\nGeladene Biomarker-Einträge zur Standardisierung: {len(all_biomarkers)}")
+    print(f"\nLoaded biomarker entries for standardization: {len(all_biomarkers)}")
     return all_biomarkers
 
 
 def fuse_and_standardize_results_pure_python(raw_entries: List[Dict[str, str]]) -> List[Dict[str, Any]]:
     """
-    Führt die Standardisierung und die Fusion in einem Schritt ohne LLM durch,
-    basierend auf der reinen Python-Mapping-Logik.
+    Performs standardization and fusion in one step without LLM,
+    based on the pure Python mapping logic.
     """
-    # fused_map verwendet den standard_name als Schlüssel.
+    # fused_map uses standard_name as key.
     fused_map = defaultdict(lambda: {
-        'source_entries': set() # Speichert Tupel (original_name, document_source_id)
+        'source_entries': set() # Stores tuples (original_name, document_source_id)
     })
 
     for entry in raw_entries:
         original_name = entry.get('original_name')
         doc_id = entry.get('document_source_id')
         
-        # 1. Standardisierung: Hier wird der Originalname gemappt
+        # 1. Standardization: Here the original name is mapped
         standard_name = get_standard_name_from_original(original_name)
 
         if standard_name and original_name and doc_id:
-            # Füge das Paar (Originalname, ID) als Tupel hinzu (Set verhindert Duplikate)
+            # Add pair (OriginalName, ID) as tuple (Set prevents duplicates)
             fused_map[standard_name]['source_entries'].add((original_name, doc_id))
 
-    # 2. Konvertierung des Maps in das finale Array-Schema
+    # 2. Conversion of map to final array schema
     final_list = []
     for standard_name, data in fused_map.items():
-        # Konvertiere das Set von Tupeln in eine Liste von Dictionaries,
-        # sortiert nach dem original_name für Konsistenz.
+        # Convert set of tuples to list of dictionaries,
+        # sorted by original_name for consistency.
         source_entries_list = sorted([
             {"original_name": on, "document_source_id": did}
             for on, did in data['source_entries']
@@ -174,31 +174,31 @@ def fuse_and_standardize_results_pure_python(raw_entries: List[Dict[str, str]]) 
             "source_entries": source_entries_list
         })
         
-    # Sortiere die finale Liste nach standard_name
+    # Sort final list by standard_name
     return sorted(final_list, key=lambda x: x['standard_name'])
 
 
 def main_pure_python():
     print("--- PHASE 3: BIOMARKER STANDARDIZATION AND CLUSTERING (PURE PYTHON) ---")
     
-    # 1. Daten laden (flache Liste aller Biomarker-Einträge)
+    # 1. Load data (flat list of all biomarker entries)
     all_raw_biomarkers = load_all_biomarkers_for_clustering(INPUT_FOLDER)
     if not all_raw_biomarkers:
-        print("Pipeline gestoppt: Keine Biomarker zum Standardisieren gefunden.")
+        print("Pipeline stopped: No biomarkers found for standardization.")
         return
 
-    # 2. Standardisierung und Fusion in Python
-    print("\nStarte reine Python Standardisierung und Fusion...")
+    # 2. Standardization and Fusion in Python
+    print("\nStarting pure Python standardization and fusion...")
     final_fused_list = fuse_and_standardize_results_pure_python(all_raw_biomarkers)
 
-    # 3. Speichern der konsolidierten Ergebnisse
+    # 3. Save consolidated results
     with open(OUTPUT_FILE, "w", encoding='utf-8') as f:
-        json.dump(final_fused_list, f, indent=2, ensure_ascii=False) # ensure_ascii=False für Umlaute/Sonderzeichen
+        json.dump(final_fused_list, f, indent=2, ensure_ascii=False) # ensure_ascii=False for special characters
         
     print("\n=========================================================")
-    print(f"✅ SUCCESS: Biomarker Standardization & Fusion abgeschlossen.")
-    print(f"  Gesamtzahl der eindeutigen Biomarker (nach Fusion): {len(final_fused_list)}")
-    print(f"  Ergebnisse gespeichert in '{OUTPUT_FILE}'")
+    print(f"✅ SUCCESS: Biomarker Standardization & Fusion completed.")
+    print(f"  Total number of unique biomarkers (after fusion): {len(final_fused_list)}")
+    print(f"  Results saved in '{OUTPUT_FILE}'")
     print("=========================================================\n")
 
 
