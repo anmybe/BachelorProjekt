@@ -1,0 +1,103 @@
+{
+  "standard_name": "Cartilage Oligomeric Matrix Protein",
+  "source_entries": [
+    {
+      "original_name": "COMP",
+      "document_source_id": "34652292"
+    },
+    {
+      "original_name": "COMP (cartilage oligomeric matrix protein)",
+      "document_source_id": "39936025"
+    },
+    {
+      "original_name": "Cartilage oligomeric matrix protein (COMP) mRNA",
+      "document_source_id": "38460548"
+    }
+  ],
+  "biomarker_summary": {
+    "overall_biomarker_summary": "Automatischer Platzhalter fuer Cartilage Oligomeric Matrix Protein: Gefunden in 3 Quellen. Manuelle Synthese erforderlich.",
+    "mechanisms_consensus": "Details zu den Mechanismen sind in den 'aggregated_source_findings_DEBUG' enthalten.",
+    "reliability_consensus": "Manuelle Aggregation der Zuverlaessigkeit ueber mehrere Studien noetig."
+  },
+  "metadata": {
+    "total_documents_contributed": 3,
+    "api_calls_for_synthesis": 0
+  },
+  "aggregated_source_findings_DEBUG": [
+    {
+      "original_name": "COMP",
+      "document_source_id": "34652292",
+      "document_context_data": {
+        "document_summary": "This narrative review investigates current and potential blood and urine biomarkers for osteoarthritis (OA), focusing on markers derived from type II collagen and aggrecan to reflect joint tissue turnover. The review details their molecular targets, measurement methods, and diagnostic, prognostic, and pharmacodynamic utility in assessing cartilage degradation, bone turnover, and disease progression, including responses to treatments. It highlights both established and preclinical markers, emphasizing the complexities of cleavage sites, the need for multi-protease inhibition strategies, and further biomarker validation, while noting a continued lack of operationalized in vitro diagnostics and markers for patient endotyping.",
+        "treatment_details": {
+          "therapy_type": "Osteoarthritis (OA) biomarker investigation, Doxycycline treatment, Oral salmon calcitonin (sCT), Cathepsin K inhibition, Collagen hydrolysate supplementation, Fibroblast growth factor 18 (FGF-18) induced remodeling",
+          "dose_specificity": "No specific therapeutic dose or intervention protocols are primarily reported, as this is a narrative review focusing on biomarkers for Osteoarthritis and their utility in drug development and patient management. However, some treatments were mentioned: Doxycycline was investigated in a randomized controlled trial in 120 obese knee OA patients (specific dose/duration not detailed). Oral salmon calcitonin (sCT) was examined for its effect on knee OA patients (specific dose not detailed). Cathepsin K inhibition reduced CTX-I by more than 90% (specific inhibitor dose/duration not reported). Collagen hydrolysate administration led to a modest decrease in CS846 and an elevation in PIIANP (specific dose/duration not reported). No dose-response comparisons were generally reported."
+        }
+      },
+      "matched_biomarker_details": [
+        {
+          "biomarker_name": "COMP",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Protein turnover measurement.",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Highly elevated after traumatic injury and moderate to high with impact exercise."
+          },
+          "core_biological_function": "Measures the turnover of the cartilage oligomeric matrix protein.",
+          "relevant_activity_context": "Traumatic injury; impact exercise.",
+          "performance_or_health_indicator": "Indicates cartilage oligomeric matrix protein turnover; elevated levels are associated with cartilage stress or damage from traumatic injury and impact exercise."
+        }
+      ]
+    },
+    {
+      "original_name": "COMP (cartilage oligomeric matrix protein)",
+      "document_source_id": "39936025",
+      "document_context_data": {
+        "document_summary": "This study developed and optimized a novel Quantum Dot-Linked Immunoassay (QLISA) for the sensitive and multiplex detection of biochemical markers, using spectroscopic QD-analyte complex measurements in a microvolume liquid droplet format on a glass microslide. The method significantly enhanced detection sensitivity and multiplexing capabilities for limited sample volumes, demonstrating 10 to 40 times stronger fluorescence signals compared to standard 96-well plate QLISAs and enabling the detection of lower analyte concentrations for model analytes such as Cartilage Oligomeric Matrix Protein (COMP) and human Growth Hormone (hGH).",
+        "treatment_details": {
+          "therapy_type": "Development and optimization of a Quantum Dot-Linked Immunosorbent Assay (QLISA) for sensitive and multiplex biomarker detection in a microvolume format.",
+          "dose_specificity": "The method utilized microvolume liquid droplets (2 \b5L samples) on a glass microslide, achieving 10 to 40 times stronger fluorescence signals compared to standard 96-well plate QLISAs. Analyte concentrations tested included COMP and hGH at 5 nM, 25 nM, and 50 nM. Optimization involved alkaline immune-complex disassembling solutions (e.g., 10 mM NaOH + 0.5% SDS or 50 mM NaOH + 0.5% SDS) for 5 minutes, followed by PBS dilution. Various concentrations of biotinylated antibodies (e.g., biotin-anti-hGH: 10 nM, 20 nM) and QDs (e.g., QD625: 20 nM, QD655, QD605, QD525) were used, with fluorescence intensity measurements using an excitation wavelength of 400 nm. Detection limits ranged from 50 fM (QD625) to 2 pM (QD525), significantly improving detectability especially in multiplex analysis where 96-well plate formats struggled to distinguish concentrations."
+        }
+      },
+      "matched_biomarker_details": [
+        {
+          "biomarker_name": "COMP (cartilage oligomeric matrix protein)",
+          "measured_tissue_or_fluid": "In vitro assay system (model recombinant protein in buffered solutions and microvolume liquid droplets on a glass microslide)",
+          "activity_type": "Protein Level Detection and Quantification (via Quantum Dot-Linked Immunoassay, QLISA)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Detected and quantified across 5 nM, 25 nM, and 50 nM concentrations. Microvolume detection significantly increased FL signal strength and sensitivity (10-40 times stronger than 96-well QLISAs), with detection limits from 50 fM (QD625) to 2 pM (QD525). Specific increases in MFI with PBS dilution were 1.36-fold for 50 nM, 2.13-fold for 25 nM, and 2.5-fold for 5 nM (all P \b1 0.001). For 50 nM COMP, microvolume detection showed a 5.5 times higher MFI compared to 96-well format (P \b1 0.0001). A 14.4-fold difference from blank was achieved for 3.125 nM in microslide vs. 1.3-fold in 96-well. Singleplex detection yielded 14.5-fold and duplex 3.1-fold ratios to blank in microvolume for 50 nM COMP."
+          },
+          "core_biological_function": "A noncollagenous extracellular matrix protein primarily found in cartilage, mediating its structure and integrity; used as a model analyte for immunoassay development and associated with inflammatory and degenerative age-related joint diseases.",
+          "relevant_activity_context": "Optimization and validation of a microvolumetric Quantum Dot-Linked Immunoassay (QLISA) for multiplex detection of protein analytes, involving immune-complex disassembling solutions, PBS dilution, and comparison between 96-well plate and glass microslide formats.",
+          "performance_or_health_indicator": "Serves as a model biomarker to demonstrate the enhanced sensitivity and multiplexing capabilities of the QLISA method; it is relevant for potential diagnostic applications for musculoskeletal conditions, indicating joint health/damage, and can aid in the diagnosis and characterization of inflammatory and degenerative age-related joint diseases."
+        }
+      ]
+    },
+    {
+      "original_name": "Cartilage oligomeric matrix protein (COMP) mRNA",
+      "document_source_id": "38460548",
+      "document_context_data": {
+        "document_summary": "This study investigated disease and target engagement biomarkers in the phase 2b RISE-SSc trial of riociguat in early diffuse cutaneous systemic sclerosis (dcSSc) to predict treatment response. While the primary endpoint (modified Rodnan Skin Score, mRSS) did not reach statistical significance, riociguat treatment significantly increased plasma cGMP levels, indicating engagement of the NO-sGC-cGMP pathway. Additionally, serum sPECAM-1 and CXCL-4 levels decreased with riociguat. Elevated baseline sPECAM-1 and the presence of αSMA-positive cells in skin biopsies were identified as potential predictive biomarkers for greater mRSS reduction with riociguat, suggesting these markers may help identify patients who could benefit from the treatment for skin fibrosis.",
+        "treatment_details": {
+          "therapy_type": "Riociguat (Drug Treatment)",
+          "dose_specificity": "Patients with early treatment-naïve diffuse cutaneous systemic sclerosis were randomized to receive riociguat (n=60) or placebo (n=61) for 52 weeks. Riociguat was administered up to 2.5 mg, maximum three times daily. Biomarker assessments were performed at baseline (day 0) and week 14, with clinical endpoints evaluated up to week 52. Rescue therapy was permitted from week 26. While cGMP changes correlated with riociguat pharmacokinetics, no explicit dose-response comparisons for other biomarkers were formally reported."
+        }
+      },
+      "matched_biomarker_details": [
+        {
+          "biomarker_name": "Cartilage oligomeric matrix protein (COMP) mRNA",
+          "measured_tissue_or_fluid": "Skin biopsies",
+          "activity_type": "Gene Transcript (mRNA fold-change)",
+          "measured_effect": {
+            "direction_of_change": "unchanged (between groups); fold-change correlated with mRSS change",
+            "magnitude_quantification": "Changes in mRNA levels did not differ significantly between riociguat and placebo groups from baseline to week 14. However, fold-changes showed a modest correlation (0.306) with change in mRSS from baseline to week 52 in the riociguat group."
+          },
+          "core_biological_function": "Extracellular matrix protein, involved in matrix remodeling.",
+          "relevant_activity_context": "Riociguat treatment in dcSSc patients from baseline to week 14/52.",
+          "performance_or_health_indicator": "No significant change in mRNA levels due to treatment, but a modest correlation with mRSS changes suggests it could be a potential indicator of skin fibrosis progression."
+        }
+      ]
+    }
+  ]
+}

@@ -4,8 +4,8 @@ import os
 def generate_links():
     # Try both possible paths
     paths = [
-        "paper_pipeline/intermediary_results/stageB_metadata_merged.json",
-        "paper_pipeline/paper_links/stageB_metadata_merged.json"
+        "step1-2/intermediary_results/stageB_metadata_merged.json",
+        "step1-2/paper_links/stageB_metadata_merged.json"
     ]
     
     metadata_path = None

@@ -1,0 +1,306 @@
+{
+  "standard_name": "Hematocrit",
+  "source_entries": [
+    {
+      "original_name": "Hematocrit",
+      "document_source_id": "27231439"
+    },
+    {
+      "original_name": "Hematocrit",
+      "document_source_id": "28542490"
+    },
+    {
+      "original_name": "Hematocrit",
+      "document_source_id": "35581242"
+    },
+    {
+      "original_name": "Hematocrit",
+      "document_source_id": "37256146"
+    },
+    {
+      "original_name": "Hematocrit",
+      "document_source_id": "40507193"
+    },
+    {
+      "original_name": "Hematocrit (Hct)",
+      "document_source_id": "35061562"
+    },
+    {
+      "original_name": "Hematocrit (Hct)",
+      "document_source_id": "35449856"
+    },
+    {
+      "original_name": "Hematocrit (Hct)",
+      "document_source_id": "35977107"
+    },
+    {
+      "original_name": "Hematocrit (Hct)",
+      "document_source_id": "36498228"
+    },
+    {
+      "original_name": "Hematocrit percentage",
+      "document_source_id": "34734091"
+    }
+  ],
+  "biomarker_summary": {
+    "overall_biomarker_summary": "Automatischer Platzhalter fuer Hematocrit: Gefunden in 10 Quellen. Manuelle Synthese erforderlich.",
+    "mechanisms_consensus": "Details zu den Mechanismen sind in den 'aggregated_source_findings_DEBUG' enthalten.",
+    "reliability_consensus": "Manuelle Aggregation der Zuverlaessigkeit ueber mehrere Studien noetig."
+  },
+  "metadata": {
+    "total_documents_contributed": 10,
+    "api_calls_for_synthesis": 0
+  },
+  "aggregated_source_findings_DEBUG": [
+    {
+      "original_name": "Hematocrit",
+      "document_source_id": "27231439",
+      "document_context_data": {
+        "document_summary": "This study investigated the effects of short-term powdered Montmorency tart cherry supplementation on markers of muscle damage, inflammation, oxidative stress, and muscle soreness in aerobically trained individuals undergoing a half-marathon run. Findings indicate that supplementation attenuated muscle catabolism (creatinine, urea/BUN, total protein), reduced physiological stress (cortisol), lessened immune and inflammatory stress (IL-2, IL-6, IL-13), better maintained redox balance (antioxidant activity, TAS), and reduced muscle soreness, ultimately enhancing endurance performance and recovery.",
+        "treatment_details": {
+          "therapy_type": "Powdered Montmorency tart cherry supplementation and endurance running (half-marathon race)",
+          "dose_specificity": "Subjects ingested capsules containing 480 mg of powdered Montmorency tart cherries (CherryPURE®) once daily for 10 days (7 days pre-race, race day, and 2 days post-race), compared to a 480 mg rice flour placebo. This 480 mg supplement is equivalent to 51.3 mL (17.4 fl oz) of tart cherry juice, providing 991 mg of phenolic compounds and 66 mg of anthocyanins. The intervention was evaluated in the context of a stressful endurance challenge: a half-marathon run (21.1 km). No dose-response comparisons were reported, but the supplementation significantly affected physiological responses and race performance compared to placebo."
+        }
+      },
+      "matched_biomarker_details": [
+        {
+          "biomarker_name": "Hematocrit",
+          "measured_tissue_or_fluid": "Whole Blood",
+          "activity_type": "Volume Percentage",
+          "measured_effect": {
+            "direction_of_change": "no significant group differences",
+            "magnitude_quantification": "All immune-related complete blood counts demonstrated significant changes over time (p<0.001), but no significant changes between groups."
+          },
+          "core_biological_function": "Proportion of red blood cells in total blood volume.",
+          "relevant_activity_context": "Analysis in the context of a study involving half-marathon running and potential supplementation.",
+          "performance_or_health_indicator": "Reflects blood viscosity, oxygen transport efficiency, and hydration status."
+        }
+      ]
+    },
+    {
+      "original_name": "Hematocrit",
+      "document_source_id": "28542490",
+      "document_context_data": {
+        "document_summary": "This study investigated the acute and cumulative effects of three repeated bouts of exhaustive treadmill exercise on circulating cell-free nuclear DNA (cf n-DNA), cell-free mitochondrial DNA (cf mt-DNA), muscle damage, and metabolic markers in healthy, average-trained men. It found a remarkable and tremendous increase in post-exercise cf n-DNA without tolerance development, a moderate post-exercise increase in cf mt-DNA, and a significant decrease in baseline cf mt-DNA over the study period. The research also observed cumulative muscle damage (indicated by CK, AST, ALT), dehydration effects on blood cell counts, elevated white blood cell counts, and increased metabolic markers after exercise. Circulating cf n-DNA was highlighted as a highly sensitive indicator for monitoring acute exercise effects, surpassing traditional muscle injury and metabolic markers.",
+        "treatment_details": {
+          "therapy_type": "Exhaustive Treadmill Exercise",
+          "dose_specificity": "Eleven healthy, average-trained men performed three repeated bouts of treadmill exercise to volitional exhaustion, separated by 72 hours (3 days) of resting. Each bout was at a speed corresponding to 70% of the individual's maximal oxygen consumption (VO2 max), with a constant treadmill inclination of 1.5%, and involved increasing treadmill velocity by 2 km/h every 3 minutes until exhaustion. Participants were allowed to drink mineral water. The intensity of each bout was comparable to a half-marathon in terms of cf n-DNA response. The study assessed cumulative effects and tolerance development over repeated bouts, but no explicit dose-response comparisons for changes were reported."
+        }
+      },
+      "matched_biomarker_details": [
+        {
+          "biomarker_name": "Hematocrit",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Level/Concentration",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Revealed a tendency to increase in response to exercise; attributed to dehydration."
+          },
+          "core_biological_function": "Represents the proportion of blood volume occupied by red blood cells; indicative of blood viscosity and hydration status.",
+          "relevant_activity_context": "After each bout of exhaustive treadmill exercise.",
+          "performance_or_health_indicator": "Indicates physiological response to exercise-induced water loss/dehydration."
+        }
+      ]
+    },
+    {
+      "original_name": "Hematocrit",
+      "document_source_id": "35581242",
+      "document_context_data": {
+        "document_summary": "This study utilized a sportomics approach to investigate the physiological, biochemical, hemodynamic, metabolic, and hydration parameters in elite athletes undergoing a 40-minute high-intensity functional Cross Combat (CCombat) exercise protocol. The main aim was to evaluate the effects of this intensive training on hydration and kidney function, ultimately suggesting albuminuria as a sensitive biomarker for assessing hydration status changes during strenuous activity and mitigating chronic renal impairment.",
+        "treatment_details": {
+          "therapy_type": "Cross Combat (CCombat), a high-intensity functional exercise protocol inspired by CrossFit",
+          "dose_specificity": "The protocol involved a 40-minute high-intensity functional Cross Combat (CCombat) session, characterized as a 'cyclic exercise' with high-ATP demand, an intensity level of 70% repetition maximum, and 12 different exercises combined into six modules, designed to induce metabolic stress. Sixteen elite-level professional male athletes were engaged in training sessions over a 96-hour protocol, with blood samples collected. The study was observational, and athletes had free access to hydration post-protocol. No specific dose-response comparisons were reported."
+        }
+      },
+      "matched_biomarker_details": [
+        {
+          "biomarker_name": "Hematocrit",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Percentage volume",
+          "measured_effect": {
+            "direction_of_change": "transient decrease followed by no change",
+            "magnitude_quantification": "Decreased by approximately 5% during the second rest day (Rest2d) attributed to hydration restoration. It did not change (ranging from 43% to 45%) during the CCombat protocol (0\b140 min) or during short (up to 120 min) or long (up to 48 h) recovery. Changes correlated highly with natremia during resting (-48h and -24h), with r s values of 0.65."
+          },
+          "core_biological_function": "Indicator of blood volume (volemia), hemoconcentration, and blood water content.",
+          "relevant_activity_context": "Pre-exercise, during CCombat exercise, and during short/long recovery periods, with observations during initial rest days.",
+          "performance_or_health_indicator": "Reflects changes in blood volume/volemia and is used as a tool for hydration follow-up in exercise; a decline can be attributed to hydration restoration."
+        }
+      ]
+    },
+    {
+      "original_name": "Hematocrit",
+      "document_source_id": "37256146",
+      "document_context_data": {
+        "document_summary": "This pilot study aimed to investigate the effects of allogeneic stem-cell transplantation (alloSCT) on physical condition, muscle function, and inflammation in patients during inpatient time. It describes methods for assessing cardiopulmonary performance, body composition, muscle strength, motor skills, and various blood biomarkers (inflammatory, muscular, cardiovascular, and red blood cell parameters) at pre-transplantation, engraftment, and discharge time points. The main findings include a significant decline in grip strength and muscle function, increased levels of hsCRP and Kynurenine at engraftment, and changes in TNF-alpha, Musclin, and Galectin-3, suggesting their utility as novel biomarkers for monitoring acute inflammation, myopathy, sarcopenia, and cardiovascular health in alloSCT patients. It also noted a decline in patient physical activity adherence during the inpatient stay, without a direct correlation between steroid dosage and grip strength decline.",
+        "treatment_details": {
+          "therapy_type": "Allogenic Stem-Cell Transplantation (alloSCT)",
+          "dose_specificity": "Patients underwent allogenic stem-cell transplantation (alloSCT), with conditioning regimens consisting of 76.9% myeloablative and 23.0% dose-reduced approaches; no non-myeloablative. The study did not report specific dose-response comparisons for alloSCT itself. Glucocorticoids were administered at an average dose of 4.5 \n\t3.9 mg/kg body weight per week, totaling a mean of 27.9 \n\t27.7 mg/kg per patient during the inpatient stay, aligning with guideline recommendations. Daily physical activity was documented and declined significantly, with endurance training decreasing from an average of 14.0 \n\t8.2 min/day before engraftment to 7.2 \n\t7.0 min/day post-engraftment, and strength training decreasing from 12.11 \n\t7.0 min/day pre-engraftment to 9.6 \n\t6.3 min/day post-engraftment. Supervised physiotherapy was offered approximately every three days. No correlation was observed between administered steroid dosage and the decline in grip strength within this study's cohort."
+        }
+      },
+      "matched_biomarker_details": [
+        {
+          "biomarker_name": "Hematocrit",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Volume percentage",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Decreased at T1 compared to T0 (p<0.0001); not significantly different to T0 at T2."
+          },
+          "core_biological_function": "Proportion of blood volume occupied by red blood cells",
+          "relevant_activity_context": "Post-allogeneic hematopoietic stem cell transplantation (alloSCT) at engraftment time point T1",
+          "performance_or_health_indicator": "Indicates red blood cell system status and recovery post-alloSCT, related to blood viscosity and oxygen delivery."
+        }
+      ]
+    },
+    {
+      "original_name": "Hematocrit",
+      "document_source_id": "40507193",
+      "document_context_data": {
+        "document_summary": "This sportomics study investigated the metabolic, immune, hormonal, and amino acid responses, alongside muscle and liver injury markers, in two elite female Olympic beach volleyball athletes during a simulated competition day involving two matches. Key findings revealed significant acute physiological impacts, including electrolyte disturbances (notably hypokalemia), 20-60% increases in muscle injury markers and up to 50% for liver enzymes, elevated stress hormones (ACTH up to 4-fold, cortisol up to 3-fold), and altered energy metabolism and amino acid profiles indicative of central fatigue risk (e.g., Fischer ratio and tryptophan decreased by 60%, serotonin increased by 180%). The study emphasized distinct individual recovery kinetics, highlighted the inadequacy of short recovery sessions, and advocated for personalized monitoring due to varied biomarker responses despite similar external loads.",
+        "treatment_details": {
+          "therapy_type": "Simulated Beach Volleyball Competition",
+          "dose_specificity": "Two world-class female athletes participated in a simulated competition day involving two high-intensity beach volleyball matches (a two-set match in the morning and a three-set match in the afternoon), under identical environmental conditions. Blood and urine samples were collected at seven time points: pre-match, post-match, 60 minutes after each match (short recovery), and after a 15-hour long recovery. The protocol included 15-minute warm-ups. No dose-response comparisons were explicitly reported; however, individual responses to the same protocol were highlighted, and short recovery sessions were found to be inadequate for full physiological recovery, with the second match demonstrating cumulative strain."
+        }
+      },
+      "matched_biomarker_details": [
+        {
+          "biomarker_name": "Hematocrit",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Hematological parameter",
+          "measured_effect": {
+            "direction_of_change": "higher, then returned toward baseline",
+            "magnitude_quantification": "Increased acutely following matches and returned toward pre-exercise baseline levels quickly during short recovery. Levels remained predominantly below initial values throughout the protocol, except post-match 1, showing similar patterns for both athletes."
+          },
+          "core_biological_function": "Volume percentage of red blood cells, indicating blood viscosity and oxygen-carrying capacity",
+          "relevant_activity_context": "Simulated beach volleyball competition (post-match, short recovery), acute exercise.",
+          "performance_or_health_indicator": "Indirectly assesses acute blood volume changes (hemoconcentration/dilution) due to exercise."
+        }
+      ]
+    },
+    {
+      "original_name": "Hematocrit (Hct)",
+      "document_source_id": "35061562",
+      "document_context_data": {
+        "document_summary": "This study investigated the impact of extreme static apnea on blood-brain barrier (BBB) integrity and neurovascular unit (NVU) protein exchange in ultra-elite breath-hold divers, aiming to distinguish between hypoxemic- and hypercapnic-induced stress. Findings revealed that hypoxemia, independently of hypercapnia, is a critical stimulus contributing to increased BBB permeability and neuronal-gliovascular reactivity, leading to a net cerebral output of NVU proteins. This suggests transient NVU dysfunction rather than structural damage, with evidence of active repair mechanisms and highlighting hemodynamic stress as a key factor in BBB disruption.",
+        "treatment_details": {
+          "therapy_type": "Maximal static apnea (voluntary asphyxia) and breath-hold diving",
+          "dose_specificity": "Ten ultra-elite breath-hold divers performed two maximal dry apneas: Normoxic Normoventilation (NX) with an average apnea duration of 5m 6s (range: 3m 37s to 6m 49s), resulting in severe hypoxemia and hypercapnia; and Hyperoxic Hyperventilation (HX) with an average apnea duration of 15m 59s (range: 9m 39s to 21m 2s), preceded by 15 min of 100% O2 hyperventilation (targeting PET CO2 ~20 mmHg), which alleviated hypoxemia while compounding hypercapnia. Biomarker measurements were taken at baseline (pre-apnea) and at the apnea breakpoint, coinciding with the most severe hypoxemic-hypercapnic stress. NVU protein output was more pronounced in NX compared to HX (P < 0.05). Serial measurements for temporal dynamics and maximal rates of transcerebral protein flux were ethically constrained by blood volume loss, thus no specific dose-response comparisons were reported; however, biomarker output partially recovered post-NX, suggesting transient rather than sustained effects."
+        }
+      },
+      "matched_biomarker_details": [
+        {
+          "biomarker_name": "Hematocrit (Hct)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Generally elevated in hyperoxic (HX) compared to normoxic (NX) conditions."
+          },
+          "core_biological_function": "Volume percentage of red blood cells in blood.",
+          "relevant_activity_context": "Baseline in Hyperoxic (HX) conditions compared to Normoxic (NX) apnea.",
+          "performance_or_health_indicator": "Likely reflects (apnea-induced) splenic contraction and/or plasma volume contraction."
+        }
+      ]
+    },
+    {
+      "original_name": "Hematocrit (Hct)",
+      "document_source_id": "35449856",
+      "document_context_data": {
+        "document_summary": "This study investigated the changes in blood biochemical and hematological parameters and physical fitness outcomes in professional male soccer players following a pre-season (PS) training phase. It also analyzed the associations between these blood markers and various physical fitness measures, including sprint performance, VAMEVAL, and Countermovement Jump (CMJ) tests. Key findings revealed significant increases in platelets, creatinine, alkaline phosphatase, C-reactive protein, cortisol, and testosterone, as well as significant decreases in albumin and corrected calcium after the PS phase. Overall physical fitness measures improved, and several blood biomarkers showed moderate to large correlations with specific physical performance indicators.",
+        "treatment_details": {
+          "therapy_type": "Professional soccer pre-season (PS) training and specific physical fitness testing",
+          "dose_specificity": "The study involved 25 professional male soccer players (28.1 \nD7 4.6 years old) undergoing a regular pre-season training phase (June to October 2019) characterized by high training loads in both soccer practice and strength training, described as \"intense physical exercise\" and \"intensification of training demands.\" Biological markers were assessed at baseline (June 02, 2019) and post-PS (September 19, 2019), following a 48-hour rest, with an additional acute exercise component 12 hours prior to the second blood draw. Physical fitness was assessed using standardized tests: VAMEVAL (incremental running to exhaustion), 30-15 Intermittent Fitness Test (30-seconds intense running interspersed by 15-seconds rest until failure), linear sprints (5m, 10m, 15m, 20m split times), and Countermovement Jump (CMJ with hands on hips and free hands). No specific dose-response comparisons for the training or physical tests were reported as these were standardized maximal efforts."
+        }
+      },
+      "matched_biomarker_details": [
+        {
+          "biomarker_name": "Hematocrit (Hct)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Cell Volume Percentage",
+          "measured_effect": {
+            "direction_of_change": "Not reported",
+            "magnitude_quantification": "Not reported"
+          },
+          "core_biological_function": "Represents the percentage of blood volume occupied by red blood cells, related to oxygen-carrying capacity.",
+          "relevant_activity_context": "Pre-Season (PS) training phase in professional soccer players, assessed at baseline and post-PS.",
+          "performance_or_health_indicator": "Not reported in this study, but generally an indicator of oxygen-carrying capacity and endurance performance."
+        }
+      ]
+    },
+    {
+      "original_name": "Hematocrit (Hct)",
+      "document_source_id": "35977107",
+      "document_context_data": {
+        "document_summary": "This study investigated the impact of acute preexercise calcium intake on bone turnover markers and calcium homeostasis in elite male rowers during a day with multiple strenuous, non-weight-bearing training sessions. The findings indicate that consuming a calcium-rich meal before training stabilizes ionized calcium levels, reduces the postexercise parathyroid hormone response, and attenuates the increase in bone resorption markers (e.g., β-CTX-I) over a sustained 7-hour period, thereby supporting long-term bone health and reducing the risk of bone stress injuries.",
+        "treatment_details": {
+          "therapy_type": "Dietary calcium supplementation (via whole foods/meals) in conjunction with repeated, strenuous, non-weight-bearing rowing exercise.",
+          "dose_specificity": "Elite male rowers (n=16) participated in two trials, one week apart, each involving two 90-min rowing ergometer sessions (EX1, EX2) separated by 150 minutes. Before each trial, participants consumed either a high calcium meal (~1000 mg, CAL) or an isocaloric low calcium meal (<10 mg, CON). Each exercise session consisted of three 30-minute sets at 90-100% of individual 2 mmol·L−1 capillary blood lactate power (mean 255-260W). Calcium was provided acutely before training sessions. No dose-response comparisons were reported beyond the high versus low intake, nor for exercise intensity."
+        }
+      },
+      "matched_biomarker_details": [
+        {
+          "biomarker_name": "Hematocrit (Hct)",
+          "measured_tissue_or_fluid": "Capillary and Venous Whole Blood",
+          "activity_type": "Percentage",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Approximately 1.8% higher in CON than CAL (P < 0.001). Increased by ~2.3% from baseline at the end of EX1, then decreased by 7.8% during recovery. Generally increased during exercise and decreased during recovery in both conditions."
+          },
+          "core_biological_function": "Indicates red blood cell volume and is used to estimate fluid shifts and for hemoconcentration adjustment of other markers.",
+          "relevant_activity_context": "During strenuous rowing exercise (EX1, EX2) and recovery periods, with or without preexercise calcium intake (CAL vs CON). Also used to adjust bone turnover marker concentrations for hemoconcentration.",
+          "performance_or_health_indicator": "Indicates changes in blood volume due to fluid shifts, relevant for adjusting other biomarker concentrations. The reported difference between conditions was 'unlikely to be practically important' for Hct itself."
+        }
+      ]
+    },
+    {
+      "original_name": "Hematocrit (Hct)",
+      "document_source_id": "36498228",
+      "document_context_data": {
+        "document_summary": "This randomized, single-blind, placebo-controlled trial investigated the effects of 6-week Tribulus terrestris L. (TT) supplementation (770 mg/day) on muscle metabolism, inflammation, and antioxidant biomarkers in trained male CrossFit® athletes. The study concluded that TT supplementation could attenuate CrossFit® training-induced oxidative stress, muscle damage, and inflammation by modulating levels of LDH, CRP, and TAS, while other muscle damage and inflammatory markers remained unchanged.",
+        "treatment_details": {
+          "therapy_type": "Tribulus terrestris L. (TT) supplementation combined with a structured CrossFit training program",
+          "dose_specificity": "Tribulus terrestris (TT) was supplemented orally at 770 mg/day (2 capsules of 385 mg, 72.64% TT extract at 40% saponins) for 6 weeks, taken daily after workouts. The CrossFit training program involved 3 high-intensity sessions per week on alternate weekdays (4.5 hours/week total), including specific warm-ups, Workouts of the Day (WODs) like 'Grace' and 'Fran', and cool-downs. The TT dose was within the reported safety range of 250-9000 mg, and no dose-response comparisons were reported in this study."
+        }
+      },
+      "matched_biomarker_details": [
+        {
+          "biomarker_name": "Hematocrit (Hct)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Volume Percentage",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "No alterations or differences were found during or after the 6-week supplementation protocol."
+          },
+          "core_biological_function": "Percentage of blood volume occupied by red blood cells, indicating blood viscosity and oxygen-carrying capacity.",
+          "relevant_activity_context": "6-week Tribulus terrestris supplementation (770 mg/day) combined with a CrossFit training program.",
+          "performance_or_health_indicator": "Suggests that the supplementation and training program did not negatively impact blood component levels, maintaining health and performance potential."
+        }
+      ]
+    },
+    {
+      "original_name": "Hematocrit percentage",
+      "document_source_id": "34734091",
+      "document_context_data": {
+        "document_summary": "This observational study aimed to identify biomarkers for predicting severe dengue disease progression and cytokine release syndrome (CRS) by evaluating an integrated multiplex panel of cytokines/chemokines and clinical parameters in adult dengue patients. Researchers compared various severity groups (mild, severe without/with comorbidities, and healthy controls) across acute and convalescent phases. Key findings highlighted how specific markers like IL-18, IL-8, IL-6, and IFN-γ are altered in severe dengue, particularly with comorbidities, and their correlation with clinical indicators such as platelet counts and NS1. The study also characterized demographic and clinical parameters across patient groups, confirming the utility of a 24-plex cytokine/chemokine panel designed based on extensive literature review.",
+        "treatment_details": {
+          "therapy_type": "Observational study on biomarker identification and monitoring for dengue disease progression and severity",
+          "dose_specificity": "This was an observational study on 30 adult dengue patients (mean age 61.6 years, 17 male, 13 female) categorized into three severity groups based on WHO criteria (1997 and 2009): Mild Dengue Fever (MDF, n=10), Severe Dengue Disease without comorbidities (SDD-C, n=10), and Severe Dengue Disease with comorbidities (SDD+C, n=10). Six healthy controls were also included. A 24-plex panel of cytokines/chemokines was used to measure plasma levels, along with clinical blood parameters. Blood samples were collected during the acute febrile phase (before 6 days from disease onset) and the convalescent phase (9-18 days from disease onset). No therapeutic interventions or dose-response comparisons were reported, as the study focused on natural disease progression and biomarker correlation with severity."
+        }
+      },
+      "matched_biomarker_details": [
+        {
+          "biomarker_name": "Hematocrit percentage",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Volume Percentage",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "Slightly different between each severity group in acute and convalescent phases, but no significant difference reported. No quantitative data was given beyond 'slightly different'."
+          },
+          "core_biological_function": "Measures the proportion of blood volume that is occupied by red blood cells.",
+          "relevant_activity_context": "Acute and convalescent phases of dengue infection across MDF, SDD-C, and SDD+C severity groups.",
+          "performance_or_health_indicator": "Severity of dengue does not significantly influence hematocrit changes in the tested patients."
+        }
+      ]
+    }
+  ]
+}

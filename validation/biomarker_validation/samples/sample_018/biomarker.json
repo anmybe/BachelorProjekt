@@ -1,0 +1,45 @@
+{
+  "standard_name": "P100 Torque",
+  "source_entries": [
+    {
+      "original_name": "P100 torque",
+      "document_source_id": "38875105"
+    }
+  ],
+  "biomarker_summary": {
+    "overall_biomarker_summary": "Manuelle Synthese: P100 Torque wurde in 38875105 gefunden. Die tatsächliche Zusammenfassung muss manuell hinzugefügt werden.",
+    "mechanisms_consensus": "Manuelle Synthese: Hier wuerde die konsolidierte Mechanismus-Zusammenfassung stehen.",
+    "reliability_consensus": "Manuelle Synthese: Hier wuerde die konsolidierte Zuverlaessigkeits-Zusammenfassung stehen."
+  },
+  "metadata": {
+    "total_documents_contributed": 1,
+    "api_calls_for_synthesis": 0
+  },
+  "aggregated_source_findings_DEBUG": [
+    {
+      "original_name": "P100 torque",
+      "document_source_id": "38875105",
+      "document_context_data": {
+        "document_summary": "This study investigated the time course of cell-free DNA (cfDNA) and conventional muscle damage markers in response to mechanically demanding muscle-damaging drop jump exercise without significant metabolic stress in healthy males. It found that cfDNA levels increased acutely and with a delayed response up to 72 hours post-exercise, correlating strongly with primary muscle damage indicators (low-frequency fatigue, MVIC torque, P20/P100 torque) and delayed-onset muscle soreness. This suggests cfDNA is a sensitive marker for acute loss of muscle function after mechanical stress, offering insights into primary and secondary muscle damage responses.",
+        "treatment_details": {
+          "therapy_type": "Muscle-damaging exercise (Drop Jumps)",
+          "dose_specificity": "Fourteen participants performed 50 intermittent drop jumps once, from heights of approximately 0.5 m (ranging from 30.37 ± 5.55 cm to 36.39 ± 6.83 cm) with 20-second rest intervals between each jump. This protocol was designed to be mechanically demanding, inducing sufficient primary and secondary muscle damage, without placing the organism under significant metabolic stress. No dose-response comparisons were reported."
+        }
+      },
+      "matched_biomarker_details": [
+        {
+          "biomarker_name": "P100 torque",
+          "measured_tissue_or_fluid": "Muscle (neuromuscular testing)",
+          "activity_type": "Electrically evoked muscle torque measurement (high-frequency)",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Decreased due to DJs (79.5% ± 15.4%, P < 0.01); restored at 12 h after exercise (91.9% ± 10.6%, P > 0.05). Correlated with cfDNA (r = -0.3, P = 0.00038)."
+          },
+          "core_biological_function": "Measures the force response of a muscle to a high-frequency electrical stimulation, reflecting contractile properties and fatigue.",
+          "relevant_activity_context": "Following 50 Drop Jumps (mechanically demanding exercise).",
+          "performance_or_health_indicator": "Indicates muscle fatigue and damage caused by the experimental exercise, with restoration within 12 hours."
+        }
+      ]
+    }
+  ]
+}

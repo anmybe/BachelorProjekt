@@ -1,0 +1,45 @@
+{
+  "standard_name": "Dopamine",
+  "source_entries": [
+    {
+      "original_name": "Dopamine",
+      "document_source_id": "41010491"
+    }
+  ],
+  "biomarker_summary": {
+    "overall_biomarker_summary": "Manuelle Synthese: Dopamine wurde in 41010491 gefunden. Die tatsächliche Zusammenfassung muss manuell hinzugefügt werden.",
+    "mechanisms_consensus": "Manuelle Synthese: Hier wuerde die konsolidierte Mechanismus-Zusammenfassung stehen.",
+    "reliability_consensus": "Manuelle Synthese: Hier wuerde die konsolidierte Zuverlaessigkeits-Zusammenfassung stehen."
+  },
+  "metadata": {
+    "total_documents_contributed": 1,
+    "api_calls_for_synthesis": 0
+  },
+  "aggregated_source_findings_DEBUG": [
+    {
+      "original_name": "Dopamine",
+      "document_source_id": "41010491",
+      "document_context_data": {
+        "document_summary": "This randomized controlled trial investigated the effects of 8 weeks of daily 5g Cistanche deserticola (CD) extract supplementation, combined with progressive high-intensity resistance training, on muscle strength and recovery in both untrained and resistance-trained male participants. The study found that CD supplementation significantly enhanced muscle strength (1RM bench press and squat, MVIC) and endurance (RTF in untrained), and facilitated post-exercise recovery by modulating hormonal responses (increased testosterone, reduced cortisol) and decreasing markers of stress and inflammation (reduced CRP and CK levels) in both cohorts. Mechanistic insights suggest CD's role in improving energy metabolism, reducing muscle degradation, enhancing antioxidant defense, modulating neurotransmission, and regulating endocrine axes.",
+        "treatment_details": {
+          "therapy_type": "Cistanche deserticola (CD) supplementation combined with a progressive resistance training program.",
+          "dose_specificity": "Participants received 5 g of CD extract daily, administered in two sachets (after breakfast and lunch) for 8 consecutive weeks, alongside a placebo group. A standardized resistance training program was completed three times per week for eight weeks. This program involved 4 sets of 10-12 repetitions at 65-70% of 1RM for weeks 1-4, and 4 sets of 6-8 repetitions at 80% of 1RM for weeks 5-8. Maximal strength (1RM bench press/squat, MVIC) and endurance (RTF bench press) were assessed. No dose-response comparisons for CD were reported, only comparison to placebo."
+        }
+      },
+      "matched_biomarker_details": [
+        {
+          "biomarker_name": "Dopamine",
+          "measured_tissue_or_fluid": "Central nervous system / Brain",
+          "activity_type": "Concentrations",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Elevated and maintained levels (no specific quantification provided)."
+          },
+          "core_biological_function": "Neurotransmitter centrally involved in reward, motivation, motor control, and the regulation of fatigue.",
+          "relevant_activity_context": "Cistanche deserticola (CD) supplementation, particularly through the inhibition of MAO activity and the action of phenylethanoid glycosides, regulating neurotransmission.",
+          "performance_or_health_indicator": "Higher levels improve neurotransmission, enhance neuromuscular coordination, alleviate tension and anxiety, and mitigate fatigue, thereby benefiting overall athletic performance and central fatigue regulation."
+        }
+      ]
+    }
+  ]
+}

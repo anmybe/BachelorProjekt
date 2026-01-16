@@ -1,0 +1,45 @@
+{
+  "standard_name": "EPB41 (Erythrocyte Membrane Protein Band 4.1)",
+  "source_entries": [
+    {
+      "original_name": "EPB41 (erythrocyte membrane protein band 4.1)",
+      "document_source_id": "36403906"
+    }
+  ],
+  "biomarker_summary": {
+    "overall_biomarker_summary": "Manuelle Synthese: EPB41 (Erythrocyte Membrane Protein Band 4.1) wurde in 36403906 gefunden. Die tatsächliche Zusammenfassung muss manuell hinzugefügt werden.",
+    "mechanisms_consensus": "Manuelle Synthese: Hier wuerde die konsolidierte Mechanismus-Zusammenfassung stehen.",
+    "reliability_consensus": "Manuelle Synthese: Hier wuerde die konsolidierte Zuverlaessigkeits-Zusammenfassung stehen."
+  },
+  "metadata": {
+    "total_documents_contributed": 1,
+    "api_calls_for_synthesis": 0
+  },
+  "aggregated_source_findings_DEBUG": [
+    {
+      "original_name": "EPB41 (erythrocyte membrane protein band 4.1)",
+      "document_source_id": "36403906",
+      "document_context_data": {
+        "document_summary": "This study aimed to identify novel diagnostic plasma biomarkers for sport-related concussion (SRC) by investigating proteomic changes in collegiate athletes. It found 338 differentially abundant plasma proteins after SRC, with a combination of erythrocyte membrane protein band 4.1 (EPB41) and alpha-synuclein (SNCA) demonstrating high diagnostic accuracy, especially when measured more than 6 hours post-injury. The study also noted acute increases in cardiac-related proteins (troponin T, troponin I, and FABP3) post-SRC, suggesting physiological stress.",
+        "treatment_details": {
+          "therapy_type": "Diagnosis of Sport-related Concussion (SRC) using proteomic profiling",
+          "dose_specificity": "Blood samples were collected from concussed and non-concussed collegiate athletes within 48 hours post-injury, with analyses conducted for acute (0-6 hours) and subacute (7-48 hours) phases. A highly multiplexed proteomic DNA aptamers assay targeting 1305 plasma proteins was used. The study focused on biomarker discovery for diagnosis rather than a therapeutic intervention, thus no specific dose comparisons for a therapeutic agent were reported, nor was a 'dose' of concussion administered or compared."
+        }
+      },
+      "matched_biomarker_details": [
+        {
+          "biomarker_name": "EPB41 (erythrocyte membrane protein band 4.1)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher abundance after SRC (dysregulated)",
+            "magnitude_quantification": "Significantly more abundant after SRC (P<0.05). After 6 hours post-injury, individual plasma EPB41 showed an AUC of 0.956 (95%CI: 0.902–1.000); combination with SNCA provided an AUC of 1.000."
+          },
+          "core_biological_function": "Essential erythrocyte membrane component, stabilizing the spectrin-actin cytoskeleton, and plays an essential role in the central nervous system.",
+          "relevant_activity_context": "Sport-related concussion (SRC) diagnosis, particularly >6 hours post-injury.",
+          "performance_or_health_indicator": "A highly accurate plasma diagnostic biomarker for concussion in athletes, especially when combined with alpha-synuclein. Previously, decreased levels were associated with neurological impairments."
+        }
+      ]
+    }
+  ]
+}

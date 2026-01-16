@@ -1,0 +1,13 @@
+{
+    "pmid": "41082530",
+    "fidelity_score": 6,
+    "hallucination_score": 4,
+    "direction_accuracy_score": 3,
+    "completeness_score": 7,
+    "overall_rating": "acceptable",
+    "issues": [
+        "Reports expected biomarker increases not present in protocol",
+        "Treats study protocol as if reporting empirical findings",
+        "Overstates relevance of screening biomarkers as study outcomes"
+    ]
+}

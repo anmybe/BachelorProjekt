@@ -3,7 +3,7 @@ import os
 
 def generate_links():
     # This is where merge_stageB_metadata.py outputs the file
-    metadata_path = "paper_pipeline/intermediary_results/stageB_metadata_merged.json"
+    metadata_path = "step1-2/intermediary_results/stageB_metadata_merged.json"
     
     if not os.path.exists(metadata_path):
         print(f"Error: Metadata file not found at {metadata_path}")

@@ -1,0 +1,45 @@
+{
+  "standard_name": "Early Quadriceps Relaxation Time",
+  "source_entries": [
+    {
+      "original_name": "Early relaxation time (quadriceps)",
+      "document_source_id": "30848096"
+    }
+  ],
+  "biomarker_summary": {
+    "overall_biomarker_summary": "Manuelle Synthese: Early Quadriceps Relaxation Time wurde in 30848096 gefunden. Die tatsächliche Zusammenfassung muss manuell hinzugefügt werden.",
+    "mechanisms_consensus": "Manuelle Synthese: Hier wuerde die konsolidierte Mechanismus-Zusammenfassung stehen.",
+    "reliability_consensus": "Manuelle Synthese: Hier wuerde die konsolidierte Zuverlaessigkeits-Zusammenfassung stehen."
+  },
+  "metadata": {
+    "total_documents_contributed": 1,
+    "api_calls_for_synthesis": 0
+  },
+  "aggregated_source_findings_DEBUG": [
+    {
+      "original_name": "Early relaxation time (quadriceps)",
+      "document_source_id": "30848096",
+      "document_context_data": {
+        "document_summary": "This randomized, double-blind, placebo-controlled trial investigated the effects of 12 weeks of daily protein supplementation on lean body mass, fat mass, muscle strength, physical performance, and various biochemical markers in physically active older adults with low habitual protein intake, who were also training for a 4-day walking event. The study found that protein supplementation resulted in a larger increase in relative lean body mass and a greater reduction in fat mass compared to placebo. While both the protein and placebo groups showed improvements in physical performance and cardiorespiratory fitness due to the walking exercise, no additional between-group differences were observed in muscle strength, muscle contractile properties, or physical performance from protein supplementation. Serum urea increased in the protein group, but no adverse effects on renal function or muscle damage markers were noted, indicating protein supplementation is a safe strategy for this population.",
+        "treatment_details": {
+          "therapy_type": "Protein supplementation combined with walking exercise",
+          "dose_specificity": "Physically active older adults were randomized to receive either 31 g of milk protein concentrate daily (split into 15g at breakfast and 15g post-exercise/lunch) or an iso-caloric placebo for 12 weeks. This increased the protein group's total daily protein intake from 0.86 ± 0.23 g/kg/day upon enrollment to 1.29 ± 0.28 g/kg/day at 12 weeks. Both groups concurrently participated in walking exercise training for a 4-day walking event, covering an average of 338-391 km over 12 weeks. No dose-response comparisons for protein intake were reported, only the comparison between the protein and placebo groups."
+        }
+      },
+      "matched_biomarker_details": [
+        {
+          "biomarker_name": "Early relaxation time (quadriceps)",
+          "measured_tissue_or_fluid": "Quadriceps muscle",
+          "activity_type": "Muscle contractile function",
+          "measured_effect": {
+            "direction_of_change": "not different",
+            "magnitude_quantification": "Not different between groups over time."
+          },
+          "core_biological_function": "The speed at which a muscle can relax after contraction.",
+          "relevant_activity_context": "12 weeks of daily protein supplementation combined with walking exercise.",
+          "performance_or_health_indicator": "Indicator of muscle relaxation kinetics, important for repetitive movements and preventing injury; suggests no additional improvement from protein supplementation."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "standard_name": "MRPS11",
+  "source_entries": [
+    {
+      "original_name": "MRPS11",
+      "document_source_id": "40839339"
+    }
+  ],
+  "biomarker_summary": {
+    "overall_biomarker_summary": "Manuelle Synthese: MRPS11 wurde in 40839339 gefunden. Die tatsächliche Zusammenfassung muss manuell hinzugefügt werden.",
+    "mechanisms_consensus": "Manuelle Synthese: Hier wuerde die konsolidierte Mechanismus-Zusammenfassung stehen.",
+    "reliability_consensus": "Manuelle Synthese: Hier wuerde die konsolidierte Zuverlaessigkeits-Zusammenfassung stehen."
+  },
+  "metadata": {
+    "total_documents_contributed": 1,
+    "api_calls_for_synthesis": 0
+  },
+  "aggregated_source_findings_DEBUG": [
+    {
+      "original_name": "MRPS11",
+      "document_source_id": "40839339",
+      "document_context_data": {
+        "document_summary": "This study investigated the impact of 4 weeks of Urolithin A (UA) supplementation on running performance, recovery, and mitochondrial biomarkers in highly trained male distance runners during an altitude training camp. Findings showed that UA supplementation significantly lowered post-exercise muscle damage (Creatine Kinase tAUC after a 3000 m time trial) and ratings of perceived exertion, while also showing a large within-group increase in VO2max. Proteomic analysis revealed UA upregulated mitochondrial pathways and downregulating inflammatory pathways in skeletal muscle. However, UA did not significantly improve 3000 m running performance directly. The study also assessed physiological adaptations including running economy, body composition, and hemoglobin mass.",
+        "treatment_details": {
+          "therapy_type": "Urolithin A (UA) supplementation combined with altitude training and structured exercise challenges.",
+          "dose_specificity": "Competitive male distance runners received 1000 mg/day of Urolithin A or placebo for 4 weeks, concurrent with an intensified altitude training camp (~1700–2200 m). The regimen included weekly downhill running bouts and 3000 m time trials. No dose-response comparisons for UA were reported."
+        }
+      },
+      "matched_biomarker_details": [
+        {
+          "biomarker_name": "MRPS11",
+          "measured_tissue_or_fluid": "Skeletal muscle biopsies",
+          "activity_type": "Protein Expression",
+          "measured_effect": {
+            "direction_of_change": "Increased",
+            "magnitude_quantification": "Statistically significant increases in expression (p = 0.012 versus placebo)."
+          },
+          "core_biological_function": "Mitochondrial ribosome protein subunit, involved in mitochondrial protein synthesis.",
+          "relevant_activity_context": "Following 4-week UA supplementation, beyond training alone.",
+          "performance_or_health_indicator": "Indicates a stronger impact on mitochondrial pathways and improved mitochondrial protein expression due to UA."
+        }
+      ]
+    }
+  ]
+}
