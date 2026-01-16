@@ -1,0 +1,424 @@
+[
+  {
+    "title": "pmc Front Immunol Front Immunol Front. Immunol. Frontiers in Immunology 1664-3224 Frontiers Media S.A. 11253107 10.3389/fimmu.2024.1380025 Immunology Original Research Protocol of a prospective multicenter study on comorbidity impact on multiple sclerosis and antibody-mediated diseases of the central nervous system (COMMIT) Samadzadeh Sara 1 2 3 Adnan Rafl 1 2 Berglova Paulina 2 Barzegar Mahdi 4 Debrabant Birgit 5 Roikjaer Stine Gundtoft 1 2 6 Levy Michael 7 Petzold Axel 8 9 10 Palace Jacqueline 11 Flanagan Eoin P. 12 Mariotto Sara 13 Skou Soeren T. 6 14 Froelich Anne 2 15 16 Lotan Itay 17 18 Messina Silvia 11 Geraldes Ruth 11 Asseyer Susanna 3 19 20 21 Stiebel-Kalish Hadas 18 22 23 Oertel Frederike Cosima 3 19 20 21 Shaygannejad Vahid 4 Sahraian Mohammad Ali 24 Kim Ho Jin 25 Bennett Jeffrey L. 26 B\u00f6ttcher Chotima 3 19 20 Zimmermann Hanna G. 3 19 20 21 27 Weinshenker Brian G. 28 Paul Friedemann 3 19 20 21 Asgari Nasrin 1 2 29 * 1 Institute of Regional Health Research and, Institute of Molecular Medicine, University of Southern Denmark , Odense , Denmark 2 The Center for Neurological Research, Department of Neurology Slagelse Hospital , Slagelse , Denmark 3 Charit\u00e9 \u2013 Universit\u00e4tsmedizin Berlin, Corporate Member of Freie Universit\u00e4t Berlin and Humboldt-Universit\u00e4t zu Berlin, Experimental and Clinical Research Center , Berlin , Germany 4 Neurosciences Research Center, Isfahan University of Medical Sciences , Isfahan , Iran 5 Department of Mathematics and Computer Science, Faculty of Natural Sciences, University of Southern Denmark , Odense , Denmark 6 The Research and Implementation Unit PROgrez, Department of Physiotherapy and Occupational Therapy, N\u00e6stved-Slagelse-Ringsted Hospitals , Slagelse, Region Zealand , Denmark 7 Department of Neurology, Massachusetts General Hospital and Harvard Medical School , Boston, MA , United States 8 The National Hospital for Neurology and Neurosurgery, and Moorfields Eye Hospital and Queen Square University College London (UCL), Institute of Neurology , London , United Kingdom 9 Department of Neurology, Amsterdam The University Medical Center Utrecht (UMC) , Amsterdam , Netherlands 10 Department of Ophthalmology, Amsterdam The University Medical Center Utrecht (UMC) , Amsterdam , Netherlands 11 Nuffield Department of Clinical Neurosciences, Oxford University Hospitals, National Health Service Trust , Oxford , United Kingdom 12 Department Neurology and Center for Multiple Sclerosis (MS), and Autoimmune Neurology, Mayo Clinic , Rochester, MN , United States 13 Neurology Unit, Department of Neurosciences, Biomedicine, and Movement Sciences, University of Verona , Verona , Italy 14 Center for Muscle and Joint Health, Department of Sports Science and Clinical Biomechanics, University of Southern Denmark , Odense , Denmark 15 Innovation and Research Centre for Multimorbidity, Slagelse Hospital , Slagelse , Denmark 16 Section of General Practice, Faculty of Health and Medical Sciences, University of Copenhagen , Copenhagen , Denmark 17 Department of Neurology and Neuroimmunology Unit, Rabin Medical Center , Petah Tikva , Israel 18 Tel Aviv University Faculty of Medicine, Tel Aviv University , Tel Aviv , Israel 19 Experimental and Clinical Research Center, a cooperation between the Max Delbr\u00fcck Center for Molecular Medicine in the Helmholtz Association and Charit\u00e9 Universit\u00e4tsmedizin Berlin , Berlin , Germany 20 Max Delbr\u00fcck Center for Molecular Medicine in the Helmholtz Association (MDC) , Berlin , Germany 21 NeuroCure Clinical Research Center, Charit\u00e9 \u2013 Universit\u00e4tsmedizin Berlin, Corporate Member of Freie Universit\u00e4t Berlin and Humboldt-Universit\u00e4t zu Berlin , Berlin , Germany 22 Department of Ophthalmology, Neuro-Ophthalmology Unit, Rabin Medical Center , Petah Tikva , Israel 23 Eye Laboratory, Felsenstein Research Institute , Tel Aviv , Israel 24 Multiple Sclerosis (MS) Research Center, Neuroscience Institute, Tehran University of Medical Sciences , Tehran , Iran 25 Department of Neurology, Research Institute and Hospital of National Cancer Center , Goyang , Republic of Korea 26 Department of Neurology and Ophthalmology, Programs in Neuroscience and Immunology, University of Colorado Anschutz Medical Campus , Aurora, CO , United States 27 Einstein Center Digital Future , Berlin , Germany 28 Department of Neurology, University of Virginia , Charlottesville, VA , United States 29 Open Patient data Explorative Network, Odense University Hospital, University of Southern Denmark , Odense , Denmark Edited by: Anneke Van Der Walt, Monash University, Australia Reviewed by: Eleonora Tavazzi, University at Buffalo, United States Wakiro Sato, National Center of Neurology and Psychiatry, Japan *Correspondence: Nasrin Asgari, nasgari@health.sdu.dk 02 7 2024 2024 15 1380025 31 1 2024 05 6 2024 Copyright \u00a9 2024 Samadzadeh, Adnan, Berglova, Barzegar, Debrabant, Roikjaer, Levy, Petzold, Palace, Flanagan, Mariotto, Skou, Froelich, Lotan, Messina, Geraldes, Asseyer, Stiebel-Kalish, Oertel, Shaygannejad, Sahraian, Kim, Bennett, B\u00f6ttcher, Zimmermann, Weinshenker, Paul and Asgari 2024 Samadzadeh, Adnan, Berglova, Barzegar, Debrabant, Roikjaer, Levy, Petzold, Palace, Flanagan, Mariotto, Skou, Froelich, Lotan, Messina, Geraldes, Asseyer, Stiebel-Kalish, Oertel, Shaygannejad, Sahraian, Kim, Bennett, B\u00f6ttcher, Zimmermann, Weinshenker, Paul and Asgari https://creativecommons.org/licenses/by/4.0/ This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms. Comorbidities in patients with multiple sclerosis (MS) and antibody-mediated diseases of the central nervous system (CNS) including neuromyelitis optica spectrum disorder (NMOSD), and myelin oligodendrocyte glycoprotein (MOG)-antibody-associated disease (MOGAD) are common and may influence the course of their neurological disease. Comorbidity may contribute to neuronal injury and therefore limit recovery from attacks, accelerate disease progression, and increase disability. This study aims to explore the impact of comorbidity, particularly vascular comorbidity, and related risk factors on clinical and paraclinical parameters of MS, NMOSD and MOGAD. We propose COMMIT, a prospective multicenter study with longitudinal follow-up of patients with MS, NMOSD, and MOGAD, with or without comorbidities, as well as healthy subjects as controls. Subjects will be stratified by age, sex and ethnicity. In consecutive samples we will analyze levels of inflammation and neurodegeneration markers in both fluid and cellular compartments of the peripheral blood and cerebrospinal fluid (CSF) using multiple state-of-the-art technologies, including untargeted proteomics and targeted ultrasensitive ELISA assays and quantitative reverse transcription polymerase chain reaction (RT-qPCR) as well as high-dimensional single-cell technologies i.e., mass cytometry and single-cell RNA sequencing. Algorithm-based data analyses will be used to unravel the relationship between these markers, optical coherence tomography (OCT) and magnetic resonance imaging (MRI), and clinical outcomes including frequency and severity of relapses, long-term disability, and quality of life. The goal is to evaluate the impact of comorbidities on MS, NMOSD, and MOGAD which may lead to development of treatment approaches to improve outcomes of inflammatory demyelinating diseases of the CNS. multiple sclerosis neuromyelitis optica spectrum disorder myelin oligodendrocyte glycoprotein antibody-associated disease antibody-mediated diseases of the central nervous system comorbidity The author(s) declare financial support was received for the research, authorship, and/or publication of this article. The research was supported by the University of Southern Denmark, The Slagelse Hospital Research Fund, and The Region of Zealand Research Fund. section-in-acceptance Multiple Sclerosis and Neuroimmunology 1 Introduction Inflammatory demyelinating diseases (IDDs) of the central nervous system (CNS) are immune-mediated disorders that lead to the destruction of myelin, either primarily [multiple sclerosis (MS) and myelin oligodendrocyte glycoprotein-antibody-associated disease (MOGAD)] or secondarily [neuromyelitis optica spectrum disorder (NMOSD)]. There is a variable degree of axonal injury and loss, which is the ultimate substrate of disability ( 1 , 2 ). The development and pathogenesis of IDDs are complicated immune mechanisms, presumably involving both innate and adaptive immunity, reflecting defects in autoimmune tolerance mechanisms. Likewise, the immunobiology of injury and repair is multifactorial and influenced by genetic and environmental factors. Remyelination may protect against axonal degeneration by oligodendrocyte precursor cell (OPC) proliferation and maturation to oligodendrocytes (OLs) in the case of actual OL loss to a variable degree ( 3 ). OLs have high metabolic requirements to maintain myelin synthesis and metabolic support of axons ( 3 ). The most well-defined IDDs are multiple sclerosis (MS), widely believed to be T-cell-mediated, and NMOSD and MOGAD, both of which are believed to be antibody-mediated. Clusters of chronic conditions and comorbidities may occur in IDDs and are an area of current interest ( 4 \u2013 12 ). Comorbidity refers to the burden caused by the presence and severity of any distinct additional entity other than the specific index disease and may result from similar predisposing genetic or environmental factors ( 13 ) or from treatment of IDDs ( 14 , 15 ). For instance, corticosteroids can precipitate the onset of diabetes and hyperglycemia, while other certain immunosuppressive drugs are linked to an increased risk of cardiovascular disease ( 4 ). The co-occurrence of two or more chronic conditions, i.e., so-called multimorbidity, may be present even at the time of diagnosis ( 4 ). In IDDs, comorbidity may contribute to remyelination failure and neuronal injury and adversely affect a broad range of outcomes, including the risk of relapse, diminished quality of life (QoL), and long-term disability. Multimorbidity is a growing concern, with an increase in the prevalence of chronic somatic conditions as well as mental disorders, in part reflecting an aging population ( 10 \u2013 12 , 16 , 17 ). Many factors such as lifestyle and socioeconomic status may lead to the onset of multimorbidity at a younger age ( 13 ). Emerging evidence underscores a high prevalence of comorbidity, i.e., vascular comorbidities and related risk factors in patients with multiple sclerosis ( 18 ), exemplified by type 2 diabetes mellitus (T2DM), which is a highly prevalent disorder worldwide. Patients with T2DM are at high risk for microvascular complications, owing to hyperglycemia and insulin resistance (metabolic syndrome) ( 19 ). Oral antidiabetic drugs such as metformin and pioglitazone may beneficially impact MS disease progression by reducing inflammatory mediators such as interferon-\u03b3, interleukin (IL)-6, and TNF-alpha ( 20 ). T2DM may influence brain function and may cause brain insulin resistance, neuroinflammation including microglia activation, blood\u2013brain barrier (BBB) impairment, and mitochondrial dysfunction, resulting in neuronal metabolic defects and neuronal cell death ( 21 ). The most common comorbidities in patients with NMOSD are hypertension and cardiovascular disease ( 4 , 22 ), although uniquely in NMOSD, other autoimmune conditions, such as systemic lupus erythematosus, rheumatoid arthritis, Sj\u00f6gren\u2019s syndrome, and autoimmune encephalitis, may occur as concurrent comorbid diseases because of defective B-cell development checkpoints ( 5 , 6 ). MOGAD has only recently been recognized and may be regarded as a relatively rare disorder ( 23 ), so the pattern of comorbidity has not yet been elucidated; however, anti-N-methyl-D-aspartate receptor encephalitis (anti-NMDAR encephalitis) and autoimmune thyroid disorders have been reported to occur ( 7 ). Investigations of the impact of comorbidities on clinical outcomes of IDD have only been conducted to a limited extent. Comorbid conditions can be associated with a prolonged interval between the disease onset and its subsequent diagnosis. An increase in the frequency of relapses has been observed in NMOSD patients with comorbidities compared to NMOSD patients without comorbidities, with severe motor episodes and severe optic neuritis (ON) ( 15 ). Multifocal CNS lesions as a presenting symptom are more prevalent in patients with comorbidities compared to those without. Moreover, comorbidity can be indicative of reduced treatment responsiveness, heightened disability, and an elevated mortality rate ( 15 , 24 ). However, the current knowledge is mainly based on retrospective and cross-sectional studies with a small number of patients. A prospective and longitudinal study with an evaluation of the interaction between clinical and paraclinical parameters of comorbidity of subjects with MS, NMOSD, and MOGAD will be a timely effort. 1.1 Advancing data collection and protocols for comorbidity analysis and management The high occurrence of comorbidities suggests screening for concomitant medical conditions as a routine part of patient care, as comorbidities may influence the clinical features, prognosis, and treatment outcomes. So far unexplored, the comorbidity and certain clusters of chronic conditions may have a negative impact on the levels of proinflammatory and neurodegenerative mediators, and they may negatively influence disease progression. Such knowledge will be important for optimizing treatment strategies and thereby hopefully improve QoL. Comorbidities may vary depending on age, sex, ethnicity, geographic region, socioeconomic composition, and healthcare system, highlighting the importance of a multicenter design. Furthermore, analytical pipelines for the determination of molecular and cellular markers as well as downstream algorithm-based (integrative) data analysis have been established and are in the process of validation. This multicentric study will analyze data from different sets of patients without or with one or more comorbidities, with follow-up visits. We aim to determine the levels of inflammatory and neurodegenerative mediators in patients with MS, NMOSD, and MOGAD, both with and without comorbidities, and evaluate whether changes may affect disease outcomes. Furthermore, we aim to assess whether comorbidity influences optical coherence tomography (OCT) and magnetic resonance imaging (MRI) parameters and its association with clinical outcomes.",
+    "document_source_id": "39021565",
+    "analysis_date": "2025-12-09",
+    "extracted_data": {
+      "document_summary": "This document describes the protocol for COMMIT, a prospective multicenter observational study with a 3-year longitudinal follow-up. It aims to investigate the impact of comorbidities, especially vascular comorbidity and related risk factors, on clinical and paraclinical parameters in patients with Multiple Sclerosis (MS), Neuromyelitis Optica Spectrum Disorder (NMOSD), and Myelin Oligodendrocyte Glycoprotein Antibody-Associated Disease (MOGAD). The study will analyze levels of inflammation and neurodegeneration markers in blood and CSF, immune cell populations, plasma/serum proteome, cognitive functions, visual parameters, and CNS MRI findings to understand their relationship with clinical outcomes and inform future therapeutic strategies.",
+      "treatment_details": {
+        "therapy_type": "Observational study investigating the impact of comorbidities on Multiple Sclerosis (MS), Neuromyelitis Optica Spectrum Disorder (NMOSD), and Myelin Oligodendrocyte Glycoprotein Antibody-Associated Disease (MOGAD).",
+        "dose_specificity": "This is a prospective multicenter observational study with a 3-year longitudinal follow-up, involving assessments at 6, 12, 18, 24, and 36 months. The study does not administer or test a specific therapeutic intervention; instead, it aims to analyze how existing comorbidities and their standard-of-care treatments influence disease progression and molecular parameters to inform future treatment strategies."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "Interferon-gamma (interferon-\u03b3)",
+          "measured_tissue_or_fluid": "Not specified",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Reduced (precise quantitative data not reported in this context)"
+          },
+          "core_biological_function": "Mediates inflammation",
+          "relevant_activity_context": "Oral antidiabetic drug treatment (metformin and pioglitazone) in Multiple Sclerosis",
+          "performance_or_health_indicator": "Reduction indicates beneficial impact on MS disease progression, potentially improving outcomes in inflammatory demyelinating diseases."
+        },
+        {
+          "biomarker_name": "Interleukin-6 (IL-6)",
+          "measured_tissue_or_fluid": "Not specified",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Reduced (precise quantitative data not reported in this context)"
+          },
+          "core_biological_function": "Mediates inflammation",
+          "relevant_activity_context": "Oral antidiabetic drug treatment (metformin and pioglitazone) in Multiple Sclerosis",
+          "performance_or_health_indicator": "Reduction indicates beneficial impact on MS disease progression, potentially improving outcomes in inflammatory demyelinating diseases."
+        },
+        {
+          "biomarker_name": "Tumor Necrosis Factor-alpha (TNF-alpha)",
+          "measured_tissue_or_fluid": "Not specified",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Reduced (precise quantitative data not reported in this context)"
+          },
+          "core_biological_function": "Mediates inflammation",
+          "relevant_activity_context": "Oral antidiabetic drug treatment (metformin and pioglitazone) in Multiple Sclerosis",
+          "performance_or_health_indicator": "Reduction indicates beneficial impact on MS disease progression, potentially improving outcomes in inflammatory demyelinating diseases."
+        },
+        {
+          "biomarker_name": "MMP-2",
+          "measured_tissue_or_fluid": "Venous blood and Cerebrospinal Fluid (CSF)",
+          "activity_type": "Protein Level (ELISA)",
+          "measured_effect": {
+            "direction_of_change": "Not reported, this is a study protocol.",
+            "magnitude_quantification": "Not reported, this is a study protocol."
+          },
+          "core_biological_function": "Mediates inflammation and blood-brain barrier (BBB) disruption.",
+          "relevant_activity_context": "Neuroinflammatory conditions (MS, NMOSD, MOGAD).",
+          "performance_or_health_indicator": "Indicates inflammation and blood-brain barrier disruption in neuroinflammatory conditions."
+        },
+        {
+          "biomarker_name": "MMP-3",
+          "measured_tissue_or_fluid": "Venous blood and Cerebrospinal Fluid (CSF)",
+          "activity_type": "Protein Level (ELISA)",
+          "measured_effect": {
+            "direction_of_change": "Not reported, this is a study protocol.",
+            "magnitude_quantification": "Not reported, this is a study protocol."
+          },
+          "core_biological_function": "Mediates inflammation and blood-brain barrier (BBB) disruption.",
+          "relevant_activity_context": "Neuroinflammatory conditions (MS, NMOSD, MOGAD).",
+          "performance_or_health_indicator": "Indicates inflammation and blood-brain barrier disruption in neuroinflammatory conditions."
+        },
+        {
+          "biomarker_name": "MMP-7",
+          "measured_tissue_or_fluid": "Venous blood and Cerebrospinal Fluid (CSF)",
+          "activity_type": "Protein Level (ELISA)",
+          "measured_effect": {
+            "direction_of_change": "Not reported, this is a study protocol.",
+            "magnitude_quantification": "Not reported, this is a study protocol."
+          },
+          "core_biological_function": "Mediates inflammation and blood-brain barrier (BBB) disruption.",
+          "relevant_activity_context": "Neuroinflammatory conditions (MS, NMOSD, MOGAD).",
+          "performance_or_health_indicator": "Indicates inflammation and blood-brain barrier disruption in neuroinflammatory conditions."
+        },
+        {
+          "biomarker_name": "MMP-9",
+          "measured_tissue_or_fluid": "Venous blood and Cerebrospinal Fluid (CSF)",
+          "activity_type": "Protein Level (ELISA)",
+          "measured_effect": {
+            "direction_of_change": "Not reported, this is a study protocol.",
+            "magnitude_quantification": "Not reported, this is a study protocol."
+          },
+          "core_biological_function": "Mediates inflammation and blood-brain barrier (BBB) disruption.",
+          "relevant_activity_context": "Neuroinflammatory conditions (MS, NMOSD, MOGAD).",
+          "performance_or_health_indicator": "Indicates inflammation and blood-brain barrier disruption in neuroinflammatory conditions."
+        },
+        {
+          "biomarker_name": "MMP-12",
+          "measured_tissue_or_fluid": "Venous blood and Cerebrospinal Fluid (CSF)",
+          "activity_type": "Protein Level (ELISA)",
+          "measured_effect": {
+            "direction_of_change": "Not reported, this is a study protocol.",
+            "magnitude_quantification": "Not reported, this is a study protocol."
+          },
+          "core_biological_function": "Mediates inflammation and blood-brain barrier (BBB) disruption.",
+          "relevant_activity_context": "Neuroinflammatory conditions (MS, NMOSD, MOGAD).",
+          "performance_or_health_indicator": "Indicates inflammation and blood-brain barrier disruption in neuroinflammatory conditions."
+        },
+        {
+          "biomarker_name": "MMP-13",
+          "measured_tissue_or_fluid": "Venous blood and Cerebrospinal Fluid (CSF)",
+          "activity_type": "Protein Level (ELISA)",
+          "measured_effect": {
+            "direction_of_change": "Not reported, this is a study protocol.",
+            "magnitude_quantification": "Not reported, this is a study protocol."
+          },
+          "core_biological_function": "Mediates inflammation and blood-brain barrier (BBB) disruption.",
+          "relevant_activity_context": "Neuroinflammatory conditions (MS, NMOSD, MOGAD).",
+          "performance_or_health_indicator": "Indicates inflammation and blood-brain barrier disruption in neuroinflammatory conditions."
+        },
+        {
+          "biomarker_name": "VEGF-A",
+          "measured_tissue_or_fluid": "Venous blood and Cerebrospinal Fluid (CSF)",
+          "activity_type": "Protein Level (ELISA)",
+          "measured_effect": {
+            "direction_of_change": "Not reported, this is a study protocol.",
+            "magnitude_quantification": "Not reported, this is a study protocol."
+          },
+          "core_biological_function": "Mediates inflammation and blood-brain barrier (BBB) disruption.",
+          "relevant_activity_context": "Neuroinflammatory conditions (MS, NMOSD, MOGAD).",
+          "performance_or_health_indicator": "Indicates inflammation and blood-brain barrier disruption in neuroinflammatory conditions."
+        },
+        {
+          "biomarker_name": "MFAP4",
+          "measured_tissue_or_fluid": "Venous blood and Cerebrospinal Fluid (CSF)",
+          "activity_type": "Protein Level (ELISA)",
+          "measured_effect": {
+            "direction_of_change": "Not reported, this is a study protocol.",
+            "magnitude_quantification": "Not reported, this is a study protocol."
+          },
+          "core_biological_function": "Mediates inflammation and blood-brain barrier (BBB) disruption.",
+          "relevant_activity_context": "Neuroinflammatory conditions (MS, NMOSD, MOGAD).",
+          "performance_or_health_indicator": "Indicates inflammation and blood-brain barrier disruption in neuroinflammatory conditions."
+        },
+        {
+          "biomarker_name": "IL-1beta",
+          "measured_tissue_or_fluid": "Venous blood and Cerebrospinal Fluid (CSF)",
+          "activity_type": "Protein Level (Quanterix Simoa HD-1 Analyzer)",
+          "measured_effect": {
+            "direction_of_change": "Not reported, this is a study protocol.",
+            "magnitude_quantification": "Not reported, this is a study protocol."
+          },
+          "core_biological_function": "Cytokine involved in pro-inflammatory responses and immune cell communication.",
+          "relevant_activity_context": "Neuroinflammatory conditions (MS, NMOSD, MOGAD).",
+          "performance_or_health_indicator": "Indicates inflammatory status and immune activation in neuroinflammatory conditions."
+        },
+        {
+          "biomarker_name": "IL-6",
+          "measured_tissue_or_fluid": "Venous blood and Cerebrospinal Fluid (CSF)",
+          "activity_type": "Protein Level (Quanterix Simoa HD-1 Analyzer)",
+          "measured_effect": {
+            "direction_of_change": "Not reported, this is a study protocol.",
+            "magnitude_quantification": "Not reported, this is a study protocol."
+          },
+          "core_biological_function": "Cytokine involved in pro-inflammatory and anti-inflammatory responses, and immune cell communication.",
+          "relevant_activity_context": "Neuroinflammatory conditions (MS, NMOSD, MOGAD).",
+          "performance_or_health_indicator": "Indicates inflammatory status and immune activation in neuroinflammatory conditions."
+        },
+        {
+          "biomarker_name": "IL-7",
+          "measured_tissue_or_fluid": "Venous blood and Cerebrospinal Fluid (CSF)",
+          "activity_type": "Protein Level (Quanterix Simoa HD-1 Analyzer)",
+          "measured_effect": {
+            "direction_of_change": "Not reported, this is a study protocol.",
+            "magnitude_quantification": "Not reported, this is a study protocol."
+          },
+          "core_biological_function": "Cytokine essential for lymphocyte development and homeostasis.",
+          "relevant_activity_context": "Neuroinflammatory conditions (MS, NMOSD, MOGAD).",
+          "performance_or_health_indicator": "Indicates aspects of immune cell regulation and development in neuroinflammatory conditions."
+        },
+        {
+          "biomarker_name": "IL-10",
+          "measured_tissue_or_fluid": "Venous blood and Cerebrospinal Fluid (CSF)",
+          "activity_type": "Protein Level (Quanterix Simoa HD-1 Analyzer)",
+          "measured_effect": {
+            "direction_of_change": "Not reported, this is a study protocol.",
+            "magnitude_quantification": "Not reported, this is a study protocol."
+          },
+          "core_biological_function": "Cytokine with primarily anti-inflammatory and immunosuppressive properties.",
+          "relevant_activity_context": "Neuroinflammatory conditions (MS, NMOSD, MOGAD).",
+          "performance_or_health_indicator": "Indicates immune regulation and potential for dampening inflammation in neuroinflammatory conditions."
+        },
+        {
+          "biomarker_name": "IL-17A",
+          "measured_tissue_or_fluid": "Venous blood and Cerebrospinal Fluid (CSF)",
+          "activity_type": "Protein Level (Quanterix Simoa HD-1 Analyzer)",
+          "measured_effect": {
+            "direction_of_change": "Not reported, this is a study protocol.",
+            "magnitude_quantification": "Not reported, this is a study protocol."
+          },
+          "core_biological_function": "Cytokine involved in pro-inflammatory responses and host defense, particularly in autoimmune diseases.",
+          "relevant_activity_context": "Neuroinflammatory conditions (MS, NMOSD, MOGAD).",
+          "performance_or_health_indicator": "Indicates inflammatory status and immune activation in neuroinflammatory conditions."
+        },
+        {
+          "biomarker_name": "TNF-alpha",
+          "measured_tissue_or_fluid": "Venous blood and Cerebrospinal Fluid (CSF)",
+          "activity_type": "Protein Level (Quanterix Simoa HD-1 Analyzer)",
+          "measured_effect": {
+            "direction_of_change": "Not reported, this is a study protocol.",
+            "magnitude_quantification": "Not reported, this is a study protocol."
+          },
+          "core_biological_function": "Cytokine involved in systemic inflammation and acute phase reactions, a potent pro-inflammatory mediator.",
+          "relevant_activity_context": "Neuroinflammatory conditions (MS, NMOSD, MOGAD).",
+          "performance_or_health_indicator": "Indicates inflammatory status and immune activation in neuroinflammatory conditions."
+        },
+        {
+          "biomarker_name": "CCR2",
+          "measured_tissue_or_fluid": "Venous blood and Cerebrospinal Fluid (CSF)",
+          "activity_type": "Protein Level (Quanterix Simoa HD-1 Analyzer)",
+          "measured_effect": {
+            "direction_of_change": "Not reported, this is a study protocol.",
+            "magnitude_quantification": "Not reported, this is a study protocol."
+          },
+          "core_biological_function": "Chemokine receptor involved in the trafficking of immune cells, particularly monocytes and macrophages, to sites of inflammation.",
+          "relevant_activity_context": "Neuroinflammatory conditions (MS, NMOSD, MOGAD).",
+          "performance_or_health_indicator": "Indicates immune cell trafficking and inflammatory responses in neuroinflammatory conditions."
+        },
+        {
+          "biomarker_name": "CXCL10",
+          "measured_tissue_or_fluid": "Venous blood and Cerebrospinal Fluid (CSF)",
+          "activity_type": "Protein Level (Quanterix Simoa HD-1 Analyzer)",
+          "measured_effect": {
+            "direction_of_change": "Not reported, this is a study protocol.",
+            "magnitude_quantification": "Not reported, this is a study protocol."
+          },
+          "core_biological_function": "Chemokine involved in chemoattraction of T cells, NK cells, and monocytes, contributing to inflammation and immune surveillance.",
+          "relevant_activity_context": "Neuroinflammatory conditions (MS, NMOSD, MOGAD).",
+          "performance_or_health_indicator": "Indicates immune cell trafficking and inflammatory responses in neuroinflammatory conditions."
+        },
+        {
+          "biomarker_name": "CXCL12",
+          "measured_tissue_or_fluid": "Venous blood and Cerebrospinal Fluid (CSF)",
+          "activity_type": "Protein Level (Quanterix Simoa HD-1 Analyzer)",
+          "measured_effect": {
+            "direction_of_change": "Not reported, this is a study protocol.",
+            "magnitude_quantification": "Not reported, this is a study protocol."
+          },
+          "core_biological_function": "Chemokine involved in immune cell trafficking, hematopoiesis, and tissue repair.",
+          "relevant_activity_context": "Neuroinflammatory conditions (MS, NMOSD, MOGAD).",
+          "performance_or_health_indicator": "Indicates immune cell trafficking and potential roles in tissue homeostasis or damage in neuroinflammatory conditions."
+        },
+        {
+          "biomarker_name": "CXCL13",
+          "measured_tissue_or_fluid": "Venous blood and Cerebrospinal Fluid (CSF)",
+          "activity_type": "Protein Level (Quanterix Simoa HD-1 Analyzer)",
+          "measured_effect": {
+            "direction_of_change": "Not reported, this is a study protocol.",
+            "magnitude_quantification": "Not reported, this is a study protocol."
+          },
+          "core_biological_function": "Chemokine involved in the organization of lymphoid tissues and B cell migration.",
+          "relevant_activity_context": "Neuroinflammatory conditions (MS, NMOSD, MOGAD).",
+          "performance_or_health_indicator": "Indicates immune cell trafficking and inflammatory responses, particularly B cell involvement, in neuroinflammatory conditions."
+        },
+        {
+          "biomarker_name": "Type I interferons",
+          "measured_tissue_or_fluid": "Venous blood and Cerebrospinal Fluid (CSF)",
+          "activity_type": "Protein Level (Quanterix Simoa HD-1 Analyzer)",
+          "measured_effect": {
+            "direction_of_change": "Not reported, this is a study protocol.",
+            "magnitude_quantification": "Not reported, this is a study protocol."
+          },
+          "core_biological_function": "Cytokines involved in antiviral responses, immune modulation, and inflammation.",
+          "relevant_activity_context": "Neuroinflammatory conditions (MS, NMOSD, MOGAD).",
+          "performance_or_health_indicator": "Indicates immune response and modulation in neuroinflammatory conditions."
+        },
+        {
+          "biomarker_name": "NfL",
+          "measured_tissue_or_fluid": "Venous blood and Cerebrospinal Fluid (CSF)",
+          "activity_type": "Protein Level (Quanterix Simoa HD-1 Analyzer)",
+          "measured_effect": {
+            "direction_of_change": "Not reported, this is a study protocol.",
+            "magnitude_quantification": "Not reported, this is a study protocol."
+          },
+          "core_biological_function": "A structural protein of neurons, released upon neuronal damage or degeneration.",
+          "relevant_activity_context": "Neuroinflammatory conditions (MS, NMOSD, MOGAD).",
+          "performance_or_health_indicator": "Indicates the level of neuronal injury and disease progression in neuroinflammatory conditions, highlighted as an exploratory outcome for NMOSD."
+        },
+        {
+          "biomarker_name": "GFAP",
+          "measured_tissue_or_fluid": "Venous blood and Cerebrospinal Fluid (CSF)",
+          "activity_type": "Protein Level (Quanterix Simoa HD-1 Analyzer)",
+          "measured_effect": {
+            "direction_of_change": "Not reported, this is a study protocol.",
+            "magnitude_quantification": "Not reported, this is a study protocol."
+          },
+          "core_biological_function": "An intermediate filament protein specific to astrocytes, released upon astrocyte activation or injury.",
+          "relevant_activity_context": "Neuroinflammatory conditions (MS, NMOSD, MOGAD).",
+          "performance_or_health_indicator": "Indicates the level of astrocyte injury and disease activity in neuroinflammatory conditions, highlighted as an exploratory outcome for NMOSD."
+        },
+        {
+          "biomarker_name": "CD4 T lymphocytes",
+          "measured_tissue_or_fluid": "Peripheral blood mononuclear cells (PBMCs)",
+          "activity_type": "Cell Number (Flow Cytometry, Mass Cytometry)",
+          "measured_effect": {
+            "direction_of_change": "Not reported, this is a study protocol.",
+            "magnitude_quantification": "Not reported, this is a study protocol."
+          },
+          "core_biological_function": "Immune cell population, critical for coordinating immune responses (helper T cells).",
+          "relevant_activity_context": "Neuroinflammatory conditions (MS, NMOSD, MOGAD).",
+          "performance_or_health_indicator": "Provides detailed immune characterization and indicates immune dysregulation in neuroinflammatory conditions."
+        },
+        {
+          "biomarker_name": "CD8 T lymphocytes",
+          "measured_tissue_or_fluid": "Peripheral blood mononuclear cells (PBMCs)",
+          "activity_type": "Cell Number (Flow Cytometry, Mass Cytometry)",
+          "measured_effect": {
+            "direction_of_change": "Not reported, this is a study protocol.",
+            "magnitude_quantification": "Not reported, this is a study protocol."
+          },
+          "core_biological_function": "Immune cell population, primarily cytotoxic T cells that kill infected or cancerous cells.",
+          "relevant_activity_context": "Neuroinflammatory conditions (MS, NMOSD, MOGAD).",
+          "performance_or_health_indicator": "Provides detailed immune characterization and indicates immune dysregulation in neuroinflammatory conditions."
+        },
+        {
+          "biomarker_name": "B lymphocytes",
+          "measured_tissue_or_fluid": "Peripheral blood mononuclear cells (PBMCs)",
+          "activity_type": "Cell Number (Flow Cytometry, Mass Cytometry)",
+          "measured_effect": {
+            "direction_of_change": "Not reported, this is a study protocol.",
+            "magnitude_quantification": "Not reported, this is a study protocol."
+          },
+          "core_biological_function": "Immune cell population responsible for humoral immunity, producing antibodies.",
+          "relevant_activity_context": "Neuroinflammatory conditions (MS, NMOSD, MOGAD).",
+          "performance_or_health_indicator": "Provides detailed immune characterization and indicates immune dysregulation in neuroinflammatory conditions."
+        },
+        {
+          "biomarker_name": "Dendritic cells",
+          "measured_tissue_or_fluid": "Peripheral blood mononuclear cells (PBMCs)",
+          "activity_type": "Cell Number (Flow Cytometry, Mass Cytometry)",
+          "measured_effect": {
+            "direction_of_change": "Not reported, this is a study protocol.",
+            "magnitude_quantification": "Not reported, this is a study protocol."
+          },
+          "core_biological_function": "Antigen-presenting cells that initiate and direct immune responses.",
+          "relevant_activity_context": "Neuroinflammatory conditions (MS, NMOSD, MOGAD).",
+          "performance_or_health_indicator": "Provides detailed immune characterization and indicates immune dysregulation in neuroinflammatory conditions."
+        },
+        {
+          "biomarker_name": "Monocytes",
+          "measured_tissue_or_fluid": "Peripheral blood mononuclear cells (PBMCs)",
+          "activity_type": "Cell Number (Flow Cytometry, Mass Cytometry)",
+          "measured_effect": {
+            "direction_of_change": "Not reported, this is a study protocol.",
+            "magnitude_quantification": "Not reported, this is a study protocol."
+          },
+          "core_biological_function": "Phagocytic immune cells that differentiate into macrophages and dendritic cells.",
+          "relevant_activity_context": "Neuroinflammatory conditions (MS, NMOSD, MOGAD).",
+          "performance_or_health_indicator": "Provides detailed immune characterization and indicates immune dysregulation in neuroinflammatory conditions."
+        },
+        {
+          "biomarker_name": "Monocyte-derived macrophages",
+          "measured_tissue_or_fluid": "Peripheral blood mononuclear cells (PBMCs)",
+          "activity_type": "Cell Number (Flow Cytometry, Mass Cytometry)",
+          "measured_effect": {
+            "direction_of_change": "Not reported, this is a study protocol.",
+            "magnitude_quantification": "Not reported, this is a study protocol."
+          },
+          "core_biological_function": "Phagocytic immune cells involved in inflammation, tissue repair, and antigen presentation.",
+          "relevant_activity_context": "Neuroinflammatory conditions (MS, NMOSD, MOGAD).",
+          "performance_or_health_indicator": "Provides detailed immune characterization and indicates immune dysregulation in neuroinflammatory conditions."
+        },
+        {
+          "biomarker_name": "FOXP3+ regulatory T cells",
+          "measured_tissue_or_fluid": "Peripheral blood mononuclear cells (PBMCs)",
+          "activity_type": "Cell Number (Flow Cytometry, Mass Cytometry)",
+          "measured_effect": {
+            "direction_of_change": "Not reported, this is a study protocol.",
+            "magnitude_quantification": "Not reported, this is a study protocol."
+          },
+          "core_biological_function": "Immune cell population that suppresses immune responses, crucial for maintaining immune tolerance.",
+          "relevant_activity_context": "Neuroinflammatory conditions (MS, NMOSD, MOGAD).",
+          "performance_or_health_indicator": "Provides detailed immune characterization and indicates immune dysregulation in neuroinflammatory conditions."
+        },
+        {
+          "biomarker_name": "FoxA1+ Treg",
+          "measured_tissue_or_fluid": "Peripheral blood mononuclear cells (PBMCs)",
+          "activity_type": "Cell Number (Flow Cytometry, Mass Cytometry)",
+          "measured_effect": {
+            "direction_of_change": "Not reported, this is a study protocol.",
+            "magnitude_quantification": "Not reported, this is a study protocol."
+          },
+          "core_biological_function": "Specific subset of regulatory T cells (Treg) involved in immune suppression and tolerance.",
+          "relevant_activity_context": "Neuroinflammatory conditions (MS, NMOSD, MOGAD).",
+          "performance_or_health_indicator": "Provides detailed immune characterization and indicates immune dysregulation in neuroinflammatory conditions."
+        },
+        {
+          "biomarker_name": "Natural killer T cells",
+          "measured_tissue_or_fluid": "Peripheral blood mononuclear cells (PBMCs)",
+          "activity_type": "Cell Number (Flow Cytometry, Mass Cytometry)",
+          "measured_effect": {
+            "direction_of_change": "Not reported, this is a study protocol.",
+            "magnitude_quantification": "Not reported, this is a study protocol."
+          },
+          "core_biological_function": "Immune cell population that bridges innate and adaptive immunity, involved in immune regulation and anti-tumor/anti-infection responses.",
+          "relevant_activity_context": "Neuroinflammatory conditions (MS, NMOSD, MOGAD).",
+          "performance_or_health_indicator": "Provides detailed immune characterization and indicates immune dysregulation in neuroinflammatory conditions."
+        },
+        {
+          "biomarker_name": "Plasma/serum proteome",
+          "measured_tissue_or_fluid": "Plasma/serum",
+          "activity_type": "Protein Levels (Hydrophilic interaction chromatography/mass spectrometry-based proteomics)",
+          "measured_effect": {
+            "direction_of_change": "Not reported, this is a study protocol.",
+            "magnitude_quantification": "Not reported, this is a study protocol."
+          },
+          "core_biological_function": "Unbiased screening for a wide range of proteins reflecting diverse biological functions, cellular processes, and pathological states.",
+          "relevant_activity_context": "Neuroinflammatory conditions (MS, NMOSD, MOGAD).",
+          "performance_or_health_indicator": "Aims to identify novel biomarkers or patterns associated with disease activity, progression, and underlying mechanisms in neuroinflammatory conditions."
+        }
+      ]
+    }
+  }
+]

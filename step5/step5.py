@@ -188,7 +188,7 @@ def main():
                 print(f"Skipping {i+1}/{total_biomarkers}: {name} (Already processed)")
                 continue
 
-            findings = biomarker.get("aggregated_source_findings_DEBUG", [])
+            findings = biomarker.get("aggregated_source_findings", [])
 
             try:
                 llm_output = query_gemini(name, findings)

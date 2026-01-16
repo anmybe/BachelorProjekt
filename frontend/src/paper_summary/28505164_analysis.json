@@ -1,0 +1,220 @@
+[
+  {
+    "title": "PLoS One PLoS ONE plos plosone PLoS ONE 1932-6203 Public Library of Science San Francisco, CA USA 5432108 28505164 10.1371/journal.pone.0177416 PONE-D-17-05517 Research Article Biology and Life Sciences Genetics Gene Expression Biology and Life Sciences Anatomy Bone Bone Density Medicine and Health Sciences Anatomy Bone Bone Density Biology and Life Sciences Anatomy Biological Tissue Connective Tissue Bone Bone Density Medicine and Health Sciences Anatomy Biological Tissue Connective Tissue Bone Bone Density People and Places Population Groupings Age Groups Earth Sciences Mineralogy Minerals Biology and Life Sciences Developmental Biology Cell Differentiation Physical Sciences Materials Science Material Properties Porosity Biology and Life Sciences Biochemistry Metabolism Bone and Mineral Metabolism Medicine and Health Sciences Endocrinology Endocrine Physiology Growth Factors Biology and Life Sciences Physiology Endocrine Physiology Growth Factors Medicine and Health Sciences Physiology Endocrine Physiology Growth Factors Human decellularized bone scaffolds from aged donors show improved osteoinductive capacity compared to young donor bone Human decellularized bone scaffolds from aged donors show improved osteoinductive capacity compared to young Smith Christopher A. 1 Board Tim N. 2 Rooney Paul 3 Eagle Mark J. 3 Richardson Stephen M. 1 http://orcid.org/0000-0003-4876-5208 Hoyland Judith A. 1 4 * 1 Divsion of Cell Matrix Biology and Regenerative Medicine, School of Biological Sciences, Faculty of Biology, Medicine and Health, University of Manchester, Manchester, United Kingdom 2 Wrightington Hospital, Wigan, United Kingdom 3 National Health Service (NHS) Blood and Tissue Transplant Services, Speke, Liverpool, United Kingdom 4 NIHR Manchester Musculoskeletal Biomedical Research Unit, Central Manchester Foundation Trust, Manchester Academic Health Science Centre, Manchester, United Kingdom Reilly Gwendolen Editor University of Sheffield, UNITED KINGDOM Competing Interests: The authors have declared that no competing interests exist. Conceptualization: TB JAH SMR PR. Data curation: CAS MJE. Formal analysis: CAS. Funding acquisition: TB JAH SMR PR. Investigation: CAS. Methodology: CAS MJE. Project administration: CAS SMR JAH. Resources: MJE PR CAS SMR JAH. Supervision: JAH SMR. Visualization: CAS SMR JAH. Writing \u2013 original draft: CAS. Writing \u2013 review & editing: SMR JAH PR TB. * E-mail: Judith.a.hoyland@manchester.ac.uk 15 5 2017 2017 12 5 e0177416 10 2 2017 26 4 2017 \u00a9 2017 Smith et al 2017 Smith et al This is an open access article distributed under the terms of the Creative Commons Attribution License , which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited. To improve the safe use of allograft bone, decellularization techniques may be utilized to produce acellular scaffolds. Such scaffolds should retain their innate biological and biomechanical capacity and support mesenchymal stem cell (MSC) osteogenic differentiation. However, as allograft bone is derived from a wide age-range, this study aimed to determine whether donor age impacts on the ability an osteoinductive, acellular scaffold produced from human bone to promote the osteogenic differentiation of bone marrow MSCs (BM-MSC). BM-MSCs from young and old donors were seeded on acellular bone cubes from young and old donors undergoing osteoarthritis related hip surgery. All combinations resulted in increased osteogenic gene expression, and alkaline phosphatase (ALP) enzyme activity, however BM-MSCs cultured on old donor bone displayed the largest increases. BM-MSCs cultured in old donor bone conditioned media also displayed higher osteogenic gene expression and ALP activity than those exposed to young donor bone conditioned media. ELISA and Luminex analysis of conditioned media demonstrated similar levels of bioactive factors between age groups; however, IGF binding protein 1 (IGFBP1) concentration was significantly higher in young donor samples. Additionally, structural analysis of old donor bone indicated an increased porosity compared to young donor bone. These results demonstrate the ability of a decellularized scaffold produced from young and old donors to support osteogenic differentiation of cells from young and old donors. Significantly, the older donor bone produced greater osteogenic differentiation which may be related to reduced IGFBP1 bioavailability and increased porosity, potentially explaining the excellent clinical results seen with the use of allograft from aged donors. John Charnley trust Board Tim N. This work was funded by the John Charnley Trust, Joint Action, MRC CIC ( http://www.johncharnleytrust.org/trust/index.html ) to TB and JAH, the NHSBT, and Wrightington Hospital. Technical support for this project was funded by the National Institute for Health Research Manchester Musculoskeletal Biomedical Research Unit. The funder had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript. Data Availability All relevant data are within the paper and its Supporting Information file. Data Availability All relevant data are within the paper and its Supporting Information file.",
+    "document_source_id": "28505164",
+    "analysis_date": "2025-12-09",
+    "extracted_data": {
+      "document_summary": "This study investigated the impact of human bone donor age on the osteoinductive capacity of decellularized bone scaffolds and their conditioned media (DBCM), and their ability to promote osteogenic differentiation of bone marrow mesenchymal stem cells (BM-MSCs). The main findings indicate that older donor bone scaffolds and their conditioned media exhibit superior osteoinductive capacity, enhancing osteogenic differentiation of BM-MSCs, which is potentially linked to reduced IGFBP1 bioavailability and increased porosity/altered trabecular architecture in aged bone.",
+      "treatment_details": {
+        "therapy_type": "In vitro assessment of human decellularized bone scaffolds and conditioned media for osteoinductive capacity",
+        "dose_specificity": "The study's primary variable was the age of the human bone donor (young: \u226450 years, range 34\u201349; old: \u226570 years, range 72\u201384). Decellularized bone cubes (1 cm\u00b3) were obtained from human femoral heads. Bone marrow mesenchymal stem cells (BM-MSCs) from both young (\u226450 years, range 44\u201349) and old (\u226570 years, range 72\u201381) donors were seeded onto these scaffolds (0.5x10^6 BM-MSCs per cube) or cultured in decellularized bone conditioned media (DBCM) for up to 28 days. The investigation focused on age-dependent differences in scaffold properties and their influence on BM-MSC osteogenic differentiation, rather than dose-response comparisons of a therapeutic agent."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "Osteogenic Gene Expression (RUNX2, Osteopontin, Osteocalcin)",
+          "measured_tissue_or_fluid": "Bone marrow mesenchymal stem cells (BM-MSCs) cultured on decellularized bone scaffolds and in decellularized bone conditioned media (DBCM)",
+          "activity_type": "Gene Transcript",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Generally increased in all BM-MSC/scaffold/DBCM combinations compared to controls. BM-MSCs (both young and old donor) cultured on old donor bone scaffolds or in old donor DBCM consistently showed significantly higher gene expression for RUNX2, Osteopontin, and Osteocalcin compared to young donor bone or DBCM. A notable exception was that old donor BM-MSCs showed no significant increase in Osteocalcin expression, indicating impaired late-stage differentiation."
+          },
+          "core_biological_function": "Indicates the activation and progression of osteogenesis, the process of bone formation and maturation.",
+          "relevant_activity_context": "Osteogenic differentiation of young and old donor BM-MSCs seeded on decellularized human bone scaffolds from young or old donors, and in conditioned media derived from these scaffolds.",
+          "performance_or_health_indicator": "Enhanced osteogenic differentiation, particularly by older donor bone scaffolds and their conditioned media, suggests superior osteoinductive capacity for bone tissue engineering. Impaired late-stage differentiation in old donor BM-MSCs indicates potential limitations for these cells."
+        },
+        {
+          "biomarker_name": "Alkaline Phosphatase (ALP)",
+          "measured_tissue_or_fluid": "Bone marrow mesenchymal stem cells (BM-MSCs) cultured on decellularized bone scaffolds and in decellularized bone conditioned media (DBCM)",
+          "activity_type": "Enzyme Activity / Protein Presence (Staining Intensity)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly increased activity and staining intensity in all BM-MSC/scaffold/DBCM combinations compared to controls. BM-MSCs (both young and old donor) cultured on old donor bone scaffolds or in old donor DBCM consistently showed significantly higher ALP activity and staining intensity compared to young donor bone or DBCM."
+          },
+          "core_biological_function": "A key enzyme marker of early osteoblast differentiation and bone mineralization.",
+          "relevant_activity_context": "Osteogenic differentiation of young and old donor BM-MSCs seeded on human decellularized bone scaffolds from young or old donors, and in conditioned media derived from these scaffolds.",
+          "performance_or_health_indicator": "Indicates enhanced early osteogenic commitment and differentiation, demonstrating superior osteoinductive capacity of older donor bone and its conditioned media."
+        },
+        {
+          "biomarker_name": "IGF binding protein 1 (IGFBP1)",
+          "measured_tissue_or_fluid": "Conditioned media from decellularized bone samples (DBCM)",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Significantly higher concentration found in young donor DBCM compared to old donor DBCM (measured via ELISA and Luminex analysis)."
+          },
+          "core_biological_function": "Modulates the bioavailability and activity of insulin-like growth factors (IGFs), which are crucial for bone metabolism and growth, by inhibiting their function.",
+          "relevant_activity_context": "Decellularized bone conditioned media (DBCM) derived from aged vs. young donors.",
+          "performance_or_health_indicator": "Reduced IGFBP1 bioavailability in older donor bone conditioned media is hypothesized to contribute to greater osteogenic differentiation by increasing free IGF-I/II, indicating a beneficial effect on osteoinductive capacity."
+        },
+        {
+          "biomarker_name": "Porosity and Trabecular Architecture (BV/TV, Tb.N, Tb.Sp, Connectivity)",
+          "measured_tissue_or_fluid": "Decellularized human bone scaffolds",
+          "activity_type": "Structural characteristic / Micro-CT 3D analysis",
+          "measured_effect": {
+            "direction_of_change": "higher porosity",
+            "magnitude_quantification": "Old donor bone exhibited increased porosity, lower Bone Volume/Total Volume (BV/TV), decreased Trabecular Number (Tb.N), increased Trabecular Separation (Tb.Sp), and a poorly interconnected trabecular lattice compared to young donor bone."
+          },
+          "core_biological_function": "Affects cell infiltration, nutrient and waste transport, mechanical properties of the scaffold, and overall osteoinductive capacity.",
+          "relevant_activity_context": "Decellularized bone scaffolds from aged vs. young donors.",
+          "performance_or_health_indicator": "Increased porosity and altered trabecular architecture in older donor bone are hypothesized to contribute to greater osteogenic differentiation by facilitating cell infiltration and nutrient exchange, potentially explaining its superior osteoinductive capacity."
+        },
+        {
+          "biomarker_name": "Metabolic Activity",
+          "measured_tissue_or_fluid": "BM-MSCs seeded on decellularized bone cubes and cultured in decellularized bone conditioned media (DBCM)",
+          "activity_type": "Metabolic assay (e.g., AlamarBlue reduction)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significant increases observed at day 14 and 28 compared to day 0 controls for BM-MSCs cultured on scaffolds. Significant increases also observed when BM-MSCs were cultured in DBCM from both young and old donors compared to standard medium controls."
+          },
+          "core_biological_function": "Cellular viability, proliferation, and metabolic health, indicating overall cell activity.",
+          "relevant_activity_context": "Osteogenic differentiation of BM-MSCs on decellularized bone allograft and in decellularized bone conditioned media.",
+          "performance_or_health_indicator": "Indicates cellular health and proliferative potential, critical for tissue regeneration and scaffold performance. Both young and old donor scaffolds/DBCM support BM-MSC metabolic function."
+        },
+        {
+          "biomarker_name": "DNA Content / Total Cell Number",
+          "measured_tissue_or_fluid": "BM-MSCs seeded on decellularized bone cubes; BM-MSCs cultured in decellularized bone conditioned media (DBCM)",
+          "activity_type": "Quantity/Concentration (Fluorometric quantification)",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "Initial DNA content (cell seeding density) on decellularized bone was comparable between young (436.6 ng \u00b181 SD) and old (357.9 ng \u00b1173.1 SD) donor allografts (p=0.3). Significant increases in total cell number were observed when BM-MSCs were cultured in DBCM from both young and old donors compared to standard medium controls."
+          },
+          "core_biological_function": "Direct measure of cell number, reflecting cell proliferation and overall cellularity.",
+          "relevant_activity_context": "Initial seeding of BM-MSCs on decellularized bone scaffolds and proliferation of BM-MSCs in decellularized bone conditioned media.",
+          "performance_or_health_indicator": "Comparable initial seeding ensures differences in differentiation markers are not due to cell quantity. Proliferation in DBCM indicates biocompatibility and growth-promoting capacity of the media from both age groups."
+        },
+        {
+          "biomarker_name": "Bone Architecture",
+          "measured_tissue_or_fluid": "Decellularized bone cubes (human femoral heads)",
+          "activity_type": "Structural assessment (3D analysis of micro-CT images)",
+          "measured_effect": {
+            "direction_of_change": "Various changes related to density, surface area, and interconnectedness",
+            "magnitude_quantification": "Older donor bone exhibited altered microarchitecture, including lower bone volume/total volume (BV/TV), higher trabecular separation (Tb.Sp), lower trabecular number (Tb.N), and reduced trabecular lattice interconnectedness, indicating increased porosity compared to young donor bone. Trabecular thickness (Tb.Th) showed no significant change."
+          },
+          "core_biological_function": "Provides detailed information on bone morphology, including topography, pore size, and porosity, which influence cell infiltration and osteoinduction.",
+          "relevant_activity_context": "Assessment of decellularized bone allograft structural properties based on donor age (young vs. old).",
+          "performance_or_health_indicator": "Crucial for predicting the mechanical stability and osteoinductive capacity of the scaffold; age-related differences may impact clinical applicability, with increased porosity in older bone potentially being beneficial for cell integration."
+        },
+        {
+          "biomarker_name": "Mineral Crystallinity (Hydroxyapatite)",
+          "measured_tissue_or_fluid": "Decellularized bone cubes (human femoral heads)",
+          "activity_type": "Structural assessment (X-ray diffraction - XRD)",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "No significant difference in mineral crystallinity or hydroxyapatite peaks between young and old donor bone samples, comparable to the hydroxyapatite standard."
+          },
+          "core_biological_function": "Reflects the structural organization and quality of bone mineral (hydroxyapatite crystals), influencing mechanical properties.",
+          "relevant_activity_context": "Assessment of decellularized bone allograft material properties based on donor age.",
+          "performance_or_health_indicator": "Indicates that the crystallinity of the bone's mineral phase is not significantly altered by donor age, suggesting it's not a primary factor for differences in osteoinductive ability."
+        },
+        {
+          "biomarker_name": "Calcium to Phosphorus ratio (Ca/P)",
+          "measured_tissue_or_fluid": "Decellularized bone cubes (human femoral heads)",
+          "activity_type": "Elemental composition (X-ray fluorescence - XRF)",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "No significant differences in the Ca/P ratio between young (1:5\u00b12) and old (1:3.6\u00b11) donor decellularized bone samples."
+          },
+          "core_biological_function": "Indicates the stoichiometry of bone mineral (hydroxyapatite), crucial for bone quality and mineralization processes.",
+          "relevant_activity_context": "Assessment of decellularized bone allograft material composition based on donor age.",
+          "performance_or_health_indicator": "Indicates no significant difference in the elemental calcium and phosphorus content of decellularized bone due to donor age, suggesting it's not a primary factor for differences in osteoinductive ability."
+        },
+        {
+          "biomarker_name": "Lactate Dehydrogenase (LDH)",
+          "measured_tissue_or_fluid": "BM-MSCs cultured in Decellularized Bone Conditioned Media (DBCM)",
+          "activity_type": "Enzyme assay",
+          "measured_effect": {
+            "direction_of_change": "indicates viability",
+            "magnitude_quantification": "LDH assays confirmed BM-MSCs viability in DBCM from both young and old donors."
+          },
+          "core_biological_function": "Cytosolic enzyme released upon cell membrane damage, serving as a marker for cellular cytotoxicity and viability.",
+          "relevant_activity_context": "Assessment of the effect of decellularized bone conditioned media on MSC viability and potential cytotoxicity.",
+          "performance_or_health_indicator": "Confirms biocompatibility of DBCM from both age groups, supporting its use for cell-based therapies by demonstrating maintained cellular viability."
+        },
+        {
+          "biomarker_name": "Bone Morphogenetic Proteins (BMP 2, 4, 9)",
+          "measured_tissue_or_fluid": "Decellularized bone conditioned media (DBCM)",
+          "activity_type": "Protein Level (Magnetic bead Luminex assay)",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "No significant difference in the protein concentration of BMPs (BMP 2, 4, 9) in DBCM produced from either young or old individuals compared to standard medium controls."
+          },
+          "core_biological_function": "Key growth factors that induce bone and cartilage formation and promote osteoblast differentiation.",
+          "relevant_activity_context": "Comparison of soluble factors in DBCM from young vs. old bone donors.",
+          "performance_or_health_indicator": "Indicates that BMP concentrations in DBCM are not significantly influenced by bone donor age, suggesting they are not the primary factor explaining differential osteoinductive effects."
+        },
+        {
+          "biomarker_name": "IGF binding protein 3 (IGFBP-3)",
+          "measured_tissue_or_fluid": "Decellularized bone conditioned media (DBCM)",
+          "activity_type": "Protein Level (Magnetic bead Luminex assay)",
+          "measured_effect": {
+            "direction_of_change": "Not explicitly reported in terms of direction of change for age groups",
+            "magnitude_quantification": "Quantification details for age-related differences not explicitly reported in the provided chunks, but levels were assessed."
+          },
+          "core_biological_function": "Major binding protein for IGFs in circulation, regulating their half-life and tissue-specific actions, including bone remodeling.",
+          "relevant_activity_context": "Assessment of soluble factors in decellularized bone conditioned media, potentially differing by donor age.",
+          "performance_or_health_indicator": "Key modulator of IGF bioavailability and activity; changes may affect the osteoinductive capacity of the scaffold, but specific age-related effects are not detailed here."
+        },
+        {
+          "biomarker_name": "Osteopontin (Protein Level)",
+          "measured_tissue_or_fluid": "Decellularized bone conditioned media (DBCM)",
+          "activity_type": "Protein Level (Magnetic bead Luminex assay)",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "No significant difference in the protein concentration of osteopontin in DBCM produced from either young or old individuals."
+          },
+          "core_biological_function": "Extracellular matrix protein involved in mineralization, cell adhesion, and immune modulation.",
+          "relevant_activity_context": "Comparison of soluble factors in DBCM from young vs. old bone donors.",
+          "performance_or_health_indicator": "Indicates that osteopontin protein concentration in DBCM is not influenced by bone donor age, suggesting it's not the direct cause of differential osteoinductive effects."
+        },
+        {
+          "biomarker_name": "Insulin-like Growth Factor-I (IGF-I)",
+          "measured_tissue_or_fluid": "Decellularized bone conditioned media (DBCM)",
+          "activity_type": "Hormone Concentration / Protein Level (Sandwich ELISA)",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "No significant difference in the protein concentration of IGF-I in DBCM produced from either young or old individuals."
+          },
+          "core_biological_function": "Potent anabolic growth factor involved in cell proliferation, differentiation, and tissue regeneration, including bone formation.",
+          "relevant_activity_context": "Comparison of soluble factors in DBCM from young vs. old bone donors.",
+          "performance_or_health_indicator": "Indicates that IGF-I concentration in DBCM is not influenced by bone donor age, suggesting it's not the direct cause of differential osteoinductive effects."
+        },
+        {
+          "biomarker_name": "Insulin-like Growth Factor-II (IGF-II)",
+          "measured_tissue_or_fluid": "Decellularized bone conditioned media (DBCM)",
+          "activity_type": "Hormone Concentration / Protein Level (Sandwich ELISA)",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "No significant difference in the protein concentration of IGF-II in DBCM produced from either young or old individuals."
+          },
+          "core_biological_function": "Growth factor with similar functions to IGF-I, primarily active during fetal development but also involved in adult tissue maintenance and repair, including bone.",
+          "relevant_activity_context": "Comparison of soluble factors in DBCM from young vs. old bone donors.",
+          "performance_or_health_indicator": "Indicates that IGF-II concentration in DBCM is not influenced by bone donor age, suggesting it's not the direct cause of differential osteoinductive effects."
+        },
+        {
+          "biomarker_name": "Bone Mineral Density",
+          "measured_tissue_or_fluid": "Decellularized bone samples",
+          "activity_type": "Density measurement (\u03bcCT and XRF)",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "No significant differences in bone mineral density were observed between young (2.1\u00b10.14) and old (1.9\u00b10.15) donor decellularized bone samples."
+          },
+          "core_biological_function": "A measure of bone mass per unit volume, indicative of bone strength.",
+          "relevant_activity_context": "Age-related changes in mineral composition of decellularized bone.",
+          "performance_or_health_indicator": "Indicates that the overall mineral density of decellularized bone is not significantly affected by donor age, suggesting it's not the cause of differences in osteoinductive ability."
+        },
+        {
+          "biomarker_name": "Trabecular Thickness (Tb.Th)",
+          "measured_tissue_or_fluid": "Decellularized human trabecular bone",
+          "activity_type": "Architectural measurement (micro-CT)",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "No significant change in trabecular thickness between young and old donor decellularized bone samples."
+          },
+          "core_biological_function": "Micro-architectural parameter indicating the thickness of individual trabeculae.",
+          "relevant_activity_context": "Age-related changes in decellularized human donor bone.",
+          "performance_or_health_indicator": "Suggests that while the number and spacing of trabeculae change with age, the thickness of the remaining trabeculae may be maintained, which could be important for mechanical integrity."
+        }
+      ]
+    }
+  }
+]

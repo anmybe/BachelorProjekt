@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Nat Commun Nat Commun Nature Communications 2041-1723 Nature Pub. Group 4366533 ncomms7364 10.1038/ncomms7364 Article PW1/Peg3 expression regulates key properties that determine mesoangioblast stem cell competence Bonfanti Chiara 1 Rossi Giuliana 1 Tedesco Francesco Saverio 2 Giannotta Monica 3 Benedetti Sara 2 4 Tonlorenzi Rossana 5 Antonini Stefania 1 Marazzi Giovanna 6 Dejana Elisabetta 1 3 Sassoon David 6 Cossu Giulio 1 2 7 Messina Graziella a 1 1 Department of BioSciences, University of Milan , 20133 Milan, Italy 2 Department of Cell and Developmental Biology, University College London , 21 University Street, London WC1E 6DE, UK 3 IFOM, FIRC Institute of Molecular Oncology , 20139 Milan, Italy 4 Institute of Child Health, University College London , 30 Guilford Street, London WC1N 1EH, UK 5 San Raffaele Hospital, Division of Neuroscience-INSPE , via Olgettina 58, 20132 Milan, Italy 6 Stem Cells and Regenerative Medicine, ICAN UMRS 1166 Inserm/Sorbonne University (UPMC ParisVI) , 75634 Paris, France 7 Institute of Inflammation and Repair, University of Manchester , Oxford Road, Manchester M13 9PL, UK a graziella.messina@unimi.it 09 03 2015 6 6364 07 05 2014 22 01 2015 Copyright \u00a9 2015, Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved. 2015 Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved. This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article\u2019s Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ Mesoangioblasts are vessel-associated progenitor cells that show therapeutic promise for the treatment of muscular dystrophy. Mesoangioblasts have the ability to undergo skeletal muscle differentiation and cross the blood vessel wall regardless of the developmental stage at which they are isolated. Here we show that PW1/Peg3 is expressed at high levels in mesoangioblasts obtained from mouse, dog and human tissues and its level of expression correlates with their myogenic competence. Silencing PW1/Peg3 markedly inhibits myogenic potential of mesoangioblasts in vitro through MyoD degradation. Moreover, lack of PW1/Peg3 abrogates mesoangioblast ability to cross the vessel wall and to engraft into damaged myofibres through the modulation of the junctional adhesion molecule-A. We conclude that PW1/Peg3 function is essential for conferring proper mesoangioblast competence and that the determination of PW1/Peg3 levels in human mesoangioblasts may serve as a biomarker to identify the best donor populations for therapeutic application in muscular dystrophies. Mesoangioblasts are mesodermal stem cells with a therapeutic potential for treatment of muscular dystrophy due to their ability to differentiate into skeletal muscle. This study shows that the PW1/Peg3 protein is crucial for mesoangioblast myogenic and migratory potency and is a therapeutically relevant biomarker. Mesoangioblasts (MABs) are blood vessel-associated progenitor cells that can differentiate into mesoderm cell types, including skeletal muscle 1 . When delivered through the arterial circulation, MABs cross the blood vessel wall and participate in skeletal muscle regeneration leading to an amelioration of muscular dystrophies in different pre-clinical animal models: the \u03b1-sarcoglican-null mouse, which models the limb-girdle muscular dystrophy, the AJ mouse model of dysferlinopathy, the mdx mouse for Duchenne muscular dystrophy (DMD) 2 3 4 5 and the golden retriever muscular dystrophy dog 6 . The ability of MABs to cross the vessel wall confers an advantage as therapeutic donor stem cells as compared with satellite cells and myoblasts that need to be delivered directly into the muscle tissue to properly engraft 7 8 . Cells with MAB-like properties have been isolated from human adult skeletal muscle pericytes 9 and expanded under clinical-grade conditions, providing the basis for a Phase I/II clinical trial for Duchenne muscular dystrophy (EudraCT no. 2011-000176-33; Cossu et al . in preparation). Since the initial identification of MABs in mouse embryos 1 , all MABs thus far isolated from different species (mouse, dog and human) and developmental stages have been shown to contribute to muscle regeneration in vivo . Although alkaline phosphatase expression can be used to identify adult human MABs in skeletal muscle, no single unequivocal marker has been identified that denotes MAB identity across species 1 4 6 9 . As a result, MABs are defined predominantly by their isolation method and functional properties. A cross-analysis of independent microarrays performed on different human and murine MAB populations revealed that PW1 is expressed in MABs regardless of species origin and age of isolation 10 . PW1, also identified as Peg3 (Paternally expressed gene3) was initially isolated following a screening to identify factors involved in skeletal muscle commitment as well as in a screen for parentally imprinted genes 11 . PW1/Peg3 (hereafter referred to as PW1) is expressed at high levels upon gastrulation and is downregulated during fetal and perinatal development 11 12 . In postnatal skeletal muscle, PW1 expression is restricted to muscle satellite cells and to a subpopulation of interstitial cells, which display myogenic potential 13 14 15 . Moreover, PW1 expression identifies multiple adult stem and progenitor cell populations from a wide array of adult tissues including skin, gut, blood and central nervous system 16 . PW1 encodes a zinc-finger protein that has been shown to participate in inflammatory- and p53-mediated cell stress pathways 17 18 as well as a mediator of \u03b2-catenin stability in the Wnt signalling pathway 19 . PW1 has also been shown to function as a transcription factor with a DNA-binding motif regulating an array of genes involved in metabolic homeostasis 20 . We report here that silencing PW1 in a polyclonal population of murine MABs abrogates their capacity to differentiate into skeletal muscle and inhibits their ability to cross the vessel wall and therefore migrate towards damaged muscle. We observed that PW1 controls MAB muscle differentiation by stabilizing MyoD via regulation of cyclinE levels and regulates engraftment efficiency by modulating the expression of molecules responsible for trans-vessel migration, including the tight junction molecule JAM-A. Consistent with these observations, we found that levels of PW1 expression correlate with the myogenic and migratory capacities of both murine- and human-derived MABs, indicating that PW1 expression levels can be used to screen and identify competent MABs before their use in cell therapy.",
+    "document_source_id": "25751651",
+    "analysis_date": "2025-12-09",
+    "extracted_data": {
+      "document_summary": "This study investigates the critical role of PW1/Peg3 expression in determining the competence of mesoangioblasts (MABs) for therapeutic applications in muscular dystrophy. It demonstrates that PW1/Peg3 is essential for MABs' myogenic differentiation, primarily by stabilizing MyoD via regulating cyclin E levels, and for their ability to transmigrate across blood vessel walls by modulating the junctional adhesion molecule-A (JAM-A). The absence of PW1/Peg3 leads to impaired MAB function, including reduced myogenic potential and compromised vessel crossing and engraftment into damaged myofibres. The findings suggest that PW1/Peg3 levels can serve as a crucial biomarker to identify and select optimal donor MAB populations for cell therapy. The document also details the experimental methodologies, including mammalian mesoangioblast culture, genetic manipulation (shRNA knockdown of PW1), in vitro transmigration assays, in vivo MAB transplantation into scid-mdx mice, and various molecular analyses such as immunofluorescence, histology, microarray, and quantitative PCR.",
+      "treatment_details": {
+        "therapy_type": "Mesoangioblast (MAB)-based Cell Therapy, Genetic Manipulation (shRNA knockdown), and Peptide Blocking (anti-JAM-A antibodies)",
+        "dose_specificity": "The study utilized intra-arterial transplantation of 10^6 mouse MABs (control or shPW1-transduced) diluted in 50 \b5l of PBS, injected into the femoral artery of 5-month-old scid-mdx female mice. Genetic manipulation involved infecting shPW1 AdmMABs with lentiviral shPW1 at a multiplicity of infection (MOI) of 100 in the presence of polybrene (8 \b5g ml \b1) overnight. In vivo rescue experiments included pre-incubation of control and shPW1 cells with anti-JAM-A blocking peptide BV11 (20 \b5g ml \b1) and control IgG for 2 hours before transplantation. For human MABs, BV16 at 12 \b5g ml \b1 was used in in vitro transmigration assays. While specific cell transplantation numbers and antibody concentrations are provided, no dose-response comparisons for PW1 manipulation or blocking antibodies were reported, with the focus being on the effects of presence/absence or blocking."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "PW1/Peg3",
+          "measured_tissue_or_fluid": "Mesoangioblasts (from mouse, dog, and human tissues), adult mouse MABs (AdmMABs), embryonic mouse MABs (mMABs), NIH3T3 fibroblasts, human MABs (hMABs)",
+          "activity_type": "Protein Level, Gene Transcript (microarray, qRT-PCR), Silenced expression, Cell proliferation rate",
+          "measured_effect": {
+            "direction_of_change": "Higher (in competent MABs), Lower (when silenced), Decreased proliferation, Downregulation of cycE",
+            "magnitude_quantification": "Levels correlate with myogenic and migratory capacities; silencing PW1/Peg3 markedly inhibits myogenic potential, vessel wall crossing, engraftment, and leads to MyoD degradation. Forced expression in fibroblasts decreased proliferation two-fold. Silencing PW1 results in a twofold decrease in transmigration (in vitro) and poor engraftment (in vivo). Strongly expressed only in myogenic competent populations of hMABs. PW1 co-transfection in NIH3T3 cells significantly reduced luciferase activity from cycE promoter."
+          },
+          "core_biological_function": "Regulates mesoangioblast myogenic differentiation, migratory ability, and engraftment efficiency by stabilizing MyoD (via repressing cycE) and modulating JAM-A. Identifies adult stem and progenitor cell populations. Influences cell cycle progression and proliferation. Transcription factor regulating gene expression. Interacts with TRAF2, Siah1, BAX, and inhibits Wnt signaling.",
+          "relevant_activity_context": "Mesoangioblast competence for therapeutic application in muscular dystrophy, including in vitro myogenic potential, vessel wall crossing, and engraftment into damaged myofibres, MAB characterization across species/stages, differentiation in culture, molecular pathway of PW1 action, MAB transplantation.",
+          "performance_or_health_indicator": "Essential for MAB stem cell competence, critical for skeletal muscle differentiation and overall myogenic competence. Critical for the therapeutic efficacy of MAB transplantation for muscle repair and regeneration. Can reduce cell proliferation in certain contexts. Serves as a screening biomarker for identifying optimal MAB donors in cell therapy protocols for muscle disorders. Loss leads to MyoD degradation, impairing myogenesis. Essential for stabilizing MyoD by controlling cycE, thus promoting differentiation."
+        },
+        {
+          "biomarker_name": "MyoD",
+          "measured_tissue_or_fluid": "Mesoangioblasts, AdmMABs (shPW1 vs Control), non-competent AdmMAB clones",
+          "activity_type": "Protein Level, Gene Transcripts",
+          "measured_effect": {
+            "direction_of_change": "Lower (degraded), Absent (in non-competent clones), Accumulated (with inhibitors), Rescued (with MyoDsp3, Roscovitin), Upregulated (transcripts)",
+            "magnitude_quantification": "Markedly decreased protein in the absence of PW1/Peg3; degradation occurs in mesoangioblasts when PW1/Peg3 is silenced. MyoD transcripts were present and upregulated during differentiation regardless of short hairpin RNA treatment. Protein is absent in non-competent AdmMAB clones. Inhibition of proteasome or cycE/Cdk2 function led to MyoD protein accumulation in shPW1 AdmMABs. Only MyoDsp3 forced expression led to a complete rescue of terminal myogenic differentiation. Inhibition of CyclinE-cdk2 activity by Roscovitin rescued MyoD protein in growing shPW1 cells."
+          },
+          "core_biological_function": "Key regulator of skeletal muscle differentiation; master transcription factor regulating the myogenic program and terminal differentiation.",
+          "relevant_activity_context": "Myogenic differentiation of mesoangioblasts, specifically when PW1/Peg3 expression is silenced, PW1 regulatory pathway, MAB differentiation, sustained cycE expression, inhibition of CyclinE-cdk2 activity.",
+          "performance_or_health_indicator": "Indicates inhibition of mesoangioblast myogenic potential and impaired muscle differentiation. Essential for skeletal muscle differentiation; its degradation impairs myogenesis, indicating dysfunctional MABs and reduced therapeutic efficacy. Its rescue suggests a means to restore MAB therapeutic function."
+        },
+        {
+          "biomarker_name": "JAM-A (junctional adhesion molecule-A)",
+          "measured_tissue_or_fluid": "Mesoangioblasts, shPW1 AdmMABs vs Ctl AdmMABs, non-competent AdmMAB clones, human MABs (hMABs), human umbilical vein endothelial cells (HUVECs)",
+          "activity_type": "Expression Level, Gene expression (mRNA, microarray), Protein level, Transmigration assay (in vitro)",
+          "measured_effect": {
+            "direction_of_change": "Modulated (leading to impaired function), Upregulated (in absence of PW1/Peg3), Lower (with blocking antibody), Rescued transmigration",
+            "magnitude_quantification": "Expression is modulated by lack of PW1/Peg3, which abrogates vessel wall crossing. Robust increase in the absence of PW1/Peg3, pronounced at both mRNA and protein levels, and upregulated in non-competent clones. JAM-A blocking antibody resulted in a 1.5-fold rescue in transmigration (mouse shPW1 AdmMABs) and almost twofold rescue in non-competent hMABs. In vivo, JAM-A function impairment led to a decrease in shPW1 AdmMABs inside vessels and an increase in the interstitium 6 hours post-injection."
+          },
+          "core_biological_function": "Mediates trans-vessel migration as a tight junction molecule. Regulates junction tightening, involved in cell adhesion and extravasation. Repression of JAM-A promotes MAB extravasation and transmigration.",
+          "relevant_activity_context": "Mesoangioblast ability to cross the vessel wall and engraft into damaged myofibres, particularly in the context of PW1/Peg3 absence. MAB trans-vessel migration, MAB extravasation. Absence of PW1 in MABs, JAM-A blocking antibody treatment in shPW1 AdmMABs, transmigration assays on HUVECs. Therapeutic intervention for impaired MAB migration.",
+          "performance_or_health_indicator": "Associated with mesoangioblast ability to cross the blood vessel wall and engraft into damaged myofibres; its modulation by lack of PW1/Peg3 indicates impaired migratory potential. Upregulation in shPW1 AdmMABs contributes to their inability to cross the vessel wall, thereby impairing muscle engraftment. Targeting JAM-A can restore migratory capacity of dysfunctional MABs, enhancing their therapeutic potential."
+        },
+        {
+          "biomarker_name": "cycE (Cyclin E / CCNE1, CCNE2)",
+          "measured_tissue_or_fluid": "Control AdmMABs vs shPW1 AdmMABs, NIH3T3 fibroblasts",
+          "activity_type": "Protein level, Gene expression (qRT-PCR, microarray, promoter activity)",
+          "measured_effect": {
+            "direction_of_change": "Downregulated (control AdmMABs and with PW1), Maintained high (shPW1 AdmMABs), Upregulated (in absence of PW1)",
+            "magnitude_quantification": "Control AdmMABs downregulated cycE in DM; cycE levels remained high in the shPW1 AdmMABs. Marked decrease in cycE expression in response to PW1 (in fibroblasts). CCNE1 and CCNE2 were upregulated in the absence of PW1 (microarray). Sustained cycE expression observed in the absence of PW1. A significant reduction of luciferase activity was observed from the cycE promoter when NIH3T3 cells were co-transfected with PW1. Inhibition of CyclinE-cdk2 activity by Roscovitin treatment was sufficient to rescue MyoD protein in growing shPW1 cells."
+          },
+          "core_biological_function": "Cyclin-dependent kinase, regulates MyoD stability through phosphorylation leading to degradation, involved in cell cycle.",
+          "relevant_activity_context": "Myogenic differentiation, regulation of MyoD activity, cell cycle exit. Absence of PW1 in MABs, co-transfection experiments in NIH3T3 cells, inhibition of CyclinE-cdk2 activity in shPW1 cells.",
+          "performance_or_health_indicator": "High levels indicate ongoing MyoD degradation and impaired differentiation, whereas downregulation is necessary for proper myogenesis. Sustained cycE expression in the absence of PW1 indicates impaired mesoangioblast myogenic differentiation by promoting MyoD degradation, thus signaling reduced therapeutic efficacy of MABs."
+        },
+        {
+          "biomarker_name": "Pax3",
+          "measured_tissue_or_fluid": "Embryonic mMABs, adult mouse MABs (AdmMABs)",
+          "activity_type": "Gene expression (silenced, null), Gene Transcript / Protein Level (implied)",
+          "measured_effect": {
+            "direction_of_change": "Necessary (embryonic), Unchanged (adult upon silencing)",
+            "magnitude_quantification": "Silencing of Pax3 in AdmMABs does not affect myogenic competence; Pax3 null embryonic mMABs showed no PW1 expression. Pax3 was necessary for embryonic mesoangioblast differentiation and acted upstream of PW1 in embryonic MAB skeletal differentiation. Silencing of Pax3 in polyclonal AdmMABs did not lead to any phenotype or change in terms of muscle differentiation."
+          },
+          "core_biological_function": "Transcription factor, plays a role in early myogenic development; paired box/homeodomain transcription factor involved in myogenic differentiation.",
+          "relevant_activity_context": "Myogenic competence in embryonic vs. adult MABs. Embryonic MAB differentiation, adult mouse MAB differentiation, Pax3 silencing.",
+          "performance_or_health_indicator": "Indicates a stage-specific requirement for myogenic competence, being essential in embryonic MABs but not in adult mMABs, suggesting its utility as a marker is developmentally constrained."
+        },
+        {
+          "biomarker_name": "Dystrophin",
+          "measured_tissue_or_fluid": "Muscle fibers (scid-mdx mice)",
+          "activity_type": "Protein expression",
+          "measured_effect": {
+            "direction_of_change": "Expressing, no expression, restored expression",
+            "magnitude_quantification": "Control AdmMabs gave rise to dystrophin expressing fibres 1 month after injection. No dystrophin expression was observed following systemic injection of shPW1 AdmMABs. ShPW1 AdmMABs restored dystrophin expression in the injected area (intramuscular)."
+          },
+          "core_biological_function": "Structural protein of muscle fibers, essential for muscle integrity.",
+          "relevant_activity_context": "Muscle regeneration and engraftment following MAB transplantation in dystrophic immunodeficient mice.",
+          "performance_or_health_indicator": "A key indicator of successful muscle repair, regeneration, and engraftment by transplanted MABs."
+        },
+        {
+          "biomarker_name": "\b2-Galactosidase (\b2-Gal)",
+          "measured_tissue_or_fluid": "Muscle sections of scid-mdx mice",
+          "activity_type": "Cell labelling/detection (nuclear labelling)",
+          "measured_effect": {
+            "direction_of_change": "Comparable, fewer detected, localized within vessels",
+            "magnitude_quantification": "Number of \b2-Gal+ cells in the muscle was comparable between Ctl and shPW1 cells 6 h following intra-femoral artery injection. Only few shPW1 cells were detected in the muscle 1 month after injection. Majority of Ctl AdmMABs were localized in the interstitium after 6 h, whereas the shPW1 AdmMABs were still within the blood vessels. Very few labelled nuclei were associated with myofibres in the shPW1 AdmMABs-injected mice (1 month)."
+          },
+          "core_biological_function": "Reporter enzyme used to track transplanted cells.",
+          "relevant_activity_context": "Tracking MAB tissue distribution, migration, and engraftment after systemic or intramuscular injection.",
+          "performance_or_health_indicator": "Allows assessment of MAB survival, localization, and integration into host muscle tissue."
+        },
+        {
+          "biomarker_name": "SDF1 (CXCL12) and CXCR4",
+          "measured_tissue_or_fluid": "shPW1 AdmMABs vs Ctl AdmMABs",
+          "activity_type": "Gene expression (microarray)",
+          "measured_effect": {
+            "direction_of_change": "Deregulation",
+            "magnitude_quantification": "SDF1 (CXCL12) and its receptor (CXCR4) were deregulated in shPW1 AdmMABs."
+          },
+          "core_biological_function": "Chemokine and its receptor pair, critical for cell migration, homing, and trafficking.",
+          "relevant_activity_context": "MAB homing towards damaged muscle.",
+          "performance_or_health_indicator": "Deregulation suggests impairment in the migratory capacity and tissue targeting of MABs."
+        },
+        {
+          "biomarker_name": "M-Cadherin (CDH15)",
+          "measured_tissue_or_fluid": "shPW1 AdmMABs vs Ctl AdmMABs",
+          "activity_type": "Gene expression (microarray)",
+          "measured_effect": {
+            "direction_of_change": "Downregulation",
+            "magnitude_quantification": "Downregulation of muscular M-Cadherin (CDH15) in shPW1 AdmMABs."
+          },
+          "core_biological_function": "Cell adhesion molecule primarily involved in myoblast cell-cell adhesion and fusion.",
+          "relevant_activity_context": "MAB differentiation and adhesion.",
+          "performance_or_health_indicator": "Downregulation indicates altered cell adhesion properties or a less differentiated state, potentially impairing muscle integration."
+        },
+        {
+          "biomarker_name": "N-Cadherin (CDH2)",
+          "measured_tissue_or_fluid": "shPW1 AdmMABs vs Ctl AdmMABs",
+          "activity_type": "Gene expression (microarray)",
+          "measured_effect": {
+            "direction_of_change": "Upregulation",
+            "magnitude_quantification": "Upregulation of N-Cadherin (CDH2) in shPW1 AdmMABs."
+          },
+          "core_biological_function": "Cell adhesion molecule, typically expressed in undifferentiated myoblasts, neural, and mesoderm cells.",
+          "relevant_activity_context": "MAB differentiation and adhesion.",
+          "performance_or_health_indicator": "Upregulation suggests a maintained undifferentiated state or altered cell adhesion characteristics in MABs lacking PW1."
+        }
+      ]
+    }
+  }
+]

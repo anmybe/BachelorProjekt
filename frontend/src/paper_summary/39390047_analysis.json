@@ -1,0 +1,640 @@
+[
+  {
+    "title": "pmc Sci Rep Sci Rep Scientific Reports 2045-2322 Nature Publishing Group UK London 11467386 39390047 74641 10.1038/s41598-024-74641-9 Article Metabolomic profiling of COVID-19 using serum and urine samples in intensive care and medical ward cohorts Trist\u00e1n Ana Isabel 1 Jim\u00e9nez-Luna Cristina 2 3 4 Abreu Ana Cristina 1 Arrabal-Campos Francisco Manuel 5 Salmer\u00f3n Ana del Mar 1 Rodr\u00edguez Firma Isabel 6 Maresca Manuel \u00c1ngel Rodr\u00edguez 6 Garc\u00eda Antonio Bernardino 6 Melguizo Consolaci\u00f3n 2 3 4 Prados Jose jcprados@ugr.es 2 3 4 Fern\u00e1ndez Ignacio ifernan@ual.es 1 1 https://ror.org/003d3xx08 grid.28020.38 0000 0001 0196 9356 Department of Chemistry and Physics, Research Centre CIAIMBITAL, University of Almer\u00eda, Ctra. Sacramento, s/n, 04120 Almer\u00eda, Spain 2 Biosanitary Research Institute of Granada (ibs.GRANADA), 18014 Granada, Spain 3 Institute of Biopathology and Regenerative Medicine (IBIMER), Biomedical Research Center (CIBM), 18100 Granada, Spain 4 https://ror.org/04njjy449 grid.4489.1 0000 0001 2167 8994 Department of Anatomy and Embryology, University of Granada, 18071 Granada, Spain 5 https://ror.org/003d3xx08 grid.28020.38 0000 0001 0196 9356 Department of Engineering, CeiA3, University of Almer\u00eda, Ctra. Sacramento, s/n, 04120 Almer\u00eda, Spain 6 Torrec\u00e1rdenas University Hospital, 04009 Almer\u00eda, Spain 10 10 2024 10 10 2024 2024 14 23713 30 5 2024 27 9 2024 \u00a9 The Author(s) 2024 2024 https://creativecommons.org/licenses/by-nc-nd/4.0/ Open Access This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party material in this article are included in the article\u2019s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article\u2019s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by-nc-nd/4.0/ . The COVID-19 pandemic remains a significant global health threat, with uncertainties persisting regarding the factors determining whether individuals experience mild symptoms, severe conditions, or succumb to the disease. This study presents an NMR metabolomics-based approach, analysing 80 serum and urine samples from COVID-19 patients (34 intensive care patients and 46 hospitalized patients) and 32 from healthy controls. Our research identifies discriminant metabolites and clinical variables relevant to COVID-19 diagnosis and severity. These discriminant metabolites play a role in specific pathways, mainly \u201cPhenylalanine, tyrosine and tryptophan biosynthesis\u201d, \u201cPhenylalanine metabolism\u201d, \u201cGlycerolipid metabolism\u201d and \u201cArginine and proline metabolism\u201d. We propose a three-metabolite diagnostic panel\u2014comprising isoleucine, TMAO, and glucose\u2014that effectively discriminates COVID-19 patients from healthy individuals, achieving high efficiency. Furthermore, we found an optimal biomarker panel capable of efficiently classify disease severity considering both clinical characteristics (obesity/overweight, dyslipidemia, and lymphocyte count) together with metabolites content (ethanol, TMAO, tyrosine and betaine). Supplementary Information The online version contains supplementary material available at 10.1038/s41598-024-74641-9. Keywords COVID-19 Metabolomics NMR Serum Urine Biomarkers Subject terms Analytical chemistry Chemical biology Cheminformatics Computational biology and bioinformatics Molecular biology Biomarkers Diseases Medical research Molecular medicine Signs and symptoms State Research Agency of the Spanish Ministry of Science and Innovation PID2021-126445OB-I00 PID2021-126445OB-I00 PID2021-126445OB-I00 PID2021-126445OB-I00 PID2021-126445OB-I00 PID2021-126445OB-I00 PID2021-126445OB-I00 PID2021-126445OB-I00 PID2021-126445OB-I00 PID2021-126445OB-I00 Gobierno de Espa\u00f1a MCIN/AEI/10.13039/501100011033 and Uni\u00f3n Europea \u201cNext Generation EU\u201d/PRTR PDC2021-121248-I00, PLEC2021-007774 and CPP2022-009967 PDC2021-121248-I00, PLEC2021-007774 and CPP2022-009967 PDC2021-121248-I00, PLEC2021-007774 and CPP2022-009967 PDC2021-121248-I00, PLEC2021-007774 and CPP2022-009967 PDC2021-121248-I00, PLEC2021-007774 and CPP2022-009967 PDC2021-121248-I00, PLEC2021-007774 and CPP2022-009967 PDC2021-121248-I00, PLEC2021-007774 and CPP2022-009967 PDC2021-121248-I00, PLEC2021-007774 and CPP2022-009967 PDC2021-121248-I00, PLEC2021-007774 and CPP2022-009967 PDC2021-121248-I00, PLEC2021-007774 and CPP2022-009967 PDC2021-121248-I00, PLEC2021-007774 and CPP2022-009967 Junta de Andaluc\u00eda PREDOC_01024 issue-copyright-statement \u00a9 Springer Nature Limited 2024 Introduction Coronavirus disease 2019 (COVID-19), a serious respiratory disease caused by the coronavirus strain SARS-CoV-2, has caused a global pandemic causing the infection of more than 523.3 million people and more than 6.2 million deaths to date 1 , 2 . This infection mainly affects the airways and lungs and presents a wide range of clinical manifestations, ranging from mild or even asymptomatic cases to severe ones where it could also affect other organs and cause neurological symptoms or vascular damage, among others. Several COVID-19 patients still experience severe cases where the infection can be fatal, primarily affecting older individuals and those with underlying health conditions like diabetes, lung diseases, or cardiovascular disease 3 \u2013 5 . The reason behind these differences in symptoms is still not fully understood, but it seems to be linked to various altered pathophysiological pathways during this infection, so it becomes imperative to comprehend which mechanisms are dysregulated to enhance treatment strategies, ultimately impacting the metabolic profiles 5 . Metabolomics continues to evolve with ongoing research and the development of analytical techniques, mostly mass spectrometry (MS) and nuclear magnetic resonance (NMR) spectroscopy 1 , 6 . Furthermore, it employs statistical methods to characterize complex biochemical mixtures, analyzing both metabolites and metabolism, so this combined strategy probably affords the best representation of phenotype, and it enables the identification of disease biomarkers 7 , 8 . Among its benefits, NMR shows a high reproducibility, robustness, and needs a minimal sample preparation, especially in biofluids 6 , 8 . In the field of pathology diagnosis, NMR metabolomics has been key for the determination of biomarkers of many diseases using several biofluids, such as saliva for Type 1 Diabetes and Parkinson\u2019s disease 9 , 10 , cerebrospinal fluid for inflammatory diseases 11 , serum for pancreatic and colorectal cancer 12 , 13 and urine for thyroid and inflammatory bowel diseases 14 , 15 . Due to the tremendous impact that the COVID-19 pandemic has had in recent years, there has been a considerable amount of research concerning this topic, most of them employing serum or plasma samples and preferably MS as analytical technique 5 , 16 \u2013 19 . Regarding urine samples, there are few recent studies, mainly comparing COVID-19 patients and healthy controls, or studying the recovery from severe coronavirus infection 20 , 21 . To the best of our knowledge, no research has yet covered the analysis of COVID-19 severity alterations using urine, either alone or in combination with serum samples. Thus, in this study, we propose a novel NMR-based metabolomics investigation using two biofluids, namely serum and urine samples, collected from COVID-19 patients, including subgroups from both medical ward (MW) and intensive care units (ICU), as well as healthy controls (HC) of both genders, aged between 31 and 89 years. Our primary objective is to identify potential biomarkers that specifically differentiate between mild and severe COVID-19 symptoms. Additionally, we aim to investigate clinical correlations with the metabolome panel to better understand the influence of specific clinical features on the disease.",
+    "document_source_id": "39390047",
+    "analysis_date": "2025-12-10",
+    "extracted_data": {
+      "document_summary": "This study employed NMR metabolomics to investigate metabolic profiles in serum and urine from COVID-19 patients across varying disease severities (Medical Ward and Intensive Care Unit) and healthy controls. The primary aim was to identify biomarkers for COVID-19 diagnosis, severity classification, and prognosis, and to explore correlations with clinical factors like hypertension, obesity, and dyslipidemia. Key findings include the development of a highly efficient diagnostic panel (isoleucine, TMAO, glucose) and a robust severity classification panel (ethanol, TMAO, tyrosine, betaine, and clinical characteristics), alongside identification of numerous individual metabolites and clinical parameters associated with infection, disease progression, hospitalization duration, and patient outcome.",
+      "treatment_details": {
+        "therapy_type": "NMR metabolomics-based profiling and observational study of COVID-19 infection",
+        "dose_specificity": "This observational study analyzed 80 serum and urine samples from COVID-19 patients (34 intensive care, 46 hospitalized) and 32 from healthy controls using NMR spectroscopy. The research focused on identifying and validating metabolite-based panels for COVID-19 diagnosis and severity classification. A diagnostic panel of isoleucine, TMAO, and glucose achieved an AUC of 0.91 (86.08% sensitivity, 83.87% specificity). A severity classification panel, combining ethanol, TMAO, tyrosine, betaine, and clinical characteristics (obesity/overweight, dyslipidemia, lymphocyte count), achieved an AUC of 0.825 (84.85% sensitivity, 72.09% specificity). No therapeutic intervention or dose-response comparisons were part of the study design."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "Isoleucine",
+          "measured_tissue_or_fluid": "Blood Serum and urine",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "contributes to panel discrimination",
+            "magnitude_quantification": "Part of a diagnostic panel (isoleucine, TMAO, glucose) that effectively discriminates COVID-19 patients from healthy individuals with high efficiency (AUC=0.91, 86.08% sensitivity, 83.87% specificity)."
+          },
+          "core_biological_function": "Essential amino acid, involved in amino acid metabolism.",
+          "relevant_activity_context": "COVID-19 diagnosis (discriminating COVID-19 patients from healthy controls).",
+          "performance_or_health_indicator": "A key component of a highly efficient diagnostic panel for COVID-19."
+        },
+        {
+          "biomarker_name": "TMAO (Trimethylamine N-oxide)",
+          "measured_tissue_or_fluid": "Blood Serum and Urine",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "lower; higher for dyslipidemia; contributes to panel discrimination",
+            "magnitude_quantification": "Generally lower in COVID-19 patients compared to healthy controls, and decreased in ICU patients compared to Medical Ward patients, associated with negative prognosis/death (p=0.015). Increased levels were correlated with dyslipidemia in ICU patients. It is a key component of a diagnostic panel (AUC=0.91, 86.08% sensitivity, 83.87% specificity) and a severity classification panel (AUC=0.825, 84.85% sensitivity, 72.09%)."
+          },
+          "core_biological_function": "Gut microbiota-derived metabolite involved in choline/carnitine metabolism, osmoregulation, and inflammatory processes.",
+          "relevant_activity_context": "COVID-19 diagnosis, disease severity (Medical Ward vs. ICU), prognosis (poor outcome/death), and associated with dyslipidemia.",
+          "performance_or_health_indicator": "Key diagnostic and severity biomarker, linked to negative prognosis and gut microbiome health."
+        },
+        {
+          "biomarker_name": "Glucose",
+          "measured_tissue_or_fluid": "Blood Serum and urine",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "higher; contributes to panel discrimination",
+            "magnitude_quantification": "Part of a diagnostic panel (isoleucine, TMAO, glucose) for COVID-19 (AUC=0.91). Higher levels positively correlated with longer hospital stay (p=0.043) in COVID-19 patients."
+          },
+          "core_biological_function": "Primary energy source, involved in energy metabolism and associated with glycerolipid metabolism and inflammation.",
+          "relevant_activity_context": "COVID-19 diagnosis and duration of hospital stay.",
+          "performance_or_health_indicator": "A key diagnostic biomarker for COVID-19 and associated with longer hospitalization and severe COVID-19."
+        },
+        {
+          "biomarker_name": "Ethanol",
+          "measured_tissue_or_fluid": "Blood Serum and urine",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "decrease; higher; contributes to panel discrimination",
+            "magnitude_quantification": "Decreased in serum from ICU patients compared to Medical Ward patients, yet also ranked higher and significantly associated with arterial hypertension and cardiovascular risk comorbidities in COVID-19 patients. Part of a severity classification panel for COVID-19 (AUC=0.825, 84.85% sensitivity, 72.09%), and was part of a biomarker panel with insufficient discriminatory capacity for MW vs ICU (AUC=0.697)."
+          },
+          "core_biological_function": "Involved in general metabolic processes, and specifically in arginine, proline, galactose, and glycerolipid metabolisms.",
+          "relevant_activity_context": "COVID-19 severity classification (Medical Ward vs. ICU), and association with hypertension and cardiovascular risk comorbidities.",
+          "performance_or_health_indicator": "Biomarker for classifying COVID-19 severity and associated with comorbidities."
+        },
+        {
+          "biomarker_name": "Tyrosine",
+          "measured_tissue_or_fluid": "Blood Serum and urine",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "higher; contributes to panel discrimination",
+            "magnitude_quantification": "Generally higher in COVID-19 patients compared to healthy controls (though some studies reported opposite). Statistically associated with obesity/overweight in both Medical Ward and ICU patients. A component of a severity classification panel (AUC=0.825, 84.85% sensitivity, 72.09%)."
+          },
+          "core_biological_function": "Amino acid, derived from phenylalanine, involved in protein synthesis, precursor to neurotransmitters and hormones, and related to inflammation and 'Phenylalanine, tyrosine and tryptophan biosynthesis' pathway.",
+          "relevant_activity_context": "COVID-19 infection vs. healthy controls, disease severity classification, and association with obesity/overweight.",
+          "performance_or_health_indicator": "Potential biomarker for COVID-19 infection and severity, and associated with metabolic changes and comorbidities."
+        },
+        {
+          "biomarker_name": "Betaine",
+          "measured_tissue_or_fluid": "Blood Serum and urine",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "decrease; contributes to panel discrimination",
+            "magnitude_quantification": "Decreased in serum from ICU patients compared to Medical Ward patients, and decreased concentrations associated with negative outcome (poor prognosis). Part of a severity classification panel for COVID-19 (AUC=0.825, 84.85% sensitivity, 72.09%), and was part of a biomarker panel with insufficient discriminatory capacity for MW vs ICU (AUC=0.697)."
+          },
+          "core_biological_function": "Gut-related metabolite involved in methylation, osmoregulation, and the choline-TMAO pathway.",
+          "relevant_activity_context": "COVID-19 severity classification (ICU vs. Medical Ward), prognosis, and general metabolic regulation.",
+          "performance_or_health_indicator": "Biomarker associated with severe COVID-19 and negative prognosis, and a component of severity classification panels."
+        },
+        {
+          "biomarker_name": "Lactate dehydrogenase (LDH)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Statistically significant increase (48.89% in Medical Ward vs. 76.47% in ICU, p = 0.013)."
+          },
+          "core_biological_function": "Enzyme involved in glycolysis, often elevated in tissue damage.",
+          "relevant_activity_context": "COVID-19 disease severity (ICU patients vs. Medical Ward patients).",
+          "performance_or_health_indicator": "Reflects disease severity in COVID-19 patients."
+        },
+        {
+          "biomarker_name": "Fibrinogen",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Statistically significant increase (42.22% in Medical Ward vs. 67.65% in ICU, p = 0.025)."
+          },
+          "core_biological_function": "Protein involved in blood clotting and acute phase response.",
+          "relevant_activity_context": "COVID-19 disease severity (ICU patients vs. Medical Ward patients).",
+          "performance_or_health_indicator": "Reflects disease severity in COVID-19 patients."
+        },
+        {
+          "biomarker_name": "Lymphocyte count",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Count",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Significant decrease (37.78% in ICU vs. 79.41% in Medical Ward, p < 0.001); lower counts associated with longer hospital stay (36.42 vs. 26.47 days, p = 0.015). Low counts were included in a predictive model for severe COVID-19 (AUC=0.825)."
+          },
+          "core_biological_function": "Mediates immune response.",
+          "relevant_activity_context": "COVID-19 disease severity (ICU patients vs. Medical Ward patients) and overall COVID-19 prognosis (hospital stay, risk of severe disease).",
+          "performance_or_health_indicator": "Associated with longer hospital stay, critical disease, unfavorable evolution, increased mortality, and is a component of a panel predicting severe COVID-19."
+        },
+        {
+          "biomarker_name": "Ferritin",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "High levels associated with longer ICU stay (32.50 vs. 16.17 days, p = 0.021) and longer hospitalization in both Medical Ward (27.55 vs. 10.25 days, p = 0.023) and ICU (47.64 vs. 25.83 days, p = 0.03) patients."
+          },
+          "core_biological_function": "Iron storage protein, also an acute phase reactant.",
+          "relevant_activity_context": "COVID-19 disease severity and prognosis (hospital stay).",
+          "performance_or_health_indicator": "Associated with longer ICU stay, longer hospitalization, critical disease, unfavorable evolution, and increased mortality due to COVID-19."
+        },
+        {
+          "biomarker_name": "C-reactive protein (CRP)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "High levels required more time in ICU (30.78 vs. 11 days for normal values, p = 0.048)."
+          },
+          "core_biological_function": "Acute phase reactant, marker of inflammation.",
+          "relevant_activity_context": "COVID-19 disease severity and prognosis (hospital stay).",
+          "performance_or_health_indicator": "Associated with longer ICU stay, critical disease, unfavorable evolution, and increased mortality due to COVID-19."
+        },
+        {
+          "biomarker_name": "Dyslipidemia",
+          "measured_tissue_or_fluid": "Clinical assessment/Patient history",
+          "activity_type": "Prevalence/Presence",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "More prevalent in ICU patients (44.12% vs. 19.57% in Medical Ward, p = 0.018); associated with longer hospital stay (45.5 vs. 25.92 days, p = 0.009)."
+          },
+          "core_biological_function": "Disorder of lipid metabolism.",
+          "relevant_activity_context": "COVID-19 disease severity and prognosis (hospital stay).",
+          "performance_or_health_indicator": "Increases risk of severe COVID-19 and mortality, associated with longer hospital stay."
+        },
+        {
+          "biomarker_name": "Hypertension",
+          "measured_tissue_or_fluid": "Clinical assessment/Patient history",
+          "activity_type": "Presence/Absence",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Patients with hypertension in the Medical Ward group had a longer hospital stay (27.38 vs. 16.84 days, p = 0.015)."
+          },
+          "core_biological_function": "Elevated blood pressure, cardiovascular risk factor.",
+          "relevant_activity_context": "COVID-19 prognosis (hospital stay).",
+          "performance_or_health_indicator": "Increases the risk of severe COVID-19 and mortality, associated with longer hospital stay."
+        },
+        {
+          "biomarker_name": "Phenylalanine",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Higher levels observed in COVID-19 patients compared to healthy controls; elevated levels associated with obesity/overweight in COVID-19 patients. Identified as a key discriminating molecule."
+          },
+          "core_biological_function": "Essential amino acid, involved in protein synthesis, 'Phenylalanine, tyrosine and tryptophan biosynthesis', 'Phenylalanine metabolism', and related to inflammation.",
+          "relevant_activity_context": "COVID-19 infection vs. healthy controls, and association with obesity/overweight.",
+          "performance_or_health_indicator": "Potential biomarker for COVID-19 infection, indicates perturbation in metabolic routes, and is associated with inflammation and obesity/overweight."
+        },
+        {
+          "biomarker_name": "Lysine",
+          "measured_tissue_or_fluid": "Blood Serum and Urine",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Higher levels observed in COVID-19 patients compared to healthy controls. Identified as a key discriminating molecule."
+          },
+          "core_biological_function": "Essential amino acid, involved in protein synthesis, immune function, and arginine and proline metabolism.",
+          "relevant_activity_context": "COVID-19 infection vs. healthy controls.",
+          "performance_or_health_indicator": "Potential biomarker for COVID-19 infection, differentiating patients from controls."
+        },
+        {
+          "biomarker_name": "Creatine",
+          "measured_tissue_or_fluid": "Blood Serum and Urine",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Higher levels observed in COVID-19 patients compared to healthy controls. Higher levels were associated with negative prognosis in urine, and also positively correlated with arterial hypertension and obesity/overweight in serum."
+          },
+          "core_biological_function": "Involved in energy metabolism (cellular energy storage and supply) and arginine and proline metabolism.",
+          "relevant_activity_context": "COVID-19 infection vs. healthy controls, patient prognosis, arterial hypertension, and obesity/overweight.",
+          "performance_or_health_indicator": "Potential biomarker for COVID-19 infection, prognosis, and associated with metabolic changes and comorbidities."
+        },
+        {
+          "biomarker_name": "Proline",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Higher levels observed in COVID-19 patients compared to healthy controls, and also a top positive correlate to obesity/overweight."
+          },
+          "core_biological_function": "Amino acid, involved in protein synthesis, collagen structure, wound healing, and arginine and proline metabolism.",
+          "relevant_activity_context": "COVID-19 infection vs. healthy controls, and association with obesity/overweight.",
+          "performance_or_health_indicator": "Potential biomarker for COVID-19 infection, indicates perturbation in metabolic routes, and differentiates patients from controls."
+        },
+        {
+          "biomarker_name": "Trimethylamine (TMA)",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Higher levels observed in COVID-19 patients compared to healthy controls, and ranked among the top positive correlates to arterial hypertension."
+          },
+          "core_biological_function": "Gut microbiome-derived metabolite, precursor to TMAO.",
+          "relevant_activity_context": "COVID-19 infection vs. healthy controls, and association with arterial hypertension.",
+          "performance_or_health_indicator": "Potential biomarker for COVID-19 infection and associated with hypertension."
+        },
+        {
+          "biomarker_name": "Mannose",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Higher levels observed in COVID-19 patients compared to healthy controls. Identified as a key discriminating molecule."
+          },
+          "core_biological_function": "Sugar, involved in glycosylation of proteins and a component of glycoproteins.",
+          "relevant_activity_context": "COVID-19 infection vs. healthy controls.",
+          "performance_or_health_indicator": "Potential biomarker for COVID-19 infection, differentiating patients from controls and indicating metabolic changes."
+        },
+        {
+          "biomarker_name": "Acetone",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Higher levels observed in COVID-19 patients compared to healthy controls. Identified as a key discriminating molecule."
+          },
+          "core_biological_function": "Ketone body, product of fat metabolism and involved in energy metabolism.",
+          "relevant_activity_context": "COVID-19 infection vs. healthy controls.",
+          "performance_or_health_indicator": "Potential biomarker for COVID-19 infection, differentiating patients from controls and indicating metabolic changes."
+        },
+        {
+          "biomarker_name": "N-acetylglycoproteins (NAG)",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Higher levels observed in COVID-19 patients compared to healthy controls. Identified as a key discriminating molecule. Ranked among top positive correlates to arterial hypertension."
+          },
+          "core_biological_function": "Glycoproteins, markers of inflammation and tissue damage, and involved in carbohydrate metabolism.",
+          "relevant_activity_context": "COVID-19 infection vs. healthy controls, and association with arterial hypertension.",
+          "performance_or_health_indicator": "Potential biomarker for COVID-19 infection, inflammation, and associated with hypertension."
+        },
+        {
+          "biomarker_name": "Fatty acids (UFA)",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Higher levels (especially unsaturated fatty acids - UFA) observed in COVID-19 patients compared to healthy controls. Identified as a key discriminating molecule."
+          },
+          "core_biological_function": "Lipids, involved in glycerolipid metabolism, energy source, structural components of cell membranes, and signaling molecules.",
+          "relevant_activity_context": "COVID-19 infection vs. healthy controls.",
+          "performance_or_health_indicator": "Potential biomarker for COVID-19 infection, indicates altered lipid metabolism/dyslipidemia, and differentiates patients from controls."
+        },
+        {
+          "biomarker_name": "Citrate",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Lower levels observed in COVID-19 patients compared to healthy controls. Identified as a key discriminating molecule."
+          },
+          "core_biological_function": "Intermediate in the Krebs cycle, involved in energy metabolism.",
+          "relevant_activity_context": "COVID-19 infection vs. healthy controls.",
+          "performance_or_health_indicator": "Potential biomarker for COVID-19 infection, differentiates patients from controls, and indicates altered energy metabolism."
+        },
+        {
+          "biomarker_name": "Methionine",
+          "measured_tissue_or_fluid": "Urine",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Higher levels observed in COVID-19 patients compared to healthy controls. Identified as a key discriminating molecule."
+          },
+          "core_biological_function": "Essential amino acid, involved in protein synthesis and methylation processes.",
+          "relevant_activity_context": "COVID-19 infection vs. healthy controls.",
+          "performance_or_health_indicator": "Potential biomarker for COVID-19 infection, differentiating patients from controls."
+        },
+        {
+          "biomarker_name": "Fucose",
+          "measured_tissue_or_fluid": "Urine",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "higher; change",
+            "magnitude_quantification": "Higher levels observed in COVID-19 patients compared to healthy controls; metabolic changes (unspecified direction) detected in ICU patients. Identified as a key discriminating molecule."
+          },
+          "core_biological_function": "Deoxy sugar, component of glycoproteins and glycolipids.",
+          "relevant_activity_context": "COVID-19 infection vs. healthy controls, and COVID-19 disease severity (ICU vs. Medical Ward).",
+          "performance_or_health_indicator": "Potential biomarker for COVID-19 infection and severity, differentiating patients from controls and indicating metabolic changes."
+        },
+        {
+          "biomarker_name": "Hippurate",
+          "measured_tissue_or_fluid": "Urine",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "higher; change; increased",
+            "magnitude_quantification": "Higher levels observed in COVID-19 patients compared to healthy controls; metabolic changes (unspecified direction) detected in ICU patients; increased with negative outcome/poor prognosis. Identified as a key discriminating molecule."
+          },
+          "core_biological_function": "Microbial metabolite, associated with gut bacterial flora and detoxification processes.",
+          "relevant_activity_context": "COVID-19 infection vs. healthy controls, disease severity (ICU vs. Medical Ward), and prognosis.",
+          "performance_or_health_indicator": "Potential biomarker for COVID-19 infection and severity, differentiates patients from controls, indicates detoxification status, and associated with negative prognosis."
+        },
+        {
+          "biomarker_name": "2-phenylpropionate",
+          "measured_tissue_or_fluid": "Urine",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Higher levels observed in COVID-19 patients compared to healthy controls. Identified as a key discriminating molecule."
+          },
+          "core_biological_function": "Organic acid, potentially related to microbial metabolism.",
+          "relevant_activity_context": "COVID-19 infection vs. healthy controls.",
+          "performance_or_health_indicator": "Potential biomarker for COVID-19 infection, differentiating patients from controls."
+        },
+        {
+          "biomarker_name": "Glutamine",
+          "measured_tissue_or_fluid": "Urine",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Higher levels observed in COVID-19 patients compared to healthy controls. Identified as a key discriminating molecule."
+          },
+          "core_biological_function": "Amino acid, important for immune cell function, gut integrity, and nitrogen metabolism.",
+          "relevant_activity_context": "COVID-19 infection vs. healthy controls.",
+          "performance_or_health_indicator": "Potential biomarker for COVID-19 infection, differentiating patients from controls."
+        },
+        {
+          "biomarker_name": "3-indoxylsulphate",
+          "measured_tissue_or_fluid": "Urine",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "higher; change",
+            "magnitude_quantification": "Higher levels observed in COVID-19 patients compared to healthy controls; metabolic changes (unspecified direction) detected in ICU patients. Identified as a key discriminating molecule."
+          },
+          "core_biological_function": "Uremic toxin, derived from tryptophan metabolism by gut bacteria, involved in detoxification.",
+          "relevant_activity_context": "COVID-19 infection vs. healthy controls, and COVID-19 disease severity (ICU vs. Medical Ward).",
+          "performance_or_health_indicator": "Potential biomarker for COVID-19 infection and severity, differentiating patients from controls and indicating metabolic changes."
+        },
+        {
+          "biomarker_name": "Pseudouridine",
+          "measured_tissue_or_fluid": "Urine",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Higher levels observed in COVID-19 patients compared to healthy controls. Identified as a key discriminating molecule."
+          },
+          "core_biological_function": "Modified nucleoside, marker of tRNA turnover and involved in RNA metabolism.",
+          "relevant_activity_context": "COVID-19 infection vs. healthy controls.",
+          "performance_or_health_indicator": "Potential biomarker for COVID-19 infection, differentiating patients from controls."
+        },
+        {
+          "biomarker_name": "Formate",
+          "measured_tissue_or_fluid": "Urine and unspecified biological fluid",
+          "activity_type": "Metabolite Level/Content",
+          "measured_effect": {
+            "direction_of_change": "differing levels (lower or higher); decreased",
+            "magnitude_quantification": "Differing levels (lower in urine, higher in unspecified fluid) observed in COVID-19 patients compared to healthy controls. Metabolic changes detected in ICU patients. Lower levels associated with negative outcome/poor prognosis."
+          },
+          "core_biological_function": "One-carbon unit, involved in various metabolic pathways and bacterial flora processes; general metabolism.",
+          "relevant_activity_context": "COVID-19 infection vs. healthy controls, disease severity (ICU vs. Medical Ward), and prognosis.",
+          "performance_or_health_indicator": "Potential biomarker for COVID-19 infection and severity, differentiating patients from controls, and associated with negative prognosis."
+        },
+        {
+          "biomarker_name": "3-methylhistidine",
+          "measured_tissue_or_fluid": "Urine and unspecified biological fluid",
+          "activity_type": "Metabolite Level/Content",
+          "measured_effect": {
+            "direction_of_change": "differing levels (lower or higher)",
+            "magnitude_quantification": "Differing levels (lower in urine, higher in unspecified fluid) observed in COVID-19 patients compared to healthy controls. Identified as a key discriminating molecule."
+          },
+          "core_biological_function": "Amino acid derivative, marker of muscle protein breakdown; general metabolism.",
+          "relevant_activity_context": "COVID-19 infection vs. healthy controls.",
+          "performance_or_health_indicator": "Potential biomarker for COVID-19 infection, differentiating patients from controls and indicating metabolic changes."
+        },
+        {
+          "biomarker_name": "Trigonelline",
+          "measured_tissue_or_fluid": "Urine and unspecified biological fluid",
+          "activity_type": "Metabolite Level/Content",
+          "measured_effect": {
+            "direction_of_change": "differing levels (lower or higher)",
+            "magnitude_quantification": "Differing levels (lower in urine, higher in unspecified fluid) observed in COVID-19 patients compared to healthy controls. Identified as a key discriminating molecule."
+          },
+          "core_biological_function": "Plant alkaloid, derivative of niacin, involved in niacin metabolism; general metabolism.",
+          "relevant_activity_context": "COVID-19 infection vs. healthy controls.",
+          "performance_or_health_indicator": "Potential biomarker for COVID-19 infection, differentiating patients from controls."
+        },
+        {
+          "biomarker_name": "Creatinine",
+          "measured_tissue_or_fluid": "Urine and unspecified biological fluid",
+          "activity_type": "Metabolite Level/Content",
+          "measured_effect": {
+            "direction_of_change": "differing levels (lower or higher); decreased",
+            "magnitude_quantification": "Differing levels (lower in urine, higher in unspecified fluid) observed in COVID-19 patients compared to healthy controls. Lower levels in urine associated with negative outcome/poor prognosis. Identified as a key discriminating molecule."
+          },
+          "core_biological_function": "Waste product of muscle metabolism, indicator of kidney function and muscle mass; general metabolism.",
+          "relevant_activity_context": "COVID-19 infection vs. healthy controls, and prognosis.",
+          "performance_or_health_indicator": "Potential biomarker for COVID-19 infection, differentiating patients from controls, and associated with sarcopenia and negative prognosis."
+        },
+        {
+          "biomarker_name": "Urea",
+          "measured_tissue_or_fluid": "Urine",
+          "activity_type": "Metabolite Level/Content",
+          "measured_effect": {
+            "direction_of_change": "change; decreased",
+            "magnitude_quantification": "Metabolic changes (unspecified direction in some instances, but explicitly decreased in others) observed in ICU patients; decreased concentrations associated with negative outcome/poor prognosis."
+          },
+          "core_biological_function": "Waste product of protein metabolism, excreted by kidneys; metabolic regulation.",
+          "relevant_activity_context": "COVID-19 disease severity (ICU vs. Medical Ward) and prognosis.",
+          "performance_or_health_indicator": "Potential biomarker for COVID-19 severity, indicating metabolic changes and associated with negative prognosis."
+        },
+        {
+          "biomarker_name": "Dimethylamine (DMA)",
+          "measured_tissue_or_fluid": "Urine",
+          "activity_type": "Metabolite Level/Content",
+          "measured_effect": {
+            "direction_of_change": "change; decreased",
+            "magnitude_quantification": "Metabolic changes (unspecified direction in some instances, but explicitly decreased in others) observed in ICU patients; decreased concentrations associated with negative outcome/poor prognosis."
+          },
+          "core_biological_function": "Product of choline metabolism, potentially related to gut microbiota; metabolic regulation.",
+          "relevant_activity_context": "COVID-19 disease severity (ICU vs. Medical Ward) and prognosis.",
+          "performance_or_health_indicator": "Potential biomarker for COVID-19 severity, indicating metabolic changes and associated with negative prognosis."
+        },
+        {
+          "biomarker_name": "3-hydroxybutyrate (3HB)",
+          "measured_tissue_or_fluid": "Blood Serum and Urine",
+          "activity_type": "Metabolite Level/Content",
+          "measured_effect": {
+            "direction_of_change": "higher; change",
+            "magnitude_quantification": "Higher content in ICU patients compared to Medical Ward patients in urine. In serum, it was positively correlated and statistically associated with hypertension in COVID-19 patients. Metabolic changes (unspecified direction) detected in ICU patients in urine."
+          },
+          "core_biological_function": "Ketone body, alternative energy source during fasting or low carbohydrate intake; involved in amino acid, carbohydrate, and lipid metabolism pathways.",
+          "relevant_activity_context": "COVID-19 disease severity (ICU vs. Medical Ward), and association with hypertension.",
+          "performance_or_health_indicator": "Potential biomarker for COVID-19 severity, indicating metabolic changes, and associated with hypertension."
+        },
+        {
+          "biomarker_name": "4-hydroxyphenyl acetate",
+          "measured_tissue_or_fluid": "Urine",
+          "activity_type": "Metabolite Level/Content",
+          "measured_effect": {
+            "direction_of_change": "change; metabolic change",
+            "magnitude_quantification": "Metabolic changes observed on the contents in urine from ICU patients compared to Medical Ward patients."
+          },
+          "core_biological_function": "Gut microbiome-derived metabolite from tyrosine metabolism, related to microbial metabolism; metabolic regulation.",
+          "relevant_activity_context": "COVID-19 disease severity (ICU vs. Medical Ward).",
+          "performance_or_health_indicator": "Potential biomarker for COVID-19 severity, indicating metabolic changes."
+        },
+        {
+          "biomarker_name": "3-methyl-2-oxovalerate",
+          "measured_tissue_or_fluid": "Urine",
+          "activity_type": "Metabolite Level/Content",
+          "measured_effect": {
+            "direction_of_change": "change; metabolic change",
+            "magnitude_quantification": "Metabolic changes observed on the contents in urine from ICU patients compared to Medical Ward patients."
+          },
+          "core_biological_function": "Intermediate in branched-chain amino acid catabolism; metabolic regulation.",
+          "relevant_activity_context": "COVID-19 disease severity (ICU vs. Medical Ward).",
+          "performance_or_health_indicator": "Potential biomarker for COVID-19 severity, indicating metabolic changes."
+        },
+        {
+          "biomarker_name": "Tryptophan",
+          "measured_tissue_or_fluid": "Blood Serum and Urine",
+          "activity_type": "Metabolite Level/Content",
+          "measured_effect": {
+            "direction_of_change": "higher; change",
+            "magnitude_quantification": "Higher levels observed as top positive correlates to obesity/overweight in Medical Ward patients (serum). Metabolic changes observed in ICU patients in urine."
+          },
+          "core_biological_function": "Essential amino acid, precursor to neurotransmitters, involved in inflammatory signals, and in arginine, proline, galactose, and glycerolipid metabolisms; metabolic regulation.",
+          "relevant_activity_context": "COVID-19 disease severity (ICU vs. Medical Ward) and association with obesity/overweight.",
+          "performance_or_health_indicator": "Potential biomarker for COVID-19 severity, indicating metabolic changes, and associated with obesity/overweight."
+        },
+        {
+          "biomarker_name": "cis-aconitate",
+          "measured_tissue_or_fluid": "Urine",
+          "activity_type": "Metabolite Level/Content",
+          "measured_effect": {
+            "direction_of_change": "lower; decrease",
+            "magnitude_quantification": "Decreased with negative outcome/poor prognosis."
+          },
+          "core_biological_function": "Intermediate in the Krebs cycle, involved in energy metabolism; metabolic regulation.",
+          "relevant_activity_context": "COVID-19 patient prognosis.",
+          "performance_or_health_indicator": "Associated with negative outcome (poor prognosis)."
+        },
+        {
+          "biomarker_name": "Methanol",
+          "measured_tissue_or_fluid": "Urine",
+          "activity_type": "Metabolite Level/Content",
+          "measured_effect": {
+            "direction_of_change": "lower; decrease",
+            "magnitude_quantification": "Decreased with negative outcome/poor prognosis."
+          },
+          "core_biological_function": "Alcohol metabolite; metabolic regulation.",
+          "relevant_activity_context": "COVID-19 patient prognosis.",
+          "performance_or_health_indicator": "Associated with negative outcome (poor prognosis)."
+        },
+        {
+          "biomarker_name": "Glycerol",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Higher levels ranked among the top positive correlates to arterial hypertension and obesity/overweight; increased levels significantly associated with cardiovascular risk comorbidities."
+          },
+          "core_biological_function": "Involved in arginine and proline, galactose, and glycerolipid metabolisms; general metabolism.",
+          "relevant_activity_context": "COVID-19 patients admitted to medical ward with arterial hypertension, obesity/overweight, and cardiovascular risk comorbidities.",
+          "performance_or_health_indicator": "Associated with arterial hypertension, obesity/overweight, and cardiovascular risk comorbidities in COVID-19 patients."
+        },
+        {
+          "biomarker_name": "n-3 fatty acids",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "higher; elevated",
+            "magnitude_quantification": "Higher/elevated levels were among the top positive correlates and statistically associated with obesity/overweight in COVID-19 patients."
+          },
+          "core_biological_function": "Generally involved in various physiological processes, including anti-inflammatory effects and cardiovascular health; also mentioned in context of arginine/proline, galactose, and glycerolipid metabolisms.",
+          "relevant_activity_context": "COVID-19 patients with obesity/overweight.",
+          "performance_or_health_indicator": "Associated with obesity/overweight in COVID-19 patients."
+        },
+        {
+          "biomarker_name": "Acetoacetate",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Higher levels were among the top positive correlates to obesity/overweight."
+          },
+          "core_biological_function": "Involved in arginine and proline, galactose, and glycerolipid metabolisms (ketone body).",
+          "relevant_activity_context": "COVID-19 patients admitted to medical ward, with obesity/overweight.",
+          "performance_or_health_indicator": "Associated with obesity/overweight in COVID-19 patients."
+        },
+        {
+          "biomarker_name": "Choline",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Higher levels identified as the most significant metabolite positively correlated for hypertension in ICU patients."
+          },
+          "core_biological_function": "Involved in amino acid, carbohydrate, and lipid metabolism pathways.",
+          "relevant_activity_context": "COVID-19 patients admitted to ICU, with hypertension.",
+          "performance_or_health_indicator": "Associated with hypertension in severe COVID-19 patients."
+        },
+        {
+          "biomarker_name": "Acetate",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "higher; elevated",
+            "magnitude_quantification": "Higher levels were the most significant metabolite positively correlated for overweight/obesity in ICU patients, and elevated/statistically associated with obesity/overweight in general COVID-19 patients."
+          },
+          "core_biological_function": "Involved in amino acid, carbohydrate, lipid, and general metabolism pathways.",
+          "relevant_activity_context": "COVID-19 patients admitted to ICU or generally with overweight/obesity.",
+          "performance_or_health_indicator": "Associated with overweight/obesity in severe COVID-19 patients."
+        },
+        {
+          "biomarker_name": "Triacylglycerol",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Higher levels were among the top positive correlates to obesity/overweight."
+          },
+          "core_biological_function": "Involved in arginine and proline, galactose, and glycerolipid metabolisms (lipid storage).",
+          "relevant_activity_context": "COVID-19 patients admitted to medical ward, with obesity/overweight.",
+          "performance_or_health_indicator": "Associated with obesity/overweight in COVID-19 patients."
+        },
+        {
+          "biomarker_name": "Kynurenine-tryptophan ratio",
+          "measured_tissue_or_fluid": "Not specified (likely Blood Serum)",
+          "activity_type": "Ratio of Metabolite Concentrations",
+          "measured_effect": {
+            "direction_of_change": "contributes to panel discrimination",
+            "magnitude_quantification": "Contributed to a panel (AUC increased from 0.947 to 0.971 with addition of sex and neutrophil percentage) to discriminate COVID-19 positive individuals from non-COVID-19 (reported by L\u00f3pez-Hern\u00e1ndez et al.)."
+          },
+          "core_biological_function": "Involved in the tryptophan metabolism pathway.",
+          "relevant_activity_context": "Discrimination of COVID-19 positive individuals.",
+          "performance_or_health_indicator": "Improves discriminatory power for COVID-19 diagnosis when combined with clinical/demographic characteristics."
+        },
+        {
+          "biomarker_name": "lysoPC a C26:0",
+          "measured_tissue_or_fluid": "Not specified (likely Blood Serum)",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "contributes to panel discrimination",
+            "magnitude_quantification": "Contributed to a panel (AUC increased from 0.947 to 0.971 with addition of sex and neutrophil percentage) to discriminate COVID-19 positive individuals from non-COVID-19 (reported by L\u00f3pez-Hern\u00e1ndez et al.)."
+          },
+          "core_biological_function": "Lysophosphatidylcholine, a lipid class involved in cell signaling and membrane dynamics.",
+          "relevant_activity_context": "Discrimination of COVID-19 positive individuals.",
+          "performance_or_health_indicator": "Improves discriminatory power for COVID-19 diagnosis when combined with clinical/demographic characteristics."
+        },
+        {
+          "biomarker_name": "Pyruvic acid",
+          "measured_tissue_or_fluid": "Not specified (likely Blood Serum)",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "contributes to panel discrimination",
+            "magnitude_quantification": "Contributed to a panel (AUC increased from 0.947 to 0.971 with addition of sex and neutrophil percentage) to discriminate COVID-19 positive individuals from non-COVID-19 (reported by L\u00f3pez-Hern\u00e1ndez et al.)."
+          },
+          "core_biological_function": "Alpha-keto acid involved in energy metabolism.",
+          "relevant_activity_context": "Discrimination of COVID-19 positive individuals.",
+          "performance_or_health_indicator": "Improves discriminatory power for COVID-19 diagnosis when combined with clinical/demographic characteristics."
+        },
+        {
+          "biomarker_name": "LysoPC a C28:0",
+          "measured_tissue_or_fluid": "Not specified (likely Blood Serum)",
+          "activity_type": "Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "contributes to panel discrimination",
+            "magnitude_quantification": "Contributed to a panel (AUC increased from 0.770 to 0.829 with addition of hypertension and neutrophil-lymphocyte ratio) to distinguish hospitalized from intubated COVID-19 patients (reported by L\u00f3pez-Hern\u00e1ndez et al.)."
+          },
+          "core_biological_function": "Lysophosphatidylcholine, a lipid class involved in cell signaling and membrane dynamics.",
+          "relevant_activity_context": "Distinction between hospitalized and intubated COVID-19 patients.",
+          "performance_or_health_indicator": "Improves discriminatory power for classifying severity (hospitalized vs. intubated) in COVID-19 patients when combined with clinical characteristics."
+        }
+      ]
+    }
+  }
+]

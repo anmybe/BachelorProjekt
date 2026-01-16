@@ -1,0 +1,160 @@
+[
+  {
+    "title": "pmc Ann Neurol Ann Neurol 10.1002/(ISSN)1531-8249 ANA Annals of Neurology 0364-5134 1531-8249 John Wiley & Sons, Inc. Hoboken, USA 10092289 36128871 10.1002/ana.26510 ANA26510 Research Article Research Articles Systemic Metabolic Alteration Dependent on the Thyroid\u2010Liver Axis in Early PD Systemic Metabolic Alteration in PD Miyamoto et al Miyamoto Kengo MS 1 Saiki Shinji MD, PhD https://orcid.org/0000-0002-9732-8488 1 ssaiki@juntendo.ac.jp Matsumoto Hirotaka PhD 2 3 Suzuki Ayami BS 1 Yamashita Yuri MD, PhD 1 4 Iseki Tatou MD 1 Ueno Shin\u2010Ichi MD, PhD 1 Shiina Kenta MD 1 Kataura Tetsushi PhD 1 Kamagata Koji MD, PhD 5 Imamichi Yoko BS 1 Sasazawa Yukiko PhD 6 Fujimaki Motoki MD, PhD 1 Akamatsu Wado MD, PhD 7 Hattori Nobutaka MD, PhD 1 nhattori@juntendo.ac.jp 1 Department of Neurology Juntendo University Graduate School of Medicine Tokyo Japan 2 School of Information and Data Sciences Nagasaki University Nagasaki Japan 3 Laboratory for Bioinformatics Research RIKEN Center for Biosystems Dynamics Research Saitama Japan 4 Aging Biology in Health and Disease Juntendo University Graduate School of Medicine Tokyo Japan 5 Department of Radiology Juntendo University Graduate School of Medicine Tokyo Japan 6 Research Institute for Diseases of Old Age Juntendo University Graduate School of Medicine Tokyo Japan 7 Center for Genomic and Regenerative Medicine Juntendo University Graduate School of Medicine Tokyo Japan * Address correspondence to Dr Saiki, Department of Neurology, Juntendo University School of Medicine, 2\u20101\u20101 Hongo, Bunkyo\u2010ku, Tokyo 113\u20108421, Japan. E\u2010mail: ssaiki@juntendo.ac.jp Dr Hattori, Department of Neurology, Juntendo University School of Medicine, 2\u20101\u20101 Hongo, Bunkyo\u2010ku, Tokyo 113\u20108421, Japan. E\u2010mail: nhattori@juntendo.ac.jp 04 10 2022 2 2023 93 2 10.1002/ana.v93.2 303 316 18 9 2022 15 6 2022 19 9 2022 \u00a9 2022 The Authors. Annals of Neurology published by Wiley Periodicals LLC on behalf of American Neurological Association. https://creativecommons.org/licenses/by-nc/4.0/ This is an open access article under the terms of the http://creativecommons.org/licenses/by-nc/4.0/ License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes. Objective Parkinson's disease (PD) is a common neurodegenerative disease characterized by initial involvement of the olfactory bulb/amygdala or autonomic nerves followed by nigral degeneration. Although autonomic innervation strictly regulates multiorgan systems, including endocrine functions, circulation, and digestion, how dysautonomia in PD affects systemic metabolism has not been identified. In this study, we tried to estimate the pathogenic linkage of PD by nuclear medicine techniques, trans\u2010omic analysis of blood samples, and cultured cell experiments. Methods Thyroid mediastinum ratio of 123 I\u2010metaiodobenzylguanidine (MIBG) scintigraphy was measured in 1,158 patients with PD. Furthermore, serum exosome miRNA transcriptome analysis and plasma metabolome analysis followed by trans\u2010omic analysis were performed in patients with de novo PD and age\u2010matched healthy control persons. Additionally, thyroid hormone was administered to skeletal muscle and liver derived cells to evaluate the effect of hypothyroidism for these organs. Results Sympathetic denervation of thyroid correlating with its cardiac denervation was confirmed in 1,158 patients with PD by MIBG scintigraphy. Among patients with drug\u2010na\u00efve PD, comprehensive metabolome analysis revealed decreased levels of thyroxine and insufficient fatty acid \u03b2\u2010oxidation, which positively correlate with one another. Likewise, both plasma metabolome data and transcriptome data of circulating exosomal miRNAs, revealed specific enrichment of the peroxisome proliferator\u2010activated receptor (PPAR\u03b1) axis. Finally, association of thyroid hormone with PPAR\u03b1\u2010dependent \u03b2\u2010oxidation regulation was confirmed by in vitro experiments. Interpretation Our findings suggest that interorgan communications between the thyroid and liver are disorganized in the early stage of PD, which would be a sensitive diagnostic biomarker for PD. ANN NEUROL 2023;93:303\u2013316 Japan Agency for Medical Research and Development 10.13039/100009619 19ak0101112h0001 JPMJMS2024 Japan Society for the Promotion of Science 10.13039/501100001691 15H04843 18H02744 18KK0242 18KT0027 22H02986 22K19512 Japan Science and Technology Agency 10.13039/501100002241 source-schema-version-number 2.0 cover-date February 2023 details-of-publishers-convertor Converter:WILEY_ML3GV2_TO_JATSPMC version:6.2.7 mode:remove_FC converted:12.04.2023 Introduction Parkinson's disease (PD), the second most common neurodegenerative disease, affects approximately 1% of individuals over the age of 60 years and is characterized by typical motor symptoms (bradykinesia, rest tremor, and muscle rigidity) and non\u2010motor symptoms (hyposmia, depression, apathy, sleep disorders, and dysautonomia). 1 , 2 , 3 , 4 At least half of the patients with PD have orthostatic hypotension, insufficient gastric emptying, pollakisuria, and/or constipation, even in the early stage of the disease. 5 Various functional studies of patients with PD have shown sympathetic and parasympathetic denervation by cardiac 123 I\u2010metaiodobenzylguanidine (MIBG) scintigraphy and donepezil positron emission tomography to assess colonic cholinergic innervation, respectively. 6 In addition, phosphorylated alpha\u2010synuclein (\u03b1Syn) deposits in autonomic nerve terminals of the skin, salivary glands, and colon mucosa have been identified in patients with prodromal and/or early PD. 7 , 8 The autonomic nervous system generally governs respiration, circulation, body temperature, and the endocrine systems. Hormones, cytokines, growth factors, and immunoglobulins connect isolated organs throughout the body to regulate whole\u2010body metabolism. 9 Although metabolic changes in amino acids, kynurenine, caffeine, fatty acids (FAs), and polyamines in the serum/plasma of patients with PD have been identified by us and others, those arising from dysautonomia remain unclear. 10 , 11 , 12 The thyroid is one of the most important organs regulating metabolism of the brain, white fat, brown fat, skeletal muscles, and liver, mainly under control of the hypothalamus\u2010pituitary\u2010thyroid axis. 13 In addition, use of animal models has delineated a functional role for sympathetic innervation on thyroid hormone secretion. 14 , 15 , 16 , 17 In humans, blood supplied from the intrathyroidal artery is regulated by sympathetic nerves, mainly from the cervical ganglia along the artery. 13 Sympathetic innervation of the thyroid in healthy humans was confirmed by 6\u2010 18 F\u2010fluorodopamine imaging with/without desipramine, an inhibitor of serotonin/noradrenaline uptake. 18 In patients with PD, significant decreases of MIBG or 6\u2010 18 F\u2010fluorodopamine uptake in the thyroid have been identified. 18 , 19 , 20 Horsager et al found that postganglionic autonomic denervation is initiated from celiac or mesenteric ganglions and retrogradely expanded to cervical ganglia in one subtype of PD. 21 Because pharmacologic doses of dopamine, glucocorticoids, and somatostatin suppress thyroid stimulating hormone (TSH), 22 it remains unclear how thyroid function affects downstream target organs, such as skeletal muscle, cardiac muscle, and liver in PD treated with/without L\u2010DOPA and/or dopamine agonists. Here, we report sympathetic denervation of the thyroid by cardiac MIBG scintigraphy in patients with PD, especially those with constipation, that correlated with cardiac denervation and nigral dopamine degeneration. Moreover, we identified suppression of FA \u03b2\u2010oxidation and its positive correlation with thyroxine levels in patients with de novo PD. To investigate interorgan communication, we performed transcriptome analysis of circulating serum exosomal miRNAs, which may serve as mediators among organs and appropriate diagnostic biomarkers for several diseases compared with non\u2010exosomal miRNAs. 23 , 24 , 25 Based on these assays, the peroxisome proliferator\u2010activated receptor (PPAR\u03b1) axis was enriched. Finally, we confirmed an association between thyroid hormone and the PPAR\u03b1 pathway in the liver using cultured human cell lines, proposing inter\u2010tissue communication in early PD.",
+    "document_source_id": "36128871",
+    "analysis_date": "2025-12-10",
+    "extracted_data": {
+      "document_summary": "This study investigated systemic metabolic alterations in early Parkinson's disease (PD), focusing on the thyroid-liver axis, dysautonomia, and fatty acid beta-oxidation. It utilized nuclear medicine techniques (MIBG scintigraphy, DaT-SPECT) in 1,158 PD patients, combined with trans-omic analyses (serum exosome miRNA transcriptome and plasma metabolome) in de novo PD patients, and in vitro cell experiments. Key findings include sympathetic denervation of the thyroid and heart correlating with disease severity, decreased thyroxine levels, insufficient fatty acid \u03b2-oxidation, and enrichment of the PPAR\u03b1 axis. The research identified significantly altered exosomal miRNAs and demonstrated the association of thyroid hormone with PPAR\u03b1-dependent \u03b2-oxidation regulation and enhanced mitochondrial function in muscle cells, suggesting disorganized interorgan communication as a sensitive diagnostic biomarker.",
+      "treatment_details": {
+        "therapy_type": "Observational and Diagnostic Study of Parkinson's Disease Pathophysiology; In vitro Hormonal Stimulation and RNA-interference.",
+        "dose_specificity": "The study primarily involved observational investigation and diagnostic imaging (MIBG scintigraphy, 123I-ioflupane-dopamine transporter (DaT)-SPECT) on Parkinson's disease patients; no therapeutic intervention or dose comparisons were conducted on human subjects. For mechanistic insights, in vitro experiments were performed on cultured HepG2 and primary human skeletal myotubular cells, stimulated with 100 nM 3,3\u2032,5-triiodo-L-thyronine (T3). siRNA oligonucleotides were transfected into HepG2 cells and myotubes, with experiments conducted 48 hours post-transfection. While T3 treatment showed an 'almost dose-dependent' effect on CPT1A expression in HepG2 cells, specific concentrations for siRNA knockdown were not provided, and no dose-response comparisons were reported for the overall observational study or the siRNA interventions."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "Sympathetic Innervation Status (assessed by MIBG uptake, H/M ratios, T/M ratios, and 6-18F-fluorodopamine uptake)",
+          "measured_tissue_or_fluid": "Thyroid, Heart (cardiac tissue), Ventricular (heart)",
+          "activity_type": "Nuclear medicine imaging (123I-metaiodobenzylguanidine (MIBG) scintigraphy, 6-18F-fluorodopamine imaging), Imaging ratio (indicator of sympathetic innervation)",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Significant decrease in MIBG uptake in the thyroid and cardiac tissue in 1,158 PD patients, correlating with cardiac denervation and disease severity. Early H/M ratios were significantly decreased in PD patients (with/without constipation) and correlated negatively with H&Y stage. Early T/M ratios were significantly decreased in PD patients (especially with constipation), correlated negatively with H&Y stage, and positively with H/M ratios and thyroxine levels. Decreased ventricular 6-18F-fluorodopamine uptake was observed in 100% of PD patients with orthostatic hypotension and 47.8% without."
+          },
+          "core_biological_function": "Reflects the integrity and density of postganglionic sympathetic innervation, crucial for regulating multiorgan systems and hormone secretion.",
+          "relevant_activity_context": "Early Parkinson's disease, particularly in patients with constipation or orthostatic hypotension.",
+          "performance_or_health_indicator": "Indicates disorganized interorgan communication (thyroid-liver axis), a systemic pattern of neurodegeneration, and serves as a sensitive diagnostic biomarker for early PD."
+        },
+        {
+          "biomarker_name": "Thyroxine (T4) and total thyroid hormones",
+          "measured_tissue_or_fluid": "Plasma, Serum",
+          "activity_type": "Metabolite level, Hormone concentration",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Significantly decreased levels of thyroxine in drug-na\u00efve and de novo PD patients (p=0.0066), even after adjusting for confounders. Modestly decreased total serum thyroid hormone levels. Thyroxine positively correlated with long-chain acylcarnitines (LC-ACs) and negatively with long-chain fatty acids (LC-FAs). Significantly correlated with early H/M ratio (r=0.635, p=0.0359) and early T/M ratio (r=0.828, p=0.0009). Decreasing thyroid hormone levels are suggested to induce systemic insults."
+          },
+          "core_biological_function": "Thyroid hormone, essential for regulating whole-body metabolism, including fatty acid beta-oxidation, energy homeostasis, and hepatic lipid metabolism, with neuroprotective effects.",
+          "relevant_activity_context": "Drug-na\u00efve and de novo Parkinson's disease, associated with fatty acid beta-oxidation insufficiency and thyroid-liver interorgan discoordination.",
+          "performance_or_health_indicator": "Indicates disrupted thyroid-liver axis, systemic metabolic alteration, and hypothyroidism in early PD, which can induce systemic and brain insults; plays a role in insufficient FA beta-oxidation."
+        },
+        {
+          "biomarker_name": "Triiodothyronine (T3)",
+          "measured_tissue_or_fluid": "Serum (decreased levels in patients); treatment applied to human HepG2 cells and primary human skeletal myotubular cells",
+          "activity_type": "Hormone concentration (in vivo), Hormone treatment (in vitro)",
+          "measured_effect": {
+            "direction_of_change": "Increased (CPT1A gene, PGC1\u03b1 gene, mitochondrial respiration, ATP production); decreased (free FAs in cell culture).",
+            "magnitude_quantification": "Serum levels were modestly decreased in de novo PD patients. In HepG2 cells, T3 increased CPT1A gene expression in an almost dose-dependent manner and decreased free FAs in the culture medium. In human skeletal myotubular cells, T3 increased PGC1\u03b1 gene expression and significantly enhanced mitochondrial basal respiration and ATP production."
+          },
+          "core_biological_function": "Active form of thyroid hormone; regulates metabolism, including fatty acid metabolism (via PPAR\u03b1-mediated CPT1 expression) and energy metabolism (via PGC1\u03b1).",
+          "relevant_activity_context": "De novo Parkinson's disease (in vivo); in vitro study using HepG2 cells and human skeletal myotubular cells.",
+          "performance_or_health_indicator": "Modestly decreased serum levels in de novo PD indicate hypothyroidism. In vitro, T3 regulates PPAR\u03b1-mediated CPT1 expression and enhances mitochondrial function in skeletal muscle, indicating improved energy metabolism."
+        },
+        {
+          "biomarker_name": "Fatty Acid Metabolites (Long-chain Fatty Acids (LC-FAs), Long-chain Acylcarnitines (LC-ACs), and AC(16:0)/FA(16:0) ratio)",
+          "measured_tissue_or_fluid": "Systemic (inferred from plasma/serum metabolome), Plasma, Serum, culture medium of HepG2 cells (free FAs)",
+          "activity_type": "Metabolite concentration, Metabolic process activity, Metabolite ratio",
+          "measured_effect": {
+            "direction_of_change": "lower (insufficient beta-oxidation); higher (LC-FAs); lower (LC-ACs); positively correlated (AC(16:0) and AC(16:0)/FA(16:0) ratio with thyroxine and T/M ratio)",
+            "magnitude_quantification": "Insufficient fatty acid \u03b2-oxidation was revealed in drug-na\u00efve PD patients. Significant increases in 11 LC-FAs and decreases in 12 LC-ACs were observed in PD patients, even after adjusting for confounders. LC-FAs were inversely correlated with thyroxine, while LC-ACs were positively correlated. Levels of AC(16:0) and AC(16:0)/FA(16:0) ratio positively correlated with thyroxine. Early T/M ratios positively correlated with AC(16:0)/FA(16:0) ratio. T3 treatment decreased free FAs in HepG2 cell culture medium."
+          },
+          "core_biological_function": "Energy metabolism, involving the breakdown of fatty acids for energy production, and transport of fatty acids into mitochondria.",
+          "relevant_activity_context": "Drug-na\u00efve and de novo Parkinson's disease; T3 treatment in HepG2 cells.",
+          "performance_or_health_indicator": "Indicates systemic metabolic dysregulation and fatty acid beta-oxidation insufficiency in early PD, potentially linked to dysregulated thyroid function and disorganized thyroid-liver axis."
+        },
+        {
+          "biomarker_name": "Peroxisome Proliferator-Activated Receptor Alpha (PPAR\u03b1) Axis/Signaling",
+          "measured_tissue_or_fluid": "Circulating serum exosomes (miRNA transcriptome) and plasma (metabolome), Systemic (derived from trans-omics), HepG2 cells and human skeletal myotubular cells",
+          "activity_type": "Gene expression/pathway enrichment, Signaling pathway activity, Gene expression (via siRNA knockdown)",
+          "measured_effect": {
+            "direction_of_change": "Significantly altered; suppressed.",
+            "magnitude_quantification": "Specific enrichment of the PPAR\u03b1 axis in both plasma metabolome and exosomal miRNA transcriptome data in de novo PD. Predicted to be significantly altered, contributing to metabolomic and transcriptomic changes, and enriched with suppressed fatty acid \u03b2-oxidation. siRNA knockdown of PPAR\u03b1 partially but significantly suppressed CPT1A mRNA and protein levels in T3-treated cells. Reducing PPAR\u03b1 signaling is associated with inducing systemic insults."
+          },
+          "core_biological_function": "Regulates fatty acid metabolism, including \u03b2-oxidation, and modulates hepatic lipid metabolism by thyroid hormones; involved in neuroprotection.",
+          "relevant_activity_context": "Early/de novo Parkinson's disease (without medication) via trans-omics analysis; T3 treatment and siRNA knockdown in human HepG2 cells.",
+          "performance_or_health_indicator": "Implicated in disorganized interorgan communications (thyroid-PPAR\u03b1-liver axis) and suppressed FA beta-oxidation in early PD; dysregulation contributes to systemic metabolic insults."
+        },
+        {
+          "biomarker_name": "Exosomal MicroRNAs (miRNAs)",
+          "measured_tissue_or_fluid": "Peripheral blood serum (within exosomes)",
+          "activity_type": "miRNA expression level, Gene transcript level (miRNA abundance)",
+          "measured_effect": {
+            "direction_of_change": "higher (upregulated), altered",
+            "magnitude_quantification": "101 upregulated miRNAs (p < 0.05) and 141 significantly altered miRNAs identified in de novo PD patients. Pathway enrichment analysis indicated alterations in FA biosynthesis and thyroid signaling. Specific examples include hsa-miR-223-5p, miR-652-3p, hsa-miR-181c-5p, hsa-miR-1,273h-5p, hsa-miR-199b-5p, and miR-338-3p, with consistent directions observed."
+          },
+          "core_biological_function": "Regulate gene expression, involved in inter-tissue communication and metabolic pathways (e.g., Fatty acid biosynthesis, Thyroid hormone signaling pathway).",
+          "relevant_activity_context": "De novo Parkinson's disease pathophysiology.",
+          "performance_or_health_indicator": "Potential diagnostic or prognostic markers for de novo PD; reliably reflect the state of parental cells and can affect distant organs; indicate alterations consistent with insufficient FA \u03b2-oxidation and declined thyroid function in PD."
+        },
+        {
+          "biomarker_name": "Striatal binding ratio (SBR) of 123I-ioflupane-dopamine transporter (DaT)-SPECT",
+          "measured_tissue_or_fluid": "Brain (dopamine transporter availability via SPECT imaging)",
+          "activity_type": "Imaging ratio (indicator of dopamine transporter availability)",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Significantly decreased in patients with PD compared with the non-PD group."
+          },
+          "core_biological_function": "Measures dopamine transporter availability in the brain, reflecting dopaminergic neuronal integrity.",
+          "relevant_activity_context": "Parkinson's Disease diagnosis/assessment.",
+          "performance_or_health_indicator": "Consistent with previous reports for Parkinson's Disease diagnosis/pathology."
+        },
+        {
+          "biomarker_name": "Carnitine Palmitoyltransferase 1A (CPT1A) gene (mRNA and protein)",
+          "measured_tissue_or_fluid": "HepG2 cells (human hepatocellular carcinoma line)",
+          "activity_type": "Gene expression (mRNA level), Protein level",
+          "measured_effect": {
+            "direction_of_change": "Increased (by T3); decreased (in thyroid hormone-depleted serum, by PPAR\u03b1 knockdown)",
+            "magnitude_quantification": "Significantly decreased in medium containing thyroid hormone-depleted serum. Increased by the addition of T3 in an almost dose-dependent manner. Partially but significantly suppressed in T3-treated cells following siRNA knockdown of PPAR\u03b1. CPT1A protein levels were suppressed by PPAR\u03b1 knockdown."
+          },
+          "core_biological_function": "Catalyzes the rate-limiting step of fatty acid conversion to acyl-CoA, necessary for fatty acid transport into mitochondria for subsequent beta-oxidation (liver isoform).",
+          "relevant_activity_context": "T3 treatment in HepG2 cells; PPAR\u03b1 knockdown in T3-treated HepG2 cells.",
+          "performance_or_health_indicator": "Its expression is regulated by thyroid hormone and PPAR\u03b1, indicating control over fatty acid beta-oxidation in the liver."
+        },
+        {
+          "biomarker_name": "Carnitine Palmitoyltransferase 1B (CPT1B) gene",
+          "measured_tissue_or_fluid": "Human skeletal myotubular cells",
+          "activity_type": "Gene expression level",
+          "measured_effect": {
+            "direction_of_change": "Unchanged",
+            "magnitude_quantification": "T3 did not elevate expression levels of the CPT1B gene."
+          },
+          "core_biological_function": "Skeletal muscle isoform of CPT1, involved in fatty acid transport into mitochondria for \u03b2-oxidation.",
+          "relevant_activity_context": "T3 treatment in human skeletal myotubular cells.",
+          "performance_or_health_indicator": "Indicates that T3 does not directly regulate CPT1B expression in skeletal muscle, suggesting tissue-specific regulatory mechanisms for fatty acid beta-oxidation."
+        },
+        {
+          "biomarker_name": "Peroxisome Proliferator-Activated Receptor Gamma Coactivator-1 Alpha (PGC1\u03b1) gene",
+          "measured_tissue_or_fluid": "Human skeletal myotubular cells",
+          "activity_type": "Gene expression level",
+          "measured_effect": {
+            "direction_of_change": "Increased",
+            "magnitude_quantification": "T3 could increase the expression level of PGC1\u03b1 gene. Upregulation by T3 was independent of the PPAR\u03b1 pathway."
+          },
+          "core_biological_function": "Regulates expression of a broad range of genes involved in energy metabolism, including oxidative phosphorylation; its expression is regulated by thyroid hormones.",
+          "relevant_activity_context": "T3 treatment in human skeletal myotubular cells.",
+          "performance_or_health_indicator": "Its upregulation by T3 in skeletal muscle enhances mitochondrial basal respiration and ATP production, indicating improved energy metabolism."
+        },
+        {
+          "biomarker_name": "Mitochondrial basal respiration and ATP production",
+          "measured_tissue_or_fluid": "Human skeletal myotubular cells",
+          "activity_type": "Metabolic activity measurement",
+          "measured_effect": {
+            "direction_of_change": "Enhanced",
+            "magnitude_quantification": "T3 significantly enhanced mitochondrial basal respiration and ATP production measured by an extracellular flux analyzer."
+          },
+          "core_biological_function": "Fundamental processes of cellular energy production.",
+          "relevant_activity_context": "T3 treatment in human skeletal myotubular cells, consistent with the function of PGC1\u03b1.",
+          "performance_or_health_indicator": "Indicates improved cellular energy metabolism and function in response to T3 in skeletal muscle."
+        },
+        {
+          "biomarker_name": "Blood pressure responses to Valsalva maneuver",
+          "measured_tissue_or_fluid": "Systemic, physiological response",
+          "activity_type": "Physiological test",
+          "measured_effect": {
+            "direction_of_change": "Abnormal responses",
+            "magnitude_quantification": "100% of patients with PD with orthostatic hypotension (OH) had abnormal blood pressure responses. 26.1% of patients with PD without OH had abnormal Valsalva responses."
+          },
+          "core_biological_function": "Measures the integrity of the autonomic nervous system, particularly sympathetic innervation controlling blood pressure.",
+          "relevant_activity_context": "Patients with Parkinson's Disease, with and without orthostatic hypotension (OH).",
+          "performance_or_health_indicator": "Abnormal responses indicate sympathetic dysfunction and contribute to orthostatic hypotension in PD patients."
+        }
+      ]
+    }
+  }
+]

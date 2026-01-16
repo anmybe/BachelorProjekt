@@ -1,0 +1,148 @@
+[
+  {
+    "title": "Clin Epigenetics Clin Epigenetics Clinical Epigenetics 1868-7075 1868-7083 BioMed Central London 6399934 634 10.1186/s13148-019-0634-0 Research Serum cell-free DNA methylation of OPCML and HOXD9 as a biomarker that may aid in differential diagnosis between cholangiocarcinoma and other biliary diseases Wasenang Wiphawan 1 2 Chaiyarit Ponlatham 3 Proungvitaya Siriporn 1 4 http://orcid.org/0000-0003-0827-4375 Limpaiboon Temduang +66-43-202088 temduang@kku.ac.th 1 4 1 0000 0004 0470 0856 grid.9786.0 Centre for Research and Development of Medical Diagnostic Laboratories, Faculty of Associated Medical Sciences, Khon Kaen University, Khon Kaen, 40002 Thailand 2 0000 0004 0470 0856 grid.9786.0 Biomedical Sciences, Graduate School, Khon Kaen University, Khon Kaen, 40002 Thailand 3 0000 0004 0470 0856 grid.9786.0 Research Group of Chronic Inflammatory Oral Diseases and Systemic Diseases Associated with Oral Health, Department of Oral Diagnosis, Faculty of Dentistry, Khon Kaen University, Khon Kaen, 40002 Thailand 4 0000 0004 0470 0856 grid.9786.0 Cholangiocarcinoma Research Institute, Faculty of Medicine, Khon Kaen University, Khon Kaen, 40002 Thailand 4 3 2019 4 3 2019 2019 11 39 13 5 2018 18 2 2019 \u00a9 The Author(s). 2019 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License ( http://creativecommons.org/licenses/by/4.0/ ), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver ( http://creativecommons.org/publicdomain/zero/1.0/ ) applies to the data made available in this article, unless otherwise stated. Background Cholangiocarcinoma (CCA) is a fatal cancer of the bile duct epithelial cell lining. The misdiagnosis of CCA and other biliary diseases may occur due to the similarity of clinical manifestations and blood tests resulting in inappropriate or delayed treatment. Thus, an accurate and less-invasive method for differentiating CCA from other biliary diseases is inevitable. Methods We quantified methylation of OPCML , HOXA9 , and HOXD9 in serum cell-free DNA (cfDNA) of CCA patients and other biliary diseases using methylation-sensitive high-resolution melting (MS-HRM). Their potency as differential biomarkers between CCA and other biliary diseases was also evaluated by using receiver operating characteristic (ROC) curves. Results The significant difference of methylation levels of OPCML and HOXD9 was observed in serum cfDNA of CCA compared to other biliary diseases. Assessment of serum cfDNA methylation of OPCML and HOXD9 as differential biomarkers of CCA and other biliary diseases showed the area under curve (AUC) of 0.850 (0.759\u20130.941) for OPCML which sensitivity, specificity, positive predictive value (PPV), negative predictive value (NPV), and accuracy were 80.00%, 90.00%, 88.88%, 81.81%, and 85.00%, respectively. The AUC of HOXD9 was 0.789 (0.686\u20130.892) with sensitivity, specificity, PPV, NPV, and accuracy of 67.50%, 90.00%, 87.09%, 73.46%, and 78.75%, respectively. The combined marker between OPCML and HOXD9 showed sensitivity, specificity, PPV, and NPV of 62.50%, 100%, 100%, and 72.72%, respectively, which may be helpful to prevent a misdiagnosis between CCA and other biliary diseases. Conclusions Our findings suggest the application of serum cfDNA methylation of OPCML and HOXD9 for differential diagnosis of CCA and other biliary diseases due to its less invasiveness and clinically practical method which may benefit the patients by preventing the misdiagnosis of CCA and avoiding unnecessary surgical intervention. Electronic supplementary material The online version of this article (10.1186/s13148-019-0634-0) contains supplementary material, which is available to authorized users. Keywords Cell-free DNA DNA methylation Differential biomarker Misdiagnosis MS-HRM issue-copyright-statement \u00a9 The Author(s) 2019 Background Cholangiocarcinoma (CCA) is a fatal cancer of the bile duct epithelium. Currently, the incidence and mortality rates of CCA have been increasing worldwide. The incidence of CCA which is as high as 71.3 per 100,000 in males and 31.6 in females has been recorded particularly in the northeastern Thailand where CCA is strongly associated with liver fluke, Opisthorchis viverrini infection [ 1 , 2 ]. The majority of CCA patients are clinical silencing which symptomatic development has been presented at advanced stages leading to poor prognosis and worse clinical outcomes. Surgical resection is the best choice for curative treatment, but most CCA patients are diagnosed with unresectable diseases. The median survival time of CCA with unresectable cases is 6\u201312 months [ 3 ]. Treatment of patients with advanced stages either by chemotherapy or radiotherapy has shown unfavorable effectiveness [ 4 ]. The diagnostic procedures of CCA include clinical presentation, blood testing, radiological imaging, and histopathological examination [ 5 ]. Although diagnosis of CCA is definitely confirmed by histopathology, this approach is highly invasive for the patients. Moreover, patients with other biliary diseases such as benign biliary tumors, cholecystitis, choledocholithiasis, and cholangitis have clinical presentation, blood chemistry of liver function test and tumor markers of carbohydrate antigen 19\u20139 (CA19\u20139) and carcinoembryonic antigen (CEA), and imaging feature of biliary obstruction similarly to CCA, which make it difficult to distinguish CCA from other biliary diseases [ 6 \u2013 8 ]. Some cases of benign biliary diseases diagnosed as CCA are managed with redundant major resections [ 9 \u2013 13 ]. Thus, an accurate differential diagnosis between CCA and other biliary diseases is much essential for effective treatment modality. Several studies have established bile biomarkers for differentiating CCA from other biliary diseases. Budzynska et al. [ 14 ] studied bile levels of neutrophil gelatinase-associated lipocalin (NGAL) that can potentially discriminate patients with CCA from benign biliary stenosis. They found that the sensitivity and specificity of NGAL levels were 77.3% and 72.2%, respectively. DNA methylation of CDO1 , CNRIP1 , SEPT9 , and VIM in biliary brush samples was evaluated for discriminating CCA from primary sclerosing cholangitis with the sensitivity and specificity of 85% and 98%, respectively [ 15 ]. Rose et al [ 16 ] determined carcinoembryonic antigen-related cellular adhesion molecule 6 (CEACAM6) in bile samples of CCA and benign biliary diseases, which the sensitivity and specificity were 87.5% and 69.1%, respectively. Nevertheless, bile and biliary brush sampling are an invasive method that may not be practical for all cases. Therefore, serum biomarkers would be a good choice for differentiating CCA from other biliary diseases. Previous studies have shown that serum biomarkers such as CA19\u20139, CEA, CYFRA 21-1, MMP7, and NGAL could be used to differentiate CCA from other biliary diseases but the sensitivity and specificity were still unsatisfied [ 17 \u2013 19 ]. Recently, investigation of cell-free DNA (cfDNA) has gained more attention for cancer biomarkers. CfDNA, a fragment of DNA, is released into the bloodstream by physiologic and pathologic mechanisms. In cancer patients, cfDNA is mainly derived from apoptotic and necrotic tumor cells which contain genetic abnormalities and epigenetic aberrations such as point mutations, loss of heterozygosity (LOH), microsatellite instability (MSI), and DNA methylation [ 20 ]. It has been suggested that cfDNA could be used in clinical practice as a potential biomarker for diagnosis, prognosis, and prediction of cancers because of its minimally invasive technique and less expensive cost for evaluation. Aberrant DNA methylation has been evidenced as an early event which supports genetic alterations during tumorigenesis and remained existed in advanced stage, in which altered DNA methylation accelerated tumor progression leading to poor clinical outcomes [ 21 ]. It has been reported in various human cancers including CCA [ 22 \u2013 24 ]. Our previous study demonstrated that hypermethylation of OPCML was highly frequent in CCA tissues but not in normal adjacent (72% vs 0%) [ 23 ]. Hypermethylation of OPCML was also observed in many cancers such as ovarian cancer [ 25 , 26 ], non-small-cell lung carcinoma [ 27 ], brain tumor [ 28 ], bladder cancer [ 29 ], and colorectal cancer [ 30 ]. Opioid binding protein/cell adhesion mole1cule-like ( OPCML ) gene located on chromosome 11q25 encodes a member of the IgLON subfamily in the immunoglobulin protein superfamily that acts as a glycosylphosphatidylinositol (GPI)-anchored cell adhesion-like molecule expressing in the nervous system especially cerebellum and also in kidney, heart, liver, colon, placenta, pancreas, and testis [ 26 , 28 ]. OPCML mediates cell-cell adhesion and recognition, and promotes selective neuronal growth and axon migration [ 28 , 31 ]. Low expression of OPCML due to promoter hypermethylation promotes cell proliferation and short survival in gastric cancer [ 32 ]. Methylation array data showed that hypermethylation of HOXA9 and HOXD9 was observed in 86.3% (88/102) and 89.2% (91/102) of CCA tissue samples, respectively, but not in normal adjacent [ 33 ]. The HOX (homeobox) family has four HOX gene clusters; HOXA , HOXB , HOXC, and HOXD which are located on four different chromosomes. They encode homeoproteins which act as critical transcription factors for embryogenesis and differentiation during normal embryonic development [ 34 ]. HOXA9 acts as a transcription factor that regulates gene expression involving morphogenesis and differentiation during normal embryonic development. Promoter hypermethylation of HOXA9 was found in oral [ 35 , 36 ], breast [ 37 ], ovarian [ 38 ], bladder [ 39 ], and non-small cell lung cancer [ 40 ] in which HOXA9 functions as a tumor suppressor gene. Low expression of HOXA9 as a result of promoter hypermethylation could promote cell proliferation, invasion, and metastasis in breast cancer [ 37 ]. HOXD9 acts as a transcription factor involving vertebral column and forelimb development [ 41 ]. HOXD9 is highly expressed in normal tissues including kidney, testis, colon, spleen, placenta, and bladder but poorly in brain. However, high expression of HOXD9 transcript and protein was observed in glioma cell lines and brain tumor tissues suggesting the contribution of HOXD9 in cell proliferation and/or survival [ 42 ]. Moreover, the study in hepatocellular carcinoma suggested that HOXD9 could act as an oncogene which promotes cell migration, invasion, and metastasis [ 43 ]. By contrast, low expression of HOXD9 transcript and protein due to promoter hypermethylation was noticed in melanoma brain metastasis by which DNA methylation of HOXD9 was significantly higher than that in early stages. Besides, melanoma patients with hypermethylated HOXD9 in lymph node metastasis showed poorer disease-free and overall survival [ 44 ]. Promoter hypermethylation of HOXD9 was also found in astrocytomas [ 45 ]. According to hypermethylation of OPCML , HOXA9 , and HOXD9 frequently found in CCA tissues, we raised the questions whether this phenomenon could be found in serum cfDNA of CCA and other biliary diseases, and could be used to differentiate CCA from other biliary diseases. Hence, we quantitated serum cfDNA methylation levels of OPCML , HOXA9 , and HOXD9 in CCA patients and other biliary diseases as well as evaluated their potential as a differential biomarker for CCA.",
+    "document_source_id": "30832707",
+    "analysis_date": "2025-12-09",
+    "extracted_data": {
+      "document_summary": "This study investigated the utility of serum cell-free DNA (cfDNA) methylation levels of OPCML, HOXA9, and HOXD9 genes as potential diagnostic biomarkers to differentiate Cholangiocarcinoma (CCA) from other biliary diseases in human patients. The findings indicated that methylation levels of OPCML and HOXD9 in serum cfDNA were significantly higher in CCA patients compared to those with other biliary diseases. The study concluded that OPCML and HOXD9, especially when combined, demonstrate high sensitivity and specificity, making them promising differential biomarkers for CCA, improving diagnostic accuracy and preventing misdiagnosis.",
+      "treatment_details": {
+        "therapy_type": "Biomarker-based differential diagnosis using cfDNA methylation analysis",
+        "dose_specificity": "The study focused on evaluating serum cell-free DNA (cfDNA) methylation levels of OPCML, HOXA9, and HOXD9 as diagnostic biomarkers. Methylation levels were quantified using methylation-sensitive high-resolution melting (MS-HRM) assay on bisulfite-modified serum cfDNA (20 \u00b5L, <1 \u00b5g), with detection limits of 1.56% (lower) and 50% (upper). Their potency was evaluated using ROC curves. No therapeutic interventions or dose-response comparisons for treatment were reported, as this was a diagnostic study."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "OPCML",
+          "measured_tissue_or_fluid": "Serum cell-free DNA (cfDNA)",
+          "activity_type": "DNA methylation level (hypermethylation)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly higher methylation in CCA compared to other biliary diseases (P < 0.0001). Median methylation in CCA was 5.73% (0\u201344.46%) vs 0% (0\u20137.59%) in other biliary diseases. Frequency of methylation was 87.5% (35/40) in CCA vs 30% (12/40) in other biliary diseases. Cut-off value 3.24%. AUC of 0.850 (95% CI 0.759\u20130.941), sensitivity 80.00%, specificity 90.00%, PPV 88.88%, NPV 81.81%, and accuracy 85.00%. High methylation was also observed in some cases of chronic cholecystitis (7/19) and papillary adenoma (5/9). When combined with HOXD9 methylation, specificity and PPV increased to 100%."
+          },
+          "core_biological_function": "Encodes a GPI-anchored cell adhesion molecule that mediates cell-cell adhesion and recognition. It negatively regulates receptor tyrosine kinases (RTK) signaling by promoting their degradation. Low expression due to promoter hypermethylation promotes cell proliferation and is associated with tumor suppression when unmethylated, reflecting gene silencing.",
+          "relevant_activity_context": "Differential diagnosis of cholangiocarcinoma (CCA) from other biliary diseases (e.g., chronic cholecystitis, papillary adenoma). Aberrant DNA hypermethylation in CCA, also implicated in ovarian, breast, colorectal, and gastric cancers.",
+          "performance_or_health_indicator": "High potential differential biomarker for CCA due to significantly higher methylation levels, indicating the presence or increased risk of CCA. Its hypermethylation is associated with tumor progression, poor prognosis, and downregulation in CCA. Can be used for monitoring tumor recurrence and treatment response, and improves diagnostic accuracy when combined with HOXD9."
+        },
+        {
+          "biomarker_name": "HOXD9",
+          "measured_tissue_or_fluid": "Serum cell-free DNA (cfDNA)",
+          "activity_type": "DNA methylation level (hypermethylation)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly higher methylation in CCA compared to other biliary diseases (P < 0.0001). Median methylation in CCA was 2.57% (0\u201350%) vs 0% (0\u20137.86%) in other biliary diseases. Frequency of methylation was 67.5% (27/40) in CCA vs 10% (4/40) in other biliary diseases. Cut-off value 1.56%. AUC of 0.789 (95% CI 0.686\u20130.892), sensitivity 67.50%, specificity 90.00%, PPV 87.09%, NPV 73.46%, and accuracy 78.75%. Hypermethylated HOXD9 was previously associated with poor prognosis in melanoma. When combined with OPCML methylation, specificity and PPV increased to 100%."
+          },
+          "core_biological_function": "Encodes homeoproteins that act as transcription factors for embryogenesis and differentiation, involved in vertebral column and forelimb development. It can act as an oncogene in some cancers by promoting cell migration, invasion, and metastasis, or its aberrant methylation can lead to gene silencing promoting cholangiocarcinogenesis.",
+          "relevant_activity_context": "Differential diagnosis of cholangiocarcinoma (CCA) from other biliary diseases. Aberrant DNA hypermethylation in CCA, also implicated in melanoma brain metastasis and astrocytomas.",
+          "performance_or_health_indicator": "High potential differential biomarker for CCA, indicating its presence due to significantly higher methylation levels. Its hypermethylation is associated with various cancers, poor prognosis in melanoma, and loss of HOXD9 may promote cholangiocyte dedifferentiation. Improves diagnostic accuracy when combined with OPCML."
+        },
+        {
+          "biomarker_name": "HOXA9",
+          "measured_tissue_or_fluid": "Serum cell-free DNA (cfDNA)",
+          "activity_type": "DNA methylation level",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "No significant difference in median methylation level between CCA (1.62%, range 0\u201340.97%) and other biliary diseases (2.24%, range 0\u201316.71%) (P = 0.623). Cut-off value 1.56%. Not potential for differentiating CCA from other biliary diseases."
+          },
+          "core_biological_function": "Homeobox gene acting as a transcription factor, regulating gene expression involved in morphogenesis and differentiation during embryonic development. Promoter hypermethylation can result in low expression and is associated with tumor suppressor function in various cancers.",
+          "relevant_activity_context": "Differential diagnosis of Cholangiocarcinoma (CCA) from other biliary diseases, specifically aberrant DNA methylation.",
+          "performance_or_health_indicator": "Not a potential biomarker for differentiating CCA from other biliary diseases due to no significant difference in methylation levels."
+        },
+        {
+          "biomarker_name": "total bilirubin",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Concentration",
+          "measured_effect": {
+            "direction_of_change": "abnormally elevated",
+            "magnitude_quantification": "Abnormally elevated in both CCA and other biliary disease groups; no significant difference between groups (P > 0.05)."
+          },
+          "core_biological_function": "Indicator of liver function and bile duct health.",
+          "relevant_activity_context": "Differential diagnosis of Cholangiocarcinoma (CCA) from other biliary diseases.",
+          "performance_or_health_indicator": "Ineffective for differentiating CCA from other biliary diseases."
+        },
+        {
+          "biomarker_name": "direct bilirubin",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Concentration",
+          "measured_effect": {
+            "direction_of_change": "abnormally elevated",
+            "magnitude_quantification": "Abnormally elevated in both CCA and other biliary disease groups; no significant difference between groups (P > 0.05)."
+          },
+          "core_biological_function": "Indicator of liver function and bile duct health.",
+          "relevant_activity_context": "Differential diagnosis of Cholangiocarcinoma (CCA) from other biliary diseases.",
+          "performance_or_health_indicator": "Ineffective for differentiating CCA from other biliary diseases."
+        },
+        {
+          "biomarker_name": "AST (aspartate aminotransferase)",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Enzyme Activity",
+          "measured_effect": {
+            "direction_of_change": "abnormally elevated",
+            "magnitude_quantification": "Abnormally elevated in both CCA and other biliary disease groups; no significant difference between groups (P > 0.05)."
+          },
+          "core_biological_function": "Enzyme indicative of liver or muscle damage.",
+          "relevant_activity_context": "Differential diagnosis of Cholangiocarcinoma (CCA) from other biliary diseases.",
+          "performance_or_health_indicator": "Ineffective for differentiating CCA from other biliary diseases."
+        },
+        {
+          "biomarker_name": "ALT (alanine aminotransferase)",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Enzyme Activity",
+          "measured_effect": {
+            "direction_of_change": "abnormally elevated",
+            "magnitude_quantification": "Abnormally elevated in both CCA and other biliary disease groups; no significant difference between groups (P > 0.05)."
+          },
+          "core_biological_function": "Enzyme indicative of liver damage.",
+          "relevant_activity_context": "Differential diagnosis of Cholangiocarcinoma (CCA) from other biliary diseases.",
+          "performance_or_health_indicator": "Ineffective for differentiating CCA from other biliary diseases."
+        },
+        {
+          "biomarker_name": "ALP (alkaline phosphatase)",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Enzyme Activity",
+          "measured_effect": {
+            "direction_of_change": "abnormally elevated",
+            "magnitude_quantification": "Abnormally elevated in both CCA and other biliary disease groups; no significant difference between groups (P > 0.05)."
+          },
+          "core_biological_function": "Enzyme indicative of liver or bone disease.",
+          "relevant_activity_context": "Differential diagnosis of Cholangiocarcinoma (CCA) from other biliary diseases.",
+          "performance_or_health_indicator": "Ineffective for differentiating CCA from other biliary diseases."
+        },
+        {
+          "biomarker_name": "CA19-9",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Tumor Marker Concentration",
+          "measured_effect": {
+            "direction_of_change": "unsatisfactory",
+            "magnitude_quantification": "Abnormally elevated in both CCA and other biliary disease groups, but with no significant difference between groups (P > 0.05). This study indicated its failure in distinguishing CCA from other biliary diseases, considering its unsatisfactory sensitivity and specificity for this purpose."
+          },
+          "core_biological_function": "Known diagnostic and prognostic tumor marker often associated with gastrointestinal and biliary cancers.",
+          "relevant_activity_context": "Differential diagnosis of Cholangiocarcinoma (CCA) from other biliary diseases.",
+          "performance_or_health_indicator": "Ineffective and unsuitable for differentiating CCA from other biliary diseases due to unsatisfactory sensitivity and specificity."
+        },
+        {
+          "biomarker_name": "CEA (carcinoembryonic antigen)",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Tumor Marker Concentration",
+          "measured_effect": {
+            "direction_of_change": "unsatisfactory",
+            "magnitude_quantification": "Abnormally elevated in both CCA and other biliary disease groups, but with no significant difference between groups (P > 0.05). This study indicated its failure in distinguishing CCA from other biliary diseases, considering its unsatisfactory sensitivity and specificity for this purpose."
+          },
+          "core_biological_function": "Known diagnostic and prognostic tumor marker often associated with various cancers, including gastrointestinal.",
+          "relevant_activity_context": "Differential diagnosis of Cholangiocarcinoma (CCA) from other biliary diseases.",
+          "performance_or_health_indicator": "Ineffective and unsuitable for differentiating CCA from other biliary diseases due to unsatisfactory sensitivity and specificity."
+        },
+        {
+          "biomarker_name": "Transthyretin",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Protein level",
+          "measured_effect": {
+            "direction_of_change": "Reported as having diagnostic potential",
+            "magnitude_quantification": "Sensitivity of 76.8% and specificity of 93.8% (as reported by Liu et al. [53])."
+          },
+          "core_biological_function": "General protein, investigated as a potential biomarker for CCA in previous studies.",
+          "relevant_activity_context": "Differential diagnosis between CCA and benign hepatobiliary diseases (as reported by Liu et al. [53]).",
+          "performance_or_health_indicator": "A potential diagnostic biomarker for CCA as reported by previous studies."
+        }
+      ]
+    }
+  }
+]

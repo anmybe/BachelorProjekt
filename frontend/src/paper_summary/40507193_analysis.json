@@ -1,0 +1,496 @@
+[
+  {
+    "title": "pmc Nutrients Nutrients nutrients Nutrients 2072-6643 MDPI 12157736 10.3390/nu17111924 nutrients-17-01924 Article The Influence of Competition Day Loads on the Metabolic and Immune Response of Olympic Female Beach Volleyball Athletes: A Sportomics Analysis Muniz-Santos Renan Writing \u2013 original draft Visualization 1 Bassini Adriana Methodology Investigation Writing \u2013 original draft 2 Alexandre P. C. B. 1 Jurisica Igor Conceptualization Writing \u2013 review & editing Visualization 3 4 5 Chandran Vinod Conceptualization Writing \u2013 review & editing 6 7 https://orcid.org/0000-0003-4180-2061 Cameron L. C. 1 6 * Jim\u00e9nez S\u00e1iz Sergio L. Academic Editor Pareja-Galeano Helios Academic Editor 1 Lorraine Protein Biochemistry Group, Graduate Program in Neurology, Gaffr\u00e9e e Guinle University Hospital, Rio de Janeiro 20270-004, RJ, Brazil; renanmuniz@edu.unirio.br (R.M.-S.); pedro.alexandre@unirio.br (P.C.B.A.) 2 Laboratory of Protein Biochemistry, The Federal University of the State of Rio de Janeiro, Rio de Janeiro 20290-250, RJ, Brazil; bassiniadriana@gmail.com 3 Osteoarthritis Research Program, Division of Orthopedic Surgery, Schroeder Arthritis Institute and Data Science Discovery Centre for Chronic Diseases, Krembil Research Institute, University Health Network, Toronto, ON M5T 0S8, Canada; juris@ai.utoronto.ca 4 Departments of Medical Biophysics and Computer Science, Faculty of Dentistry, University of Toronto, Toronto, ON M5G IL7, Canada 5 Institute of Neuroimmunology, Slovak Academy of Sciences, 845 10 Bratislava, Slovakia 6 Gladman-Krembil Psoriatic Arthritis Program, Schroeder Arthritis Institute, Krembil Research Institute, University Health Network, Toronto, ON M5T 0S8, Canada; vinod.chandran@uhn.ca 7 Division of Rheumatology, Department of Medicine, Institute of Medical Science, Department of Laboratory Medicine and Pathobiology, Faculty of Medicine, University of Toronto, Toronto, ON M5T 0S8, Canada * Correspondence: lc.cameron@uhn.ca 04 6 2025 6 2025 17 11 1924 28 4 2025 25 5 2025 28 5 2025 \u00a9 2025 by the authors. 2025 https://creativecommons.org/licenses/by/4.0/ Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license ( https://creativecommons.org/licenses/by/4.0/ ). Background: Beach volleyball (BVb) is a highly demanding Olympic sport characterized by intense physical activity and unique environmental challenges, including varying weather conditions and sandy, unstable court surfaces. Despite its popularity, there is a notable lack of scientific research addressing the metabolic and immune responses of elite female athletes in this sport. This study aims to address this gap by investigating two world-class Olympic medalists, female BVb players, who represent a country with a rich history in the sport. Methods: Two athletes underwent a simulated competition day consisting of two matches. A standardized protocol was utilized to collect blood and urine samples at seven time points, allowing for analysis throughout the competition and recovery phases. The analysis included various electrolytes, as well as hematological, metabolic, and inflammatory markers. Additionally, we assessed selected hormones, such as insulin, serotonin, ACTH, and cortisol, along with amino acids related to energy metabolism and neurotransmitter synthesis. Results: Both athletes presented a trend toward electrolyte disturbances, especially hypokalemia, with a mean decrease of 15% and individual values reaching as low as 3.3 mmol/L post-match. This indicates that BVb may pose a risk for such disturbances. Additionally, the matches led to 20% to 60% increases in muscle injury markers, with incomplete recovery even after a day of rest, signaling persistent physiological stress post-competition. This increase was matched by stimulating stress hormones (ACTH and cortisol rose up to 4-fold and 3-fold, respectively), and markers of exercise intensity, such as lactate and ammonium. Moreover, the simulated BVb competition day impacted the amino acid response, with the Fischer ratio (BCAA/AAA) and blood tryptophan decreasing to a minimum of 60% of the initial levels and blood serotonin increasing by up to 180%, which are signs of an increased risk of central fatigue onset, according to the Fischer and Newsholme theory. Conclusions: The responses examined in this exploratory study contribute to a deeper understanding of the metabolic and immune demands placed on elite female BVb players, suggesting practical applications. By addressing the similar physiological responses observed among the athletes and emphasizing their unique individual responses\u2014despite following the same protocol under identical conditions and sharing similar life habits for an extended period\u2014this study highlights the critical necessity for the n-of-1 monitoring of athletes. female athlete acute phase response amino acid sportomics central fatigue beach sports exercise metabolism immune system Brazil Olympic Committee (BOC) Conselho Nacional de Desenvolvimento Cient\u00edfico e Tecnol\u00f3gico (CNPq) BIOCRATES; Coordena\u00e7\u00e3o de Aperfei\u00e7oamento de Pessoal de N\u00edvel Superior (CAPES) Financiadora de Estudos e Projetos (FINEP) Funda\u00e7\u00e3o Carlos Chagas Filho de Amparo \u00e0 Pesquisa do Estado do Rio de Janeiro (FAPERJ) INCT-TeraNano CNPq #403193/2022-2 FAPEMIG CBB #APQ-03613-17 Merck-Sigma-Aldrich SISCAPA Universidade Federal do Estado do Rio de Janeiro (UNIRIO) Waters Corporation Natural Sciences and Engineering Research Council NSERC RGPIN-2024-04314 Canada Foundation for Innovation CFI #225404 #30865 Ontario Research Fund RDI #34876 RE010-020 Clinician Scientist Salary Support Award L.C.C. and this work were supported by the Brazil Olympic Committee (BOC); Conselho Nacional de Desenvolvimento Cient\u00edfico e Tecnol\u00f3gico (CNPq); BIOCRATES; Coordena\u00e7\u00e3o de Aperfei\u00e7oamento de Pessoal de N\u00edvel Superior (CAPES); Financiadora de Estudos e Projetos (FINEP); Funda\u00e7\u00e3o Carlos Chagas Filho de Amparo \u00e0 Pesquisa do Estado do Rio de Janeiro (FAPERJ); INCT-TeraNano (CNPq #403193/2022-2, FAPEMIG CBB #APQ-03613-17); Merck-Sigma-Aldrich; SISCAPA; Universidade Federal do Estado do Rio de Janeiro (UNIRIO); and the Waters Corporation. I.J. was supported in part by funding from the Natural Sciences and Engineering Research Council (NSERC RGPIN-2024-04314), the Canada Foundation for Innovation (CFI #225404, #30865), and the Ontario Research Fund (RDI #34876, RE010-020). V.C. is supported by a Clinician Scientist Salary Support Award from the Department of Medicine, the University of Toronto, Toronto, Canada. The funders had no role in study design, data collection and analysis, publication decisions, or manuscript preparation. 1. Introduction Similar to volleyball, beach volleyball (BVb) is an Olympic sport characterized by multiple bouts of intense movement followed by intermittent periods of rest. However, the beach environment presents additional challenges, such as an unstable, sandy court surface, which can significantly affect the exercise load [ 1 ]. Furthermore, the outdoor nature of beach volleyball exposes athletes to various weather conditions, including a wide range of temperatures, humidity, wind, and solar radiation\u2014factors that can notably influence their metabolic demands [ 2 , 3 ]. For instance, a recent study evaluating elite athletes of different sports\u2014including BVb\u2014showed that heat and humidity conditions (31.9 \u00b1 1.6 \u00b0C; relative humidity, 72% \u00b1 5%) significantly decrease the time to exhaustion [ 4 ]. Despite a growing body of scientific research, there is a notable lack of published studies evaluating the metabolic and immune demands of BVb and other beach sports, with orthopedic and dermatological injuries remaining the primary focus [ 5 , 6 ]. This gap is even more pronounced in elite athletes due to a lack of incentives to publish data and competitive secrets [ 7 ]. Moreover, women are often under-represented in studies of athletic performance and exercise-induced metabolic stress responses, similarly to other research studies. In this context, there is a clear need for investigations into the exercise-induced metabolic response in female high-level beach sport athletes, as translating data from comparable indoor sports or male athletes can be imprecise. Indeed, examining the immunometabolic response to exercise necessitates multiple perspectives. First, the type of sport significantly influences its metabolic demands, shaped by factors such as activity duration, the frequency and intensity of sprints and jumps, and sport-specific movements. Second, external conditions\u2014including temperature, terrain, humidity, sun exposure, and wind\u2014have a substantial impact on these responses. Lastly, each athlete also presents unique conditions and responses based on individual characteristics, which may include their anthropometrics, genetics, training level, and psychological factors [ 7 ]. Therefore, to fully understand an athlete\u2019s response, it is essential to analyze the effects of specific exercise protocols or sports while acknowledging the individual differences among athletes, also known as the external and internal loads [ 8 ]. To assess the exercise load and the metabolic response elicited by stressors, sportomics approaches have been implemented to inform hands-on decision-making for athletes and advance scientific research [ 9 , 10 ]. In these investigations, we prioritize ex post facto analysis in the field of play within the uncontrolled environments that athletes face, rather than relying on mechanistic controlled studies. This is particularly important in BVb, given the high exposure to uncontrolled environmental conditions. While this in-field approach presents inherent limitations in establishing causality, it has proven to be an effective way to monitor athletes, describe their responses, generate different hypotheses for testing, and support decision-making processes [ 11 , 12 ]. For additional reviews on sportomics, please refer to Sellami et al. (2021) and Bragazzi et al. (2020) [ 8 , 12 ]. In this context, we aim to conduct a sportomics investigation into the metabolic and immune responses during various phases of a beach volleyball competition day among Olympic female medalists. Additionally, we will compare these responses to those observed in other exercise models, particularly within beach sports, when possible. Given that we hypothesize that the athletes may display differing responses in selected analytes even under the same protocol, we will explore these potential differences to highlight the significance of evaluating internal loads and conducting n-of-1 investigations in exercise studies.",
+    "document_source_id": "40507193",
+    "analysis_date": "2025-12-10",
+    "extracted_data": {
+      "document_summary": "This sportomics study investigated the metabolic, immune, hormonal, and amino acid responses, alongside muscle and liver injury markers, in two elite female Olympic beach volleyball athletes during a simulated competition day involving two matches. Key findings revealed significant acute physiological impacts, including electrolyte disturbances (notably hypokalemia), 20-60% increases in muscle injury markers and up to 50% for liver enzymes, elevated stress hormones (ACTH up to 4-fold, cortisol up to 3-fold), and altered energy metabolism and amino acid profiles indicative of central fatigue risk (e.g., Fischer ratio and tryptophan decreased by 60%, serotonin increased by 180%). The study emphasized distinct individual recovery kinetics, highlighted the inadequacy of short recovery sessions, and advocated for personalized monitoring due to varied biomarker responses despite similar external loads.",
+      "treatment_details": {
+        "therapy_type": "Simulated Beach Volleyball Competition",
+        "dose_specificity": "Two world-class female athletes participated in a simulated competition day involving two high-intensity beach volleyball matches (a two-set match in the morning and a three-set match in the afternoon), under identical environmental conditions. Blood and urine samples were collected at seven time points: pre-match, post-match, 60 minutes after each match (short recovery), and after a 15-hour long recovery. The protocol included 15-minute warm-ups. No dose-response comparisons were explicitly reported; however, individual responses to the same protocol were highlighted, and short recovery sessions were found to be inadequate for full physiological recovery, with the second match demonstrating cumulative strain."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "Potassium",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Concentration level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Consistently decreased after matches, with a mean decrease of 15% and individual values reaching as low as 3.3-3.4 mmol/L (from ~4.0 mmol/L), indicating transient hypokalemia. Subsequent recovery trend observed."
+          },
+          "core_biological_function": "Essential electrolyte vital for nerve impulses, muscle contractions, and maintaining fluid balance, including heart rhythm.",
+          "relevant_activity_context": "Simulated Beach Volleyball Competition Day (during/post-match), beach sports conditions.",
+          "performance_or_health_indicator": "Indicates electrolyte imbalance and a significant risk for electrolyte disturbances (hypokalemia) in beach sports players, potentially affecting muscle function and performance. Reinforces the need for monitoring these changes."
+        },
+        {
+          "biomarker_name": "ACTH",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Hormone concentration",
+          "measured_effect": {
+            "direction_of_change": "higher, then decreased rapidly during recovery",
+            "magnitude_quantification": "Rose dramatically and sharply after both matches (elevations up to 4-fold or 400%, with Athlete 1 peaking at 330% after match 1 and 135% after match 2; Athlete 2 at 200% after match 1 and 175% after match 2). Short recovery sessions consistently promoted significant reductions; Athlete 2 showed a lower *increase* compared to Athlete 1 after the first match."
+          },
+          "core_biological_function": "Stress hormone that stimulates the adrenal glands to produce cortisol, key regulator of the hypothalamic\u2013pituitary\u2013adrenal (HPA) axis.",
+          "relevant_activity_context": "Simulated Beach Volleyball Competition Day (during/post-matches), short recovery sessions, intense competitive exercise.",
+          "performance_or_health_indicator": "Indicates systemic stress and HPA axis activation; rapid decline suggests effective stress recovery and adaptation level to high-intensity exercise. Athlete 2 showed higher sensitivity to ACTH signaling as it led to a more pronounced cortisol response."
+        },
+        {
+          "biomarker_name": "Cortisol",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Hormone concentration",
+          "measured_effect": {
+            "direction_of_change": "higher, then decreased rapidly during recovery",
+            "magnitude_quantification": "Rose sharply after both matches, mirroring ACTH pattern, with elevations up to 3-fold. Specifically, Athlete 1 increased by 40% after match 1 and 165% after match 2; Athlete 2 increased by 130% after match 1 (reaching upper limit of 0.690 \u00b5mol/L) and 222% after match 2. Short recovery sessions consistently promoted significant reductions; the increase for Athlete 2 after the second match lasted for a shorter time compared to Athlete 1."
+          },
+          "core_biological_function": "Primary systemic stress hormone (glucocorticoid) involved in regulating metabolism, immune response, and inflammation.",
+          "relevant_activity_context": "Simulated Beach Volleyball Competition Day (during/post-matches), short recovery sessions, intense competitive exercise.",
+          "performance_or_health_indicator": "Indicates significant physiological stress and HPA axis activation, with recovery during short rest periods. Essential for understanding immune response and glycemic regulation in sports. Higher levels suggest a more pronounced stress response; individuals with heightened hormonal stress responses may benefit from additional recovery days or alternative recovery modalities."
+        },
+        {
+          "biomarker_name": "Lactate",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Concentration",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Increased considerably during the games, particularly in the second match. Athlete 2 showed a 75% increase compared to Athlete 1's 21% increase after the second match, and a 45% higher increase overall after the second match. The first match did not significantly impact Athlete 1's lactatemia considerably."
+          },
+          "core_biological_function": "Byproduct of anaerobic metabolism, reflecting glycolytic energy production and exercise intensity.",
+          "relevant_activity_context": "Simulated Beach Volleyball Competition Day (during/post-matches).",
+          "performance_or_health_indicator": "Serves as a classic marker of exercise-induced metabolic stress and the activation of anaerobic energy pathways during intense physical activity, corroborating the high-intensity nature of competition and suggesting cumulative strain and fatigue accumulation."
+        },
+        {
+          "biomarker_name": "Ammonium",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Concentration",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Showed accumulative increases, rising during matches (more in the second match than the first) and continuing into recovery. Athlete 1 spiked 275% compared to initial levels during long recovery, while Athlete 2 had a 1.5-fold increase. At long recovery, both athletes reached ~75 mmol/L, roughly 50% above the upper normal limit. Peak was found during long recovery, displaying a delayed response compared to lactate. The protocol-induced increase matched with an increase in urate in Athlete 2, but not in Athlete 1."
+          },
+          "core_biological_function": "Byproduct of amino acid deamination and purine cycle activity, indicative of high-intensity exercise, fatigue, and protein catabolism.",
+          "relevant_activity_context": "Simulated Beach Volleyball Competition Day (during matches and recovery, particularly long recovery).",
+          "performance_or_health_indicator": "Serves as a classic marker of exercise intensity, corroborating high-intensity competition and suggesting cumulative strain. Indicates metabolic stress and potentially different primary sources of ammonium production between athletes (amino acid deamination vs. purine cycle), with prolonged elevation suggesting incomplete recovery."
+        },
+        {
+          "biomarker_name": "Fischer ratio (BCAA/AAA)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Ratio",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Reduced in both athletes following matches, decreasing to a minimum of 60% of initial levels. Athlete 1 showed declines of 30% from baseline to short recovery 1, with a similar response in the second match. Athlete 2 showed 10% decline to short recovery 1 and a more pronounced 35-40% decline during post-match 2 and short recovery 2."
+          },
+          "core_biological_function": "Reflects the balance between branched-chain amino acids and aromatic amino acids, influencing transport across the blood\u2013brain barrier (BBB) and neurotransmitter synthesis.",
+          "relevant_activity_context": "Simulated Beach Volleyball Competition Day (following matches and during short recovery stages).",
+          "performance_or_health_indicator": "Associated with a higher likelihood or severity of mental fatigue development; serves as an indicator of central fatigue, according to the Fischer and Newsholme theory."
+        },
+        {
+          "biomarker_name": "Tryptophan",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Amino acid concentration",
+          "measured_effect": {
+            "direction_of_change": "lower overall, with individual variability",
+            "magnitude_quantification": "Generally decreased to a minimum of 60% of initial levels after BVb matches, with Athlete 1 showing an increasing drop in concentration. However, Athlete 2 showed a 25% increase after Match 1, with a consistent decrease after subsequent matches. Except for Athlete 1 in the first match, consistently decreased."
+          },
+          "core_biological_function": "Essential amino acid and precursor for serotonin and melatonin, impacting mood, sleep, and fatigue; competes with BCAA for transport across the blood\u2013brain barrier (BBB).",
+          "relevant_activity_context": "Simulated Beach Volleyball Competition Day (during exercise, after matches).",
+          "performance_or_health_indicator": "Suggests increased uptake of tryptophan into the central nervous system (CNS) from the bloodstream, serving as an indirect marker of central fatigue. Reflects changes in serotonin pathway metabolism, potentially influencing central fatigue or mood states during and after exercise."
+        },
+        {
+          "biomarker_name": "Serotonin",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Neurotransmitter concentration",
+          "measured_effect": {
+            "direction_of_change": "higher, then declined during long recovery",
+            "magnitude_quantification": "Acutely increased following matches, with Athlete 1 peaking at 180% after match 2 and Athlete 2 reaching 170% during short recovery 1 (1.36 \u00b5mol/L, exceeding normal upper limit). Athlete 2 showed immediate decrease after match 2, then increase during short recovery 2. Both experienced significant declines during the long recovery phase, dropping to 78% for Athlete 1 and 109% for Athlete 2 (relative to initial concentration for Athlete 1 and final concentration for Athlete 2)."
+          },
+          "core_biological_function": "Neurotransmitter involved in mood, sleep, appetite, perception of fatigue, and physiological responses to exercise.",
+          "relevant_activity_context": "Simulated Beach Volleyball Competition Day (after matches, during short recovery sessions), long recovery phase.",
+          "performance_or_health_indicator": "Reflects physiological and potentially psychological responses to intense competition, with notable increases indicating stress or altered brain activity, and declines in long recovery. Plays a critical role in the onset of central fatigue, supporting the 'serotonin hypothesis'."
+        },
+        {
+          "biomarker_name": "Hemoglobin (Hb)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Hematological parameter",
+          "measured_effect": {
+            "direction_of_change": "higher, then returned toward baseline; predominantly below initial values after recovery",
+            "magnitude_quantification": "Matches induced acute raises, which returned toward baseline during short recovery 1 and 2. Levels remained predominantly below initial values throughout the protocol, except post-match 1."
+          },
+          "core_biological_function": "Oxygen transport",
+          "relevant_activity_context": "Simulated beach volleyball competition (post-match, short recovery)",
+          "performance_or_health_indicator": "Indirectly assesses acute blood volume changes due to exercise."
+        },
+        {
+          "biomarker_name": "Hematocrit",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Hematological parameter",
+          "measured_effect": {
+            "direction_of_change": "higher, then returned toward baseline",
+            "magnitude_quantification": "Increased acutely following matches and returned toward pre-exercise baseline levels quickly during short recovery. Levels remained predominantly below initial values throughout the protocol, except post-match 1, showing similar patterns for both athletes."
+          },
+          "core_biological_function": "Volume percentage of red blood cells, indicating blood viscosity and oxygen-carrying capacity",
+          "relevant_activity_context": "Simulated beach volleyball competition (post-match, short recovery), acute exercise.",
+          "performance_or_health_indicator": "Indirectly assesses acute blood volume changes (hemoconcentration/dilution) due to exercise."
+        },
+        {
+          "biomarker_name": "Creatinine",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Metabolite Concentration",
+          "measured_effect": {
+            "direction_of_change": "increased, then returned toward pre-exercise values",
+            "magnitude_quantification": "Increased acutely after matches (17-35% increases), with a quick return to pre-exercise values during short recovery sessions, mirroring hematocrit kinetics."
+          },
+          "core_biological_function": "Waste product from muscle metabolism, reflects kidney function and muscle turnover",
+          "relevant_activity_context": "Simulated beach volleyball competition (post-match), acute exercise, short recovery sessions.",
+          "performance_or_health_indicator": "Indicates acute physiological stress from exercise and renal perfusion during exercise, showing observed differences not solely due to volemia changes."
+        },
+        {
+          "biomarker_name": "Urine Specific Gravity (USG)",
+          "measured_tissue_or_fluid": "Urine",
+          "activity_type": "Physical property/Concentration",
+          "measured_effect": {
+            "direction_of_change": "increased",
+            "magnitude_quantification": "Changes were shifted to the right (Table 2), indicating increased concentration."
+          },
+          "core_biological_function": "Indicates urine concentration and hydration status",
+          "relevant_activity_context": "Simulated beach volleyball competition (post-match)",
+          "performance_or_health_indicator": "Indicates hydration status during and after intense exercise."
+        },
+        {
+          "biomarker_name": "Sodium",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Ion Concentration",
+          "measured_effect": {
+            "direction_of_change": "increased, then remained relatively stable",
+            "magnitude_quantification": "Increased up to 5% after matches, with natremia hitting the upper limit of standard values (145 mmol/L) following post-match 2 for both athletes. Overall changes did not exceed 5% in the protocol."
+          },
+          "core_biological_function": "Electrolyte crucial for fluid balance, nerve and muscle function",
+          "relevant_activity_context": "Simulated beach volleyball competition (post-match).",
+          "performance_or_health_indicator": "Indicates electrolyte imbalance and fluid shifts during intense exercise, but generally stable, suggesting no harmful acute changes."
+        },
+        {
+          "biomarker_name": "Chloride",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Ion Concentration",
+          "measured_effect": {
+            "direction_of_change": "increased",
+            "magnitude_quantification": "Increased up to 10% after matches."
+          },
+          "core_biological_function": "Electrolyte maintaining fluid balance and blood pressure",
+          "relevant_activity_context": "Simulated beach volleyball competition (post-match)",
+          "performance_or_health_indicator": "Indicates electrolyte imbalance and fluid shifts during intense exercise."
+        },
+        {
+          "biomarker_name": "Magnesium",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Ion Concentration",
+          "measured_effect": {
+            "direction_of_change": "varied, impacted significantly",
+            "magnitude_quantification": "For Athlete 1, magnesium decreased during matches and then increased ~70% at long recovery. For Athlete 2, it remained stable during matches and then increased 10% at long recovery. Identified as one of the most impacted electrolytes."
+          },
+          "core_biological_function": "Cofactor for numerous enzymatic reactions, muscle and nerve function, blood glucose control, blood pressure regulation",
+          "relevant_activity_context": "Simulated beach volleyball competition (during matches and long recovery), beach sports conditions.",
+          "performance_or_health_indicator": "Indicates electrolyte balance and potential impact on muscle performance and recovery; suggests potential electrolyte disturbance in beach sports players."
+        },
+        {
+          "biomarker_name": "Creatine Kinase (CK)",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Enzyme Level",
+          "measured_effect": {
+            "direction_of_change": "increased significantly, with incomplete recovery",
+            "magnitude_quantification": "Increased significantly post-exercise, with 20-45% increases after the first match and 35-60% increases after the second match. Levels remained elevated by ~20% at the end of the protocol, showing incomplete normalization during short recovery sessions; increased to concentrations above post-match 1 after the second match."
+          },
+          "core_biological_function": "Enzyme found in muscle; elevated levels indicate myocyte damage and muscle integrity.",
+          "relevant_activity_context": "Simulated beach volleyball competition (post-match, recovery), cumulative strain from consecutive matches.",
+          "performance_or_health_indicator": "Indicates muscle microinjury and damage, and incomplete recovery from exercise loads; associated with low exercise tolerance, pre-clinical injury, and overtraining syndrome."
+        },
+        {
+          "biomarker_name": "Lactate Dehydrogenase (LDH)",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Enzyme Level",
+          "measured_effect": {
+            "direction_of_change": "increased significantly, with incomplete recovery",
+            "magnitude_quantification": "Increased significantly post-exercise, with 20-45% increases after the first match and ~20% increases after the second match. Levels remained elevated by ~20% at the end of the protocol, showing incomplete normalization during short recovery sessions; increased to concentrations above post-match 1 after the second match."
+          },
+          "core_biological_function": "Enzyme involved in anaerobic metabolism; elevated levels can indicate myocyte damage and cellular distress.",
+          "relevant_activity_context": "Simulated beach volleyball competition (post-match, recovery), cumulative strain from consecutive matches.",
+          "performance_or_health_indicator": "Indicates muscle microinjury and damage, and incomplete recovery from exercise loads; associated with low exercise tolerance, pre-clinical injury, and overtraining syndrome."
+        },
+        {
+          "biomarker_name": "Myoglobin (Mb)",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher, with additional increases and eventual full recovery, but delayed peak",
+            "magnitude_quantification": "Significant increases from 20-45% after the first match, and 35-60% after the second match. Identified as the most affected marker, previously observed to increase up to ~240% after similar sports. Exhibited additional increases during short recovery sessions, with a peak delayed until short recovery where Athlete 2 showed 40% higher elevation. Recovered to initial levels before the second match and fully returned to pre-match levels during long recovery."
+          },
+          "core_biological_function": "Oxygen-binding protein in muscle tissue, released into the bloodstream upon muscle damage.",
+          "relevant_activity_context": "Simulated beach volleyball competition (post-match, recovery), short recovery sessions, cumulative strain from consecutive matches.",
+          "performance_or_health_indicator": "Most sensitive marker for muscle microinjury and damage; indicates ongoing muscle stress, associated with acceleration and deceleration movements. Higher elevation during recovery for Athlete 2 indicates greater or delayed muscle damage/recovery challenges."
+        },
+        {
+          "biomarker_name": "Creatine Phosphokinase-MB (CK-MB)",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Enzyme Level (Isoenzyme)",
+          "measured_effect": {
+            "direction_of_change": "increased significantly, then recovered",
+            "magnitude_quantification": "Increased significantly post-exercise (20-45% after first match, ~20% after second match). Recovered to initial levels before the second match."
+          },
+          "core_biological_function": "Isoenzyme of creatine kinase, primarily found in heart muscle; also present in skeletal muscle.",
+          "relevant_activity_context": "Simulated beach volleyball competition (post-match, recovery).",
+          "performance_or_health_indicator": "Highlights potential for inducing muscle microinjury from exercise loads."
+        },
+        {
+          "biomarker_name": "Aspartate Aminotransferase (AST)",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Enzyme Level",
+          "measured_effect": {
+            "direction_of_change": "increased acutely, with a recovery trend",
+            "magnitude_quantification": "Increased acutely during exercise (up to 50% in post-exercise samples), with a recovery trend during short recovery sessions."
+          },
+          "core_biological_function": "Enzyme involved in amino acid metabolism, present in liver and muscle cells.",
+          "relevant_activity_context": "Simulated beach volleyball competition (post-match, short recovery), systemic stress response.",
+          "performance_or_health_indicator": "Can indicate muscle or liver strain/damage from exercise, suggesting a systemic stress response."
+        },
+        {
+          "biomarker_name": "Alanine Aminotransferase (ALT)",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Enzyme Level",
+          "measured_effect": {
+            "direction_of_change": "increased acutely, with a recovery trend",
+            "magnitude_quantification": "Increased acutely during exercise (up to 50% in post-exercise samples), with a recovery trend during short recovery sessions."
+          },
+          "core_biological_function": "Enzyme primarily found in the liver, involved in amino acid metabolism.",
+          "relevant_activity_context": "Simulated beach volleyball competition (post-match, short recovery), systemic stress response.",
+          "performance_or_health_indicator": "Can indicate liver strain/damage from exercise, suggesting a systemic stress response."
+        },
+        {
+          "biomarker_name": "Gamma-Glutamyltransferase (GGT)",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Enzyme Level",
+          "measured_effect": {
+            "direction_of_change": "increased acutely, with a recovery trend",
+            "magnitude_quantification": "Increased acutely during exercise (up to 50% in post-exercise samples), with a recovery trend during short recovery sessions. During long recovery, Athlete 1 showed a more pronounced decrease than Athlete 2."
+          },
+          "core_biological_function": "Enzyme found in liver, kidney, and other tissues, involved in glutathione metabolism.",
+          "relevant_activity_context": "Simulated beach volleyball competition (post-match, short and long recovery), systemic stress response.",
+          "performance_or_health_indicator": "Control for hepatic and biliary health; can indicate liver strain/damage or recovery, suggesting a systemic stress response."
+        },
+        {
+          "biomarker_name": "Alkaline Phosphatase (ALP)",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Enzyme Level",
+          "measured_effect": {
+            "direction_of_change": "increased acutely, with a recovery trend",
+            "magnitude_quantification": "Increased acutely during exercise (up to 50% in post-exercise samples), with a recovery trend during short recovery sessions. During long recovery, Athlete 1 showed a more pronounced decrease than Athlete 2."
+          },
+          "core_biological_function": "Enzyme found in liver, bone, kidney, and digestive tract.",
+          "relevant_activity_context": "Simulated beach volleyball competition (post-match, short and long recovery), systemic stress response.",
+          "performance_or_health_indicator": "Control for hepatic and biliary health; can indicate liver or bone issues, suggesting a systemic stress response."
+        },
+        {
+          "biomarker_name": "White Blood Cells (WBC)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Cell Count",
+          "measured_effect": {
+            "direction_of_change": "increased",
+            "magnitude_quantification": "The first match led to an increase for both athletes. Athletes had similar responses to matches but with different ratios. No specific numerical quantification provided."
+          },
+          "core_biological_function": "Immune response, fights infection",
+          "relevant_activity_context": "Simulated beach volleyball competition (post-match)",
+          "performance_or_health_indicator": "Indicates acute immune response and inflammatory state due to exercise."
+        },
+        {
+          "biomarker_name": "Neutrophils",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Cell Count",
+          "measured_effect": {
+            "direction_of_change": "higher, with slower recovery",
+            "magnitude_quantification": "Raised significantly (up to 200-250%) during match 1, remained high until the end of match 2, and exhibited a slower decrease during long recovery."
+          },
+          "core_biological_function": "Primary immune cells involved in acute inflammation and bacterial defense.",
+          "relevant_activity_context": "Simulated beach volleyball competition (during matches, long recovery).",
+          "performance_or_health_indicator": "Indicates acute inflammatory response and immune activation due to exercise, reflecting a classic intensity-dependent immune reaction to metabolic stress."
+        },
+        {
+          "biomarker_name": "Lymphocytes",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Cell Count",
+          "measured_effect": {
+            "direction_of_change": "increased, then decreased rapidly to pre-protocol levels",
+            "magnitude_quantification": "Increased in both athletes due to matches, with a quick drop to pre-protocol/baseline levels during short recovery sessions, which were nearly sufficient to restore them. No specific numerical quantification provided for initial increase."
+          },
+          "core_biological_function": "Immune cells involved in adaptive immunity, viral defense, and long-term immune memory.",
+          "relevant_activity_context": "Simulated beach volleyball competition (post-match, short recovery).",
+          "performance_or_health_indicator": "Indicates acute immune response to exercise, potentially reflecting recovery status and a classic intensity-dependent immune reaction to metabolic stress."
+        },
+        {
+          "biomarker_name": "Alpha-1 Glycoprotein (A1AG)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher, with slower recovery",
+            "magnitude_quantification": "Increased after each match, with Athlete 1 exhibiting a 50% increase after the first match and Athlete 2 showing a 9% increase. Both rose again following the second match. Exhibited slower recovery after matches due to upregulation."
+          },
+          "core_biological_function": "Acute-phase protein, involved in modulating the immune response and inflammation.",
+          "relevant_activity_context": "Simulated beach volleyball competition (after each match, post-match inflammatory response).",
+          "performance_or_health_indicator": "Indicates acute inflammatory response and heightened acute phase response to exercise/competitive play and metabolic stress."
+        },
+        {
+          "biomarker_name": "Thrombocytes",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Cell Count",
+          "measured_effect": {
+            "direction_of_change": "higher, then returned toward baseline",
+            "magnitude_quantification": "Increased after each match (Athlete 1 by 52% after first match; Athlete 2 by 28% after first match), rising again following the second match. Short recovery sessions were nearly sufficient to restore to baseline levels."
+          },
+          "core_biological_function": "Involved in blood clotting (hemostasis) and tissue repair.",
+          "relevant_activity_context": "Simulated beach volleyball competition (after each match, post-match).",
+          "performance_or_health_indicator": "Reflects an immune response to metabolic stress and an acute phase response to competitive play."
+        },
+        {
+          "biomarker_name": "Insulin",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Hormone Concentration",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Dropped proportionally after both matches, reaching approximately 30% of initial levels after the second match for both athletes."
+          },
+          "core_biological_function": "Regulates blood glucose levels by promoting glucose uptake into cells and glycogen synthesis.",
+          "relevant_activity_context": "Simulated beach volleyball competition (after matches).",
+          "performance_or_health_indicator": "Indicates a shift in energy metabolism during exercise, favoring glucose utilization from stores rather than uptake, reflecting a gluco-insulinic response and the high-intensity nature of a BVb competition day."
+        },
+        {
+          "biomarker_name": "Glucose",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Concentration",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Increased significantly (acute rise) by 35-50% above initial concentrations during matches, due to liver glucose output exceeding systemic uptake."
+          },
+          "core_biological_function": "Primary energy source for cellular metabolism.",
+          "relevant_activity_context": "Simulated beach volleyball competition (during matches, triggered by acute exercise).",
+          "performance_or_health_indicator": "Indicates increased energy demand during exercise, with the body mobilizing glucose to meet these demands, demonstrating a classic glycemic response to exercise and the high-intensity nature of a BVb competition day."
+        },
+        {
+          "biomarker_name": "Urate",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Concentration",
+          "measured_effect": {
+            "direction_of_change": "increased, then varied recovery",
+            "magnitude_quantification": "Increased by approximately 10% for both athletes during matches, particularly in the second match, following ammonium levels. Athlete 2 showed an increase matching ammonium increase, but Athlete 1 did not. No corresponding increase during long recovery despite substantial ammonium elevation. Recovery rate differed: Athlete 2's levels remained 10% higher than initial, while Athlete 1 finished 50% lower."
+          },
+          "core_biological_function": "An antioxidant and a byproduct of purine metabolism, and a terminal metabolite of AMP degradation.",
+          "relevant_activity_context": "Simulated beach volleyball competition (during matches and recovery).",
+          "performance_or_health_indicator": "Reflects purine metabolism and antioxidant response to exercise, with varied recovery kinetics between athletes. Indirect indicator of myokinase activity, suggesting AMP degradation influences ammonium production during high-intensity exercise (second match context)."
+        },
+        {
+          "biomarker_name": "Urea",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Concentration",
+          "measured_effect": {
+            "direction_of_change": "increased",
+            "magnitude_quantification": "Acute increases during exercise (10\u201320%)."
+          },
+          "core_biological_function": "End product of protein metabolism and nitrogen excretion.",
+          "relevant_activity_context": "Simulated beach volleyball competition (during exercise).",
+          "performance_or_health_indicator": "Indicates increased protein breakdown and nitrogen turnover during exercise."
+        },
+        {
+          "biomarker_name": "Alanine",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Amino Acid Concentration",
+          "measured_effect": {
+            "direction_of_change": "higher, with differential response between matches",
+            "magnitude_quantification": "Increased acutely after the first match for both athletes (Athlete 1: 18%, Athlete 2: 29%) but remained unchanged after the second match, indicating a differential response."
+          },
+          "core_biological_function": "An amino acid involved in gluconeogenesis and energy production, particularly during exercise, and essential in anaplerosis and ammonia metabolism.",
+          "relevant_activity_context": "Simulated beach volleyball competition (after first match, after second match).",
+          "performance_or_health_indicator": "Indicates the contribution of amino acids to energy production during exercise, showing a differential response between matches and acting as an indicator of metabolic response to acute exercise."
+        },
+        {
+          "biomarker_name": "Glutamate",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Amino Acid Concentration",
+          "measured_effect": {
+            "direction_of_change": "increased, then rapid recovery",
+            "magnitude_quantification": "Showed the largest exercise-induced increase following the first match (Athlete 1: 56%, Athlete 2: 70%) with a rapid recovery. After the second match, glutamate increased by 42% for Athlete 1. Exhibited significant changes due to matches, being more susceptible to fluctuations due to lower blood concentration than glutamine."
+          },
+          "core_biological_function": "An amino acid involved in energy production, neurotransmission, and nitrogen metabolism; precursor to glutamine.",
+          "relevant_activity_context": "Simulated beach volleyball competition (after first match, after second match).",
+          "performance_or_health_indicator": "Reflects significant amino acid mobilization for energy production during exercise, showing high responsiveness to acute exercise and varying responses between matches and athletes. Indicator of metabolic response to acute exercise."
+        },
+        {
+          "biomarker_name": "Glutamine",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Amino Acid Concentration",
+          "measured_effect": {
+            "direction_of_change": "variable, with individual differences",
+            "magnitude_quantification": "Steadily decreased in Athlete 1 throughout the protocol, reaching 70% of the initial concentration by the long recovery phase, while it remained relatively stable in Athlete 2. Overall, alterations in concentrations were not uniform and showed minor variation, though it can diminish during exercise by deamination."
+          },
+          "core_biological_function": "The most abundant free amino acid, crucial for immune function, gut health, and nitrogen transport; essential in anaplerosis and ammonia metabolism.",
+          "relevant_activity_context": "Simulated beach volleyball competition (throughout protocol, long recovery).",
+          "performance_or_health_indicator": "Changes indicate the metabolic demands of exercise on the immune system and nitrogen balance, with differing individual responses suggesting varied internal loads and unique demands of specific sports, acting as an indicator of metabolic response to acute exercise."
+        },
+        {
+          "biomarker_name": "Leucine",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Amino Acid Concentration",
+          "measured_effect": {
+            "direction_of_change": "decreased, with divergent responses",
+            "magnitude_quantification": "Displayed decreasing trends throughout the protocol. Athlete 1 exhibited a decrease, returning to basal values after short recovery 1, and dropped to 70% of the initial concentration before the second match. Athlete 2 showed a mirroring effect during the first match. Both athletes responded similarly during the first match but diverged in the second match."
+          },
+          "core_biological_function": "An essential branched-chain amino acid (BCAA) important for muscle protein synthesis and energy production.",
+          "relevant_activity_context": "Simulated beach volleyball competition (short recovery 1, before second match, during first and second matches).",
+          "performance_or_health_indicator": "Indicates muscle protein turnover and utilization of BCAAs for energy during exercise, with divergent responses in the second match suggesting individual metabolic differences and indicating metabolic response to exercise."
+        },
+        {
+          "biomarker_name": "Isoleucine",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Amino Acid Concentration",
+          "measured_effect": {
+            "direction_of_change": "decreased, with divergent responses",
+            "magnitude_quantification": "Displayed decreasing trends throughout the protocol. Athlete 1 exhibited a decrease, returning to basal values after short recovery 1, and dropped to 70% of the initial concentration before the second match. Athlete 2 showed a mirroring effect during the first match. Both athletes responded similarly during the first match but diverged in the second match."
+          },
+          "core_biological_function": "An essential branched-chain amino acid (BCAA) important for muscle protein synthesis and energy production.",
+          "relevant_activity_context": "Simulated beach volleyball competition (short recovery 1, before second match, during first and second matches).",
+          "performance_or_health_indicator": "Indicates muscle protein turnover and utilization of BCAAs for energy during exercise, with divergent responses in the second match suggesting individual metabolic differences and indicating metabolic response to exercise."
+        },
+        {
+          "biomarker_name": "Valine",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Amino Acid Concentration",
+          "measured_effect": {
+            "direction_of_change": "higher, with significant individual alterations",
+            "magnitude_quantification": "Exhibited the most significant alterations among BCAAs, increasing up to 160% or 210%, depending on the athlete, during the protocol. More affected by exercise in Athlete 2 than in Athlete 1."
+          },
+          "core_biological_function": "An essential branched-chain amino acid (BCAA) important for muscle protein synthesis and energy production.",
+          "relevant_activity_context": "Simulated beach volleyball competition (during exercise, during protocol).",
+          "performance_or_health_indicator": "Reflects BCAA metabolism during exercise, with differing and significant impacts between athletes, suggesting utilization or release patterns during BVb and indicating metabolic response to exercise."
+        },
+        {
+          "biomarker_name": "Phenylalanine",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Amino Acid Concentration",
+          "measured_effect": {
+            "direction_of_change": "unchanged (Athlete 1), rose (Athlete 2)",
+            "magnitude_quantification": "Athlete 1 remained unchanged during the protocol. Athlete 2\u2019s concentration rose ~60% during the second match."
+          },
+          "core_biological_function": "An essential aromatic amino acid, precursor for neurotransmitters like tyrosine, dopamine, and norepinephrine.",
+          "relevant_activity_context": "Simulated beach volleyball competition (during protocol, second match).",
+          "performance_or_health_indicator": "Indicates altered aromatic amino acid metabolism during exercise, potentially affecting neurotransmitter synthesis."
+        },
+        {
+          "biomarker_name": "Tyrosine",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Amino Acid Concentration",
+          "measured_effect": {
+            "direction_of_change": "drop",
+            "magnitude_quantification": "Athlete 2 experienced a ~40% drop during the second match (simultaneously with a phenylalanine rise)."
+          },
+          "core_biological_function": "An aromatic amino acid, precursor for catecholamines (dopamine, norepinephrine, epinephrine) and thyroid hormones.",
+          "relevant_activity_context": "Simulated beach volleyball competition (during second match).",
+          "performance_or_health_indicator": "Indicates altered aromatic amino acid metabolism during exercise, potentially affecting neurotransmitter synthesis and overall stress response."
+        }
+      ]
+    }
+  }
+]

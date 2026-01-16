@@ -1,0 +1,232 @@
+[
+  {
+    "title": "pmc PeerJ PeerJ PeerJ PeerJ 2167-8359 PeerJ Inc. San Diego, USA 12452943 20053 10.7717/peerj.20053 Cardiology Epidemiology Evidence Based Medicine Metabolic Sciences Uric acid to HDL cholesterol ratio as a novel predictor of carotid intima-media thickness: a cross-sectional study in rural China Luo Guibao 1 Wang Haiying 2 Cao Yajun 3 Hao Juan 1 Tan Taofeng 1 Shao Yingzhe 1 Ning Xianjia 1 4 5 6 Yang Chunsheng 1 Wang Jinghua 1 4 5 6 jwang3@tmu.edu.cn Li Yan 5 liyanmanu@163.com 1 Department of Neurology, Tianjin Medical University General Hospital , Tianjin , China 2 Department of Cardiology, Tianjin Jizhou People\u2019s Hospital , Tianjin , China 3 Tianjin Jizhou District Chuanfangyu Township Hospital , Tianjin , China 4 Tianjin Neurological Institute, Key Laboratory of Post-Neuroinjury Neuro-repair and Regeneration in Central Nervous System, Ministry of Education and Tianjin City , Tianjin , China 5 Institute of Clinical Epidemiology & Evidence-Based Medicine, Tianjin Jizhou People\u2019s Hospital , Tianjin , China 6 Laboratory of Epidemiology, Tianjin Neurological Institute , Tianjin , China Gallagher Celine 19 9 2025 2025 13 e20053 16 5 2025 17 8 2025 \u00a9 2025 Luo et al. 2025 Luo et al. https://creativecommons.org/licenses/by/4.0/ This is an open access article distributed under the terms of the Creative Commons Attribution License , which permits unrestricted use, distribution, reproduction and adaptation in any medium and for any purpose provided that it is properly attributed. For attribution, the original author(s), title, publication source (PeerJ) and either DOI or URL of the article must be cited. Purpose Carotid intima-media thickness (cIMT) is a widely recognized marker for assessing carotid atherosclerosis, which is a significant predictor of cardiovascular diseases such as ischemic stroke. The serum uric acid to high-density lipoprotein cholesterol ratio (UHR) has recently emerged as a potential combined marker for metabolic and inflammatory processes related to cardiovascular risk. This study aims to investigate the association between UHR and cIMT in a rural Chinese population, with a particular focus on differences across age and sex groups. Patients and methods A cross-sectional study was conducted using data from the 2019 general physical examination of residents in Jizhou District, Tianjin, China. A total of 3,280 participants aged 45 years and older were included after excluding those with incomplete data or specific health conditions. Demographic and clinical data were collected through face-to-face interviews and physical examinations. Serum levels of uric acid (SUA) and high-density lipoprotein cholesterol (HDL-C) were measured, and UHR was calculated. Carotid intima-media thickness was assessed using ultrasound. Multivariate linear and logistic regression analyses were performed to evaluate the association between UHR and cIMT, adjusting for potential confounders. Subgroup analyses were conducted to explore variations in this association by age and sex. Receiver operating characteristic (ROC) analysis was used to compare the predictive value of UHR, SUA, and HDL-C for cIMT thickening. Results The study population had a mean age of 64.10 \u00b1 8.02 years, with 45.2% males and 54.8% females. The prevalence rates of hypertension, diabetes, smoking, and alcohol consumption were 77.2%, 19.7%, 41.4%, and 36.3%, respectively. Univariate analysis showed significant associations between UHR, age, hypertension, diabetes, smoking, alcohol consumption, systolic blood pressure (SBP), pulse pressure (PP) difference, glucose (GLU), total cholesterol (TC), low-density lipoprotein cholesterol (LDL-C), and cIMT. Multivariate analysis revealed that UHR was an independent risk factor for increased cIMT (\u03b2 = 0.06, 95% CI [0.01\u20130.10], P = 0.017) and carotid intima-media thickening, particularly in older men. Subgroup analysis indicated that the association between UHR and cIMT was more pronounced in participants aged 60 years or older and in males. ROC analysis demonstrated that UHR had a higher predictive value for cIMT thickening in older men (AUC = 0.577, 95% CI [0.510\u20130.644], P < 0.05) compared to SUA or HDL-C alone. Conclusion This study identifies UHR as a significant predictor of cIMT and carotid intima-media thickening, with a particularly strong association observed in older men. These findings suggest that UHR could serve as a valuable marker for early detection and intervention of carotid atherosclerosis. Uric acid HDL cholesterol Carotid intima-media thickness Atherosclerosis Cardiovascular risk Tianjin Health Research Project TJWJ2022ZD012 This study was sponsored by Tianjin Health Research Project (No. TJWJ2022ZD012). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript. Introduction Globally, stroke is the second leading cause of death, accounting for 11.6% of all fatalities, and the third leading cause of death and disability, contributing to 5.7% of total disability-adjusted life years (DALYs). The age-standardized stroke-related mortality rate in low-income countries is 3.6 times higher than in high-income countries, and the age-standardized stroke-related DALY rate is 3.7 times higher ( GBD 2019 Stroke Collaborators, 2019 ). As the largest developing country, China has the highest number of stroke patients worldwide ( Tu, Wang & The Special Writing Group of China Stroke Surveillance Report, 2023 ). In China, stroke is the leading cause of death and disability, with the burden of the disease rapidly increasing. In 2020, the overall prevalence, incidence, and mortality rates of stroke among adults aged 40 years and older were estimated at 2.6%, 505.2 per 100,000 person-years, and 343.4 per 100,000 person-years, respectively ( Tu et al., 2023 ). Stroke-related DALYs are higher than those for most other diseases, including heart disease, respiratory disease, and digestive disease ( Wu et al., 2019 ). Ischemic stroke, which accounts for 86.8% of all stroke events, has three primary causes: 50% are due to cerebrovascular atherosclerotic plaques and plaque rupture, 20% are caused by cardiac cerebral infarction, and 25% result from lacunar cerebral infarction due to small-vessel lesions ( Warlow et al., 2003 ). Carotid intima-media thickness (cIMT) is a non-invasive imaging marker of carotid atherosclerosis that enables the early identification of atherosclerotic vascular changes, which can be used to assess the risk of cardiovascular and cerebrovascular diseases and serves as a strong predictor for their occurrence ( Lorenz et al., 2007 ). It has emerged as a key tool for assessing and monitoring the initiation and progression of cardiovascular and cerebrovascular diseases ( Nezu et al., 2016 ). Recent studies have identified serum uric acid (SUA) as a risk factor for atherosclerosis ( Feig, Kang & Johnson, 2008 ). High-density lipoprotein cholesterol (HDL-C) is known for its protective effects against atherosclerosis through anti-inflammatory and antioxidant mechanisms ( Linton et al., 2023 ). The serum uric acid to high-density lipoprotein cholesterol ratio (UHR) has emerged as a novel inflammatory and metabolic marker with potential predictive value for ischemic heart disease, metabolic syndrome, and non-alcoholic fatty liver disease ( Park, Jung & Lee, 2022 ; Yazdi et al., 2022 ; Xie et al., 2023 ). Despite extensive research on SUA and HDL-C, the association between UHR and carotid atherosclerosis, specifically cIMT, remains underexplored. Several controversies and gaps persist in this research area. While some studies suggest a positive correlation between elevated SUA and increased cIMT, others do not find significant associations ( Strasak et al., 2008 ; Jim\u00e9nez et al., 2016 ). The role of HDL-C in preventing atherosclerosis is well-documented, yet the combined effect of SUA and HDL-C, represented by UHR, on carotid atherosclerosis is not fully understood. Furthermore, the impact of UHR on carotid intima-media thickening, particularly in different demographic groups, has not been thoroughly investigated. This study aims to elucidate the relationship between UHR and cIMT in a rural Chinese population. By conducting a retrospectively cross-sectional analysis, we seek to determine whether UHR can serve as a reliable marker for early detection and intervention of carotid atherosclerosis. We hypothesize that a higher UHR is associated with increased cIMT and that this association may vary across age and sex.",
+    "document_source_id": "40989900",
+    "analysis_date": "2025-12-09",
+    "extracted_data": {
+      "document_summary": "This cross-sectional study investigated the association between the serum uric acid to high-density lipoprotein cholesterol ratio (UHR) and carotid intima-media thickness (cIMT) in a rural Chinese population (N=3,280, aged 45+). The study found UHR to be a significant independent predictor and risk factor for increased cIMT and carotid intima-media thickening, with this association being particularly pronounced in older men. The findings suggest UHR's potential as a valuable marker for early detection and intervention of carotid atherosclerosis.",
+      "treatment_details": {
+        "therapy_type": "Observational Cross-sectional Study for Cardiovascular Risk Assessment",
+        "dose_specificity": "This was a cross-sectional study utilizing data from the 2019 general physical examination of 3,280 rural Chinese residents aged 45 years and older. No experimental interventions or therapeutic doses were administered; the study focused on observational correlations between biomarkers and cIMT. It was noted that excessively high plasma HDL-C levels (>90 mg/dL) might still increase cardiovascular risk."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "Uric acid to HDL cholesterol ratio (UHR)",
+          "measured_tissue_or_fluid": "Serum/Blood Plasma (calculated ratio)",
+          "activity_type": "Calculated ratio of concentration levels",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Mean UHR was 239.73 \b\b 108.81. Higher UHR was an independent risk factor for increased cIMT (multiple regression models showed \b ranging from 0.05 to 0.06, 95% CI [0.01\b\b0.10], P \b\b 0.022) and was significantly associated with carotid intima-media thickening (Model I: \b = 1.002, 95% CI [1.000\b\b1.003], P = 0.033). In older men, each unit increase in UHR increased the likelihood of carotid intima-media thickening by 0.2% (OR = 1.002, 95% CI [1.000\b\b1.004], P = 0.028). UHR had a higher predictive value for cIMT thickening in older men (AUC = 0.577, 95% CI [0.510\b\b0.644], P < 0.05) compared to SUA or HDL-C alone; optimal truncation value was 238.54."
+          },
+          "core_biological_function": "Combined marker for metabolic and inflammatory processes, indicating heightened oxidative stress and reduced protective capacity related to cardiovascular risk and atherosclerosis development.",
+          "relevant_activity_context": "Cross-sectional analysis of carotid intima-media thickness (cIMT) in a rural Chinese population; association is more pronounced in males aged 60 years or older.",
+          "performance_or_health_indicator": "Significant independent risk factor and predictor for carotid intima-media thickness and thickening, particularly in older men. It provides additional predictive value over SUA or HDL-C alone, serving as a valuable marker for early detection and intervention of carotid atherosclerosis."
+        },
+        {
+          "biomarker_name": "Serum Uric Acid (SUA)",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Concentration level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Elevated SUA levels were positively correlated with IMT (P < 0.05) and identified as a risk factor for carotid intima-media thickening (P < 0.05). However, SUA demonstrated lower predictive value for cIMT thickening compared to UHR, which had an AUC of 0.577; specific AUC for SUA alone was not reported in the study. Normal-range SUA levels were also associated with inflammation and arterial stiffness."
+          },
+          "core_biological_function": "End product of purine metabolism; promotes atherosclerosis via oxidative stress, inflammation, and endothelial dysfunction, and can influence lipid metabolism.",
+          "relevant_activity_context": "Analysis of factors associated with carotid intima-media thickness and its contribution to the UHR in a rural Chinese population.",
+          "performance_or_health_indicator": "Risk factor for carotid intima-media thickness and atherosclerosis, associated with a pro-inflammatory state and arterial stiffness. However, its individual predictive value for cIMT thickening is lower compared to UHR, especially in older men."
+        },
+        {
+          "biomarker_name": "High-density lipoprotein cholesterol (HDL-C)",
+          "measured_tissue_or_fluid": "Serum/Blood Plasma",
+          "activity_type": "Concentration level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "HDL-C levels showed lower predictive value for cIMT thickening compared to UHR; specific quantitative data for its individual predictive value was not reported. Normal or higher levels are generally protective, showing a negative association with CHD and cIMT. However, excessively high levels (>90 mg/dL) have been associated with an increased risk of atherosclerotic cardiovascular disease."
+          },
+          "core_biological_function": "Removes excess cholesterol from the body via reverse cholesterol transport, exerting protective anti-inflammatory and antioxidative effects against atherosclerosis. Dysfunctional HDL-C can occur under oxidative stress.",
+          "relevant_activity_context": "Analysis of factors associated with carotid intima-media thickness, and its role as a component of UHR and in general cardiovascular health, in a rural Chinese population.",
+          "performance_or_health_indicator": "Generally protective against atherosclerosis and cardiovascular disease, but demonstrated lower predictive value for cIMT thickening compared to UHR. While lower levels contribute to increased risk, excessively high levels (>90 mg/dL) may also indicate increased cardiovascular risk due to potential dysfunction."
+        },
+        {
+          "biomarker_name": "Carotid Intima-Media Thickness (cIMT)",
+          "measured_tissue_or_fluid": "Carotid artery",
+          "activity_type": "Ultrasound measurement of arterial wall thickness",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Mean cIMT was 715.03 \b\b 142.06 \bcm. Thickening was defined as >1.0 mm. cIMT was positively correlated with UHR, age, hypertension, diabetes, smoking, alcohol consumption, systolic blood pressure, pulse pressure difference, glucose, total cholesterol, and LDL-C (P < 0.05), and negatively correlated with gender (P < 0.05)."
+          },
+          "core_biological_function": "Indicates arterial wall morphology and thickness, serving as a non-invasive marker for early atherosclerosis.",
+          "relevant_activity_context": "Assessment in a cross-sectional health examination of rural Chinese residents.",
+          "performance_or_health_indicator": "Key marker for subclinical atherosclerosis and a strong predictor for the occurrence of cardiovascular and cerebrovascular diseases."
+        },
+        {
+          "biomarker_name": "Fasting Blood Glucose (GLU)",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Concentration level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Diabetes was defined by GLU \b\b 7 mmol/L. GLU was positively correlated with cIMT (P < 0.05) and identified as a risk factor for carotid intima-media thickening (P < 0.05)."
+          },
+          "core_biological_function": "Primary energy source, regulated by insulin.",
+          "relevant_activity_context": "Fasting state during cross-sectional health examination; associated with carotid intima-media thickness.",
+          "performance_or_health_indicator": "Indicator for glycemic control, risk of type 2 diabetes, and a risk factor for carotid intima-media thickness."
+        },
+        {
+          "biomarker_name": "Total Cholesterol (TC)",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Concentration level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Positively correlated with cIMT (P < 0.05)."
+          },
+          "core_biological_function": "Essential for cell membranes, hormone production, and vitamin D synthesis.",
+          "relevant_activity_context": "Fasting state during cross-sectional health examination; associated with carotid intima-media thickness.",
+          "performance_or_health_indicator": "Indicator of cardiovascular risk and a risk factor for carotid intima-media thickness."
+        },
+        {
+          "biomarker_name": "Triglycerides (TG)",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Concentration level",
+          "measured_effect": {
+            "direction_of_change": "Not specified",
+            "magnitude_quantification": "Baseline measurement only; no specific change or association with cIMT reported in this study."
+          },
+          "core_biological_function": "Main form of fat stored in the body for energy.",
+          "relevant_activity_context": "Fasting state during cross-sectional health examination.",
+          "performance_or_health_indicator": "Elevated levels are associated with increased risk of cardiovascular disease and metabolic syndrome."
+        },
+        {
+          "biomarker_name": "Low-density Lipoprotein Cholesterol (LDL-C)",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Concentration level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Positively correlated with cIMT (P < 0.05)."
+          },
+          "core_biological_function": "Transports cholesterol from the liver to cells ('bad' cholesterol).",
+          "relevant_activity_context": "Fasting state during cross-sectional health examination; associated with carotid intima-media thickness.",
+          "performance_or_health_indicator": "Strongly associated with increased risk of atherosclerosis, cardiovascular disease, and is a risk factor for carotid intima-media thickness."
+        },
+        {
+          "biomarker_name": "Systolic Blood Pressure (SBP)",
+          "measured_tissue_or_fluid": "Blood (measured indirectly)",
+          "activity_type": "Physiological/Hemodynamic measurement",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Hypertension was defined as SBP \b\b 140 mmHg. SBP was positively correlated with cIMT (P < 0.05) and identified as a risk factor for carotid intima-media thickening (P < 0.05)."
+          },
+          "core_biological_function": "Measures arterial pressure during heart contraction.",
+          "relevant_activity_context": "Cross-sectional health examination; associated with carotid intima-media thickness.",
+          "performance_or_health_indicator": "Indicator of hypertension and increased risk for carotid intima-media thickness, cardiovascular, and cerebrovascular events."
+        },
+        {
+          "biomarker_name": "Diastolic Blood Pressure (DBP)",
+          "measured_tissue_or_fluid": "Blood (measured indirectly)",
+          "activity_type": "Physiological measurement",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Hypertension was defined as DBP \b\b 90 mmHg."
+          },
+          "core_biological_function": "Measures arterial pressure during heart relaxation.",
+          "relevant_activity_context": "Cross-sectional health examination.",
+          "performance_or_health_indicator": "Indicator of hypertension and increased risk of cardiovascular and cerebrovascular events."
+        },
+        {
+          "biomarker_name": "Body Mass Index (BMI)",
+          "measured_tissue_or_fluid": "Body (calculated from height and weight)",
+          "activity_type": "Anthropometric calculation",
+          "measured_effect": {
+            "direction_of_change": "Not specified (categorized)",
+            "magnitude_quantification": "Participants categorized as underweight (<18.5 kg/m\b\b), normal (18.5-24 kg/m\b\b), overweight (24-28 kg/m\b\b), and obese (\b\b28 kg/m\b\b)."
+          },
+          "core_biological_function": "Indicates healthy weight for height.",
+          "relevant_activity_context": "Cross-sectional health examination.",
+          "performance_or_health_indicator": "Associated with various health risks including metabolic disorders and cardiovascular diseases."
+        },
+        {
+          "biomarker_name": "Gender",
+          "measured_tissue_or_fluid": "Participant demographic",
+          "activity_type": "Demographic variable",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Negatively correlated with cIMT (P < 0.05), indicating it as a protective factor against carotid intima-media thickening."
+          },
+          "core_biological_function": "Biological sex, influencing physiological processes and disease susceptibility.",
+          "relevant_activity_context": "Analysis of factors associated with carotid intima-media thickness.",
+          "performance_or_health_indicator": "Protective factor against carotid intima-media thickening."
+        },
+        {
+          "biomarker_name": "Age",
+          "measured_tissue_or_fluid": "Participant demographic",
+          "activity_type": "Demographic variable",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Mean age was 64.10 \b\b 8.02 years. Positively correlated with cIMT (P < 0.05) and identified as a risk factor for carotid intima-media thickening (P < 0.05)."
+          },
+          "core_biological_function": "Biological aging process.",
+          "relevant_activity_context": "Analysis of factors associated with carotid intima-media thickness.",
+          "performance_or_health_indicator": "Risk factor for carotid intima-media thickness."
+        },
+        {
+          "biomarker_name": "Hypertension",
+          "measured_tissue_or_fluid": "Clinical diagnosis",
+          "activity_type": "Clinical diagnosis/status",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Prevalence rate was 77.2%. Positively correlated with cIMT (P < 0.05) and identified as a risk factor for carotid intima-media thickening (P < 0.05)."
+          },
+          "core_biological_function": "High blood pressure, a major cardiovascular risk factor.",
+          "relevant_activity_context": "Analysis of factors associated with carotid intima-media thickness.",
+          "performance_or_health_indicator": "Risk factor for carotid intima-media thickness."
+        },
+        {
+          "biomarker_name": "Diabetes",
+          "measured_tissue_or_fluid": "Clinical diagnosis",
+          "activity_type": "Clinical diagnosis/status",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Prevalence rate was 19.7%. Positively correlated with cIMT (P < 0.05) and identified as a risk factor for carotid intima-media thickening (P < 0.05)."
+          },
+          "core_biological_function": "Metabolic disorder characterized by high blood glucose.",
+          "relevant_activity_context": "Analysis of factors associated with carotid intima-media thickness.",
+          "performance_or_health_indicator": "Risk factor for carotid intima-media thickness."
+        },
+        {
+          "biomarker_name": "Smoking",
+          "measured_tissue_or_fluid": "Self-reported habit",
+          "activity_type": "Behavioral factor",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Prevalence rate was 41.4%. Positively correlated with cIMT (P < 0.05) and identified as a risk factor for carotid intima-media thickening (P < 0.05)."
+          },
+          "core_biological_function": "Exposure to tobacco smoke and associated harmful chemicals.",
+          "relevant_activity_context": "Analysis of factors associated with carotid intima-media thickness.",
+          "performance_or_health_indicator": "Risk factor for carotid intima-media thickness."
+        },
+        {
+          "biomarker_name": "Alcohol consumption",
+          "measured_tissue_or_fluid": "Self-reported habit",
+          "activity_type": "Behavioral factor",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Prevalence rate was 36.3%. Positively correlated with cIMT (P < 0.05) and identified as a risk factor for carotid intima-media thickening (P < 0.05)."
+          },
+          "core_biological_function": "Ingestion of alcoholic beverages.",
+          "relevant_activity_context": "Analysis of factors associated with carotid intima-media thickness.",
+          "performance_or_health_indicator": "Risk factor for carotid intima-media thickness."
+        },
+        {
+          "biomarker_name": "Pulse Pressure (PP) difference",
+          "measured_tissue_or_fluid": "Blood (calculated from blood pressure)",
+          "activity_type": "Hemodynamic calculation",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Positively correlated with cIMT (P < 0.05) and identified as a risk factor for carotid intima-media thickening (P < 0.05)."
+          },
+          "core_biological_function": "Difference between systolic and diastolic blood pressure, indicating arterial stiffness.",
+          "relevant_activity_context": "Analysis of factors associated with carotid intima-media thickness.",
+          "performance_or_health_indicator": "Risk factor for carotid intima-media thickness."
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,712 @@
+[
+  {
+    "title": "pmc BMJ Open BMJ Open bmjopen bmjopen BMJ Open 2044-6055 BMJ Publishing Group BMA House, Tavistock Square, London, WC1H 9JR 8458001 bmjopen-2021-053325 10.1136/bmjopen-2021-053325 Infectious Diseases 1506 2474 1706 Protocol Efficacy of clarithromycin in patients with mild COVID-19 pneumonia not receiving oxygen administration: protocol for an exploratory, multicentre, open-label, randomised controlled trial (CAME COVID-19 study) http://orcid.org/0000-0002-1357-1676 Yamamoto Kazuko 1 2 Hosogaya Naoki 3 http://orcid.org/0000-0002-7577-476X Sakamoto Noriho 1 Yoshida Haruo 4 Ishii Hiroshi 5 http://orcid.org/0000-0002-2955-4432 Yatera Kazuhiro 6 Izumikawa Koichi 7 Yanagihara Katsunori 8 Mukae Hiroshi 1 1 Department of Respiratory Medicine , Nagasaki University Hospital , Nagasaki , Japan 2 Clinical Research Center , National Organization Hospital Nagasaki Medical Center , Omura , Japan 3 Clinical Research Center , Nagasaki University Hospital , Nagasaki , Japan 4 Department of Otolaryngology-Head and Neck Surgery , Nagasaki University Graduate School of Biomedical Sciences , Nagasaki , Japan 5 Department of Respiratory Medicine , Fukuoka University Hospital , Fukuoka , Japan 6 Department of Respiratory Medicine , University of Occupational and Environmental Health , Kitakyushu , Japan 7 Infection Control and Education Center , Nagasaki University Hospital , Nagasaki , Japan 8 Department of Laboratory Medicine , Nagasaki University Hospital , Nagasaki , Japan Correspondence to Dr Kazuko Yamamoto; kazukomd@nagasaki-u.ac.jp 2021 21 9 2021 21 9 2021 11 9 e053325 11 5 2021 31 8 2021 \u00a9 Author(s) (or their employer(s)) 2021. Re-use permitted under CC BY-NC. No commercial re-use. See rights and permissions. Published by BMJ. 2021 https://creativecommons.org/licenses/by-nc/4.0/ This is an open access article distributed in accordance with the Creative Commons Attribution Non Commercial (CC BY-NC 4.0) license, which permits others to distribute, remix, adapt, build upon this work non-commercially, and license their derivative works on different terms, provided the original work is properly cited, appropriate credit is given, any changes made indicated, and the use is non-commercial. See: http://creativecommons.org/licenses/by-nc/4.0/ . Introduction The COVID-19 pandemic has emerged worldwide. Although several medications have been approved for treating moderate-to-severe COVID-19, very few treatment strategy has been established for patients with mild COVID-19 who do not require oxygen administration. Clarithromycin is a macrolide antimicrobial agent that has been widely used for bacterial respiratory infectious diseases. Clarithromycin also acts an immunomodulating drug and suppresses cytokine storms in viral respiratory diseases, including influenza. In this study, we aim to evaluate the efficacy of clarithromycin in patients with mild COVID-19. Methods and analysis This is an exploratory, multicentre, open-label, randomised controlled trial. This study was initiated in May 2021 and will end in July 2022. Patients with mild COVID-19 pneumonia who do not require oxygen administration will be enrolled and randomly assigned in a 1:1:1 ratio to group A (administration of clarithromycin 800 mg/day), group B (administration of clarithromycin 400 mg/day) or group C (standard treatment without clarithromycin). The planned number of enrolled patients is 60 (20 patients \u00d7 three groups). The primary endpoint is the number of days required to improve the clinical symptoms as measured by the severity score. Secondary endpoints include days for recovery of the body temperature, proportion of patients with oxygen administration, inflammatory cytokines, viral load, serum immunoglobulins, peripheral blood lymphocytes, blood biomarkers and pneumonia infiltrations. Ethics and dissemination The study protocol was approved by the Clinical Research Review Board of Nagasaki University in accordance with the Clinical Trials Act in Japan. The study will be conducted in accordance with the Declaration of Helsinki, the Clinical Trials Act and other current legal regulations in Japan. Written informed consent will be obtained from all the participants. The results of this study will be reported as journal publications. Trial registration number jRCTs071210011. COVID-19 respiratory infections respiratory medicine (see thoracic medicine) Taisho Pharmaceutical Co., Ltd special-feature unlocked Strengths and limitations of this study This is the first randomised controlled trial to evaluate the efficacy of clarithromycin in COVID-19 pneumonia, especially in patients with mild COVID-19 pneumonia who do not require oxygen administration. The results of this study could contribute to the development of new treatment strategies for COVID-19 pneumonia. The major limitations of this study are its exploratory nature and relatively small sample size. Another limitation is the open-label study design and generalisability since this study is conducted only in Japan in Japanese patients. Introduction The COVID-19 pandemic is currently a major concern worldwide. In Japan, a cumulative of 932 361 PCR test-positive cases have been confirmed, and 15 190 deaths were reported by the Ministry of Health, Labour and Welfare in Japan as of 1 August 2021. 1 Approximately 5% of the patients with COVID-19 were hospitalised, 1.6% had severe symptoms requiring intensive care and 1.0% died in Japan. 2 Recently, dexamethasone and remdesivir have been used as standard treatments for patients with moderate-to-severe COVID-19 who require respiratory support, 3\u20135 and the monoclonal antibody therapy, such as casirivimab/imdevimab antibody cocktail, have been demonstrated as effective for mild to moderate COVID-19. 6\u20138 However, these treatments require intravenous drip infusion, and no oral medical treatment has been established for mild COVID-19, which accounts for the majority (approximately 80%) of patients with COVID-19. The mechanism of exacerbation in COVID-19 has been reported to correlate with dysregulation of the immune response, resulting in exaggerated inflammation to produce excessive cytokines (the so-called cytokine storm). 9 Indeed, infection with the SARS-CoV-2 induces high expression of inflammatory cytokines, such as granulocyte macrophage colony-stimulating factor and interleukin-6 (IL-6), thereby accelerating the inflammation. 10 Therefore, suppression of inflammatory cytokines is an important target for preventing the exacerbation of COVID-19. This is supported by the evidence that tocilizumab, an antihuman IL-6 receptor monoclonal antibody that inhibits IL-6 signalling, and dexamethasone, anti-inflammatory and immunosuppressing steroid, reduced risk of mortality and exacerbation that required ventilation. 11\u201313 Clarithromycin is a macrolide antibiotic that has been widely used as a monotherapy for bacterial respiratory infectious diseases. Clarithromycin has also been used as a standard combination therapy with beta-lactam antibiotics for severe community-acquired pneumonia, 14 owing to its ability to suppress inflammatory cytokines. 15 16 Viral respiratory diseases, such as influenza, are not an exception in the mechanism of exacerbation, and combination therapy with clarithromycin and antiviral agents demonstrated clinical efficacy in influenza A infection. 17 18 Considering the use of macrolides for COVID-19, evidence in the efficacy of azithromycin to COVID-19 is controversial; some reported the beneficial effect of azithromycin on COVID-19, 19 20 while others reported no benefit in patients with COVID-19. 21\u201323 Clarithromycin may have several advantages over azithromycin. First, clarithromycin is well tolerated, with even lower frequency of adverse events (AEs)/side effects compared with azithromycin. 24 25 Second, dose of clarithromycin can be adjusted based on patients\u2019 age, weight and symptoms by using a tablet of 200 mg in Japan. Third, clarithromycin and azithromycin affect differently to suppress immune cells and inflammatory cytokine production, 26 27 and to inhibit NF-\u03baB activation. 28 Together with these, clarithromycin is a good candidate for alleviating symptoms and preventing the exacerbation of COVID-19 by suppressing inflammatory cytokines and could be safely used in patients with COVID-19. This trial is planned to estimate the efficacy of clarithromycin in patients with mild COVID-19 pneumonia who do not require oxygen administration.",
+    "document_source_id": "34548368",
+    "analysis_date": "2025-12-09",
+    "extracted_data": {
+      "document_summary": "This document describes the protocol for an exploratory, multicenter, open-label, randomized controlled trial (CAME COVID-19 study) evaluating the efficacy of clarithromycin (400 mg/day or 800 mg/day) as an oral treatment for Japanese adult patients with mild COVID-19 pneumonia who do not require oxygen administration. The study aims to identify a new treatment strategy for mild COVID-19 and determine the number of days required to achieve a 50% or more improvement in clinical symptoms.",
+      "treatment_details": {
+        "therapy_type": "Clarithromycin",
+        "dose_specificity": "Oral administration of clarithromycin is investigated in two dosage groups (800 mg/day, given as 400 mg twice daily, and 400 mg/day, given as 200 mg twice daily for 7 days) compared to a standard treatment control group. Patients are randomized in a 1:1:1 ratio, allowing for dose comparisons. Dose adjustment based on patient age, weight, and symptoms is possible. The doses are approved for other bacterial respiratory infections in Japan, and their safety is confirmed, but this is an exploratory trial as no prior dose-response data for COVID-19 pneumonia were available."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "Inflammatory cytokines (e.g., Granulocyte macrophage colony-stimulating factor (GM-CSF), Interleukin-6 (IL-6))",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher (due to SARS-CoV-2 infection) and expected to be lower (with clarithromycin treatment)",
+            "magnitude_quantification": "High expression induced by SARS-CoV-2 infection, accelerating inflammation. Clarithromycin is known to suppress cytokine storms and inflammatory cytokines. No specific quantitative data provided in this document."
+          },
+          "core_biological_function": "Mediates inflammation; contributes to dysregulation of the immune response, leading to exaggerated inflammation and cytokine storms.",
+          "relevant_activity_context": "SARS-CoV-2 infection, and Clarithromycin administration in viral respiratory diseases including the expected effect in mild COVID-19.",
+          "performance_or_health_indicator": "Elevated levels correlate with exacerbation of COVID-19. Suppression of these cytokines is an important target for preventing exacerbation and is expected to alleviate symptoms."
+        },
+        {
+          "biomarker_name": "Percutaneous oxygen saturation (SpO2)",
+          "measured_tissue_or_fluid": "Body",
+          "activity_type": "Physiological Measurement",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "Measures oxygen levels in arterial blood, reflecting respiratory function.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Indicator of respiratory function and COVID-19 severity."
+        },
+        {
+          "biomarker_name": "Body temperature",
+          "measured_tissue_or_fluid": "Body",
+          "activity_type": "Physiological Measurement",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "Regulation of the body's internal temperature.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Indicator of fever, inflammation, and recovery from COVID-19."
+        },
+        {
+          "biomarker_name": "Systolic blood pressure",
+          "measured_tissue_or_fluid": "Body",
+          "activity_type": "Physiological Measurement",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "Represents the pressure in arteries during heart contraction.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Indicator of cardiovascular health and general physiological status."
+        },
+        {
+          "biomarker_name": "Diastolic blood pressure",
+          "measured_tissue_or_fluid": "Body",
+          "activity_type": "Physiological Measurement",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "Represents the pressure in arteries when the heart rests between beats.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Indicator of cardiovascular health and general physiological status."
+        },
+        {
+          "biomarker_name": "Pulse",
+          "measured_tissue_or_fluid": "Body",
+          "activity_type": "Physiological Measurement",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "Reflects heart rate and rhythm.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Indicator of cardiovascular status and overall physiological response to illness."
+        },
+        {
+          "biomarker_name": "Frequency of breath",
+          "measured_tissue_or_fluid": "Body",
+          "activity_type": "Physiological Measurement",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "Reflects respiratory rate.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Indicator of respiratory distress or recovery from pneumonia."
+        },
+        {
+          "biomarker_name": "Red blood cell",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Cell Count",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "Primary function is oxygen transport throughout the body.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Indicator of anemia, erythrocytosis, or general hematological health."
+        },
+        {
+          "biomarker_name": "Haemoglobin",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "Iron-containing protein in red blood cells that carries oxygen.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Indicator of the blood's oxygen-carrying capacity and anemia."
+        },
+        {
+          "biomarker_name": "Haematocrit",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Volume Percentage",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "The proportion of blood volume occupied by red blood cells.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Indicator of red blood cell concentration, anemia, or dehydration."
+        },
+        {
+          "biomarker_name": "White cell count",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Cell Count",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "Integral part of the immune system, involved in fighting infections and inflammation.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Indicator of infection, inflammation, or immune suppression."
+        },
+        {
+          "biomarker_name": "Neutrophil",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Cell Count",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "A type of white blood cell, the primary responder to bacterial infection and acute inflammation.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Indicator of bacterial infection or acute inflammation; low levels (neutropenia) can indicate immune compromise."
+        },
+        {
+          "biomarker_name": "Lymphocyte",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Cell Count",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "A type of white blood cell, crucial for adaptive immunity and fighting viral infections.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Indicator of viral infection or immune status; lymphopenia is a common feature in COVID-19 patients."
+        },
+        {
+          "biomarker_name": "Eosinophil",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Cell Count",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "A type of white blood cell, primarily involved in allergic reactions and parasitic infections.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Indicator of allergic reactions or parasitic infections."
+        },
+        {
+          "biomarker_name": "Monocyte",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Cell Count",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "A type of white blood cell that differentiates into macrophages and dendritic cells, involved in chronic inflammation and antigen presentation.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Indicator of chronic inflammation, infection, or immune response."
+        },
+        {
+          "biomarker_name": "Basophil",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Cell Count",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "A type of white blood cell, involved in allergic and inflammatory reactions.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Indicator of allergic reactions or inflammatory conditions."
+        },
+        {
+          "biomarker_name": "Platelet",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Cell Count",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "Cell fragments involved in blood clotting (hemostasis).",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Indicator of bleeding risk or thrombotic tendencies, relevant in COVID-19 associated coagulopathy."
+        },
+        {
+          "biomarker_name": "Total bilirubin",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Concentration",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "A product of heme breakdown, metabolized by the liver.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Indicator of liver dysfunction or hemolysis."
+        },
+        {
+          "biomarker_name": "Aspartate aminotransferase (AST)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Enzyme Activity",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "An enzyme found in the liver, heart, muscle, and kidney; elevated levels indicate tissue damage.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Indicator of liver or muscle damage; relevant for monitoring potential drug toxicity or disease impact."
+        },
+        {
+          "biomarker_name": "Alanine aminotransferase (ALT)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Enzyme Activity",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "An enzyme primarily found in the liver; elevated levels specifically indicate liver damage.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Indicator of liver damage; relevant for monitoring potential drug toxicity or disease impact."
+        },
+        {
+          "biomarker_name": "Alkaline phosphatase",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Enzyme Activity",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "An enzyme found in the liver, bone, kidney, and intestines; elevated levels indicate liver or bone disorders.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Indicator of liver or bone disease, relevant for monitoring general health."
+        },
+        {
+          "biomarker_name": "Gamma-guanosine triphosphate (GGT)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Enzyme Activity",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "An enzyme mainly found in the liver; an indicator of liver and bile duct disease.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Indicator of liver or bile duct damage, relevant for monitoring general health."
+        },
+        {
+          "biomarker_name": "Total cholesterol",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Concentration",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "A lipid essential for cell membranes and hormone production.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Indicator of cardiovascular risk and general metabolic status."
+        },
+        {
+          "biomarker_name": "Total protein",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Concentration",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "Overall measure of proteins in blood plasma, including albumin and globulins.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Indicator of nutritional status, liver or kidney disease."
+        },
+        {
+          "biomarker_name": "Albumin",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "Major protein in blood plasma, maintains osmotic pressure and transports substances.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Indicator of liver function, nutritional status, and fluid balance; often reduced in severe inflammation."
+        },
+        {
+          "biomarker_name": "Blood urea nitrogen (BUN)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Concentration",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "A waste product from protein metabolism, excreted by the kidneys.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Indicator of kidney function and hydration status."
+        },
+        {
+          "biomarker_name": "Creatinine-estimated glomerular filtration rate (eGFR)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Calculated Rate",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "A measure of how well the kidneys filter blood.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Key indicator of kidney function and chronic kidney disease."
+        },
+        {
+          "biomarker_name": "Lactate dehydrogenase (LDH)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Enzyme Activity",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "An enzyme found in almost all body tissues; elevated levels indicate tissue damage.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Indicator of cell damage or breakdown, including lung injury in COVID-19."
+        },
+        {
+          "biomarker_name": "Creatine phosphokinase (CPK)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Enzyme Activity",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "An enzyme primarily found in muscle (skeletal and cardiac) and brain; elevated levels indicate muscle damage.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Indicator of muscle damage, including cardiac injury."
+        },
+        {
+          "biomarker_name": "Brain natriuretic peptide (BNP)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Hormone Concentration",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "A hormone released by the heart in response to stretching, indicating heart stress.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Indicator of heart failure or cardiac strain."
+        },
+        {
+          "biomarker_name": "Troponin T",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "A protein found in heart muscle; released into the blood when heart muscle is damaged.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Highly specific indicator of cardiac muscle damage, such as myocarditis or myocardial infarction."
+        },
+        {
+          "biomarker_name": "C reactive protein (CRP)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "An acute phase reactant, produced by the liver in response to inflammation.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "General marker of inflammation and infection severity, often elevated in COVID-19."
+        },
+        {
+          "biomarker_name": "Procalcitonin",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "A precursor of calcitonin, elevated in bacterial infections and sepsis.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Marker for bacterial infections and sepsis, helps differentiate bacterial from viral infections."
+        },
+        {
+          "biomarker_name": "Ferritin",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "An iron storage protein and an acute phase reactant.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Indicator of iron status, inflammation, and severity of hyperinflammatory syndromes like cytokine storm in COVID-19."
+        },
+        {
+          "biomarker_name": "Na",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Electrolyte Concentration",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "An essential electrolyte, crucial for fluid balance, nerve and muscle function.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Indicator of fluid and electrolyte balance, general physiological status."
+        },
+        {
+          "biomarker_name": "pH",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Chemical Measurement",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "Measure of acidity or alkalinity in the blood.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Indicator of acid-base balance in the body, which can be disrupted by severe illness."
+        },
+        {
+          "biomarker_name": "Haemoglobin A1c (HbA1c)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Glycated Protein Level",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "Reflects average blood glucose levels over 2-3 months.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Indicator of long-term blood glucose control and diabetes management."
+        },
+        {
+          "biomarker_name": "Glucose",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Sugar Concentration",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "Primary energy source for the body's cells.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Indicator of current blood sugar levels, relevant for diabetes and metabolic stress."
+        },
+        {
+          "biomarker_name": "Prothrombin time (PT)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Coagulation Time",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "Measures the time for blood plasma to clot, evaluating the extrinsic and common coagulation pathways.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Indicator of blood clotting ability, liver function, and vitamin K status."
+        },
+        {
+          "biomarker_name": "Activated partial thromboplastin time (aPTT)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Coagulation Time",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "Measures the time for blood plasma to clot, evaluating the intrinsic and common coagulation pathways.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Indicator of blood clotting ability, relevant for monitoring anticoagulant therapy."
+        },
+        {
+          "biomarker_name": "D-dimer",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Fibrin Degradation Product Level",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "A product of fibrin degradation, indicating clot formation and breakdown.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Marker for thrombosis (blood clots) and severity of COVID-19 coagulopathy."
+        },
+        {
+          "biomarker_name": "SARS-CoV-2",
+          "measured_tissue_or_fluid": "Nasopharyngeal Swab",
+          "activity_type": "Viral RNA Detection (PCR)",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "Detection of the genetic material of the SARS-CoV-2 virus, which causes COVID-19.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Confirms presence of infection and can indicate viral load reduction or clearance."
+        },
+        {
+          "biomarker_name": "Interleukin (IL)-1beta",
+          "measured_tissue_or_fluid": "Nasal Drip",
+          "activity_type": "Cytokine Level",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "A pro-inflammatory cytokine that mediates immune response and inflammation.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Marker of local inflammation and immune response in COVID-19, particularly respiratory tract inflammation."
+        },
+        {
+          "biomarker_name": "IL-6",
+          "measured_tissue_or_fluid": "Nasal Drip",
+          "activity_type": "Cytokine Level",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "A pro-inflammatory cytokine involved in the acute phase response and immune regulation.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Key marker of inflammation and cytokine storm in COVID-19, often correlated with disease severity."
+        },
+        {
+          "biomarker_name": "IL-8",
+          "measured_tissue_or_fluid": "Nasal Drip",
+          "activity_type": "Chemokine Level",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "A chemokine that recruits neutrophils to sites of inflammation.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Marker of inflammation, particularly neutrophil recruitment in lung injury."
+        },
+        {
+          "biomarker_name": "IL-10",
+          "measured_tissue_or_fluid": "Nasal Drip",
+          "activity_type": "Cytokine Level",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "An anti-inflammatory cytokine that regulates immune response to prevent excessive inflammation.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Marker of immune regulation and the body's attempt to dampen inflammation."
+        },
+        {
+          "biomarker_name": "IL-17",
+          "measured_tissue_or_fluid": "Nasal Drip",
+          "activity_type": "Cytokine Level",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "A pro-inflammatory cytokine involved in host defense against pathogens and in autoimmune diseases.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Marker of specific immune responses and inflammation."
+        },
+        {
+          "biomarker_name": "Tumour necrosis factor-alpha (TNF-alpha)",
+          "measured_tissue_or_fluid": "Nasal Drip",
+          "activity_type": "Cytokine Level",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "A pro-inflammatory cytokine that plays a central role in inflammation and immune regulation.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Marker of inflammation, can contribute to systemic inflammation and organ damage in severe COVID-19."
+        },
+        {
+          "biomarker_name": "Interferon-gamma (IFN-gamma)",
+          "measured_tissue_or_fluid": "Nasal Drip",
+          "activity_type": "Cytokine Level",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "A critical cytokine for innate and adaptive immunity against viral and intracellular bacterial infections.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Marker of antiviral immune response and T-cell activation."
+        },
+        {
+          "biomarker_name": "Beta-defensin",
+          "measured_tissue_or_fluid": "Nasal Drip",
+          "activity_type": "Antimicrobial Peptide Level",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "Antimicrobial peptides, part of the innate immune defense, primarily against bacteria.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Indicator of innate immune defense in the respiratory tract."
+        },
+        {
+          "biomarker_name": "Granulocyte-macrophage colony-stimulating factor (GM-CSF)",
+          "measured_tissue_or_fluid": "Nasal Drip",
+          "activity_type": "Cytokine Level",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "A cytokine that promotes the production and differentiation of granulocytes and macrophages.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Marker of immune cell activation and inflammatory responses, potentially contributing to lung pathology in COVID-19."
+        },
+        {
+          "biomarker_name": "Immunoglobulin A (IgA)",
+          "measured_tissue_or_fluid": "Nasal Drip",
+          "activity_type": "Antibody Level",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "The primary antibody found in mucous secretions, important for mucosal immunity.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Indicator of local mucosal immune response to SARS-CoV-2 in the respiratory tract."
+        },
+        {
+          "biomarker_name": "Cytokines (general)",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Cytokine Level",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "Signaling proteins that mediate and regulate immunity, inflammation, and hematopoiesis.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "General indicator of systemic inflammation and immune response in COVID-19."
+        },
+        {
+          "biomarker_name": "Chemokines (general)",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Chemokine Level",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "Signaling proteins that guide the migration of immune cells to sites of infection or inflammation.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "General indicator of immune cell recruitment and systemic inflammatory processes in COVID-19."
+        },
+        {
+          "biomarker_name": "IL-33",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Cytokine Level",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "An 'alarmin' cytokine, released from damaged cells to promote immune responses, often associated with type 2 immunity and inflammation.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Marker of tissue damage and immune activation, potentially relevant in lung inflammation associated with COVID-19."
+        },
+        {
+          "biomarker_name": "Immunoglobulin M (IgM)",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Antibody Level",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "The first antibody produced during a primary immune response, indicating acute or recent infection.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Indicator of acute or recent SARS-CoV-2 infection."
+        },
+        {
+          "biomarker_name": "Immunoglobulin G (IgG)",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Antibody Level",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "The main antibody in blood, providing long-term immunity and indicating past or ongoing infection.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Indicator of past or ongoing SARS-CoV-2 infection and development of adaptive immunity."
+        },
+        {
+          "biomarker_name": "Immunoglobulin A (IgA)",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Antibody Level",
+          "measured_effect": {
+            "direction_of_change": "To be determined by study outcomes; this is a protocol.",
+            "magnitude_quantification": "Not applicable as this is a study protocol outlining planned measurements; no results are reported."
+          },
+          "core_biological_function": "Systemic antibody, involved in general immune response.",
+          "relevant_activity_context": "Clarithromycin treatment for mild COVID-19 pneumonia.",
+          "performance_or_health_indicator": "Indicator of systemic immune response to SARS-CoV-2."
+        }
+      ]
+    }
+  }
+]

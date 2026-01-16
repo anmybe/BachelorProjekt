@@ -1,0 +1,196 @@
+[
+  {
+    "title": "J Cell Mol Med J. Cell. Mol. Med 10.1111/(ISSN)1582-4934 JCMM Journal of Cellular and Molecular Medicine 1582-1838 1582-4934 John Wiley and Sons Inc. Hoboken 5661250 10.1111/jcmm.13211 JCMM13211 Original Article Original Articles Extracellular vesicles do not contribute to higher circulating levels of soluble LRP 1 in idiopathic dilated cardiomyopathy Roura Santiago http://orcid.org/0000-0003-4063-9661 1 2 3 G\u00e1lvez\u2010Mont\u00f3n Carolina 1 3 de Gonzalo\u2010Calvo David 3 4 Valero Ana G\u00e1mez 5 Gastelurrutia Paloma 1 3 Revuelta\u2010L\u00f3pez Elena 1 Prat\u2010Vidal Cristina 1 3 Soler\u2010Botija Carolina 1 3 Lluci\u00e0\u2010Valldeperas Aida 1 Perea\u2010Gil Isaac 1 Iborra\u2010Egea Oriol 1 Borr\u00e0s Francesc E. 5 6 Lup\u00f3n Josep 3 7 8 Llorente\u2010Cort\u00e9s Vicenta cllorente@csic-iccc.org 3 4 9 Bayes\u2010Genis Antoni abayes.germanstrias@gencat.cat 1 3 7 8 1 Heart Failure and Cardiac Regeneration (ICREC) Research Program Health Science Research Institute Germans Trias i Pujol (IGTP) Badalona Spain 2 Center of Regenerative Medicine in Barcelona Barcelona Spain 3 CIBERCV Instituto de Salud Carlos III Madrid Spain 4 Cardiovascular Research Center CSIC\u2010ICCC IIB\u2010Sant Pau Hospital de la Santa Creu i Sant Pau Barcelona Spain 5 Innovation in Vesicles and Cells for Application in Therapy Group IGTP Badalona Spain 6 Nephrology Service Germans Trias i Pujol University Hospital (HUGTiP) Badalona Spain 7 Cardiology Service HUGTiP Badalona Spain 8 Department of Medicine Barcelona Autonomous University (UAB) Barcelona Spain 9 Institute of Biomedical Research of Barcelona (IIBB) Spanish National Research Council (CSIC) Barcelona Spain * Correspondence to: Dr. Antoni BAYES\u2010GENIS E\u2010mail: abayes.germanstrias@gencat.cat Dra. Vicenta LLORENTE\u2010CORT\u00c9S E\u2010mail: cllorente@csic-iccc.org 29 5 2017 11 2017 21 11 10.1111/jcmm.2017.21.issue-11 3000 3009 20 12 2016 28 2 2017 \u00a9 2017 The Authors. Journal of Cellular and Molecular Medicine published by John Wiley & Sons Ltd and Foundation for Cellular and Molecular Medicine. This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited. Abstract Idiopathic dilated cardiomyopathy ( IDCM ) is a frequent cause of heart transplantation. Potentially valuable blood markers are being sought, and low\u2010density lipoprotein receptor\u2010related protein 1 ( LRP 1) has been linked to the underlying molecular basis of the disease. This study compared circulating levels of soluble LRP 1 ( sLRP 1) in IDCM patients and healthy controls and elucidated whether sLRP 1 is exported out of the myocardium through extracellular vesicles ( EV s) to gain a better understanding of the pathogenesis of the disease. LRP 1 \u03b1 chain expression was analysed in samples collected from the left ventricles of explanted hearts using immunohistochemistry. sLRP 1 concentrations were determined in platelet\u2010free plasma by enzyme\u2010linked immunosorbent assay. Plasma\u2010derived EV s were extracted by size\u2010exclusion chromatography ( SEC ) and characterized by nanoparticle tracking analysis and cryo\u2010transmission electron microscopy. The distributions of vesicular ( CD 9, CD 81) and myocardial (caveolin\u20103) proteins and LRP 1 \u03b1 chain were assessed in SEC fractions by flow cytometry. LRP 1 \u03b1 chain was preferably localized to blood vessels in IDCM compared to control myocardium. Circulating sLRP 1 was increased in IDCM patients. CD 9\u2010 and CD 81\u2010positive fractions enriched with membrane vesicles with the expected size and morphology were isolated from both groups. The LRP 1 \u03b1 chain was not present in these SEC fractions, which were also positive for caveolin\u20103. The increase in circulating sLRP 1 in IDCM patients may be clinically valuable. Although EV s do not contribute to higher sLRP 1 levels in IDCM , a comprehensive analysis of EV content would provide further insights into the search for novel blood markers. biomarker idiopathic dilated cardiomyopathy extracellular vesicles sLRP 1 size\u2010exclusion chromatography Ministerio de Educaci\u00f3n y Ciencia SAF2014\u201059892\u2010R Ministerio de Econom\u00eda y Competitividad JCI\u20102012\u201014025 Fundaci\u00f3 La MARAT\u00d3 de TV3 201502 201516 201521_10 Fundaci\u00f3 Daniel Bravo Andreu Sociedad Espa\u00f1ola de Cardiolog\u00eda Societat Catalana de Cardiologia Generalitat de Catalunya (SGR 2014, CERCA Programme) Fundaci\u00f3 Banc\u00e0ria La Caixa Red de Terapia Celular \u2013 TerCel RD16/0011/0006 CIBER Cardiovascular CB16/11/00403 Fondo de Investigaci\u00f3n Sanitaria Instituto de Salud Carlos III FIS PI14/01682 FIS PI14/01729 CD14/00109 ISCIII\u2010Sudirecci\u00f3n General de Evaluaci\u00f3n y el Fondo Europeo de Desarrollo Regional (FEDER) source-schema-version-number 2.0 component-id jcmm13211 cover-date November 2017 details-of-publishers-convertor Converter:WILEY_ML3GV2_TO_NLMPMC version:5.2.1 mode:remove_FC converted:30.10.2017 Introduction Dilated cardiomyopathy (DCM) is the most common cause of non\u2010ischaemic heart failure leading to heart transplantation 1 . In the majority of cases, the primary cause is unknown, giving rise to the term idiopathic dilated cardiomyopathy (IDCM). The most relevant pathological and clinical traits include patchy interstitial fibrosis, degenerated cardiomyocytes, marked cardiac endothelial deficits, ventricular chamber enlargement or dilatation, systolic dysfunction with normal left ventricular (LV) wall thickness, progressive LV contractile dysfunction, ventricular and supraventricular arrhythmias, thromboembolism and sudden death 2 , 3 , 4 , 5 . Biomarkers are indicators of variation in normal and pathological processes that are objectively measurable in biological systems or samples 6 . As such they are becoming clinically helpful for assessing survival time, as predictive tools in testing safety, toxicity and therapeutic efficacy, for following disease progression, and to avoid redundant treatments and related toxicities. The search for reliable blood markers is ongoing in IDCM 7 . In this context, a variety of biomarkers in distinct categories (myocyte stress and stretch, myocyte apoptosis, cardiac interstitium, inflammation, oxidative stress, cardiac energetics, neurohormones and renal biomarkers) have been linked to heart failure, but only natriuretic peptides have been routinely adopted 8 , 9 . However, others, including high\u2010sensitivity troponin T and ST2, are currently being introduced into clinical practice 10 , 11 , 12 . Low\u2010density lipoprotein (LDL) receptor\u2010related protein 1 (LRP1) is a multifunctional receptor of the LDL receptor family that mediates the clearance of a variety of structurally diverse extracellular molecules 13 . LRP1 has a soluble form (sLRP1) 14 , 15 , 16 , which can be detected in the systemic circulation and other biofluids 17 , 18 , 19 . sLRP1 is composed of the \u03b1 chain and a ~55\u2010kDa fragment of the \u03b2 chain and is generated by endoproteolysis of the membrane \u03b2 chain segment 18 , 20 . Recently, increased circulating sLRP1 levels have been associated with severe hypercholesterolaemia 14 and epicardial adipose tissue 21 . Thus, we sought to determine the myocardial expression and localization of the LRP1 \u03b1 chain and whether it preferentially binds vessels in IDCM compared to control myocardium. We then compared circulating levels of sLRP1 in plasma samples from IDCM patients and healthy controls. Finally, we explored whether sLRP1 is exported out of the myocardium via extracellular vesicles (EVs). Materials and methods Study population Blood collection and plasma processing Twenty IDCM patients from a multidisciplinary heart failure clinic and 15 age\u2010 and sex\u2010matched healthy controls with no cardiovascular disorders were enrolled for peripheral venous blood extraction. All laboratory measurements were performed by experienced staff blinded to the patients' clinical characteristics. The main demographic and clinical characteristics of the patients are summarized in Table 1 . In particular, all patients were selected in an ambulatory setting, and no one received cathecolamine infusion close to the inclusion in the study. IDCM was diagnosed by 2D echocardiography by standard methods. Left ventricular (LV) ejection fraction was calculated by the Simpson method using 2C and 4C views. Coronary angiography was performed in the need for diagnosis of exclusion. Fourteen of the 20 patients had coronary angiography. No coronary lesions were found in 12 of them, and one single vessel disease, not considered causative of the dilated cardiomyopathy, was found in two patients. The other six patients without coronary angiography had absence of coronary symptoms and cardiac SPECT or cardiac RN negative for ischaemic heart disease or null suspicion of associated coronary disease. The duration of heart failure was 68.3 \u00b1 60 months, median 40.6 (Q1\u2013Q3 20.3\u2013113.6). Also, none of the patients in the study underwent heart transplantation along follow\u2010up, and there were just two women included with ages of 50 and 61 years. The study protocol was approved by the Clinical Research Ethics Committee of our institution and conformed to the principles outlined in the Declaration of Helsinki. Written informed consent was obtained from each participant. Peripheral blood was collected following standard procedures that minimize contamination by platelet\u2010derived vesicles 22 . Isolated platelet\u2010free plasma samples were frozen at \u221280\u00b0C until used in enzyme\u2010linked immunosorbent assays (ELISA) and purification of EVs. Autopsy material Full\u2010thickness left ventricle (LV) collected from explanted IDCM hearts ( n = 9) and control hearts from non\u2010cardiac decedents ( n = 5) were used for histomorphological analysis 4 , 23 , 24 . The demographic and clinical characteristics of patients were previously summarized in detail 24 . In brief, eligible IDCM criteria included non\u2010ischaemic origin, NYHA class II or higher, LV end\u2010diastolic diameter \u226570 mm and LV ejection fraction <25%, and neither evidence of myocarditis nor family history of cardiomyopathy were reported. All patients were receiving medical treatment according to the guidelines of the European Society of Cardiology, with diuretics 89 %, angiotensin\u2010converting enzyme inhibitors 89 %, \u03b2\u2010blockers 45 %, aldosterone antagonists 55 %, digoxin 55 % and statins 45 %, and total cholesterol and triglycerides levels were 136.5 and 60.2 mg/dl, respectively. Non\u2010diseased hearts were mainly obtained from donors with neurological death caused by traffic accident. The hearts were initially considered for cardiac transplantation but were subsequently deemed unsuitable for transplantation either because of blood type or size incompatibility. All donors had normal LV function and no history of myocardial disease or active infection. Comparatively, the demographic and clinical characteristics of patients from whom blood and tissue samples were extracted were similar except for the LV ejection fraction which was more depressed (15\u201323.75%) in the myocardial tissue group as these patients were undergoing cardiac transplantation. All patients were also diagnosed with IDCM by the same criteria. Measuring sLRP1 levels sLRP1 levels were measured using a commercially available ELISA (Uscn Life Science Inc., Houston, TX) according to the manufacturer's instructions. The assay had a within\u2010 and between\u2010assay variation coefficient of <10% and 12%, respectively, and a limit of detection of 0.156 ng/ml. The assay showed no remarkable cross\u2010reactivity or interference between sLRP1 and analogues. Associations between sLRP1 concentration, blood lipid parameters, and clinical variables were then analysed. Extracellular vesicle isolation and characterization Extracellular vesicles isolation by size\u2010exclusion chromatography (SEC) has been widely reported (Appendix S1 ) 25 , 26 , 27 , 28 , 29 , 30 . The size distribution and concentration of plasma\u2010derived EVs were determined by nanoparticle tracking analysis (NTA) (Appendix S1 ). SEC\u2010purified fractions were also analysed for the presence of specific vesicular markers (CD9 and CD81) 25 , caveolin\u20103 and LRP1 \u03b1 chain by flow cytometry, as described previously (Appendix S1 ) 28 . Finally, SEC fractions with the highest mean fluorescence intensity (MFI) for exosomal markers on a FACS\u2010based assay were also selected for cryo\u2010electron microscopy 22 .",
+    "document_source_id": "28557183",
+    "analysis_date": "2025-12-09",
+    "extracted_data": {
+      "document_summary": "The study investigated LRP1 expression, circulating soluble LRP1 (sLRP1) levels, and myocardial lipid content in idiopathic dilated cardiomyopathy (IDCM) patients compared to healthy controls, and assessed the role of extracellular vesicles (EVs) in sLRP1 secretion. Key findings include increased circulating sLRP1, higher myocardial collagen and triglyceride content, and elevated LRP1 alpha chain expression in myocardial vessels of IDCM patients, with sLRP1 release found to be independent of the exosome pathway and not associated with blood lipid parameters.",
+      "treatment_details": {
+        "therapy_type": "Observational study investigating disease pathogenesis and biomarker identification in Idiopathic Dilated Cardiomyopathy (IDCM)",
+        "dose_specificity": "Observational and diagnostic study comparing IDCM patients (n=20 for plasma, n=9 for tissue) with age- and sex-matched healthy controls (n=15 for plasma, n=5 for tissue). Myocardial tissue samples were from explanted hearts. The study also included a comparison of hypercholesterolemic and normocholesterolemic patients. No therapeutic intervention or dose-response comparisons were conducted."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "sLRP1 (soluble low-density lipoprotein receptor-related protein 1)",
+          "measured_tissue_or_fluid": "Platelet-free plasma / Circulating blood/plasma",
+          "activity_type": "Protein Level / Concentration",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Qualitatively increased in IDCM patients; significantly higher levels in plasma from IDCM patients compared to controls (P = 0.034). Also significantly higher in patients with severe hypercholesterolemia than in patients with moderate hypercholesterolemia and normocholesterolemic controls. No significant association found between blood lipids and sLRP1 levels in the study's IDCM cohort (LDL cholesterol <190 mg/dl)."
+          },
+          "core_biological_function": "Soluble form of LRP1, a multifunctional receptor of the LDL receptor family that mediates the clearance of various extracellular molecules. Generated by endoproteolysis of the membrane \u03b2 chain segment. Antagonizes ligand endocytosis by cellular LRP1, preventing cellular clearance of MMPs; identified as a novel biomarker of epicardial adipose tissue.",
+          "relevant_activity_context": "Idiopathic Dilated Cardiomyopathy (IDCM) patients compared to healthy controls; severe hypercholesterolemia.",
+          "performance_or_health_indicator": "Potentially valuable blood marker for IDCM, clinically useful for assessing survival time, predicting safety/efficacy, and following disease progression. Associated with pro-atherogenic lipoproteins, potentially contributes to tissue remodeling in IDCM."
+        },
+        {
+          "biomarker_name": "LRP1 alpha chain",
+          "measured_tissue_or_fluid": "Left ventricles of explanted hearts (myocardium); Myocardial vessels; Myocardium (cardiac myocytes)",
+          "activity_type": "Protein Expression (Localization) / Protein expression / Protein Level (Expression)",
+          "measured_effect": {
+            "direction_of_change": "higher / preferably localized / unchanged / not present",
+            "magnitude_quantification": "Qualitatively, preferably localized to blood vessels in IDCM compared to control myocardium. Higher amounts of LRP1 \u03b1 chain were found in myocardium from IDCM patients compared to controls (P = 0.02); significantly promoted in myocardial vessels of IDCM patients. No statistical differences were found in myocardial levels within cardiac myocytes between IDCM and control hearts, where it agglutinated indistinctly. Qualitatively, LRP1 \u03b1 chain was not present in CD9- and CD81-positive SEC fractions from plasma-derived extracellular vesicles (P = 0.99)."
+          },
+          "core_biological_function": "Component/subunit of the LRP1 receptor, which mediates the clearance of various extracellular molecules, involved in complex cell-specific regulatory mechanisms, and potentially linked to tissue remodeling. Its presence/absence in EVs helps determine if EVs contribute to circulating sLRP1 levels.",
+          "relevant_activity_context": "Idiopathic Dilated Cardiomyopathy (IDCM) pathogenesis; myocardial expression, particularly in myocardial vasculature; contribution of extracellular vesicles to circulating sLRP1 levels in IDCM.",
+          "performance_or_health_indicator": "Provides insight into the underlying molecular basis of IDCM, indicating altered receptor expression and specific localization within the diseased myocardium, potentially contributing to disease pathophysiology and tissue remodeling. Its absence in EVs indicates that extracellular vesicles do not contribute to higher circulating sLRP1 levels in IDCM patients, which is relevant for understanding disease pathogenesis and identifying novel blood markers."
+        },
+        {
+          "biomarker_name": "Collagen (Col) volume fraction (CVF)",
+          "measured_tissue_or_fluid": "LV samples (myocardium)",
+          "activity_type": "Protein level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significant CVF accumulation was found in IDCM compared to control myocardium (P = 0.048)"
+          },
+          "core_biological_function": "Structural component of the extracellular matrix, mediates fibrosis.",
+          "relevant_activity_context": "Idiopathic Dilated Cardiomyopathy (IDCM)",
+          "performance_or_health_indicator": "Indicates fibrosis, a hallmark of failing hearts in IDCM."
+        },
+        {
+          "biomarker_name": "Collagen Type I (Col I)",
+          "measured_tissue_or_fluid": "LV samples (myocardium)",
+          "activity_type": "Protein level",
+          "measured_effect": {
+            "direction_of_change": "increased",
+            "magnitude_quantification": "Increased Col I amounts were also found in IDCM patients (P = 0.045)"
+          },
+          "core_biological_function": "Major structural component of the extracellular matrix, contributes to tissue stiffness and fibrosis.",
+          "relevant_activity_context": "Idiopathic Dilated Cardiomyopathy (IDCM)",
+          "performance_or_health_indicator": "Indicates fibrosis, a hallmark of failing hearts in IDCM."
+        },
+        {
+          "biomarker_name": "Collagen Type III (Col III)",
+          "measured_tissue_or_fluid": "LV samples (myocardium)",
+          "activity_type": "Protein level",
+          "measured_effect": {
+            "direction_of_change": "increased",
+            "magnitude_quantification": "Increased Col III amounts were also found in IDCM patients (P = 0.005)"
+          },
+          "core_biological_function": "Structural component of the extracellular matrix, often associated with early stages of fibrosis or more compliant tissues.",
+          "relevant_activity_context": "Idiopathic Dilated Cardiomyopathy (IDCM)",
+          "performance_or_health_indicator": "Indicates fibrosis, a hallmark of failing hearts in IDCM."
+        },
+        {
+          "biomarker_name": "Triglyceride (TG)",
+          "measured_tissue_or_fluid": "Myocardial tissue / Myocardium",
+          "activity_type": "Lipid content / Content/Level",
+          "measured_effect": {
+            "direction_of_change": "significantly increased / higher",
+            "magnitude_quantification": "TG content significantly increased in patients compared to controls (P = 0.026); higher in myocardium from IDCM patients than control subjects."
+          },
+          "core_biological_function": "Main form of fat storage, involved in energy metabolism; lipid storage, energy metabolism, component of myocardial filaments.",
+          "relevant_activity_context": "Idiopathic Dilated Cardiomyopathy (IDCM)",
+          "performance_or_health_indicator": "Indicates altered lipid metabolism or accumulation in the myocardium in IDCM. Characteristic hallmark of IDCM, indicative of metabolic dysfunctions including altered fatty acid uptake and oxidation in failing hearts."
+        },
+        {
+          "biomarker_name": "Cholesteryl ester (CE)",
+          "measured_tissue_or_fluid": "Myocardial tissue / Myocardium",
+          "activity_type": "Lipid content / Content/Level",
+          "measured_effect": {
+            "direction_of_change": "no differences / unchanged",
+            "magnitude_quantification": "No differences in CE amounts were found between the groups (P = 0.16); extremely low and similar to controls."
+          },
+          "core_biological_function": "Storage form of cholesterol; cholesterol storage, lipid metabolism, component of myocardial filaments.",
+          "relevant_activity_context": "Idiopathic Dilated Cardiomyopathy (IDCM)",
+          "performance_or_health_indicator": "Myocardial CE content does not change significantly in IDCM. Suggests extra- or intra-myocardial cholesterol is not directly related to higher sLRP1 release to the plasma of IDCM patients."
+        },
+        {
+          "biomarker_name": "Free cholesterol (FC)",
+          "measured_tissue_or_fluid": "Myocardial tissue",
+          "activity_type": "Lipid content",
+          "measured_effect": {
+            "direction_of_change": "no differences",
+            "magnitude_quantification": "No differences in FC amounts were found between the groups (P = 0.35)"
+          },
+          "core_biological_function": "Essential component of cell membranes and precursor for steroids.",
+          "relevant_activity_context": "Idiopathic Dilated Cardiomyopathy (IDCM)",
+          "performance_or_health_indicator": "Myocardial FC content does not change significantly in IDCM."
+        },
+        {
+          "biomarker_name": "Cholesterol",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Lipid concentration",
+          "measured_effect": {
+            "direction_of_change": "no association with sLRP1 levels",
+            "magnitude_quantification": "No association between sLRP1 levels and any of the lipid parameters, including cholesterol (r = 0.04, P = 0.87)"
+          },
+          "core_biological_function": "Essential lipid for cell membranes, steroid hormone production.",
+          "relevant_activity_context": "Idiopathic Dilated Cardiomyopathy (IDCM), correlation with circulating sLRP1.",
+          "performance_or_health_indicator": "Circulating sLRP1 levels are not correlated with blood cholesterol in IDCM patients."
+        },
+        {
+          "biomarker_name": "Triglycerides (TGs)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Lipid concentration",
+          "measured_effect": {
+            "direction_of_change": "no association with sLRP1 levels",
+            "magnitude_quantification": "No association between sLRP1 levels and any of the lipid parameters, including TGs (r = 0.15, P = 0.53)"
+          },
+          "core_biological_function": "Main form of fat storage, involved in energy metabolism.",
+          "relevant_activity_context": "Idiopathic Dilated Cardiomyopathy (IDCM), correlation with circulating sLRP1.",
+          "performance_or_health_indicator": "Circulating sLRP1 levels are not correlated with blood triglycerides in IDCM patients."
+        },
+        {
+          "biomarker_name": "HDL",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Lipid concentration",
+          "measured_effect": {
+            "direction_of_change": "no association with sLRP1 levels",
+            "magnitude_quantification": "No association between sLRP1 levels and any of the lipid parameters, including HDL (r = -0.11, P = 0.67)"
+          },
+          "core_biological_function": "High-density lipoprotein, involved in reverse cholesterol transport.",
+          "relevant_activity_context": "Idiopathic Dilated Cardiomyopathy (IDCM), correlation with circulating sLRP1.",
+          "performance_or_health_indicator": "Circulating sLRP1 levels are not correlated with blood HDL in IDCM patients."
+        },
+        {
+          "biomarker_name": "LDL",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Lipid concentration",
+          "measured_effect": {
+            "direction_of_change": "no association with sLRP1 levels",
+            "magnitude_quantification": "No association between sLRP1 levels and any of the lipid parameters, including LDL (r = 0.20, P = 0.47)"
+          },
+          "core_biological_function": "Low-density lipoprotein, transports cholesterol to cells.",
+          "relevant_activity_context": "Idiopathic Dilated Cardiomyopathy (IDCM), correlation with circulating sLRP1.",
+          "performance_or_health_indicator": "Circulating sLRP1 levels are not correlated with blood LDL in IDCM patients."
+        },
+        {
+          "biomarker_name": "CD9",
+          "measured_tissue_or_fluid": "Platelet-free plasma (SEC fractions)",
+          "activity_type": "Protein level",
+          "measured_effect": {
+            "direction_of_change": "no differences",
+            "magnitude_quantification": "No differences in the measured levels of these EV markers were found between groups (P = 0.43)"
+          },
+          "core_biological_function": "Tetraspanin, marker for extracellular vesicles (EVs).",
+          "relevant_activity_context": "Idiopathic Dilated Cardiomyopathy (IDCM), investigation of sLRP1 secretion via EVs.",
+          "performance_or_health_indicator": "EV marker levels are unchanged, suggesting sLRP1 is not secreted via the exosome pathway in IDCM."
+        },
+        {
+          "biomarker_name": "CD81",
+          "measured_tissue_or_fluid": "Platelet-free plasma (SEC fractions)",
+          "activity_type": "Protein level",
+          "measured_effect": {
+            "direction_of_change": "no differences",
+            "magnitude_quantification": "No differences in the measured levels of these EV markers were found between groups (P = 0.97)"
+          },
+          "core_biological_function": "Tetraspanin, marker for extracellular vesicles (EVs).",
+          "relevant_activity_context": "Idiopathic Dilated Cardiomyopathy (IDCM), investigation of sLRP1 secretion via EVs.",
+          "performance_or_health_indicator": "EV marker levels are unchanged, suggesting sLRP1 is not secreted via the exosome pathway in IDCM."
+        },
+        {
+          "biomarker_name": "Caveolin-3",
+          "measured_tissue_or_fluid": "Platelet-free plasma (EV-enriched SEC fractions)",
+          "activity_type": "Protein detection",
+          "measured_effect": {
+            "direction_of_change": "detected",
+            "magnitude_quantification": "The myocardial protein caveolin-3 was detected in these fractions"
+          },
+          "core_biological_function": "Structural component of caveolae, involved in signal transduction and membrane trafficking, known myocardial protein.",
+          "relevant_activity_context": "Idiopathic Dilated Cardiomyopathy (IDCM), investigation of sLRP1 secretion via EVs.",
+          "performance_or_health_indicator": "Detection in EV-enriched fractions confirms presence of myocardial components in EVs, but LRP1 alpha chain was not detected, which supports that sLRP1 is not secreted via EVs."
+        }
+      ]
+    }
+  }
+]

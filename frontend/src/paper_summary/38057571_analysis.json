@@ -1,0 +1,688 @@
+[
+  {
+    "title": "Animal studies show aging varies between individuals as well as between organs within an individual 1 \u2013 4 , but whether this is true in humans and its effect on age-related diseases is unknown. We utilized levels of human blood plasma proteins originating from specific organs to measure organ-specific aging differences in living individuals. Using machine learning models, we analysed aging in 11 major organs and estimated organ age reproducibly in five independent cohorts encompassing 5,676 adults across the human lifespan. We discovered nearly 20% of the population show strongly accelerated age in one organ and 1.7% are multi-organ agers. Accelerated organ aging confers 20\u201350% higher mortality risk, and organ-specific diseases relate to faster aging of those organs. We find individuals with accelerated heart aging have a 250% increased heart failure risk and accelerated brain and vascular aging predict Alzheimer\u2019s disease (AD) progression independently from and as strongly as plasma pTau-181 (ref. 5 ), the current best blood-based biomarker for AD. Our models link vascular calcification, extracellular matrix alterations and synaptic protein shedding to early cognitive decline. We introduce a simple and interpretable method to study organ aging using plasma proteomics data, predicting diseases and aging effects. Blood plasma protein data was combined with machine learning models for a simple method to determine differences in organ-specific aging; the study provides a basis for the prediction of diseases and aging effects using plasma proteomics. Subject terms Proteome informatics Prognostic markers Machine learning Diagnostic markers Predictive markers issue-copyright-statement \u00a9 Springer Nature Limited 2023 Main Aging results in organism-wide deterioration of tissue structure and function that drastically increases the risk of most chronic diseases. Comprehensive studies of the molecular changes that occur with aging across multiple organs in mice have identified unique molecular aging trajectories and timings 1 \u2013 4 , and susceptibility and resilience to diseases of aging in specific organs such as the brain, heart and kidney varies substantially across the population 6 . However, little is known about how human organs change molecularly with age. A molecular understanding of human organ aging is of critical importance to address the massive global disease burden of aging and could revolutionize patient care, preventative medicine and drug development 7 . In particular, preclinical studies have demonstrated that rejuvenating interventions affect organs differently 3 , 8 . To translate these studies into transformative medicines, we must be able to accurately measure aging across the body and understand the diversity of human aging not only across but also within individuals. While many methods to measure molecular aging in humans have been developed 9 \u2013 11 , most of them provide just a single measure of aging for the whole body. This is difficult to interpret given the complexity of human aging trajectories. Some recent methods have used clinical chemistry markers which include some markers of organ function 12 \u2013 15 . However, many of these markers have low organ specificity, making them difficult to interpret for organ-specific aging. Methods to measure brain aging have used MRI-based brain volume and functional connectivity measurements, which are costly and do not provide molecular insights 16 , or have required tissue samples, which prevents their application in living persons 17 . Building off the wealth of literature and clinical practice that uses certain organ-specific plasma proteins to noninvasively assess aspects of organ health, such as alanine transaminase for liver damage, we hypothesized that comprehensive quantification of organ-specific proteins in plasma could enable minimally invasive assessment and tracking of human aging for any organ. Plasma proteins can model organ aging To test this, we measured 4,979 proteins in a total of 5,676 subjects across five independent cohorts (Supplementary Table 1 ) and mapped the putative organ-specific plasma proteome, which we used to train models of organ aging (Fig. 1a ). We mapped the organ-specific plasma proteome using human organ bulk RNA sequencing (RNA-seq) data from the Genotype-Tissue Expression (GTEx) project 18 . We classified genes as \u2018organ enriched\u2019 if they were expressed at least four times higher in one organ compared to any other organ, according to the definition proposed in the Human Protein Atlas 19 (Extended Data Fig. 1 , Supplementary Tables 2 and 3 , and Methods ). We annotated the 4,979 human proteins measured by the SomaScan assay with this information and found 893 (18%) proteins met this definition, with the highest number from the brain. We performed additional quality control to remove proteins with a high coefficient of variation or a low correlation between the two different versions of the SomaScan assay present across our cohorts, leaving us with 4,778 proteins (856 organ enriched, 17.9%) which were used for downstream analysis (Supplementary Fig. 1 and Supplementary Tables 4 and 5 ). We and others have previously shown that plasma proteins can be used to train machine learning models to estimate chronological age in independent cohorts 20 , 21 . For each individual, an aging model produces an \u2018age gap\u2019, a measure of that individual\u2019s biological age relative to other same-aged peers based on their molecular profile 9 (Fig. 1a ). Several studies have shown associations between age gaps and mortality risk or other age-related phenotypes 9 , supporting the hypothesis that the age gap contains information about relative biological aging. Based on this concept, we trained a bagged ensemble of least absolute shrinkage and selection operator (LASSO) aging models for 11 major organs using the mutually exclusive organ-enriched proteins we identified as inputs (Fig. 1a , Extended Data Fig. 2a,b , Supplementary Fig. 3 and Supplementary Tables 6 \u2013 8 ). We chose to restrict our analyses to adipose tissue, artery, brain, heart, immune tissue, intestine, kidney, liver, lung, muscle and pancreas because of their relatively well-understood contributions to diseases of aging and the availability of relevant age-related phenotype data in the tested cohorts. We also trained an \u2018organismal\u2019 aging model using the 3,907 organ-nonspecific plasma proteins as inputs to compare the contribution of specific organs to an organ-shared aging signature, and a \u2018conventional\u2019 proteomic aging model using all 4,778 proteins to compare the organ aging models to a global plasma proteomic aging signature as previously reported 20 , 21 . We trained our models in 1,398 healthy participants from the Knight Alzheimer\u2019s Disease Research Center (Knight-ADRC) cohort (mean age = 75, age range = 27\u2013104) and then tested these models in four fully independent cohorts and in held-out test participants with dementia in the Knight-ADRC. (Fig. 1a , Extended Data Figs. 2 and 3 , and Supplementary Fig. 2 ). All 11 organ aging models and the organismal model significantly estimated age in all five cohorts after multiple test correction (Supplementary Fig. 3b ). Organ-specific proteins selected by our approach were highly enriched for organ-specific functions ( Supplementary Information ). We observed across all cohorts that individuals with the same conventional age gap had diverse organ aging profiles (Fig. 1b ). At the population level, this resulted in a low-to-moderate correlation between the age gaps of different organs (mean pairwise Pearson r = 0.29, Fig. 1c ). While organ aging is correlated, the majority of variance in one organ age gap is not explained by others, with the exception of the organismal and conventional age gaps which were highly correlated. Further, we observed that some individuals had extreme aging in one or more organs relative to the general population (Fig. 1d ). We scored individuals across all cohorts as outliers for a given organ age gap using a two standard deviation cutoff and clustered individuals into extreme aging types (e-ageotypes) (Fig. 1e and Extended Data Fig. 4a\u2013c ). Although it might be expected that extreme aging in one organ would co-occur with extreme aging in other organs, we instead observed segregation into distinct organ e-ageotypes. We found that approximately 18.4% of individuals had a highly organ-specific e-ageotype that was dominated by the aging of only one organ. Only approximately 1.7% of individuals showed extreme aging in multiple organs; the only multi-organ e-ageotype discovered through unbiased clustering was defined by extreme adipose, brain, conventional, heart, immune, liver and organismal age gaps. These observations suggest that organ age gaps may capture unique aging information, which may have implications for organ-specific biological aging and diseases of aging.",
+    "document_source_id": "38057571",
+    "analysis_date": "2025-12-10",
+    "extracted_data": {
+      "document_summary": "This comprehensive observational study utilized plasma proteomics and machine learning to develop and validate a framework for measuring organ-specific biological aging, termed 'e-ageotypes', in humans. Analyzing 4,778 proteins from 5,676 adults across five independent cohorts, the research revealed that accelerated aging in specific organs (including heart, brain, kidney, muscle, liver, adipose, pancreas, lung, and immune system) is significantly associated with higher risks of all-cause mortality and various age-related diseases, such as heart failure, Alzheimer's disease, hypertension, diabetes, and cognitive decline. The study's methodology involved defining 'extreme agers' (individuals with highly accelerated organ aging), clustering them into distinct ageotypes, and identifying key protein biomarkers (e.g., REN, KL, NPPB, TNNT2, CPLX1/2) that contribute to these aging profiles and offer prognostic utility for disease risk and progression.",
+      "treatment_details": {
+        "therapy_type": "Observational Study on Biological Aging via Plasma Proteomics and Machine Learning",
+        "dose_specificity": "This observational study involved the quantification of approximately 4,778 plasma proteins using SomaScan assays (v.4 and v.4.1) in 5,676 adults from five independent cohorts. Machine learning models (LASSO regression-based chronological age predictors) were developed and validated to estimate biological (organ-specific) age, referred to as 'age gaps' or 'e-ageotypes', for 11 major organs (adipose tissue, artery, brain, heart, immune tissue, intestine, kidney, liver, lung, muscle, and pancreas) and the whole organism. Models were trained on 1,398 healthy participants from the Knight-ADRC cohort and tested across the full cohort. Age gaps were calculated using local regression, z-scored per model and cohort, and adjusted for age and sex. Associations with various age-related phenotypes, future mortality, heart disease, clinical biochemistry markers, and cognitive decline were assessed using linear models or Cox proportional hazards models, with multiple testing correction (Benjamini-Hochberg method, 5% false discovery rate). No therapeutic intervention or dose comparison was performed."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "Accelerated organ aging profile (derived from plasma proteins)",
+          "measured_tissue_or_fluid": "Blood Plasma",
+          "activity_type": "Machine learning derived biological age estimation (based on protein levels)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Nearly 20% of the population show strongly accelerated age in one organ and 1.7% are multi-organ agers. A standard deviation increase (approximately four years of extra organ aging) in heart, adipose, liver, pancreas, brain, lung, immune or muscle age gap each conferred between 15\u201350% increased all-cause mortality risk."
+          },
+          "core_biological_function": "Reflects the rate of biological aging and deterioration of tissue structure and function in specific organs.",
+          "relevant_activity_context": "Human lifespan aging, assessed across 11 major organs; general aging and health status, all-cause mortality risk assessment.",
+          "performance_or_health_indicator": "Confers 20\u201350% higher mortality risk, and organ-specific diseases relate to faster aging of those organs; increased all-cause mortality risk."
+        },
+        {
+          "biomarker_name": "Accelerated heart aging (derived from plasma proteins) / Heart ageotype",
+          "measured_tissue_or_fluid": "Blood Plasma / Heart",
+          "activity_type": "Machine learning derived biological age estimation (based on protein levels) / Biological age measurement (e-ageotype calculation)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Associated with a 250% increased heart failure risk. Atrial fibrillation associated with 2.8 years older heart age; heart attack associated with 2.6 years older heart age. Every 4.1 years of additional heart age (one standard deviation) conferred an almost 2.5-fold increased risk of heart failure over a 15-year follow-up (23% increased risk per year of heart aging)."
+          },
+          "core_biological_function": "Indicates accelerated biological aging and potential dysfunction of the heart.",
+          "relevant_activity_context": "Human lifespan aging, specifically for the heart; association with age-related heart diseases (atrial fibrillation, heart attack, future heart failure risk).",
+          "performance_or_health_indicator": "Predicts a 250% increased heart failure risk; associated with increased risk of heart diseases and future heart failure."
+        },
+        {
+          "biomarker_name": "Accelerated brain and vascular aging (derived from plasma proteins) / Brain ageotype / CognitionBrain Age Gap",
+          "measured_tissue_or_fluid": "Blood Plasma / Systemic (derived from plasma proteins, reflecting brain aging)",
+          "activity_type": "Machine learning derived biological age estimation (based on protein levels) / Biological age measurement (e-ageotype calculation) / Predictive model (based on plasma proteins)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Predicts Alzheimer\u2019s disease (AD) progression as strongly as plasma pTau-181. Most significantly associated with cerebrovascular disease. Individuals with AD had approximately two years of additional CognitionBrain aging (P value meta = 9.23 \u00d7 10\u221236). A standard deviation increase conferred a 34% increased risk (P value meta = 1.03 \u00d7 10\u221215) of a clinically relevant two-point increase in CDR-SB within five years. Significantly predicted brain volume in multiple AD-sensitive regions. Had the highest adjusted hazard ratio (1.57; P = 8.95 \u00d7 10\u22123) for dementia progression among AD biomarkers. A standard deviation increase (approximately four years) in brain age gap conferred between 15-50% increased all-cause mortality risk."
+          },
+          "core_biological_function": "Reflects accelerated biological aging and potential dysfunction of the brain and vascular system; predicts molecular brain aging and brain aging phenotypes related to cognitive decline and Alzheimer's disease.",
+          "relevant_activity_context": "Human lifespan aging, specifically for the brain and vasculature; association with cerebrovascular disease and all-cause mortality; Alzheimer's Disease (AD) status, cognitive decline, dementia progression, brain volume changes; neurodegenerative diseases.",
+          "performance_or_health_indicator": "Predicts Alzheimer\u2019s disease (AD) progression independently from and as strongly as plasma pTau-181. Associated with increased risk of cerebrovascular disease and all-cause mortality. Stronger association with AD status, risk of future dementia progression, and brain volume changes in AD-sensitive regions. Provides molecular information about brain aging not captured by other approaches."
+        },
+        {
+          "biomarker_name": "Kidney ageotype/age gap",
+          "measured_tissue_or_fluid": "Kidney / Systemic (derived from plasma proteins, reflecting kidney aging)",
+          "activity_type": "Biological age measurement (e-ageotype calculation) / Predictive model (based on plasma proteins)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Individuals with hypertension had kidneys approximately one year older than same-aged peers; individuals with diabetes had kidneys approximately 1.3 years older. Most significantly associated with metabolic diseases (diabetes, obesity, hypercholesterolaemia, hypertension). Adjusted Pearson r = 0.23, q = 1.65 \u00d7 10\u221216 with serum creatinine; still significantly associated with hypertension and diabetes after eGFR correction."
+          },
+          "core_biological_function": "Indicator of accelerated kidney aging; reflects kidney function, predicts biological aging.",
+          "relevant_activity_context": "Association with age-related metabolic diseases (hypertension, diabetes, obesity, hypercholesterolaemia); general aging and kidney health status.",
+          "performance_or_health_indicator": "Associated with increased risk of metabolic diseases, kidney function (creatinine), hypertension, and diabetes."
+        },
+        {
+          "biomarker_name": "Muscle ageotype/age gap",
+          "measured_tissue_or_fluid": "Muscle",
+          "activity_type": "Biological age measurement (e-ageotype calculation)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Most significantly associated with gait impairment. A standard deviation increase (approximately four years) in muscle age gap conferred between 15-50% increased all-cause mortality risk."
+          },
+          "core_biological_function": "Indicator of accelerated muscle aging.",
+          "relevant_activity_context": "Association with gait impairment and all-cause mortality.",
+          "performance_or_health_indicator": "Associated with increased risk of gait impairment and all-cause mortality."
+        },
+        {
+          "biomarker_name": "Organismal ageotype/age gap / CognitionOrganismal Age Gap",
+          "measured_tissue_or_fluid": "Whole organism / Systemic (derived from plasma proteins, reflecting organismal aging)",
+          "activity_type": "Biological age measurement (e-ageotype calculation) / Predictive model (based on plasma proteins)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Most significantly associated with AD. The organismal model was significantly associated with future risk of all-cause mortality. Significantly associated with decreased cognitive function in cognitively normal individuals. Significantly predicted conversion to mild cognitive impairment (MCI) with a hazard ratio = 1.17 (P = 0.02) over 15 years. Individuals with worse memory recall had higher CognitionOrganismal age gaps."
+          },
+          "core_biological_function": "Indicator of accelerated organismal aging; predicts organismal aging phenotypes related to cognitive decline.",
+          "relevant_activity_context": "Association with Alzheimer's Disease (AD) and all-cause mortality; cognitive decline, transition to MCI, healthy aging.",
+          "performance_or_health_indicator": "Associated with increased risk of AD and all-cause mortality. Predicts decreased cognitive function and risk of converting to MCI, suggesting an early role in the causal chain of cognitive decline."
+        },
+        {
+          "biomarker_name": "Adipose age gap",
+          "measured_tissue_or_fluid": "Adipose tissue",
+          "activity_type": "Biological age measurement (e-ageotype calculation)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "A standard deviation increase (approximately four years) in adipose age gap conferred between 15-50% increased all-cause mortality risk."
+          },
+          "core_biological_function": "Indicator of accelerated adipose tissue aging.",
+          "relevant_activity_context": "Association with all-cause mortality.",
+          "performance_or_health_indicator": "Associated with increased risk of all-cause mortality."
+        },
+        {
+          "biomarker_name": "Liver age gap",
+          "measured_tissue_or_fluid": "Liver / Systemic (derived from plasma proteins, reflecting liver aging)",
+          "activity_type": "Biological age measurement (e-ageotype calculation) / Predictive model (based on plasma proteins)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "A standard deviation increase (approximately four years) in liver age gap conferred between 15-50% increased all-cause mortality risk. Adjusted Pearson r = 0.25, q = 6.13 \u00d7 10\u221217 with blood AST:ALT ratio."
+          },
+          "core_biological_function": "Indicator of accelerated liver aging; reflects liver health and function, predicts biological aging.",
+          "relevant_activity_context": "Association with all-cause mortality; general aging and liver health status.",
+          "performance_or_health_indicator": "Associated with increased risk of all-cause mortality; associated with liver health and function, as indicated by AST:ALT ratio."
+        },
+        {
+          "biomarker_name": "Pancreas age gap / CognitionPancreas Age Gap",
+          "measured_tissue_or_fluid": "Pancreas / Systemic (derived from plasma proteins, reflecting pancreatic aging)",
+          "activity_type": "Biological age measurement (e-ageotype calculation) / Predictive model (based on plasma proteins)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "A standard deviation increase (approximately four years) in pancreas age gap conferred between 15-50% increased all-cause mortality risk. Significantly associated with decreased cognitive function in cognitively normal individuals."
+          },
+          "core_biological_function": "Indicator of accelerated pancreas aging; predicts pancreatic aging phenotypes related to cognitive decline.",
+          "relevant_activity_context": "Association with all-cause mortality; cognitive decline, healthy aging.",
+          "performance_or_health_indicator": "Associated with increased risk of all-cause mortality; predicts decreased cognitive function."
+        },
+        {
+          "biomarker_name": "Lung age gap",
+          "measured_tissue_or_fluid": "Lung",
+          "activity_type": "Biological age measurement (e-ageotype calculation)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "A standard deviation increase (approximately four years) in lung age gap conferred between 15-50% increased all-cause mortality risk."
+          },
+          "core_biological_function": "Indicator of accelerated lung aging.",
+          "relevant_activity_context": "Association with all-cause mortality.",
+          "performance_or_health_indicator": "Associated with increased risk of all-cause mortality."
+        },
+        {
+          "biomarker_name": "Immune age gap",
+          "measured_tissue_or_fluid": "Immune system (implied)",
+          "activity_type": "Biological age measurement (e-ageotype calculation)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "A standard deviation increase (approximately four years) in immune age gap conferred between 15-50% increased all-cause mortality risk."
+          },
+          "core_biological_function": "Indicator of accelerated immune system aging.",
+          "relevant_activity_context": "Association with all-cause mortality.",
+          "performance_or_health_indicator": "Associated with increased risk of all-cause mortality."
+        },
+        {
+          "biomarker_name": "Cognition-optimized Age Gaps (multi-organ models)",
+          "measured_tissue_or_fluid": "Systemic (derived from plasma proteins, reflecting cognitive health and specific organs)",
+          "activity_type": "Calculated Metric / Prognostic Model",
+          "measured_effect": {
+            "direction_of_change": "Associated with changes",
+            "magnitude_quantification": "40 of 66 tests significant after FDR for 65 MRI brain volumes and an MRI-based brain age gap. 1 of 1 tests significant (no FDR) for multivariate CPH model of dementia progression in AD. 12 of 12 tests significant after FDR for AD status (Knight-ADRC). Replicated models (CognitionBrain, CognitionOrganismal, CognitionArtery, CognitionPancreas): Overall cognition in healthy elderly (LonGenity): 4 of 4 tests significant; Memory function in Stanford-ADRC: 2 of 4 tests significant; 15-year prediction of conversion from normal cognition to MCI (Knight-ADRC): 2 of 4 tests significant."
+          },
+          "core_biological_function": "Reflects physiological aging and dysfunction primarily related to cognitive health and brain structure, as well as systemic/organ-specific contributions to cognitive decline.",
+          "relevant_activity_context": "Prediction and association with cognitive decline, dementia, AD status, and MRI brain aging phenotypes across Knight-ADRC, Stanford-ADRC, and LonGenity cohorts.",
+          "performance_or_health_indicator": "Predictor of dementia progression, AD status, cognitive decline, memory impairment, and indicator of brain/cognitive aging."
+        },
+        {
+          "biomarker_name": "Renin (REN)",
+          "measured_tissue_or_fluid": "Kidney",
+          "activity_type": "Protein level",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "Identified as an 'important protein in kidney aging' via feature importance plots. Known to regulate blood pressure."
+          },
+          "core_biological_function": "Regulates blood pressure via the renin-angiotensin pathway.",
+          "relevant_activity_context": "Kidney aging model.",
+          "performance_or_health_indicator": "Implied role in kidney aging and related diseases like hypertension."
+        },
+        {
+          "biomarker_name": "Klotho (KL)",
+          "measured_tissue_or_fluid": "Kidney / Plasma",
+          "activity_type": "Protein level",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "Identified as an 'important kidney aging protein' and a 'putative longevity factor'. Also identified as a protein with 'large weights' in the organ aging models, indicating significant predictive power, though no explicit direction of change for individual levels was detailed."
+          },
+          "core_biological_function": "Putative longevity factor; implicated in organ aging and has genetic associations with diseases of its respective organ.",
+          "relevant_activity_context": "Kidney aging model; organ aging modeling via plasma proteomics; identified as an organ-specific aging protein within the predictive framework.",
+          "performance_or_health_indicator": "Implied role in longevity and kidney aging. Suggests a potential causal role in organ aging and is associated with organ-specific disease risk, contributing to the prediction of mortality and functional decline."
+        },
+        {
+          "biomarker_name": "Uromodulin (UMOD)",
+          "measured_tissue_or_fluid": "Kidney / Plasma",
+          "activity_type": "Protein level",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "Identified as an 'important kidney aging protein'. Genetically linked to chronic kidney disease, where it is observed to have age-dependent effects. Rare mutations are the major cause of autosomal dominant tubulointerstitial kidney disease. Also identified as a protein with 'large weights' in the organ aging models, indicating significant predictive power, though no explicit direction of change for individual levels was detailed."
+          },
+          "core_biological_function": "Genetically linked to chronic kidney disease; involved in kidney biology; implicated in organ aging and has genetic associations with diseases of its respective organ.",
+          "relevant_activity_context": "Kidney aging model, chronic kidney disease, autosomal dominant tubulointerstitial kidney disease; organ aging modeling via plasma proteomics; identified as an organ-specific aging protein within the predictive framework.",
+          "performance_or_health_indicator": "Indicator of chronic kidney disease risk and kidney health. Suggests a potential causal role in organ aging and is associated with organ-specific disease risk, contributing to the prediction of mortality and functional decline."
+        },
+        {
+          "biomarker_name": "Kidney associated antigen 1 (KAAG1)",
+          "measured_tissue_or_fluid": "Kidney",
+          "activity_type": "Protein level",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "Identified as an 'important kidney aging protein' with 'unknown functions'."
+          },
+          "core_biological_function": "Unknown functions in kidney biology.",
+          "relevant_activity_context": "Kidney aging model.",
+          "performance_or_health_indicator": "Potential biomarker for kidney aging, but function needs further elucidation."
+        },
+        {
+          "biomarker_name": "Pro-brain natriuretic peptide (NPPB)",
+          "measured_tissue_or_fluid": "Heart (or blood serum as a clinical marker)",
+          "activity_type": "Protein level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Increases in response to heart damage. Had the strongest weights in the heart aging model. Established clinical marker of acute heart failure. Previously associated with heart attack risk."
+          },
+          "core_biological_function": "Negative regulator of blood pressure; increases in response to heart damage.",
+          "relevant_activity_context": "Heart aging model, acute heart failure, heart attack risk.",
+          "performance_or_health_indicator": "Established clinical marker of acute heart failure; associated with heart attack risk; potential link to subclinical heart disease and normal heart aging."
+        },
+        {
+          "biomarker_name": "Troponin T (TNNT2)",
+          "measured_tissue_or_fluid": "Heart muscle (or blood serum as a clinical marker)",
+          "activity_type": "Protein level",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "Had the strongest weights in the heart aging model. Established clinical marker of acute heart failure."
+          },
+          "core_biological_function": "Heart muscle protein involved in contraction.",
+          "relevant_activity_context": "Heart aging model, acute heart failure.",
+          "performance_or_health_indicator": "Established clinical marker of acute heart failure."
+        },
+        {
+          "biomarker_name": "Cardiac myosin light chain (MYL7)",
+          "measured_tissue_or_fluid": "Atrial cardiomyocytes (heart) / Plasma",
+          "activity_type": "Protein level",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "Expressed by atrial cardiomyocytes. Recently become a promising target for hypertrophic cardiomyopathy. Also identified as a protein with 'large weights' in the organ aging models, indicating significant predictive power, though no explicit direction of change for individual levels was detailed."
+          },
+          "core_biological_function": "Expressed by atrial cardiomyocytes; involved in heart function; implicated in organ aging and has genetic associations with diseases of its respective organ.",
+          "relevant_activity_context": "Heart aging model, hypertrophic cardiomyopathy; organ aging modeling via plasma proteomics; identified as an organ-specific aging protein within the predictive framework.",
+          "performance_or_health_indicator": "Promising target for hypertrophic cardiomyopathy; potential repurposing target for heart aging. Suggests a potential causal role in organ aging and is associated with organ-specific disease risk, contributing to the prediction of mortality and functional decline."
+        },
+        {
+          "biomarker_name": "Peroxidasin like (PXDNL)",
+          "measured_tissue_or_fluid": "Heart",
+          "activity_type": "Protein level",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "Identified as a 'less well-characterized heart protein'."
+          },
+          "core_biological_function": "Implied role in heart biology.",
+          "relevant_activity_context": "Heart aging model.",
+          "performance_or_health_indicator": "Potential biomarker for heart aging."
+        },
+        {
+          "biomarker_name": "Bone morphogenetic protein 10 (BMP10)",
+          "measured_tissue_or_fluid": "Heart",
+          "activity_type": "Protein level",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "Identified as a 'less well-characterized heart protein'."
+          },
+          "core_biological_function": "Implied role in heart biology.",
+          "relevant_activity_context": "Heart aging model.",
+          "performance_or_health_indicator": "Potential biomarker for heart aging."
+        },
+        {
+          "biomarker_name": "Plasma pTau-181",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Estimated combined hazard ratio of 2.08 when combined with CognitionBrain age gap for dementia progression. Individuals with fluid biomarker levels two standard deviations above average had a 75% probability of dementia progression within five years. Levels were measured using the Lumipulse G 1200 platform."
+          },
+          "core_biological_function": "Biomarker for Alzheimer's disease.",
+          "relevant_activity_context": "Alzheimer's disease, dementia progression; measured in the context of clinical dementia and healthy control subjects for diagnostic and cognitive status determination.",
+          "performance_or_health_indicator": "Predicts future dementia progression, additive to CognitionBrain age gap for risk prediction."
+        },
+        {
+          "biomarker_name": "Complexin 1 (CPLX1)",
+          "measured_tissue_or_fluid": "Plasma (reflecting brain levels) / Plasma",
+          "activity_type": "Protein level (component of CognitionBrain model)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Increased both the model age prediction accuracy and the age gap association with dementia severity (FIBA+). Showed a consistent pattern of decreases in AD brain tissue and increases in the blood with age and AD. Identified as a protein with 'large weights' in the organ aging models, indicating significant predictive power."
+          },
+          "core_biological_function": "Synaptic protein, involved in neuronal health; has genetic links to cognition and AD; implicated in organ aging and has genetic associations with diseases of its respective organ.",
+          "relevant_activity_context": "Alzheimer's disease, cognitive decline, brain aging mechanisms (as a component of CognitionBrain model); organ aging modeling via plasma proteomics; identified as an organ-specific aging protein within the predictive framework.",
+          "performance_or_health_indicator": "Indicator of brain aging, cognitive decline, and AD. Increased blood levels may reflect loss or alteration in protein processing and subsequent shedding from the brain. Suggests a potential causal role in organ aging and is associated with organ-specific disease risk, contributing to the prediction of mortality and functional decline."
+        },
+        {
+          "biomarker_name": "Complexin 2 (CPLX2)",
+          "measured_tissue_or_fluid": "Plasma (reflecting brain levels) / Plasma",
+          "activity_type": "Protein level (component of CognitionBrain model)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Increased both the model age prediction accuracy and the age gap association with dementia severity (FIBA+). Showed a consistent pattern of decreases in AD brain tissue and increases in the blood with age and AD. Identified as a protein with 'large weights' in the organ aging models, indicating significant predictive power."
+          },
+          "core_biological_function": "Synaptic protein, involved in neuronal health; has genetic links to cognition and AD; implicated in organ aging and has genetic associations with diseases of its respective organ.",
+          "relevant_activity_context": "Alzheimer's disease, cognitive decline, brain aging mechanisms (as a component of CognitionBrain model); organ aging modeling via plasma proteomics; identified as an organ-specific aging protein within the predictive framework.",
+          "performance_or_health_indicator": "Indicator of brain aging, cognitive decline, and AD. Increased blood levels may reflect loss or alteration in protein processing and subsequent shedding from the brain. Suggests a potential causal role in organ aging and is associated with organ-specific disease risk, contributing to the prediction of mortality and functional decline."
+        },
+        {
+          "biomarker_name": "Neurexin 3 (NRXN3)",
+          "measured_tissue_or_fluid": "Plasma (reflecting brain levels) / Plasma",
+          "activity_type": "Protein level (component of CognitionBrain model)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Increased both the model age prediction accuracy and the age gap association with dementia severity (FIBA+). Showed a consistent pattern of decreases in AD brain tissue and increases in the blood with age and AD. Identified as a protein with 'large weights' in the organ aging models, indicating significant predictive power."
+          },
+          "core_biological_function": "Synaptic protein, involved in neuronal health; has genetic links to cognition and AD; implicated in organ aging and has genetic associations with diseases of its respective organ.",
+          "relevant_activity_context": "Alzheimer's disease, cognitive decline, brain aging mechanisms (as a component of CognitionBrain model); organ aging modeling via plasma proteomics; identified as an organ-specific aging protein within the predictive framework.",
+          "performance_or_health_indicator": "Indicator of brain aging, cognitive decline, and AD. Increased blood levels may reflect loss or alteration in protein processing and subsequent shedding from the brain. Suggests a potential causal role in organ aging and is associated with organ-specific disease risk, contributing to the prediction of mortality and functional decline."
+        },
+        {
+          "biomarker_name": "Stathmin 2 (STMN2)",
+          "measured_tissue_or_fluid": "Plasma (reflecting brain levels)",
+          "activity_type": "Protein level (component of CognitionBrain model)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Increased both the model age prediction accuracy and the age gap association with dementia severity (FIBA+). Showed a consistent pattern of decreases in AD brain tissue and increases in the blood with age and AD."
+          },
+          "core_biological_function": "Involved in neurite outgrowth and axon growth cone collapse, crucial for neuronal health.",
+          "relevant_activity_context": "Alzheimer's disease, cognitive decline, brain aging mechanisms (as a component of CognitionBrain model).",
+          "performance_or_health_indicator": "Indicator of brain aging, cognitive decline, and AD. Increased blood levels may reflect loss or alteration in protein processing and subsequent shedding from the brain."
+        },
+        {
+          "biomarker_name": "Olfactomedin 1 (OLFM1)",
+          "measured_tissue_or_fluid": "Plasma (reflecting brain levels)",
+          "activity_type": "Protein level (component of CognitionBrain model)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Increased both the model age prediction accuracy and the age gap association with dementia severity (FIBA+). Showed a consistent pattern of decreases in AD brain tissue and increases in the blood with age and AD."
+          },
+          "core_biological_function": "Involved in neurite outgrowth and axon growth cone collapse, crucial for neuronal health.",
+          "relevant_activity_context": "Alzheimer's disease, cognitive decline, brain aging mechanisms (as a component of CognitionBrain model).",
+          "performance_or_health_indicator": "Indicator of brain aging, cognitive decline, and AD. Increased blood levels may reflect loss or alteration in protein processing and subsequent shedding from the brain."
+        },
+        {
+          "biomarker_name": "Aldolase Fructose-Bisphosphate C (ALDOC)",
+          "measured_tissue_or_fluid": "Plasma (reflecting brain levels)",
+          "activity_type": "Protein level (component of CognitionBrain model)",
+          "measured_effect": {
+            "direction_of_change": "decreased",
+            "magnitude_quantification": "Decreased the age gap association with dementia severity (FIBA-); expressed in astrocytes. Proposed as a CSF biomarker for AD."
+          },
+          "core_biological_function": "Expressed in astrocytes, involved in brain metabolism; proposed as a CSF biomarker for AD.",
+          "relevant_activity_context": "Alzheimer's disease, cognitive decline, brain aging mechanisms.",
+          "performance_or_health_indicator": "Involved in brain aging, but its contribution (or higher levels) decreases the model's association with dementia severity. Proposed as a CSF biomarker for AD."
+        },
+        {
+          "biomarker_name": "Neuronal Pentraxin Receptor (NPTXR)",
+          "measured_tissue_or_fluid": "Plasma (reflecting brain levels)",
+          "activity_type": "Protein level (component of CognitionBrain model)",
+          "measured_effect": {
+            "direction_of_change": "decreased",
+            "magnitude_quantification": "Decreased the age gap association with dementia severity (FIBA-); expressed in neurons. Proposed as a CSF biomarker for AD."
+          },
+          "core_biological_function": "Expressed in neurons, involved in synaptic function; proposed as a CSF biomarker for AD.",
+          "relevant_activity_context": "Alzheimer's disease, cognitive decline, brain aging mechanisms.",
+          "performance_or_health_indicator": "Involved in brain aging, but its contribution (or higher levels) decreases the model's association with dementia severity. Proposed as a CSF biomarker for AD."
+        },
+        {
+          "biomarker_name": "Carnosine Dipeptidase 1 (CNDP1)",
+          "measured_tissue_or_fluid": "Plasma (reflecting brain levels)",
+          "activity_type": "Protein level (component of CognitionBrain model)",
+          "measured_effect": {
+            "direction_of_change": "decreased",
+            "magnitude_quantification": "Decreased the age gap association with dementia severity (FIBA-); expressed in oligodendrocytes. Proposed as a CSF biomarker for AD."
+          },
+          "core_biological_function": "Expressed in oligodendrocytes, involved in peptide degradation; proposed as a CSF biomarker for AD.",
+          "relevant_activity_context": "Alzheimer's disease, cognitive decline, brain aging mechanisms.",
+          "performance_or_health_indicator": "Involved in brain aging, but its contribution (or higher levels) decreases the model's association with dementia severity. Proposed as a CSF biomarker for AD."
+        },
+        {
+          "biomarker_name": "Lanc Like Glutathione S-Transferase 1 (LANCL1)",
+          "measured_tissue_or_fluid": "Plasma (reflecting brain levels)",
+          "activity_type": "Protein level (component of CognitionBrain model)",
+          "measured_effect": {
+            "direction_of_change": "decreased",
+            "magnitude_quantification": "Decreased the age gap association with dementia severity (FIBA-); primarily expressed in oligodendrocytes. Shown to be crucial for neuronal health in mouse models."
+          },
+          "core_biological_function": "Primarily expressed in oligodendrocytes, crucial for neuronal health.",
+          "relevant_activity_context": "Alzheimer's disease, cognitive decline, brain aging mechanisms.",
+          "performance_or_health_indicator": "Involved in brain aging, but its contribution (or higher levels) decreases the model's association with dementia severity. Important for neuronal health."
+        },
+        {
+          "biomarker_name": "Tenascin R (TNR)",
+          "measured_tissue_or_fluid": "Plasma (component of CognitionBrain model)",
+          "activity_type": "Protein level",
+          "measured_effect": {
+            "direction_of_change": "altered",
+            "magnitude_quantification": "Implied alterations in the glycosylated extracellular matrix through its involvement in the CognitionBrain model."
+          },
+          "core_biological_function": "Involved in the extracellular matrix (ECM), specifically the glycosylated ECM.",
+          "relevant_activity_context": "Brain aging mechanisms, component of CognitionBrain model.",
+          "performance_or_health_indicator": "Indicates role of extracellular matrix alterations in brain aging."
+        },
+        {
+          "biomarker_name": "Neurocan (NCAN)",
+          "measured_tissue_or_fluid": "Plasma (component of CognitionBrain model)",
+          "activity_type": "Protein level",
+          "measured_effect": {
+            "direction_of_change": "altered",
+            "magnitude_quantification": "Implied alterations in the glycosylated extracellular matrix through its involvement in the CognitionBrain model."
+          },
+          "core_biological_function": "Involved in the extracellular matrix (ECM), specifically the glycosylated ECM.",
+          "relevant_activity_context": "Brain aging mechanisms, component of CognitionBrain model.",
+          "performance_or_health_indicator": "Indicates role of extracellular matrix alterations in brain aging."
+        },
+        {
+          "biomarker_name": "Heparan Sulfate-Glucosamine 3-Sulfotransferase 4 (HS3ST4)",
+          "measured_tissue_or_fluid": "Plasma (component of CognitionBrain model)",
+          "activity_type": "Protein level",
+          "measured_effect": {
+            "direction_of_change": "altered",
+            "magnitude_quantification": "Implied alterations in the glycosylated extracellular matrix through its involvement in the CognitionBrain model."
+          },
+          "core_biological_function": "Involved in the extracellular matrix (ECM), specifically the glycosylated ECM.",
+          "relevant_activity_context": "Brain aging mechanisms, component of CognitionBrain model.",
+          "performance_or_health_indicator": "Indicates role of extracellular matrix alterations in brain aging."
+        },
+        {
+          "biomarker_name": "CognitionArtery Age Gap",
+          "measured_tissue_or_fluid": "Systemic (derived from plasma proteins, reflecting arterial aging)",
+          "activity_type": "Predictive model (based on plasma proteins)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly associated with decreased cognitive function in cognitively normal individuals. Significantly predicted conversion to mild cognitive impairment (MCI) with a hazard ratio = 1.15 (P = 0.04) over 15 years."
+          },
+          "core_biological_function": "Predicts arterial aging phenotypes related to cognitive decline.",
+          "relevant_activity_context": "Cognitive decline, transition to MCI, healthy aging.",
+          "performance_or_health_indicator": "Predicts decreased cognitive function and risk of converting to MCI, suggesting an early role in the causal chain of cognitive decline."
+        },
+        {
+          "biomarker_name": "Pleiotrophin (PTN)",
+          "measured_tissue_or_fluid": "Plasma (component of CognitionOrganismal model) and Arterial/Brain Tissue",
+          "activity_type": "Protein level",
+          "measured_effect": {
+            "direction_of_change": "changed",
+            "magnitude_quantification": "Changed with age earlier and at a faster rate than CognitionBrain and CognitionPancreas proteins within the CognitionOrganismal model. Pericyte-specific deletion of PTN renders neurons prone to ischaemic and excitotoxic injury."
+          },
+          "core_biological_function": "Involved in cellular integrity of brain vasculature, neuroprotection, highly expressed in arteries and brain (smooth muscle cells, pericytes, fibroblasts).",
+          "relevant_activity_context": "Early cognitive decline, aging, degenerative changes to brain vasculature.",
+          "performance_or_health_indicator": "Early indicator of degenerative changes to brain vasculature and loss of neuroprotective functions, linked to early phases of cognitive decline."
+        },
+        {
+          "biomarker_name": "Transgelin (TAGLN)",
+          "measured_tissue_or_fluid": "Plasma (component of CognitionOrganismal model) and Arterial/Brain Tissue",
+          "activity_type": "Protein level",
+          "measured_effect": {
+            "direction_of_change": "changed",
+            "magnitude_quantification": "Changed with age earlier and at a faster rate than CognitionBrain and CognitionPancreas proteins within the CognitionOrganismal model."
+          },
+          "core_biological_function": "Involved in cellular integrity of brain vasculature, highly expressed in arteries and brain (smooth muscle cells, pericytes, fibroblasts).",
+          "relevant_activity_context": "Early cognitive decline, aging, degenerative changes to brain vasculature.",
+          "performance_or_health_indicator": "Early indicator of degenerative changes to brain vasculature and loss of neuroprotective functions, linked to early phases of cognitive decline."
+        },
+        {
+          "biomarker_name": "WNT1 Inducible Signalling Pathway Protein 2 (WISP2)",
+          "measured_tissue_or_fluid": "Plasma (component of CognitionOrganismal model) and Arterial/Brain Tissue",
+          "activity_type": "Protein level",
+          "measured_effect": {
+            "direction_of_change": "changed",
+            "magnitude_quantification": "Changed with age earlier and at a faster rate than CognitionBrain and CognitionPancreas proteins within the CognitionOrganismal model."
+          },
+          "core_biological_function": "Involved in cellular integrity of brain vasculature, highly expressed in arteries and brain (smooth muscle cells, pericytes, fibroblasts).",
+          "relevant_activity_context": "Early cognitive decline, aging, degenerative changes to brain vasculature.",
+          "performance_or_health_indicator": "Early indicator of degenerative changes to brain vasculature and loss of neuroprotective functions, linked to early phases of cognitive decline."
+        },
+        {
+          "biomarker_name": "CUB Domain Containing Protein 1 (CDCP1)",
+          "measured_tissue_or_fluid": "Plasma (component of CognitionOrganismal model) and Arterial/Brain Tissue",
+          "activity_type": "Protein level",
+          "measured_effect": {
+            "direction_of_change": "changed",
+            "magnitude_quantification": "Changed with age earlier and at a faster rate than CognitionBrain and CognitionPancreas proteins within the CognitionOrganismal model."
+          },
+          "core_biological_function": "Involved in cellular integrity of brain vasculature, highly expressed in arteries and brain (smooth muscle cells, pericytes, fibroblasts).",
+          "relevant_activity_context": "Early cognitive decline, aging, degenerative changes to brain vasculature.",
+          "performance_or_health_indicator": "Early indicator of degenerative changes to brain vasculature and loss of neuroprotective functions, linked to early phases of cognitive decline."
+        },
+        {
+          "biomarker_name": "Chordin Like 1 (CHRDL1)",
+          "measured_tissue_or_fluid": "Plasma (component of CognitionOrganismal model) and Arterial/Brain Tissue",
+          "activity_type": "Protein level",
+          "measured_effect": {
+            "direction_of_change": "changed",
+            "magnitude_quantification": "Changed with age earlier and at a faster rate than CognitionBrain and CognitionPancreas proteins within the CognitionOrganismal model."
+          },
+          "core_biological_function": "Involved in cellular integrity of brain vasculature, highly expressed in arteries and brain (smooth muscle cells, pericytes, fibroblasts).",
+          "relevant_activity_context": "Early cognitive decline, aging, degenerative changes to brain vasculature.",
+          "performance_or_health_indicator": "Early indicator of degenerative changes to brain vasculature and loss of neuroprotective functions, linked to early phases of cognitive decline."
+        },
+        {
+          "biomarker_name": "TNF receptor superfamily member 11b (TNFRSF11B)",
+          "measured_tissue_or_fluid": "Plasma (component of CognitionArtery model) and Vascular Tissue",
+          "activity_type": "Protein level",
+          "measured_effect": {
+            "direction_of_change": "implicated",
+            "magnitude_quantification": "TNFRSF11B/APOE double knockout mice show increased calcium deposition by vascular smooth muscle cells, strongly implicating its role in vascular calcification."
+          },
+          "core_biological_function": "Strongly implicated in vascular calcification, primarily expressed in vascular smooth muscle cells, pericytes, and fibroblasts.",
+          "relevant_activity_context": "Aging, vascular calcification, early phases of cognitive decline (as a component of CognitionArtery model).",
+          "performance_or_health_indicator": "Indicator of vascular calcification and extracellular matrix alterations, major components of aging underlying early cognitive decline."
+        },
+        {
+          "biomarker_name": "Sclerostin (SOST)",
+          "measured_tissue_or_fluid": "Plasma (component of CognitionArtery model) and Vascular Tissue",
+          "activity_type": "Protein level",
+          "measured_effect": {
+            "direction_of_change": "increased",
+            "magnitude_quantification": "Increased in the plasma of people with vascular calcification. Negative regulator of WNT signalling that drives calcification."
+          },
+          "core_biological_function": "Negative regulator of WNT signalling, drives calcification, primarily expressed in vascular smooth muscle cells, pericytes, and fibroblasts.",
+          "relevant_activity_context": "Aging, vascular calcification, early phases of cognitive decline (as a component of CognitionArtery model).",
+          "performance_or_health_indicator": "Indicator of vascular calcification and extracellular matrix alterations, major components of aging underlying early cognitive decline."
+        },
+        {
+          "biomarker_name": "Melanocortin 2 Receptor Accessory Protein (MRAP2)",
+          "measured_tissue_or_fluid": "Plasma (component of CognitionArtery model) and Vascular Tissue",
+          "activity_type": "Protein level",
+          "measured_effect": {
+            "direction_of_change": "implicated",
+            "magnitude_quantification": "Strongly implicated in vascular calcification."
+          },
+          "core_biological_function": "Strongly implicated in vascular calcification, primarily expressed in vascular smooth muscle cells, pericytes, and fibroblasts.",
+          "relevant_activity_context": "Aging, vascular calcification, early phases of cognitive decline (as a component of CognitionArtery model).",
+          "performance_or_health_indicator": "Indicator of vascular calcification and extracellular matrix alterations, major components of aging underlying early cognitive decline."
+        },
+        {
+          "biomarker_name": "Frizzled Related Protein (FRZB)",
+          "measured_tissue_or_fluid": "Plasma (component of CognitionArtery model) and Vascular Tissue",
+          "activity_type": "Protein level",
+          "measured_effect": {
+            "direction_of_change": "increased",
+            "magnitude_quantification": "Increased in the plasma of people with vascular calcification. Negative regulator of WNT signalling that drives calcification."
+          },
+          "core_biological_function": "Negative regulator of WNT signalling, drives calcification, primarily expressed in vascular smooth muscle cells, pericytes, and fibroblasts.",
+          "relevant_activity_context": "Aging, vascular calcification, early phases of cognitive decline (as a component of CognitionArtery model).",
+          "performance_or_health_indicator": "Indicator of vascular calcification and extracellular matrix alterations, major components of aging underlying early cognitive decline."
+        },
+        {
+          "biomarker_name": "Matrix Gla Protein (MGP)",
+          "measured_tissue_or_fluid": "Plasma (component of CognitionArtery model) and Vascular Tissue",
+          "activity_type": "Protein level",
+          "measured_effect": {
+            "direction_of_change": "implicated",
+            "magnitude_quantification": "Deficiency-causing mutations in humans lead to Keutel syndrome, a disease characterized by soft tissue calcification, strongly implicating its role in vascular calcification."
+          },
+          "core_biological_function": "Strongly implicated in vascular calcification, primarily expressed in vascular smooth muscle cells, pericytes, and fibroblasts.",
+          "relevant_activity_context": "Aging, vascular calcification, early phases of cognitive decline (as a component of CognitionArtery model).",
+          "performance_or_health_indicator": "Indicator of vascular calcification and extracellular matrix alterations, major components of aging underlying early cognitive decline."
+        },
+        {
+          "biomarker_name": "Integrin Binding Sialoprotein (IBSP)",
+          "measured_tissue_or_fluid": "Plasma (component of vascular interaction network)",
+          "activity_type": "Protein level",
+          "measured_effect": {
+            "direction_of_change": "altered",
+            "magnitude_quantification": "Part of a protein network involved in extracellular matrix, cartilage development, and osteoblast signaling pathways, implicated in vascular calcification and early cognitive decline."
+          },
+          "core_biological_function": "Involved in extracellular matrix, cartilage development, and osteoblast signaling pathways.",
+          "relevant_activity_context": "Vascular calcification, extracellular matrix alterations, early phases of cognitive decline.",
+          "performance_or_health_indicator": "Component of a protein network indicating vascular calcification and extracellular matrix alterations as a major component of aging that underlies early cognitive decline."
+        },
+        {
+          "biomarker_name": "Osteoglycin (OGN)",
+          "measured_tissue_or_fluid": "Plasma (component of vascular interaction network)",
+          "activity_type": "Protein level",
+          "measured_effect": {
+            "direction_of_change": "altered",
+            "magnitude_quantification": "Part of a protein network involved in extracellular matrix, cartilage development, and osteoblast signaling pathways, implicated in vascular calcification and early cognitive decline."
+          },
+          "core_biological_function": "Involved in extracellular matrix, cartilage development, and osteoblast signaling pathways.",
+          "relevant_activity_context": "Vascular calcification, extracellular matrix alterations, early phases of cognitive decline.",
+          "performance_or_health_indicator": "Component of a protein network indicating vascular calcification and extracellular matrix alterations as a major component of aging that underlies early cognitive decline."
+        },
+        {
+          "biomarker_name": "Collagen type III alpha 1 chain (COL3A1)",
+          "measured_tissue_or_fluid": "Plasma (component of vascular interaction network)",
+          "activity_type": "Protein level",
+          "measured_effect": {
+            "direction_of_change": "altered",
+            "magnitude_quantification": "Part of a protein network involved in extracellular matrix, cartilage development, and osteoblast signaling pathways, implicated in vascular calcification and early cognitive decline."
+          },
+          "core_biological_function": "Involved in extracellular matrix, cartilage development, and osteoblast signaling pathways.",
+          "relevant_activity_context": "Vascular calcification, extracellular matrix alterations, early phases of cognitive decline.",
+          "performance_or_health_indicator": "Component of a protein network indicating vascular calcification and extracellular matrix alterations as a major component of aging that underlies early cognitive decline."
+        },
+        {
+          "biomarker_name": "Proline Rich and Gla Domain 1 (PRRG1)",
+          "measured_tissue_or_fluid": "Plasma (component of vascular interaction network)",
+          "activity_type": "Protein level",
+          "measured_effect": {
+            "direction_of_change": "altered",
+            "magnitude_quantification": "Part of a protein network involved in extracellular matrix, cartilage development, and osteoblast signaling pathways, implicated in vascular calcification and early cognitive decline."
+          },
+          "core_biological_function": "Involved in extracellular matrix, cartilage development, and osteoblast signaling pathways.",
+          "relevant_activity_context": "Vascular calcification, extracellular matrix alterations, early phases of cognitive decline.",
+          "performance_or_health_indicator": "Component of a protein network indicating vascular calcification and extracellular matrix alterations as a major component of aging that underlies early cognitive decline."
+        },
+        {
+          "biomarker_name": "Growth Arrest Specific 6 (GAS6)",
+          "measured_tissue_or_fluid": "Plasma (component of vascular interaction network)",
+          "activity_type": "Protein level",
+          "measured_effect": {
+            "direction_of_change": "altered",
+            "magnitude_quantification": "Part of a protein network involved in extracellular matrix, cartilage development, and osteoblast signaling pathways, implicated in vascular calcification and early cognitive decline."
+          },
+          "core_biological_function": "Involved in extracellular matrix, cartilage development, and osteoblast signaling pathways.",
+          "relevant_activity_context": "Vascular calcification, extracellular matrix alterations, early phases of cognitive decline.",
+          "performance_or_health_indicator": "Component of a protein network indicating vascular calcification and extracellular matrix alterations as a major component of aging that underlies early cognitive decline."
+        },
+        {
+          "biomarker_name": "Phenotypic Age Gap",
+          "measured_tissue_or_fluid": "Derived from blood markers (albumin, creatinine, glucose, c-reactive protein, % lymphocyte, mean cell volume, red cell distribution width, alkaline phosphatase, white blood cell count) and chronological age",
+          "activity_type": "Calculated Metric / Prognostic Model",
+          "measured_effect": {
+            "direction_of_change": "Associated with changes",
+            "magnitude_quantification": "237 of 588 tests significant after FDR for association with 42 clinical biochemistry markers."
+          },
+          "core_biological_function": "Reflects physiological aging and dysfunction of the organism beyond chronological age.",
+          "relevant_activity_context": "Association with clinical biochemistry markers in the Covance cohort.",
+          "performance_or_health_indicator": "Indicator of physiological age-related dysfunction and potential predictor of future health status."
+        },
+        {
+          "biomarker_name": "APOE rs7412 variant",
+          "measured_tissue_or_fluid": "Whole-genome sequencing (DNA)",
+          "activity_type": "Genetic variant presence/genotype",
+          "measured_effect": {
+            "direction_of_change": "associated with lower risk for AD",
+            "magnitude_quantification": "odds ratio = 0.6"
+          },
+          "core_biological_function": "Lipid metabolism, neuroprotection; associated with Alzheimer's disease risk.",
+          "relevant_activity_context": "Alzheimer's disease polygenic risk score calculation.",
+          "performance_or_health_indicator": "Modifies individual risk for Alzheimer's disease."
+        },
+        {
+          "biomarker_name": "APOE rs429358 variant",
+          "measured_tissue_or_fluid": "Whole-genome sequencing (DNA)",
+          "activity_type": "Genetic variant presence/genotype",
+          "measured_effect": {
+            "direction_of_change": "associated with higher risk for AD",
+            "magnitude_quantification": "odds ratio = 3.7"
+          },
+          "core_biological_function": "Lipid metabolism, neuroprotection; associated with Alzheimer's disease risk.",
+          "relevant_activity_context": "Alzheimer's disease polygenic risk score calculation.",
+          "performance_or_health_indicator": "Modifies individual risk for Alzheimer's disease."
+        },
+        {
+          "biomarker_name": "PSEN1 pathogenic mutations",
+          "measured_tissue_or_fluid": "Whole-genome sequencing (DNA)",
+          "activity_type": "Genetic variant presence/mutational status",
+          "measured_effect": {
+            "direction_of_change": "presence",
+            "magnitude_quantification": "Three individuals with pathogenic mutations PSEN1 were removed from the analysis due to their strong impact on disease."
+          },
+          "core_biological_function": "Involved in gamma-secretase complex, amyloid precursor protein processing.",
+          "relevant_activity_context": "Exclusion criterion for Alzheimer's disease polygenic risk score analysis.",
+          "performance_or_health_indicator": "Strongly associated with familial early-onset Alzheimer's disease."
+        },
+        {
+          "biomarker_name": "GBA pathogenic mutations",
+          "measured_tissue_or_fluid": "Whole-genome sequencing (DNA)",
+          "activity_type": "Genetic variant presence/mutational status",
+          "measured_effect": {
+            "direction_of_change": "presence",
+            "magnitude_quantification": "Three individuals with pathogenic mutations GBA were removed from the analysis due to their strong impact on disease."
+          },
+          "core_biological_function": "Encodes glucocerebrosidase, a lysosomal enzyme; mutations associated with Gaucher disease and increased risk of Parkinson's disease.",
+          "relevant_activity_context": "Exclusion criterion for Alzheimer's disease polygenic risk score analysis.",
+          "performance_or_health_indicator": "Associated with increased risk for neurodegenerative diseases."
+        },
+        {
+          "biomarker_name": "84 Alzheimer's disease GWAS variants",
+          "measured_tissue_or_fluid": "Whole-genome sequencing (DNA)",
+          "activity_type": "Genetic variant presence/effect size",
+          "measured_effect": {
+            "direction_of_change": "varied (implied by effect size)",
+            "magnitude_quantification": "Effect sizes for these variants were available from Tables 1 and 2 in ref. 30 and used in PRS computation; specific values not provided in this chunk."
+          },
+          "core_biological_function": "Genetic predisposition to Alzheimer's disease.",
+          "relevant_activity_context": "Alzheimer's disease polygenic risk score calculation.",
+          "performance_or_health_indicator": "Collectively contribute to an individual's polygenic risk for Alzheimer's disease."
+        }
+      ]
+    }
+  }
+]

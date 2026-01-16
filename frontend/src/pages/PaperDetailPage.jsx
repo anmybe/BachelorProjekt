@@ -19,8 +19,10 @@ const PaperDetailPage = () => {
                     &larr; Back to Home
                 </Link>
                 <div style={{ display: 'flex', gap: '1rem', alignItems: 'center', fontSize: '0.9rem' }}>
-                    <span style={{ fontWeight: 700, color: '#be185d', backgroundColor: '#fce7f3', padding: '0.35rem 1rem', borderRadius: '9999px', border: '1px solid rgba(255,255,255,0.6)' }}>{paper.year}</span>
-                    <span style={{ fontFamily: 'monospace', backgroundColor: 'rgba(255,255,255,0.5)', padding: '0.35rem 1rem', borderRadius: '9999px', color: 'var(--text-secondary)', border: '1px solid rgba(255,255,255,0.6)' }}>ID: {paper.id}</span>
+                    {paper.year && paper.year !== "Unknown" && (
+                        <span style={{ fontWeight: 700, color: '#be185d', backgroundColor: '#fce7f3', padding: '0.35rem 1rem', borderRadius: '9999px', border: '1px solid rgba(255,255,255,0.6)' }}>{paper.year}</span>
+                    )}
+                    <span style={{ fontWeight: 700, color: '#be185d', backgroundColor: '#fce7f3', padding: '0.35rem 1rem', borderRadius: '9999px', border: '1px solid rgba(255,255,255,0.6)' }}>ID: {paper.id}</span>
                     {paper.doi && (
                         <a href={`https://doi.org/${paper.doi}`} target="_blank" rel="noopener noreferrer" style={{ display: 'inline-flex', alignItems: 'center', gap: '0.25rem', color: 'var(--primary-color)', fontWeight: 600, transition: 'color 0.2s', padding: '0.35rem 1rem', backgroundColor: 'rgba(255,255,255,0.6)', borderRadius: '9999px', border: '1px solid rgba(255,255,255,0.6)' }}>
                             DOI ↗

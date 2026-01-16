@@ -1,0 +1,316 @@
+[
+  {
+    "title": "pmc J Am Heart Assoc J Am Heart Assoc 10.1002/(ISSN)2047-9980 JAH3 ahaoa Journal of the American Heart Association: Cardiovascular and Cerebrovascular Disease 2047-9980 John Wiley and Sons Inc. Hoboken 12132899 40194967 10.1161/JAHA.124.036507 JAH310818 JAHA/2024/036507-T Original Research Original Research Vascular Medicine Subclinical Atherosclerosis Risk Can Be Predicted in Female Patients With Systemic Lupus Erythematosus Using Metabolomic Signatures: An Observational Study Metabolomic Score Predicts SLE Subclinical Plaque Woodridge et al Woodridge Laurel PhD 1 Tektonidou Maria G. PhD https://orcid.org/0000-0003-2238-0975 2 Robinson George A. PhD https://orcid.org/0000-0001-7473-7652 1 Peng Junjie MSc 1 Coelewij Leda PhD https://orcid.org/0000-0001-6161-0046 1 Martin\u2010Gutierrez Lucia MSc 1 Navarro Elvira Chocano MSc 1 Griffin Maura PhD https://orcid.org/0000-0002-5223-2239 3 Nicolaides Andrew DSc https://orcid.org/0000-0003-3912-7394 3 4 5 Ciurtin Coziana PhD https://orcid.org/0000-0002-8911-4113 1 Rahman Anisur PhD https://orcid.org/0000-0003-2346-4484 1 Pineda Torra In\u00e9s PhD https://orcid.org/0000-0002-7349-2208 1 6 * ines.pineda@ucl.ac.uk Jury Elizabeth C. PhD https://orcid.org/0000-0002-2389-3396 1 * e.jury@ucl.ac.uk 1 Department of Ageing, Rheumatology and Regenerative Medicine, Division of Medicine University College of London London UK 2 First Department of Propedeutic Internal Medicine \u201cLaiko\u201d Hospital National and Kapodistrian University of Athens Athens Greece 3 Vascular Noninvasive Diagnostic Centre London UK 4 Department of Vascular Surgery Imperial College London UK 5 Department of Vascular Surgery, Nicosia Medical School University of Nicosia Cyprus 6 Andalusian Center for Molecular Biology and Regenerative Medicine (CABIMER) Sevilla Spain * Correspondence to: Elizabeth C. Jury, PhD, Department of Ageing, Rheumatology and Regenerative Medicine, Division of Medicine, University College of London, University Street, London WC1E 6JF, UK. Email: e.jury@ucl.ac.uk In\u00e9s Pineda\u2010Torra, PhD, Andalusian Center for Molecular Biology and Regenerative Medicine (CABIMER) Avda. Americo Vespucio 24, Edif. CABIMER 41092, Sevilla, Spain. Email: ines.pineda@ucl.ac.uk * In\u00e9s Pineda Torra and Elizabeth C. Jury contributed equally and are joint senior authors. 07 4 2025 15 4 2025 14 8 10.1002/jah3.v14.8 e036507 09 5 2024 05 3 2025 \u00a9 2025 The Author(s). Published on behalf of the American Heart Association, Inc., by Wiley. https://creativecommons.org/licenses/by/4.0/ This is an open access article under the terms of the http://creativecommons.org/licenses/by/4.0/ License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited. Background Cardiovascular disease (CVD) is a leading cause of death in women with systemic lupus erythematosus (SLE) due to accelerated atherosclerosis that is not predicted by established CVD risk scores. This study aimed to develop, validate, and test a female\u2010focused predictive atherosclerosis risk signature based on serum metabolites in patients with SLE. Methods and Results Female patients with SLE were assessed for the presence (SLE\u2010P; n=18) or absence (SLE\u2010NP; n=26) of subclinical atherosclerosis using vascular ultrasound for carotid/femoral intima\u2010media thickness. CVD risk was assessed using QRISK3 (which includes SLE diagnosis as a risk factor) and Framingham Risk Score. Serum metabolomics (n\u2265250) was performed and analyzed using machine learning pipelines. Despite having subclinical atherosclerosis, 44.8% to 100% of patients with SLE\u2010P had low CVD risk according to QRISK3/Framlingham Risk Score scores. Using a lipid\u2010focused metabolomic analysis, an improved atherosclerosis risk predictive signature was developed comprising 35 metabolites/5 clinical traits that classified patients with SLE\u2010P and outperformed CVD risk assessment tools, lipid profiles measured in routine care, and clinical features alone. This \u201catherosclerosis risk signature\u201d was validated in a second adult female SLE cohort (n=98) that predicted plaque status with moderate accuracy (area under the receiver operating characteristic curve, 0.79). The signature was then refined into a 5\u2010feature subclinical plaque\u2010predictive score that not only stratified the combined SLE\u2010P/SLE\u2010NP cohorts (n=142; area under the receiver operating characteristic curve, 0.84) but also predicted 3\u2010year atherosclerosis progression in female postpubertal patients with juvenile\u2010onset SLE (n=36; area under the receiver operating characteristic curve, 0.79). Finally, the 5\u2010feature score identified distinct high and low subclinical atherosclerosis risk subgroups in a \u201creal\u2010world\u201d setting of unscanned adult patients with SLE (n=38). Conclusions This atherosclerosis risk score could improve CVD risk assessment/management in female patients with SLE across age. Validation in non\u2010SLE and healthy cohorts could further substantiate these findings. cardiovascular disease risk female metabolomics SLE subclinical atherosclerosis Subject Categories Biomarkers Lipids and Cholesterol Translational Studies Machine Learning Metabolism The Rosetrees Trust 10.13039/501100000833 European Regional Development Fund 10.13039/501100008530 Spanish Ministry of Science and Innovation 10.13039/501100011033 PID2021\u2010126077OB\u2010I00 source-schema-version-number 2.0 cover-date 15 April 2025 details-of-publishers-convertor Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.6 mode:remove_FC converted:15.05.2025 This manuscript was sent to Suha Bachir, MD, MS, Associate Editor, for review by expert referees, editorial decision, and final disposition. Supplemental Material is available at https://www.ahajournals.org/doi/suppl/10.1161/JAHA.124.036507 For Sources of Funding and Disclosures, see page 14. Nonstandard Abbreviations and Acronyms ALSPAC Avon Longitudinal Study of Parents and Children APPLE Atherosclerosis Prevention in Pediatric Lupus Erythematosus BILAG British Isles Lupus Assessment Group CIMT carotid intima\u2010media thickness FA fatty acid JSLE juvenile\u2010onset systemic lupus erythematosus LR logistic regression MESA Multi\u2010Ethnic Study of Atherosclerosis ML machine learning SLE\u2010NP systemic lupus erythematosus with no subclinical atherosclerosis SLE\u2010P systemic lupus erythematosus with subclinical atherosclerosis UCLH University College London Hospitals UCLH\u201040 University College London Hospitals signature XGB eXtreme gradient boost Clinical Perspective What Is New? A combined metabolite\u2013clinical trait plaque/atherosclerosis risk signature was developed using widely credited machine learning models that correctly classified patients with systemic lupus erythematosus (SLE) with subclinical plaque with high accuracy. This atherosclerosis risk signature was validated in a second external cohort of patients with SLE scanned for subclinical plaque. The atherosclerosis signature was refined into a 5\u2010feature panel that correctly stratified patients with/without subclinical atherosclerosis and identified patients with juvenile\u2010onset SLE with high versus low atherosclerosis progression. In a \u201creal\u2010world\u201d setting, the 5\u2010feature atherosclerosis risk panel identified a group of unscanned patients with SLE at potential elevated plaque risk, suggesting that this tool could help improve stratification of at\u2010risk patients for enhanced cardiovascular disease risk monitoring/treatment. What Are the Clinical Implications? Current routine cardiovascular disease risk assessment does not accurately estimate atherosclerosis risk in patients with SLE, meaning that patients who could benefit from more regular monitoring or intervention are not identified. Evidence from this study could be used to develop a low\u2010cost metabolite assay to assess cardiovascular disease risk for use in clinical practice. We highlight several metabolites that can be modulated by diet or lipid\u2010targeting therapies. Therefore, information presented here could be used to help guide lifestyle and clinical management. Cardiovascular disease (CVD) is the leading cause of death globally and, despite a greater prevalence in men than women, 1 ischemic heart disease (16.13%) and stroke (14.26%) are leading causes of death in women (all ages; https://vizhub.healthdata.org/gbd\u2010compare/ ). 2 CVD is particularly prevalent in autoimmune diseases characterized by systemic inflammation and a major cause of death in systemic lupus erythematosus (SLE), a chronic multisystem autoimmune disease with a 90% female prevalence. 3 The overall risk of CVD has been shown to be increased 50\u2010fold in women with SLE aged 35 to 44 years, 4 and CVD accounts for \u224825% of all deaths in SLE, attributed to premature and accelerated atherosclerosis. 5 The link between SLE and the heightened CVD risk is not completely understood and is complicated by the lack of knowledge about CVD risk in women because a disproportionate amount of CVD research has been conducted in men. 6 Asymptomatic atherosclerotic plaques appear before the onset of CVD symptoms and have been identified in up to 40% of patients with SLE. 7 Traditional CVD risk factors, such as dyslipidemia, diabetes, hypertension, and obesity are increased in patients with SLE across age 8 and are intertwined with SLE\u2010specific factors contributing to increased CVD risk, including an association with suboptimal disease activity control, antiphospholipid antibodies and SLE treatment type, and subclinical atherosclerosis and CVD. 4 , 9 However, CVD risk score assessment tools, such as the Framingham and American Heart Association Atherosclerotic Cardiovascular Disease risk scores, significantly underestimate CVD risk in women and adults with SLE, 10 , 11 while estimating this risk in children and young people with juvenile\u2010onset SLE (JSLE) is even more challenging. 12 Additional weighting given to a diagnosis of SLE has been adopted in attempts to improve sensitivity, including the QRISK3, 13 which improves CVD risk detection in patients with SLE. 14 Notably, not all patients with SLE have dyslipidemia, and patients with SLE often have serum lipid levels within currently defined normal ranges, which could contribute to poor performance of CVD risk assessment scores. Furthermore, vascular screening or other imaging techniques with increased sensitivity for subclinical atherosclerosis detection are not regularly recommended or widely available in SLE care. Thus, there is an unmet need to improve CVD risk assessment in patients with SLE. Our previous work shows that more detailed analysis of serum metabolite signatures (including complex lipids) can effectively stratify patients with SLE with and without subclinical atherosclerosis. 15 , 16 This study now aims to develop, validate, and test a predictive CVD risk signature based on serum metabolites that could identify patients who would benefit from more frequent lipid monitoring or preventative therapies.",
+    "document_source_id": "40194967",
+    "analysis_date": "2025-12-10",
+    "extracted_data": {
+      "document_summary": "This study aimed to develop and validate a female-focused predictive atherosclerosis risk signature based on serum metabolites in patients with Systemic Lupus Erythematosus (SLE), addressing the inadequacy of established cardiovascular disease (CVD) risk scores. It investigated metabolomic and clinical features associated with subclinical plaque status, developing and validating a 35-metabolite/5-clinical trait signature (UCLH-40) and a refined 5-feature panel (including age, glycine, M-LDL-C, IDL-C, and omega-6/omega-3 ratio) that accurately classifies SLE patients with/without subclinical atherosclerosis, predicts atherosclerosis progression, and identifies elevated CVD risk, thereby outperforming existing risk assessment tools.",
+      "treatment_details": {
+        "therapy_type": "Diagnostic/Prognostic Biomarker Discovery and Validation for Atherosclerosis Risk Stratification (via Metabolomics and Machine Learning)",
+        "dose_specificity": "This was an observational, diagnostic study that did not involve therapeutic interventions or dose comparisons for treatments. Its primary focus was on developing and validating predictive biomarker signatures. Serum metabolomic analysis was performed using a high-throughput nuclear magnetic resonance platform (\u2265250 metabolites). Various machine learning models (e.g., univariate logistic regression, least absolute shrinkage and selection operator LR, random forest, neural network, support vector machine, and eXtreme gradient boost) with 10-fold cross-validation were used to analyze metabolomic data and clinical traits. Model performance was assessed by AUROC (>0.7 for inclusion), sensitivity, specificity, and F1 score. Vascular ultrasound was used for carotid/femoral intima-media thickness assessment of subclinical atherosclerosis. The study discusses the implications for guiding statin therapy or lifestyle modifications but does not directly test them, noting that standard statin prescriptions may be insufficient due to normal lipid ranges in SLE patients."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "Atherosclerosis risk signature (UCLH-40, comprising serum metabolites and clinical traits)",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Metabolomic analysis and machine learning-derived predictive signature",
+          "measured_effect": {
+            "direction_of_change": "Predicted the presence or absence of subclinical atherosclerosis; Components collectively contribute to discriminating SLE patients with plaques from those without.",
+            "magnitude_quantification": "Classified SLE-P patients and outperformed established CVD risk assessment tools (QRISK3, Framingham Risk Score), routine lipid profiles, and clinical features alone. Validated in a second adult female SLE cohort (n=98) predicting plaque status with moderate accuracy (area under the receiver operating characteristic curve, 0.79). Signature derived from top variables appearing in models with AUROC >0.7. The weighted score for predicting subclinical atherosclerosis-risk was derived from the validated UCLH-40 using Youden statistic and Autoscore analysis."
+          },
+          "core_biological_function": "Assessment and prediction of subclinical atherosclerosis risk in female SLE patients; diverse biological roles, including lipoprotein metabolism, amino acid metabolism, glycolysis, and ketone body metabolism.",
+          "relevant_activity_context": "Female patients with Systemic Lupus Erythematosus (SLE) with or without subclinical atherosclerosis; discrimination of subclinical atherosclerotic plaques in female SLE patients (SLE-P vs. SLE-NP cohorts) and assessment of CVD risk.",
+          "performance_or_health_indicator": "Improves prediction of subclinical atherosclerosis risk in female SLE patients compared to established CVD risk scores, identifying patients who may benefit from enhanced monitoring or intervention. Predicts subclinical atherosclerosis risk and can be used to stratify patients based on this risk in Systemic Lupus Erythematosus."
+        },
+        {
+          "biomarker_name": "5-feature subclinical plaque-predictive score",
+          "measured_tissue_or_fluid": "Serum, Blood Serum",
+          "activity_type": "Refined machine learning-derived predictive score; Diagnostic/Prognostic Biomarker Discovery and Validation",
+          "measured_effect": {
+            "direction_of_change": "Stratified subclinical atherosclerosis risk subgroups and predicted atherosclerosis progression; associated with CVD risk.",
+            "magnitude_quantification": "Stratified combined SLE-P/SLE-NP cohorts (n=142) with an area under the receiver operating characteristic curve (AUC) of 0.84. Predicted 3-year atherosclerosis progression in female postpubertal patients with juvenile-onset SLE (n=36) with an AUC of 0.79. Identified distinct high and low subclinical atherosclerosis risk subgroups in a 'real-world' setting of unscanned adult patients with SLE (n=38). Showed high accuracy."
+          },
+          "core_biological_function": "Stratification of subclinical atherosclerosis risk and prediction of its progression in female SLE patients; comprehensive assessment of CVD risk incorporating key metabolomic and clinical indicators.",
+          "relevant_activity_context": "Combined cohorts of SLE patients with/without subclinical atherosclerosis, postpubertal patients with juvenile-onset SLE (for 3-year progression prediction), unscanned adult SLE patients in a 'real-world' setting; subclinical plaque status and atherosclerosis progression.",
+          "performance_or_health_indicator": "Could improve CVD risk assessment/management in female patients with SLE across age, identify patients for enhanced CVD risk monitoring/treatment, and potentially guide lifestyle and clinical management by highlighting modifiable metabolites. Provides highly accurate prediction for plaque status and CVD risk."
+        },
+        {
+          "biomarker_name": "Atherosclerotic Plaques",
+          "measured_tissue_or_fluid": "Carotid and femoral arteries",
+          "activity_type": "Clinical Observation / Imaging finding",
+          "measured_effect": {
+            "direction_of_change": "presence",
+            "magnitude_quantification": "Present in 41% (18/44) of CVD-free women with SLE."
+          },
+          "core_biological_function": "Indicator of subclinical cardiovascular disease progression.",
+          "relevant_activity_context": "Subclinical atherosclerosis in women with Systemic Lupus Erythematosus (SLE-P group).",
+          "performance_or_health_indicator": "Indicates subclinical atherosclerosis, which was often misclassified as low risk by standard CVD risk scores (Framingham, QRISK3) in SLE patients."
+        },
+        {
+          "biomarker_name": "BILAG 2004 index",
+          "measured_tissue_or_fluid": "Clinical assessment",
+          "activity_type": "Disease Activity Score",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Patients with atherosclerotic plaques (SLE-P) had lower disease activity compared with plaque-free patients (SLE-NP)."
+          },
+          "core_biological_function": "Quantifies Systemic Lupus Erythematosus disease activity.",
+          "relevant_activity_context": "Assessment in women with SLE and subclinical atherosclerosis.",
+          "performance_or_health_indicator": "Lower disease activity at the time of scan observed in SLE patients with subclinical plaques, suggesting a potential role in characterizing chronic, stable disease with cardiovascular involvement."
+        },
+        {
+          "biomarker_name": "Complement 3",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Patients with atherosclerotic plaques (SLE-P) had higher complement 3 levels compared to plaque-free patients (SLE-NP)."
+          },
+          "core_biological_function": "Component of the immune system, involved in inflammation and complement activation pathway.",
+          "relevant_activity_context": "Subclinical atherosclerosis in women with Systemic Lupus Erythematosus.",
+          "performance_or_health_indicator": "Associated with the presence of subclinical atherosclerotic plaques in SLE patients."
+        },
+        {
+          "biomarker_name": "Albumin",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Patients with atherosclerotic plaques (SLE-P) had higher albumin levels compared to plaque-free patients (SLE-NP)."
+          },
+          "core_biological_function": "Major plasma protein involved in maintaining osmotic pressure and transporting various substances; can act as an acute phase reactant.",
+          "relevant_activity_context": "Subclinical atherosclerosis in women with Systemic Lupus Erythematosus.",
+          "performance_or_health_indicator": "Associated with the presence of subclinical atherosclerotic plaques in SLE patients."
+        },
+        {
+          "biomarker_name": "Mean Arterial Pressure (MAP)",
+          "measured_tissue_or_fluid": "Systemic arterial system",
+          "activity_type": "Physiological Measurement",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Patients with atherosclerotic plaques (SLE-P) had elevated mean arterial pressure (MAP) compared to plaque-free patients (SLE-NP)."
+          },
+          "core_biological_function": "Average arterial pressure over one cardiac cycle, reflects perfusion pressure and cardiovascular load.",
+          "relevant_activity_context": "Subclinical atherosclerosis in women with Systemic Lupus Erythematosus.",
+          "performance_or_health_indicator": "Identified as a risk factor associated with the presence of subclinical atherosclerotic plaques in SLE patients."
+        },
+        {
+          "biomarker_name": "Total Cholesterol",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Lipid Concentration",
+          "measured_effect": {
+            "direction_of_change": "higher (though often within normal ranges)",
+            "magnitude_quantification": "Patients with atherosclerotic plaques (SLE-P) had higher serum total cholesterol levels, though for most patients these were within established normal ranges, compared to plaque-free patients (SLE-NP)."
+          },
+          "core_biological_function": "Essential lipid for cell membranes and steroid hormone synthesis; high levels are a risk factor for atherosclerosis.",
+          "relevant_activity_context": "Subclinical atherosclerosis in women with Systemic Lupus Erythematosus (initial clinical assessment).",
+          "performance_or_health_indicator": "Identified as a risk factor associated with the presence of subclinical atherosclerotic plaques in SLE patients; however, routine measurements often classified high-risk patients as low-risk due to values falling within normal ranges, highlighting poor predictive power."
+        },
+        {
+          "biomarker_name": "Low-Density Lipoprotein (LDL) and subclasses",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Lipid Concentration; Metabolite / Lipoprotein Level (NMR analysis)",
+          "measured_effect": {
+            "direction_of_change": "higher (though often within normal ranges); changed (for nonstandard subclasses)",
+            "magnitude_quantification": "Patients with atherosclerotic plaques (SLE-P) had higher serum low-density lipoprotein (LDL) levels, though for most patients these were within established normal ranges, compared to plaque-free patients (SLE-NP). Significantly differentially expressed (P<0.05) between SLE-P and SLE-NP patients for nonstandard subclasses."
+          },
+          "core_biological_function": "Primary carrier of cholesterol to cells; high levels are a major risk factor for atherosclerosis; transports cholesterol to cells; different subclasses have varied atherogenic potential.",
+          "relevant_activity_context": "Subclinical atherosclerosis in women with Systemic Lupus Erythematosus (initial clinical assessment); Novel metabolomic signature associated with subclinical atherosclerosis.",
+          "performance_or_health_indicator": "Identified as a risk factor associated with the presence of subclinical atherosclerotic plaques in SLE patients. Part of a novel metabolomic signature associated with the presence of subclinical plaque in SLE."
+        },
+        {
+          "biomarker_name": "Apolipoprotein B",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Metabolite (NMR analysis)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly different (P<0.05) between SLE-P and SLE-NP patients, identified as a molecule linked to atherosclerosis."
+          },
+          "core_biological_function": "Structural protein of atherogenic lipoproteins (VLDL, IDL, LDL), playing a key role in cholesterol transport.",
+          "relevant_activity_context": "Novel metabolomic signature associated with subclinical atherosclerosis in women with Systemic Lupus Erythematosus.",
+          "performance_or_health_indicator": "Part of a novel metabolomic signature associated with the presence of subclinical plaque in SLE."
+        },
+        {
+          "biomarker_name": "Total Cholesteryl Esters",
+          "measured_tissue_or_fluid": "Serum, Blood Serum",
+          "activity_type": "Metabolite (NMR analysis); Lipid Concentration",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly different (P<0.05) between SLE-P and SLE-NP patients, identified as a molecule linked to atherosclerosis. Elevated in patients with SLE-P (P <0.05)."
+          },
+          "core_biological_function": "Storage form of cholesterol, transported within lipoproteins; involved in cholesterol metabolism.",
+          "relevant_activity_context": "Novel metabolomic signature associated with subclinical atherosclerosis in women with Systemic Lupus Erythematosus; Subclinical plaque status in adult Systemic Lupus Erythematosus (SLE) patients (SLE-P vs. SLE-NP).",
+          "performance_or_health_indicator": "Part of a novel metabolomic signature associated with the presence of subclinical plaque in SLE. Associated with subclinical plaque status and increased cardiovascular disease (CVD) risk in SLE patients. Identified as statin-responsive in previous pharmacological studies."
+        },
+        {
+          "biomarker_name": "Free Cholesterol",
+          "measured_tissue_or_fluid": "Serum, Blood Serum",
+          "activity_type": "Metabolite (NMR analysis); Lipid Concentration",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly different (P<0.05) between SLE-P and SLE-NP patients, identified as a molecule linked to atherosclerosis. Elevated in patients with SLE-P (P <0.05)."
+          },
+          "core_biological_function": "Unesterified cholesterol, critical component of cell membranes and a precursor for steroid hormones and bile acids.",
+          "relevant_activity_context": "Novel metabolomic signature associated with subclinical atherosclerosis in women with Systemic Lupus Erythematosus; Subclinical plaque status in adult Systemic Lupus Erythematosus (SLE) patients (SLE-P vs. SLE-NP).",
+          "performance_or_health_indicator": "Part of a novel metabolomic signature associated with the presence of subclinical plaque in SLE. Associated with subclinical plaque status and increased cardiovascular disease (CVD) risk in SLE patients. Identified as statin-responsive in previous pharmacological studies."
+        },
+        {
+          "biomarker_name": "Remnant Cholesterol",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Metabolite (NMR analysis)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly different (P<0.05) between SLE-P and SLE-NP patients, identified as a molecule linked to atherosclerosis."
+          },
+          "core_biological_function": "Cholesterol carried in remnant lipoproteins; considered highly atherogenic.",
+          "relevant_activity_context": "Novel metabolomic signature associated with subclinical atherosclerosis in women with Systemic Lupus Erythematosus.",
+          "performance_or_health_indicator": "Part of a novel metabolomic signature associated with the presence of subclinical plaque in SLE."
+        },
+        {
+          "biomarker_name": "HDL (nonstandard subclasses)",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Metabolite / Lipoprotein Level (NMR analysis)",
+          "measured_effect": {
+            "direction_of_change": "changed",
+            "magnitude_quantification": "Significantly differentially expressed (P<0.05) between SLE-P and SLE-NP patients. Specific direction (higher/lower) for individual subclasses is not provided in the text but they were found to be different."
+          },
+          "core_biological_function": "Involved in reverse cholesterol transport; different subclasses have varied functions and lipid content in lipid metabolism.",
+          "relevant_activity_context": "Novel metabolomic signature associated with subclinical atherosclerosis in women with Systemic Lupus Erythematosus.",
+          "performance_or_health_indicator": "Part of a novel metabolomic signature associated with the presence of subclinical plaque in SLE."
+        },
+        {
+          "biomarker_name": "Intermediate-density lipoprotein cholesterol (IDL-C) and subclasses",
+          "measured_tissue_or_fluid": "Serum, Blood Serum, Blood Plasma",
+          "activity_type": "Lipoprotein Subclass Cholesterol Concentration; Metabolite / Lipoprotein Level (NMR analysis)",
+          "measured_effect": {
+            "direction_of_change": "higher; differentially expressed; changed",
+            "magnitude_quantification": "Significantly differentially expressed (P<0.05) between SLE-P and SLE-NP patients. Elevated IDL-C (part of a 5-panel atherosclerosis risk signature). Identified as a statin-responsive metabolite associated with plaque status and CVD risk. Important predictor of plaque stratification."
+          },
+          "core_biological_function": "Intermediate in the metabolism of VLDL to LDL; considered atherogenic. Intermediate in the metabolism of very-low-density lipoproteins (VLDL) to low-density lipoproteins (LDL), transporting cholesterol and triglycerides. Proatherogenic driver of atherosclerosis due to its lower density compared with atheroprotective HDL molecules.",
+          "relevant_activity_context": "Novel metabolomic signature associated with subclinical atherosclerosis in women with Systemic Lupus Erythematosus; Subclinical plaque status in adult Systemic Lupus Erythematosus (SLE) patients and atherosclerosis progression in Juvenile Systemic Lupus Erythematosus (JSLE) patients; Part of a 5-panel atherosclerosis risk signature. Plaque stratification, atherosclerosis.",
+          "performance_or_health_indicator": "Part of a novel metabolomic signature associated with the presence of subclinical plaque in SLE. Associated with subclinical plaque status and increased cardiovascular disease (CVD) risk. Identified as statin-responsive. It is a key feature in the simplified 5-feature predictive panel for plaque status and CVD risk. Also shows potential utility in non-SLE populations for MI, stroke, and peripheral vascular disease. Important predictor of plaque stratification; established proatherogenic driver of atherosclerosis."
+        },
+        {
+          "biomarker_name": "Very-low-density lipoprotein (VLDL) (nonstandard subclasses)",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Metabolite / Lipoprotein Level (NMR analysis)",
+          "measured_effect": {
+            "direction_of_change": "changed",
+            "magnitude_quantification": "Significantly differentially expressed (P<0.05) between SLE-P and SLE-NP patients. Specific direction (higher/lower) for individual subclasses is not provided in the text but they were found to be different."
+          },
+          "core_biological_function": "Transports endogenous triglycerides from the liver; high levels are atherogenic.",
+          "relevant_activity_context": "Novel metabolomic signature associated with subclinical atherosclerosis in women with Systemic Lupus Erythematosus.",
+          "performance_or_health_indicator": "Part of a novel metabolomic signature associated with the presence of subclinical plaque in SLE."
+        },
+        {
+          "biomarker_name": "Glycine",
+          "measured_tissue_or_fluid": "Blood Serum, Serum, Plasma",
+          "activity_type": "Metabolite Concentration, Concentration",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Significantly lower in patients with SLE-P compared with patients with SLE-NP (P <0.05). Low glycine concentration (part of a 5-panel atherosclerosis risk signature); noted as 'glycine deficiency'. Inversely associated with risk of acute myocardial infarction; higher plasma glycine was associated with a more favorable baseline lipid profile and lower prevalence of obesity, hypertension, and diabetes; genetically associated with lower CHD risk."
+          },
+          "core_biological_function": "Nonessential amino acid involved in protein synthesis and various metabolic pathways. Used in the synthesis of purines and glucose; exerts anti-inflammatory and antioxidative effects; its deficiency can lead to diminished capacity for triglyceride-rich very-low-density lipoprotein uptake by macrophages, resulting in elevated triglyceride content; central to cell metabolism, lipid metabolism, and the de novo production of sphingolipids.",
+          "relevant_activity_context": "Subclinical plaque status in adult Systemic Lupus Erythematosus (SLE) patients (SLE-P vs. SLE-NP) and atherosclerosis progression in Juvenile Systemic Lupus Erythematosus (JSLE) patients; Subclinical atherosclerosis risk in Systemic Lupus Erythematosus (SLE) patients; Acute myocardial infarction, traditional cardiovascular risk factors (obesity, hypertension, diabetes), CHD risk, metabolic syndrome.",
+          "performance_or_health_indicator": "Associated with subclinical plaque status and increased cardiovascular disease (CVD) risk. It is a key feature in the simplified 5-feature predictive panel for plaque status and CVD risk. Also shows potential utility in non-SLE populations for MI, stroke, and peripheral vascular disease. Associated with elevated CVD risk and subclinical atherosclerosis in SLE; inversely associated with traditional cardiovascular risk factors, including obesity, hypertension, and diabetes. Indicates protection against cardiovascular risk factors and acute myocardial infarction; associated with lower CHD risk."
+        },
+        {
+          "biomarker_name": "Sphingomyelin",
+          "measured_tissue_or_fluid": "Blood Serum; Metabolomic panel (implied blood plasma)",
+          "activity_type": "Lipid Concentration; Metabolite Concentration",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Elevated in patients with SLE-P (P <0.05). Increased in SLE-P (patients with SLE with plaque)."
+          },
+          "core_biological_function": "Type of sphingolipid, a major component of cell membranes, and involved in cell signaling pathways; involved in sphingomyelin synthesis.",
+          "relevant_activity_context": "Subclinical plaque status in adult Systemic Lupus Erythematosus (SLE) patients (SLE-P vs. SLE-NP); SLE with plaque (SLE-P), CVD risk in SLE.",
+          "performance_or_health_indicator": "Associated with subclinical plaque status and increased cardiovascular disease (CVD) risk in SLE patients. Identified as a top discriminating feature in UCLH-40; associated with sphingolipid dysregulation and CVD risk in SLE."
+        },
+        {
+          "biomarker_name": "Medium-density LDL cholesterol (M-LDL-C)",
+          "measured_tissue_or_fluid": "Blood Serum, Serum, Blood Plasma",
+          "activity_type": "Lipoprotein Subclass Cholesterol Concentration; Concentration",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Elevated in patients with SLE-P (P <0.05). Elevated M-LDL-C (part of a 5-panel atherosclerosis risk signature). Important predictor of plaque stratification."
+          },
+          "core_biological_function": "Component of low-density lipoprotein (LDL) subclasses, involved in cholesterol transport from the liver to peripheral tissues. A subclass of low-density lipoprotein cholesterol, involved in cholesterol transport; higher levels are linked to atherosclerosis development. Proatherogenic driver of atherosclerosis due to its lower density compared with atheroprotective HDL molecules.",
+          "relevant_activity_context": "Subclinical plaque status in adult Systemic Lupus Erythematosus (SLE) patients (SLE-P vs. SLE-NP) and atherosclerosis progression in Juvenile Systemic Lupus Erythematosus (JSLE) patients; Subclinical atherosclerosis risk in Systemic Lupus Erythematosus (SLE) patients; Part of a 5-panel atherosclerosis risk signature. Plaque stratification, atherosclerosis.",
+          "performance_or_health_indicator": "Associated with subclinical plaque status and increased cardiovascular disease (CVD) risk. It is a key feature in the simplified 5-feature predictive panel for plaque status and CVD risk. Also shows potential utility in non-SLE populations for MI, stroke, and peripheral vascular disease. Associated with elevated CVD risk and subclinical atherosclerosis in SLE. Important predictor of plaque stratification; established proatherogenic driver of atherosclerosis."
+        },
+        {
+          "biomarker_name": "Polyunsaturated Fatty Acids (FAs)",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Lipid Concentration",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Elevated in patients with SLE-P (P <0.05)."
+          },
+          "core_biological_function": "Essential fatty acids, vital components of cell membranes and precursors for signaling molecules.",
+          "relevant_activity_context": "Subclinical plaque status in adult Systemic Lupus Erythematosus (SLE) patients (SLE-P vs. SLE-NP).",
+          "performance_or_health_indicator": "Associated with subclinical plaque status and increased cardiovascular disease (CVD) risk in SLE patients."
+        },
+        {
+          "biomarker_name": "Phosphatidylcholine",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Lipid Concentration",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Elevated in patients with SLE-P (P <0.05)."
+          },
+          "core_biological_function": "Major component of cell membranes, involved in lipid transport and metabolism, and a precursor for signaling molecules.",
+          "relevant_activity_context": "Subclinical plaque status in adult Systemic Lupus Erythematosus (SLE) patients (SLE-P vs. SLE-NP).",
+          "performance_or_health_indicator": "Associated with subclinical plaque status and increased cardiovascular disease (CVD) risk in SLE patients."
+        },
+        {
+          "biomarker_name": "Omega-6/Omega-3 ratio",
+          "measured_tissue_or_fluid": "Blood Serum, Serum, Metabolomic panel (implied blood plasma)",
+          "activity_type": "Ratio of Fatty Acid Concentrations; Ratio; Metabolite Ratio",
+          "measured_effect": {
+            "direction_of_change": "lower; associated with CVD risk",
+            "magnitude_quantification": "A key feature in the simplified 5-feature panel for predicting plaque status and stratifying CVD risk. Low omega-3/omega-6 ratio (part of a 5-panel atherosclerosis risk signature). Lower ratio was associated with high-plaque classification accuracy; imbalance leads to dysregulated metabolic homeostasis, hyperlipidemia, and inflammation."
+          },
+          "core_biological_function": "Reflects the balance of dietary essential fatty acids, influencing inflammatory responses and cardiovascular health. Involved in lipid metabolism and inflammation regulation; imbalances can affect cardiovascular health. Polyunsaturated fatty acids (omega-3) and saturated fats (omega-6) involved in metabolic homeostasis and inflammation.",
+          "relevant_activity_context": "Subclinical plaque status in adult Systemic Lupus Erythematosus (SLE) patients and atherosclerosis progression in Juvenile Systemic Lupus Erythematosus (JSLE) patients; Subclinical atherosclerosis risk in Systemic Lupus Erythematosus (SLE) patients; Part of a 5-panel atherosclerosis risk signature. High-plaque classification accuracy, acute myocardial infarction, dysregulated metabolic homeostasis, hyperlipidemia, and inflammation.",
+          "performance_or_health_indicator": "Associated with subclinical plaque status and increased cardiovascular disease (CVD) risk. It is a key feature in the simplified 5-feature predictive panel for plaque status and CVD risk. Also shows potential utility in non-SLE populations for MI, stroke, and peripheral vascular disease. Associated with elevated CVD risk and subclinical atherosclerosis in SLE. Associated with high-plaque classification accuracy; considered a strong predictor of acute myocardial infarction; indicates dysregulated metabolic homeostasis, hyperlipidemia, and inflammation."
+        },
+        {
+          "biomarker_name": "Choline",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Metabolite Concentration",
+          "measured_effect": {
+            "direction_of_change": "associated with plaque status",
+            "magnitude_quantification": "Identified as a statin-responsive metabolite associated with subclinical plaque status (Figure 2E). Specific quantitative change for direction not explicitly detailed in this text chunk."
+          },
+          "core_biological_function": "Essential nutrient and precursor for acetylcholine (neurotransmitter) and phosphatidylcholine (cell membrane component), involved in lipid metabolism.",
+          "relevant_activity_context": "Subclinical plaque status in adult Systemic Lupus Erythematosus (SLE) patients.",
+          "performance_or_health_indicator": "Associated with subclinical plaque status and increased cardiovascular disease (CVD) risk in SLE patients. Identified as statin-responsive in previous pharmacological studies."
+        },
+        {
+          "biomarker_name": "Serine",
+          "measured_tissue_or_fluid": "Blood Plasma",
+          "activity_type": "Metabolite Concentration",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Reduced in patients with metabolic syndrome; aberrant serine homeostasis causes glycine and serine deficiency; dietary serine supplementation mitigates dyslipidemia in diabetic mice."
+          },
+          "core_biological_function": "Precursor amino acid to glycine; central to cell metabolism, including lipid metabolism and the de novo production of sphingolipids.",
+          "relevant_activity_context": "Metabolic syndrome, dyslipidemia in diabetic mice.",
+          "performance_or_health_indicator": "Deficiency is associated with metabolic syndrome and dyslipidemia; supplementation can mitigate dyslipidemia."
+        },
+        {
+          "biomarker_name": "Serum cholesterol",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Level measurement",
+          "measured_effect": {
+            "direction_of_change": "unchanged or misclassified",
+            "magnitude_quantification": "Routine measurements classified many patients with plaque as having a low-CVD-risk profile, illustrating poor performance; SLE patients often have serum lipid levels within currently defined normal ranges."
+          },
+          "core_biological_function": "General lipid status and cholesterol transport.",
+          "relevant_activity_context": "CVD risk assessment in Systemic Lupus Erythematosus (SLE) patients using existing established risk scores.",
+          "performance_or_health_indicator": "Poor performance in identifying subclinical atherosclerosis and elevated CVD risk in SLE patients compared to the developed metabolite signature; often misleadingly within normal ranges despite high actual risk."
+        }
+      ]
+    }
+  }
+]

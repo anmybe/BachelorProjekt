@@ -1,0 +1,232 @@
+[
+  {
+    "title": "pmc J Sport Health Sci J Sport Health Sci Journal of Sport and Health Science 2095-2546 2213-2961 Shanghai University of Sport 10199139 S2095-2546(22)00114-4 10.1016/j.jshs.2022.11.007 Original Article Are EPB41 and alpha-synuclein diagnostic biomarkers of sport-related concussion? Findings from the NCAA and Department of Defense CARE Consortium Vorn Rany a b Devoto Christina b Meier Timothy B. c Lai Chen b Yun Sijung d Broglio Steven P. e Mithani Sara b \u2020 McAllister Thomas W. f Giza Christopher C. g Kim Hyung-Suk b Huber Daniel c Harezlak Jaroslaw h Cameron Kenneth L. i McGinty Gerald j Jackson Jonathan j Guskiewicz Kevin M. k Mihalik Jason P. k Brooks Alison l Duma Stefan m Rowson Steven m Nelson Lindsay D. c Pasquina Paul n McCrea Michael A. c \u2021 Gill Jessica M. jessicagill@jhu.edu a \u2021 \u204e CARE Consortium Investigators a Johns Hopkins School of Nursing and Medicine, Baltimore, MD 21205, USA b National Institutes of Health, Bethesda, MD 20892, USA c Department of Neurosurgery, Medical College of Wisconsin, Milwaukee, WI 53226, USA d Predictiv Care, Inc., Mountain View, CA 94086, USA e Michigan Concussion Center, University of Michigan, Ann Arbor, MI 48109, USA f Department of Psychiatry, Indiana University School of Medicine, Indianapolis, IN 46202, USA g Departments of Pediatrics and Neurosurgery, University of California at Los Angeles (UCLA), Los Angeles, CA 90024, USA h Department of Epidemiology and Biostatistics School of Public Health \u2013 Bloomington, Indiana University, Bloomington, IN 47405, USA i John A. Feagin Sports Medicine Fellowship, Keller Army Community Hospital, West Point, NY 10996, USA j United States Air Force Academy, Colorado Springs, CO 80840, USA k Mathew Gfeller Center, Department of Exercise and Sport Science, University of North Carolina at Chapel Hill, Chapel Hill, NC 27514, USA l Department of Orthopedics, Division of Sports Medicine, School of Medicine and Public Health, University of Wisconsin, Madison, WI 53705, USA m Department of Biomedical Engineering and Mechanics, Virginia Tech, Blacksburg, VA 24061, USA n Center for Neuroscience & Regenerative Medicine, Uniformed Services University, Bethesda, MD 20814, USA \u204e Corresponding author. jessicagill@jhu.edu \u2020 Current affiliation: School of Nursing, University of Texas Health Science Center San Antonio, San Antonio, TX 78229, USA. \u2021 These two authors contributed equally to this work. 18 11 2022 5 2023 18 11 2022 12 3 379 387 12 2 2022 15 7 2022 8 10 2022 \u00a9 2023 Published by Elsevier B.V. on behalf of Shanghai University of Sport. 2023 https://creativecommons.org/licenses/by-nc-nd/4.0/ This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/). Highlights \u2022 Feasibility of multiplexed blood-based protein levels in sport-related concussion. \u2022 Identify novel blood-based biomarkers for concussed athletes. \u2022 Dysregulation of blood-based proteins provides a better understanding of human response to injury. \u2022 EPB41 and alpha synuclein distinguish concussed athletes from non-concussed athletes. Background Current protein biomarkers are only moderately predictive at identifying individuals with mild traumatic brain injury or concussion. Therefore, more accurate diagnostic markers are needed for sport-related concussion. Methods This was a multicenter, prospective, case-control study of athletes who provided blood samples and were diagnosed with a concussion or were a matched non-concussed control within the National Collegiate Athletic Association\u2013Department of Defense Concussion Assessment, Research, and Education Consortium conducted between 2015 and 2019. The blood was collected within 48 h of injury to identify protein abnormalities at the acute and subacute timepoints. Athletes with concussion were divided into 6 h post-injury (0\u20136 h post-injury) and after 6 h post-injury (7\u201348 h post-injury) groups. We applied a highly multiplexed proteomic technique that used a DNA aptamers assay to target 1305 proteins in plasma samples from athletes with and without sport-related concussion. Results A total of 140 athletes with concussion (79.3% males; aged 18.71 \u00b1 1.10 years, mean \u00b1 SD) and 21 non-concussed athletes (76.2% males; 19.14 \u00b1 1.10 years) were included in this study. We identified 338 plasma proteins that significantly differed in abundance (319 upregulated and 19 downregulated) in concussed athletes compared to non-concussed athletes. The top 20 most differentially abundant proteins discriminated concussed athletes from non-concussed athletes with an area under the curve (AUC) of 0.954 (95% confidence interval: 0.922\u20120.986). Specifically, after 6 h of injury, the individual AUC of plasma erythrocyte membrane protein band 4.1 (EPB41) and alpha-synuclein (SNCA) were 0.956 and 0.875, respectively. The combination of EPB41 and SNCA provided the best AUC (1.000), which suggests this combination of candidate plasma biomarkers is the best for diagnosing concussion in athletes after 6 h of injury. Conclusion Our data suggest that proteomic profiling may provide novel diagnostic protein markers and that a combination of EPB41 and SNCA is the most predictive biomarker of concussion after 6 h of injury. Graphical abstract Keywords Biomarkers College athletes Concussion Mild traumatic brain injury Sport injury",
+    "document_source_id": "36403906",
+    "analysis_date": "2025-12-09",
+    "extracted_data": {
+      "document_summary": "This study aimed to identify novel diagnostic plasma biomarkers for sport-related concussion (SRC) by investigating proteomic changes in collegiate athletes. It found 338 differentially abundant plasma proteins after SRC, with a combination of erythrocyte membrane protein band 4.1 (EPB41) and alpha-synuclein (SNCA) demonstrating high diagnostic accuracy, especially when measured more than 6 hours post-injury. The study also noted acute increases in cardiac-related proteins (troponin T, troponin I, and FABP3) post-SRC, suggesting physiological stress.",
+      "treatment_details": {
+        "therapy_type": "Diagnosis of Sport-related Concussion (SRC) using proteomic profiling",
+        "dose_specificity": "Blood samples were collected from concussed and non-concussed collegiate athletes within 48 hours post-injury, with analyses conducted for acute (0-6 hours) and subacute (7-48 hours) phases. A highly multiplexed proteomic DNA aptamers assay targeting 1305 plasma proteins was used. The study focused on biomarker discovery for diagnosis rather than a therapeutic intervention, thus no specific dose comparisons for a therapeutic agent were reported, nor was a 'dose' of concussion administered or compared."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "EPB41 (erythrocyte membrane protein band 4.1)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher abundance after SRC (dysregulated)",
+            "magnitude_quantification": "Significantly more abundant after SRC (P<0.05). After 6 hours post-injury, individual plasma EPB41 showed an AUC of 0.956 (95%CI: 0.902\u20131.000); combination with SNCA provided an AUC of 1.000."
+          },
+          "core_biological_function": "Essential erythrocyte membrane component, stabilizing the spectrin-actin cytoskeleton, and plays an essential role in the central nervous system.",
+          "relevant_activity_context": "Sport-related concussion (SRC) diagnosis, particularly >6 hours post-injury.",
+          "performance_or_health_indicator": "A highly accurate plasma diagnostic biomarker for concussion in athletes, especially when combined with alpha-synuclein. Previously, decreased levels were associated with neurological impairments."
+        },
+        {
+          "biomarker_name": "alpha-synuclein (SNCA)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "lower abundance after SRC (dysregulated)",
+            "magnitude_quantification": "Significantly less abundant after SRC (P<0.05). After 6 hours post-injury, individual plasma SNCA showed an AUC of 0.875 (95%CI: 0.794\u20130.957); combination with EPB41 provided an AUC of 1.000."
+          },
+          "core_biological_function": "Presynaptic neuronal protein involved in synaptic plasticity, dopamine regulation, and membrane trafficking. Identified as a novel biomarker for concussion.",
+          "relevant_activity_context": "Sport-related concussion (SRC) diagnosis, particularly >6 hours post-injury.",
+          "performance_or_health_indicator": "A highly accurate plasma diagnostic biomarker for concussion in athletes, especially when combined with EPB41. Dysregulated levels are associated with neuronal damage and implicated in neurological diseases and severe TBI."
+        },
+        {
+          "biomarker_name": "Apolipoprotein E (APOE)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly more abundant after SRC (P<0.05)."
+          },
+          "core_biological_function": "Involved in lipid metabolism and transport; potential candidate biomarker for concussion.",
+          "relevant_activity_context": "Sports-Related Concussion (SRC) assessment.",
+          "performance_or_health_indicator": "Potential candidate biomarker for concussion."
+        },
+        {
+          "biomarker_name": "Apolipoprotein E isoform 2 (APOE.2)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly more abundant after SRC (P<0.05)."
+          },
+          "core_biological_function": "Involved in lipid metabolism and transport; potential candidate biomarker for concussion.",
+          "relevant_activity_context": "Sports-Related Concussion (SRC) assessment.",
+          "performance_or_health_indicator": "Potential candidate biomarker for concussion."
+        },
+        {
+          "biomarker_name": "Apolipoprotein E isoform 1 (APOE.1)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly more abundant after SRC (P<0.05)."
+          },
+          "core_biological_function": "Involved in lipid metabolism and transport; potential candidate biomarker for concussion.",
+          "relevant_activity_context": "Sports-Related Concussion (SRC) assessment.",
+          "performance_or_health_indicator": "Potential candidate biomarker for concussion."
+        },
+        {
+          "biomarker_name": "Matrix metallopeptidase 3",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly more abundant after SRC (P<0.05)."
+          },
+          "core_biological_function": "Involved in extracellular matrix degradation and remodeling; potential candidate biomarker for concussion.",
+          "relevant_activity_context": "Sports-Related Concussion (SRC) assessment.",
+          "performance_or_health_indicator": "Potential candidate biomarker for concussion."
+        },
+        {
+          "biomarker_name": "Quinone oxidoreductase-like protein 1",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly more abundant after SRC (P<0.05)."
+          },
+          "core_biological_function": "Involved in detoxification and antioxidant defense; potential candidate biomarker for concussion.",
+          "relevant_activity_context": "Sports-Related Concussion (SRC) assessment.",
+          "performance_or_health_indicator": "Potential candidate biomarker for concussion."
+        },
+        {
+          "biomarker_name": "C-X-C motif chemokine ligand 1",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Significantly less abundant after SRC (P<0.05)."
+          },
+          "core_biological_function": "Mediates immune cell recruitment (chemokine); potential candidate biomarker for concussion.",
+          "relevant_activity_context": "Sports-Related Concussion (SRC) assessment.",
+          "performance_or_health_indicator": "Potential candidate biomarker for concussion."
+        },
+        {
+          "biomarker_name": "C-X-C motif chemokine ligand 6",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Significantly less abundant after SRC (P<0.05)."
+          },
+          "core_biological_function": "Mediates immune cell recruitment (chemokine); potential candidate biomarker for concussion.",
+          "relevant_activity_context": "Sports-Related Concussion (SRC) assessment.",
+          "performance_or_health_indicator": "Potential candidate biomarker for concussion."
+        },
+        {
+          "biomarker_name": "SH2 domain containing 1A",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Significantly less abundant after SRC (P<0.05)."
+          },
+          "core_biological_function": "Involved in intracellular signal transduction; potential candidate biomarker for concussion.",
+          "relevant_activity_context": "Sports-Related Concussion (SRC) assessment.",
+          "performance_or_health_indicator": "Potential candidate biomarker for concussion."
+        },
+        {
+          "biomarker_name": "Tyrosine kinase 2",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Significantly less abundant after SRC (P<0.05)."
+          },
+          "core_biological_function": "Involved in intracellular signal transduction; potential candidate biomarker for concussion.",
+          "relevant_activity_context": "Sports-Related Concussion (SRC) assessment.",
+          "performance_or_health_indicator": "Potential candidate biomarker for concussion."
+        },
+        {
+          "biomarker_name": "Glial fibrillary acidic protein (GFAP)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Differentially abundant, confirming previous findings regarding plasma proteins in SRC. Recognized as a diagnostic marker for mTBI."
+          },
+          "core_biological_function": "Marker of astroglial damage following mild traumatic brain injuries (mTBIs).",
+          "relevant_activity_context": "Sports-Related Concussion (SRC) assessment.",
+          "performance_or_health_indicator": "Recognized diagnostic marker for mTBI; potential candidate biomarker for concussion; used to determine necessity of CT scans."
+        },
+        {
+          "biomarker_name": "Ubiquitin C-terminal hydrolase-L1 (UCH-L1)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Differentially abundant, confirming previous findings regarding plasma proteins in SRC. Recognized as a diagnostic marker for mTBI."
+          },
+          "core_biological_function": "Marker of neuronal and axonal damage following mild traumatic brain injuries (mTBIs).",
+          "relevant_activity_context": "Sports-Related Concussion (SRC) assessment.",
+          "performance_or_health_indicator": "Recognized diagnostic marker for mTBI; potential candidate biomarker for concussion; used to determine necessity of CT scans."
+        },
+        {
+          "biomarker_name": "Microtubule associated protein tau",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Differentially abundant, confirming previous findings regarding plasma proteins in SRC."
+          },
+          "core_biological_function": "Involved in neuronal structure; relates to neuronal damage following mTBIs.",
+          "relevant_activity_context": "Sports-Related Concussion (SRC) assessment.",
+          "performance_or_health_indicator": "Potential candidate biomarker for concussion."
+        },
+        {
+          "biomarker_name": "Inflammatory cytokines",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "differentially abundant",
+            "magnitude_quantification": "Differentially abundant, confirming previous findings regarding plasma proteins in SRC."
+          },
+          "core_biological_function": "Mediate inflammation; related to post-injury inflammatory response.",
+          "relevant_activity_context": "Sports-Related Concussion (SRC) assessment.",
+          "performance_or_health_indicator": "Potential candidate biomarker for concussion."
+        },
+        {
+          "biomarker_name": "Troponin T",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Higher abundance (elevated levels)",
+            "magnitude_quantification": "Greater abundance within 6 hours post-injury; no specific quantitative value provided."
+          },
+          "core_biological_function": "Found predominantly in cardiac and skeletal muscles; plays an important role in regulating myocardium contraction.",
+          "relevant_activity_context": "Acute time point (within 6 hours) post-Sport-related Concussion (SRC).",
+          "performance_or_health_indicator": "Generally serves as a biomarker of acute myocardial infarction. In the context of SRC, elevated levels may relate to physiological stress following injury."
+        },
+        {
+          "biomarker_name": "Troponin I",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Higher abundance (elevated levels)",
+            "magnitude_quantification": "Greater abundance within 6 hours post-injury; no specific quantitative value provided."
+          },
+          "core_biological_function": "Found predominantly in cardiac and skeletal muscles; plays an important role in regulating myocardium contraction.",
+          "relevant_activity_context": "Acute time point (within 6 hours) post-Sport-related Concussion (SRC).",
+          "performance_or_health_indicator": "Generally serves as a biomarker of acute myocardial infarction. In the context of SRC, elevated levels may relate to physiological stress following injury."
+        },
+        {
+          "biomarker_name": "FABP3 (Fatty Acid Binding Protein 3)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Higher abundance (elevated levels)",
+            "magnitude_quantification": "Greater abundance within 6 hours post-injury; no specific quantitative value provided."
+          },
+          "core_biological_function": "Found predominantly in cardiac and skeletal muscles, regulating myocardium contraction. Also expressed in dopaminergic neurons, regulating intracellular fatty acid transportation, metabolism, and energy homeostasis.",
+          "relevant_activity_context": "Acute time point (within 6 hours) post-Sport-related Concussion (SRC).",
+          "performance_or_health_indicator": "Generally serves as a biomarker of acute myocardial infarction. In the context of SRC, elevated levels may relate to physiological stress. Overexpression of FABP3 has been shown to induce dopaminergic neuron toxicity and lead to neurodegeneration."
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,244 @@
+[
+  {
+    "title": "Sci Rep Sci Rep Scientific Reports 2045-2322 Nature Publishing Group UK London 5847606 22596 10.1038/s41598-018-22596-z Article Transdifferentiation of pancreatic progenitor cells to hepatocyte-like cells is not serum-dependent when facilitated by extracellular matrix proteins Gratte Francis D. 1 2 Pasic Sara 1 Olynyk John K. 1 2 3 http://orcid.org/0000-0002-4740-4702 Yeoh George C. T. 4 6 Tosh David 5 Coombe Deirdre R. D.Coombe@curtin.edu.au 1 6 Tirnitz-Parker Janina E. E. N.Tirnitz-Parker@curtin.edu.au 1 6 7 1 0000 0004 0375 4078 grid.1032.0 School of Pharmacy and Biomedical Sciences, Curtin Health Innovation Research Institute, Curtin University, Bentley, WA Australia 2 0000 0004 0436 6763 grid.1025.6 School of Veterinary and Life Sciences, Murdoch University, Murdoch, WA Australia 3 Department of Gastroenterology and Hepatology, Fiona Stanley and Fremantle Hospitals, Perth, WA Australia 4 grid.431595.f Cancer and Cell Biology Division, The Harry Perkins Institute of Medical Research, Nedlands, WA Australia 5 0000 0001 2162 1699 grid.7340.0 Centre for Regenerative Medicine, University of Bath, Bath, United Kingdom 6 0000 0004 1936 7910 grid.1012.2 Centre for Cell Therapy and Regenerative Medicine, School of Biomedical Sciences, The University of Western Australia, Crawley, WA Australia 7 0000 0004 1936 7910 grid.1012.2 School of Medicine and Pharmacology, University of Western Australia, Fremantle, WA Australia 12 3 2018 12 3 2018 2018 8 4385 1 2 2017 27 2 2018 \u00a9 The Author(s) 2018 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article\u2019s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article\u2019s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ . The rising prevalence of chronic liver disease, coupled with a permanent shortage of organs for liver transplantation, has sparked enormous interest in alternative treatment strategies. Previous protocols to generate hepatocyte-like cells (HLCs) via pancreas-to-liver transdifferentiation have utilised fetal bovine serum, introducing unknown variables and severely limiting study reproducibility. Therefore, the main goal of this study was to develop a protocol for transdifferentiation of pancreatic progenitor cells to HLCs in a chemically defined, serum-free culture medium. The clonal pancreatic progenitor cell line AR42J-B13 was cultured in basal growth medium on uncoated plastic culture dishes in the absence or presence of Dexamethasone on uncoated, laminin- or fibronectin-coated culture substrata, with or without serum supplementation. The hepatocytic differentiation potential was evaluated: (i) morphologically through bright-field and scanning electron microscopy, (ii) by assessing pancreatic and hepatic marker expression and (iii) by determining the function of HLCs through their ability to synthesise glycogen or take up and release indocyanine green. Here we demonstrate for the first time that transdifferentiation of pancreatic cells to HLCs is not dependent on serum. These results will assist in converting current differentiation protocols into procedures that are compliant with clinical use in future cell-based therapies to treat liver-related metabolic disorders. issue-copyright-statement \u00a9 The Author(s) 2018 Introduction Irrespective of the underlying aetiology, chronic liver diseases such as alcoholic liver disease, non-alcoholic steatohepatitis or viral hepatitis infection may progress to cirrhosis and eventually hepatocellular carcinoma. Despite a recent decline in death rates from other cancers, the prevalence and disease burden of hepatocellular carcinoma continue to rise due to an increase in risk factors such as diabetes, obesity or dietary aflotoxin B1 exposure 1 , 2 . Currently, tumour resection, ablation or orthotopic liver transplantation are the primary treatment options. However, the demand for donor livers drastically exceeds their availability and an increasing number of patients with end-stage liver disease die on the waiting list for transplantation, highlighting the need for alternative treatment approaches. Extracorporeal or bioartificial liver devices and hepatocyte transplantation represent two promising strategies to support the failing liver, and may either buy time for the native liver to recover through repair and regeneration, or may prolong a patient\u2019s life until liver transplantation. For these therapies, hepatocytes can be isolated from surplus or rejected donor livers, however availabilities are restricted and the viability of the generated hepatocyte population is often compromised if harvested from livers obtained from non-heart beating cadavers 3 . As an alternative, hepatocyte-like cells (HLCs) have been generated, with variable rates of efficacy, from a variety of cell sources including embryonic stem cells, mesenchymal stem cells, induced pluripotent stem cells and human amniotic stem cells 4 . Pancreatic progenitor cells have also been studied as hepatocyte precursors. In particular the pancreatic progenitor cell line AR42J-B13 has been used as a pancreas-to-liver transdifferentiation model 5 \u2013 8 . Transdifferentiation belongs to a wider class of cell transformations termed metaplasias and refers to the phenomenon of one differentiated cell type irreversibly converting to another 9 . A natural case of metaplasia is the development of Barrett\u2019s metaplasia in the context of severe gastroesophageal reflux disease, where normal stratified squamous epithelial cells in the distal oesophagus are replaced by a simple columnar epithelium that includes acid mucin-containing goblet cells - a cell type normally found in the gastrointestinal tract 9 . Pancreas-to-liver transdifferentiation reflects the close developmental relationship of the two tissues, both of which arise from the same endodermal region during embryogenesis 10 . Pancreas-derived HLCs can be induced in vivo by subjecting rats to a copper depletion-repletion protocol 11 or by transgenically overexpressing keratinocyte growth factor in pancreatic \u03b2-cells 12 . In vitro , pancreas-to-liver transdifferentiation can be successfully recapitulated with the amphicrine cell line AR42J, which was derived from azaserine-treated rats 13 . Treatment of the subclone AR42J-B13 with the synthetic glucocorticoid Dexamethasone induces these cells to convert to a functional hepatocytic phenotype, as determined by downregulation of amylase with concomitant induction of liver-enriched transcription factors and the expression and activity of hepatocyte-specific proteins 5 , 14 . These previous studies have been performed in culture medium containing fetal bovine serum (FBS) to supply a cocktail of the nutrients, growth factors, hormones, carrier proteins for lipoid substances and trace elements that are necessary for substratum attachment, cell viability and proliferation. However, ethical concerns have been raised with respect to the harvest and collection of FBS, and there is considerable batch-to-batch variation in FBS, resulting in qualitative and quantitative differences in culture medium compositions. In addition, FBS may contain adverse factors such as endotoxins or haemoglobin and may be a source of bacteria, viruses and other microbial contaminants 15 . To establish reproducible differentiation techniques and to generate protocols that are potentially suitable for human cell therapy, it is desirable to create defined, serum-free cell culture conditions. Most serum-free culture approaches have used extracellular matrix (ECM) proteins to mediate cell adhesion. The ECM is comprised of various macromolecules, including glycoproteins such as collagens, laminins, fibronectin and perlecan, which together assemble into a scaffold that directs the spatial arrangements of cells and dictates tissue structures. The interaction of cells with ECM molecules via the cells\u2019 integrin receptors triggers intracellular signalling pathways that influence cell morphology and behaviour and provide essential intracellular signals to prevent unregulated apoptosis 16 , 17 . The ECM components collagen type I, fibronectin and laminin 111 have been demonstrated to regulate hepatocytic differentiation and maintenance of a mature phenotype in vitro 18 , 19 . Collagen I promotes the adhesion and differentiation of liver progenitor cells into hepatocytes or cholangiocytes 17 , 20 while laminin 111 was shown to increase liver progenitor cell attachment and proliferation while inhibiting differentiation and maintaining an immature phenotype 21 \u2013 23 . Fibronectin generally promotes cell adhesion and in some cases differentiation, mediated via particular cell surface integrins. A study with human liver progenitors found that fibronectin promoted rapid terminal differentiation and possibly apoptosis of these cells 20 , 23 . The aims of the present study were to generate functional HLCs through the transdifferentiation of pancreatic AR42J-B13 cells using a chemically defined, serum-free cell culture protocol and to evaluate and compare the traditional (with FBS) to the serum-free cultures. Accordingly, AR42J-B13 cells were grown on uncoated plastic culture dishes using basal cell culture medium containing FBS, or under transdifferentiation-inducing conditions with or without serum supplementation on culture dishes that were uncoated, laminin-coated, or fibronectin-coated. Over a period of five days, the cells were monitored and morphologically assessed, evaluated for changes in gene and protein expression of pancreatic and hepatocytic markers, as well as being subjected to functional hepatocyte assays. AR42J-B13 cells rapidly changed their morphology and their gene and protein expression patterns from a pancreatic to a hepatocytic phenotype. They also demonstrated hepatocyte functionality independent of the culture medium\u2019s FBS status. To the best of our knowledge, this is the first report of successful hepatocytic transdifferentiation of pancreatic cells in serum-free conditions, facilitated by ECM proteins.",
+    "document_source_id": "29531353",
+    "analysis_date": "2025-12-09",
+    "extracted_data": {
+      "document_summary": "This study investigated a chemically defined, serum-free protocol for the in vitro transdifferentiation of pancreatic progenitor AR42J-B13 cells into functional hepatocyte-like cells (HLCs) over five days. The research examined morphological, transcriptomic, proteomic, and functional changes, concluding that successful transdifferentiation, facilitated by extracellular matrix proteins like fibronectin or laminin, is independent of serum.",
+      "treatment_details": {
+        "therapy_type": "In vitro pancreatic progenitor cell transdifferentiation to hepatocyte-like cells",
+        "dose_specificity": "Clonal pancreatic progenitor AR42J-B13 cells were cultured for five days in a differentiation medium containing 100 nM Dexamethasone, 10 ng/ml Oncostatin M, 20 ng/ml HGF, 20 ng/ml FGF-2, 1% ITS+ (insulin, transferrin, selenous acid), 0.2% BSA, 4.4 mM nicotinamide, 1 \u00b5M copper sulphate, 30 \u00b5g/ml ascorbic acid, and 1 \u00b5g/ml heparin. Cells were grown on uncoated plastic, laminin-coated (2 \u00b5g/cm2), or fibronectin-coated (5 \u00b5g/cm2) substrata, with or without 5% FBS supplementation. The study primarily focused on the effectiveness of serum-free conditions facilitated by ECM proteins, rather than dose-response comparisons for individual components, finding no significant difference in transdifferentiation potential between fibronectin and laminin substrata."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "Amylase",
+          "measured_tissue_or_fluid": "AR42J-B13 pancreatic progenitor cells in culture",
+          "activity_type": "Gene Transcript (mRNA expression) and Protein Level (immunofluorescence)",
+          "measured_effect": {
+            "direction_of_change": "initially elevated (mRNA), then downregulated in a subpopulation (protein)",
+            "magnitude_quantification": "mRNA was significantly elevated at day 5 post-induction. Protein was reliably detected in 99.5 \u00b1 0.6% of undifferentiated cells; differentiation medium led to downregulation in a subpopulation while others stained robustly (no specific quantitative data for downregulation provided)."
+          },
+          "core_biological_function": "Pancreatic enzyme involved in carbohydrate and starch digestion; a key marker of pancreatic acinar cell phenotype.",
+          "relevant_activity_context": "Pancreas-to-liver transdifferentiation induced by Dexamethasone in serum-free conditions facilitated by ECM proteins, observed over 5 days of differentiation medium exposure.",
+          "performance_or_health_indicator": "Indicates a complex, transient response during transdifferentiation, showing a shift away from a full pancreatic phenotype but not complete loss in all cells, suggesting an intermediate phenotype."
+        },
+        {
+          "biomarker_name": "Liver-enriched transcription factors",
+          "measured_tissue_or_fluid": "Pancreatic progenitor cells (AR42J-B13 cells) in culture",
+          "activity_type": "Gene Expression",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Concomitant induction observed (no specific quantitative data provided)."
+          },
+          "core_biological_function": "Regulate gene expression patterns essential for liver cell development and maintenance of hepatocyte-specific functions.",
+          "relevant_activity_context": "Pancreas-to-liver transdifferentiation induced by Dexamethasone in serum-free conditions facilitated by ECM proteins.",
+          "performance_or_health_indicator": "Indicates the acquisition of a hepatocytic phenotype and commitment to liver cell identity during transdifferentiation."
+        },
+        {
+          "biomarker_name": "Hepatocyte-specific proteins",
+          "measured_tissue_or_fluid": "Pancreatic progenitor cells (AR42J-B13 cells) in culture",
+          "activity_type": "Protein Expression and Activity",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Expression and activity observed, confirming functional hepatocytic phenotype (no specific quantitative data provided)."
+          },
+          "core_biological_function": "Perform metabolic, synthetic, and detoxification functions characteristic of mature hepatocytes.",
+          "relevant_activity_context": "Pancreas-to-liver transdifferentiation induced by Dexamethasone in serum-free conditions facilitated by ECM proteins.",
+          "performance_or_health_indicator": "Confirms the successful transdifferentiation into functional hepatocyte-like cells."
+        },
+        {
+          "biomarker_name": "AR42J-B13 cell morphology",
+          "measured_tissue_or_fluid": "AR42J-B13 cells (in vitro culture)",
+          "activity_type": "Morphological observation (light and scanning electron microscopy)",
+          "measured_effect": {
+            "direction_of_change": "changed",
+            "magnitude_quantification": "Undifferentiated cells were small (~10 \u00b5m), round, and grew in clusters. By day 2 of differentiation, cells enlarged to 20\u201340 \u00b5m, became less spherical, flattened, and formed monolayers of mostly polygonal cells. By day 4, 40\u201350% exhibited multinucleation."
+          },
+          "core_biological_function": "Cellular structure and organization, reflects cell state and differentiation stage.",
+          "relevant_activity_context": "Exposure to transdifferentiation-inducing conditions (differentiation medium) by day 2 and day 4 post-induction.",
+          "performance_or_health_indicator": "Indicates successful induction of cellular transdifferentiation towards a hepatocyte phenotype."
+        },
+        {
+          "biomarker_name": "PTF1A (Pancreas transcription factor 1 subunit alpha)",
+          "measured_tissue_or_fluid": "AR42J-B13 cells",
+          "activity_type": "Gene Transcript (mRNA expression)",
+          "measured_effect": {
+            "direction_of_change": "significantly reduced/downregulated",
+            "magnitude_quantification": "Reduced to almost undetectable levels in all experimental groups exposed to differentiation medium (highly expressed in normal AR42J-B13 cells)."
+          },
+          "core_biological_function": "Master regulator of pancreas development and acinar cell fate specification, crucial for pancreatic cell type differentiation.",
+          "relevant_activity_context": "Pancreas-to-liver transdifferentiation under serum-free conditions, in all experimental groups exposed to differentiation medium.",
+          "performance_or_health_indicator": "Indicates a clear loss of pancreatic acinar cell identity and a shift away from a pancreatic phenotype, confirming transdifferentiation."
+        },
+        {
+          "biomarker_name": "Pancreatic lipase",
+          "measured_tissue_or_fluid": "AR42J-B13 cells",
+          "activity_type": "Gene Transcript (mRNA expression)",
+          "measured_effect": {
+            "direction_of_change": "downregulated",
+            "magnitude_quantification": "No longer measurable at day 5 post-induction, a clear difference from expression seen in control cells (significantly downregulated)."
+          },
+          "core_biological_function": "Pancreatic enzyme involved in lipid digestion.",
+          "relevant_activity_context": "Pancreas-to-liver transdifferentiation under serum-free conditions, observed at day 5 of differentiation medium exposure.",
+          "performance_or_health_indicator": "Indicates a loss of pancreatic function and a shift away from a pancreatic phenotype, confirming transdifferentiation."
+        },
+        {
+          "biomarker_name": "HNF4\u03b1 (Hepatocyte nuclear factor 4 \u03b1)",
+          "measured_tissue_or_fluid": "AR42J-B13 cells (nucleus for protein, whole cells for gene transcript)",
+          "activity_type": "Gene Transcript (mRNA expression) and Protein Level (immunofluorescence)",
+          "measured_effect": {
+            "direction_of_change": "upregulated/higher",
+            "magnitude_quantification": "Undifferentiated cells did not express HNF4\u03b1. mRNA was upregulated to varying degrees. Protein was detected in the majority (61.4 \u00b1 12.6%) of all cells subjected to differentiation-inducing conditions, confirming increased expression."
+          },
+          "core_biological_function": "Key nuclear receptor critical for hepatocyte differentiation, activating target genes essential for liver development and maintaining hepatocyte-specific gene expression.",
+          "relevant_activity_context": "Pancreas-to-liver transdifferentiation under serum-free conditions, observed in response to differentiation medium and after 5 days of induction.",
+          "performance_or_health_indicator": "Indicates successful induction of hepatocyte differentiation and a conversion towards a hepatocyte phenotype, though co-expression with amylase in some cells suggests an intermediate stage."
+        },
+        {
+          "biomarker_name": "Albumin",
+          "measured_tissue_or_fluid": "AR42J-B13 cells (gene expression), Cell culture supernatant of AR42J-B13 cells (secreted protein)",
+          "activity_type": "Gene Transcript (mRNA expression) and Secreted Protein Level (ELISA)",
+          "measured_effect": {
+            "direction_of_change": "upregulated and secreted",
+            "magnitude_quantification": "mRNA was upregulated to varying degrees. Undifferentiated cells did not secrete albumin, but clear albumin secretion was demonstrated in the supernatant of all experimental groups exposed to differentiation medium."
+          },
+          "core_biological_function": "Major protein synthesized and secreted by the liver, essential for transport and maintaining oncotic pressure, serving as a key hepatocyte marker.",
+          "relevant_activity_context": "Pancreas-to-liver transdifferentiation under serum-free conditions, in response to differentiation medium.",
+          "performance_or_health_indicator": "Indicates a conversion towards a hepatocyte phenotype, confirming liver-specific protein synthesis and mature hepatocyte-like cell function."
+        },
+        {
+          "biomarker_name": "TAT (Tyrosine aminotransferase)",
+          "measured_tissue_or_fluid": "AR42J-B13 cells",
+          "activity_type": "Gene Transcript (mRNA expression)",
+          "measured_effect": {
+            "direction_of_change": "upregulated/higher",
+            "magnitude_quantification": "Upregulated to varying degrees (concomitant increase observed; no specific quantitative data provided)."
+          },
+          "core_biological_function": "Mitochondrial enzyme involved in tyrosine metabolism, highly expressed in hepatocytes, serving as a hepatocyte marker.",
+          "relevant_activity_context": "Pancreas-to-liver transdifferentiation under serum-free conditions, in response to differentiation medium.",
+          "performance_or_health_indicator": "Indicates a conversion towards a hepatocyte phenotype and metabolic function."
+        },
+        {
+          "biomarker_name": "CYP2C11",
+          "measured_tissue_or_fluid": "AR42J-B13 cells",
+          "activity_type": "Gene Transcript (mRNA expression level)",
+          "measured_effect": {
+            "direction_of_change": "upregulated",
+            "magnitude_quantification": "Upregulated to varying degrees."
+          },
+          "core_biological_function": "Cytochrome P450 enzyme, involved in drug metabolism and detoxification in hepatocytes.",
+          "relevant_activity_context": "Response to differentiation medium.",
+          "performance_or_health_indicator": "Indicates a conversion towards a hepatocyte phenotype and potential liver functionality."
+        },
+        {
+          "biomarker_name": "CYP2E1",
+          "measured_tissue_or_fluid": "AR42J-B13 cells",
+          "activity_type": "Gene Transcript (mRNA expression level)",
+          "measured_effect": {
+            "direction_of_change": "upregulated",
+            "magnitude_quantification": "Upregulated to varying degrees."
+          },
+          "core_biological_function": "Cytochrome P450 enzyme, involved in drug metabolism and detoxification in hepatocytes.",
+          "relevant_activity_context": "Response to differentiation medium.",
+          "performance_or_health_indicator": "Indicates a conversion towards a hepatocyte phenotype and potential liver functionality."
+        },
+        {
+          "biomarker_name": "Transthyretin",
+          "measured_tissue_or_fluid": "AR42J-B13 cells (cytoplasm)",
+          "activity_type": "Protein Level (immunofluorescence)",
+          "measured_effect": {
+            "direction_of_change": "strongly induced/higher",
+            "magnitude_quantification": "Undifferentiated cells lacked expression. Strongly induced in 95.7 \u00b1 1.5% of cells exposed to differentiation medium, with punctate cytoplasmic staining, confirming increased levels."
+          },
+          "core_biological_function": "Serum transport protein, synthesized and secreted by adult hepatocytes, acting as a hepatocytic marker.",
+          "relevant_activity_context": "Pancreas-to-liver transdifferentiation under serum-free conditions, in cells exposed to differentiation medium.",
+          "performance_or_health_indicator": "Confirms hepatocytic conversion at the protein level and a hepatocyte phenotype of transdifferentiated cells."
+        },
+        {
+          "biomarker_name": "Glutamine synthetase (GS)",
+          "measured_tissue_or_fluid": "AR42J-B13 cells",
+          "activity_type": "Protein Expression (immuno-staining)",
+          "measured_effect": {
+            "direction_of_change": "expressed",
+            "magnitude_quantification": "Undifferentiated cells were uniformly GS-negative. GS was expressed in a proportion of cells in all experimental groups cultured under hepatocyte differentiation conditions."
+          },
+          "core_biological_function": "Perivenous hepatocyte marker, involved in ammonia detoxification and glutamine synthesis.",
+          "relevant_activity_context": "Cells cultured under hepatocyte differentiation conditions during in vitro transdifferentiation.",
+          "performance_or_health_indicator": "Indicates differentiation into perivenous hepatocyte-like cells and specific hepatocyte zonation."
+        },
+        {
+          "biomarker_name": "Glycogen storage potential",
+          "measured_tissue_or_fluid": "AR42J-B13 cells",
+          "activity_type": "Functional Assay (Periodic acid-Schiff staining for content)",
+          "measured_effect": {
+            "direction_of_change": "displayed",
+            "magnitude_quantification": "Undifferentiated cells showed no intracellular purple stain. In all differentiation conditions, glycogen was visualized via strong intracellular purple staining in the vast majority of cells."
+          },
+          "core_biological_function": "Energy storage, a characteristic metabolic function of hepatocytes and indicator of carbohydrate metabolism.",
+          "relevant_activity_context": "Cells exposed to differentiation medium during in vitro transdifferentiation.",
+          "performance_or_health_indicator": "Suggests the presence of functional hepatocyte-like cells (HLCs) and mature hepatocyte-like cell metabolic function."
+        },
+        {
+          "biomarker_name": "Indocyanine green (ICG) uptake and release",
+          "measured_tissue_or_fluid": "AR42J-B13 cells",
+          "activity_type": "Functional Assay (Uptake and Release Capacity)",
+          "measured_effect": {
+            "direction_of_change": "taken up and released",
+            "magnitude_quantification": "Undifferentiated cells showed no ICG uptake. In all differentiation conditions, cellular uptake of ICG was followed by steady secretion with complete clearance after about six hours."
+          },
+          "core_biological_function": "Exclusive basolateral uptake and release of ICG, a characteristic function of functional hepatocytes, reflecting organic anion transport and biliary function.",
+          "relevant_activity_context": "Cells exposed to differentiation medium during in vitro transdifferentiation.",
+          "performance_or_health_indicator": "Confirms the functional integrity and excretory capacity of transdifferentiated hepatocyte-like cells."
+        },
+        {
+          "biomarker_name": "Wnt activity",
+          "measured_tissue_or_fluid": "AR42J-B13 cells",
+          "activity_type": "Activity Level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Depression in Wnt activity observed; no specific quantitative data provided."
+          },
+          "core_biological_function": "Cell signaling pathway involved in development and cellular processes.",
+          "relevant_activity_context": "Conversion of AR42J-B13 cells to HLCs.",
+          "performance_or_health_indicator": "Associated with pancreas-to-liver transdifferentiation."
+        },
+        {
+          "biomarker_name": "C/EBP\u03b2",
+          "measured_tissue_or_fluid": "AR42J-B13 cells",
+          "activity_type": "Gene Transcript / Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Induction observed; no specific quantitative data provided."
+          },
+          "core_biological_function": "Pancreas-to-liver master regulator.",
+          "relevant_activity_context": "Conversion of AR42J-B13 cells to HLCs.",
+          "performance_or_health_indicator": "Associated with pancreas-to-liver transdifferentiation."
+        },
+        {
+          "biomarker_name": "C/EBP\u03b1",
+          "measured_tissue_or_fluid": "Liver progenitor cells",
+          "activity_type": "Gene Transcript / Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Upregulation observed; no specific quantitative data provided."
+          },
+          "core_biological_function": "Key hepatic transcription factor.",
+          "relevant_activity_context": "Fibronectin-induced hepatocytic differentiation (in experiments by Lorenzini and colleagues).",
+          "performance_or_health_indicator": "Indicator of hepatocytic differentiation."
+        },
+        {
+          "biomarker_name": "18S rRNA",
+          "measured_tissue_or_fluid": "AR42J-B13 cells",
+          "activity_type": "Gene Transcript",
+          "measured_effect": {
+            "direction_of_change": "unchanged (implied as housekeeping gene)",
+            "magnitude_quantification": "Not reported as changing; used as a housekeeping gene for normalization."
+          },
+          "core_biological_function": "Component of the small ribosomal subunit, used as a stable reference for gene expression studies.",
+          "relevant_activity_context": "In vitro transdifferentiation of AR42J-B13 cells under various substratum and media conditions.",
+          "performance_or_health_indicator": "Serves as a reliable internal control for quantitative gene expression analysis."
+        }
+      ]
+    }
+  }
+]

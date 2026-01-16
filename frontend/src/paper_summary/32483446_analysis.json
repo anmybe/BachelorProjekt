@@ -1,0 +1,172 @@
+[
+  {
+    "title": "Theranostics Theranostics thno Theranostics 1838-7640 Ivyspring International Publisher Sydney 7255020 32483446 10.7150/thno.46225 thnov10p6167 Research Paper The anti-microbial peptide LL-37/CRAMP levels are associated with acute heart failure and can attenuate cardiac dysfunction in multiple preclinical models of heart failure Zhou Qiulian 1 2 # Pan Li-Long 3 # Xue Ruicong 4 5 # Ni Gehui 6 Duan Yi 1 Bai Yuzheng 1 Shi Chao 1 Ren Zhengnan 7 8 Wu Chengfei 7 8 Li Guoping 9 Agerberth Birgitta 10 Sluijter Joost PG 11 12 Sun Jia 7 8 \u2709 Xiao Junjie 1 2 \u2709 1 Cardiac Regeneration and Ageing Lab, Institute of Cardiovascular Sciences, School of Life Science, Shanghai University, Shanghai 200444, China 2 School of Medicine, Shanghai University, Shanghai 200444, China 3 School of Medicine, Jiangnan University, Wuxi 214122, China 4 Department of Cardiology, the First Affiliated Hospital of Sun Yat-Sen University, Guangzhou 510080, China 5 NHC Key Laboratory of Assisted Circulation (Sun Yat-sen University), Guangzhou 510080, PR China. 6 Department of Cardiology, The First Affiliated Hospital of Nanjing Medical University, Nanjing 210029, China 7 State Key Laboratory of Food Science and Technology, Jiangnan University, Wuxi 214122, China 8 School of Food Science and Technology, Jiangnan University, Wuxi 214122, China 9 Cardiovascular Division of the Massachusetts General Hospital and Harvard Medical School, Boston, MA 02114, USA 10 Department of Laboratory Medicine, Division of Clinical Microbiology, Karolinska University Hospital Huddinge, F68, Stockholm, Swede 11 Department of Cardiology, Laboratory of Experimental Cardiology, University Utrecht, University Medical Center Utrecht, 3584 CX Utrecht, The Netherlands 12 UMC Utrecht Regenerative Medicine Center, Circulatory Health Laboratory, University Medical Center Utrecht, 3508 GA Utrecht, The Netherlands \u2709 Corresponding authors: Prof. Junjie Xiao, Cardiac Regeneration and Ageing Lab, Institute of Cardiovascular Sciences, School of Life Science, Shanghai University, 333 Nan Chen Road, Shanghai 200444, China. Tel: 0086-21-66138131; Fax: 0086-21-66138131; E-mail: junjiexiao@shu.edu.cn or Prof. Jia Sun, State Key Laboratory of Food Science and Technology, School of Food Science and Technology, Synergetic Innovation Center of Food Safety and Nutrition, Jiangnan University, 1800 Lihu Avenue, Wuxi, Jiangsu 214122, China. Tel: 0086-510-85197370; Fax: 0086-510-85197370; E-mail: jiasun@jiangnan.edu.cn # These authors contributed equally to this work. Competing Interests: The authors have declared that no competing interest exists. 2020 15 5 2020 10 14 6167 6181 22 3 2020 5 5 2020 \u00a9 The author(s) 2020 This is an open access article distributed under the terms of the Creative Commons Attribution License ( https://creativecommons.org/licenses/by/4.0/ ). See http://ivyspring.com/terms for full terms and conditions. Rationale : Biomarkers for the diagnosis of heart failure (HF) are clinically essential. Circulating antimicrobial peptides LL-37 has emerged as a novel biomarker in cardiovascular disease, however, its relevance as a biomarker for acute HF are undetermined. Methods : Acute HF patients were enrolled in this study and the serum levels of LL-37/CRAMP (cathelicidin-related antimicrobial peptide) were measured by ELISA. The receiver-operator characteristic (ROC) curve was used to determine if serum LL-37 could be a biomarker for acute HF. Mouse CRAMP (mCRAMP, mouse homolog for human LL-37) was also determined in both heart and serum samples of, transverse aortic constriction (TAC)- and isoproterenol (ISO)-induced HF mice models, and phenylephrine (PE) and angiotensin II (AngII)-induced neonatal mouse cardiomyocytes (NMCMs) hypertrophic models, both intracellular and secreted, by ELISA. The protective effects of mCRAMP were determined in TAC, ISO, and AngII-induced HF in mice while whether HF was exacerbated in AngII-infused animals were checked in mCRAMP knockout mice. The underlying mechanism for protective effects of CARMP in pathological hypertrophy was determined by using a NF-\u03baB agonist together with rCRAMP (rat homolog for human LL-37) in AngII or PE treated neonatal rat cardiomyocytes (NRCMs). Results : Serum levels of LL-37 were significantly decreased in acute HF patients (area under the curve (AUC) of 0.616), and negatively correlated with NT-proBNP. We further confirmed that mCRAMP was decreased in both heart and serum samples of TAC- and ISO-induced HF mice models. Moreover, in PE and AngII-induced NMCMs hypertrophic models, both intracellular and secreted mCRAMP levels were reduced. Functionally, mCRAMP could attenuate TAC, ISO, and AngII-induced HF in mice while CRAMP deficiency exacerbated HF. Mechanistically, the anti-hypertrophy effects of CRAMP were mediated by NF-\u03baB signaling. Conclusions : Collectively, serum LL-37 is associated with acute HF and increasing CRAMP is protective against deleterious NF-\u03baB signaling in the rodent. Cathelicidin CRAMP LL-37 Heart Failure Serum Biomarker NF-\u03baB Introduction Heart failure (HF) is a major cause of morbidity and mortality worldwide 1 , 2 . HF is the final stage upon different initial cardiac insults, affecting over 1% of people aged over 50 years and increases progressively with age 3 . Hereby HF remains a major health epidemic, causing significant economic and public heath burdens in the world 1 . Despite great advances in the treatment of HF, HF patients still have a poor prognosis, with high rates of hospital readmission and mortality 4 , 5 . Moreover, especially for acute HF, no new therapies have improved clinical outcomes and admissions continue to increase and novel biomarkers and effective therapies are highly needed 1 , 6 , 7 . Cathelicidin-related antimicrobial peptide (CRAMP) is the rodent form of LL-37 in human 8 . CRAMP can be expressed by many cells, including neutrophils, monocytes, macrophages, corneal fibroblasts, epithelial cells, B lymphocytes, T lymphocytes, NK cells, and mast cells 9 , 10 . Besides a direct antimicrobial activity and immunomodulation effects, CRAMP has many other functional roles, including would healing, chemoattraction, cell proliferation, cell migration, apoptosis, epithelial-mesenchymal-transition, angiogenesis, and inflammation 8 , 11 - 14 . Changes of CRAMP levels have been linked to cancer and a variety of autoimmune diseases, including systemic lupus erythematous, arthritis, pancreatitis, and atherosclerosis 8 , 15 - 20 . We also reported that CRAMP, produced by pancreatic \u00df-cells, could attenuate autoimmune-induced diabetes by affecting regulatory immune cells in the pancreas 21 . In the cardiovascular system, CRAMP has been found to be able to protect against cardiac fibrosis in diabetic mice 22 . Besides, we and other groups have reported that CRAMP could protect against myocardial ischemia/reperfusion injury and enhance bone marrow cell retention in the treatment of cardiac dysfunction induced by myocardial infarction 9 , 23 . Recently, CRAMP was shown to suppress cardiac hypertrophy upon induction via pressure overload 24 . However, it is unclear if CRAMP can be used as a treatment for different causes of HF. Besides, circulating CRAMP has emerged as a biomarker of different cardiovascular disease 9 , 25 , but the functional role of circulating CRAMP in HF remains to be delineated. In the present study, we investigated if circulating LL-37/CRAMP could be a biomarker for acute HF and determined whether it can be used as a therapy for different HF backgrounds. We observed that serum LL-37 levels were significantly decreased in acute HF patients and were negatively correlated with NT-proBNP. In addition, we found that CRAMP was decreased in both heart and serum samples in transverse aortic constriction (TAC) and isoproterenol (ISO)-induced rodent HF models, and in neonatal mouse cardiomyocytes (NMCMs) cell hypertrophy models induced by phenylephrine (PE) and angiotensin II (AngII). Most importantly, CRAMP could attenuate multiple mice models of HF. In vitro , we proved evidence that the inhibition of NF-\u03baB signaling contributed to the anti-hypertrophy effects of CRAMP. These findings suggest that serum CRAMP not only have a potential as a biomarker of acute HF, but also that increasing CRAMP is protective for HF induced by multiple types of cardiac stresses.",
+    "document_source_id": "32483446",
+    "analysis_date": "2025-12-09",
+    "extracted_data": {
+      "document_summary": "This study investigated LL-37/CRAMP as both a potential biomarker and therapeutic agent for acute heart failure (HF) and cardiac hypertrophy. It revealed that serum LL-37/CRAMP levels are significantly decreased in acute HF patients and various preclinical models of HF. Functionally, therapeutic administration of CRAMP was found to attenuate HF and pathological hypertrophy in these models. Mechanistically, CRAMP's cardioprotective effects against hypertrophy were mediated through the inhibition of NF-\u03baB signaling, highlighting its dual potential as a diagnostic biomarker and a protective therapeutic target for acute HF.",
+      "treatment_details": {
+        "therapy_type": "The primary therapeutic method involved administration of cathelicidin-related antimicrobial peptides (CRAMP, mCRAMP, rCRAMP). Heart failure and hypertrophy models were induced using Transverse Aortic Constriction (TAC) surgery, Angiotensin II (Ang II) infusion, Isoproterenol (ISO) infusion, and Phenylephrine (PE) treatment.",
+        "dose_specificity": "CRAMP treatments included mCRAMP peptide supplementation for 2 or 4 weeks in mice, and 0.1 mg/L for 48 h in cardiomyocytes. rCRAMP was applied to neonatal rat cardiomyocytes. Inducers for HF models included Ang II (1.3 mg/kg/day for 4 weeks in mice; 1 \u00b5M for 48 h in cardiomyocytes), Isoproterenol (30 mg/kg/day for 2 weeks in mice), and PE (100 \u00b5M for 48 h in cardiomyocytes). TAC surgery involved tying a 27-gauge needle parallel to the transverse aorta with 7-0 silk suture. Betulinic acid (BA) was used at 20 \u00b5M for 48 h in cardiomyocytes. Generally, no explicit dose-response comparisons were reported for the various treatments, beyond the duration of supplementation."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "LL-37",
+          "measured_tissue_or_fluid": "Serum (human), Saliva (human)",
+          "activity_type": "Protein Level, Concentration",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Significantly decreased in acute HF patients (AUC 0.616, P<0.001; 90.59% specificity, 29.03% sensitivity), negatively correlated with NT-proBNP (R=-0.174, P=0.030), with a cutoff of 1203.525 pg/ml. Also decreased in saliva from NYHA class I/II HF patients."
+          },
+          "core_biological_function": "Human cathelicidin peptide (analogue of CRAMP) involved in antimicrobial activity, immunomodulation, wound healing, chemoattraction, cell proliferation, cell migration, apoptosis, epithelial-mesenchymal-transition, angiogenesis, inflammation, innate/adaptive immune response, and potential cardiac protection.",
+          "relevant_activity_context": "Acute Heart Failure (HF) patients, NYHA class I/II HF patients.",
+          "performance_or_health_indicator": "Potential novel diagnostic biomarker for acute HF; decreased circulating levels are associated with acute HF and observed in early-stage HF patients."
+        },
+        {
+          "biomarker_name": "mCRAMP/CRAMP",
+          "measured_tissue_or_fluid": "Mouse heart tissue, mouse serum, neonatal mouse cardiomyocytes (NMCMs) (intracellular and secreted), systemic (in mCRAMP knockout mice)",
+          "activity_type": "Protein Level, Protein Level (therapeutic elevation), Protein Level (genetic reduction/absence)",
+          "measured_effect": {
+            "direction_of_change": "lower (endogenous); intentionally elevated (therapeutic)",
+            "magnitude_quantification": "Decreased in heart and serum of TAC- and ISO-induced HF mice. Reduced intracellular and secreted levels in PE- and AngII-induced NMCMs hypertrophic models. Therapeutic administration of mCRAMP attenuated TAC, ISO, and AngII-induced HF in mice. CRAMP deficiency (knockout) exacerbated AngII-induced HF."
+          },
+          "core_biological_function": "Rodent homolog of human LL-37, a cathelicidin-related antimicrobial peptide. Functions include antimicrobial activity, immunomodulation, wound healing, chemoattraction, cell proliferation, cell migration, apoptosis, epithelial-mesenchymal-transition, angiogenesis, inflammation. Crucially, it protects against cardiac fibrosis, myocardial ischemia/reperfusion injury, enhances bone marrow cell retention, and suppresses cardiac hypertrophy, primarily through inhibition of NF-\u03baB signaling.",
+          "relevant_activity_context": "Transverse aortic constriction (TAC)-induced HF, Isoproterenol (ISO)-induced HF, Angiotensin II (AngII)-induced HF/hypertrophy (in vivo and in vitro), Phenylephrine (PE)-induced hypertrophy (in vitro), CRAMP deficiency models.",
+          "performance_or_health_indicator": "Endogenous levels are associated with and indicative of heart failure and cardiac hypertrophy. Increasing mCRAMP/CRAMP is protective against heart failure and cardiac hypertrophy, while its deficiency exacerbates HF. Has potential as a therapeutic agent."
+        },
+        {
+          "biomarker_name": "NT-proBNP",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Protein Level, Hormone Concentration",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Levels \u2265 1,000 pg/mL used as a diagnostic criterion for acute HF. Negatively correlated with serum LL-37 levels (R=-0.174, P=0.030)."
+          },
+          "core_biological_function": "N-terminal pro-brain natriuretic peptide, a hormone involved in cardiac stress and volume overload response.",
+          "relevant_activity_context": "Acute Heart Failure (HF) patients.",
+          "performance_or_health_indicator": "Established clinical biomarker for acute HF diagnosis and indicator of cardiac dysfunction and severity."
+        },
+        {
+          "biomarker_name": "NF-\u03baB signaling (p65 phosphorylation levels)",
+          "measured_tissue_or_fluid": "Neonatal rat cardiomyocytes (NRCMs)",
+          "activity_type": "Signaling pathway activity, Protein phosphorylation level",
+          "measured_effect": {
+            "direction_of_change": "increased (with hypertrophic stimuli); reduced (with CRAMP)",
+            "magnitude_quantification": "Significantly increased by AngII and PE treatment in NRCMs. Reduced by rCRAMP treatment. An NF-\u03baB agonist abolished the protective effects of rCRAMP, confirming mediation."
+          },
+          "core_biological_function": "Transcription factor central to inflammation, immune response, cell adhesion, cell proliferation, apoptosis, and pathological hypertrophy.",
+          "relevant_activity_context": "Angiotensin II (AngII) or Phenylephrine (PE) treated neonatal rat cardiomyocytes (NRCMs) with rCRAMP administration.",
+          "performance_or_health_indicator": "Activation is associated with pathological cardiac hypertrophy. Inhibition of NF-\u03baB signaling by CRAMP is a key mechanism for its anti-hypertrophy and cardioprotective effects."
+        },
+        {
+          "biomarker_name": "Ejection Fraction (EF)",
+          "measured_tissue_or_fluid": "Heart (measured by echocardiography)",
+          "activity_type": "Physiological Parameter, Cardiac Function Measurement",
+          "measured_effect": {
+            "direction_of_change": "higher (with CRAMP treatment); decreased (in CRAMP deficiency)",
+            "magnitude_quantification": "Significantly increased in TAC-induced HF mice upon mCRAMP peptide treatment. Further decreased in AngII-induced HF in mCRAMP knockout mice."
+          },
+          "core_biological_function": "A key measure of systolic cardiac function, representing the percentage of blood ejected from the ventricle with each beat.",
+          "relevant_activity_context": "TAC-induced heart failure (HF) with mCRAMP peptide supplementation, AngII-induced heart failure in mCRAMP knockout mice.",
+          "performance_or_health_indicator": "Indicates improved cardiac pump function with CRAMP treatment and worsened function with CRAMP deficiency, reflecting the impact on heart failure severity."
+        },
+        {
+          "biomarker_name": "Fractional Shortening (FS)",
+          "measured_tissue_or_fluid": "Heart (measured by echocardiography)",
+          "activity_type": "Physiological Parameter, Cardiac Function Measurement",
+          "measured_effect": {
+            "direction_of_change": "higher (with CRAMP treatment); decreased (in CRAMP deficiency)",
+            "magnitude_quantification": "Improved in TAC-induced HF mice upon mCRAMP peptide treatment. Further decreased in AngII-induced HF in mCRAMP knockout mice."
+          },
+          "core_biological_function": "A measure of systolic cardiac function, reflecting the percentage change in ventricular dimension during systole.",
+          "relevant_activity_context": "TAC-induced heart failure (HF) with mCRAMP peptide supplementation, AngII-induced heart failure in mCRAMP knockout mice.",
+          "performance_or_health_indicator": "Indicates improved cardiac contractility with CRAMP treatment and worsened contractility with CRAMP deficiency, reflecting the impact on heart failure severity."
+        },
+        {
+          "biomarker_name": "Cardiomyocyte size",
+          "measured_tissue_or_fluid": "Mouse heart tissue, neonatal rat cardiomyocytes (NRCMs)",
+          "activity_type": "Morphological Measurement",
+          "measured_effect": {
+            "direction_of_change": "decreased (with CRAMP treatment)",
+            "magnitude_quantification": "Increased in TAC mice (indicating hypertrophy), and mCRAMP peptide treatment decreased this. Also induced by Ang II or PE treatment in cardiomyocytes, and CRAMP treatment would reduce this."
+          },
+          "core_biological_function": "Indicator of cardiac hypertrophy, an enlargement of heart muscle cells.",
+          "relevant_activity_context": "TAC-induced heart failure, Angiotensin II or Phenylephrine induced hypertrophy, mCRAMP/CRAMP peptide treatment.",
+          "performance_or_health_indicator": "Reduced cardiomyocyte size indicates attenuation of cardiac hypertrophy, a key pathological feature of heart failure."
+        },
+        {
+          "biomarker_name": "Interstitial cardiac fibrosis",
+          "measured_tissue_or_fluid": "Mouse heart tissue (assessed by Masson's Trichrome and Sirius Red staining)",
+          "activity_type": "Morphological Measurement",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Attenuated by mCRAMP peptide treatment in TAC mice."
+          },
+          "core_biological_function": "Accumulation of excessive extracellular matrix in the cardiac interstitium, a hallmark of heart failure and cardiac remodeling.",
+          "relevant_activity_context": "TAC-induced heart failure (HF) with mCRAMP peptide supplementation.",
+          "performance_or_health_indicator": "Indicates reduced cardiac remodeling and improved cardiac health and function."
+        },
+        {
+          "biomarker_name": "Collagen 1",
+          "measured_tissue_or_fluid": "Mouse heart tissue",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Expression level was reduced in the TAC model upon mCRAMP peptide treatment."
+          },
+          "core_biological_function": "A major structural protein of the extracellular matrix, central to cardiac fibrosis and tissue integrity.",
+          "relevant_activity_context": "TAC-induced heart failure (HF) with mCRAMP peptide supplementation.",
+          "performance_or_health_indicator": "Reduced expression indicates attenuated cardiac fibrosis and improved cardiac remodeling."
+        },
+        {
+          "biomarker_name": "Bax/Bcl2 ratio",
+          "measured_tissue_or_fluid": "Mouse heart tissue",
+          "activity_type": "Protein Ratio, Protein Level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Reduced in the TAC model upon mCRAMP peptide treatment (Figure 3 E, F)."
+          },
+          "core_biological_function": "Regulates apoptosis; a higher ratio indicates increased susceptibility to programmed cell death (Bax is pro-apoptotic, Bcl2 is anti-apoptotic).",
+          "relevant_activity_context": "TAC-induced heart failure (HF) with mCRAMP peptide supplementation.",
+          "performance_or_health_indicator": "Reduced ratio indicates decreased apoptosis, suggesting a protective effect against cardiac remodeling and damage in heart failure."
+        },
+        {
+          "biomarker_name": "Cleaved caspase 3/caspase 3 ratio",
+          "measured_tissue_or_fluid": "Mouse heart tissue",
+          "activity_type": "Protein Ratio, Protein Level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Reduced in the TAC model upon mCRAMP peptide treatment (Figure 3 E, F)."
+          },
+          "core_biological_function": "Indicator and executioner of apoptosis; cleaved caspase 3 is the active form of the enzyme central to programmed cell death.",
+          "relevant_activity_context": "TAC-induced heart failure (HF) with mCRAMP peptide supplementation.",
+          "performance_or_health_indicator": "Reduced ratio indicates decreased apoptosis, suggesting a protective effect against cardiac remodeling and damage in heart failure."
+        },
+        {
+          "biomarker_name": "ANP (Atrial Natriuretic Peptide)",
+          "measured_tissue_or_fluid": "Mouse heart tissue, Neonatal Rat Cardiomyocytes (NRCMs)",
+          "activity_type": "Gene Transcript, Expression Level (mRNA)",
+          "measured_effect": {
+            "direction_of_change": "lower (with CRAMP treatment); higher (in CRAMP deficiency)",
+            "magnitude_quantification": "Reduced in the TAC model upon mCRAMP peptide treatment. Decreased mRNA expression levels in AngII-treated NRCMs with CRAMP. Further increased in AngII-induced HF in mCRAMP knockout mice."
+          },
+          "core_biological_function": "Hormone involved in regulating blood pressure and fluid balance, often upregulated in response to cardiac stress and hypertrophy; a biomarker of cardiac hypertrophy.",
+          "relevant_activity_context": "TAC-induced heart failure (HF) with mCRAMP peptide supplementation; AngII-treated neonatal rat cardiomyocytes with CRAMP; AngII-induced heart failure in mCRAMP knockout mice.",
+          "performance_or_health_indicator": "Reduced expression indicates attenuated cardiac stress and hypertrophy. Increased expression indicates exacerbated HF."
+        },
+        {
+          "biomarker_name": "BNP (Brain Natriuretic Peptide)",
+          "measured_tissue_or_fluid": "Mouse heart tissue, Neonatal Rat Cardiomyocytes (NRCMs)",
+          "activity_type": "Gene Transcript, Expression Level (mRNA)",
+          "measured_effect": {
+            "direction_of_change": "lower (with CRAMP treatment); higher (in CRAMP deficiency)",
+            "magnitude_quantification": "Reduced in the TAC model upon mCRAMP peptide treatment. Decreased mRNA expression levels in AngII-treated NRCMs with CRAMP. Further increased in AngII-induced HF in mCRAMP knockout mice."
+          },
+          "core_biological_function": "Hormone involved in regulating blood pressure and fluid balance, often upregulated in response to cardiac stress and hypertrophy; a biomarker of cardiac hypertrophy.",
+          "relevant_activity_context": "TAC-induced heart failure (HF) with mCRAMP peptide supplementation; AngII-treated neonatal rat cardiomyocytes with CRAMP; AngII-induced heart failure in mCRAMP knockout mice.",
+          "performance_or_health_indicator": "Reduced expression indicates attenuated cardiac stress and hypertrophy. Increased expression indicates exacerbated HF."
+        }
+      ]
+    }
+  }
+]

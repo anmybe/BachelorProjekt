@@ -1,0 +1,148 @@
+[
+  {
+    "title": "Int J Mol Sci Int J Mol Sci ijms International Journal of Molecular Sciences 1422-0067 MDPI 7503551 10.3390/ijms21176364 ijms-21-06364 Article Prediction Power on Cardiovascular Disease of Neuroimmune Guidance Cues Expression by Peripheral Blood Monocytes Determined by Machine-Learning Methods Zhang Huayu 1 Bredewold Edwin O. W. 1 https://orcid.org/0000-0002-8228-8233 Vreeken Dianne 1 Duijs Jacques. M. G. J. 1 de Boer Hetty C. 1 Kraaijeveld Adriaan O. 2 https://orcid.org/0000-0002-3246-8359 Jukema J. Wouter 3 Pijls Nico H. 4 Waltenberger Johannes 5 Biessen Erik A.L. 6 van der Veer Eric P. 1 https://orcid.org/0000-0002-1676-7738 van Zonneveld Anton Jan 1 https://orcid.org/0000-0003-2429-7462 van Gils Janine M. 1 * 1 Einthoven Laboratory for Vascular and Regenerative Medicine, Department of Internal Medicine, Leiden University Medical Center, Albinusdreef, 22333 ZA Leiden, The Netherlands; h.zhang@lumc.nl (H.Z.); o.w.bredewold@lumc.nl (E.O.W.B.); d.vreeken@lumc.nl (D.V.); j.m.g.j.duijs@lumc.nl (J.M.G.J.D.); h.c.de_boer@lumc.nl (H.C.d.B.); e.p.van_der_veer@lumc.nl (E.P.v.d.V.); a.j.van_zonnveveld@lumc.nl (A.J.v.Z.) 2 Department of Cardiology, University Medical Center Utrecht, Heidelberglaan, 1003584 CX Utrecht, The Netherlands; a.o.kraaijeveld-3@umcutrecht.nl 3 Department of Cardiology, Leiden University Medical Center, Albinusdreef, 22333 ZA Leiden, The Netherlands; j.w.jukema@lumc.nl 4 Department of Cardiology, Catharina Hospital, Michelangelolaan, 25623 EJ Eindhoven, The Netherlands; n.h.j.pijls@tue.nl 5 Department of Cardiology, Maastricht University Medical Center, P. Debyelaan, 256202 AZ Maastricht, The Netherlands; johannes.waltenberger@ukmuenster.de 6 Department of Pathology, Cardiovascular Research Institute Maastricht (CARIM), University of Maastricht, Universiteitssingel, 506229 ER Maastricht, The Netherlands; erik.biessen@mumc.nl * Correspondence: j.m.van_gils@lumc.nl 02 9 2020 9 2020 21 17 6364 05 8 2020 26 8 2020 \u00a9 2020 by the authors. 2020 Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license ( http://creativecommons.org/licenses/by/4.0/ ). Atherosclerosis is the underlying pathology in a major part of cardiovascular disease, the leading cause of mortality in developed countries. The infiltration of monocytes into the vessel walls of large arteries is a key denominator of atherogenesis, making monocytes accountable for the development of atherosclerosis. With the development of high-throughput transcriptome profiling platforms and cytometric methods for circulating cells, it is now feasible to study in-depth the predicted functional change of circulating monocytes reflected by changes of gene expression in certain pathways and correlate the changes to disease outcome. Neuroimmune guidance cues comprise a group of circulating- and cell membrane-associated signaling proteins that are progressively involved in monocyte functions. Here, we employed the CIRCULATING CELLS study cohort to classify cardiovascular disease patients and healthy individuals in relation to their expression of neuroimmune guidance cues in circulating monocytes. To cope with the complexity of human datasets featured by noisy data, nonlinearity and multidimensionality, we assessed various machine-learning methods. Of these, the linear discriminant analysis, Na\u00efve Bayesian model and stochastic gradient boost model yielded perfect or near-perfect sensibility and specificity and revealed that expression levels of the neuroimmune guidance cues SEMA6B, SEMA6D and EPHA2 in circulating monocytes were of predictive values for cardiovascular disease outcome. cardiovascular diseases monocytes machine-learning methods neuroimmune guidance cues 1. Introduction Cardiovascular diseases (CVD) remain a leading cause of death in the more economically developed countries, despite improvements in surgical and drug treatments. Much of the CVD-related mortality and morbidity is attributable to atherosclerosis [ 1 ]. Atherosclerosis is a systemic chronic inflammatory and immune disease [ 2 , 3 ]. Monocytes and their derived macrophages play a key role in the development of atherosclerosis. Under conditions of dyslipidemia and chronic systemic inflammation, circulating monocytes and the endothelium become activated, resulting in monocyte infiltration and differentiation into macrophages in the vessel wall. Upon the excessive uptake of lipids, these macrophages become foam cells and participate decisively in the development and exacerbation of atherosclerosis, coronary stenosis and its clinical sequela, such as acute myocardial infarctions [ 3 , 4 , 5 , 6 , 7 ]. Neuroimmune guidance cues (NGCs) comprise the netrin, semaphorin, ephrin and slit families of proteins of ligands and receptors, which were originally characterized to direct cell and axon migration during neural development. In the last two decades, it has become increasingly clear that these proteins can also play a major role in (pathological) immune responses by directly regulating leukocyte trafficking and directly impacting the pathogenesis of atherosclerosis [ 8 , 9 , 10 ]. Indeed, numerous studies using murine atherosclerosis models have found multifaceted roles of NGCs in the development of atherosclerosis [ 11 , 12 , 13 , 14 , 15 ]. In addition, several observations also support a role for NGCs in human CVD. For instance, three NGC genes are located on human chromosome 1, in the locus that has been identified as the premature myocardial infarction susceptibility locus [ 16 ]. In addition, the axonal guidance pathway is found enriched with genetic variants that have significant associations with CVD, and several novel genetic risk loci for CVD contain NGCs genes [ 17 , 18 ]. However, whether the monocytic expression of NGCs is informative for human CVD has not been described yet. Transcriptomics can reveal key alterations in biological processes causing human diseases, thereby present novel instruments that are not only useful for the understanding of the disease mechanisms but, also, for molecular diagnosis and clinical therapy [ 19 ]. Since monocytes are among the culprit cells of atherosclerosis development, monocytic expression levels of NGCs could provide insights into the underlying mechanisms in atherosclerosis development and can be used to improve the evidence-based treatment of CVD to reduce the global burden of this disease. The CIRCULATING CELLS study was designed to study the role of several cellular mediators of atherosclerosis as biomarkers of CVD to predict the susceptibility of patients to the progression of CVD [ 20 ]. By applying different machine-learning methods (also known as predictive modeling methods) on the gene expression data of peripheral monocytes from the CIRCULATING CELLS study cohort, we investigated whether monocytic NGC expression is informative to distinguish between healthy individuals and CVD patients. As machine-learning methods are developed to explore complex relationships between predictors and outcomes, they are suitable tools to tackle the difficulties due to the complexity of human datasets featured by noisy data, nonlinearity and multidimensionality. Some machine-learning methods take simplistic approaches and work with linear relationships between features and outcomes, while other methods are more complex and are able to capture nonlinear patterns and to tolerate a low information-noise ratio, owing to the difference of their pre-assumptions and learning logics. We compared the performance of multiple modeling methods to explore the best predicting potential of our dataset. In our study, we included commonly used models like logistic regression and linear discriminant analysis, as well as more complex nonlinear models and tree-based models. Linear models, like partial least square, have supervised dimension reduction functionality, which benefits model performances in the case of high between-feature correlations. Nonlinear models, like Na\u00efve Bayesian, make probabilistic calls based on the information provided by the features independently, possibly performing better in situations when between-feature correlations are low. In addition to modeling of the data itself, stochastic gradient boost also models the residuals, thereby increasing the learning ability when the information-noise ratio is low. We compared the results of the different modeling methods to gain insights on the nature of the dataset. Altogether, this allowed us to give a proof of concept that the expression of a small set of functional genes can be a prediction value for complex diseases like CVD.",
+    "document_source_id": "32887275",
+    "analysis_date": "2025-12-09",
+    "extracted_data": {
+      "document_summary": "This study investigated the predictive power of Neuroimmune Guidance Cue (NGC) gene expression profiles from peripheral blood monocytes for classifying cardiovascular disease (CVD) patients versus healthy individuals. Utilizing various machine learning methods, including Linear Discriminant Analysis, Na\u00efve Bayesian, and Stochastic Gradient Boosting, the research aimed to identify key biomarkers for CVD prediction. The findings indicated that expression levels of SEMA6B, SEMA6D, and EPHA2 in circulating monocytes were predictive of CVD outcomes, with machine learning models demonstrating high accuracy and sensitivity in discriminating between healthy individuals and CVD patients.",
+      "treatment_details": {
+        "therapy_type": "Predictive modeling for cardiovascular disease diagnosis and risk prediction using machine learning on biomarker expression profiles.",
+        "dose_specificity": "The study involved profiling transcriptomes of purified CD14+ monocytes from 368 subjects in the CIRCULATING CELLS study cohort, utilizing 60 mL EDTA blood samples with stringent RNA quality control (RIN > 9) and Illumina BeadStation for hybridization. Various machine-learning methods (including Linear Discriminant Analysis, Na\u00efve Bayesian, Stochastic Gradient Boosting, Logistic Regression, Partial Least Square, Bagged CART, and Random Forest) were applied to gene expression data to classify CVD patients and healthy individuals. Model performances were compared, with linear discriminant analysis, Na\u00efve Bayesian, and stochastic gradient boost models yielding perfect or near-perfect sensibility and specificity, and some models achieving up to 100% accuracy in classification. No therapeutic interventions or dose-response comparisons were reported, as the focus was on predictive modeling and biomarker analysis."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "SEMA6B",
+          "measured_tissue_or_fluid": "Circulating monocytes (Peripheral Blood Monocytes, specifically CD14-positive monocytes)",
+          "activity_type": "Gene Transcript",
+          "measured_effect": {
+            "direction_of_change": "Differential expression for classification; unchanged in univariate tests but important in multivariate models",
+            "magnitude_quantification": "Expression levels were of predictive value for cardiovascular disease outcome. Machine learning models, particularly stochastic gradient boosting, identified it as the 'most important feature' despite not showing significant univariate differences (P<0.05 for overall model performance, not for individual gene expression difference between groups)."
+          },
+          "core_biological_function": "Neuroimmune guidance cue; directs cell and axon migration during neural development; involved in pathological immune responses, leukocyte trafficking, and atherosclerosis pathogenesis. Contributes effectively to modeling residuals in complex predictive models.",
+          "relevant_activity_context": "Classification of cardiovascular disease patients versus healthy individuals using various machine learning methods (e.g., Linear Discriminant Analysis, Na\u00efve Bayesian, Stochastic Gradient Boosting).",
+          "performance_or_health_indicator": "Predictive biomarker for cardiovascular disease outcome and susceptibility to progression, especially crucial in complex, multivariate prediction models."
+        },
+        {
+          "biomarker_name": "SEMA6D",
+          "measured_tissue_or_fluid": "Circulating monocytes (Peripheral Blood Monocytes, specifically CD14-positive monocytes)",
+          "activity_type": "Gene Transcript",
+          "measured_effect": {
+            "direction_of_change": "Differential expression for classification",
+            "magnitude_quantification": "Expression levels were of predictive value for cardiovascular disease outcome. Machine learning models, particularly stochastic gradient boosting, identified it as the 'second most important feature' (P<0.05 for overall model performance)."
+          },
+          "core_biological_function": "Neuroimmune guidance cue; directs cell and axon migration during neural development; involved in pathological immune responses, leukocyte trafficking, and atherosclerosis pathogenesis. Has a role in immunology as a costimulatory molecule expressed by dendritic cells, though its specific function in monocytes is less understood.",
+          "relevant_activity_context": "Classification of cardiovascular disease patients versus healthy individuals using various machine learning methods (e.g., Linear Discriminant Analysis, Na\u00efve Bayesian, Stochastic Gradient Boosting).",
+          "performance_or_health_indicator": "Predictive biomarker for cardiovascular disease outcome and susceptibility to progression; crucial for diagnostic classification."
+        },
+        {
+          "biomarker_name": "EPHA2",
+          "measured_tissue_or_fluid": "Circulating monocytes (Peripheral Blood Monocytes, specifically CD14-positive monocytes)",
+          "activity_type": "Gene Transcript",
+          "measured_effect": {
+            "direction_of_change": "Differential expression for classification; its knockdown attenuated atherosclerotic lesion development",
+            "magnitude_quantification": "Expression levels were of predictive value for cardiovascular disease outcome. Machine learning models, particularly stochastic gradient boosting, identified it as the 'third most important feature' (P<0.05 for overall model performance)."
+          },
+          "core_biological_function": "Neuroimmune guidance cue; directs cell and axon migration during neural development; involved in pathological immune responses, leukocyte trafficking, and atherosclerosis pathogenesis. Promotes the adhesion and differentiation of monocytes.",
+          "relevant_activity_context": "Classification of cardiovascular disease patients versus healthy individuals using various machine learning methods (e.g., Linear Discriminant Analysis, Na\u00efve Bayesian, Stochastic Gradient Boosting); implicated in atherosclerosis pathogenesis.",
+          "performance_or_health_indicator": "Predictive biomarker for cardiovascular disease outcome and susceptibility to progression; promotes monocyte adhesion and differentiation; its knockdown attenuated atherosclerosis, indicating a significant role in disease development and a potential health indicator."
+        },
+        {
+          "biomarker_name": "NGC (Neuroimmune Guidance Cues)",
+          "measured_tissue_or_fluid": "Purified circulating CD14+ monocytes (from peripheral blood)",
+          "activity_type": "Gene Transcript",
+          "measured_effect": {
+            "direction_of_change": "Varied significantly across several NGC ligands and receptors; predictive for classification",
+            "magnitude_quantification": "Several NGC ligands and receptors were significantly different (with small fold changes) between CVD patients and healthy individuals. Machine learning models achieved high accuracy (>0.98), Cohen's Kappa (>0.75), and sensitivity (1) in the test set, with some models (e.g., stochastic gradient boost) reaching 100% accuracy, effectively discriminating healthy individuals from CVD patients."
+          },
+          "core_biological_function": "Group of neuroimmune guidance-related ligands and receptors that direct cell and axon migration during neural development, and play a major role in pathological immune responses by regulating leukocyte trafficking and impacting atherosclerosis pathogenesis.",
+          "relevant_activity_context": "Differential gene expression in circulating monocytes used for machine learning-based classification of Cardiovascular Disease (CVD) patients versus healthy individuals.",
+          "performance_or_health_indicator": "Indicates potential for diagnostic classification of cardiovascular health status and susceptibility to CVD progression; effectively discriminates between healthy individuals and CVD patients."
+        },
+        {
+          "biomarker_name": "PLXNC1",
+          "measured_tissue_or_fluid": "CD14-positive monocytes (circulating blood cells)",
+          "activity_type": "Gene Transcript",
+          "measured_effect": {
+            "direction_of_change": "Differently expressed (direction not specified); contributes to differential classification",
+            "magnitude_quantification": "Significantly differently expressed between CVD and healthy groups; identified as the 'most important feature' in Linear Discriminant Analysis and Na\u00efve Bayesian models for classifying CVD patients and healthy individuals."
+          },
+          "core_biological_function": "Neurogliogenesis-related gene; mediates monocyte migration, adhesion, and differentiation in response to its ligand SEMA7A.",
+          "relevant_activity_context": "Feature importance in Linear Discriminant Analysis and Na\u00efve Bayesian machine learning models for classification of Cardiovascular Disease (CVD) patients. Its ligand SEMA7A exacerbates inflammation and atherosclerotic plaque size in atheroprone regions.",
+          "performance_or_health_indicator": "Crucial for diagnostic classification of CVD status within specific models; its importance in prediction models suggests a functional role in CVD development via monocytes, being involved in monocyte functions relevant to atherosclerosis."
+        },
+        {
+          "biomarker_name": "DSCAM",
+          "measured_tissue_or_fluid": "CD14-positive monocytes (circulating blood cells)",
+          "activity_type": "Gene Transcript",
+          "measured_effect": {
+            "direction_of_change": "Contributes to differential classification",
+            "magnitude_quantification": "Identified as one of the three most important features by Linear Discriminant Analysis and Na\u00efve Bayesian models for classifying CVD patients and healthy individuals."
+          },
+          "core_biological_function": "Neurogliogenesis-related gene; fundamental biological role not fully detailed in this context, but relevant to neuroimmune guidance.",
+          "relevant_activity_context": "Feature importance in Linear Discriminant Analysis and Na\u00efve Bayesian machine learning models for classification of Cardiovascular Disease (CVD) patients.",
+          "performance_or_health_indicator": "Crucial for diagnostic classification of CVD status within specific models."
+        },
+        {
+          "biomarker_name": "DCC",
+          "measured_tissue_or_fluid": "CD14-positive monocytes (circulating blood cells)",
+          "activity_type": "Gene Transcript",
+          "measured_effect": {
+            "direction_of_change": "Contributes to differential classification",
+            "magnitude_quantification": "Identified as one of the three most important features by Linear Discriminant Analysis and Na\u00efve Bayesian models for classifying CVD patients and healthy individuals."
+          },
+          "core_biological_function": "Neurogliogenesis-related gene; fundamental biological role not fully detailed in this context, but relevant to neuroimmune guidance.",
+          "relevant_activity_context": "Feature importance in Linear Discriminant Analysis and Na\u00efve Bayesian machine learning models for classification of Cardiovascular Disease (CVD) patients.",
+          "performance_or_health_indicator": "Crucial for diagnostic classification of CVD status within specific models."
+        },
+        {
+          "biomarker_name": "NTN1 (Netrin-1)",
+          "measured_tissue_or_fluid": "Not directly measured in this study; discussed in relation to monocyte, macrophage, and smooth muscle cell activity.",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Exhibits optimal concentration for repellent effect; higher or lower concentrations are less effective; shows opposite roles depending on target cell type.",
+            "magnitude_quantification": "Optimal concentration around 250 ng/mL for repellent effect on monocyte and macrophage migration."
+          },
+          "core_biological_function": "Mediates cell migration (repellent effect on monocytes and macrophages); interacts with smooth muscle cells; illustrates nonlinearity and context-dependent biological effects.",
+          "relevant_activity_context": "Discussed as an example to highlight the complexity of biological effects that can influence CVD mechanisms and biomarker interpretation.",
+          "performance_or_health_indicator": "Highlights complexity in biological effects relevant to CVD mechanisms and biomarker interpretation; not a direct health indicator from this study's direct measurements."
+        },
+        {
+          "biomarker_name": "Lipopolysaccharide receptors",
+          "measured_tissue_or_fluid": "Intermediate monocytes (a subpopulation of peripheral blood monocytes)",
+          "activity_type": "Protein Expression",
+          "measured_effect": {
+            "direction_of_change": "Higher",
+            "magnitude_quantification": "Increased"
+          },
+          "core_biological_function": "Mediate immune response to bacterial lipopolysaccharides.",
+          "relevant_activity_context": "Increased in intermediate monocytes found in CVD patients.",
+          "performance_or_health_indicator": "Their increased presence on intermediate monocytes is associated with the prediction of cardiovascular events."
+        },
+        {
+          "biomarker_name": "Low-affinity FC \u03b3 receptor",
+          "measured_tissue_or_fluid": "Intermediate monocytes (a subpopulation of peripheral blood monocytes)",
+          "activity_type": "Protein Expression",
+          "measured_effect": {
+            "direction_of_change": "Higher",
+            "magnitude_quantification": "Increased"
+          },
+          "core_biological_function": "Involved in antibody-mediated immune responses and immune complex clearance.",
+          "relevant_activity_context": "Increased in intermediate monocytes found in CVD patients.",
+          "performance_or_health_indicator": "Their increased presence on intermediate monocytes is associated with the prediction of cardiovascular events."
+        },
+        {
+          "biomarker_name": "NTNG1",
+          "measured_tissue_or_fluid": "Monocytes",
+          "activity_type": "Gene expression",
+          "measured_effect": {
+            "direction_of_change": "Unchanged",
+            "magnitude_quantification": "Not significantly differently expressed in two mean t-tests between CVD and healthy groups."
+          },
+          "core_biological_function": "Contributes to predictive modeling; role not explicitly detailed beyond this.",
+          "relevant_activity_context": "Feature in linear discriminant analysis and Na\u00efve Bayesian models for CVD prediction; included to address residual variations.",
+          "performance_or_health_indicator": "Included in predictive models (LDA, Na\u00efve Bayesian) to address residual variations, despite not showing significant univariate expression differences between CVD and healthy groups."
+        }
+      ]
+    }
+  }
+]

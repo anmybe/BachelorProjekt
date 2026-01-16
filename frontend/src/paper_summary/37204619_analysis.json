@@ -1,0 +1,184 @@
+[
+  {
+    "title": "Blood-based biomarkers can provide an objective individualized measure of training load, recovery, and health status in order to reduce injury risk and maximize performance. Despite enormous potentials, especially owing to currently evolving technology, such as point-of-care testing, and advantages, in terms of objectivity and non-interference with the training process, there are several pitfalls in the use and interpretation of biomarkers. Confounding variables such as preanalytical conditions, inter-individual differences, or an individual chronic workload can lead to variance in resting levels. In addition, statistical considerations such as the detection of meaningful minimal changes are often neglected. The lack of generally applicable and individual reference levels further complicates the interpretation of level changes and thus load management via biomarkers. Here, the potentials and pitfalls of blood-based biomarkers are described, followed by an overview of established biomarkers currently used to support workload management. Creatine kinase is discussed in terms of its evidence for workload management to illustrate the limited applicability of established markers for workload management to date. We conclude with recommendations for best practices in the use and interpretation of biomarkers in a sport-specific context. Paris Lodron University of Salzburg Open access funding provided by Paris Lodron University of Salzburg. issue-copyright-statement \u00a9 Springer Nature Switzerland AG 2023 Key Points Introduction In recent years, elite sports have experienced an enormous surge in professionalization and commercialization. As a result, clubs, teams, and athletes face new challenges and opportunities. Concomitantly, the demands on athletes have increased owing to the evolving nature of sports and congested competition schedules. For instance, soccer has undergone a significant evolution in terms of the nature of the game (e.g., increase in running distance, number of runs, number of sprints, high-speed actions) as well as the number of games played during the season, resulting in elite athletes playing up to 75 games per season [ 1 , 2 ]. Likewise, handball has developed into a faster game in terms of playing style because of rule innovations such as the introduction of \u201cfast center\u201d [ 3 ]. Furthermore, the COVID-19 pandemic further exacerbated the trend of congested schedules, as exemplified by the NBA schedule, where a game was played approximately every other day in the 2020/2021 season because of the delayed season start [ 4 ]. These circumstances present an increasing difficulty not only for the players but also for the practitioners and therefore require increased attention to monitoring training and competition load (i.e., the cumulative amount of stress placed on an individual from training and competition [ 5 ]) to assess and maximize training efficacy as well as manage or adjust the upcoming training and competition loads [ 6 , 7 ]. On the one hand, the training load can be manipulated to elicit a desired training response (e.g., a stimulus that leads to positive adaptation) [ 8 ]. On the other hand, poor load management, i.e., prescribing, monitoring, and adjusting workload [ 5 ], is one of the contributing factors to non-functional overreaching (i.e., intensified training leading to performance stagnation [ 9 ]): illness, and injury. [ 5 , 10 \u2013 12 ]. In recent decades, several assessments have been suggested to facilitate decision-making processes for coaches. A plethora of these assessments refer to (i) acute load and recovery management and (ii) general resilience, i.e., the ability to cope with stressors (e.g., training load, psychological load, nutritional aspects such as food intolerance; in line with [ 10 , 13 \u2013 15 ]). In order to monitor load holistically, both the external (\u201cthe physical work prescribed\u201d [ 7 ]) and internal load (\u201cthe psychophysiological response\u201d [ 7 , 8 ]) should be assessed [ 16 ]. The external load can be expressed through, for example, time-motion analysis, tracking devices, or power meters (and through variables such as distance covered or peak power output). To determine the internal load, practitioners often rely on questionnaires such as the rate of perceived exertion (RPE) or heart rate (HR) responses during exercise [ 17 , 18 ]. Recovery needs related to the training load are typically assessed with questionnaires such as the Acute Recovery and Stress Scale, neuromuscular performance tests, or aspects of HR such as HR variability [ 18 \u2013 20 ]. While questionnaires are poorly objective and can be biased by, for example, social desirability (especially in team sports), or over- or underestimation of training load [ 21 ], performance tests might cause additional fatigue and interrupt the training routine. Heart rate has been shown to be a relevant single measure of internal load in endurance sports, but not in intermittent sports or resistance training [ 7 , 8 ]. In addition, the diurnal variation in HR can complicate its interpretation [ 17 , 22 ]. Jump performance is often considered a marker of neuromuscular fatigue, reflecting aspects of the acute and chronic load [ 20 ]. However, studies show conflicting results regarding its validity in different sports settings, with little knowledge about the relevant variables that should be analyzed [ 23 ]. To overcome these shortcomings, blood-based biomarkers (i.e. \u201cindicators of normal biological processes, pathogenic processes, or responses to an exposure\u201d [ 24 ]) such as lactate, urea, myoglobin, or creatine kinase (CK) are already routinely used in many areas of elite sport to objectively either determine the acute internal load or to estimate the internal load by assessing tissue- or organ-specific fatigue/stress/damage or recovery processes. In this way, they can contribute to a holistic picture of an athlete\u2019s training response or condition and help coaches to individualize workload and prevent injuries [ 17 , 22 ]. Through minimal capillary blood sampling, some already established biomarkers are repeatedly measurable and do not interfere with daily training routines. However, unlike clinical assessments, measurements and their interpretation are often based on personal experience rather than scientific evidence or relevance. In addition, before biomarkers can be used to facilitate decision making in practice, requirements such as standardized collection, selection of the appropriate markers (meeting criteria such as specificity and sensitivity), and repeated sampling to determine individual reference ranges should be met [ 25 \u2013 27 ]. In addition to capturing aspects of load and recovery, another important dimension of blood collection is monitoring the health status of athletes, which in turn may also affect training and recovery prescriptions. Hematological parameters may inform practitioners on impeding or acute diseases. In addition, information on the iron balance of athletes can be obtained with blood sampling. For example, in female soccer players, iron deficiency anemia has been found in approximately 30% of athletes, even at the highest level [ 28 ], directly affecting maximal performance and underscoring the importance of monitoring aspects of athlete health through selected blood-based biomarkers. In contrast to monitoring load, recovery, and health, blood-based biomarkers are to date rather rarely used to assess aspects of resilience. In the field of professional sports, many providers offer clubs and coaches a special added value through point-of-care, genetic, and epigenetic testing. Vendors claim to determine scientifically relevant biomarkers or genetic sequences to assess resilience, injury risk, or even aspects of athletic talent [ 29 , 30 ]. To the knowledge of this expert group, unfortunately, none of these markers is yet validated and evidence-based for such prognostic purposes in the context of professional sports. Thus, to date, practitioners often rely on practical, scientifically well-researched, and rapidly measurable biomarkers such as CK or lactate. This review aims to highlight selected well-studied blood-based biomarkers used to assess load, fatigue, and recovery processes. Potentials and pitfalls in collecting and analyzing these markers are emphasized, and finally, recommendations for best practice are provided for practitioners on how to use and interpret them in a sport-specific context.",
+    "document_source_id": "37204619",
+    "analysis_date": "2025-12-10",
+    "extracted_data": {
+      "document_summary": "This review comprehensively investigates the potentials, pitfalls, and practical applications of blood-based biomarkers for objective individualized monitoring of training load, recovery, and health status in elite sports. It evaluates the utility and limitations of established markers like creatine kinase (CK), lactate, C-reactive protein (CRP), urea, myoglobin, and various leukocyte populations, detailing their physiological responses to acute and chronic exercise, kinetics, and implications for muscle damage, immune function, and inflammation. The document also addresses methodological considerations, confounding variables, the need for individual reference ranges, and statistical approaches for interpreting biomarker changes, concluding with recommendations for best practices in their sport-specific use.",
+      "treatment_details": {
+        "therapy_type": "Blood-based biomarker monitoring in conjunction with physical exercise and training load management in elite sports.",
+        "dose_specificity": "This review focuses on the application and interpretation of blood-based biomarkers for athlete monitoring across various exercise loads, including strenuous, resistance, high-intensity, submaximal, acute physical stress, soccer matches, ultradistance races, and long-term intensive endurance exercise. Biomarker responses are noted to depend on exercise modality, intensity, duration, and individual factors such as ethnicity and body composition. While specific exercise regimens like 30 minutes of endurance running (65% vs 85% of VO2max) showed CRP increases, no single standardized dose-response is consistently reported or compared across all biomarkers. The document emphasizes the need for individual reference levels, standardized collection, and careful consideration of confounding variables, particularly in managing workload by adjusting training when physiological parameters exceed baseline."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "Cell-free DNA",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Level",
+          "measured_effect": {
+            "direction_of_change": "Detected change",
+            "magnitude_quantification": "Could detect the onset of overtraining (long-term decrement in performance capacity) in a resistance training setting, although the definition of overtraining was not actually met in the specific study."
+          },
+          "core_biological_function": "Not explicitly detailed in the text, but levels are associated with cellular stress and damage.",
+          "relevant_activity_context": "Resistance training setting",
+          "performance_or_health_indicator": "Potential indicator for the onset of overtraining, but with limited demonstration and validation."
+        },
+        {
+          "biomarker_name": "Creatine kinase (CK)",
+          "measured_tissue_or_fluid": "Blood (serum, bloodstream), interstitial fluid",
+          "activity_type": "Enzyme catalytic activity, Protein Level (Damage Marker)",
+          "measured_effect": {
+            "direction_of_change": "higher, delayed and diminished, accelerated decrease, blunted, increased, drastically increase, peak (24-120h post-exercise), significant change",
+            "magnitude_quantification": "Higher levels are commonly observed after unaccustomed exercises, peaking between 24-120 hours post-exercise, with reported levels exceeding 3000 U\u00b7L\u22121 after maximal resistance training (clinical abnormality is 3000-5000 U\u00b7L\u22121). A 23-h bedrest or lymphatic drainage can delay/diminish or accelerate its decrease, respectively. Blunted responses are seen after repeated eccentric contractions. Ethnicity and impact trauma also influence levels. Changes of at least 50 U\u00b7L\u22121 are considered meaningful (typical error 25 U\u00b7L\u22121). CK levels correlate with performance changes (e.g., sprint distance) during acute intermittent exercise and indirectly reflect tissue-specific muscle damage."
+          },
+          "core_biological_function": "Catalyzes the reversible reaction of phosphocreatine to re-phosphorylate ADP to ATP, serving as an indicator of muscle stress and damage, particularly after exercise.",
+          "relevant_activity_context": "Unaccustomed exercises (especially eccentric contractions), strenuous exercise, acute intermittent exercise, maximal resistance exercise training, long runs (e.g., 18-km cross-country), bedrest, lymphatic drainage, impact trauma, and workload management in elite athletes, typically monitored during and days following exercise.",
+          "performance_or_health_indicator": "Frequently used as an indirect marker of muscle damage, estimating retrospective internal load, reflecting recovery, or indicating readiness for new loads. Levels >3000 U\u00b7L\u22121 may indicate acute kidney injury risk. Its utility for load management and as a validated surrogate for fatigue or injury risk is limited by enzyme inactivation, influencing factors (ethnicity, body composition), and a poor relationship with functional outcomes. However, it can detect meaningful changes beyond measurement error and is relevant for understanding muscle soreness."
+        },
+        {
+          "biomarker_name": "High-sensitivity interleukin-6",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Levels",
+          "measured_effect": {
+            "direction_of_change": "Correlated with changes in performance traits",
+            "magnitude_quantification": "Correlations between changes in high-sensitivity interleukin-6 levels and specific performance traits such as sprint distance during acute intermittent exercise were observed."
+          },
+          "core_biological_function": "Reflects inflammatory responses.",
+          "relevant_activity_context": "Strenuous exercise, acute intermittent exercise",
+          "performance_or_health_indicator": "Reflects physiological alterations (e.g., inflammatory responses) and may reflect aspects of external exercise load; however, correlation with objective performance does not automatically qualify it as a validated surrogate endpoint for internal load, muscular fatigue, or injury risk."
+        },
+        {
+          "biomarker_name": "Lactate",
+          "measured_tissue_or_fluid": "Venous blood, fingertips, toes, earlobes",
+          "activity_type": "Concentration, Metabolite Concentration (Load-sensitive Biomarker)",
+          "measured_effect": {
+            "direction_of_change": "Varies with exercise intensity and nutritional aspects; site-dependent differences observed; changes",
+            "magnitude_quantification": "Varies significantly with exercise intensity and nutritional aspects (e.g., low-carbohydrate availability shifts thresholds). Site-dependent differences exist (e.g., earlobe vs. fingertip during graded exercise). It correlates well with RPE during high-intensity soccer exercise but not submaximal cycling, and reflects aspects of acute psychophysiological response."
+          },
+          "core_biological_function": "Produced by skeletal muscles to remove pyruvate, regenerate NAD+ for ATP regeneration, and contribute to metabolic proton buffering; serves as an indicator of acute psychophysiological response to exercise.",
+          "relevant_activity_context": "During, before, and after various types of exercise including acute, submaximal rowing, graded, high-intensity soccer, submaximal cycling, repeated high-intensity training, physiological exercise testing, and under conditions of low-carbohydrate availability.",
+          "performance_or_health_indicator": "Valuable for determining intensity thresholds, measuring acute exercise intensity, and assessing the efficacy of training sessions. It is a useful, load-sensitive variable in acute exercise, but a consistent sampling site is crucial due to site-dependent differences. Lower levels from glycogen depletion should not be misinterpreted as training improvement."
+        },
+        {
+          "biomarker_name": "C-reactive protein (CRP)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher (often delayed), can be lower at resting levels with long-term activity",
+            "magnitude_quantification": "Levels are indicative of inflammatory response. Acute increases are often delayed, peaking around 24 hours post-exercise (e.g., 152-fold after ultradistance foot races, moderate increase after soccer, two-fold after 30 minutes of endurance running). Chronic exhaustive resistance training can lead to increased resting levels, while long-term physical activity can decrease them."
+          },
+          "core_biological_function": "Acute-phase protein produced mainly in the liver, serving as a marker of systemic inflammation and reflecting inflammatory responses.",
+          "relevant_activity_context": "Workload management, load monitoring, recovery, health assessment, various pathological conditions, cardiovascular events, ultradistance foot races, soccer games, intense endurance running, eccentric cycling exercise, exhaustive resistance training, long-term physical activity, and lifestyle modifications.",
+          "performance_or_health_indicator": "Clinically relevant for various pathological conditions and as a prognostic marker for cardiovascular events. It signals impending or acute illness and indicates an inflammatory response triggered by exercise, showing a delayed response. Used in sports to monitor load, recovery, and health, especially in the context of physiological alterations after strenuous exercise."
+        },
+        {
+          "biomarker_name": "Urea",
+          "measured_tissue_or_fluid": "Blood serum",
+          "activity_type": "Concentration",
+          "measured_effect": {
+            "direction_of_change": "Not consistently reflective of load; no acute changes detected in some contexts.",
+            "magnitude_quantification": "Neither a longitudinal study in football, nor during and after an acute high-intensity training shock cycle, nor phases of overreaching in rugby players revealed practical evidence for urea use in monitoring load. No acute changes were detected after a soccer game. One study highlighted potential to possibly reflect aspects of fatigue in cyclists during a simulated training camp. Conflicting evidence for reflecting athlete load and fatigue."
+          },
+          "core_biological_function": "End product of the degradation of nitrogenous or protein materials (serum amino acids, proteins in serum and skeletal muscle).",
+          "relevant_activity_context": "Acute and chronic workloads, high-volume, high-intensity endurance sports, football, acute high-intensity training shock cycle, phases of overreaching in rugby players, soccer game, simulated training camp in cyclists.",
+          "performance_or_health_indicator": "Historically considered a marker for acute and chronic workloads, but current evidence is conflicting and limited. Its use for load management is hindered by the need to monitor urinary excretion and sweat losses. May possibly reflect aspects of fatigue in specific contexts."
+        },
+        {
+          "biomarker_name": "Myoglobin",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "238% increase after a soccer match; seven-fold increase immediately after a 2 \u00d7 45-min simulated soccer game; returns to baseline within 12\u201324 h from circulation due to rapid renal clearance."
+          },
+          "core_biological_function": "Intramuscular transport of oxygen by accepting oxygen from hemoglobin and transporting it to sites of oxidation.",
+          "relevant_activity_context": "Physical stress in sports, acute exercise, soccer matches, myocardial infarction.",
+          "performance_or_health_indicator": "Indirect marker of damage to skeletal muscle due to rapid kinetics; short-term muscle damage marker in acute settings; excessive excretion can lead to kidney damage and kidney failure due to toxic effect on renal tubules."
+        },
+        {
+          "biomarker_name": "Circulating Leukocytes (WBCs)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Cell Count",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Elevated after the Boston Marathon; increase during and after single bouts of exercise, with most pronounced responses after long-term, intensive endurance exercise sessions."
+          },
+          "core_biological_function": "Indicator for acute infections; prognostic marker for chronic diseases; part of the fast innate immune system involved in fight-or-flight reactions to precondition the body for potential pathogens.",
+          "relevant_activity_context": "Acute infections, chronic diseases, single bouts of exercise, long-term intensive endurance exercise sessions, Boston Marathon.",
+          "performance_or_health_indicator": "Indicator for acute infections; prognostic marker for chronic diseases; reflects immune system's response to stress; can inform practitioners on chronic inflammatory conditions."
+        },
+        {
+          "biomarker_name": "Lymphocytes",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Cell Count / Proportion",
+          "measured_effect": {
+            "direction_of_change": "biphasic pattern (initial increase then strong decrease)",
+            "magnitude_quantification": "Increase immediately after cessation of exercise, then strongly decrease for up to 36 h after exercise (potentially 50% below resting levels); T- and B-lymphocyte decreases are less pronounced and usually return to baseline level within 6 h."
+          },
+          "core_biological_function": "Immune response, part of circulating WBCs.",
+          "relevant_activity_context": "Acute exercise, hours after cessation of exercise.",
+          "performance_or_health_indicator": "Reflects the immune system's response to exercise; can indicate immune suppression during recovery phases."
+        },
+        {
+          "biomarker_name": "Monocytes",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Cell Count",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Increase after different types of exercise; return to baseline levels within 2 h post-exercise. Account for 4\u201310% of WBCs."
+          },
+          "core_biological_function": "Immune response, part of circulating WBCs.",
+          "relevant_activity_context": "Acute exercise, after different types of exercise.",
+          "performance_or_health_indicator": "Reflects the immune system's response to exercise."
+        },
+        {
+          "biomarker_name": "Granulocytes",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Cell Count",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Further increase after the cessation of exercise for 4\u20136 h. Account for approximately 66% of WBCs."
+          },
+          "core_biological_function": "Part of the fast innate immune system, involved in fight-or-flight reactions.",
+          "relevant_activity_context": "Acute exercise, after cessation of exercise.",
+          "performance_or_health_indicator": "Reflects the innate immune system's response to exercise."
+        },
+        {
+          "biomarker_name": "Load-sensitive cytokine profile",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Not reported as a specific effect; discussion focuses on analytical suitability",
+            "magnitude_quantification": "Not quantified as a specific effect; quantification is described as time-consuming via enzyme-linked immunosorbent assay (ELISA), leading to a retrospective view and limiting suitability."
+          },
+          "core_biological_function": "Mediates physiological responses to physical load.",
+          "relevant_activity_context": "Monitoring effects of exercise in sports.",
+          "performance_or_health_indicator": "Potential promising biomarker for sports monitoring, but current time-consuming measurement limits routine application and real-time suitability."
+        },
+        {
+          "biomarker_name": "Growth hormone",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Hormone Concentration",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Blunted during maximal exercise; resting levels are generally within expected ranges."
+          },
+          "core_biological_function": "Hormone involved in growth, cell reproduction, and regeneration.",
+          "relevant_activity_context": "Maximal exercise, overreaching, and overtraining. Resting conditions.",
+          "performance_or_health_indicator": "A blunted response during maximal exercise indicates potential overreaching or overtraining. Resting levels are not a reliable indicator for these conditions."
+        },
+        {
+          "biomarker_name": "Adrenocorticotropic hormone",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Hormone Concentration",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Blunted during maximal exercise; resting levels are generally within expected ranges."
+          },
+          "core_biological_function": "Stimulates cortisol production; plays a role in the body's response to stress.",
+          "relevant_activity_context": "Maximal exercise, overreaching, and overtraining. Resting conditions.",
+          "performance_or_health_indicator": "A blunted response during maximal exercise indicates potential overreaching or overtraining. Resting levels are not a reliable indicator for these conditions."
+        }
+      ]
+    }
+  }
+]

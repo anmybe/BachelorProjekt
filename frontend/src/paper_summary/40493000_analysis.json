@@ -1,0 +1,628 @@
+[
+  {
+    "title": "pmc 100895309 27065 Cytotherapy Cytotherapy Cytotherapy 1465-3249 1477-2566 12265769 40493000 10.1016/j.jcyt.2025.04.069 nihpa2089047 Article Immune Monitoring after Cell Therapy and Hematopoietic Cell Transplantation: Guidelines by the ISCT Stem Cell Engineering Committee Oppizzi Linda 1 * Hosszu Kinga 2 * ** Prockop Susan 3 Bidgoli Alan 4 Bonfim Carmen 5 Ciccocioppo Rachele 6 Ruggeri Annalisa 7 Maiers Martin 8 Bertaina Alice 1 \u2020 Boelens Jaap Jan 2 \u2020 1 Division of Hematology, Oncology, Stem Cell Transplantation and Regenerative Medicine, Department of Pediatrics, Stanford University, Stanford, California, USA 2 Stem Cell Transplantation and Cellular Therapies, Memorial Sloan Kettering Cancer Center, New York, New York, USA 3 Dana Farber/Boston Children\u2019s Hospital Cancer and Blood Disorders Center, and Department of Pediatrics, Harvard Medical School, Boston Massachusetts, USA 4 Division of Blood and Marrow Transplantation, Children\u2019s Healthcare of Atlanta, Aflac Blood and Cancer Disorders Center, Emory University, Atlanta, Georgia, USA 5 Pediatric Blood and Marrow Transplantation Division and Pele Pequeno Principe Research Institute, Hospital Pequeno Principe, Curitiba, Brazil 6 Gastroenterology Unit, Department of Medicine, A.O.U.I. Policlinico G.B. Rossi & University of Verona, Verona, Italy 7 Unit of Hematology and Bone Marrow Transplantation, IRCCS San Raffaele Hospital, Vita-Salute San Raffaele University, Milan, Italy 8 Center for International Blood & Marrow Transplant Research (CIBMTR), NMDP, Minneapolis, Minnesota, USA * \u02d9Equal contribution, first co-authors. \u2020 \u02d9Equal contribution, senior co-authors. ** Correspondence: Kinga Hosszu, Department of Pediatrics, Memorial Sloan Kettering Cancer Center, 1275 York Ave, New York, NY 10065. hosszuk@mskcc.org (K. Hosszu). 4 7 2025 8 2025 05 5 2025 16 7 2025 27 8 888 902 https://creativecommons.org/licenses/by-nc-nd/4.0/ This is an open access article under the CC BY-NC-ND license ( http://creativecommons.org/licenses/by-nc-nd/4.0/ ) Allogeneic hematopoietic cell transplantation and cell therapy (TCT) are potentially lifesaving treatments for patients with high-risk hematologic malignancies and life-threatening acquired and genetic hematologic disorders. However, these treatments face significant challenges, particularly in the risks of relapse and severe toxicity, leading to both relapse-related and non-relapse mortality (NRM). The immune system plays a critical role in controlling these risks, but predictive immune biomarkers for relapse and toxicity have yet to be fully established. To better understand factors driving outcomes in TCT recipients, researchers are increasingly relying on minimally invasive specimens for analysis, such as peripheral blood. These liquid biopsies provide a cost-effective and rapid means to evaluate parameters such as minimal residual disease and genomic mutation profiles. The evolution of these techniques opens new possibilities for monitoring immune reconstitution, including tracking immune cell development and the diversity of surface and secreted biomarkers. This review presents a practical guideline for establishing an immune monitoring program tailored to the TCT environment. By adopting a proactive, harmonized approach, such programs can enhance prognosis prediction and enable early relapse detection, potentially surpassing traditional diagnostic methods. While recent advancements are promising, considerable progress is still needed to make liquid biopsies a routine component of clinical practice. immune reconstitution immune monitoring program functional immune recovery cellular biomarkers transplantation immunology Introduction Despite the numerous transplantation and cellular therapy (TCT) studies ongoing worldwide, standardized regimens for immune monitoring remain limited due to the gap between investigational studies and established protocols. This gap stems from lack of sufficient evidence regarding factors that influence tumor\u2013immune interactions as well as the diversity in methods used for data generation. Under TCT, we consider the whole range of different transplant platforms, including ex vivo T-cell depletion techniques, add backs, and T-replete platforms. Systematically profiling immune signatures, including secreted biomarkers and phenotypic cell profiles, would improve our understanding of immune reconstitution (IR) and immune composition, thereby accelerating therapeutic development and improving patient outcomes. The identification of predictive molecular and cellular markers is essential for stratifying patient risk and anticipating therapy responses. What to Monitor While TCT trials often include immune monitoring, standardized guidelines for quantifying cell subsets following TCT are still lacking. Recent findings suggest that the concurrent use of multiple immune monitoring tests holds great promise in identifying surrogate and predictive markers relevant to clinical decisions and the optimization of immunotherapies. These tests should evaluate both numeric and functional reconstitution to encompass evaluations of cellular composition, activation, exhaustion, homing capacity, secreted biomarkers, and immune cell function. This comprehensive approach to immune monitoring represents a significant advancement in the pursuit of personalized therapeutic interventions while acknowledging the numerous uncertainties within the field. Cytometric immune reconstitution Even after over 50 years of bone marrow transplantation (BMT), there remains uncertainty about what constitutes normal or favorable immune reconstitution in terms of cell numbers and functionality. Acquiring more comprehensive data in this area is crucial, as it could not only inform therapeutic approaches and interventions but also enhance our ability to prognosticate outcomes following transplantation. Immune monitoring should rely on systematic and in-depth characterization of immune cells to understand specific immune alterations after TCT. This characterization should include measuring the kinetics of in vivo expansion and de novo cell production (e.g., T cells and B cells), including minor, specialized, and/or unconventional immune cell subsets. Kinetics of Immune Reconstitution Immune reconstitution, the timely cellular recovery and regain of function of a donor-derived immune system, is closely connected with complication-free success and recovery after TCT [ 1 \u2013 4 ]. Therefore, monitoring the pace of immune cell recovery can potentially provide a clinically applicable readout to guide therapy or intervention. Phenotypic (cellular) immune recovery after TCT follows a general pattern. However, the exact kinetics vary ( Supplementary Table 1 ) depending on multiple factors, including the stem cell source, age (donor and recipient), primary diagnosis, donor relation, graft manipulation, pre-transplant conditioning regimen (chemotherapy and/or total body irradiation), post-transplantation immunosuppressive therapies, and the development and treatment of graft-versus-host disease (GVHD), viral reactivations/infections, and other diseases [ 5 \u2013 9 ]. As a general pattern, the innate arm of the immune system reconstitutes first. Granulocytes and monocytes are the first to reconstitute, reestablishing processes critical for the repair of conditioning-related tissue damage, followed closely by natural killer (NK) cells, which are hypothesized to have a role in graft versus leukemia (GVL) effects while mitigating the incidence of acute GVHD (aGVHD) [ 3 , 4 , 10 \u2013 12 ]. T cells and B cells of the adaptive immune system recover more slowly; their timing is influenced by factors such as the graft source composition, degree of HLA matching, donor/recipient age, the use of in vivo or ex vivo depletion techniques and the pharmacokinetics (PK) of agents used for conditioning (e.g., thymoglobulin [ATG], fludarabine, etc.), which can induce further in vivo T-cell depletion or suppression ( Supplementary Table 1 ) [ 8 , 11 , 13 \u2013 16 ]. This general pattern of immune recovery elucidates the optimal times for sample collection during immune monitoring and provides insights into the anticipated changes throughout the monitoring process. The reconstitution of T cells occurs in two distinct stages. During the first months after TCT, under optimal conditions, the primary mechanism driving T-cell reconstitution is the homeostatic expansion of the infused T cells [ 17 \u2013 21 ]. Subsequently, typically 3 months or more post-transplantation, de novo donor T cells are produced in the thymus as the reservoir of transplanted progenitor cells undergo selection, differentiation, and maturation [ 16 , 22 , 23 ]. In scenarios involving in vivo and ex vivo T-cell depletion, T-cell reconstitution relies more heavily on this latter mechanism. However, thymic reconstitution can be significantly influenced by factors such as the recipient\u2019s age, the presence of GVHD, the use of specific conditioning agents, and viral reactivations, potentially resulting in substantial delays or, in some cases, incomplete recovery. Slow reconstitution, particularly of T cells, is widely recognized as a major contributor to adverse outcomes, including opportunistic infections, GVHD, and relapse [ 24 \u2013 27 ]. Thus, effective immune reconstitution is pivotal to the success of TCT, serving as a critical determinant of patient outcomes and guiding therapeutic decisions. Close monitoring of the timing and pattern of immune cell recovery, with innate immune cells recovering faster than adaptive immune cells, enables precise collection of patient samples, provides insights into clinical progress, and facilitates timely interventions to address slow T-cell recovery, ultimately improving patient outcomes. Surveilling absolute and relative frequencies of major immune subsets, along with absolute lymphocyte counts, is crucial when planning a recipient\u2019s revaccination schedule, one of the clinical decisions most directly impacted by reconstitution data. Routine immune monitoring of cellular reconstitution is typically conducted using flow cytometry in clinical laboratories, utilizing smaller, more focused antibody panels. However, some centers (e.g., Memorial Sloan Kettering Cancer Center in New York, New York, USA) have begun incorporating high-dimensional cytometry to simultaneously identify multiple cell types in samples. This approach is particularly advantageous when monitoring multiple cell types at once, especially when the sample contains a limited number of cells.",
+    "document_source_id": "40493000",
+    "analysis_date": "2025-12-10",
+    "extracted_data": {
+      "document_summary": "This document provides comprehensive guidelines for establishing and managing immune monitoring programs in patients undergoing allogeneic hematopoietic cell transplantation and cellular therapies (TCT/HCT). It highlights the critical need for standardized protocols for assay, flow cytometric, and data analysis to ensure consistent, scalable, and comparable results across multiple centers. The aim is to enhance prognosis prediction, enable early relapse detection, and improve clinical decision-making by evaluating immune reconstitution and functional recovery, as well as by identifying predictive cellular and secreted biomarkers for complications like graft-versus-host disease (GVHD), infections, viral reactivation, and relapse.",
+      "treatment_details": {
+        "therapy_type": "Allogeneic Hematopoietic Cell Transplantation (HCT), Transplant and Cellular Therapy (TCT), and related immune effector cell (IEC) therapies, including Genetically Modified Hematopoietic Stem Cell Therapies (GMHSCT) and CAR T-cell therapy.",
+        "dose_specificity": "The document primarily focuses on immune monitoring protocols post-transplantation rather than specific therapeutic dose-response comparisons for HCT/TCT itself. It highlights the variability in transplant platforms (e.g., T-cell depletion techniques, add backs, T-replete) and conditioning regimens (e.g., lymphocyte ablation, total body irradiation). Monitoring thresholds are mentioned for specific immune cells, such as >50 CD4+ T cells/\u03bcL within 100 days and >150 NK cells/mL at day 30 post-HCT, to indicate timely immune recovery. Recommended longitudinal sampling schedules are provided (e.g., biweekly for 3 months, then monthly/quarterly) post-HCT/GMHSCT, along with typical blood volumes (8-20 mL), but lack specific dose details for primary therapies or dose-response observations."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "Granulocytes and Monocytes",
+          "measured_tissue_or_fluid": "Peripheral Blood",
+          "activity_type": "Cellular Composition/Count, Cell population viability/half-life",
+          "measured_effect": {
+            "direction_of_change": "Rapid recovery/reconstitution",
+            "magnitude_quantification": "Granulocytes and monocytes are among the first immune cells to reconstitute post-TCT, showing rapid recovery. Monocytes have a half-life of 24\u201348 hours in unprocessed samples, while neutrophils (a type of granulocyte) have a half-life of 6-8 hours, indicating significant loss if not processed promptly."
+          },
+          "core_biological_function": "Critical for the repair of conditioning-related tissue damage post-transplantation; Monocytes differentiate into macrophages and dendritic cells, crucial for antigen presentation and immune regulation. Granulocytes (like neutrophils) are key for innate immunity against bacterial and fungal infections.",
+          "relevant_activity_context": "Post-allogeneic hematopoietic cell transplantation and cell therapy (TCT); Sample processing delays for peripheral blood collected for immune monitoring post-HCT.",
+          "performance_or_health_indicator": "Indicates early immune recovery and re-establishment of critical repair processes after TCT. Timely sample processing is critical to maintain cell integrity and accurate immune cell counts for monitoring."
+        },
+        {
+          "biomarker_name": "Natural Killer (NK) cells",
+          "measured_tissue_or_fluid": "Peripheral Blood",
+          "activity_type": "Cellular Composition/Count, Expression of markers (CD56, CD16)",
+          "measured_effect": {
+            "direction_of_change": "Rapid recovery/reconstitution",
+            "magnitude_quantification": "NK cells reconstitute closely following granulocytes and monocytes post-TCT. High NK cell counts early after transplant (>150 NK cells/mL at day 30 post-HCT) have been indicated as an independent determinant of positive outcomes. CD56bright CD16- NK cells may be lower in patients who develop aGVHD, while elevated counts of CD56 intermediate cells are associated with chronic GVHD (cGVHD). Results correlating NK cells with outcomes have been mixed."
+          },
+          "core_biological_function": "Hypothesized to play a role in graft versus leukemia (GVL) effects and mitigating the incidence of acute GVHD (aGVHD). Innate immunity, protection from viral infections. CD56bright CD16- can secrete regulatory cytokines.",
+          "relevant_activity_context": "Post-allogeneic hematopoietic cell transplantation and cell therapy (TCT), early immune reconstitution post-HCT, protection from viral infections/reactivations, GVL effect, association with acute GVHD (aGVHD) and chronic GVHD (cGVHD).",
+          "performance_or_health_indicator": "Contributes to GVL effects and reduced aGVHD incidence, crucial for positive TCT outcomes. Early reconstitution is integral for protection from viral infections and GVL effect. High early counts (>150 cells/mL at day 30) are an independent determinant of positive outcomes. CD56bright CD16- cells may indicate aGVHD risk, and CD56 intermediate cells are associated with cGVHD. Overall, findings are mixed, underscoring the need for more studies."
+        },
+        {
+          "biomarker_name": "T cells",
+          "measured_tissue_or_fluid": "Peripheral Blood",
+          "activity_type": "Cellular Composition/Count and Function",
+          "measured_effect": {
+            "direction_of_change": "Slower and staged recovery/reconstitution",
+            "magnitude_quantification": "T cells recover more slowly than innate immune cells. Initial reconstitution (first months) is driven by homeostatic expansion of infused T cells, followed by de novo donor T cell production in the thymus (typically 3 months or more post-transplantation). Recovery can be significantly delayed or incomplete due to recipient's age, GVHD, conditioning agents, and viral reactivations."
+          },
+          "core_biological_function": "Adaptive immune system component, responsible for mediating specific immune responses and crucial for overall immune reconstitution and function.",
+          "relevant_activity_context": "Post-allogeneic hematopoietic cell transplantation and cell therapy (TCT), particularly in scenarios involving T-cell depletion or factors like GVHD, recipient age, and viral reactivations.",
+          "performance_or_health_indicator": "Slow T-cell reconstitution is a major contributor to adverse outcomes, including opportunistic infections, GVHD, and relapse. Effective and timely T-cell reconstitution is pivotal for the success of TCT and patient outcomes, guiding therapeutic decisions and interventions."
+        },
+        {
+          "biomarker_name": "B cells",
+          "measured_tissue_or_fluid": "Peripheral Blood",
+          "activity_type": "Cell counts/frequency, Immunoglobulin production, B-cell activating factor (BAFF) overproduction",
+          "measured_effect": {
+            "direction_of_change": "Slower recovery/reconstitution",
+            "magnitude_quantification": "B cells recover more slowly than innate immune cells post-TCT. Prolonged low levels are observed during the first 3 months post-TCT; however, early reconstitution of B cells (>25/\u03bcL within 100 days) is an immune predictor for reduced NRM. A higher frequency of B-cell precursors and early B cells in the first year post-TCT is linked to a lower incidence of both acute and chronic GVHD, while delayed reconstitution correlates with GVHD development. B cells overproducing B-cell activating factor (BAFF) are associated with cGVHD and NRM."
+          },
+          "core_biological_function": "Adaptive immune system component, essential for humoral immunity, immunoglobulin production, and overall immune reconstitution; involved in preventing respiratory bacterial infections and modulating GVHD.",
+          "relevant_activity_context": "Post-allogeneic hematopoietic cell transplantation and cell therapy (TCT) immune reconstitution and recovery, impact of pre-transplant conditioning regimens, aGVHD and its treatment, graft source, EBV-PTLD prevention.",
+          "performance_or_health_indicator": "Clinically significant for preventing respiratory bacterial infections, influencing GVHD, predicting reduced non-relapse mortality (NRM), and associated with chronic GVHD (cGVHD) and NRM when overproducing BAFF."
+        },
+        {
+          "biomarker_name": "CD4+ Helper T cells",
+          "measured_tissue_or_fluid": "Peripheral Blood",
+          "activity_type": "Cell count (immune reconstitution), Protein Level (for cell surface marker)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Recovery is strongly associated with improved outcomes, including higher survival rates, reduced adenoviral reactivation, and lower incidence of relapse. Timely reconstitution is defined as reaching >50 CD4+ T cells/\u03bcL at 2 consecutive measurements within 100 days post-HCT. Antiviral therapy may be withheld if counts fall above 50 cells/\u03bcL, and vaccination deferred until counts exceed 200 cells/\u03bcL."
+          },
+          "core_biological_function": "Coordinate immune responses, activate other immune cells, central role in adaptive immunity, crucial for host defense against pathogens, and overall immune recovery.",
+          "relevant_activity_context": "Post-Hematopoietic Cell Transplantation (HCT), especially in patients developing acute GVHD (aGVHD), adenoviral reactivation, and risk of relapse. Immune recovery post-transplantation (HSCT, TCT, GMHSCT) to guide prophylactic interventions.",
+          "performance_or_health_indicator": "Strong predictor of leukemia-free survival, non-relapse mortality (NRM), and overall survival. Failure to reach threshold within 100 days guides clinical decisions (increased monitoring for viral/infectious threats, maintaining prophylactic therapies). Indicates sufficient immune reconstitution for withholding antiviral therapy or proceeding with vaccination, predicting the ability to mount a protective immune response."
+        },
+        {
+          "biomarker_name": "CD4+ Regulatory T (Treg) cells (identified by FoxP3, CD4+CD25+FOXP3+ or CD4+CD25+CD127low/-)",
+          "measured_tissue_or_fluid": "Peripheral blood; also graft content",
+          "activity_type": "Cell count / recovery (by flow cytometry); graft content assessment",
+          "measured_effect": {
+            "direction_of_change": "higher (recovery) or lower (peripheral blood counts)",
+            "magnitude_quantification": "Recovery correlates with improved clinical outcomes, associated with reduced incidence of relapse and adenoviral reactivation, and increased survival in patients with GVHD. Low peripheral blood Treg counts are associated with the development of aGVHD and higher NRM."
+          },
+          "core_biological_function": "Immune suppression, maintenance of immune tolerance, prevention of autoimmunity. Can inhibit GVL effect.",
+          "relevant_activity_context": "Post-Hematopoietic Cell Transplantation (HCT), especially in relation to GVHD incidence, relapse, adenoviral reactivation, NRM, and GVL effect.",
+          "performance_or_health_indicator": "Correlates with improved clinical outcomes, reduced relapse and adenoviral reactivation, increased survival in GVHD patients. Low peripheral blood counts are associated with aGVHD and higher NRM. Potential diagnostic and predictive value for aGVHD. Monitoring Treg content of graft and Treg-to-total T-cell ratio post-HCT could predict GVHD and GVL outcomes."
+        },
+        {
+          "biomarker_name": "CD8+ Cytotoxic T Cells",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Cell count / reconstitution",
+          "measured_effect": {
+            "direction_of_change": "steady levels are vital; early peak may correlate with higher risk",
+            "magnitude_quantification": "Steady reconstitution plays a vital role in defending against viral infections, preventing reactivations, and reducing the risk of relapse. Shown to effectively control viral load and symptoms of cytomegalovirus (CMV). An early peak in CD8+ T-cell counts may also correlate with a higher risk of aGVHD (this risk is mitigated by a small subset of CD8+ T cells with regulatory functions expressing typical Treg markers such as FoxP3)."
+          },
+          "core_biological_function": "Directly kill infected or cancerous cells, anti-viral defense, tumor surveillance. Regulatory subset has immunosuppressive functions.",
+          "relevant_activity_context": "Post-HCT, defense against viral infections (e.g., CMV), prevention of reactivations, reduction of relapse risk, and potential association with aGVHD.",
+          "performance_or_health_indicator": "Vital for defending against viral infections, preventing reactivations, and reducing relapse risk. An early peak may indicate higher aGVHD risk, which can be mitigated by regulatory CD8+ T cells. Monitoring is informative, including CD8-to-CD4 ratio."
+        },
+        {
+          "biomarker_name": "Gamma delta T (\u03b3\u03b4 T) cells",
+          "measured_tissue_or_fluid": "Peripheral Blood",
+          "activity_type": "Cell count / reconstitution, Cell Subset Phenotyping (via flow cytometry)",
+          "measured_effect": {
+            "direction_of_change": "associated with improved; decreased",
+            "magnitude_quantification": "Reconstitution of \u03b3\u03b4 T cells has been associated with improved event-free survival, and decreased incidence of aGVHD. Tracking provides crucial insights into immune reconstitution and potential risk of complications (viral reactivations and GVHD); no specific quantitative data provided."
+          },
+          "core_biological_function": "Innate-like adaptive immunity, non-MHC restricted T-cell receptors, mediate responses to small proteins and stress antigens. A subset of T lymphocytes with innate-like immune functions, involved in early host defense and immune regulation.",
+          "relevant_activity_context": "Post-HCT, assessment of GVHD risk and event-free survival. TCR\u03b1\u03b2-depleted transplants and general immune reconstitution post-transplantation.",
+          "performance_or_health_indicator": "Association with improved event-free survival and decreased incidence of aGVHD (preliminary data). Posing a lower risk for GVHD due to non-alloreactive nature. Indicates immune reconstitution status and potential risk of post-transplant complications, including viral reactivations and Graft-versus-Host Disease (GVHD)."
+        },
+        {
+          "biomarker_name": "Invariant NKT cells (iNKT)",
+          "measured_tissue_or_fluid": "Blood; also graft content",
+          "activity_type": "Cell count / reconstitution; graft doses",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "iNKT reconstitution has been correlated with improved outcomes. Elevated levels of iNKT cells within the graft have been linked to subsequent increased numbers in HCT recipients. Higher iNKT-containing graft doses have shown a correlation with a reduced incidence of aGVHD."
+          },
+          "core_biological_function": "Diverse immunologic functions, capable of suppressing T-cell proliferation and IFN-\u03b3 production.",
+          "relevant_activity_context": "Post-HCT immune reconstitution, association with aGVHD.",
+          "performance_or_health_indicator": "Correlated with improved outcomes. Higher iNKT-containing graft doses linked to reduced aGVHD incidence. Deserves further investigation in the HCT setting."
+        },
+        {
+          "biomarker_name": "Mucosal-associated invariant T (MAIT) cells (CD3, V\u03b17.2, CD161, majority CD8+CD161hi)",
+          "measured_tissue_or_fluid": "Circulating immune cells",
+          "activity_type": "Cell counts, Gene expression (Furin, CCL3), Cytokine secretion (IL-17), Cell activation",
+          "measured_effect": {
+            "direction_of_change": "correlated with higher incidence (GVHD), higher (survival), enhanced (bacterial clearance, tissue repair, viral defense)",
+            "magnitude_quantification": "MAIT cell counts post-transplantation are correlated with GVHD incidence; high MAIT cell counts are associated with improved survival outcomes; they enhance clearance of bacterial infections and promote wound healing through expression of tissue repair genes (Furin, CCL3); involved in defense against viruses (EBV, CMV); secretion of IL-17. Dysbiosis (microbial imbalance) can lead to the increased production of microbial ligands, thereby triggering MAIT cell activation."
+          },
+          "core_biological_function": "Innate-like T cells, primarily involved in antimicrobial immunity and tissue repair. Recognize microbial ligands, pathogen defense, immunomodulation, and early immune response against viral pathogens. Recognize microbial ligands derived from the riboflavin biosynthesis pathway.",
+          "relevant_activity_context": "Post-transplantation, pathogen defense, tissue repair, GVHD pathogenesis, viral reactivation, CAR T-cell therapy inflammatory responses. Microbial imbalance (dysbiosis) and subsequent increased production of microbial ligands.",
+          "performance_or_health_indicator": "Predicts GVHD incidence, associated with improved survival outcomes, indicates immune defense against bacterial and viral pathogens, contributes to tissue repair and wound healing, potential role in modulating CAR T-cell therapy complications. Activation linked to dysbiosis and contributes to immune response."
+        },
+        {
+          "biomarker_name": "T-cell exhaustion markers (e.g., PD-1, CTLA-4, TIM-3, LAG-3, 2B4, KLRG1, GITR)",
+          "measured_tissue_or_fluid": "T cells (Circulating immune cells)",
+          "activity_type": "Protein expression of inhibitory receptors, Proliferative capacity, Cytokine production (IL-2, TNF-\u03b1, IFN-\u03b3), Transcriptional profile",
+          "measured_effect": {
+            "direction_of_change": "higher expression (inhibitory receptors), lower (proliferative capacity, cytokine production)",
+            "magnitude_quantification": "Dysregulated/increased expression of inhibitory receptors leads to poor effector function; low proliferative capacity; low cytokine production (e.g., IL-2, TNF-\u03b1, IFN-\u03b3); T cells expressing multiple inhibitory receptors (especially PD-1) associated with relapse in multiple studies."
+          },
+          "core_biological_function": "Downregulate T-cell response, maintain self-tolerance (under normal conditions), contribute to immune resistance when dysregulated.",
+          "relevant_activity_context": "Post-transplantation, immune reconstitution, response to infections and malignant cells, tumor immune evasion.",
+          "performance_or_health_indicator": "Hinders immune reconstitution, increases risk of infections and relapse, impacts overall transplant outcomes, indicates dysfunctional T cells, serves as a predictor for relapse."
+        },
+        {
+          "biomarker_name": "HLA-DR+ antigen presenting cells (APCs)",
+          "measured_tissue_or_fluid": "Circulating immune cells (plasmacytoid and classical dendritic cells)",
+          "activity_type": "Cell abundance/count, Protein expression (HLA-DR molecules)",
+          "measured_effect": {
+            "direction_of_change": "higher abundance (pDCs for GVHD), lower number (cDCs for risk)",
+            "magnitude_quantification": "Abundance of HLA-DR+ plasmacytoid dendritic cells may serve as a predictor for the occurrence of acute and chronic GVHD; low number of HLA-DR+ classical dendritic cells (DCs) is associated with heightened risk of relapse, mortality, and onset of aGVHD."
+          },
+          "core_biological_function": "Modulate adaptive and innate immune responses, influence T cell response, antigen presentation efficacy.",
+          "relevant_activity_context": "Post-transplantation, immune response modulation, GVHD development, relapse and mortality risk.",
+          "performance_or_health_indicator": "Predictor for acute and chronic GVHD, associated with heightened risk of relapse, mortality, and acute GVHD."
+        },
+        {
+          "biomarker_name": "IL-8",
+          "measured_tissue_or_fluid": "Blood/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "associated with",
+            "magnitude_quantification": "Part of a 4-biomarker panel (IL-8, IL-2R\u03b1, TNFR1, HGF) validated for confirming aGVHD and predicting survival. Separately, associated with cGvHD."
+          },
+          "core_biological_function": "Cytokine; mediates immune responses and inflammation.",
+          "relevant_activity_context": "Post-transplant (TCT)",
+          "performance_or_health_indicator": "Component of a panel confirming acute Graft-versus-Host Disease (aGVHD) and predicting survival; associated with chronic Graft-versus-Host Disease (cGVHD)."
+        },
+        {
+          "biomarker_name": "IL-2 receptor-\u03b1 (IL-2R\u03b1)",
+          "measured_tissue_or_fluid": "Blood/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "associated with",
+            "magnitude_quantification": "Part of a 4-biomarker panel (IL-8, IL-2R\u03b1, TNFR1, HGF) validated for confirming aGVHD and predicting survival. A simpler panel of IL-2R\u03b1 and HGF showed strong association with aGVHD."
+          },
+          "core_biological_function": "Soluble receptor for IL-2; involved in T-cell proliferation and immune regulation.",
+          "relevant_activity_context": "Post-transplant (TCT)",
+          "performance_or_health_indicator": "Component of a panel confirming acute Graft-versus-Host Disease (aGVHD) and predicting survival."
+        },
+        {
+          "biomarker_name": "Tumor necrosis factor receptor-1 (TNFR1)",
+          "measured_tissue_or_fluid": "Blood/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "associated with",
+            "magnitude_quantification": "Part of a 4-biomarker panel (IL-8, IL-2R\u03b1, TNFR1, HGF) validated for confirming aGVHD and predicting survival. Exhibits contrasting effects on GVHD."
+          },
+          "core_biological_function": "Soluble receptor for TNF; involved in inflammation and cell death pathways.",
+          "relevant_activity_context": "Post-transplant (TCT)",
+          "performance_or_health_indicator": "Component of a panel confirming acute Graft-versus-Host Disease (aGVHD) and predicting survival; its influence on GVHD/GVL balance requires further study."
+        },
+        {
+          "biomarker_name": "Hepatocyte growth factor (HGF)",
+          "measured_tissue_or_fluid": "Blood/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "associated with",
+            "magnitude_quantification": "Part of a 4-biomarker panel (IL-8, IL-2R\u03b1, TNFR1, HGF) validated for confirming aGVHD and predicting survival. A simpler panel of IL-2R\u03b1 and HGF showed strong association with aGVHD. Part of a 3-biomarker panel (REG3a, HGF, KRT18) identified as indicative of liver GVHD. Exhibits contrasting effects on GVHD."
+          },
+          "core_biological_function": "Growth factor; involved in cell proliferation, migration, and tissue regeneration.",
+          "relevant_activity_context": "Post-transplant (TCT)",
+          "performance_or_health_indicator": "Component of panels confirming acute Graft-versus-Host Disease (aGVHD), predicting survival, and indicative of liver GVHD; its influence on GVHD/GVL balance requires further study."
+        },
+        {
+          "biomarker_name": "Amphiregulin (AREG) to epithelial growth factor (EGF) ratio",
+          "measured_tissue_or_fluid": "Blood/Serum",
+          "activity_type": "Protein Level (Ratio)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "High ratio associated with poor outcomes, predicting lower overall survival and higher NRM. Specifically elevated in aGVHD but not in cGVHD."
+          },
+          "core_biological_function": "Ratio of growth factors involved in cell growth and signaling.",
+          "relevant_activity_context": "Post-transplant (TCT)",
+          "performance_or_health_indicator": "Elevated ratio predicts lower overall survival, higher Non-Relapse Mortality (NRM), and is indicative of acute Graft-versus-Host Disease (aGVHD)."
+        },
+        {
+          "biomarker_name": "Regenerating islet-derived 3-alpha (REG3a)",
+          "measured_tissue_or_fluid": "Blood/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "associated with",
+            "magnitude_quantification": "Part of a 3-biomarker panel (REG3a, HGF, KRT18) identified as indicative of liver GVHD. Also, associated with grade 3-4 GI-specific GVHD. Exhibits contrasting effects on GVHD."
+          },
+          "core_biological_function": "Protein involved in epithelial cell regeneration and innate immunity.",
+          "relevant_activity_context": "Post-transplant (TCT)",
+          "performance_or_health_indicator": "Component of a panel indicative of liver GVHD; associated with grade 3-4 GI-specific GVHD; its influence on GVHD/GVL balance requires further study."
+        },
+        {
+          "biomarker_name": "Cytokeratin-18 fragments (KRT18)",
+          "measured_tissue_or_fluid": "Blood/Serum",
+          "activity_type": "Protein Level (Fragments)",
+          "measured_effect": {
+            "direction_of_change": "associated with",
+            "magnitude_quantification": "Part of a 3-biomarker panel (REG3a, HGF, KRT18) identified as indicative of liver GVHD."
+          },
+          "core_biological_function": "Structural protein fragments released upon cell damage/apoptosis, particularly epithelial cells.",
+          "relevant_activity_context": "Post-transplant (TCT)",
+          "performance_or_health_indicator": "Component of a panel indicative of liver GVHD."
+        },
+        {
+          "biomarker_name": "Chemokine (C-X-C motif) ligand 9 (CXCL9)",
+          "measured_tissue_or_fluid": "Blood/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "correlates with",
+            "magnitude_quantification": "Part of a distinct 4-biomarker panel (CXCL9, ST2, MMP-3, OPN) for cGVHD shown to correlate with disease activity. Also, identified individually for cGVHD."
+          },
+          "core_biological_function": "Chemokine; involved in leukocyte trafficking and immune responses, particularly Th1 responses.",
+          "relevant_activity_context": "Post-transplant (TCT)",
+          "performance_or_health_indicator": "Component of a panel correlating with chronic Graft-versus-Host Disease (cGVHD) disease activity; also identified as an individual biomarker for cGVHD."
+        },
+        {
+          "biomarker_name": "Suppression of tumorigenicity 2 (ST2)",
+          "measured_tissue_or_fluid": "Blood/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "associated with",
+            "magnitude_quantification": "Part of a distinct 4-biomarker panel (CXCL9, ST2, MMP-3, OPN) for cGVHD shown to correlate with disease activity. Individually, associated with aGVHD, NRM, and low response to aGVHD treatment. Exhibits contrasting effects on GVHD."
+          },
+          "core_biological_function": "Soluble receptor subunit involved in inflammation and fibrosis, often a marker of Th2 immune responses.",
+          "relevant_activity_context": "Post-transplant (TCT)",
+          "performance_or_health_indicator": "Component of a panel correlating with chronic Graft-versus-Host Disease (cGVHD) disease activity; individually associated with acute Graft-versus-Host Disease (aGVHD), Non-Relapse Mortality (NRM), and low response to aGVHD treatment; its influence on GVHD/GVL balance requires further study."
+        },
+        {
+          "biomarker_name": "Matrix metalloproteinase 3 (MMP-3)",
+          "measured_tissue_or_fluid": "Blood/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "correlates with",
+            "magnitude_quantification": "Part of a distinct 4-biomarker panel (CXCL9, ST2, MMP-3, OPN) for cGVHD shown to correlate with disease activity."
+          },
+          "core_biological_function": "Enzyme involved in extracellular matrix degradation and tissue remodeling.",
+          "relevant_activity_context": "Post-transplant (TCT)",
+          "performance_or_health_indicator": "Component of a panel correlating with chronic Graft-versus-Host Disease (cGVHD) disease activity."
+        },
+        {
+          "biomarker_name": "Osteopontin (OPN)",
+          "measured_tissue_or_fluid": "Blood/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "correlates with",
+            "magnitude_quantification": "Part of a distinct 4-biomarker panel (CXCL9, ST2, MMP-3, OPN) for cGVHD shown to correlate with disease activity."
+          },
+          "core_biological_function": "Glycoprotein involved in bone remodeling, inflammation, and cell adhesion/migration.",
+          "relevant_activity_context": "Post-transplant (TCT)",
+          "performance_or_health_indicator": "Component of a panel correlating with chronic Graft-versus-Host Disease (cGVHD) disease activity."
+        },
+        {
+          "biomarker_name": "IL-6",
+          "measured_tissue_or_fluid": "Blood/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "associated with",
+            "magnitude_quantification": "Individually shown predictive or diagnostic value for severe aGVHD and NRM."
+          },
+          "core_biological_function": "Cytokine; involved in inflammation, immune response, and hematopoiesis.",
+          "relevant_activity_context": "Post-transplant (TCT)",
+          "performance_or_health_indicator": "Predictive or diagnostic for severe acute Graft-versus-Host Disease (aGVHD) and Non-Relapse Mortality (NRM)."
+        },
+        {
+          "biomarker_name": "IFN-\u03b3",
+          "measured_tissue_or_fluid": "Blood/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "associated with",
+            "magnitude_quantification": "Individually shown predictive or diagnostic value for aGVHD. Exhibits contrasting effects on GVHD."
+          },
+          "core_biological_function": "Cytokine; critical for innate and adaptive immunity against infections and for tumor control.",
+          "relevant_activity_context": "Post-transplant (TCT)",
+          "performance_or_health_indicator": "Predictive or diagnostic for acute Graft-versus-Host Disease (aGVHD); its influence on GVHD/GVL balance requires further study."
+        },
+        {
+          "biomarker_name": "IL-18",
+          "measured_tissue_or_fluid": "Blood/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "associated with",
+            "magnitude_quantification": "Individually shown predictive or diagnostic value for aGVHD."
+          },
+          "core_biological_function": "Cytokine; involved in Th1 immune responses and inflammation.",
+          "relevant_activity_context": "Post-transplant (TCT)",
+          "performance_or_health_indicator": "Predictive or diagnostic for acute Graft-versus-Host Disease (aGVHD)."
+        },
+        {
+          "biomarker_name": "IL-18 binding protein (IL-18BP)",
+          "measured_tissue_or_fluid": "Blood/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "associated with",
+            "magnitude_quantification": "Individually shown predictive or diagnostic value for aGVHD."
+          },
+          "core_biological_function": "Binding protein; inhibits IL-18 activity.",
+          "relevant_activity_context": "Post-transplant (TCT)",
+          "performance_or_health_indicator": "Predictive or diagnostic for acute Graft-versus-Host Disease (aGVHD)."
+        },
+        {
+          "biomarker_name": "Soluble B-Cell activating factor (sBAFF)",
+          "measured_tissue_or_fluid": "Blood/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "associated with",
+            "magnitude_quantification": "Individually shown predictive or diagnostic value for cGvHD, treatment response to corticosteroids, and NRM."
+          },
+          "core_biological_function": "Cytokine; promotes B-cell survival and maturation.",
+          "relevant_activity_context": "Post-transplant (TCT)",
+          "performance_or_health_indicator": "Predictive or diagnostic for chronic Graft-versus-Host Disease (cGVHD), treatment response to corticosteroids, and Non-Relapse Mortality (NRM)."
+        },
+        {
+          "biomarker_name": "CXCL10",
+          "measured_tissue_or_fluid": "Blood/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "associated with",
+            "magnitude_quantification": "Individually shown predictive or diagnostic value for cGVHD."
+          },
+          "core_biological_function": "Chemokine; involved in leukocyte trafficking, particularly T-cells, to sites of inflammation.",
+          "relevant_activity_context": "Post-transplant (TCT)",
+          "performance_or_health_indicator": "Predictive or diagnostic for chronic Graft-versus-Host Disease (cGVHD)."
+        },
+        {
+          "biomarker_name": "CCL15",
+          "measured_tissue_or_fluid": "Blood/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "associated with",
+            "magnitude_quantification": "Individually shown predictive or diagnostic value for cGVHD and NRM."
+          },
+          "core_biological_function": "Chemokine; attracts monocytes and other immune cells.",
+          "relevant_activity_context": "Post-transplant (TCT)",
+          "performance_or_health_indicator": "Predictive or diagnostic for chronic Graft-versus-Host Disease (cGVHD) and Non-Relapse Mortality (NRM)."
+        },
+        {
+          "biomarker_name": "Soluble CD163",
+          "measured_tissue_or_fluid": "Blood/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "associated with",
+            "magnitude_quantification": "Individually shown predictive or diagnostic value for cGVHD."
+          },
+          "core_biological_function": "Soluble scavenger receptor; marker of macrophage activation and inflammation.",
+          "relevant_activity_context": "Post-transplant (TCT)",
+          "performance_or_health_indicator": "Predictive or diagnostic for chronic Graft-versus-Host Disease (cGVHD)."
+        },
+        {
+          "biomarker_name": "Elafin",
+          "measured_tissue_or_fluid": "Blood/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "associated with",
+            "magnitude_quantification": "Individually shown predictive or diagnostic value for skin aGVHD."
+          },
+          "core_biological_function": "Protease inhibitor with anti-inflammatory and antimicrobial properties.",
+          "relevant_activity_context": "Post-transplant (TCT)",
+          "performance_or_health_indicator": "Predictive or diagnostic for skin-specific acute Graft-versus-Host Disease (aGVHD)."
+        },
+        {
+          "biomarker_name": "T-cell immunoglobulin mucin-3 (TIM3)",
+          "measured_tissue_or_fluid": "Blood/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "associated with",
+            "magnitude_quantification": "Individually shown predictive or diagnostic value for grade 3-4 GI-specific GVHD."
+          },
+          "core_biological_function": "Immune checkpoint receptor; regulates T-cell responses.",
+          "relevant_activity_context": "Post-transplant (TCT)",
+          "performance_or_health_indicator": "Predictive or diagnostic for grade 3-4 GI-specific Graft-versus-Host Disease (GVHD)."
+        },
+        {
+          "biomarker_name": "PD-L1",
+          "measured_tissue_or_fluid": "Cells (e.g., DCs and T cells)",
+          "activity_type": "Protein Expression",
+          "measured_effect": {
+            "direction_of_change": "upregulation",
+            "magnitude_quantification": "Upregulation correlates with relapse. Exhibits contrasting effects on GVHD."
+          },
+          "core_biological_function": "Immune checkpoint ligand; binds PD-1 to inhibit T-cell activation.",
+          "relevant_activity_context": "Post-transplant (TCT)",
+          "performance_or_health_indicator": "Upregulation correlates with relapse; its influence on GVHD/GVL balance requires further study."
+        },
+        {
+          "biomarker_name": "Bt-H3",
+          "measured_tissue_or_fluid": "Cells",
+          "activity_type": "Protein Expression",
+          "measured_effect": {
+            "direction_of_change": "upregulation",
+            "magnitude_quantification": "Upregulation correlates with relapse."
+          },
+          "core_biological_function": "Co-stimulatory/co-inhibitory molecule; regulates T-cell responses.",
+          "relevant_activity_context": "Post-transplant (TCT)",
+          "performance_or_health_indicator": "Upregulation correlates with relapse."
+        },
+        {
+          "biomarker_name": "CD80",
+          "measured_tissue_or_fluid": "Cells",
+          "activity_type": "Protein Expression",
+          "measured_effect": {
+            "direction_of_change": "upregulation",
+            "magnitude_quantification": "Upregulation correlates with relapse."
+          },
+          "core_biological_function": "Co-stimulatory molecule on antigen-presenting cells; binds CD28 on T cells.",
+          "relevant_activity_context": "Post-transplant (TCT)",
+          "performance_or_health_indicator": "Upregulation correlates with relapse."
+        },
+        {
+          "biomarker_name": "PVRL2",
+          "measured_tissue_or_fluid": "Cells",
+          "activity_type": "Protein Expression",
+          "measured_effect": {
+            "direction_of_change": "upregulation",
+            "magnitude_quantification": "Upregulation correlates with relapse."
+          },
+          "core_biological_function": "Cell adhesion molecule; involved in cell-cell interactions.",
+          "relevant_activity_context": "Post-transplant (TCT)",
+          "performance_or_health_indicator": "Upregulation correlates with relapse."
+        },
+        {
+          "biomarker_name": "CD11a/LFA-1",
+          "measured_tissue_or_fluid": "Cells",
+          "activity_type": "Protein Expression",
+          "measured_effect": {
+            "direction_of_change": "downregulation",
+            "magnitude_quantification": "Downregulation correlates with relapse."
+          },
+          "core_biological_function": "Adhesion molecule; involved in leukocyte adhesion and migration.",
+          "relevant_activity_context": "Post-transplant (TCT)",
+          "performance_or_health_indicator": "Downregulation correlates with relapse."
+        },
+        {
+          "biomarker_name": "Stearic to palmitic fatty acids ratio (SA/PA ratio)",
+          "measured_tissue_or_fluid": "Blood/Plasma",
+          "activity_type": "Metabolic Concentration (Ratio)",
+          "measured_effect": {
+            "direction_of_change": "increased",
+            "magnitude_quantification": "Increased ratio associated with a higher risk of relapse."
+          },
+          "core_biological_function": "Ratio of two saturated fatty acids; reflects aspects of lipid metabolism.",
+          "relevant_activity_context": "Post-transplant (TCT)",
+          "performance_or_health_indicator": "Increased ratio associated with a higher risk of relapse."
+        },
+        {
+          "biomarker_name": "Antigen-specific viral monitoring",
+          "measured_tissue_or_fluid": "Blood/Serum",
+          "activity_type": "Pathogen Detection / Immune Response Assessment",
+          "measured_effect": {
+            "direction_of_change": "Status-dependent for risk assessment",
+            "magnitude_quantification": "Assists in tailoring vaccination schedules and antiviral therapy based on individual viral reactivation risk; no specific quantitative data provided."
+          },
+          "core_biological_function": "Detects specific viral threats and the host's immune response to them.",
+          "relevant_activity_context": "Post-transplantation (HSCT, TCT, GMHSCT) immune monitoring for viral reactivation risk.",
+          "performance_or_health_indicator": "Guides individualized vaccination schedules and antiviral therapy based on patient-specific viral reactivation risk."
+        },
+        {
+          "biomarker_name": "TCR\u03b1\u03b2 T cells",
+          "measured_tissue_or_fluid": "Peripheral Blood",
+          "activity_type": "Cell Subset Phenotyping (via flow cytometry)",
+          "measured_effect": {
+            "direction_of_change": "Provides insight into immune status",
+            "magnitude_quantification": "Tracking provides crucial insights into immune reconstitution and potential risk of complications (viral reactivations and GVHD); no specific quantitative data provided."
+          },
+          "core_biological_function": "A major subset of T lymphocytes central to adaptive immunity, involved in host defense, and implicated in complications like GVHD.",
+          "relevant_activity_context": "TCR\u03b1\u03b2-depleted transplants and general immune reconstitution post-transplantation.",
+          "performance_or_health_indicator": "Indicates immune reconstitution status and potential risk of post-transplant complications, including viral reactivations and Graft-versus-Host Disease (GVHD)."
+        },
+        {
+          "biomarker_name": "T cell activation markers",
+          "measured_tissue_or_fluid": "Peripheral Blood",
+          "activity_type": "Protein Level / Cell Surface Marker",
+          "measured_effect": {
+            "direction_of_change": "Early warning indicator",
+            "magnitude_quantification": "Monitoring offers early warning of GVHD; definitive thresholds are still lacking."
+          },
+          "core_biological_function": "Indicate the activation state of T lymphocytes, often in response to infection, inflammation, or alloantigens.",
+          "relevant_activity_context": "Post-transplantation immune monitoring, specifically for early detection of GVHD.",
+          "performance_or_health_indicator": "Serves as an early warning sign for the development of Graft-versus-Host Disease (GVHD)."
+        },
+        {
+          "biomarker_name": "Immune cell subset phenotyping (general)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Cell Count/Phenotype",
+          "measured_effect": {
+            "direction_of_change": "Not applicable; recommended monitoring practice",
+            "magnitude_quantification": "Monitored at minimum schedule of days +30, +90, +180, and +365 following GMHSCT; no specific quantitative change reported in this context."
+          },
+          "core_biological_function": "Assesses the composition and quantitative distribution of different immune cell populations.",
+          "relevant_activity_context": "Harmonized longitudinal monitoring post-Genetically Modified Hematopoietic Stem Cell Therapies (GMHSCT).",
+          "performance_or_health_indicator": "Essential for assessing immune reconstitution and guiding interventions following GMHSCT."
+        },
+        {
+          "biomarker_name": "Functional testing (immune cells)",
+          "measured_tissue_or_fluid": "Clinical samples (e.g., blood)",
+          "activity_type": "Functional Assays (e.g., cytokine secretion, proliferation assays)",
+          "measured_effect": {
+            "direction_of_change": "Not applicable; recommended monitoring practice",
+            "magnitude_quantification": "Monitored at minimum schedule of days +30, +90, +180, and +365 following GMHSCT; no specific quantitative change reported in this context."
+          },
+          "core_biological_function": "Assesses the capacity of immune cells to perform their specific functions, such as cytokine production or proliferation.",
+          "relevant_activity_context": "Harmonized longitudinal monitoring post-Genetically Modified Hematopoietic Stem Cell Therapies (GMHSCT).",
+          "performance_or_health_indicator": "Essential for assessing immune competence and guiding interventions following GMHSCT."
+        },
+        {
+          "biomarker_name": "Eosinophils",
+          "measured_tissue_or_fluid": "Peripheral blood",
+          "activity_type": "Cell population viability/half-life",
+          "measured_effect": {
+            "direction_of_change": "Lower",
+            "magnitude_quantification": "Half-life of 18 hours in unprocessed samples, indicating loss if not processed promptly."
+          },
+          "core_biological_function": "Involved in allergic reactions, asthma, and defense against parasitic infections.",
+          "relevant_activity_context": "Sample processing delays for peripheral blood collected for immune monitoring post-HCT.",
+          "performance_or_health_indicator": "Indicates critical timeframe for sample processing to maintain cell integrity and accurate immune cell counts for monitoring."
+        },
+        {
+          "biomarker_name": "Surface marker expression",
+          "measured_tissue_or_fluid": "Peripheral blood (on immune cells)",
+          "activity_type": "Protein integrity/Cell surface antigen status",
+          "measured_effect": {
+            "direction_of_change": "Lower/Degraded",
+            "magnitude_quantification": "Surface marker expression may degrade when unprocessed samples are stored at 4\u00b0C, compared to room temperature storage or immediate processing."
+          },
+          "core_biological_function": "Critical for immune cell identification, phenotyping, differentiation, signaling, and cell-cell interactions.",
+          "relevant_activity_context": "Storage of unprocessed peripheral blood samples at 4\u00b0C if processing is delayed, particularly for immune monitoring post-HCT.",
+          "performance_or_health_indicator": "Affects the accuracy and reliability of immune cell phenotyping and functional assays, potentially leading to misinterpretation of immune status."
+        },
+        {
+          "biomarker_name": "Cell subsets and population proportions",
+          "measured_tissue_or_fluid": "Peripheral blood",
+          "activity_type": "Cell count and distribution",
+          "measured_effect": {
+            "direction_of_change": "Preserved/Unchanged",
+            "magnitude_quantification": "Most cell subsets are preserved with minimal impact on population proportions when collected with appropriate anticoagulants like EDTA or sodium heparin."
+          },
+          "core_biological_function": "Reflects the overall composition, balance, and functional capacity of the immune system.",
+          "relevant_activity_context": "Collection of peripheral blood samples using specific anticoagulants (EDTA or sodium heparin) for immune monitoring.",
+          "performance_or_health_indicator": "Ensures accurate representation of in vivo immune cell composition, which is essential for reliable immune monitoring and clinical correlation."
+        },
+        {
+          "biomarker_name": "Various immune parameters",
+          "measured_tissue_or_fluid": "Peripheral blood",
+          "activity_type": "Measurement consistency",
+          "measured_effect": {
+            "direction_of_change": "Non-comparable results",
+            "magnitude_quantification": "Ethylenediaminetetraacetic acid (EDTA) and sodium heparin anticoagulants may yield non-comparable results for some parameters, necessitating consistency in use."
+          },
+          "core_biological_function": "Generally related to the measurement of immune cell function, activation, or abundance.",
+          "relevant_activity_context": "Comparison of immune parameters measured from samples collected with different anticoagulants (EDTA vs. sodium heparin) within an immune monitoring program.",
+          "performance_or_health_indicator": "Highlights the critical need for standardization and consistency in anticoagulant use to ensure comparability and reliability of immune monitoring data across studies or over time."
+        },
+        {
+          "biomarker_name": "Proteins (general for proteomic analyses)",
+          "measured_tissue_or_fluid": "Serum or Plasma",
+          "activity_type": "Protein levels",
+          "measured_effect": {
+            "direction_of_change": "Accommodated",
+            "magnitude_quantification": "Some proteomic assays are flexible and accommodate both serum (from anticoagulant-free red-top tubes) and plasma (from sodium heparin or EDTA) for analysis."
+          },
+          "core_biological_function": "Involved in a wide range of biological processes, including immune response, disease pathology, and cellular signaling.",
+          "relevant_activity_context": "Planning for future proteomic analyses within an immune monitoring program, specifically regarding sample type selection (serum vs. plasma).",
+          "performance_or_health_indicator": "Informs sample collection and processing strategies to ensure compatibility with planned proteomic assays for comprehensive immune monitoring."
+        },
+        {
+          "biomarker_name": "CD25",
+          "measured_tissue_or_fluid": "Cells (from healthy donors and patients)",
+          "activity_type": "Protein Level (via flow cytometry phenotype analysis)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Expression is increased after 72-hour mitogen stimulation, making the 'positive population' clearer; precise quantification of change not reported, but used for empirical determination of positive populations."
+          },
+          "core_biological_function": "Indicates T-cell activation, functioning as a baseline-expressed activation marker.",
+          "relevant_activity_context": "Following 72-hour mitogen stimulation, in the context of immune monitoring programs for human TCT recipients.",
+          "performance_or_health_indicator": "Indicates immune activation; baseline expression observed in both patient and healthy donor cells is not necessarily a cause for immediate concern, but changes upon stimulation help define positive populations for accurate monitoring."
+        },
+        {
+          "biomarker_name": "Absolute Lymphocyte Counts (ALCs)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Cell Count",
+          "measured_effect": {
+            "direction_of_change": "variations observed",
+            "magnitude_quantification": "Reliable ALCs are used to validate flow cytometry data; no specific quantification of observed changes or normal limits are cited in this text."
+          },
+          "core_biological_function": "Measures the total number of lymphocytes in the blood, reflecting overall immune status and reconstitution.",
+          "relevant_activity_context": "Immune monitoring programs for human TCT recipients; utilized during data analysis to validate flow cytometry data and assess deviations in immune reconstitution.",
+          "performance_or_health_indicator": "Validates flow cytometry data and provides valuable insights into phenotypic and functional immune reconstitution; deviations are indicative of changes in overall immune status."
+        }
+      ]
+    }
+  }
+]

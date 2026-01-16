@@ -1,0 +1,340 @@
+[
+  {
+    "title": "pmc Front Immunol Front Immunol Front. Immunol. Frontiers in Immunology 1664-3224 Frontiers Media S.A. 11116732 10.3389/fimmu.2024.1337208 Immunology Original Research Lipidome is a valuable tool for the severity prediction of coronavirus disease 2019 Zhang Shan-Shan 1 2 \u2020 Zhao Zhiling 3 \u2020 Zhang Wan-Xue 2 4 \u2020 Wu Rui 5 Li Fei 6 Yang Han 2 4 Zhang Qiang 3 Wei Ting-Ting 1 2 Xi Jingjing 3 Zhou Yiguo 2 7 Wang Tiehua 3 Du Juan 1 2 Huang Ninghua 1 2 Ge Qinggang 3 * Lu Qing-Bin 1 2 4 7 8 * \u2021 1 Department of Laboratorial Science and Technology and Vaccine Research Center, School of Public Health, Peking University , Beijing , China 2 Center for Infectious Disease and Policy Research and Global Health and Infectious Diseases Group, Peking University , Beijing , China 3 Department of Intensive Care Medicine, Peking University Third Hospital , Beijing , China 4 Department of Epidemiology and Biostatistics, School of Public Health, Peking University , Beijing , China 5 Pulmonary and Critical Care Medicine, Peking University Third Hospital , Beijing , China 6 Department of General Surgery, Peking University Third Hospital , Beijing , China 7 Department of Health Policy and Management, School of Public Health, Peking University , Beijing , China 8 Key Laboratory of Epidemiology of Major Diseases (Peking University), Ministry of Education , Beijing , China Edited by: Undurti Narasimha Das, UND Life Sciences LLC, United States Reviewed by: Marco De Andrea, University of Turin, Italy Aikaterini Alexaki, Centre Hospitalier Universitaire Vaudois (CHUV), Switzerland *Correspondence: Qinggang Ge, qingganggelin@126.com ; Qing-Bin Lu, qingbinlu@bjmu.edu.cn \u2020These authors have contributed equally to this work \u2021ORCID: Qing-Bin Lu, orcid.org/0000-0002-2804-0827 10 5 2024 2024 15 1337208 12 11 2023 24 4 2024 Copyright \u00a9 2024 Zhang, Zhao, Zhang, Wu, Li, Yang, Zhang, Wei, Xi, Zhou, Wang, Du, Huang, Ge and Lu 2024 Zhang, Zhao, Zhang, Wu, Li, Yang, Zhang, Wei, Xi, Zhou, Wang, Du, Huang, Ge and Lu https://creativecommons.org/licenses/by/4.0/ This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms. Objective To describe the lipid metabolic profile of different patients with coronavirus disease 2019 (COVID-19) and contribute new evidence on the progression and severity prediction of COVID-19. Methods This case\u2013control study was conducted in Peking University Third Hospital, China. The laboratory-confirmed COVID-19 patients aged \u226518 years old and diagnosed as pneumonia from December 2022 to January 2023 were included. Serum lipids were detected. The discrimination ability was calculated with the area under the curve (AUC). A random forest (RF) model was conducted to determine the significance of different lipids. Results Totally, 44 COVID-19 patients were enrolled with 16 mild and 28 severe patients. The top 5 super classes were triacylglycerols (TAG, 55.9%), phosphatidylethanolamines (PE, 10.9%), phosphatidylcholines (PC, 6.8%), diacylglycerols (DAG, 5.9%) and free fatty acids (FFA, 3.6%) among the 778 detected lipids from the serum of COVID-19 patients. Certain lipids, especially lysophosphatidylcholines (LPCs), turned to have significant correlations with certain immune/cytokine indexes. Reduced level of LPC 20:0 was observed in severe patients particularly in acute stage. The AUC of LPC 20:0 reached 0.940 in discriminating mild and severe patients and 0.807 in discriminating acute and recovery stages in the severe patients. The results of RF models also suggested the significance of LPCs in predicting the severity and progression of COVID-19. Conclusion Lipids probably have the potential to differentiate and forecast the severity, progression, and clinical outcomes of COVID-19 patients, with implications for immune/inflammatory responses. LPC 20:0 might be a potential target in predicting the progression and outcome and the treatment of COVID-19. COVID-19 SARS-CoV-2 lipid LPC immune cytokine The author(s) declare financial support was received for the research, authorship, and/or publication of this article. This work was supported by Natural Science Foundation of China (82073617), Beijing Natural Science Foundation (M22036), Joint Research Fund for Beijing Natural Science Foundation and Haidian Original Innovation (L202007 and L222028) and Fundamental Research Funds for the Central Universities and Peking University Health Science Center (BMU2021YJ041) and Peking University Medicine Fund of Fostering Young Scholars\u2019 Scientific & Technological Innovation (BMU2021PY005). The funding agencies had no role in the design and conduct of the study, collection, management, analysis, interpretation of the data, preparation, review, or approval of the manuscript. section-in-acceptance Viral Immunology Introduction Coronavirus disease 2019 (COVID\u221219) is an emerging infectious disease caused by the infection of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Most individuals infected with SARS-CoV-2 exhibit mild or moderate respiratory symptoms and undergo a self-limiting recovery process without necessitating specialized medical intervention ( 1 ). However, approximately 20% of the patients may develop to severe illness state and even die from the infection, especially in the elderly that warrant intensive medical care ( 2 , 3 ). Numerous studies have explored the pathogenetic mechanism of SARS-CoV-2 infection, although it has been not yet fully elucidated ( 4 ). Given the various adverse outcomes of COVID-19, there is a need to conduct more research on the pathogenic mechanism and develop predictive tools for severe or fatal cases and targeted therapies. Lipids have been acknowledged to be associated with viral infection in many regards ( 5 \u2013 8 ). On the one hand, lipids are involved in various biological processes as the structural foundations of the membrane\u2019s cells and viruses ( 9 ). They function as crucial elements in cell membranes and molecules for storing energy, playing a role in signaling processes ( 10 ). The host lipid synthesis pathway contributes a lot to the regulation and control of viral replication ( 11 ). Lipids serve as direct receptors or assist in the entry of various viruses on the cell surface or within endosomes ( 12 ). They also contribute to the formation and function of viral replication complexes and in the production of energy necessary for efficient replication of viruses ( 11 ). Moreover, lipids help in regulating the appropriate allocation of viral proteins inside the cell and play a role in the assembly, transportation, and release of viral particles ( 13 , 14 ). On the other hand, viral infection disrupts host metabolism, depriving cellular energy and materials that support the viral infection phase, resulting in host metabolic dysregulation, including profound changes in lipid metabolism ( 15 , 16 ). Viruses can cause a notable alteration in the lipid composition of host cells, impacting crucial energy pathways and facilitating in the viral infection process by utilizing the host cell\u2019s metabolic resources to assist in different stages of viral replication and spread ( 11 ). Recent research indicated that severe cases of COVID-19 were characterized by a systemic disruption in metabolic processes and widespread alterations in lipid composition. Severe COVID-19 patients were observed to exhibit elevated levels of plasma triglycerides (TAGs) and reduced levels of cholesterol esters (CEs) in comparison to mild COVID-19 patients ( 17 ). Moreover, Trovato et al. reported that lipid metabolism, particularly phosphatidylcholines and lysophosphatidylcolines, seemed strictly connected to immune response in COVID-19 ( 18 ). However, the role of lipids in COVID-19 remained unclear with a lack of emphasis on the importance of lipids in the immune response of COVID-19 patients. Thus, this study aimed to depict the lipid metabolic profile of different COVID-19 patients and identify lipid biomarkers associated with the immune/cytokine responses of COVID-19 patients to provide new evidence on the progression of SARS-CoV-2 infection and aid in predicting the severity or prognosis of COVID-19 patients. Materials and methods Study design and population This case\u2013control study was conducted at Peking University Third Hospital. We enrolled laboratory-confirmed COVID-19 patients aged \u226518 years old whose imaging showed characteristic manifestations of COVID-19 pneumonia from December 2022 to January 2023. Exclusion criteria encompassed patients with lung tumor, bronchiectasis, interstitial lung disease, tuberculosis, pulmonary embolism, hepatitis, hyperthyroidism, and hyperuricemia, and those with a history of lung surgery were excluded. The severity of pneumonia was diagnosed according to the Diagnosis and Treatment of Novel Coronavirus Pneumonia (Version 9) released by the National Health Commission ( 19 ). The study protocol was approved by the Peking University Third Hospital Medical Science Research Ethics Committee (2023\u2013014\u201302), and the informed consents were obtained from all patients. Data and sample collection Demographic and clinical information were extracted from the medical records by a group of trained research assistants. The laboratory confirmation of COVID-19 adhered to the guidelines outlined in the Diagnosis and Treatment of Novel Coronavirus Pneumonia (Version 9) ( 19 ). The blood samples of laboratory-confirmed patients with COVID-19 were collected on the day of hospital admission and during the recovery phase of the surviving severe patients throughout their hospital stay. Metabolites extraction A 10-\u03bcL sample was mixed with 190 \u03bcL of water, followed by the addition of 480 \u03bcL of extract solution (MTBE : MeOH = 5:1) containing an internal standard. After vortexing for 60 s, the samples were sonicated in an ice-water bath for 10 min and then centrifuged at 821 g for 15 min at 4\u00b0C. Next, 250 \u03bcL of the supernatant was transferred to a new tube. The remaining sample was mixed with 250 \u03bcL MTBE, followed by vortex, sonication, and centrifugation. Another 250 \u03bcL of supernatant was collected. This process was repeated once, and the supernatants were combined and dried in a vacuum concentrator at 37\u00b0C. The dried samples were then reconstituted in 100 \u03bcL of resuspension buffer (DCM : MeOH:H 2 O = 60:30:4.5), vortexed for 30 s, and sonicated for 10 min in an ice-water bath. The reconstituted samples were centrifuged at 13,800 g for 15 min at 4\u00b0C, and 35 \u03bcL of the resulting supernatant was transferred to a fresh glass vial for LC/MS analysis. A quality control sample was prepared by mixing an equal aliquot of the supernatants from all the individual samples. LC-MS/MS analysis The UHPLC separation was carried out using a SCIEX ExionLC series UHPLC System. The mobile phase A consisted of 40% water, 60% acetonitrile, and 10 mmol/L ammonium formate. The mobile phase B consisted of 10% acetonitrile and 90% isopropanol, and 10mmol/L ammonium formate. The column temperature was maintained at 45\u00b0C, and the auto-sampler temperature was set at 6\u00b0C, with an injection volume of 2 \u03bcL. The AB Sciex QTrap 6500+ mass spectrometer was used for assay development, with typical ion source parameters including IonSpray Voltage at 5,500/\u22124,500 V, curtain Gas at 40 psi, temperature at 350\u00b0C, ion source gas 1 at 50 psi, ion source gas 2 at 50 psi, and DP at \u00b180V. The measurement of the specific compounds was carried out using Biobud-v2.1.4.1. The exact quantity of each lipid was determined by analyzing the peak area and the actual concentration of the internal standard from the same lipid class.",
+    "document_source_id": "38799463",
+    "analysis_date": "2025-12-09",
+    "extracted_data": {
+      "document_summary": "This study investigated the lipid metabolic profile and its correlation with immune/cytokine indexes in COVID-19 patients to predict disease progression, severity, and clinical outcomes. It identified several differential lipid metabolites, particularly lysophosphatidylcholine (LPC) 20:0, as potential biomarkers for discriminating between mild/severe disease, acute/recovery stages, and survival/fatal outcomes, suggesting their role in immune/inflammatory responses and as potential therapeutic targets.",
+      "treatment_details": {
+        "therapy_type": "COVID-19 Disease Progression Analysis",
+        "dose_specificity": "This was an observational case-control study analyzing lipid profiles and immune/cytokine indexes in 44 laboratory-confirmed COVID-19 patients (16 mild, 28 severe). Patients were stratified by disease severity (mild, severe), clinical stage (acute, recovery), and outcome (fatal, survival). No therapeutic interventions or dose comparisons were involved."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "LPC 20:0",
+          "measured_tissue_or_fluid": "Blood Serum/Plasma",
+          "activity_type": "Lipid Level/Concentration",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Significantly lower in severe patients compared to mild, in the acute stage of severe patients compared to recovery, and in fatal patients compared to survival. AUC reached 0.940 for discriminating mild and severe patients; AUC 0.807 for discriminating acute and recovery stages in severe patients. Lower levels correlated with significantly lower helper T-cell count, NKT cell count, cytotoxic T-cell count, T-cell count, lymphocyte count/percentage, and NK cell count/percentage (all p<0.05). Conversely, lower LPC 20:0 correlated with significantly increased granulocyte colony stimulating factor (GCSF) and interleukin 6 (IL-6) concentrations (both p<0.05)."
+          },
+          "core_biological_function": "A bioactive lipid metabolite of phosphatidylcholines; possesses anti-inflammatory effects by inhibiting reactive oxygen species (ROS) production and neutrophil activation; involved in LPC-mediated activation of NKT cells; generally involved in immune response, cell membrane structure, energy storage, and signaling processes.",
+          "relevant_activity_context": "COVID-19 disease progression, severity (mild vs severe), clinical stages (acute vs recovery), and patient outcomes (fatal vs survival).",
+          "performance_or_health_indicator": "Potential predictive target for COVID-19 progression and outcome; associated with immune/inflammatory responses and disease severity; a possible target for therapeutic strategies; correlates with immune/cytokine indexes and NKT cell count."
+        },
+        {
+          "biomarker_name": "Cholesterol Esters (CEs)",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Lipid Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Significantly lower in severe patients compared to mild patients, and also significantly lower in fatal patients compared to survival patients."
+          },
+          "core_biological_function": "Lipids involved in cholesterol storage and transport.",
+          "relevant_activity_context": "Differentiating mild and severe COVID-19 patients, and differentiating survival and fatal severe COVID-19 patients.",
+          "performance_or_health_indicator": "Indicator of COVID-19 severity and prognostic indicator for severe COVID-19 (lower levels associated with fatal outcome)."
+        },
+        {
+          "biomarker_name": "Phosphatidylethanolamines (PEs)",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Lipid Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "differential",
+            "magnitude_quantification": "Significantly lower in severe patients compared to mild patients; however, significantly higher in fatal patients compared to survival patients."
+          },
+          "core_biological_function": "Lipids that are major components of cell membranes, involved in membrane fusion and autophagy.",
+          "relevant_activity_context": "Differentiating mild and severe COVID-19 patients, and differentiating survival and fatal severe COVID-19 patients.",
+          "performance_or_health_indicator": "Indicator of COVID-19 severity (lower in severe vs mild) and prognostic indicator for severe COVID-19 (higher in fatal vs survival)."
+        },
+        {
+          "biomarker_name": "Hexosylceramides (HCERs, excluding HexCer 18:1-18:1)",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Lipid Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Significantly lower in severe patients compared to mild patients."
+          },
+          "core_biological_function": "Lipids, sphingolipids involved in cell signaling and membrane structure.",
+          "relevant_activity_context": "Differentiating mild and severe COVID-19 patients.",
+          "performance_or_health_indicator": "Indicator of COVID-19 severity (lower in severe patients)."
+        },
+        {
+          "biomarker_name": "Triacylglycerols (TAGs)",
+          "measured_tissue_or_fluid": "Blood Serum/Plasma",
+          "activity_type": "Lipid Metabolite Level/Concentration",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly higher in severe patients compared to mild patients, and significantly higher in fatal patients compared to survival patients. Upregulation was observed especially in those in the acute stage and with fatal outcome. A significant correlation was observed between the decrease in TAGs and the increase in cytotoxic T-cell count, suggesting harmful effects of TAGs reduction."
+          },
+          "core_biological_function": "Lipids, primary form of energy storage; also involved in lipid metabolism and recycling.",
+          "relevant_activity_context": "Differentiating mild and severe COVID-19 patients, differentiating survival and fatal severe COVID-19 patients, severe COVID-19, acute stage, and fatal outcomes.",
+          "performance_or_health_indicator": "Indicator of COVID-19 severity and prognostic indicator for severe COVID-19 (higher levels associated with fatal outcome); alterations might be dynamic across different stages of infection."
+        },
+        {
+          "biomarker_name": "Diacylglycerols (DAGs)",
+          "measured_tissue_or_fluid": "Blood Serum/Plasma",
+          "activity_type": "Lipid Metabolite Level/Concentration",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly higher in severe patients compared to mild patients, and significantly higher in fatal patients compared to survival patients. Notably, overall higher concentrations were observed in fatal patients compared to those who survived. No significant difference in DAG levels was observed between the acute and recovery stages of the disease."
+          },
+          "core_biological_function": "Lipids involved in cell signaling and synthesis of other lipids; act as an intermediate in triglyceride synthesis.",
+          "relevant_activity_context": "Differentiating mild and severe COVID-19 patients, differentiating survival and fatal severe COVID-19 patients, severe COVID-19, and fatal outcomes.",
+          "performance_or_health_indicator": "Indicator of COVID-19 severity and prognostic indicator for severe COVID-19 (higher levels associated with fatal outcome)."
+        },
+        {
+          "biomarker_name": "HexCer 18:1-18:1",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Lipid Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly higher in severe patients compared to mild patients."
+          },
+          "core_biological_function": "A specific hexosylceramide lipid.",
+          "relevant_activity_context": "Differentiating mild and severe COVID-19 patients.",
+          "performance_or_health_indicator": "Indicator of COVID-19 severity (higher in severe patients)."
+        },
+        {
+          "biomarker_name": "Lysophosphatidylethanolamines (LPEs)",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Lipid Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Significantly lower in fatal patients compared to survival patients."
+          },
+          "core_biological_function": "Lipids, signaling molecules, derived from phosphatidylethanolamines.",
+          "relevant_activity_context": "Differentiating survival and fatal severe COVID-19 patients.",
+          "performance_or_health_indicator": "Prognostic indicator for severe COVID-19 (lower levels associated with fatal outcome)."
+        },
+        {
+          "biomarker_name": "Sphingomyelins (SMs)",
+          "measured_tissue_or_fluid": "Blood Serum/Plasma",
+          "activity_type": "Lipid Metabolite Level/Concentration",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Significantly lower in fatal patients compared to survival patients. Reduced levels were observed."
+          },
+          "core_biological_function": "Major sphingolipids in mammalian cell membranes; contribute to cell biological processes including regulation of endocytosis, ion channels, and protein sorting; play an important role in virus entry, receptor segregation, pathogen sorting, endocytosis, virus replication, and virus maturation; involved in cell signaling.",
+          "relevant_activity_context": "Differentiating survival and fatal outcomes in severe COVID-19 patients.",
+          "performance_or_health_indicator": "Prognostic indicator for severe COVID-19 (lower levels associated with fatal outcome); might suggest fatal virus invasion and corrupted dysfunction of host cells."
+        },
+        {
+          "biomarker_name": "Phosphatidylcholines (PCs)",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Lipid Metabolite Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly higher in fatal patients compared to survival patients."
+          },
+          "core_biological_function": "Lipids, major component of cell membranes.",
+          "relevant_activity_context": "Differentiating survival and fatal severe COVID-19 patients.",
+          "performance_or_health_indicator": "Prognostic indicator for severe COVID-19 (higher levels associated with fatal outcome)."
+        },
+        {
+          "biomarker_name": "PE-O 16:0-20:4",
+          "measured_tissue_or_fluid": "Blood Serum/Plasma",
+          "activity_type": "Lipid Metabolite Level/Concentration",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Significantly lower in severe patients compared to mild patients. AUC for discriminating mild and severe patients was 0.763. Showed a significantly positive correlation (correlation coefficient >0.85) with T cell percentage."
+          },
+          "core_biological_function": "Specific phosphatidylethanolamine, a component of cell membranes, involved in immune processes and lipid metabolic profiles.",
+          "relevant_activity_context": "Differentiating mild and severe COVID-19 patients.",
+          "performance_or_health_indicator": "Indicator of COVID-19 severity, positively correlated with T cell percentage, suggesting a role in cellular immunity."
+        },
+        {
+          "biomarker_name": "PE-P 18:0-20:3",
+          "measured_tissue_or_fluid": "Blood Serum/Plasma",
+          "activity_type": "Lipid Metabolite Level/Concentration",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Significantly lower in severe patients compared to mild patients. AUC for discriminating mild and severe patients was 0.725. Showed a significantly positive correlation (correlation coefficient >0.85) with T cell percentage."
+          },
+          "core_biological_function": "Specific phosphatidylethanolamine, a component of cell membranes, involved in immune processes and lipid metabolic profiles.",
+          "relevant_activity_context": "Differentiating mild and severe COVID-19 patients.",
+          "performance_or_health_indicator": "Indicator of COVID-19 severity, positively correlated with T cell percentage, suggesting a role in cellular immunity."
+        },
+        {
+          "biomarker_name": "TAG 54:4-FA22:4",
+          "measured_tissue_or_fluid": "Blood Serum/Plasma",
+          "activity_type": "Lipid Metabolite Level/Concentration",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly higher in severe patients compared to mild patients. AUC for discriminating mild and severe patients was 0.738. Showed a negative correlation (correlation coefficient >0.85) with cytotoxic T cell count."
+          },
+          "core_biological_function": "Specific triacylglycerol, an energy storage lipid and component of lipid metabolic profiles.",
+          "relevant_activity_context": "Differentiating mild and severe COVID-19 patients.",
+          "performance_or_health_indicator": "Indicator of COVID-19 severity, negatively correlated with cytotoxic T cell count, suggesting involvement in immune suppression or metabolic dysfunction in severe disease."
+        },
+        {
+          "biomarker_name": "PC 14:0-18:1",
+          "measured_tissue_or_fluid": "Blood Serum/Plasma",
+          "activity_type": "Lipid Metabolite Level/Concentration",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Significantly lower in the acute stage of severe patients than in the recovery stage. Showed an overall sustained reduction over the disease course of fatal COVID-19 cases. AUC for discriminating acute and recovery stages in severe patients was 0.740. Negative correlations observed between PC 14:0-18:1 and helper T-cell count (correlation coefficient >0.85), lymphocyte count, and T cell count."
+          },
+          "core_biological_function": "A specific phosphatidylcholine, a dominant component of biological membranes; acts structurally and regulatively in signal transduction, immune activation pathways, and inflammatory responses; involved in immunological synapse formation, macrophage activation, and T and B effector cell differentiation/functioning.",
+          "relevant_activity_context": "Acute stage of severe COVID-19, fatal COVID-19 outcomes, and general disease progression in COVID-19.",
+          "performance_or_health_indicator": "Indicates alteration during the host's active response against viral infection; suggests a worse immune state during COVID-19 disease progression; associated with immune dysregulation."
+        },
+        {
+          "biomarker_name": "PC 18:1-18:1",
+          "measured_tissue_or_fluid": "Blood Serum/Plasma",
+          "activity_type": "Lipid Metabolite Level/Concentration",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Significantly lower in the acute stage of severe patients than in the recovery stage. Showed an overall sustained reduction over the disease course of fatal COVID-19 cases. AUC for discriminating acute and recovery stages in severe patients was 0.752. Negative correlations observed between PC 18:1-18:1 and lymphocyte count (correlation coefficient >0.85) and T-cell count (correlation coefficient >0.85)."
+          },
+          "core_biological_function": "A specific phosphatidylcholine, a dominant component of biological membranes; acts structurally and regulatively in signal transduction, immune activation pathways, and inflammatory responses; involved in immunological synapse formation, macrophage activation, and T and B effector cell differentiation/functioning.",
+          "relevant_activity_context": "Acute stage of severe COVID-19, fatal COVID-19 outcomes, and general disease progression in COVID-19.",
+          "performance_or_health_indicator": "Indicates alteration during the host's active response against viral infection; suggests a worse immune state during COVID-19 disease progression; associated with immune dysregulation and lymphopenia in severe acute COVID-19."
+        },
+        {
+          "biomarker_name": "SM 18:0",
+          "measured_tissue_or_fluid": "Blood Serum/Plasma",
+          "activity_type": "Lipid Metabolite Level/Concentration",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Significantly lower in fatal patients compared to survival patients (AUC 0.708). Decreased level correlated with a reduction in GMCSF, and showed a significantly positive correlation (correlation coefficient >0.85) with GMCSF."
+          },
+          "core_biological_function": "A specific sphingomyelin, a major sphingolipid in mammalian cell membranes; contributes to cell biological processes including regulation of endocytosis, ion channels, and protein sorting; plays an important role in virus entry, receptor segregation and pathogen sorting, endocytosis, virus replication, and virus maturation; involved in cell membrane structure and signaling.",
+          "relevant_activity_context": "Differentiating survival and fatal outcomes in severe COVID-19 patients; fatal COVID-19 outcomes.",
+          "performance_or_health_indicator": "Prognostic indicator for severe COVID-19 (lower levels associated with fatal outcome); positively correlated with GMCSF, suggesting a role in protective immune responses; might suggest fatal virus invasion and corrupted dysfunction of host cells in COVID-19 patients."
+        },
+        {
+          "biomarker_name": "TAG 56:5-FA22:4",
+          "measured_tissue_or_fluid": "Blood Serum/Plasma",
+          "activity_type": "Lipid Metabolite Level/Concentration",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly higher in fatal patients compared to survival patients (AUC 0.714). Showed a negative correlation (correlation coefficient >0.85) with cytotoxic T-cell count."
+          },
+          "core_biological_function": "Specific triacylglycerol, an energy storage lipid involved in lipid metabolism.",
+          "relevant_activity_context": "Differentiating survival and fatal outcomes in severe COVID-19 patients; fatal COVID-19 outcomes.",
+          "performance_or_health_indicator": "Prognostic indicator for severe COVID-19 (higher levels associated with fatal outcome); negatively correlated with cytotoxic T-cell count, suggesting involvement in metabolic dysfunction or immune suppression in fatal disease."
+        },
+        {
+          "biomarker_name": "Natural killer T (NKT) cell count",
+          "measured_tissue_or_fluid": "Peripheral Blood",
+          "activity_type": "Cell Count/Percentage",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Significantly lower in the low LPC 20:0 group (p<0.05); positively correlated with LPC 20:0 (correlation coefficient >0.85). Given LPC 20:0 is significantly lower in severe patients compared to mild and in acute stage compared to recovery, NKT cell count is inferred to be lower in severe/acute COVID-19."
+          },
+          "core_biological_function": "Immune cells involved in innate and adaptive immunity, rapid cytokine production; crucial for immune response and host defense.",
+          "relevant_activity_context": "COVID-19 disease severity and stage; patients with low LPC 20:0 levels.",
+          "performance_or_health_indicator": "Indicates impaired immune state or dysregulation in COVID-19 patients, potentially influenced by lipid metabolism; association with COVID-19 severity and stage, potentially reflecting immune status; lower levels inferred and observed in severe/acute disease."
+        },
+        {
+          "biomarker_name": "T cell percentage",
+          "measured_tissue_or_fluid": "Peripheral Blood",
+          "activity_type": "Cell Count/Percentage",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Significantly lower in the low LPC 20:0 group (p<0.05); positively correlated with PE-O 16:0-20:4 and PE-P 18:0-20:3 (correlation coefficient >0.85). Given these PEs are significantly lower in severe patients compared to mild, T cell percentage is inferred to be lower in severe COVID-19."
+          },
+          "core_biological_function": "Immune cells central to adaptive immunity, recognizing and targeting pathogens; crucial for immune response and host defense.",
+          "relevant_activity_context": "COVID-19 disease severity; patients with low LPC 20:0 levels.",
+          "performance_or_health_indicator": "Indicates impaired immune state or dysregulation in COVID-19 patients, potentially influenced by lipid metabolism; association with COVID-19 severity, potentially reflecting immune status; lower levels inferred and observed in severe disease."
+        },
+        {
+          "biomarker_name": "Cytotoxic T-cell count",
+          "measured_tissue_or_fluid": "Peripheral Blood",
+          "activity_type": "Cell Count/Percentage",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Significantly lower in the low LPC 20:0 group (p<0.05); negatively correlated with TAG 54:4-FA22:4 and TAG 56:5-FA22:4 (correlation coefficient >0.85). Given these TAGs are significantly higher in severe/fatal patients, cytotoxic T cell count is inferred to be lower in severe and fatal COVID-19."
+          },
+          "core_biological_function": "Immune cells responsible for killing infected or cancerous cells; crucial for immune response and host defense.",
+          "relevant_activity_context": "COVID-19 disease severity and prognosis; patients with low LPC 20:0 levels.",
+          "performance_or_health_indicator": "Indicates impaired immune state or dysregulation in COVID-19 patients, potentially influenced by lipid metabolism; association with COVID-19 severity and prognosis; lower levels inferred and observed in severe/fatal outcomes, suggesting compromised cellular immunity."
+        },
+        {
+          "biomarker_name": "Helper T-cell count",
+          "measured_tissue_or_fluid": "Peripheral Blood",
+          "activity_type": "Cell Count/Percentage",
+          "measured_effect": {
+            "direction_of_change": "differential",
+            "magnitude_quantification": "Significantly lower in the low LPC 20:0 group (p<0.05); negatively correlated with PC 14:0-18:1 (correlation coefficient >0.85). Given PC 14:0-18:1 is significantly lower in the acute stage of severe patients, helper T-cell count is inferred to be higher in the acute stage compared to recovery in severe COVID-19 patients."
+          },
+          "core_biological_function": "Immune cells that activate other immune cells, central to coordinating adaptive immune responses; crucial for immune response and host defense.",
+          "relevant_activity_context": "Acute vs. recovery stages in severe COVID-19 patients; patients with low LPC 20:0 levels.",
+          "performance_or_health_indicator": "Indicates impaired immune state or dysregulation in COVID-19 patients, potentially influenced by lipid metabolism; association with disease stage in severe COVID-19; inferred higher levels in acute severe stages compared to recovery, potentially reflecting immune dysregulation."
+        },
+        {
+          "biomarker_name": "Lymphocyte count",
+          "measured_tissue_or_fluid": "Peripheral Blood",
+          "activity_type": "Cell Count/Percentage",
+          "measured_effect": {
+            "direction_of_change": "differential",
+            "magnitude_quantification": "Significantly lower in the low LPC 20:0 group (p<0.05); negatively correlated with PC 18:1-18:1 (correlation coefficient >0.85). Given PC 18:1-18:1 is significantly lower in the acute stage of severe patients, lymphocyte count is inferred to be higher in the acute stage compared to recovery in severe COVID-19 patients."
+          },
+          "core_biological_function": "Main type of immune cell, crucial for adaptive immunity; crucial for immune response and host defense.",
+          "relevant_activity_context": "Acute vs. recovery stages in severe COVID-19 patients; patients with low LPC 20:0 levels.",
+          "performance_or_health_indicator": "Indicates impaired immune state or dysregulation in COVID-19 patients, potentially influenced by lipid metabolism; association with disease stage in severe COVID-19; inferred higher levels in acute severe stages compared to recovery, potentially reflecting immune dysregulation."
+        },
+        {
+          "biomarker_name": "T-cell count",
+          "measured_tissue_or_fluid": "Peripheral Blood",
+          "activity_type": "Cell Count/Percentage",
+          "measured_effect": {
+            "direction_of_change": "differential",
+            "magnitude_quantification": "Significantly lower in the low LPC 20:0 group (p<0.05); negatively correlated with PC 18:1-18:1 (correlation coefficient >0.85). Given PC 18:1-18:1 is significantly lower in the acute stage of severe patients, T-cell count is inferred to be higher in the acute stage compared to recovery in severe COVID-19 patients."
+          },
+          "core_biological_function": "Key immune cells responsible for cell-mediated immunity; crucial for immune response and host defense.",
+          "relevant_activity_context": "Acute vs. recovery stages in severe COVID-19 patients; patients with low LPC 20:0 levels.",
+          "performance_or_health_indicator": "Indicates impaired immune state or dysregulation in COVID-19 patients, potentially influenced by lipid metabolism; association with disease stage in severe COVID-19; inferred higher levels in acute severe stages compared to recovery, potentially reflecting immune dysregulation."
+        },
+        {
+          "biomarker_name": "Granulocyte-macrophage colony-stimulating factor (GMCSF)",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Cytokine Level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Significantly positive correlation with SM 18:0 (correlation coefficient >0.85). Given SM 18:0 is significantly lower in fatal patients compared to survival, GMCSF is inferred to be lower in fatal COVID-19."
+          },
+          "core_biological_function": "Cytokine that stimulates the production of granulocytes and monocytes/macrophages, critical for immune cell development and function.",
+          "relevant_activity_context": "Prognosis in severe COVID-19 patients.",
+          "performance_or_health_indicator": "Association with prognosis in severe COVID-19; inferred lower levels in fatal outcomes, suggesting its role in protective immune responses."
+        },
+        {
+          "biomarker_name": "NK cell count/percentage",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Cell Count/Percentage",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Significantly lower in the low LPC 20:0 group than in the high LPC 20:0 group (p<0.05)."
+          },
+          "core_biological_function": "Components of the innate immune system; crucial for immune response and host defense against viral infections and tumors.",
+          "relevant_activity_context": "Patients with low LPC 20:0 levels in the context of COVID-19.",
+          "performance_or_health_indicator": "Indicates impaired immune state or dysregulation in COVID-19 patients, potentially influenced by lipid metabolism."
+        },
+        {
+          "biomarker_name": "Granulocyte colony stimulating factor (GCSF)",
+          "measured_tissue_or_fluid": "Blood Plasma",
+          "activity_type": "Protein Concentration",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly increased in the low LPC 20:0 group (p<0.05)."
+          },
+          "core_biological_function": "Pro-inflammatory cytokine that promotes granulocyte production; mediates immune and inflammatory responses.",
+          "relevant_activity_context": "Patients with low LPC 20:0 levels in the context of COVID-19.",
+          "performance_or_health_indicator": "Indicates heightened inflammatory response in COVID-19 patients, potentially linked to lipid metabolism and disease severity."
+        },
+        {
+          "biomarker_name": "Interleukin 6 (IL-6)",
+          "measured_tissue_or_fluid": "Blood Plasma",
+          "activity_type": "Protein Concentration",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly increased in the low LPC 20:0 group (p<0.05)."
+          },
+          "core_biological_function": "Pro-inflammatory cytokine; key mediator of the acute phase response; mediates immune and inflammatory responses.",
+          "relevant_activity_context": "Patients with low LPC 20:0 levels in the context of COVID-19.",
+          "performance_or_health_indicator": "Indicates heightened inflammatory response in COVID-19 patients, potentially linked to lipid metabolism and disease severity."
+        }
+      ]
+    }
+  }
+]

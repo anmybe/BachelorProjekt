@@ -1,0 +1,100 @@
+[
+  {
+    "title": "Oncotarget Oncotarget Oncotarget ImpactJ Oncotarget 1949-2553 Impact Journals LLC 4941274 26894971 7400 10.18632/oncotarget.7400 Research Paper Bladder cancer cells secrete while normal bladder cells express but do not secrete AGR2 Ho Melissa E. 1 9 Quek Sue-Ing 1 10 True Lawrence D. 2 Seiler Roland 3 Fleischmann Achim 4 Bagryanova Lora 5 Kim Sara R. 5 6 Chia David 5 6 Goodglick Lee 5 6 Shimizu Yoshiko 7 Rosser Charles J. 7 Gao Yuqian 8 Liu Alvin Y. 1 1 Department of Urology, Institute for Stem Cell and Regenerative Medicine, University of Washington, Seattle, WA, USA 2 Department of Pathology, University of Washington, Seattle, WA, USA 3 Department of Urology, University Hospital of Bern, Bern, Switzerland 4 Institute of Pathology, University Hospital of Bern, Bern, Switzerland 5 Department of Pathology and Laboratory Medicine, David Geffen School of Medicine, University of California, Los Angeles, CA, USA 6 Jonsson Comprehensive Cancer Center, David Geffen School of Medicine, University of California, Los Angeles, CA, USA 7 University of Hawaii Cancer Center, Honolulu, HI, USA 8 Biological Sciences Division, Pacific Northwest National Laboratory, Richland, WA, USA 9 Present address: University of California San Francisco Medical Center, San Francisco, CA, USA 10 Present address: Singapore Polytechnic, Center for Biomedical & Life Sciences, Singapore Correspondence to: Alvin Y. Liu, aliu@uw.edu 29 3 2016 15 2 2016 7 13 15747 15756 15 10 2015 5 2 2016 Copyright: \u00a9 2016 Ho et al. 2016 This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited. Anterior gradient 2 (AGR2) is a cancer-associated secreted protein found predominantly in adenocarcinomas. Given its ubiquity in solid tumors, cancer-secreted AGR2 could be a useful biomarker in urine or blood for early detection. However, normal organs express and might also secrete AGR2, which would impact its utility as a cancer biomarker. Uniform AGR2 expression is found in the normal bladder urothelium. Little AGR2 is secreted by the urothelial cells as no measurable amounts could be detected in urine. The urinary proteomes of healthy people contain no listing for AGR2. Likewise, the blood proteomes of healthy people also contain no significant peptide counts for AGR2 suggesting little urothelial secretion into capillaries of the lamina propria. Expression of AGR2 is lost in urothelial carcinoma, with only 25% of primary tumors observed to retain AGR2 expression in a cohort of lymph node-positive cases. AGR2 is secreted by the urothelial carcinoma cells as urinary AGR2 was measured in the voided urine of 25% of the cases analyzed in a cohort of cancer vs . non-cancer patients. The fraction of AGR2-positive urine samples was consistent with the fraction of urothelial carcinoma that stained positive for AGR2. Since cancer cells secrete AGR2 while normal cells do not, its measurement in body fluids could be used to indicate tumor presence. Furthermore, AGR2 has also been found on the cell surface of cancer cells. Taken together, secretion and cell surface localization of AGR2 are characteristic of cancer, while expression of AGR2 by itself is not. secreted AGR2 bladder cancer subcellular localization urine biomarker INTRODUCTION Anterior gradient 2 (AGR2) is an adenocarcinoma antigen with elevated expression in many solid tumor types including prostate, breast, pancreatic, gastro-intestinal, lung. The protein is a protein disulfide isomerase (PDI) found in the endoplasmic reticulum (ER) where it functions as a molecular chaperone in protein folding [ 1 ]. The ER could have an important role in carcinogenesis and tumor biology [ 2 ]. A non-canonic ER retention motif ( C -terminal KTEL) in AGR2 may be responsible for the diverse trafficking of this molecule [ 3 ]. In addition to the ER, AGR2 can be shunted to the nucleus, cell surface or extracellular space. Secreted AGR2 can function to trigger cellular differentiation in responding cells as documented in salamander limb regeneration [ 4 ]. AGR2 is secreted as a 19 kDa protein by prostate cancer cells measurable at pg/ml levels in the urine [ 5 ], and blood [ 6 ] of patients. AGR2 was identified as a biomarker candidate in prostate cancer by comparative transcriptomic analysis of sorted CD26 + cancer cells vs . CD26 + luminal cells [ 7 ]. In this approach, genes with elevated expression encoding secreted proteins in cancer are considered to be viable candidates; genes expressed by both cancer and normal cell types are not, and are thus ignored. A further consideration is that AGR2 expressed in the cancer of one organ could be expressed in the normal tissue of other organs, which would impact its utility as a biomarker. There would be very few cancer-specific biomarkers based on expression difference if examined systematically between cancer and all normal tissue. This is not unexpected since every gene in the genome serves a useful function in some cell types. AGR2 is secreted by pancreatic cancer cells [ 8 ], and localized on the cell surface of pancreatic cancer cells [ 9 ]. Whether normal AGR2-positive cells also secrete or express this protein on the cell surface is not known. Both normal prostate and pancreatic epithelial cells do not express AGR2 [ 7 , 9 ]. In this study, urinary bladder expression of AGR2 was investigated. Cell-type transcriptomes previously indicated that CD9 + urothelial cells were positive for AGR2 expression [ 10 ]. The entire urothelium was immunostained positive for AGR2. However, AGR2 was not observed to be secreted by the urothelial cells as little of this protein was detected in urine [ 5 , 6 ]. This finding was supported by database query of urine proteomes containing urinary proteins identified by large-scale mass spectrometry proteomics. Database query of blood proteomes similarly indicated little AGR2 in circulation as, for example, from secretion by urothelial cells into capillaries within the underlying lamina propria. AGR2 expression is lost in urothelial carcinoma, but a minority of bladder tumors were found to retain AGR2. The detection of AGR2 in the urine of a subset of bladder cancer patients indicates that AGR2 could be secreted by urothelial carcinoma cells. The take home message is that differential subcellular localization or protein address of AGR2 \u2013 cell interior vs . cell exterior \u2013 not expression, makes AGR2 a cancer biomarker. This may reflect the different functional roles played by AGR2 in normal cells vs . cancer cells. Such localization differences appear to be a property of PDI enzymes [ 11 ]. Cell surface expression could be inhibited by Brefeldin A [ 12 ]. In clinical utility, AGR2 + cancer cells can be targeted for eradication by agents such as antibodies or antibody drug conjugates, while AGR2 + normal cells would be spared.",
+    "document_source_id": "26894971",
+    "analysis_date": "2025-12-09",
+    "extracted_data": {
+      "document_summary": "This study comprehensively investigated the expression, secretion, and subcellular localization of Anterior Gradient 2 (AGR2) in normal bladder urothelium and various cancer types, particularly bladder cancer, to assess its potential as a diagnostic and prognostic biomarker and a therapeutic target. Key findings reveal that normal bladder cells express AGR2 but do not secrete it into urine or blood, whereas urothelial carcinoma cells secrete AGR2 and can localize it on their cell surface. While AGR2 expression is often lost or reduced in primary bladder tumors, it can be higher in lymph node metastases and is detectably secreted into the urine of bladder cancer patients. This differential secretion and localization, rather than expression alone, is critical for AGR2's utility as a bladder cancer biomarker. However, AGR2 expression in primary bladder tumors did not correlate with patient survival.",
+      "treatment_details": {
+        "therapy_type": "Biomarker Investigation (Diagnostic and Prognostic)",
+        "dose_specificity": "Not applicable. This is an observational study analyzing AGR2 protein expression, secretion, and subcellular localization in various tissues (normal bladder urothelium, primary tumors, lymph node metastases) and body fluids (urine, blood) from healthy individuals and cancer patients. No therapeutic interventions or specific activity doses were applied or investigated, though the potential for therapeutic targeting of AGR2 was discussed conceptually."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "Anterior gradient 2 (AGR2)",
+          "measured_tissue_or_fluid": "Normal bladder urothelium; Urine (healthy people); Blood (healthy people)",
+          "activity_type": "Protein Level (Expression, Secretion, Proteome Listing), Gene Transcript",
+          "measured_effect": {
+            "direction_of_change": "Unchanged (expression); Absent/Lower (secretion)",
+            "magnitude_quantification": "Uniform AGR2 expression found in normal bladder urothelium at moderate intensity, but was 40 times lower than prostate cancer AGR2 expression. No measurable amounts detected in urine. Urinary proteomes of healthy people contain no listing for AGR2. Blood proteomes of healthy people contain no significant peptide counts for AGR2."
+          },
+          "core_biological_function": "Protein disulfide isomerase (PDI) functioning as a molecular chaperone in protein folding; can trigger cellular differentiation.",
+          "relevant_activity_context": "Normal bladder cells and healthy individuals, baseline expression and secretion patterns.",
+          "performance_or_health_indicator": "Lack of AGR2 secretion by normal cells, despite expression, highlights that altered localization or secretion, not mere expression, may be indicative of cancer."
+        },
+        {
+          "biomarker_name": "Anterior gradient 2 (AGR2)",
+          "measured_tissue_or_fluid": "Urothelial carcinoma primary tumors (tumor centers, invasion fronts); CD9+ urothelial cells",
+          "activity_type": "Protein Level (Expression, Immunostaining), Gene Transcript",
+          "measured_effect": {
+            "direction_of_change": "Lowered (in the majority of primary tumors)",
+            "magnitude_quantification": "Expression often lost in urothelial carcinoma, with only 25% of primary tumors retaining expression in a cohort of lymph node-positive cases. In another cohort, 24% showed immunostaining in tumor centers and 12% in tumor invasion fronts."
+          },
+          "core_biological_function": "Protein expression pattern; implicated in malignant transformation.",
+          "relevant_activity_context": "Malignant transformation in bladder cancer primary tumors.",
+          "performance_or_health_indicator": "Suggests that AGR2 expression is often lost or significantly reduced in primary bladder tumors during malignant transformation."
+        },
+        {
+          "biomarker_name": "Anterior gradient 2 (AGR2)",
+          "measured_tissue_or_fluid": "Voided urine (bladder cancer patients); Cell surface of bladder cancer cells; Bladder cancer cells",
+          "activity_type": "Protein Level (Secretion, ELISA, Western blotting), Subcellular Localization",
+          "measured_effect": {
+            "direction_of_change": "Higher/Present (secretion); Present (cell surface localization)",
+            "magnitude_quantification": "Secreted by urothelial carcinoma cells. Urinary AGR2 measured in 25% of cancer cases (compared to 15% of non-cancer samples with higher values than reference; P = 0.012, AUC = 0.73). One bladder cancer patient showed 7.5-fold higher urinary AGR2 than buffer. AGR2 also found on the cell surface of cancer cells."
+          },
+          "core_biological_function": "Secreted protein; potential biomarker for cancer presence; cell surface localization in cancer.",
+          "relevant_activity_context": "Non-invasive detection of bladder cancer; characteristic of cancer cells.",
+          "performance_or_health_indicator": "Secreted AGR2 in urine and cell surface localization are characteristic of cancer, serving as a potential non-invasive diagnostic biomarker for bladder cancer presence and distinguishing malignant from normal cells."
+        },
+        {
+          "biomarker_name": "Anterior gradient 2 (AGR2)",
+          "measured_tissue_or_fluid": "Lymph node metastases from bladder cancer",
+          "activity_type": "Protein Level (immunostaining)",
+          "measured_effect": {
+            "direction_of_change": "Higher (in many metastases compared to primary tumors)",
+            "magnitude_quantification": "44% showed AGR2 staining in lymph node metastases. In some cases, AGR2 was detected in lymph nodes but not in the corresponding primary tumor (P = <0.01)."
+          },
+          "core_biological_function": "Protein expression pattern; associated with cancer metastasis.",
+          "relevant_activity_context": "Bladder cancer metastasis to lymph nodes.",
+          "performance_or_health_indicator": "Indicates involvement of lymph nodes and potential metastatic activity; AGR2 expression can be present in lymph node metastases even when absent in the primary tumor, potentially linked to heightened bone metastasis risk."
+        },
+        {
+          "biomarker_name": "Anterior gradient 2 (AGR2)",
+          "measured_tissue_or_fluid": "Primary tumors (tumor center, invasion front)",
+          "activity_type": "Protein Level (immunostaining)",
+          "measured_effect": {
+            "direction_of_change": "Unchanged/No correlation",
+            "magnitude_quantification": "No correlation observed between patient survival and AGR2 expression (P = 0.475 for AGR2+ tumor center, P = 0.387 for AGR2+ invasion front in univariate analysis; P = 0.39 and 0.73, respectively, in multivariate analysis)."
+          },
+          "core_biological_function": "Prognostic value in cancer.",
+          "relevant_activity_context": "Patient survival after bladder cancer diagnosis.",
+          "performance_or_health_indicator": "AGR2 expression in primary bladder tumors is not a significant predictor of patient survival."
+        },
+        {
+          "biomarker_name": "Anterior gradient 2 (AGR2)",
+          "measured_tissue_or_fluid": "Cultured prostate stromal cells; Prostate, pancreatic, lung, gastric cancer cells; urine/blood (healthy); bladder tumors; lymph nodes",
+          "activity_type": "Protein Expression Level, Protein Secretion Level, Cellular Localization, Cell Death Induction",
+          "measured_effect": {
+            "direction_of_change": "Up-regulated (in prostate/pancreatic cancer); Secreted (by cancer cells); Induced (programmed cell death)",
+            "magnitude_quantification": "Up-regulated in prostate and pancreatic cancer cells. Secreted by prostate cancer cells (measurable at pg/ml levels in urine and blood) and pancreatic cancer cells. Addition of AGR2-containing media induced programmed cell death (cellular blebbing, shrinkage, DNA fragmentation) in prostate stromal cells. Note: High serum levels (ng/ml range) reported in literature for prostate cancer were determined by commercial ELISA using suspect antibodies."
+          },
+          "core_biological_function": "Protein folding/chaperone, involved in cell death pathways, cell communication (secreted protein), tumor progression and metastasis.",
+          "relevant_activity_context": "Prostate cancer progression, pancreatic tumor labeling, normal cellular function, metastatic potential, therapeutic targeting.",
+          "performance_or_health_indicator": "Potential diagnostic biomarker for prostate cancer (urinary AGR2), potential tumor-associated antigen for therapeutic targeting, indicator of metastatic potential (e.g., in gastric cancer, lymph nodes), associated with programmed cell death in prostate stromal cells."
+        },
+        {
+          "biomarker_name": "CD10",
+          "measured_tissue_or_fluid": "Sorted CD9+ cancer cells (from one bladder tumor specimen), prostate cancer cells, normal AGR2+ urothelial cells, lymph nodes (prostate cancer), bladder tumors (TMA cohort)",
+          "activity_type": "Gene Transcript, Protein Expression Level, Cellular Localization, Protein-protein interaction",
+          "measured_effect": {
+            "direction_of_change": "Expressed (in one bladder tumor specimen); Not expressed (in normal urothelial cells); More involved (in prostate cancer spread); Correlated (with higher grade/progression or favorable outcome)",
+            "magnitude_quantification": "Expressed in one bladder tumor specimen; not expressed in normal urothelial cells. Most AGR2+ prostate cancer cells were negative for CD10. More involved than AGR2 in prostate cancer spread to regional lymph nodes. Reported correlation with higher grade and cancer progression in CD10+ bladder tumors; conflictingly, correlated with a more favorable outcome in a TMA cohort. AGR2- bladder tumor cells were positive for CD10. Distinct subcellular expression patterns (cell surface vs. cytoplasmic) associated with prostate tumor grade."
+          },
+          "core_biological_function": "Cell surface peptidase, involved in cell signaling, cell adhesion, protein-protein interactions (e.g., with HSP27 and HSP70); important in lymph node spread.",
+          "relevant_activity_context": "Bladder cancer and prostate cancer progression, lymph node spread, tumor grading.",
+          "performance_or_health_indicator": "Potential indicator for lymph node spread and tumor dissemination in prostate cancer. Conflicting indicator for bladder cancer progression/outcome. Potential for new functions based on cytoplasmic expression and protein interactions."
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Cancer Sci Cancer Sci 10.1111/(ISSN)1349-7006 CAS Cancer Science 1347-9032 1349-7006 John Wiley and Sons Inc. Hoboken 5406537 10.1111/cas.13181 CAS13181 Original Article Original Articles Drug Discovery and Delivery Immune\u2010complex level of cofilin\u20101 in sera is associated with cancer progression and poor prognosis in pancreatic cancer Satoh et al . Satoh Mamoru 1 2 Takano Shigetsugu http://orcid.org/0000-0002-6495-0422 stakano@faculty.chiba-u.jp 3 Sogawa Kazuyuki 2 4 Noda Kenta 5 Yoshitomi Hideyuki 3 Ishibashi Masumi 2 Mogushi Kaoru 6 Takizawa Hirotaka 7 Otsuka Masayuki 3 Shimizu Hiroaki 3 Miyazaki Masaru 3 Nomura Fumio 1 2 1 Division of Clinical Mass Spectrometry Chiba University Hospital Chiba Japan 2 Department of Molecular Diagnosis Graduate School of Medicine Chiba University Chiba Japan 3 Department of General Surgery Graduate School of Medicine Chiba University Chiba Japan 4 Department of Biochemistry School of Life and Environmental Science Azabu University Kanagawa Japan 5 R&D Department Nittobo Medical Co., Ltd. Koriyama Japan 6 Center for Genomic and Regenerative Medicine Juntendo University Tokyo Japan 7 Kashiwado Clinic in Port\u2010Square Kashiwado Memorial Foundation Chiba Japan * Correspondence Shigetsugu Takano, Department of General Surgery, Graduate School of Medicine, Chiba University, 1\u20108\u20101 Inohana, Chuo\u2010ku, Chiba city, Chiba, 260\u20108670, Japan. Tel: +81\u201043\u2010226\u20102103; Fax: +81\u201043\u2010226\u20102552; E\u2010mail: stakano@faculty.chiba-u.jp 26 4 2017 4 2017 108 4 10.1111/cas.2017.108.issue-4 795 803 29 9 2016 16 1 2017 25 1 2017 \u00a9 2017 The Authors. Cancer Science published by John Wiley & Sons Australia, Ltd on behalf of Japanese Cancer Association. This is an open access article under the terms of the Creative Commons Attribution\u2010NonCommercial License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes. Pancreatic ductal adenocarcinoma ( PDAC ) is one of the most lethal malignancies. To improve its outcome, reliable biomarkers are urgently needed. In this study, we aimed to elucidate the key molecules involved in PDAC progression using proteomics approaches. First, we undertook 2\u2010D electrophoresis to identify the proteins overexpressed in PDAC tissues. Following the analysis of agarose gel spots, cofilin\u20101 was identified and verified as a candidate protein commonly upregulated in PDAC tissues. In immunohistochemistry, cofilin\u20101 was strongly expressed in the cytoplasm of PDAC cells. Samples were divided into two groups based on the level of cofilin\u20101 expression. The high expression group showed significantly higher incidence of hematogenous dissemination in relapsed patients than the low expression group ( P = 0.0083). In in vitro experiments, knockdown of cofilin\u20101 significantly decreased chemotaxis in PDAC cell lines. After we confirmed that cofilin\u20101 was secreted from PDAC cells, we established a detection system for the immune\u2010complex of cofilin\u20101 in sera. Using this system, we measured the IC levels of cofilin\u20101 in sera and observed that the IC levels of cofilin\u20101 in PDAC patients were higher than those in healthy volunteers and patients with pancreatitis ( PDAC vs . healthy volunteers, P < 0.0001; PDAC vs . patients with pancreatitis, P < 0.026). Notably, the IC levels of cofilin\u20101 showed a stepwise increase during PDAC progression ( P = 0.0034), and high IC levels of cofilin\u20101 indicated poor prognosis of patients after surgery ( P = 0.039). These results suggest that the IC of cofilin\u20101 in sera is a potentially attractive serum biomarker for the prognosis of PDAC . Cofilin\u20101 immune\u2010complex pancreatic cancer prognosis serum biomarker Japan Society for the Promotion of Science Japanese Ministry of Education, Culture, Sports Science and Technology 15H04925 15K08610 16K08979 16K15607 22700904 26293299 source-schema-version-number 2.0 component-id cas13181 cover-date April 2017 details-of-publishers-convertor Converter:WILEY_ML3GV2_TO_NLMPMC version:5.0.9 mode:remove_FC converted:27.04.2017 Cancer Sci 108 ( 2017 ) 795 \u2013 803 Funding Information This study was supported by grants from the Japanese Ministry of Education, Culture, Sports Science and Technology (15H04925, 15K08610, 16K08979, 16K15607, 22700904, 26293299). Abbreviations 2\u2010DE two\u2010dimensional gel electrophoresis BAG3 BCL2\u2010associated athanogene 3 CA19\u20109 Cancer antigen 19\u20109 HV healthy volunteer IC immune\u2010complex IHC immunohistochemistry MS mass spectrometry PDAC pancreatic ductal adenocarcinoma PD\u2010ECGF platelet\u2010derived endothelial cell growth factor PT pancreatitis ROC receiver operating characteristic SSH slingshot Pancreatic ductal adenocarcinoma is one of the most lethal malignancies among various solid tumors with an extremely low 5\u2010year survival rate of 7%. 1 Advances in the field of clinical biomarker discovery are developing to not only provide useful tools for patient stratification, but also to offer potential therapeutic targets and revealing molecular mechanistic insights behind disease progression, thereby facilitating exploitation of novel therapies. However, identifying a desired biomarker still faces significant challenges. 2 In line with this, some attractive biomarkers for PDAC have been discovered and tested in a clinical setting as diagnostic and prognostic indicators. Despite the identification of candidate proteins or peptides that have potentially been useful and reliable in translational research, there are still some critical limitations for clinical application. Of the various possible human samples, serum or plasma samples are reasonable to use as they contain the richest and most detailed source of information (e.g. DNA, RNA, proteins, and peptides) about the physiological state of the body as well as being less invasive to collect. Thus, blood samples would potentially have a pivotal role in ascertaining the status of cancer progression in patients. Emerging new technology for serum proteomics using mass spectrometry, such as surface\u2010enhanced laser desorption/ionization\u2013time of flight or matrix\u2010assisted laser desorption/ionization\u2013time of flight, enables the identification of protein profiles composed of isolated or clustered peaks that differ according to molecular weight. 3 Although these techniques have some advantages for detecting differences in protein profiling, including post\u2010translational modifications, it is still difficult to apply in clinical scenarios due to the complexity of optimization for standard use. Antibody\u2010based proteomic approaches such as the standard ELISA method or the measurement of autoimmune antibodies are primarily carried out in the examination of target protein or peptide levels in blood samples. 4 Focusing on these targets in sera, the IC has recently been highlighted as a novel biomarker in blood samples of cancer patients. 5 , 6 , 7 , 8 Recently, it has been reported that a high\u2010throughput screening method for native autoantigen\u2013autoantibody complexes using antibody microarrays provides serum biomarkers as a useful tool for disease detection and characterization. 9 In this study, we initially used a gel\u2010based proteomic approach, 2\u2010DE, to analyze the comprehensive protein profile and identify biomarkers for PDAC. Subsequently, we have attempted to establish a detection system for candidate proteins involved with PDAC progression by measuring the serum levels of patients. Finally, we revealed that the IC level in sera is associated with cancer progression and may potentially provide a useful prognostic serum biomarker for PDAC.",
+    "document_source_id": "28161904",
+    "analysis_date": "2025-12-09",
+    "extracted_data": {
+      "document_summary": "This study comprehensively investigated cofilin-1 as a biomarker for pancreatic ductal adenocarcinoma (PDAC). It identified cofilin-1 overexpression in PDAC tissues and its secretion from PDAC cells, confirming its association with hematogenous metastasis and finding that its knockdown reduces cancer cell chemotaxis. Furthermore, serum immune-complex (IC) levels of cofilin-1 were validated as a diagnostic marker, differentiating PDAC patients from controls, correlating with disease progression, and serving as a prognostic indicator for poor patient outcomes after surgery.",
+      "treatment_details": {
+        "therapy_type": "Biomarker discovery, identification, and validation for pancreatic ductal adenocarcinoma (PDAC) diagnosis and prognosis, including siRNA-mediated gene knockdown in cell lines.",
+        "dose_specificity": "The study focused on identifying and validating endogenous biomarker levels in PDAC patients, healthy volunteers, and pancreatitis patients. Experimental interventions included siRNA knockdown of cofilin-1 at 1, 5, and 10 nM concentrations in PDAC cell lines. Tumor tissue overexpression of cofilin-1 was defined as a 2-fold increase, and immunohistochemistry categorized patients into weak (25.4%) and strong (74.6%) expression groups; no therapeutic dose comparisons were reported."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "Cofilin-1",
+          "measured_tissue_or_fluid": "Pancreatic ductal adenocarcinoma (PDAC) tissues, normal pancreas tissues, invasive cancer cells, and cultured PDAC cell lines (PANC-1, Capan-1) and their culture medium.",
+          "activity_type": "Protein Level (expression via 2-DE, LC-MS/MS, Western blotting, IHC), Protein Secretion, Protein Function (via gene knockdown).",
+          "measured_effect": {
+            "direction_of_change": "higher (expression/secretion), lower (cell chemotaxis with knockdown)",
+            "magnitude_quantification": "Identified with a 2-fold increase in PDAC tumor tissues versus normal; markedly overexpressed in 9 out of 9 tumor tissue samples; strongly expressed in the cytoplasm of PDAC cells, with positive expression in 96.6% (57/59) of invasive cancer cells. The strong expression group showed significantly higher incidence of hematogenous dissemination (P = 0.0083) and liver/lung metastases (P = 0.0083) in relapsed patients, with 100% of stage IV patients belonging to this group. Cofilin-1 protein with a 21-kDa band was also observed to increase in cultured cell medium, indicating secretion. Knockdown of cofilin-1 significantly decreased chemotaxis in PDAC cell lines in a concentration-dependent manner."
+          },
+          "core_biological_function": "An actin depolymerizing factor involved in actin filament remodeling, essential for cell motility, chemotaxis, and invasion of tumor cells, thereby mediating cancer progression and hematogenous dissemination.",
+          "relevant_activity_context": "Pancreatic ductal adenocarcinoma (PDAC) pathogenesis, tumor progression, distant metastasis, post-surgical recurrence, and in vitro pancreatic cancer cell motility/invasion and secretion.",
+          "performance_or_health_indicator": "A candidate biomarker for PDAC, strongly associated with advanced cancer progression, increased risk of hematogenous dissemination and liver/lung metastases, and functionally involved in tumor cell motility and invasion."
+        },
+        {
+          "biomarker_name": "Immune-complex (IC) of cofilin-1",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Immune Complex (IC) Level",
+          "measured_effect": {
+            "direction_of_change": "higher, associated with poor prognosis",
+            "magnitude_quantification": "Serum IC levels were significantly higher in PDAC patients compared to healthy volunteers (P < 0.0001) and patients with pancreatitis (P < 0.026). These levels showed a stepwise increase correlated with UICC stage during PDAC progression (P = 0.0034). High IC levels indicated poor prognosis after surgery (P = 0.039) and were significantly correlated with overall survival on univariate analysis (P = 0.042). The combination of cofilin-1 IC and CA19-9 had an AUC of 0.900, improving upon CA19-9 alone (0.866) for distinguishing cancer."
+          },
+          "core_biological_function": "Serves as a diagnostic and prognostic indicator, reflecting the presence, progression, and severity of pancreatic ductal adenocarcinoma.",
+          "relevant_activity_context": "Diagnosis, staging, and post-surgical prognosis of pancreatic ductal adenocarcinoma (PDAC).",
+          "performance_or_health_indicator": "A potential diagnostic and prognostic serum biomarker for PDAC, differentiating patients from controls, correlating with disease stage, and predicting poor patient outcomes after surgery and overall survival."
+        },
+        {
+          "biomarker_name": "CA19-9",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Level",
+          "measured_effect": {
+            "direction_of_change": "higher (implied in cancer), used as a comparator",
+            "magnitude_quantification": "Area under the ROC curve (AUC) value of 0.866 for distinguishing cancer from non-cancer patients. Improved diagnostic performance when combined with cofilin-1 IC (AUC 0.900)."
+          },
+          "core_biological_function": "Established tumor marker for pancreatic cancer.",
+          "relevant_activity_context": "PDAC diagnosis and comparison with novel biomarkers.",
+          "performance_or_health_indicator": "Diagnostic marker for PDAC; its diagnostic ability was compared to cofilin-1 IC, showing enhanced performance in combination."
+        },
+        {
+          "biomarker_name": "Carcinoembryonic antigen (CEA)",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Level",
+          "measured_effect": {
+            "direction_of_change": "not specified in this study",
+            "magnitude_quantification": "No specific quantification provided, used as a comparator for diagnostic ability with cofilin-1 IC."
+          },
+          "core_biological_function": "Established tumor marker for various cancers, including pancreatic cancer.",
+          "relevant_activity_context": "PDAC diagnosis and comparison with novel biomarkers.",
+          "performance_or_health_indicator": "Diagnostic marker for PDAC; its diagnostic ability was compared to cofilin-1 IC."
+        },
+        {
+          "biomarker_name": "Vimentin",
+          "measured_tissue_or_fluid": "PDAC tissue, normal pancreatic tissues, liver metastasis",
+          "activity_type": "Protein expression",
+          "measured_effect": {
+            "direction_of_change": "overexpressed",
+            "magnitude_quantification": "Overexpressed in PDAC; substantially expressed in liver metastasis, observed in few cancer cells of pancreatic primary tumors."
+          },
+          "core_biological_function": "Predominant intermediate filament protein in mesenchymal cells, indicating a mesenchymal phenotype.",
+          "relevant_activity_context": "PDAC progression, specifically liver metastasis.",
+          "performance_or_health_indicator": "Indicates mesenchymal phenotype, associated with metastasis in PDAC."
+        },
+        {
+          "biomarker_name": "Annexin A1",
+          "measured_tissue_or_fluid": "PDAC tissue",
+          "activity_type": "Protein expression",
+          "measured_effect": {
+            "direction_of_change": "highly expressed",
+            "magnitude_quantification": "Highly expressed by immunohistochemistry in PDAC tissues."
+          },
+          "core_biological_function": "A calcium/phospholipid-binding protein that promotes metastasis formation by enhancing TGF-\u03b2/Smad signaling and actin reorganization, facilitating an epithelial-mesenchymal transition (EMT)-like switch.",
+          "relevant_activity_context": "PDAC pathogenesis and metastasis formation.",
+          "performance_or_health_indicator": "Associated with metastasis, promotes cancer cell migration and invasion in PDAC."
+        },
+        {
+          "biomarker_name": "Endophilin B2",
+          "measured_tissue_or_fluid": "PDAC tissue",
+          "activity_type": "Protein expression",
+          "measured_effect": {
+            "direction_of_change": "high expression",
+            "magnitude_quantification": "High expression in PDAC tissues, with this being the first report of its expression in PDAC."
+          },
+          "core_biological_function": "Though molecular mechanism is unclear in PDAC, it has a reported relationship with metastasis in prostate cancer.",
+          "relevant_activity_context": "PDAC pathogenesis.",
+          "performance_or_health_indicator": "Potential involvement in metastasis in PDAC."
+        },
+        {
+          "biomarker_name": "PD-ECGF",
+          "measured_tissue_or_fluid": "PDAC tissue",
+          "activity_type": "Protein expression",
+          "measured_effect": {
+            "direction_of_change": "enhanced expression",
+            "magnitude_quantification": "Enhanced expression by immunohistochemistry in PDAC tissues."
+          },
+          "core_biological_function": "Possesses angiogenic properties.",
+          "relevant_activity_context": "PDAC pathogenesis.",
+          "performance_or_health_indicator": "Enhances tumor invasion and/or metastasis through its angiogenic properties in PDAC."
+        },
+        {
+          "biomarker_name": "SSHL1 (cofilin-phosphatase)",
+          "measured_tissue_or_fluid": "Pancreatic cancer cells (based on cited work)",
+          "activity_type": "Protein function/expression (indirectly discussed through cited literature)",
+          "measured_effect": {
+            "direction_of_change": "loss of expression inhibited cell migration, increased phosphorylation of cofilin-1",
+            "magnitude_quantification": "Loss of expression was associated with an increase in the phosphorylation of cofilin-1 at serine-3 and further inhibited cell migration in pancreatic cancer cells (cited from Wang et al.)."
+          },
+          "core_biological_function": "A cofilin-phosphatase that plays a role in actin dynamics and cell migration by reactivating cofilin-1.",
+          "relevant_activity_context": "The cofilin pathway in pancreatic cancer cells, discussed as context for cofilin-1's role.",
+          "performance_or_health_indicator": "Involved in actin dynamics and cell migration; its loss inhibits cell migration, which can contribute to PDAC progression and metastasis."
+        }
+      ]
+    }
+  }
+]

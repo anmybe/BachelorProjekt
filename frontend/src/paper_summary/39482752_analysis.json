@@ -1,0 +1,580 @@
+[
+  {
+    "title": "pmc Crit Care Critical Care 1364-8535 1466-609X BioMed Central London 11526606 5149 10.1186/s13054-024-05149-x Review A narrative review on lung injury: mechanisms, biomarkers, and monitoring Fan Wenping 1 2 Gui Biyu 3 Zhou Xiaolei 4 Li Li lili_0718@tju.edu.cn 2 Chen Huaiyong huaiyong.chen@foxmail.com 1 2 3 5 1 https://ror.org/01tb2g32 grid.33763.32 0000 0004 1761 2484 Department of Respiratory Medicine, Haihe Hospital, Tianjin University, Tianjin, 300350 China 2 Tianjin Key Laboratory of Lung Regenerative Medicine, Tianjin, 300350 China 3 https://ror.org/02mh8wx89 grid.265021.2 0000 0000 9792 1228 Department of Basic Medicine, Haihe Clinical School, Tianjin Medical University, Tianjin, 300350 China 4 https://ror.org/04ypx8c21 grid.207374.5 0000 0001 2189 3846 Department of Pulmonary Medicine, Chest Hospital of Zhengzhou University, Zhengzhou, 450008 China 5 Tianjin Institute of Respiratory Diseases, Tianjin, 300350 China 31 10 2024 31 10 2024 2024 28 352 23 9 2024 26 10 2024 \u00a9 The Author(s) 2024 2024 https://creativecommons.org/licenses/by-nc-nd/4.0/ Open Access This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party material in this article are included in the article\u2019s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article\u2019s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by-nc-nd/4.0/ . Lung injury is closely associated with the heterogeneity, severity, mortality, and prognosis of various respiratory diseases. Effective monitoring of lung injury is crucial for the optimal management and improved outcomes of patients with lung diseases. This review describes acute and chronic respiratory diseases characterized by significant lung injury and current clinical tools for assessing lung health. Furthermore, we summarized the mechanisms of lung cell death observed in these diseases and highlighted recently identified biomarkers in the plasma indicative of injury to specific cell types and scaffold structure in the lung. Last, we propose an artificial intelligence-driven lung injury monitoring model to assess disease severity, and predict mortality and prognosis, aiming to achieve precision and personalized medicine. Keywords Biomarkers Respiratory disease Artificial intelligence Inflammation Infections Tianjin Key Medical Discipline (Specialty) Construction Project TJYXZDXK-063B, TJYXZDXK-067C TJYXZDXK-063B, TJYXZDXK-067C Li Li Chen Huaiyong http://dx.doi.org/10.13039/501100002855 Ministry of Science and Technology of the People's Republic of China 2023YFC3502605 Chen Huaiyong http://dx.doi.org/10.13039/501100001809 National Natural Science Foundation of China 82070001 Chen Huaiyong Natural Science Foundation of Tianjin City in China 21JCZDJC00430 Chen Huaiyong issue-copyright-statement \u00a9 BioMed Central Ltd., part of Springer Nature 2024 Introduction Acute and chronic lung diseases pose significant health challenges and economic burdens, impacting both severity and prognosis primarily through lung injury. Despite clinical focus on overall lung alterations, diagnosis relies heavily on symptomatic, morphological, and functional assessments. These include imaging for indirect lung morphology observation, lung function tests, arterial blood gas analysis, and non-invasive oxygen saturation measurements to assess gas exchange [ 1 , 2 ]. Pathological examinations aid in disease elucidation but often lack specificity regarding injury location, affected cell types, and injury extent. This limitation complicates the development of precise, personalized treatment strategies. Lung injury encompasses damage to epithelial and endothelial cells, along with the extracellular scaffold supporting these cells. This damage triggers the release of cellular proteins, activating resident inflammatory cells, increasing vascular permeability, and promoting inflammatory cell infiltration into the lungs. While essential for immune defense, inflammatory cells can exacerbate cellular damage. Circulating proteins from damaged cells offer a means to precisely monitor lung cellular and structural damage by analyzing cell-specific protein expression levels in serum. Concurrent detection of oxidative irritants or cytokines contributing to lung cell damage further enhances diagnostic capabilities. Recent advancements in omics technologies have significantly improved the identification of lung injury biomarkers [ 3 ]. This review will summarize lung injury characteristics across common lung diseases, elucidate molecular mechanisms of injury, and catalog specific serum biomarkers indicative of inflammatory, oxidative, epithelial, endothelial, and extracellular scaffold damage in the lung. Pathogenesis and biomarkers of lung remodeling and fibrosis are not the focus of this review, as these topics have been comprehensively covered in recent literature [ 3 \u2013 7 ]. Additionally, it will propose an integrated lung injury evaluation platform, aiming to amalgamate these biomarkers with clinical indicators and demographic data, utilizing artificial intelligence to accurately assess disease severity, predict patient outcomes, and determine long-term prognosis. Respiratory diseases with lung injury In acute respiratory infections, various viral and bacterial pathogens such as SARS-CoV-2, respiratory syncytial virus (RSV), influenza, Streptococcus pneumoniae , and Mycobacterium tuberculosis lead to lung injury by targeting specific cell types within the lung (Fig. 1 ). Respiratory viruses invade epithelial cells and endothelial cells, triggering cell death mechanisms like apoptosis, pyroptosis, or necrosis. This process releases pro-inflammatory cytokines, exacerbating inflammation and compromising the airway and air-blood barrier integrity. Inflammatory responses upregulate leukocyte adhesion molecules, promoting immune cell accumulation and worsening lung function. Bacterial infections cause pneumonia characterized by pulmonary edema, inflammatory exudates, and recruitment of immune cells, which further disrupts the air-blood barrier and leads to systemic infection in severe cases [ 8 ]. Chronic infections may lead to bronchiectasis and irreversible airway dilation. Neutrophils, macrophages, and eosinophils predominate in lung inflammation, generating ROS, cytokines, and NETs that contribute to ongoing lung scaffold damage and mucus hypersecretion [ 9 ]. Apoptosis of inflammatory cells and epithelial cells like ciliated and club cells worsens airway integrity, perpetuating the disease cycle. In chronic lung disease such as asthma, allergen or irritant-induced inflammation causes airway epithelial shedding, mucin production, and remodeling. The epithelial layer is compromised, with increased apoptosis of ciliated cells and impaired repair processes, leading to airway hyperresponsiveness (Fig. 1 ). Eosinophil-mediated injury of club cells contributes to disease severity of asthma [ 10 , 11 ]. Chronic obstructive pulmonary disease (COPD) encompasses bronchitis, fibrosis and emphysema attributing to three variant lung epithelial progenitor respectively, is also found with apoptosis of club cells, ciliated cells, AT1 cells, AT2 cells, and endothelial cells [ 12 ]. Inflammatory cells release neutrophil elastase and matrix metalloproteinase (MMPs), disrupting the lung's proteinase/anti-proteinase balance and causing the degradation of lung elastin and connective tissue [ 13 ]. ECM remodeling and altered collagen deposition further contribute to lung function decline. Interstitial lung diseases (ILDs) including idiopathic pulmonary fibrosis (IPF) and connective tissue disease-associated ILD (CTD-ILD) involve fibroblast proliferation, ECM deposition, and myofibroblast differentiation. TGF-\u03b2 signaling upregulation drives fibrogenesis, leading to irreversible lung fibrosis, AT1 and AT2 cell loss, and alveolar epithelial stem cell dysfunction [ 14 ]. These changes exacerbate lung injury, compromising respiratory function and prognosis in affected individuals. Clinical markers indicative of lung injury Symptoms such as cough with phlegm suggest upper airway involvement, common in infections, bronchitis, and pneumonia, while chest tightness, pain, and shortness of breath indicate alveolar issues like fluid accumulation or pulmonary embolism [ 15 ]. Abnormal breath sounds like wheezes indicate airway obstruction (e.g., asthma), while crackles signify fluid or secretion in airways (e.g., bronchitis, pneumonia). Velcro crackles denote diffuse interstitial pulmonary fibrosis [ 16 ]. Lung percussion reveals resonant sounds normally, hyperresonance in emphysema, and dullness in conditions like pleural effusion [ 17 ]. Imaging techniques like X-rays and CT scans show low attenuation in emphysema and high attenuation in inflammatory states, consolidation, or general interstitial lung abnormalities [ 18 , 19 ]. Lung function tests detect obstructive patterns (e.g., reduced FEV1, FEV1/FVC ratio) and restrictive patterns (e.g., reduced lung capacities), while blood gas analysis assesses gas exchange impairments like low PaO 2 indicating ventilation issues and elevated PaCO 2 indicating gas exchange problems [ 20 ]. OI values < 300 mmHg suggest acute lung injury, < 100 mmHg may indicate ARDS. These assessments provide insights into lung conditions but do not fully capture cellular injury or predict disease outcomes, highlighting the need for comprehensive monitoring strategies.",
+    "document_source_id": "39482752",
+    "analysis_date": "2025-12-10",
+    "extracted_data": {
+      "document_summary": "This narrative review investigates the molecular mechanisms of lung injury in acute and chronic respiratory diseases, including damage from viral, bacterial, oxidative stress, and cytokine factors. It highlights established and newly identified plasma biomarkers indicative of specific lung cell (Club, AT1, AT2, pan-epithelial, endothelial) and extracellular scaffold damage across various conditions like COVID-19, ARDS, COPD, and IPF. The review also discusses the limitations of individual biomarkers in predicting outcomes, emphasizing the enhanced predictive efficacy of combined biomarkers (e.g., ferritin and KL-6) and proposes an Artificial Intelligence-driven model to integrate diverse patient data for comprehensive lung injury monitoring, severity assessment, prognosis prediction, and personalized medicine.",
+      "treatment_details": {
+        "therapy_type": "A narrative review of lung injury mechanisms, biomarkers, and Artificial Intelligence (AI)-directed lung injury evaluation and monitoring.",
+        "dose_specificity": "No specific therapeutic intervention or dose was investigated; the document is a review of existing knowledge focusing on intrinsic pathological processes and biomarker responses. It proposes an AI-driven monitoring model, which involved analyzing diverse datasets including chest CT scans, biological pathways, and 13 blood biomarkers from 455 IPF patients, alongside demographic and clinical data. No specific dose comparisons for AI application were reported."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "Club cell secretory protein (CCSP)",
+          "measured_tissue_or_fluid": "Plasma/Blood (implied)",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher and suboptimal",
+            "magnitude_quantification": "Elevated plasma levels observed in ARDS, COVID-19, sarcoidosis, and pulmonary fibrosis. However, its individual predictive performance for ARDS mortality was found to be suboptimal in a meta-analysis."
+          },
+          "core_biological_function": "Immuno-protective in airways; anti-inflammatory properties; contributes to host defense; specifically expressed by club cells.",
+          "relevant_activity_context": "Club cell injury, ARDS, COVID-19, sarcoidosis, pulmonary fibrosis, increased permeability and leakage of the air-blood barrier, and evaluation of ARDS mortality prediction.",
+          "performance_or_health_indicator": "Indicates club cell injury and increased permeability of the air-blood barrier; while individually suboptimal, it predicts mortality rates in patients with ARDS."
+        },
+        {
+          "biomarker_name": "soluble RAGE (sRAGE)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher and lower",
+            "magnitude_quantification": "Elevated plasma sRAGE is evident in pediatric and adult ARDS; Increased sRAGE correlates with enhanced pulmonary MMP-9 activity during ARDS; Lower sRAGE levels observed in ILD and IPF."
+          },
+          "core_biological_function": "Cleaved from RAGE, which is predominantly expressed on AT1 cells and triggers pro-inflammatory responses, causing alveolar epithelial cell death. sRAGE is a cleaved/secreted form.",
+          "relevant_activity_context": "AT1 cell injury, ARDS (pediatric and adult), air-blood barrier integrity loss, ILD, IPF.",
+          "performance_or_health_indicator": "Indicates AT1 cell injury; indicates air-blood barrier integrity loss; serves as a disease-specific marker for AT1 cell injury (lower levels indicate cell loss in ILD and IPF)."
+        },
+        {
+          "biomarker_name": "Pulmonary surfactant protein-D (SP-D)",
+          "measured_tissue_or_fluid": "Plasma/Blood (implied)",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher and suboptimal",
+            "magnitude_quantification": "Elevated plasma levels noted in COVID-19, IPF, COPD, A/H1N1 infections, and pediatric ARDS. However, its individual predictive performance for ARDS mortality was suboptimal, demonstrating the lowest predictive ability compared to other biomarkers."
+          },
+          "core_biological_function": "Synthesized primarily by AT2 cells and released upon injury; involved in host defense, degraded by neutrophils during acute lung injury.",
+          "relevant_activity_context": "AT2 cell injury, acute lung injury, COVID-19, A/H1N1 infections, pediatric ARDS, IPF, COPD, and evaluation of ARDS mortality prediction.",
+          "performance_or_health_indicator": "Indicates AT2 cell injury; correlates with mortality risk in A/H1N1 infections and severity of pediatric ARDS, but shows suboptimal individual predictive ability for ARDS mortality."
+        },
+        {
+          "biomarker_name": "Chondroitin sulfate proteoglycan 1 (CRTAC-1)",
+          "measured_tissue_or_fluid": "BALF and Plasma",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Reduced levels in BALF and plasma during AT2 cell injury; CRTAC-1 downregulation observed in severe COVID-19."
+          },
+          "core_biological_function": "Identified as an AT2 cell marker; secretion into plasma is possibly affected by disrupted AT2 cell positioning on the basement membrane.",
+          "relevant_activity_context": "AT2 cell injury, severe COVID-19.",
+          "performance_or_health_indicator": "Indicates AT2 cell injury; associated with severe COVID-19."
+        },
+        {
+          "biomarker_name": "Krebs von den Lungen-6 (KL-6)",
+          "measured_tissue_or_fluid": "Plasma/Blood (implied)",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher and suboptimal (individually), but effective in combination",
+            "magnitude_quantification": "Elevated plasma levels observed in IPF and COVID-19, identified with the largest effect size in identifying high-risk patients. Its individual predictive performance for ARDS mortality was suboptimal; however, in combination with ferritin, it showed significantly greater predictive efficacy for the progression to severe ARDS."
+          },
+          "core_biological_function": "Transmembrane protein found on AT2 and bronchial epithelial cells.",
+          "relevant_activity_context": "AT2 cell damage, IPF, COVID-19, evaluation of ARDS mortality prediction, and prediction of progression to severe ARDS when combined with Ferritin.",
+          "performance_or_health_indicator": "Indicates AT2 cell damage and identifies high-risk patients. While individually suboptimal for ARDS mortality prediction, its combination with ferritin significantly improves prediction for severe ARDS progression."
+        },
+        {
+          "biomarker_name": "Cytokeratin 18 (CK18)",
+          "measured_tissue_or_fluid": "BALF (implied plasma for fragments)",
+          "activity_type": "Protein Level (M30 fragment, intact CK18-M65 protein)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Elevated CK-18 levels in BALF correlate with ARDS severity."
+          },
+          "core_biological_function": "Released from necrotic epithelial cells; indicates apoptosis. General lung epithelial cell marker.",
+          "relevant_activity_context": "Necrotic epithelial cells, epithelial cell death, ARDS severity.",
+          "performance_or_health_indicator": "Indicates epithelial cell death; correlates with ARDS severity."
+        },
+        {
+          "biomarker_name": "CYFRA 21-1",
+          "measured_tissue_or_fluid": "Circulation (plasma, serum) and airways",
+          "activity_type": "Protein Level (released after proteolytic cleavage)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Plasma CYFRA21-1 levels are higher in severe ARDS and COVID-19 patients; Serum CYFRA21-1 associates with systemic sclerosis-ILD severity."
+          },
+          "core_biological_function": "Released after proteolytic cleavage during lung epithelial cell apoptosis or necrosis. General lung epithelial cell marker.",
+          "relevant_activity_context": "Lung epithelial cell apoptosis or necrosis, severe ARDS, COVID-19, systemic sclerosis-ILD.",
+          "performance_or_health_indicator": "Serves as a marker in circulation and airways; associated with severe ARDS and COVID-19; associates with systemic sclerosis-ILD severity."
+        },
+        {
+          "biomarker_name": "Circulating endothelial cells (CECs)",
+          "measured_tissue_or_fluid": "Circulation",
+          "activity_type": "Cell Count",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Exhibit elevated counts in diseases such as COVID-19, ARDS, and COPD."
+          },
+          "core_biological_function": "Detached from damaged vessels during inflammatory, infectious, or ischemic conditions.",
+          "relevant_activity_context": "Endothelial injury, inflammatory, infectious, or ischemic conditions, COVID-19, ARDS, COPD.",
+          "performance_or_health_indicator": "Critical marker of endothelial injury; reflects severe endothelial damage and vascular dysfunction."
+        },
+        {
+          "biomarker_name": "Endothelial microparticles (EMPs)",
+          "measured_tissue_or_fluid": "Circulation/Blood/Plasma",
+          "activity_type": "Particle Count/Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly increased counts and levels observed during pathological states, including COVID-19, ARDS, COPD, septic ARDS, asthma exacerbations, and exacerbating COPD."
+          },
+          "core_biological_function": "Originate from activated or apoptotic endothelial cells under the influence of cytokines, endotoxins, and thrombin.",
+          "relevant_activity_context": "Endothelial injury, pathological states including inflammatory, infectious, or ischemic conditions.",
+          "performance_or_health_indicator": "Critical marker of endothelial injury, reflecting severe endothelial damage and vascular dysfunction; correlates closely with disease severity."
+        },
+        {
+          "biomarker_name": "Angiopoietin-2 (Ang-2)",
+          "measured_tissue_or_fluid": "Blood/Plasma",
+          "activity_type": "Levels",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Markedly elevated."
+          },
+          "core_biological_function": "Marker of vascular permeability.",
+          "relevant_activity_context": "COVID-19, acute exacerbations of COPD, and idiopathic pulmonary fibrosis (IPF).",
+          "performance_or_health_indicator": "Indicates disrupted endothelial barrier function and contributes to disease progression."
+        },
+        {
+          "biomarker_name": "Syndecan-1",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Levels",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Elevated levels."
+          },
+          "core_biological_function": "Component of the endothelial glycocalyx, crucial for maintaining vascular integrity and function; shed into plasma during degradation.",
+          "relevant_activity_context": "Acute lung injury (ALI) induced by inflammatory mediators like TNF-\b1 and LPS; severe ARDS, COPD exacerbations, and IPF or connective tissue disease-associated interstitial lung disease (CTD-ILD).",
+          "performance_or_health_indicator": "Predicts severe ARDS, COPD exacerbations, and IPF or CTD-ILD."
+        },
+        {
+          "biomarker_name": "Hyaluronic acid",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Levels",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Elevated levels."
+          },
+          "core_biological_function": "Component of the endothelial glycocalyx, crucial for maintaining vascular integrity and function; shed into plasma during degradation.",
+          "relevant_activity_context": "Acute lung injury (ALI) induced by inflammatory mediators like TNF-\b1 and LPS; severe ARDS, COPD exacerbations, and IPF or connective tissue disease-associated interstitial lung disease (CTD-ILD).",
+          "performance_or_health_indicator": "Predicts severe ARDS, COPD exacerbations, and IPF or CTD-ILD."
+        },
+        {
+          "biomarker_name": "Heparan sulfate",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Levels",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Elevated levels."
+          },
+          "core_biological_function": "Component of the endothelial glycocalyx, crucial for maintaining vascular integrity and function; shed into plasma during degradation.",
+          "relevant_activity_context": "Acute lung injury (ALI) induced by inflammatory mediators like TNF-\b1 and LPS; severe ARDS, COPD exacerbations, and IPF or connective tissue disease-associated interstitial lung disease (CTD-ILD).",
+          "performance_or_health_indicator": "Predicts severe ARDS, COPD exacerbations, and IPF or CTD-ILD."
+        },
+        {
+          "biomarker_name": "Endothelin-1 (ET-1)",
+          "measured_tissue_or_fluid": "Blood/Plasma",
+          "activity_type": "Levels",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Increases."
+          },
+          "core_biological_function": "Essential for vascular tone regulation.",
+          "relevant_activity_context": "Response to inflammatory cytokines in COVID-19; IPF, rheumatoid arthritis-associated interstitial lung disease (RA-ILD), and COPD.",
+          "performance_or_health_indicator": "Correlates with impaired lung function."
+        },
+        {
+          "biomarker_name": "Von Willebrand Factor (VWF)",
+          "measured_tissue_or_fluid": "Blood/Plasma",
+          "activity_type": "Levels",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Upregulated."
+          },
+          "core_biological_function": "Released from endothelial cells upon injury.",
+          "relevant_activity_context": "COVID-19 and COPD.",
+          "performance_or_health_indicator": "Indicative of vascular damage and immune cell extravasation into lung tissues."
+        },
+        {
+          "biomarker_name": "Selectins (E-selectin, P-selectin)",
+          "measured_tissue_or_fluid": "Blood/Plasma (circulating after cleavage from endothelial surfaces)",
+          "activity_type": "Levels",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Elevated on endothelial surfaces and released into circulation."
+          },
+          "core_biological_function": "Pivotal in leukocyte recruitment during inflammation.",
+          "relevant_activity_context": "COVID-19, RA-ILD, and IPF.",
+          "performance_or_health_indicator": "Contribute to the inflammatory milieu and disease progression."
+        },
+        {
+          "biomarker_name": "ICAM-1",
+          "measured_tissue_or_fluid": "Blood/Plasma (circulating after cleavage from endothelial surfaces)",
+          "activity_type": "Levels",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Elevated on endothelial surfaces and released into circulation."
+          },
+          "core_biological_function": "Pivotal in leukocyte recruitment during inflammation.",
+          "relevant_activity_context": "COVID-19, RA-ILD, and IPF.",
+          "performance_or_health_indicator": "Contributes to the inflammatory milieu and disease progression."
+        },
+        {
+          "biomarker_name": "VCAM-1",
+          "measured_tissue_or_fluid": "Blood/Plasma (circulating after cleavage from endothelial surfaces)",
+          "activity_type": "Levels",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Elevated on endothelial surfaces and released into circulation."
+          },
+          "core_biological_function": "Pivotal in leukocyte recruitment during inflammation.",
+          "relevant_activity_context": "COVID-19, RA-ILD, and IPF.",
+          "performance_or_health_indicator": "Contributes to the inflammatory milieu and disease progression."
+        },
+        {
+          "biomarker_name": "Soluble thrombomodulin (sTM)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Levels",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Increases."
+          },
+          "core_biological_function": "Known for its anti-inflammatory and anticoagulant properties.",
+          "relevant_activity_context": "COVID-19 and ARDS; IPF.",
+          "performance_or_health_indicator": "Correlates with higher mortality rates and adverse outcomes."
+        },
+        {
+          "biomarker_name": "Plasminogen activator inhibitor-1 (PAI-1)",
+          "measured_tissue_or_fluid": "Blood/Plasma",
+          "activity_type": "Levels",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Rises."
+          },
+          "core_biological_function": "Key regulator of fibrinolysis.",
+          "relevant_activity_context": "Response to endothelial injury in COVID-19 and IPF; COPD.",
+          "performance_or_health_indicator": "Promotes thrombus formation and contributes to disease severity."
+        },
+        {
+          "biomarker_name": "Laminin",
+          "measured_tissue_or_fluid": "Plasma, Serum",
+          "activity_type": "Levels",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Elevated plasma laminin persists up to 6 months post-discharge; elevated serum levels."
+          },
+          "core_biological_function": "Vital extracellular scaffold glycoprotein, critical for cell adhesion, growth, and repair.",
+          "relevant_activity_context": "COVID-19 (post-discharge); ILD and IPF.",
+          "performance_or_health_indicator": "Indicates sustained epithelial and scaffold injury; suggests impaired epithelial repair mechanisms."
+        },
+        {
+          "biomarker_name": "Laminin \u03b32 chain fragments (G2F)",
+          "measured_tissue_or_fluid": "Blood/Plasma",
+          "activity_type": "Levels",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly elevated in ALI but decrease in survivors."
+          },
+          "core_biological_function": "Fragment of laminin, reflects extracellular scaffold damage.",
+          "relevant_activity_context": "Acute lung injury (ALI).",
+          "performance_or_health_indicator": "Underscores its prognostic relevance."
+        },
+        {
+          "biomarker_name": "Endostatin",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Levels",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Elevated plasma levels; significantly increased."
+          },
+          "core_biological_function": "Collagen-derived peptide, potent endogenous inhibitor of angiogenesis. Release reflects basement membrane fragmentation due to vascular injury.",
+          "relevant_activity_context": "Severe COVID-19 cases; COPD; ARDS.",
+          "performance_or_health_indicator": "Correlates with mortality rates; indicates its role in endothelial damage and disease severity."
+        },
+        {
+          "biomarker_name": "MMPs (MMP-1, MMP-3, MMP-7, MMP-9, MMP-12)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Levels",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Elevated plasma levels are observed."
+          },
+          "core_biological_function": "Pivotal enzymes involved in ECM remodeling and degradation; degrade various ECM components.",
+          "relevant_activity_context": "COPD, COVID-19, IPF, and ILD.",
+          "performance_or_health_indicator": "Underscores their role in disease pathogenesis and progression."
+        },
+        {
+          "biomarker_name": "TIMPs (Tissue inhibitors of metalloproteinases)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Levels",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Elevated levels."
+          },
+          "core_biological_function": "Regulate MMP activity, maintaining ECM homeostasis. Inflammatory mediators promote TIMP-1 expression.",
+          "relevant_activity_context": "ARDS, COVID-19, COPD, and IPF.",
+          "performance_or_health_indicator": "Elevated TIMP-1 levels are linked to fibrosis, whereas lower levels are associated with proteolysis and fluid leakage."
+        },
+        {
+          "biomarker_name": "Osteopontin (OPN)",
+          "measured_tissue_or_fluid": "Blood/Plasma",
+          "activity_type": "Levels",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Elevated levels."
+          },
+          "core_biological_function": "Multifunctional glycoprotein involved in ECM remodeling and inflammation. Upregulation reflects its role in promoting inflammation, tissue injury, and fibrosis.",
+          "relevant_activity_context": "COVID-19 and COPD.",
+          "performance_or_health_indicator": "Correlates with disease severity and outcomes."
+        },
+        {
+          "biomarker_name": "TNF-\b1 (Tumor Necrosis Factor-alpha)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Levels",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Plasma TNF-\b1 levels in intensive care (ICU) patients with COVID-19 are higher than non-ICU patients; elevated levels."
+          },
+          "core_biological_function": "Chemoattractant for neutrophils and eosinophils, boosts chemokine production, promotes vasodilation, induces apoptosis of epithelial and endothelial cells.",
+          "relevant_activity_context": "ICU patients with COVID-19; ARDS, ILD, and COPD.",
+          "performance_or_health_indicator": "Facilitates inflammatory cell infiltration; associated with inflammatory roles; indicates lung inflammation and injury."
+        },
+        {
+          "biomarker_name": "Soluble FasL (sFasL)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Levels",
+          "measured_effect": {
+            "direction_of_change": "higher and lower",
+            "magnitude_quantification": "Increased in mild COVID-19 cases. Severe cases show lower levels relative to both control and mild COVID-19. Elevated plasma levels in COPD."
+          },
+          "core_biological_function": "Generated when membrane-anchored FasL is cleaved; Fas/FasL signaling induces apoptosis of alveolar epithelial cells and triggers neutrophil activation, mediating dysregulated immune responses and lung injury.",
+          "relevant_activity_context": "Mild COVID-19, severe COVID-19; COPD.",
+          "performance_or_health_indicator": "Potentially due to consumption during neutrophil activity and recruitment in the lungs during the inflammatory phase (for lower levels in severe cases); indicative of lung injury."
+        },
+        {
+          "biomarker_name": "IL-1\b2 (Interleukin-1 beta)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Levels",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Elevated plasma levels are characteristic."
+          },
+          "core_biological_function": "Enhances lung inflammation and fibrosis by upregulating chemokines and adhesion molecules; promotes immune cell infiltration and neutrophilia.",
+          "relevant_activity_context": "COPD, early IPF; COVID-19, activation of NLRP3 inflammasome by SARS-CoV and LPS.",
+          "performance_or_health_indicator": "Correlates with the severity of COVID-19 and IPF; associated with lung inflammation and fibrosis."
+        },
+        {
+          "biomarker_name": "IL-6 (Interleukin-6)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Levels",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Elevated plasma levels are characteristic."
+          },
+          "core_biological_function": "Mediates pro-inflammatory functions; increases vascular permeability enhancing systemic circulation entry; balances inflammation and lung repair.",
+          "relevant_activity_context": "COPD, early IPF; COVID-19.",
+          "performance_or_health_indicator": "Correlates with the severity of COVID-19 and IPF; shows potential in reducing influenza-induced injury."
+        },
+        {
+          "biomarker_name": "IL-8 (Interleukin-8)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Levels",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Elevated plasma levels are characteristic."
+          },
+          "core_biological_function": "Recruits neutrophils to lungs via CXCR1/2 interaction.",
+          "relevant_activity_context": "COPD, early IPF; COVID-19.",
+          "performance_or_health_indicator": "Correlates with the severity of COVID-19 and IPF."
+        },
+        {
+          "biomarker_name": "IL-18 (Interleukin-18)",
+          "measured_tissue_or_fluid": "Blood/Plasma",
+          "activity_type": "Levels",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Increases."
+          },
+          "core_biological_function": "Increases vascular permeability.",
+          "relevant_activity_context": "ARDS, COVID-19, and COPD.",
+          "performance_or_health_indicator": "Leads to tissue damage and microthrombus formation."
+        },
+        {
+          "biomarker_name": "S100A8/S100A9",
+          "measured_tissue_or_fluid": "Plasma, Serum, Lung samples",
+          "activity_type": "Levels",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significant increase in S100A9 levels (in lung and plasma); elevated serum S100A8/S100A9 levels."
+          },
+          "core_biological_function": "Calcium-binding proteins, major DAMPs (Damage-Associated Molecular Patterns) released during lung injury. Inflamed lung tissues release IL-17, which provokes neutrophils to produce S100A8/A9, inducing apoptosis of alveolar epithelial cells.",
+          "relevant_activity_context": "LPS-induced ARDS mice, patients with COVID-19-related ARDS; COPD and IPF.",
+          "performance_or_health_indicator": "Correlates with disease severity of COVID-19; negative correlation between COPD lung function and S100A8/S100A9 levels."
+        },
+        {
+          "biomarker_name": "ROS (Reactive Oxygen Species)",
+          "measured_tissue_or_fluid": "Plasma, Serum",
+          "activity_type": "Levels",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Increased in COVID-19. Elevated serum levels in COPD."
+          },
+          "core_biological_function": "Accumulation due to an imbalance between oxidative and antioxidative systems; low levels act as signaling molecules, high levels impair lung repair and induce cell apoptosis.",
+          "relevant_activity_context": "Inflammatory lung diseases; COVID-19; COPD.",
+          "performance_or_health_indicator": "Contributes to cell apoptosis and lung tissue damage; negatively correlated with lung function parameters; indicates oxidative stress."
+        },
+        {
+          "biomarker_name": "cfDNA (circulating free DNA)",
+          "measured_tissue_or_fluid": "Blood/Plasma",
+          "activity_type": "Levels",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Released during cellular injury, death, or renewal. Increasingly recognized as a biomarker."
+          },
+          "core_biological_function": "Short DNA fragments primarily derived from mononucleosomes, released during cellular injury, death, or renewal.",
+          "relevant_activity_context": "Lung injury.",
+          "performance_or_health_indicator": "Biomarker of lung injury."
+        },
+        {
+          "biomarker_name": "mtDNA (mitochondrial DNA)",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Levels",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Significantly elevated levels."
+          },
+          "core_biological_function": "Released from damaged mitochondria.",
+          "relevant_activity_context": "ARDS patients.",
+          "performance_or_health_indicator": "Biomarker of lung injury."
+        },
+        {
+          "biomarker_name": "miR-29a-3p",
+          "measured_tissue_or_fluid": "Blood/Plasma",
+          "activity_type": "Expression",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Notably downregulated."
+          },
+          "core_biological_function": "MicroRNA, part of nucleic acid biomarkers.",
+          "relevant_activity_context": "ARDS patients.",
+          "performance_or_health_indicator": "Biomarker of lung injury."
+        },
+        {
+          "biomarker_name": "miR-150",
+          "measured_tissue_or_fluid": "Blood/Plasma",
+          "activity_type": "Expression",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Notably downregulated."
+          },
+          "core_biological_function": "MicroRNA, part of nucleic acid biomarkers.",
+          "relevant_activity_context": "ARDS patients.",
+          "performance_or_health_indicator": "Biomarker of lung injury."
+        },
+        {
+          "biomarker_name": "miR-1",
+          "measured_tissue_or_fluid": "Blood/Plasma",
+          "activity_type": "Expression",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Notably downregulated."
+          },
+          "core_biological_function": "MicroRNA, part of nucleic acid biomarkers.",
+          "relevant_activity_context": "ARDS patients.",
+          "performance_or_health_indicator": "Biomarker of lung injury."
+        },
+        {
+          "biomarker_name": "miR-122",
+          "measured_tissue_or_fluid": "Blood/Plasma",
+          "activity_type": "Expression",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Associated with disease severity. (Inferred as higher due to association with severity in disease context, not explicitly stated direction)."
+          },
+          "core_biological_function": "MicroRNA, part of nucleic acid biomarkers.",
+          "relevant_activity_context": "ARDS patients.",
+          "performance_or_health_indicator": "Biomarker of lung injury."
+        },
+        {
+          "biomarker_name": "lncRNA AC000120.7",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Expression",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Elevated expression has been reported."
+          },
+          "core_biological_function": "Long non-coding RNA, lacking protein-coding capacity, part of nucleic acid biomarkers.",
+          "relevant_activity_context": "ARDS plasma.",
+          "performance_or_health_indicator": "Biomarker of lung injury."
+        },
+        {
+          "biomarker_name": "lncRNA SENP3-EIF4A1",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Expression",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Elevated expression has been reported."
+          },
+          "core_biological_function": "Long non-coding RNA, lacking protein-coding capacity, part of nucleic acid biomarkers.",
+          "relevant_activity_context": "ARDS plasma.",
+          "performance_or_health_indicator": "Biomarker of lung injury."
+        },
+        {
+          "biomarker_name": "circRNA circ_2979",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Expression",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Elevated expression has been reported."
+          },
+          "core_biological_function": "Circular RNA, part of nucleic acid biomarkers.",
+          "relevant_activity_context": "ARDS plasma.",
+          "performance_or_health_indicator": "Biomarker of lung injury."
+        },
+        {
+          "biomarker_name": "Extracellular Vesicles (EVs), particularly platelet-derived",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Levels",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Increased serum EV levels, particularly those derived from platelets."
+          },
+          "core_biological_function": "Lipid bilayer-enclosed extracellular particles released by various cell types, mediate intercellular communication.",
+          "relevant_activity_context": "ARDS.",
+          "performance_or_health_indicator": "Biomarker of lung injury."
+        },
+        {
+          "biomarker_name": "Sphingosine-1-phosphate",
+          "measured_tissue_or_fluid": "Blood/Plasma",
+          "activity_type": "Concentration",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Reduced."
+          },
+          "core_biological_function": "Metabolite, highlights potential role in amino acids, lipids, and energy production pathways.",
+          "relevant_activity_context": "ARDS.",
+          "performance_or_health_indicator": "Correlates with ARDS prognosis; highlights potential role in disease severity and clinical outcomes."
+        },
+        {
+          "biomarker_name": "Ferritin",
+          "measured_tissue_or_fluid": "Plasma/Blood (implied)",
+          "activity_type": "Protein Level (implied)",
+          "measured_effect": {
+            "direction_of_change": "significantly greater predictive efficacy (in combination)",
+            "magnitude_quantification": "The combination of ferritin and KL-6 as biomarkers showed significantly greater predictive efficacy for the progression to severe ARDS compared to any individual biomarker."
+          },
+          "core_biological_function": "Not explicitly stated in the text.",
+          "relevant_activity_context": "Prediction of progression to severe ARDS when combined with KL-6.",
+          "performance_or_health_indicator": "Associated with significantly greater predictive efficacy for severe ARDS progression when used in combination with KL-6."
+        },
+        {
+          "biomarker_name": "13 blood biomarkers (unspecified)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Various molecular assays (implied)",
+          "measured_effect": {
+            "direction_of_change": "Identified distinct patient clusters, with one associated with higher risk and decline.",
+            "magnitude_quantification": "A machine learning classifier, trained on 13 blood biomarkers from 455 patients with IPF, identified three distinct clusters. The 'epithelial injury cluster' was associated with the highest risk of mortality and the most substantial decline in lung function."
+          },
+          "core_biological_function": "Not explicitly stated for the group, but generally involved in differentiating disease subtypes and assessing injury.",
+          "relevant_activity_context": "Machine learning classification for Idiopathic Pulmonary Fibrosis (IPF) patient stratification.",
+          "performance_or_health_indicator": "Enabled identification of an 'epithelial injury cluster' in IPF patients, indicating the highest risk of mortality and most substantial decline in lung function, thus aiding in risk stratification."
+        }
+      ]
+    }
+  }
+]

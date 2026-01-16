@@ -1,0 +1,496 @@
+[
+  {
+    "title": "pmc eBioMedicine EBioMedicine eBioMedicine 2352-3964 Elsevier 10279550 S2352-3964(23)00220-7 10.1016/j.ebiom.2023.104655 104655 Articles HFrEF subphenotypes based on 4210 repeatedly measured circulating proteins are driven by different biological mechanisms Petersen Teun B. a b de Bakker Marie a Asselbergs Folkert W. c d Harakalova Magdalena e f Akkerhuis K. Martijn a Brugts Jasper J. a van Ramshorst Jan g Lumbers R. Thomas h i j Ostroff Rachel M. k Katsikis Peter D. l van der Spek Peter J. m Umans Victor A. g Boersma Eric a Rizopoulos Dimitris b n Kardys Isabella i.kardys@erasmusmc.nl a n \u2217 a Department of Cardiology, Erasmus MC, University Medical Center Rotterdam, Doctor Molewaterplein 40, Rotterdam, the Netherlands b Department of Biostatistics, Erasmus MC, University Medical Center Rotterdam, Doctor Molewaterplein 40, Rotterdam, the Netherlands c Amsterdam University Medical Centers, Department of Cardiology, University of Amsterdam, Meibergdreef 9, Amsterdam, the Netherlands d Health Data Research UK and Institute of Health Informatics, University College London, Gower St, London, United Kingdom e Department of Cardiology, Division Heart and Lungs, University Medical Center Utrecht, University of Utrecht, Heidelberglaan 100, Utrecht, the Netherlands f Regenerative Medicine Center Utrecht, University Medical Center Utrecht, University of Utrecht, Heidelberglaan 100, Utrecht, the Netherlands g Department of Cardiology, Northwest Clinics, Wilhelminalaan 12, Alkmaar, the Netherlands h British Heart Foundation Research Accelerator, University College London, Gower St, London, UK i Institute of Health Informatics, University College London, Gower St, London, UK j Health Data Research UK London, University College London, Gower St, London, UK k SomaLogic, Inc., 2945 Wilderness Pl, Boulder, United States l Department of Immunology, Erasmus MC, University Medical Center Rotterdam, Doctor Molewaterplein 40, Rotterdam, the Netherlands m Department of Pathology, Erasmus MC, University Medical Center Rotterdam, Doctor Molewaterplein 40, Rotterdam, the Netherlands \u2217 Corresponding author. Department of Cardiology, Erasmus MC, University Medical Center Rotterdam, Room Na-316, P.O. Box 2040, 3000 CA Rotterdam, the Netherlands. i.kardys@erasmusmc.nl n These authors contributed equally. 14 6 2023 7 2023 14 6 2023 93 104655 6 2 2023 31 5 2023 31 5 2023 \u00a9 2023 The Author(s) 2023 https://creativecommons.org/licenses/by/4.0/ This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/). Summary Background HFrEF is a heterogenous condition with high mortality. We used serial assessments of 4210 circulating proteins to identify distinct novel protein-based HFrEF subphenotypes and to investigate underlying dynamic biological mechanisms. Herewith we aimed to gain pathophysiological insights and fuel opportunities for personalised treatment. Methods In 382 patients, we performed trimonthly blood sampling during a median follow-up of 2.1 [IQR:1.1\u20132.6] years. We selected all baseline samples and two samples closest to the primary endpoint (PEP; composite of cardiovascular mortality, HF hospitalization, LVAD implantation, and heart transplantation) or censoring, and applied an aptamer-based multiplex proteomic approach. Using unsupervised machine learning methods, we derived clusters from 4210 repeatedly measured proteomic biomarkers. Sets of proteins that drove cluster allocation were analysed via an enrichment analysis. Differences in clinical characteristics and PEP occurrence were evaluated. Findings We identified four subphenotypes with different protein profiles, prognosis and clinical characteristics, including age (median [IQR] for subphenotypes 1\u20134, respectively:70 [64, 76], 68 [60, 79], 57 [47, 65], 59 [56, 66]years), EF (30 [26, 36], 26 [20, 38], 26 [22, 32], 33 [28, 37]%), and chronic renal failure (45%, 65%, 36%, 37%). Subphenotype allocation was driven by subsets of proteins associated with various biological functions, such as oxidative stress, inflammation and extracellular matrix organisation. Clinical characteristics of the subphenotypes were aligned with these associations. Subphenotypes 2 and 3 had the worst prognosis compared to subphenotype 1 (adjHR (95%CI):3.43 (1.76\u20136.69), and 2.88 (1.37\u20136.03), respectively). Interpretation Four circulating-protein based subphenotypes are present in HFrEF, which are driven by varying combinations of protein subsets, and have different clinical characteristics and prognosis. Clinical Trial Registration ClinicalTrials.gov Identifier: NCT01851538 https://clinicaltrials.gov/ct2/show/NCT01851538 . Funding EU / 10.13039/100013322 EFPIA IMI2JU BigData@Heart grant n\u00b0116074, Jaap Schouten Foundation and Noordwest Academie . Keywords Proteomics Biomarkers Phenotypes Unsupervised machine learning Heart Failure Research in context Evidence before this study HFrEF (Heart Failure with reduced Ejection Fraction), as a heterogeneous condition with a high mortality rate, can benefit greatly from subphenotyping efforts. Proteomic blood biomarkers carry large potential for phenotyping studies in the cardiovascular domain, as shown in studies in HFpEF (Heart Failure with preserved Ejection Fraction) patients. Added value of this study In this study, we identify four distinct HFrEF phenotypes based on 4210 repeatedly measured proteomic biomarkers. These subphenotypes show differing protein profiles, clinical characteristics and prognosis. The subphenotypes are driven by subsets of proteins that are associated with various pathophysiological pathways. Novel aspects of this study include the repeated assessments of the proteomic panel, in order to capture dynamic biological mechanisms; and the extensive set of proteins used. Our study demonstrates that repeated proteomics measurements improve the accuracy of subphenotypes in relation to prognosis compared to single baseline measurements. Moreover, the large protein panel provides a comprehensive assessment of the processes involved in heart failure, and gives us the opportunity to associate specific biological pathways and processes with the subphenotypes. Implications of all the available evidence Repeated assessment of extensive biomarker panels can contribute pathophysiological insights for complex diagnoses like HFrEF. Future studies should further investigate the role of these biological mechanisms in HFrEF and further explore prospects of personalized treatment decisions based on subphenotypes.",
+    "document_source_id": "37327673",
+    "analysis_date": "2025-12-10",
+    "extracted_data": {
+      "document_summary": "This study investigated novel protein-based subphenotypes in Heart Failure with reduced Ejection Fraction (HFrEF) patients using unsupervised machine learning on 4210 repeatedly measured circulating proteins over a median 2.1-year follow-up in 382 patients. It identified four distinct subphenotypes with varying protein profiles, clinical characteristics (e.g., age, EF, chronic renal failure), and prognosis. These subphenotypes were driven by specific protein subsets associated with various biological mechanisms, including oxidative stress, inflammation, extracellular matrix organization, myocardial stretch/stress, injury, and renal dysfunction. Subphenotypes 2 and 3 demonstrated significantly worse clinical outcomes compared to subphenotype 1, highlighting the value of dynamic proteomic profiling for gaining pathophysiological insights and exploring personalized treatment opportunities in complex diagnoses like HFrEF.",
+      "treatment_details": {
+        "therapy_type": "Proteomic profiling and subphenotyping in Heart Failure with reduced Ejection Fraction (HFrEF) patients.",
+        "dose_specificity": "This was an observational study involving trimonthly blood sampling over a median follow-up of 2.1 years (IQR: 1.1\u20132.6 years) in 382 HFrEF patients, totaling 1066 blood samples. An aptamer-based multiplex proteomic approach (SOMAscan assay) was used to measure 4210 circulating proteins, yielding relative fluorescence units (RFUs) for comparative analysis rather than absolute concentrations. No specific intervention, treatment, or dose-response comparisons were conducted, as the study focused on characterizing disease subphenotypes and biomarker patterns over time. Repeated proteomic measurements (incorporating both intercept and slope coefficients) demonstrated improved accuracy for survival models (c-index 0.73, BIC 1023) compared to single time-point assessments."
+      },
+      "analyzed_biomarkers": [
+        {
+          "biomarker_name": "NT-proBNP",
+          "measured_tissue_or_fluid": "Blood Plasma/Serum",
+          "activity_type": "Protein Level (Hormone Concentration)",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Overall median (IQR) at baseline was 133 (46\u2013274) pmol/L. Subphenotype 2 showed the highest median levels at baseline and elevated levels as part of Subset D, often exceeding three times the normal upper limit. Lowest median levels were observed in subphenotype 3 at baseline."
+          },
+          "core_biological_function": "Indicates cardiac wall stress, myocardial stretch, and ventricular dysfunction, released in response to increased ventricular pressure and volume; a key diagnostic and prognostic biomarker for heart failure severity and fibrosis.",
+          "relevant_activity_context": "Baseline and longitudinal assessment in HFrEF patients for subphenotype identification, particularly defining Subphenotype 2 which is characterized by older patients, lower SBP, increased comorbidities (e.g., diabetes mellitus, chronic renal failure), and very high levels, often contributing to hospitalization criteria for acute or worsened HF.",
+          "performance_or_health_indicator": "Higher levels are strongly associated with worse clinical outcomes, including increased risk of hospitalization due to worsening heart failure, higher heart failure severity, and poorer prognosis (HR 3.43 (1.76\u20136.69) for Subphenotype 2 vs. Subphenotype 1)."
+        },
+        {
+          "biomarker_name": "hs-troponin T",
+          "measured_tissue_or_fluid": "Blood Plasma/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Overall median (IQR) at baseline was 18 (9\u201333) ng/L. Subphenotype 2 showed the highest median levels at baseline and elevated levels as part of Subset D. Lowest median hs-troponin T was observed in subphenotype 3 at baseline."
+          },
+          "core_biological_function": "Indicates myocardial injury or necrosis, serving as a marker of cardiac damage.",
+          "relevant_activity_context": "Baseline and longitudinal assessment in HFrEF patients for subphenotype identification, particularly defining Subphenotypes 2 (higher levels, worse outcomes) and 3 (lower median, but still worse outcomes).",
+          "performance_or_health_indicator": "Higher levels are strongly associated with subphenotype 2, indicating significant myocardial injury and poorer prognosis. Although levels are lower in subphenotype 3, it is also linked to worse outcomes."
+        },
+        {
+          "biomarker_name": "CRP",
+          "measured_tissue_or_fluid": "Blood Plasma/Serum",
+          "activity_type": "Protein Level (Inflammation Marker)",
+          "measured_effect": {
+            "direction_of_change": "variable",
+            "magnitude_quantification": "Overall median (IQR) at baseline was 2.2 (0.9\u20134.9) mg/L. Subphenotype 2 showed the highest median levels, while subphenotype 4 had the lowest median levels. Subphenotype 1 also had lower median levels at baseline. Significantly associated with subphenotype allocation (p < 0.05)."
+          },
+          "core_biological_function": "An acute-phase reactant and a robust indicator of systemic inflammation.",
+          "relevant_activity_context": "Baseline assessment in HFrEF patients for subphenotype identification, particularly distinguishing Subphenotypes 1, 2, and 4.",
+          "performance_or_health_indicator": "Highest levels are associated with subphenotype 2, indicating higher inflammatory burden and worse clinical outcomes. Lower levels are associated with subphenotypes 1 (better outcomes) and 4 (no significant outcome association), suggesting a role in stratifying prognosis based on inflammatory status."
+        },
+        {
+          "biomarker_name": "ANP",
+          "measured_tissue_or_fluid": "Blood Plasma/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Levels highest in subphenotype 2. Precise quantification not provided."
+          },
+          "core_biological_function": "Indicates myocardial stretch/stress and fibrosis.",
+          "relevant_activity_context": "Patient subphenotype classification in a cardiac cohort, particularly defining Subphenotype 2.",
+          "performance_or_health_indicator": "Higher levels are associated with subphenotype 2, which is linked to significantly worse patient outcomes (HR 3.43 (1.76\u20136.69) compared to subphenotype 1)."
+        },
+        {
+          "biomarker_name": "ST2",
+          "measured_tissue_or_fluid": "Blood Plasma/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Levels highest in subphenotype 2 and elevated as part of Subset D. Precise quantification not provided."
+          },
+          "core_biological_function": "Indicates myocardial stretch/stress and fibrosis, also involved in inflammation.",
+          "relevant_activity_context": "Patient subphenotype classification in HFrEF, particularly defining Subphenotype 2 (older patients, lower SBP, more comorbidities, and worse clinical outcomes).",
+          "performance_or_health_indicator": "Higher levels are associated with significantly worse patient outcomes (HR 3.43 (1.76\u20136.69) for Subphenotype 2 vs. Subphenotype 1) and is a known heart failure biomarker."
+        },
+        {
+          "biomarker_name": "GDF15",
+          "measured_tissue_or_fluid": "Blood Plasma/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Levels highest in subphenotype 2 and elevated as part of Subset D. Precise quantification not provided."
+          },
+          "core_biological_function": "Indicates myocardial stretch/stress, fibrosis, and is involved in stress response and inflammation.",
+          "relevant_activity_context": "Patient subphenotype classification in HFrEF, particularly defining Subphenotype 2 (older patients, lower SBP, more comorbidities, and worse clinical outcomes).",
+          "performance_or_health_indicator": "Higher levels are associated with significantly worse patient outcomes (HR 3.43 (1.76\u20136.69) for Subphenotype 2 vs. Subphenotype 1) and is a known heart failure biomarker."
+        },
+        {
+          "biomarker_name": "FGF23",
+          "measured_tissue_or_fluid": "Blood Plasma/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Levels highest in subphenotype 2. Precise quantification not provided."
+          },
+          "core_biological_function": "Indicates myocardial stretch/stress and fibrosis.",
+          "relevant_activity_context": "Patient subphenotype classification in a cardiac cohort, particularly defining Subphenotype 2.",
+          "performance_or_health_indicator": "Higher levels are associated with subphenotype 2, which is linked to significantly worse patient outcomes (HR 3.43 (1.76\u20136.69) compared to subphenotype 1)."
+        },
+        {
+          "biomarker_name": "MMP2",
+          "measured_tissue_or_fluid": "Blood Plasma/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Levels highest in subphenotype 2. Precise quantification not provided."
+          },
+          "core_biological_function": "Implicated in extracellular matrix remodelling.",
+          "relevant_activity_context": "Patient subphenotype classification in a cardiac cohort, particularly defining Subphenotype 2.",
+          "performance_or_health_indicator": "Higher levels are associated with subphenotype 2, which is linked to significantly worse patient outcomes (HR 3.43 (1.76\u20136.69) compared to subphenotype 1)."
+        },
+        {
+          "biomarker_name": "TIMP1",
+          "measured_tissue_or_fluid": "Blood Plasma/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Levels highest in subphenotype 2. Precise quantification not provided."
+          },
+          "core_biological_function": "Implicated in extracellular matrix remodelling.",
+          "relevant_activity_context": "Patient subphenotype classification in a cardiac cohort, particularly defining Subphenotype 2.",
+          "performance_or_health_indicator": "Higher levels are associated with subphenotype 2, which is linked to significantly worse patient outcomes (HR 3.43 (1.76\u20136.69) compared to subphenotype 1)."
+        },
+        {
+          "biomarker_name": "heart-type fatty acid-binding protein",
+          "measured_tissue_or_fluid": "Blood Plasma/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Levels highest in subphenotype 2. Precise quantification not provided."
+          },
+          "core_biological_function": "Indicates myocyte injury.",
+          "relevant_activity_context": "Patient subphenotype classification in a cardiac cohort, particularly defining Subphenotype 2.",
+          "performance_or_health_indicator": "Higher levels are associated with subphenotype 2, which is linked to significantly worse patient outcomes (HR 3.43 (1.76\u20136.69) compared to subphenotype 1)."
+        },
+        {
+          "biomarker_name": "sFAS",
+          "measured_tissue_or_fluid": "Blood Plasma/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Levels highest in subphenotype 2. Precise quantification not provided."
+          },
+          "core_biological_function": "Implicated in myocyte injury.",
+          "relevant_activity_context": "Patient subphenotype classification in a cardiac cohort, particularly defining Subphenotype 2.",
+          "performance_or_health_indicator": "Higher levels are associated with subphenotype 2, which is linked to significantly worse patient outcomes (HR 3.43 (1.76\u20136.69) compared to subphenotype 1)."
+        },
+        {
+          "biomarker_name": "prolactinon",
+          "measured_tissue_or_fluid": "Blood Plasma/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Levels highest in subphenotype 2. Precise quantification not provided."
+          },
+          "core_biological_function": "Implicated in inflammation.",
+          "relevant_activity_context": "Patient subphenotype classification in a cardiac cohort, particularly defining Subphenotype 2.",
+          "performance_or_health_indicator": "Higher levels are associated with subphenotype 2, which is linked to significantly worse patient outcomes (HR 3.43 (1.76\u20136.69) compared to subphenotype 1)."
+        },
+        {
+          "biomarker_name": "adiponectin",
+          "measured_tissue_or_fluid": "Blood Plasma/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Levels highest in subphenotype 2. Precise quantification not provided."
+          },
+          "core_biological_function": "Implicated in inflammation.",
+          "relevant_activity_context": "Patient subphenotype classification in a cardiac cohort, particularly defining Subphenotype 2.",
+          "performance_or_health_indicator": "Higher levels are associated with subphenotype 2, which is linked to significantly worse patient outcomes (HR 3.43 (1.76\u20136.69) compared to subphenotype 1)."
+        },
+        {
+          "biomarker_name": "soluble endoglin",
+          "measured_tissue_or_fluid": "Blood Plasma/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Levels highest in subphenotype 2. Precise quantification not provided."
+          },
+          "core_biological_function": "Implicated in inflammation.",
+          "relevant_activity_context": "Patient subphenotype classification in a cardiac cohort, particularly defining Subphenotype 2.",
+          "performance_or_health_indicator": "Higher levels are associated with subphenotype 2, which is linked to significantly worse patient outcomes (HR 3.43 (1.76\u20136.69) compared to subphenotype 1)."
+        },
+        {
+          "biomarker_name": "FAS (APO-1)",
+          "measured_tissue_or_fluid": "Blood Plasma/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Levels highest in subphenotype 2. Precise quantification not provided."
+          },
+          "core_biological_function": "Implicated in inflammation.",
+          "relevant_activity_context": "Patient subphenotype classification in a cardiac cohort, particularly defining Subphenotype 2.",
+          "performance_or_health_indicator": "Higher levels are associated with subphenotype 2, which is linked to significantly worse patient outcomes (HR 3.43 (1.76\u20136.69) compared to subphenotype 1)."
+        },
+        {
+          "biomarker_name": "osteoprotegerin",
+          "measured_tissue_or_fluid": "Blood Plasma/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Levels highest in subphenotype 2. Precise quantification not provided."
+          },
+          "core_biological_function": "Implicated in inflammation.",
+          "relevant_activity_context": "Patient subphenotype classification in a cardiac cohort, particularly defining Subphenotype 2.",
+          "performance_or_health_indicator": "Higher levels are associated with subphenotype 2, which is linked to significantly worse patient outcomes (HR 3.43 (1.76\u20136.69) compared to subphenotype 1)."
+        },
+        {
+          "biomarker_name": "CA-125",
+          "measured_tissue_or_fluid": "Blood Plasma/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Levels highest in subphenotype 2. Precise quantification not provided."
+          },
+          "core_biological_function": "Implicated in inflammation.",
+          "relevant_activity_context": "Patient subphenotype classification in a cardiac cohort, particularly defining Subphenotype 2.",
+          "performance_or_health_indicator": "Higher levels are associated with subphenotype 2, which is linked to significantly worse patient outcomes (HR 3.43 (1.76\u20136.69) compared to subphenotype 1)."
+        },
+        {
+          "biomarker_name": "adrenomedullin",
+          "measured_tissue_or_fluid": "Blood Plasma/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Levels highest in subphenotype 2. Precise quantification not provided."
+          },
+          "core_biological_function": "Implicated in neurohumoral activation.",
+          "relevant_activity_context": "Patient subphenotype classification in a cardiac cohort, particularly defining Subphenotype 2.",
+          "performance_or_health_indicator": "Higher levels are associated with subphenotype 2, which is linked to significantly worse patient outcomes (HR 3.43 (1.76\u20136.69) compared to subphenotype 1)."
+        },
+        {
+          "biomarker_name": "chromogranin A",
+          "measured_tissue_or_fluid": "Blood Plasma/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Levels highest in subphenotype 2. Precise quantification not provided."
+          },
+          "core_biological_function": "Implicated in neurohumoral activation.",
+          "relevant_activity_context": "Patient subphenotype classification in a cardiac cohort, particularly defining Subphenotype 2.",
+          "performance_or_health_indicator": "Higher levels are associated with subphenotype 2, which is linked to significantly worse patient outcomes (HR 3.43 (1.76\u20136.69) compared to subphenotype 1)."
+        },
+        {
+          "biomarker_name": "chromogranin B",
+          "measured_tissue_or_fluid": "Blood Plasma/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Levels highest in subphenotype 2. Precise quantification not provided."
+          },
+          "core_biological_function": "Implicated in neurohumoral activation.",
+          "relevant_activity_context": "Patient subphenotype classification in a cardiac cohort, particularly defining Subphenotype 2.",
+          "performance_or_health_indicator": "Higher levels are associated with subphenotype 2, which is linked to significantly worse patient outcomes (HR 3.43 (1.76\u20136.69) compared to subphenotype 1)."
+        },
+        {
+          "biomarker_name": "cystatin C",
+          "measured_tissue_or_fluid": "Blood Plasma/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Levels highest in subphenotype 2. Precise quantification not provided."
+          },
+          "core_biological_function": "Implicated in renal dysfunction.",
+          "relevant_activity_context": "Patient subphenotype classification in a cardiac cohort, particularly defining Subphenotype 2.",
+          "performance_or_health_indicator": "Higher levels are associated with subphenotype 2, which is linked to significantly worse patient outcomes (HR 3.43 (1.76\u20136.69) compared to subphenotype 1)."
+        },
+        {
+          "biomarker_name": "kidney injury molecule-1 (KIM-1)",
+          "measured_tissue_or_fluid": "Blood Plasma/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Levels highest in subphenotype 2. Precise quantification not provided."
+          },
+          "core_biological_function": "Implicated in renal dysfunction.",
+          "relevant_activity_context": "Patient subphenotype classification in a cardiac cohort, particularly defining Subphenotype 2.",
+          "performance_or_health_indicator": "Higher levels are associated with subphenotype 2, which is linked to significantly worse patient outcomes (HR 3.43 (1.76\u20136.69) compared to subphenotype 1)."
+        },
+        {
+          "biomarker_name": "IL-6",
+          "measured_tissue_or_fluid": "Blood Plasma/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Levels highest in subphenotypes 3 and 4; lowest in subphenotype 1. Precise quantification not provided."
+          },
+          "core_biological_function": "Associated with extracellular matrix remodelling and inflammation.",
+          "relevant_activity_context": "Patient subphenotype classification in a cardiac cohort, particularly defining Subphenotypes 1, 3, and 4.",
+          "performance_or_health_indicator": "Higher levels are associated with subphenotypes 3 and 4, where subphenotype 3 is linked to worse patient outcomes (HR 2.88 (1.37\u20136.03) compared to subphenotype 1)."
+        },
+        {
+          "biomarker_name": "MMP9",
+          "measured_tissue_or_fluid": "Blood Plasma/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Levels highest in subphenotypes 3 and 4; lowest in subphenotype 1. Precise quantification not provided."
+          },
+          "core_biological_function": "Associated with extracellular matrix remodelling.",
+          "relevant_activity_context": "Patient subphenotype classification in a cardiac cohort, particularly defining Subphenotypes 1, 3, and 4.",
+          "performance_or_health_indicator": "Higher levels are associated with subphenotypes 3 and 4, where subphenotype 3 is linked to worse patient outcomes (HR 2.88 (1.37\u20136.03) compared to subphenotype 1)."
+        },
+        {
+          "biomarker_name": "CK-MB",
+          "measured_tissue_or_fluid": "Blood Plasma/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "Levels highest in subphenotypes 3 and 4; lowest in subphenotype 1. Precise quantification not provided."
+          },
+          "core_biological_function": "Associated with myocyte injury.",
+          "relevant_activity_context": "Patient subphenotype classification in a cardiac cohort, particularly defining Subphenotypes 1, 3, and 4.",
+          "performance_or_health_indicator": "Higher levels are associated with subphenotypes 3 and 4, where subphenotype 3 is linked to worse patient outcomes (HR 2.88 (1.37\u20136.03) compared to subphenotype 1)."
+        },
+        {
+          "biomarker_name": "MMP8",
+          "measured_tissue_or_fluid": "Blood Plasma/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "associated with subphenotype allocation",
+            "magnitude_quantification": "Significantly associated with estimated subphenotypes (p < 0.05 after correction for multiple testing), but specific change direction/magnitude not detailed for this individual protein."
+          },
+          "core_biological_function": "Associated with extracellular matrix remodelling.",
+          "relevant_activity_context": "Patient subphenotype classification in a cardiac cohort.",
+          "performance_or_health_indicator": "Indicates protein involvement in patient subphenotype classification, which may relate to prognosis."
+        },
+        {
+          "biomarker_name": "galectin-3",
+          "measured_tissue_or_fluid": "Blood Plasma/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "associated with subphenotype allocation",
+            "magnitude_quantification": "Significantly associated with estimated subphenotypes (p < 0.05 after correction for multiple testing), but specific change direction/magnitude not detailed for this individual protein."
+          },
+          "core_biological_function": "Associated with extracellular matrix remodelling.",
+          "relevant_activity_context": "Patient subphenotype classification in a cardiac cohort.",
+          "performance_or_health_indicator": "Indicates protein involvement in patient subphenotype classification, which may relate to prognosis."
+        },
+        {
+          "biomarker_name": "MPO",
+          "measured_tissue_or_fluid": "Blood Plasma/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "associated with subphenotype allocation",
+            "magnitude_quantification": "Significantly associated with estimated subphenotypes (p < 0.05 after correction for multiple testing), but specific change direction/magnitude not detailed for this individual protein."
+          },
+          "core_biological_function": "Associated with oxidative stress.",
+          "relevant_activity_context": "Patient subphenotype classification in a cardiac cohort.",
+          "performance_or_health_indicator": "Indicates protein involvement in patient subphenotype classification, which may relate to prognosis."
+        },
+        {
+          "biomarker_name": "TNF-alpha",
+          "measured_tissue_or_fluid": "Blood Plasma/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "associated with subphenotype allocation",
+            "magnitude_quantification": "Significantly associated with estimated subphenotypes (p < 0.05 after correction for multiple testing), but specific change direction/magnitude not detailed for this individual protein."
+          },
+          "core_biological_function": "Associated with inflammation.",
+          "relevant_activity_context": "Patient subphenotype classification in a cardiac cohort.",
+          "performance_or_health_indicator": "Indicates protein involvement in patient subphenotype classification, which may relate to prognosis."
+        },
+        {
+          "biomarker_name": "LP-PLA2",
+          "measured_tissue_or_fluid": "Blood Plasma/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "associated with subphenotype allocation",
+            "magnitude_quantification": "Significantly associated with estimated subphenotypes (p < 0.05 after correction for multiple testing), but specific change direction/magnitude not detailed for this individual protein."
+          },
+          "core_biological_function": "Associated with inflammation.",
+          "relevant_activity_context": "Patient subphenotype classification in a cardiac cohort.",
+          "performance_or_health_indicator": "Indicates protein involvement in patient subphenotype classification, which may relate to prognosis."
+        },
+        {
+          "biomarker_name": "TWEAK",
+          "measured_tissue_or_fluid": "Blood Plasma/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "associated with subphenotype allocation",
+            "magnitude_quantification": "Significantly associated with estimated subphenotypes (p < 0.05 after correction for multiple testing), but specific change direction/magnitude not detailed for this individual protein."
+          },
+          "core_biological_function": "Associated with inflammation.",
+          "relevant_activity_context": "Patient subphenotype classification in a cardiac cohort.",
+          "performance_or_health_indicator": "Indicates protein involvement in patient subphenotype classification, which may relate to prognosis."
+        },
+        {
+          "biomarker_name": "Serine protease PR3",
+          "measured_tissue_or_fluid": "Blood Plasma/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "associated with subphenotype allocation",
+            "magnitude_quantification": "Significantly associated with estimated subphenotypes (p < 0.05 after correction for multiple testing), but specific change direction/magnitude not detailed for this individual protein."
+          },
+          "core_biological_function": "Associated with inflammation.",
+          "relevant_activity_context": "Patient subphenotype classification in a cardiac cohort.",
+          "performance_or_health_indicator": "Indicates protein involvement in patient subphenotype classification, which may relate to prognosis."
+        },
+        {
+          "biomarker_name": "S100A8/A9 complex",
+          "measured_tissue_or_fluid": "Blood Plasma/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "associated with subphenotype allocation",
+            "magnitude_quantification": "Significantly associated with estimated subphenotypes (p < 0.05 after correction for multiple testing), but specific change direction/magnitude not detailed for this individual protein."
+          },
+          "core_biological_function": "Associated with inflammation.",
+          "relevant_activity_context": "Patient subphenotype classification in a cardiac cohort.",
+          "performance_or_health_indicator": "Indicates protein involvement in patient subphenotype classification, which may relate to prognosis."
+        },
+        {
+          "biomarker_name": "angiotensin II",
+          "measured_tissue_or_fluid": "Blood Plasma/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "associated with subphenotype allocation",
+            "magnitude_quantification": "Significantly associated with estimated subphenotypes (p < 0.05 after correction for multiple testing), but specific change direction/magnitude not detailed for this individual protein."
+          },
+          "core_biological_function": "Associated with neurohumoral activation.",
+          "relevant_activity_context": "Patient subphenotype classification in a cardiac cohort.",
+          "performance_or_health_indicator": "Indicates protein involvement in patient subphenotype classification, which may relate to prognosis."
+        },
+        {
+          "biomarker_name": "endothelin-1, 2, 3",
+          "measured_tissue_or_fluid": "Blood Plasma/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "associated with subphenotype allocation",
+            "magnitude_quantification": "Significantly associated with estimated subphenotypes (p < 0.05 after correction for multiple testing), but specific change direction/magnitude not detailed for these individual proteins."
+          },
+          "core_biological_function": "Associated with neurohumoral activation.",
+          "relevant_activity_context": "Patient subphenotype classification in a cardiac cohort.",
+          "performance_or_health_indicator": "Indicates protein involvement in patient subphenotype classification, which may relate to prognosis."
+        },
+        {
+          "biomarker_name": "Proteins in Subset A",
+          "measured_tissue_or_fluid": "Blood Plasma/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "variable",
+            "magnitude_quantification": "Lower expression at baseline in Subphenotype 1 relative to other subphenotypes; Elevated levels in Subphenotype 3 relative to other subphenotypes. Precise quantification not provided."
+          },
+          "core_biological_function": "Related to oxidative stress, ataxia, intracellular components, translational processes, intracellular protein transport, actin cytoskeleton organization, post-transcriptional regulation of gene expression, platelet activation, and G-protein-coupled receptor signalling pathway.",
+          "relevant_activity_context": "HFrEF Subphenotypes 1 (lower expression, better outcomes) and 3 (elevated levels, worse outcomes).",
+          "performance_or_health_indicator": "Linked to cardiovascular diseases via oxidative stress; platelet activation associated with complications in acute HF; G-protein-coupled receptors play a central role in cardiac function and disease and are major drug targets for cardiovascular diseases."
+        },
+        {
+          "biomarker_name": "Proteins in Subset B",
+          "measured_tissue_or_fluid": "Blood Plasma/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "variable",
+            "magnitude_quantification": "Lower expression at baseline in Subphenotype 1 relative to other subphenotypes; Elevated levels in Subphenotype 3 relative to other subphenotypes. Precise quantification not provided."
+          },
+          "core_biological_function": "Not strongly associated with specific diseases, biological processes, or cellular components based on expression analysis in this context.",
+          "relevant_activity_context": "HFrEF Subphenotypes 1 (lower expression, better outcomes) and 3 (elevated levels, worse outcomes).",
+          "performance_or_health_indicator": "Significance for performance or health status not explicitly identified due to lack of strong associations in this context."
+        },
+        {
+          "biomarker_name": "Proteins in Subset D",
+          "measured_tissue_or_fluid": "Blood Plasma/Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "higher",
+            "magnitude_quantification": "High expressions relative to other subphenotypes in HFrEF Subphenotype 2. Precise quantification not provided. Includes NT-proBNP, ST2, Troponin T, GDF15."
+          },
+          "core_biological_function": "Associated with inflammation, extracellular matrix remodelling, chronic renal failure, diabetic nephropathy, heart failure, myocardial infarction, cell morphogenesis and differentiation, chemotaxis (cell adhesion and migration), ERK1/2 signalling pathway, and BMP signalling pathway.",
+          "relevant_activity_context": "HFrEF Subphenotype 2 (characterized by older patients, lower SBP, more comorbidities such as diabetes mellitus and chronic renal failure, very high NT-proBNP and hs-troponin, and worse clinical outcomes).",
+          "performance_or_health_indicator": "Linked to adverse prognosis in heart failure via inflammation; ERK1/2 mediates cardiac hypertrophy and is associated with protection from cell death and ischaemic injury; BMP plays a fundamental role in heart homeostasis, with perturbations linked to various cardiovascular diseases."
+        },
+        {
+          "biomarker_name": "Proteins in Slope Subset C",
+          "measured_tissue_or_fluid": "Blood Plasma/Serum",
+          "activity_type": "Protein Level (Change over time)",
+          "measured_effect": {
+            "direction_of_change": "higher (slope)",
+            "magnitude_quantification": "Elevated levels for the slope coefficients, indicating increasing levels over time. Precise quantification not provided."
+          },
+          "core_biological_function": "Contains many proteins found in intercept Subset D, thus associated with inflammation, extracellular matrix remodelling, chronic renal failure, diabetic nephropathy, heart failure, myocardial infarction, cell morphogenesis and differentiation, chemotaxis, ERK1/2 signalling pathway, and BMP signalling pathway.",
+          "relevant_activity_context": "HFrEF Subphenotype 4 (characterized by higher SBP and higher EF with seemingly better clinical outcomes, where these proteins showed increasing levels over time).",
+          "performance_or_health_indicator": "Similar to Subset D, these changes over time may reflect prognostic implications, though for subphenotype 4 clinical outcomes seemed better than subphenotype 3."
+        },
+        {
+          "biomarker_name": "Proteins in Slope Subset A",
+          "measured_tissue_or_fluid": "Blood Plasma/Serum",
+          "activity_type": "Protein Level (Change over time)",
+          "measured_effect": {
+            "direction_of_change": "lower (slope)",
+            "magnitude_quantification": "Low levels for slope coefficients, indicating less change or decreasing levels over time. Precise quantification not provided."
+          },
+          "core_biological_function": "Contains many proteins found in intercept Subset A, thus related to oxidative stress, ataxia, intracellular components, translational processes, intracellular protein transport, actin cytoskeleton organization, post-transcriptional regulation of gene expression, platelet activation, and G-protein-coupled receptor signalling pathway.",
+          "relevant_activity_context": "HFrEF Subphenotype 4 (characterized by higher SBP and higher EF with seemingly better clinical outcomes, where these proteins showed less change or decreasing levels over time).",
+          "performance_or_health_indicator": "Similar to Subset A, these changes over time may reflect prognostic implications, though for subphenotype 4 clinical outcomes seemed better than subphenotype 3."
+        }
+      ]
+    }
+  }
+]
