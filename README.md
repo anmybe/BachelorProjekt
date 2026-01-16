@@ -20,24 +20,6 @@ Das Herzstück des Projekts ist eine mehrstufige Verarbeitungs-Pipeline:
     - **Stage 4.3 (`stage4-3.py`):** Finale Aggregation aller Details unter den standardisierten Namen (Output: `consolidated-list(4-3).json`).
 4.  **Stage 5: Bewertung (`stage5.py`):** Finale Einordnung der Biomarker hinsichtlich ihrer Relevanz für Training, Leistung und Regeneration (Output: CSV).
 
-## 💻 Technische Details: Aggregation & Standardisierung (Stage 4)
-
-Die Aggregation der Daten erfolgt in drei präzisen Teilschritten, um Konsistenz über ca. 5'000 verarbeitete Dokumente hinweg zu gewährleisten:
-
-### Stage 4.1: Regelbasierte Vorab-Standardisierung (Python)
-
-Grobe Clusterung von ähnlichen Namen mittels statischem Mapping (z.B. Mapping von "CD72" auf "Cluster of Differentiation 72"). Dies bereitet die Daten optimal für den KI-Einsatz vor.
-
-### Stage 4.2: Semantische Standardisierung & Chunking (KI-gestützt)
-
-- **Sortierung:** Die Liste wird vorab nach dem Namen sortiert, damit Synonyme im gleichen Kontext verarbeitet werden.
-- **KI-Clustering:** Ein LLM erkennt semantische Synonyme (z.B. "LL-37" und "Cathelicidin") und weist einen autoritativen `standard_name` zu.
-- **Parallelisierung:** Die Daten werden in Batches (z.B. 150 Einträge) aufgeteilt und mittels `ThreadPoolExecutor` parallel verarbeitet, um die API-Laufzeit zu optimieren.
-
-### Stage 4.3: Finale Detail-Aggregation (Python)
-
-Zusammenführung aller extrahierten Original-Details (Effekte, Mechanismen) aus den Initial-Analysen unter dem neuen Standardnamen in eine konsolidierte Datenbank.
-
 ## 🚀 Herausforderungen & Learnings
 
 - **LLM Prompting:** Entwicklung extrem langer Prompts, um sicherzustellen, dass die KI keine Daten erfindet und den Output exakt im JSON-Format liefert.
