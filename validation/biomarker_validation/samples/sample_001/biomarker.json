@@ -1,0 +1,103 @@
+{
+  "standard_name": "Platelet-to-Lymphocyte Ratio (PLR)",
+  "source_entries": [
+    {
+      "original_name": "PLR (Platelet-to-Lymphocyte Ratio)",
+      "document_source_id": "39639055"
+    },
+    {
+      "original_name": "Platelet-lymphocyte ratio (PLR)",
+      "document_source_id": "32681124"
+    },
+    {
+      "original_name": "Platelet-to-lymphocyte ratio (PLR)",
+      "document_source_id": "39808679"
+    }
+  ],
+  "biomarker_summary": {
+    "overall_biomarker_summary": "Automatischer Platzhalter fuer Platelet-to-Lymphocyte Ratio (PLR): Gefunden in 3 Quellen. Manuelle Synthese erforderlich.",
+    "mechanisms_consensus": "Details zu den Mechanismen sind in den 'aggregated_source_findings_DEBUG' enthalten.",
+    "reliability_consensus": "Manuelle Aggregation der Zuverlaessigkeit ueber mehrere Studien noetig."
+  },
+  "metadata": {
+    "total_documents_contributed": 3,
+    "api_calls_for_synthesis": 0
+  },
+  "aggregated_source_findings_DEBUG": [
+    {
+      "original_name": "PLR (Platelet-to-Lymphocyte Ratio)",
+      "document_source_id": "39639055",
+      "document_context_data": {
+        "document_summary": "This study investigated changes in cellular immune inflammation markers (NLR, PLR, SII), various blood cell counts (leucocytes and their subsets, platelets), and physical fitness parameters (VO2max, YYIRL1 performance, sprint, jump tests) in elite male soccer players over a 12-week period, including both uncongested and congested match play phases. It found that a congested match play period significantly altered immune cell counts and inflammation markers, leading to increased leucocyte, neutrophil, eosinophil, basophil, and monocyte counts, and higher NLR, PLR, and SII, with concurrent decreases in lymphocyte counts and aerobic physical fitness. These immune inflammation markers were negatively correlated with physical fitness (YYIRL1 performance, VO2max) and positively correlated with workload parameters, suggesting their utility for monitoring training intensity, competitive load, and aerobic physical fitness, and for preventing overtraining.",
+        "treatment_details": {
+          "therapy_type": "Elite Soccer Training and Congested Match Play",
+          "dose_specificity": "Fifteen elite male soccer players were monitored for 12 weeks, comprising a 6-week uncongested match play period (30 training sessions, 45 hours training volume, 6 matches with 350±53.5 minutes average playing time) followed by a 6-week congested match play period (24 training sessions, 36 hours training volume, 10 matches with 629.6±133.9 minutes average playing time). Players typically trained five times per week and played one match per week, with the congested period exposing them to up to eight matches per month. Physical fitness tests (Squat Jump, Countermovement Jump, 20-meter sprint, Yo-Yo intermittent recovery test level 1) and blood samples were taken at T1 (week 1), T2 (week 7), and T3 (week 13). Workload parameters (Global load, Training load, Competitive load, Training volume, Session-Rating of Perceived Exertion) were recorded and compared. The congested period showed significantly increased total and competitive loads and decreased training load, training volume, and Session-RPE compared to the uncongested period. No explicit dose-response comparisons for varying levels of congestion beyond the two defined periods were reported."
+        }
+      },
+      "matched_biomarker_details": [
+        {
+          "biomarker_name": "PLR (Platelet-to-Lymphocyte Ratio)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Ratio of Cell Counts",
+          "measured_effect": {
+            "direction_of_change": "higher (during congested period), unchanged (during uncongested period)",
+            "magnitude_quantification": "Greater at T3 (congested period) compared to T2 and T1 (0.001 < p < 0.015, -1.01 < ES < -0.21); resting values were unchanged after the 6-week uncongested period. Negatively correlated with YYIRL1 performance (r = -0.44; p = 0.015) and VO2max (r = -0.44; p = 0.015) after the congested period. Small negative correlation with VO2max and YYIRL1 performance (r = -0.38; p = 0.03) within-subject. Not associated with workload parameters or other physical fitness measures (20-meter sprint, SJ, and CMJ)."
+          },
+          "core_biological_function": "An integrative immune cellular marker reflecting systemic inflammation, considering leucocyte subsets and platelet counts, with platelets exhibiting pro-inflammatory properties.",
+          "relevant_activity_context": "Congested (T3) and uncongested match play periods in elite soccer players.",
+          "performance_or_health_indicator": "Increased values indicate inflammatory processes and exercise-induced strain that could negatively impact physical fitness. Useful for monitoring training, preventing overtraining, and monitoring aerobic physical fitness. Unchanged levels with improved performance indicate effective training."
+        }
+      ]
+    },
+    {
+      "original_name": "Platelet-lymphocyte ratio (PLR)",
+      "document_source_id": "32681124",
+      "document_context_data": {
+        "document_summary": "The study investigated the test-retest reliability and suitability of various subjective, muscle force, and blood-based physiological markers (including oxidative stress markers, hormones, cytokines, and haematological parameters) for monitoring exercise response and recovery processes in endurance athletes after strenuous endurance exercise bouts, concluding that TBARS and IL-1RA exhibited the best reliability and suitability.",
+        "treatment_details": {
+          "therapy_type": "Continuous Endurance Running Field Tests (RFTs)",
+          "dose_specificity": "Two identical 60-minute continuous endurance running field tests (RFTs) were performed, separated by a four-week recovery period. The exercise protocol involved 40 minutes of running at an intensity corresponding to 95% of Heart Rate (HR) at Individual Anaerobic Threshold (IAT), followed by 20 minutes at 110% of HR at IAT to ensure exhaustion. Biomarkers were measured before, immediately after, 3 hours after, and 24 hours after each bout. No dose-response comparisons for varying exercise intensities or durations were reported, but reliability was compared between trained and untrained subgroups."
+        }
+      },
+      "matched_biomarker_details": [
+        {
+          "biomarker_name": "Platelet-lymphocyte ratio (PLR)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Ratio (Platelets-lymphocyte ratio); Level",
+          "measured_effect": {
+            "direction_of_change": "no significant changes",
+            "magnitude_quantification": "No significant changes over the measuring time points. Demonstrated moderate reliability (ICC values between 0.51 – 0.74)."
+          },
+          "core_biological_function": "An inflammatory marker derived from platelet and lymphocyte counts.",
+          "relevant_activity_context": "Endurance running field tests (RFTs) and subsequent recovery phases; haematological markers during physiological exercise response and recovery processes.",
+          "performance_or_health_indicator": "Not significantly responsive to exercise. Its moderate reliability, coupled with no significant changes, questions its suitability as a robust biomarker for exercise response."
+        }
+      ]
+    },
+    {
+      "original_name": "Platelet-to-lymphocyte ratio (PLR)",
+      "document_source_id": "39808679",
+      "document_context_data": {
+        "document_summary": "This study investigated the effects of 6-week daily curcumin supplementation (2g/day) on inflammatory markers (CRP, IL-6, TNF-α, IL-1β), blood count, and brain-derived neurotropic factor (BDNF) levels in middle-aged amateur long-distance runners. Overall, curcumin supplementation did not significantly affect CRP, IL-6, TNF-α, or blood count. However, IL-1β levels unexpectedly increased in the curcumin group, while BDNF levels showed a notable 21% increase in the curcumin group, contrasting a 5% decrease in the placebo group.",
+        "treatment_details": {
+          "therapy_type": "Curcumin supplementation alongside regular endurance training and an incremental treadmill running test.",
+          "dose_specificity": "6-week daily supplementation of 2g curcumin extract. Each dose consisted of two capsules (500mg turmeric extract standardized to 95% curcumin, 10mg black pepper extract standardized to 95% piperine per capsule) taken twice daily. No dose-response comparisons were reported, but effects were compared between curcumin and placebo groups during specific exercise trials and recovery periods."
+        }
+      },
+      "matched_biomarker_details": [
+        {
+          "biomarker_name": "Platelet-to-lymphocyte ratio (PLR)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Ratio",
+          "measured_effect": {
+            "direction_of_change": "Varied significant changes across time points within both groups; significantly lower in PLA group at rest in second trial; significantly lower in CUR group compared to PLA at 1 hour post-test in both trials.",
+            "magnitude_quantification": "Statistically significant differences were observed between the respective measurements at rest, at 3 minutes post-test, and 1 hour post-test during both first and second trials for both CUR and PLA groups, which demonstrated a moderate effect size. In the PLA group, a significantly lower PLR (Z = 2.44, p = 0.015, r = 0.63) was observed in the second trial at rest compared to the first trial. The CUR group exhibited a significantly lower PLR during the first trial (Z = 2.28, p = 0.023, r = 0.59, large effect size) and the second trial (t = 2.17, p = 0.038, dc = 0.56, medium effect size) at 1 hour post-test, compared to PLA. The study results do not clearly support the use of PLR as a reliable marker for diagnosing exercise-induced inflammation."
+          },
+          "core_biological_function": "Assesses systemic inflammation.",
+          "relevant_activity_context": "Amateur middle-aged long-distance runners during preparatory training period, at rest, 3 minutes post-test, and 1 hour post-test, in response to intense exercise and exercise-induced inflammation.",
+          "performance_or_health_indicator": "Can be used to assess systemic inflammation, associated with various diseases, and potentially beneficial for monitoring the health status of athletes. Curcumin supplementation resulted in a significantly lower PLR compared to placebo at 1-hour post-exercise. However, the study results did not clearly support its overall use as a reliable marker for diagnosing exercise-induced inflammation."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "standard_name": "Protein Carbonyls",
+  "source_entries": [
+    {
+      "original_name": "Protein Carbonyl (PC)",
+      "document_source_id": "34126996"
+    },
+    {
+      "original_name": "Protein Carbonyls",
+      "document_source_id": "24864189"
+    },
+    {
+      "original_name": "Protein Carbonyls (PCs)",
+      "document_source_id": "31906239"
+    },
+    {
+      "original_name": "Protein carbonyls",
+      "document_source_id": "37603200"
+    }
+  ],
+  "biomarker_summary": {
+    "overall_biomarker_summary": "Automatischer Platzhalter fuer Protein Carbonyls: Gefunden in 4 Quellen. Manuelle Synthese erforderlich.",
+    "mechanisms_consensus": "Details zu den Mechanismen sind in den 'aggregated_source_findings_DEBUG' enthalten.",
+    "reliability_consensus": "Manuelle Aggregation der Zuverlaessigkeit ueber mehrere Studien noetig."
+  },
+  "metadata": {
+    "total_documents_contributed": 4,
+    "api_calls_for_synthesis": 0
+  },
+  "aggregated_source_findings_DEBUG": [
+    {
+      "original_name": "Protein Carbonyl (PC)",
+      "document_source_id": "34126996",
+      "document_context_data": {
+        "document_summary": "This study investigated the effects of broad-spectrum polyphenol supplementation from powdered tart cherry extract on markers of recovery, oxidative stress, and muscle damage following intense resistance exercise in men. It concluded that tart cherry extract significantly reduced oxidative stress (protein carbonyls), skeletal muscle damage (creatine kinase), and cardiac/type I muscle fiber damage (creatine kinase MB), while also preventing a decrease in handgrip strength compared to placebo.",
+        "treatment_details": {
+          "therapy_type": "Broad-spectrum polyphenol supplementation using powdered tart cherry extract combined with an acute resistance exercise protocol (AREP).",
+          "dose_specificity": "Participants received 500 mg of powdered NordicCherry® tart cherry extract (with minimal calorie content, 1.3 kcal) daily for 7 days prior to an Acute Resistance Exercise Protocol (AREP), compared to a rice flour placebo. The AREP involved 6 sets of 10 repetitions of barbell back squat at 80% of 1-repetition maximum, with load reduction to 75% 1RM if 10 repetitions were not completed in a set. No dose-response comparisons for the supplement or exercise intensity were reported."
+        }
+      },
+      "matched_biomarker_details": [
+        {
+          "biomarker_name": "Protein Carbonyl (PC)",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Significantly lower in Tart Cherry (TC) group compared to Placebo (PL) group across time points: Immediate Post (IP) (PL: 0.4 \t 0.3 vs. TC: -0.4 \t 0.2 nmol\tmg\t-1; p < 0.001), 1 h (PL: 0.3 \t 0.3 vs. TC: -0.7 \t 0.3 nmol\tmg\t-1; p < 0.001), and 24 h (PL: 0.1 \t 0.4 vs. TC: -0.3 \t 0.5 nmol\tmg\t-1; p = 0.010). This represented a statistically significant main effect for supplement (p = 0.019) and supplement*time interaction (p < 0.001), effectively nullifying the increase seen in the placebo group."
+          },
+          "core_biological_function": "Indicator of oxidative stress and damage to proteins.",
+          "relevant_activity_context": "Following an Acute Resistance Exercise Protocol (AREP) (6 sets of 10 repetitions of barbell back squat at 80% 1RM) after a 7-day supplementation period with tart cherry extract.",
+          "performance_or_health_indicator": "Indicates reduced oxidative stress and potentially less cellular damage, suggesting a protective effect of tart cherry supplementation against exercise-induced oxidative stress."
+        }
+      ]
+    },
+    {
+      "original_name": "Protein Carbonyls",
+      "document_source_id": "24864189",
+      "document_context_data": {
+        "document_summary": "This study primarily investigated the effects of physical exercise combined with whole-body cryotherapy (WBC) on oxidant/antioxidant balance and other physiological parameters in 16 high-level kayakers. It found an initial decrease and subsequent recovery in GPx activity, decreased TBARS, and variable urea levels, with no significant changes in MDA, CD, protein carbonyls, vitamin E, cortisol, testosterone, total antioxidant capacity (TAC), or hematological parameters. The document also reviews findings from other studies, indicating that WBC generally increases overall antioxidant capacity, helps normalize oxidant/antioxidant balance during intensive exercise, and exhibits anti-inflammatory effects, potentially enhancing recovery and performance during training.",
+        "treatment_details": {
+          "therapy_type": "Physical Exercise Combined with Whole-Body Cryotherapy (WBC)",
+          "dose_specificity": "In the primary study, 16 kayakers underwent specialized physical training twice daily for 19 days. For the first 10 days, this was combined with Whole-Body Cryotherapy (WBC) sessions administered twice daily (morning pre-exercise stimulation and afternoon post-exercise recovery). Each WBC session lasted 3 minutes (excluding a 30-second adaptive vestibule at -60°C) with chamber temperatures gradually decreasing from -120°C to -145°C. The document also refers to other studies using varying WBC protocols, including 10 sessions at -130°C for 3 minutes (once daily), 5 sessions/week at -110°C for 2 minutes, and single sessions at -130°C for 2 or 3 minutes, either with or without exercise."
+        }
+      },
+      "matched_biomarker_details": [
+        {
+          "biomarker_name": "Protein Carbonyls",
+          "measured_tissue_or_fluid": "Blood Serum",
+          "activity_type": "Concentration",
+          "measured_effect": {
+            "direction_of_change": "unchanged",
+            "magnitude_quantification": "No statistically significant changes (P > 0.05) were found throughout the experiment."
+          },
+          "core_biological_function": "Marker of protein oxidative damage.",
+          "relevant_activity_context": "During a training cycle involving combined physical exercise and WBC, followed by exercise-only in kayakers.",
+          "performance_or_health_indicator": "No significant change observed, indicating no statistically significant protein oxidative damage under the study conditions."
+        }
+      ]
+    },
+    {
+      "original_name": "Protein Carbonyls (PCs)",
+      "document_source_id": "31906239",
+      "document_context_data": {
+        "document_summary": "This study investigated the effects of consuming cow's milk versus an energy-matched carbohydrate solution on recovery markers and performance in twenty female team-sport athletes following repeated simulated team games (STGs). The findings indicated that 500 mL of milk consumption attenuated losses in muscle function (peak torque for knee extension and flexion), sprint performance (5m and 10m), and perceptions of stress, and helped reduce muscle soreness and tiredness, particularly after the first STG. However, for many other physiological and performance markers (e.g., CK, hsCRP, LOOHs, PCs, CMJ, HR, RPE), the effects were mostly unclear or trivial, with milk showing no clear benefit after the second STG.",
+        "treatment_details": {
+          "therapy_type": "Nutritional intervention (consumption of cow's milk vs. an energy-matched carbohydrate solution) combined with a multi-stage physical activity protocol.",
+          "dose_specificity": "Participants consumed 500 mL of either cow's milk (910 kJ/215 kcal, 17.0 g protein, 25.5 g carbohydrate, 5.0 g fat) or an energy-matched carbohydrate solution (910 kJ/215 kcal, 0.2 g protein, 53.6 g carbohydrate, 0.0 g fat) immediately following each of two simulated team games (STG1 and STG2). The 17 g protein from milk was noted to be below the recommended 20 g threshold for maximal protein synthesis stimulation. The exercise protocol involved two ~30 minute halves of intermittent running with sprints, agility, and jumps, separated by a 10-minute half-time, with a 48-hour recovery period between STG1 and STG2. No explicit dose-response comparisons were reported for the nutritional interventions."
+        }
+      },
+      "matched_biomarker_details": [
+        {
+          "biomarker_name": "Protein Carbonyls (PCs)",
+          "measured_tissue_or_fluid": "Serum",
+          "activity_type": "Protein Modification/Level (marker of oxidative stress)",
+          "measured_effect": {
+            "direction_of_change": "unchanged/unclear",
+            "magnitude_quantification": "Minimal effects post-STG1. Baseline values: MILK: 0.34 \b\r\n\t± 0.33 nmol/mg protein, CHO: 0.27 \b\r\n\t± 0.06 nmol/mg protein. No clear between-group effects (MILK vs CHO) at any timepoint; overall outcomes were unclear. PCs were not impacted by STG2. No evidence that milk attenuated oxidative stress."
+          },
+          "core_biological_function": "Markers of oxidative damage to proteins, formed when proteins are exposed to reactive oxygen species.",
+          "relevant_activity_context": "Recovery following activity comparing Milk vs. CHO supplementation (STG1 and STG2).",
+          "performance_or_health_indicator": "Indicates the level of oxidative stress and protein degradation, relevant for assessing cellular damage and recovery status following strenuous exercise."
+        }
+      ]
+    },
+    {
+      "original_name": "Protein carbonyls",
+      "document_source_id": "37603200",
+      "document_context_data": {
+        "document_summary": "This systematic review evaluates the effects of soy protein (SP) supplementation on muscle adaptations, metabolic and antioxidant status, hormonal response, and exercise performance in active individuals and athletes, often comparing it to whey protein or placebo. The review encompasses studies on protein synthesis, amino acid transport, and signaling pathways, highlighting that while some anabolic markers might be less favorable with soy, it can provide similar increases in lean mass to whey protein, especially at optimal protein intakes. SP is shown to reduce exercise-induced metabolic/blood circulating biomarkers (triglycerides, uric acid, lactate) and improve antioxidant capacity, reducing oxidative stress and lipid peroxidation. However, its effects on hormonal responses, such as testosterone and cortisol, are inconsistent or contradictory across studies. SP supplementation also demonstrates potential benefits in improving various exercise performance indicators, including high-intensity running, maximal cardiac output, delaying fatigue, improving isometric strength, running velocity, and muscle recovery after damage. The review concludes that SP can be a viable alternative to conventional protein supplements, but emphasizes the need for further research addressing methodological limitations and consistent dosing.",
+        "treatment_details": {
+          "therapy_type": "Soy Protein and Soy Peptide Supplementation",
+          "dose_specificity": "The review encompassed a wide range of soy protein (SP) and soy peptide supplementation protocols, from acute doses (e.g., 15-20g SP, 18g SP beverage, 10g essential amino acids from soy) to chronic daily intakes varying from 0.5 g/kg BW/day to 90 g/day (e.g., 33-40 g/day, 1 g/kg BW/day, 53.3 g/day). Doses were often combined with carbohydrates (e.g., 10g soy peptide + 30g sugar, 15g SP + 52.5g CHO) or matched for nitrogen/leucine content for comparison with whey protein. Durations ranged from single acute sessions to long-term interventions of 2 weeks, 4 weeks, 6 weeks, 9 weeks, 4 months, or even \"12 weeks. Comparisons were consistently made against whey protein, soy-dairy blends, isoenergetic placebos, or control (exercise-only) groups. While some studies aimed for optimal protein intakes (\"\f 1.6 g/kg BW/day), there was a notable lack of consistent dosing or explicit dose-response comparisons across the reviewed literature, indicating significant variability in intervention designs."
+        }
+      },
+      "matched_biomarker_details": [
+        {
+          "biomarker_name": "Protein carbonyls",
+          "measured_tissue_or_fluid": "Plasma",
+          "activity_type": "Level (indicator of oxidative stress)",
+          "measured_effect": {
+            "direction_of_change": "lower/recovered faster",
+            "magnitude_quantification": "Tended to be recovered faster with SP supplementation rather than with whey protein or isoenergetic placebo 48 h after speed-endurance exercise. Lower in the soy group (p < 0.004) and tended to be lower in the whey protein group (p < 0.061) compared with the placebo group after speed endurance training."
+          },
+          "core_biological_function": "Markers of oxidative stress and protein damage.",
+          "relevant_activity_context": "48 h after speed-endurance exercise; acute study after speed endurance training comparing whey vs soy protein vs placebo.",
+          "performance_or_health_indicator": "Indicates a faster recovery from oxidative stress and reduced protein oxidative damage, suggesting protective effects of soy and potentially whey protein."
+        }
+      ]
+    }
+  ]
+}

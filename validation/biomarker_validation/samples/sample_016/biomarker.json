@@ -1,0 +1,45 @@
+{
+  "standard_name": "Isometric Muscle Strength",
+  "source_entries": [
+    {
+      "original_name": "Isometric Muscle Strength",
+      "document_source_id": "37603200"
+    }
+  ],
+  "biomarker_summary": {
+    "overall_biomarker_summary": "Manuelle Synthese: Isometric Muscle Strength wurde in 37603200 gefunden. Die tatsächliche Zusammenfassung muss manuell hinzugefügt werden.",
+    "mechanisms_consensus": "Manuelle Synthese: Hier wuerde die konsolidierte Mechanismus-Zusammenfassung stehen.",
+    "reliability_consensus": "Manuelle Synthese: Hier wuerde die konsolidierte Zuverlaessigkeits-Zusammenfassung stehen."
+  },
+  "metadata": {
+    "total_documents_contributed": 1,
+    "api_calls_for_synthesis": 0
+  },
+  "aggregated_source_findings_DEBUG": [
+    {
+      "original_name": "Isometric Muscle Strength",
+      "document_source_id": "37603200",
+      "document_context_data": {
+        "document_summary": "This systematic review evaluates the effects of soy protein (SP) supplementation on muscle adaptations, metabolic and antioxidant status, hormonal response, and exercise performance in active individuals and athletes, often comparing it to whey protein or placebo. The review encompasses studies on protein synthesis, amino acid transport, and signaling pathways, highlighting that while some anabolic markers might be less favorable with soy, it can provide similar increases in lean mass to whey protein, especially at optimal protein intakes. SP is shown to reduce exercise-induced metabolic/blood circulating biomarkers (triglycerides, uric acid, lactate) and improve antioxidant capacity, reducing oxidative stress and lipid peroxidation. However, its effects on hormonal responses, such as testosterone and cortisol, are inconsistent or contradictory across studies. SP supplementation also demonstrates potential benefits in improving various exercise performance indicators, including high-intensity running, maximal cardiac output, delaying fatigue, improving isometric strength, running velocity, and muscle recovery after damage. The review concludes that SP can be a viable alternative to conventional protein supplements, but emphasizes the need for further research addressing methodological limitations and consistent dosing.",
+        "treatment_details": {
+          "therapy_type": "Soy Protein and Soy Peptide Supplementation",
+          "dose_specificity": "The review encompassed a wide range of soy protein (SP) and soy peptide supplementation protocols, from acute doses (e.g., 15-20g SP, 18g SP beverage, 10g essential amino acids from soy) to chronic daily intakes varying from 0.5 g/kg BW/day to 90 g/day (e.g., 33-40 g/day, 1 g/kg BW/day, 53.3 g/day). Doses were often combined with carbohydrates (e.g., 10g soy peptide + 30g sugar, 15g SP + 52.5g CHO) or matched for nitrogen/leucine content for comparison with whey protein. Durations ranged from single acute sessions to long-term interventions of 2 weeks, 4 weeks, 6 weeks, 9 weeks, 4 months, or even \"12 weeks. Comparisons were consistently made against whey protein, soy-dairy blends, isoenergetic placebos, or control (exercise-only) groups. While some studies aimed for optimal protein intakes (\"\f 1.6 g/kg BW/day), there was a notable lack of consistent dosing or explicit dose-response comparisons across the reviewed literature, indicating significant variability in intervention designs."
+        }
+      },
+      "matched_biomarker_details": [
+        {
+          "biomarker_name": "Isometric Muscle Strength",
+          "measured_tissue_or_fluid": "N/A (performance outcome)",
+          "activity_type": "Strength Measurement",
+          "measured_effect": {
+            "direction_of_change": "improved",
+            "magnitude_quantification": "Improved."
+          },
+          "core_biological_function": "The ability of a muscle to generate force without changing its length.",
+          "relevant_activity_context": "Trained boxers (after 4-6 weeks of 42.2 g SP/day supplementation) after EIMD (Exercise-Induced Muscle Damage) exercise; general soy protein supplementation.",
+          "performance_or_health_indicator": "Enhanced muscle function and recovery following muscle damage."
+        }
+      ]
+    }
+  ]
+}

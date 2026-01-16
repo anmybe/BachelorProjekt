@@ -1,0 +1,45 @@
+{
+  "standard_name": "Vascular Endothelial Growth Factor Receptor 1",
+  "source_entries": [
+    {
+      "original_name": "Vascular endothelial growth factor receptor 1 (FLT1)",
+      "document_source_id": "37343698"
+    }
+  ],
+  "biomarker_summary": {
+    "overall_biomarker_summary": "Manuelle Synthese: Vascular Endothelial Growth Factor Receptor 1 wurde in 37343698 gefunden. Die tatsächliche Zusammenfassung muss manuell hinzugefügt werden.",
+    "mechanisms_consensus": "Manuelle Synthese: Hier wuerde die konsolidierte Mechanismus-Zusammenfassung stehen.",
+    "reliability_consensus": "Manuelle Synthese: Hier wuerde die konsolidierte Zuverlaessigkeits-Zusammenfassung stehen."
+  },
+  "metadata": {
+    "total_documents_contributed": 1,
+    "api_calls_for_synthesis": 0
+  },
+  "aggregated_source_findings_DEBUG": [
+    {
+      "original_name": "Vascular endothelial growth factor receptor 1 (FLT1)",
+      "document_source_id": "37343698",
+      "document_context_data": {
+        "document_summary": "This study investigated large-scale plasma proteomic changes in 75 middle-aged adults during acute treadmill exercise and up to 1-hour post-exercise, identifying 765 proteins changed at peak and 128 at 1-hour post-exercise. It further characterized 56 proteins with sustained changes, linking them to cardiometabolic traits and responses to a 20-week aerobic exercise training program. The research aimed to biochemically characterize acute exercise protein kinetics, finding enrichment for coagulation-related proteins post-exercise and MYC targets, and noting both concordant and discordant protein responses between acute and chronic exercise.",
+        "treatment_details": {
+          "therapy_type": "Acute treadmill exercise and chronic aerobic exercise training.",
+          "dose_specificity": "Acute exercise consisted of symptom-limited treadmill stress testing in 75 middle-aged adults, following a standard Bruce protocol with plasma protein quantification at baseline, peak exercise (mean 90% predicted peak heart rate, 9.6 METs), and 1-hour post-exercise. Chronic exercise involved a 20-week aerobic training program with three sessions per week, with intensity and duration gradually increased based on individual VO2max. Acute exercise intensity and duration varied, making it difficult to effectively analyze specific exertion thresholds or dose-response comparisons for the acute protocol."
+        }
+      },
+      "matched_biomarker_details": [
+        {
+          "biomarker_name": "Vascular endothelial growth factor receptor 1 (FLT1)",
+          "measured_tissue_or_fluid": "Plasma / Circulating blood proteins",
+          "activity_type": "Protein Level",
+          "measured_effect": {
+            "direction_of_change": "Higher / Altered",
+            "magnitude_quantification": "Higher abundance with higher METs achieved at peak acute exercise (unadjusted p-value <0.05); altered response also noted, but numerical magnitude not specified for overall altered state."
+          },
+          "core_biological_function": "Not explicitly detailed, but recognized as an exercise-responsive protein.",
+          "relevant_activity_context": "Peak acute exercise, correlating with higher metabolic equivalents (METs) achieved.",
+          "performance_or_health_indicator": "Associated with higher exercise capacity and identified as a novel exercise-responsive protein."
+        }
+      ]
+    }
+  ]
+}

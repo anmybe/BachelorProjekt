@@ -1,4 +1,4 @@
-import paperLinks from '../paper_id_links.json';
+import paperLinks from '../paper_id_links_correct_path.json';
 
 export const loadPapers = () => {
     const modules = import.meta.glob('../paper_summary/*.json', { eager: true });

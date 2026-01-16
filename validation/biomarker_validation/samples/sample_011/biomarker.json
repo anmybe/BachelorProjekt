@@ -1,0 +1,45 @@
+{
+  "standard_name": "Individual OFF-hour Score",
+  "source_entries": [
+    {
+      "original_name": "Individual OFF-hr Score (OFFS)",
+      "document_source_id": "34574458"
+    }
+  ],
+  "biomarker_summary": {
+    "overall_biomarker_summary": "Manuelle Synthese: Individual OFF-hour Score wurde in 34574458 gefunden. Die tatsächliche Zusammenfassung muss manuell hinzugefügt werden.",
+    "mechanisms_consensus": "Manuelle Synthese: Hier wuerde die konsolidierte Mechanismus-Zusammenfassung stehen.",
+    "reliability_consensus": "Manuelle Synthese: Hier wuerde die konsolidierte Zuverlaessigkeits-Zusammenfassung stehen."
+  },
+  "metadata": {
+    "total_documents_contributed": 1,
+    "api_calls_for_synthesis": 0
+  },
+  "aggregated_source_findings_DEBUG": [
+    {
+      "original_name": "Individual OFF-hr Score (OFFS)",
+      "document_source_id": "34574458",
+      "document_context_data": {
+        "document_summary": "The study investigated the impact of Chinese herbal medicine (CHM) administration on Athlete Biological Passport (ABP) haematological variables in healthy volunteers. It found that specific CHMs (Angelicae Sinensis Radix, Astragali Radix, and Salviae Miltiorrhizae Radix et Rhizoma) significantly increased reticulocyte percentage (RET%) and decreased the OFF-hr Score (OFFS), suggesting an effect on erythropoiesis that could influence anti-doping profiles.",
+        "treatment_details": {
+          "therapy_type": "Chinese herbal medicine (CHM) administration",
+          "dose_specificity": "Forty-eight healthy volunteers were orally administered one of six selected Chinese herbal medicine (CHM) products for two weeks (from day 9 to day 22). The products included five single herbs (Angelicae Sinensis Radix (ASR), Astragali Radix (AR), Salviae Miltiorrhizae Radix et Rhizoma (SMR), Asini Corii Colla (ACC), Spatholobi Caulis (SC)) at 3.6 g/day, and one formula (Gui-Pi-Tang (GPT)) at 20 g/day, divided twice daily. Eight subjects were in each group. Significant effects on reticulocyte percentage and OFF-hr Score were observed with ASR, AR, and SMR, which sustained for a period after withdrawal, whereas ACC, SC, and GPT showed no significant effects. No dose-response comparisons were reported for individual CHMs."
+        }
+      },
+      "matched_biomarker_details": [
+        {
+          "biomarker_name": "Individual OFF-hr Score (OFFS)",
+          "measured_tissue_or_fluid": "Venous blood",
+          "activity_type": "Calculated haematological variable/score from Haemoglobin (Hb) and Reticulocyte percentage (RET%)",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Significantly decreased during intervention and sustained for a period after withdrawal. ASR group: decreased from 98.8 (day 1) to 68.1 (day 22, p=0.028), 59.2 (day 29, p=0.002), and 68.5 (day 36, p=0.031). AR group: declined from 95.6 (day 1) to 68.4 (day 22, p=0.051) and 61.1 (day 29, p=0.006). SMR group: decreased from 96.3 (day 1) to 65.3 (day 22, p=0.044), 61.7 (day 29, p=0.017), and 59.3 (day 36, p=0.009)."
+          },
+          "core_biological_function": "A component of the Athlete Biological Passport (ABP) Haematological Module, designed to detect erythropoiesis-stimulating agents or blood doping by integrating Haemoglobin (Hb) and Reticulocyte percentage (RET%) changes.",
+          "relevant_activity_context": "Oral administration of Angelicae Sinensis Radix (ASR), Astragali Radix (AR), and Salviae Miltiorrhizae Radix et Rhizoma (SMR) Chinese herbal medicines over a 2-week period in healthy volunteers.",
+          "performance_or_health_indicator": "Sensitive for detecting erythropoietin misuse and blood doping. A decrease in OFFS, especially when associated with increased RET%, suggests enhanced erythropoiesis and can lead to an Atypical Passport Finding (ATPF) within the ABP system."
+        }
+      ]
+    }
+  ]
+}

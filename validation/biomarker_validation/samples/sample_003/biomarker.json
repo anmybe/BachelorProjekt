@@ -1,0 +1,45 @@
+{
+  "standard_name": "CD16 Bright CD62L Bright Neutrophils",
+  "source_entries": [
+    {
+      "original_name": "CD16 bright /CD62L bright neutrophils",
+      "document_source_id": "32893357"
+    }
+  ],
+  "biomarker_summary": {
+    "overall_biomarker_summary": "Manuelle Synthese: CD16 Bright CD62L Bright Neutrophils wurde in 32893357 gefunden. Die tatsächliche Zusammenfassung muss manuell hinzugefügt werden.",
+    "mechanisms_consensus": "Manuelle Synthese: Hier wuerde die konsolidierte Mechanismus-Zusammenfassung stehen.",
+    "reliability_consensus": "Manuelle Synthese: Hier wuerde die konsolidierte Zuverlaessigkeits-Zusammenfassung stehen."
+  },
+  "metadata": {
+    "total_documents_contributed": 1,
+    "api_calls_for_synthesis": 0
+  },
+  "aggregated_source_findings_DEBUG": [
+    {
+      "original_name": "CD16 bright /CD62L bright neutrophils",
+      "document_source_id": "32893357",
+      "document_context_data": {
+        "document_summary": "The study investigated the systemic innate immune response, specifically focusing on neutrophil phenotypes, as biomarkers to monitor exercise-induced immune changes during repetitive, prolonged walking over consecutive days (e.g., Nijmegen 4 Day Marches). It found that prolonged exercise leads to an initial systemic innate immune response, characterized by the mobilization and activation of various neutrophil phenotypes, followed by adaptation or partial normalization in subsequent days. Crucially, increased neutrophil activation, marked by high CD11b expression, was consistently associated with impaired physical feeling, slower walking speed, and a higher degree of physiological stress, suggesting its potential as a valuable marker for monitoring immune system changes and detecting overtraining.",
+        "treatment_details": {
+          "therapy_type": "Repetitive prolonged walking exercise",
+          "dose_specificity": "Participants engaged in prolonged walking over 3 consecutive days as part of a public walking event (e.g., Nijmegen 4 Day Marches), covering 30, 40, or 50 km/day at a self-selected pace. Exercise intensity on day 1 averaged 65% of maximum heart rate. While the study involved varying distances, no explicit dose-response comparisons for immune markers were reported between different daily distances. However, increased neutrophil activation (high CD11b expression) was associated with slower walking speeds (approx. 4.1-4.2 km/h across days) and predominantly occurred in participants walking 30 km (66% of this group)."
+        }
+      },
+      "matched_biomarker_details": [
+        {
+          "biomarker_name": "CD16 bright /CD62L bright neutrophils",
+          "measured_tissue_or_fluid": "Peripheral Blood",
+          "activity_type": "Absolute Cell Count",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Decreased significantly from 4.58 (3.33–5.70) × 10^6 /ml at day 1 to 3.12 (2.41–4.57) × 10^6 /ml (P < 0.0001) after day 2 of prolonged walking."
+          },
+          "core_biological_function": "A specific phenotype of neutrophils, contributing to the total neutrophil count and involved in immune response and inflammation.",
+          "relevant_activity_context": "During repetitive, prolonged moderate walking exercise (e.g., Nijmegen 4 Day Marches), particularly observed after day 2.",
+          "performance_or_health_indicator": "Indicates a shift in neutrophil populations during sustained exercise, with its decrease being the main reason for the overall decrease in total neutrophil count, suggesting a dynamic immune response."
+        }
+      ]
+    }
+  ]
+}

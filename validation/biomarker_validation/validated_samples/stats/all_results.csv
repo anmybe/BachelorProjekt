@@ -1,0 +1,19 @@
+biomarker,factual_accuracy_score,coverage_score,hallucination_score,direction_accuracy_score,group_validity_score,relevance_score_validity,context_accuracy_score,sport_implication_score,overall_alignment,source_file
+Protein Carbonyls,9,9,10,9,10,8,9,8,good,sample13.json
+CD16 Bright CD62L Bright Neutrophils,9,9,9,10,9,8,10,7,good,sample3.json
+Individual OFF-hour Score,9,8,10,10,7,6,9,7,good,sample11.json
+Estrone,9,9,10,10,9,8,9,8,good,sample10.json
+Vascular Endothelial Growth Factor Receptor 1 (FLT1),8,6,7,9,6,7,8,5,acceptable,sample9.json
+Hematocrit,9,9,10,9,8,8,9,8,excellent,sample8.json
+C-X-C Motif Chemokine Ligand 6,9,8,10,10,9,8,9,8,good,sample2.json
+Early Quadriceps Relaxation Time,9,8,10,10,6,7,9,6,good,sample17.json
+MRPL39,9,8,9,10,9,8,9,7,good,sample6.json
+Isometric Muscle Strength,8,7,9,9,7,8,8,7,good,sample16.json
+Dopamine,6,5,6,7,7,5,8,4,acceptable,sample12.json
+Cartilage Oligomeric Matrix Protein,9,9,10,10,9,8,9,8,good,sample15.json
+Whole Blood Viscosity (High-Shear Rate / Systolic),9,8,9,10,9,8,9,7,good,sample7.json
+EPB41 (Erythrocyte Membrane Protein Band 4.1),9,9,10,10,8,9,10,8,good,sample14.json
+P100 Torque,9,8,9,10,9,8,9,7,good,sample18.json
+Muscle DNA Methylation,7,6,8,9,7,7,8,6,good,sample5.json
+Platelet-to-Lymphocyte Ratio (PLR),9,9,10,9,9,8,9,8,excellent,sample1.json
+MRPS11,9,8,9,10,7,8,9,6,good,sample4.json

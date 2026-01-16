@@ -1,0 +1,45 @@
+{
+  "standard_name": "Whole Blood Viscosity (High-Shear Rate / Systolic)",
+  "source_entries": [
+    {
+      "original_name": "Whole Blood Viscosity (high-shear rate / systolic)",
+      "document_source_id": "27932937"
+    }
+  ],
+  "biomarker_summary": {
+    "overall_biomarker_summary": "Manuelle Synthese: Whole Blood Viscosity (High-Shear Rate / Systolic) wurde in 27932937 gefunden. Die tatsächliche Zusammenfassung muss manuell hinzugefügt werden.",
+    "mechanisms_consensus": "Manuelle Synthese: Hier wuerde die konsolidierte Mechanismus-Zusammenfassung stehen.",
+    "reliability_consensus": "Manuelle Synthese: Hier wuerde die konsolidierte Zuverlaessigkeits-Zusammenfassung stehen."
+  },
+  "metadata": {
+    "total_documents_contributed": 1,
+    "api_calls_for_synthesis": 0
+  },
+  "aggregated_source_findings_DEBUG": [
+    {
+      "original_name": "Whole Blood Viscosity (high-shear rate / systolic)",
+      "document_source_id": "27932937",
+      "document_context_data": {
+        "document_summary": "This randomized, double-blind, parallel-arm controlled study investigated the comparative rehydration efficacy of electrolyzed high-pH alkaline water (ALK) versus standard purified water (CON) on various hydration biomarkers in healthy adults following moderate exercise-induced dehydration. The primary finding was that ALK water significantly reduced high-shear whole blood viscosity and enhanced its restoration to pre-exercise baseline levels compared to CON water, while other markers like plasma osmolality, bioimpedance, and body mass showed no significant difference.",
+        "treatment_details": {
+          "therapy_type": "Oral rehydration therapy after exercise-induced dehydration, comparing electrolyzed high-pH alkaline water (ALK) with standard purified water (CON).",
+          "dose_specificity": "Participants exercised in a warm environment (30 °C, 70% relative humidity) until a 2.0 ± 0.2% body weight loss was achieved due to perspiration (mild dehydration). Rehydration involved consuming either electrolyzed high-pH alkaline water (ALK) or standard purified water (CON), with an equal volume equivalent to 2% of pre-exercise body weight (approximately 20 mL/kg), administered within 30 minutes. This was followed by a 120-minute (2-hour) recovery period. No dose-response comparisons or variations in rehydration volume/rate were reported beyond the two water types."
+        }
+      },
+      "matched_biomarker_details": [
+        {
+          "biomarker_name": "Whole Blood Viscosity (high-shear rate / systolic)",
+          "measured_tissue_or_fluid": "Blood",
+          "activity_type": "Viscosity measurement",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "Reduced by an average of 6.30% with high-pH alkaline water (ALK) compared to 3.36% with standard purified water (CON) after rehydration and recovery (p = 0.03). ALK significantly reduced and restored high-shear blood viscosity during a 120-min rehydration period by 87.50% more than CON. Mean systolic viscosity levels for ALK subjects returned to pre-exercise baseline by 60 minutes, while CON did not return by 120 minutes. Mixed model analysis validated this significant treatment effect (p = 0.02 or p = 0.0213)."
+          },
+          "core_biological_function": "Indicates resistance to blood flow, critical for cardiovascular function, oxygen delivery, and reflects intravascular hydration status, influenced by hematocrit levels and red cell deformability.",
+          "relevant_activity_context": "Post exercise-induced dehydration during a 2-hour recovery period following rehydration with high-pH alkaline water compared to standard purified water.",
+          "performance_or_health_indicator": "Improved cardiovascular function and reduced cardiovascular strain; associated with better rehydration status, enhanced rehydration efficiency, and potentially improved physical performance."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "standard_name": "Muscle DNA Methylation",
+  "source_entries": [
+    {
+      "original_name": "Muscle DNA methylation",
+      "document_source_id": "39599728"
+    }
+  ],
+  "biomarker_summary": {
+    "overall_biomarker_summary": "Manuelle Synthese: Muscle DNA Methylation wurde in 39599728 gefunden. Die tatsächliche Zusammenfassung muss manuell hinzugefügt werden.",
+    "mechanisms_consensus": "Manuelle Synthese: Hier wuerde die konsolidierte Mechanismus-Zusammenfassung stehen.",
+    "reliability_consensus": "Manuelle Synthese: Hier wuerde die konsolidierte Zuverlaessigkeits-Zusammenfassung stehen."
+  },
+  "metadata": {
+    "total_documents_contributed": 1,
+    "api_calls_for_synthesis": 0
+  },
+  "aggregated_source_findings_DEBUG": [
+    {
+      "original_name": "Muscle DNA methylation",
+      "document_source_id": "39599728",
+      "document_context_data": {
+        "document_summary": "This scoping review systematically evaluates the application of systems biology-driven precision sports nutrition, incorporating 'omics' platforms (e.g., nutrigenetics, metabolomics, metagenomics, proteomics, epigenomics, lipidomics, multi-omics) and wearable technologies, particularly Continuous Glucose Monitoring (CGM), for endurance athletes. It maps existing literature, summarizes key findings, identifies research gaps, and investigates the impact of various nutritional interventions (e.g., polyphenols, astaxanthin, nitrates, carbohydrate-protein blends, probiotics) on immune function, inflammation, metabolism, gut microbiome composition, and glycemic responses during and after exercise. The review concludes that while these technologies offer insights into individual variability and physiological responses, current evidence is often insufficient to robustly link identified biomarkers to enhanced performance, recovery, and long-term health outcomes, noting methodological limitations.",
+        "treatment_details": {
+          "therapy_type": "This scoping review investigates precision sports nutrition strategies for endurance athletes, focusing on systems biology approaches (including various 'omics' platforms and wearable technologies like Continuous Glucose Monitoring) and a wide range of nutritional interventions. These interventions include specific foods (e.g., banana, blueberry, mango), supplements (e.g., soy protein, astaxanthin, beet-based nitrates, cranberry beverage, prebiotics, probiotics, cocoa flavanols), macronutrient manipulations (e.g., carbohydrate-protein blends, oligopeptides, specific protein amounts, dietary fat, low-carbohydrate high-fat diets, low/high FODMAP diets), and their interactions with diverse exercise regimens (e.g., cycling trials, marathons, ultra-endurance events, submaximal and prolonged exercise, exercise under heat stress).",
+          "dose_specificity": "This scoping review synthesizes findings from various studies on nutritional interventions, which include specific food consumptions (e.g., banana, mango) often compared against controls or other carbohydrate sources, and supplementations (e.g., astaxanthin, beet-based nitrates, cranberry beverage, specific probiotics) with durations ranging from acute intake to 2-week periods. It also examines the effects of different macronutrient strategies (e.g., low-carbohydrate high-fat diets, carbohydrate-protein blends) and genetic variations on caffeine metabolism. The review notes that while specific interventions are detailed, it generally reports on rather than conducts dose-response comparisons, highlighting that existing studies often compare interventions against controls. A key emphasis is on the need for tailored, individual-specific strategies, robust randomized controlled trials, and better reporting of training status, dose-response relationships, and demographic stratifications in future research, as current evidence often lacks detailed dose-response comparisons."
+        }
+      },
+      "matched_biomarker_details": [
+        {
+          "biomarker_name": "Muscle DNA methylation",
+          "measured_tissue_or_fluid": "Muscle",
+          "activity_type": "DNA Modification (Epigenomics)",
+          "measured_effect": {
+            "direction_of_change": "lower",
+            "magnitude_quantification": "significant hypomethylation in CpG islands"
+          },
+          "core_biological_function": "An epigenetic mechanism that regulates gene expression in muscle tissue",
+          "relevant_activity_context": "Dietary fat and exercise",
+          "performance_or_health_indicator": "Modulation indicates that diet and exercise can influence gene regulation in muscle, potentially impacting adaptation and function."
+        }
+      ]
+    }
+  ]
+}
